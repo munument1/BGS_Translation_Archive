@@ -1,0 +1,20 @@
+# Bethesda plugin binaries
+*.esp
+*.esm
+*.esl
+
+# Generated archives
+*.zip
+*.7z
+*.rar
+
+# Temporary files
+*.tmp
+*.bak
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# Local working directories
+work/
+tmp/
