@@ -1,9 +1,0 @@
-{
-  "game": "oblivion",
-  "plugin": "Oblivion.esm",
-  "language": "ko",
-  "archive_format": 1,
-  "description": "The Elder Scrolls IV: Oblivion translation archive data",
-  "source_text_included": false,
-  "notes": "SST/XML imports should be normalized into JSONL before becoming canonical archive data."
-}
