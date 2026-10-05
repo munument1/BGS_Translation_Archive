@@ -12,6 +12,37 @@
 - **JSONL**: 아카이브의 기준 번역 데이터 형식
 - **GitHub**: 변경 이력, 검수, 용어 통일 및 장기 보존
 
+## 게임별 구조
+
+게임은 저장소 최상위에서 분리합니다.
+
+```text
+BGS_Translation_Archive/
+├─ Morrowind/
+├─ Oblivion/
+│  ├─ BaseGame/
+│  │  └─ Oblivion.esm/
+│  ├─ DLC/
+│  └─ Mods/
+├─ Fallout3/
+├─ FalloutNewVegas/
+├─ Skyrim/
+├─ Fallout4/
+├─ Starfield/
+├─ dictionaries/
+├─ docs/
+├─ exports/
+└─ tools/
+```
+
+게임 폴더 내부는 기본적으로 다음 범주를 사용합니다.
+
+- `BaseGame/` — 본편
+- `DLC/` — 공식 DLC 및 공식 추가 콘텐츠
+- `Mods/` — 모드 번역 데이터
+
+실제 폴더는 데이터가 존재할 때 생성합니다.
+
 ## 저장 데이터
 
 가능한 경우 각 번역 항목은 다음 식별 정보를 함께 보관합니다.
@@ -30,14 +61,22 @@
 
 베데스다 원본 문자열 전체를 불필요하게 복제하지 않는 것을 기본 원칙으로 합니다. 원문 대조가 필요할 때는 식별자와 해시를 우선 사용합니다.
 
-## 디렉터리
+## SST와 아카이브의 관계
 
 ```text
-games/          게임별 번역 데이터
-dictionaries/   공통 및 게임별 용어 사전
-docs/           포맷 및 기여 가이드
-exports/        SST/XML 등 파생 산출물 안내
-tools/          변환/검증 도구
+SST/XML
+  ↓
+Importer
+  ↓
+정규화 JSONL
+  ↓
+BGS Translation Archive
+  ↓
+Exporter
+  ↓
+SST/XML
 ```
+
+SST/XML은 실사용 교환 형식으로 유지하고, JSONL을 장기 보존용 기준 데이터로 사용합니다.
 
 자세한 데이터 규격은 [docs/FORMAT.md](docs/FORMAT.md)를 참고하세요.
