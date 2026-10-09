@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - "tools/build_book_collection.py"
+      - "tools/extract_skyrim_books.py"
+      - "tests/test_skyrim_books.py"
       - ".github/workflows/build-book-collection.yml"
       - "sources/skyrim_books/**"
   workflow_dispatch:
@@ -20,6 +22,9 @@ jobs:
         uses: actions/checkout@v4
         with:
           persist-credentials: true
+
+      - name: Verify Skyrim extractor with synthetic records
+        run: python3 -m unittest discover -s tests -v
 
       - name: Download only Daggerfall book source files
         run: |
@@ -64,7 +69,13 @@ jobs:
                       key=(r.get('plugin',''),r['book_id'])
                       assert key not in ids,(game,key)
                       ids.add(key)
-                  print(game,len(records))
+                  individual=list((root/game/'books').glob('*.md'))
+                  assert len(individual)==item['books'],(game,len(individual),item['books'])
+                  assert len(set(p.name.lower() for p in individual))==len(individual)
+                  index=(root/game/'index.md').read_text(encoding='utf-8')
+                  for path in individual:
+                      assert ('books/'+path.name) in index,('missing index link',path)
+                  print(game,len(records),'individual files:',len(individual))
           PY
 
       - name: Commit docs/books only
