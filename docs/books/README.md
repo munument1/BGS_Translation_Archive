@@ -9,7 +9,8 @@
 | IV. Oblivion | 927권 | [열기](oblivion/index.md) |
 | V. Skyrim | 자료 미확보 | [열기](skyrim/index.md) |
 
-각 게임의 books/ 폴더에 서적 1권당 Markdown 1개를 보관하며 index.md에서 개별로 찾아볼 수 있습니다.
+[검색과 서적 읽기 기능이 있는 GitHub Pages](../index.html)
+각 게임의 books/ 폴더에 번역된 서적 제목만 사용한 Markdown 파일 1개씩 보관합니다.
 complete.md가 전체 합본이고, part-XX.md는 40권 단위 분할본입니다.
 스카이림 한국어 STRINGS는 로컬에서 확인했지만 해당 문자열을 BOOK FormID와 연결할 게임 플러그인(ESM/ESL)은 아직 확보되지 않았습니다.
 tools/extract_skyrim_books.py로 게임 플러그인과 번역 STRINGS를 대조해 sources/skyrim_books에 BOOK JSONL을 가져오면 자동 반영됩니다.
