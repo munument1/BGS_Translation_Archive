@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "total": 2619,
+  "games": {
+    "battlespire": {
+      "books": 54,
+      "new_workbooks": 54
+    },
+    "redguard": {
+      "books": 13,
+      "new_workbooks": 13
+    },
+    "shadowkey": {
+      "books": 8,
+      "new_workbooks": 8
+    },
+    "eso": {
+      "books": 2533,
+      "new_workbooks": 2533
+    },
+    "eso_journals": {
+      "books": 11,
+      "new_workbooks": 11
+    }
+  }
+}
