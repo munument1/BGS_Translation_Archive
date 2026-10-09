@@ -4,105 +4,106 @@
 
 ---
 
-[전체 합본](complete.md) · [JSONL](books.jsonl)
+[웹 도서관](../../index.html) · [전체 합본](complete.md) · [JSONL](books.jsonl)
 
 ### 개별 서적 파일
 
-총 93개의 독립 Markdown 파일 (books/). 제목을 선택하면 해당 책만 열립니다.
+총 93개의 독립 Markdown 파일. 파일명은 한국어 책 제목만 사용합니다.
+같은 제목의 서로 다른 책은 동명이서적 하위 폴더에서 구분합니다.
 
-- [가객 디바드](books/BOK00086-가객-디바드-a6786d629da4.md) — BOK00086
-- [그레와즈](books/BOK00020-그레와즈-ea42543124e1.md) — BOK00020
-- [기억의 돌](books/BOK00022-기억의-돌-a6f415620e67.md) — BOK00022
-- [농담](books/BOK00070-농담-43a1b14738d5.md) — BOK00070
-- [단편: 아르테움에 관하여](books/BOK00002-단편-아르테움에-관하여-9767009abd01.md) — BOK00002
-- [대거폴의 역사](books/BOK00061-대거폴의-역사-81e8e2543928.md) — BOK00061
-- [도둑의 고백](books/BOK00056-도둑의-고백-6823548f1536.md) — BOK00056
-- [동물의 신, 이우스](books/BOK00071-동물의-신-이우스-a7ef1b9f06bc.md) — BOK00071
-- [돼지의 자손들](books/BOK00008-돼지의-자손들-0cca1312920b.md) — BOK00008
-- [레드가드 역사 주석](books/BOK00087-레드가드-역사-주석-5f78e53f612b.md) — BOK00087
-- [레드가드의 역사와 영웅](books/BOK00004-레드가드의-역사와-영웅-f54a0bb02e9f.md) — BOK00004
-- [리리시우스 이야기](books/BOK00037-리리시우스-이야기-2149d73d1df7.md) — BOK00037
-- [마라의 눈물](books/BOK00069-마라의-눈물-94da99e2a5e7.md) — BOK00069
-- [마법사 길드의 기원](books/BOK00038-마법사-길드의-기원-2e034dc71db1.md) — BOK00038
-- [바렌지아 여왕 전기, 제1권](books/BOK00059-바렌지아-여왕-전기-제1권-e6f6d4de95a4.md) — BOK00059
-- [바렌지아 여왕 전기, 제2권](books/BOK00060-바렌지아-여왕-전기-제2권-a38a1420ae99.md) — BOK00060
-- [바렌지아 여왕 전기, 제3권](books/BOK00089-바렌지아-여왕-전기-제3권-5cafa6fec2f8.md) — BOK00089
-- [바보의 흑단, 제1부째](books/BOK00074-바보의-흑단-제1부째-6d57bee614bf.md) — BOK00074
-- [바보의 흑단, 제2부째](books/BOK00075-바보의-흑단-제2부째-b06de82e9866.md) — BOK00075
-- [바보의 흑단, 제3부째](books/BOK00076-바보의-흑단-제3부째-9a0e70b27513.md) — BOK00076
-- [바보의 흑단, 제4부째](books/BOK00077-바보의-흑단-제4부째-a94f092aef54.md) — BOK00077
-- [바보의 흑단, 제5부째](books/BOK00078-바보의-흑단-제5부째-8552ed98b379.md) — BOK00078
-- [바보의 흑단, 제6부](books/BOK00088-바보의-흑단-제6부-fae7c7145a26.md) — BOK00088
-- [반 다르의 첫 두루마리](books/BOK00000-반-다르의-첫-두루마리-ee1377ebf7ec.md) — BOK00000
-- [법률 기초](books/BOK00025-법률-기초-87a3cf533a33.md) — BOK00025
-- [베토니 전쟁](books/BOK00083-베토니-전쟁-ecedb513edb2.md) — BOK00083
-- [베토니 전쟁](books/BOK00084-베토니-전쟁-f4172b530b56.md) — BOK00084
-- [부서진 다이아몬드](books/BOK00034-부서진-다이아몬드-f6bba58d3c33.md) — BOK00034
-- [빛과 어둠](books/BOK00055-빛과-어둠-791852295d9e.md) — BOK00055
-- [상스러운 노래](books/BOK00068-상스러운-노래-525922522318.md) — BOK00068
-- [수인병에 관하여](books/BOK00036-수인병에-관하여-befca1ab2a58.md) — BOK00036
-- [수정탑의 수상쩍은 이야기](books/BOK00062-수정탑의-수상쩍은-이야기-a9ce818c9594.md) — BOK00062
-- [신 아케이](books/BOK00005-신-아케이-58283d72af28.md) — BOK00005
-- [신 아케이](books/BOK00016-신-아케이-c3a822eb981c.md) — BOK00016
-- [신과 숭배에 관한 개요](books/BOK00063-신과-숭배에-관한-개요-258ecb4d6d8b.md) — BOK00063
-- [신비마법](books/BOK00040-신비마법-dd8011a9a01a.md) — BOK00040
-- [신비술사 갈레리온](books/BOK00066-신비술사-갈레리온-42789c08b92c.md) — BOK00066
-- [아주라 소환](books/BOK00080-아주라-소환-d294ed3c3479.md) — BOK00080
-- [알리크르](books/BOK00085-알리크르-67363fdeea36.md) — BOK00085
-- [야생 엘프](books/BOK00003-야생-엘프-513cb3dfa9cf.md) — BOK00003
-- [어둠의 형제단](books/BOK00026-어둠의-형제단-56c2add06ee8.md) — BOK00026
-- [에드워드 왕, 제10부](books/BOK00109-에드워드-왕-제10부-c34455bb6182.md) — BOK00109
-- [에드워드 왕, 제11부](books/BOK00110-에드워드-왕-제11부-4dcf8273afaa.md) — BOK00110
-- [에드워드 왕, 제12부](books/BOK00111-에드워드-왕-제12부-237f91664ae1.md) — BOK00111
-- [에드워드 왕, 제1부](books/BOK00100-에드워드-왕-제1부-6c77afe835a1.md) — BOK00100
-- [에드워드 왕, 제2부](books/BOK00101-에드워드-왕-제2부-8c506ca72bd9.md) — BOK00101
-- [에드워드 왕, 제3부](books/BOK00102-에드워드-왕-제3부-a687b9265b23.md) — BOK00102
-- [에드워드 왕, 제4부](books/BOK00103-에드워드-왕-제4부-2f7720e48a18.md) — BOK00103
-- [에드워드 왕, 제5부](books/BOK00104-에드워드-왕-제5부-e6c373a684dd.md) — BOK00104
-- [에드워드 왕, 제6부](books/BOK00105-에드워드-왕-제6부-e2a662388c2d.md) — BOK00105
-- [에드워드 왕, 제7부](books/BOK00106-에드워드-왕-제7부-4fbcb5c1339c.md) — BOK00106
-- [에드워드 왕, 제8부](books/BOK00107-에드워드-왕-제8부-8384f845c21c.md) — BOK00107
-- [에드워드 왕, 제9부](books/BOK00108-에드워드-왕-제9부-fa559d2b149a.md) — BOK00108
-- [연인의 탄식 전설](books/BOK00035-연인의-탄식-전설-9f96d1cef44d.md) — BOK00035
-- [옛 방식](books/BOK00009-옛-방식-6a74d49c58ae.md) — BOK00009
-- [오블리비언에 관하여](books/BOK00053-오블리비언에-관하여-7bd8687a8c2f.md) — BOK00053
-- [올랜더의 망치](books/BOK00007-올랜더의-망치-620a26c49b2c.md) — BOK00007
-- [와바잭](books/BOK00065-와바잭-5245732016e3.md) — BOK00065
-- [우드본의 회고록, 제1부](books/BOK00112-우드본의-회고록-제1부-712b54bdc9b4.md) — BOK00112
-- [우드본의 회고록, 제2부](books/BOK00113-우드본의-회고록-제2부-2352bfceb6c9.md) — BOK00113
-- [웨이레스트, 만의 보석](books/BOK00064-웨이레스트-만의-보석-c11eda26cf17.md) — BOK00064
-- [은행가의 내기](books/BOK00082-은행가의-내기-14cf885e6838.md) — BOK00082
-- [일리악 만의 축일](books/BOK00033-일리악-만의-축일-2ddcca6bbbc0.md) — BOK00033
-- [일리악 만의 흡혈귀, 제1부](books/BOK00057-일리악-만의-흡혈귀-제1부-d2172b144083.md) — BOK00057
-- [일리악 만의 흡혈귀, 제2부](books/BOK00058-일리악-만의-흡혈귀-제2부-6fb7f920f81e.md) — BOK00058
-- [정신병원의 무도회](books/BOK00039-정신병원의-무도회-4a36e9e32609.md) — BOK00039
-- [제국 약사 제1권](books/BOK00028-제국-약사-제1권-8e4b3b6808e6.md) — BOK00028
-- [제국 약사 제2권](books/BOK00029-제국-약사-제2권-2c7bca13c2b0.md) — BOK00029
-- [제국 약사 제3권](books/BOK00030-제국-약사-제3권-4ddcfb91274b.md) — BOK00030
-- [제국 약사 제4권](books/BOK00031-제국-약사-제4권-73b7da80c3f1.md) — BOK00031
-- [제프레에 관하여](books/BOK00073-제프레에-관하여-fc6220bf1655.md) — BOK00073
-- [진정한 바렌지아, 2부](books/BOK00044-진정한-바렌지아-2부-3d8731cf9165.md) — BOK00044
-- [진정한 바렌지아, 제3부](books/BOK00045-진정한-바렌지아-제3부-69792f2dc413.md) — BOK00045
-- [진짜 바렌지아 제1부](books/BOK00043-진짜-바렌지아-제1부-0af800e94ef9.md) — BOK00043
-- [진짜 바렌지아, 제10부](books/BOK00052-진짜-바렌지아-제10부-864098c27c57.md) — BOK00052
-- [진짜 바렌지아, 제4부](books/BOK00046-진짜-바렌지아-제4부-7da1f185add7.md) — BOK00046
-- [진짜 바렌지아, 제5부](books/BOK00047-진짜-바렌지아-제5부-1009f87237a9.md) — BOK00047
-- [진짜 바렌지아, 제6부](books/BOK00048-진짜-바렌지아-제6부-abe8de87e684.md) — BOK00048
-- [진짜 바렌지아, 제7부](books/BOK00049-진짜-바렌지아-제7부-e0a52657e339.md) — BOK00049
-- [진짜 바렌지아, 제8부](books/BOK00050-진짜-바렌지아-제8부-9c44e5210a18.md) — BOK00050
-- [진짜 바렌지아, 제9부](books/BOK00051-진짜-바렌지아-제9부-9603ea855349.md) — BOK00051
-- [찬탈자의 몰락](books/BOK00041-찬탈자의-몰락-2eba8f250a84.md) — BOK00041
-- [치유사의 이야기](books/BOK00072-치유사의-이야기-314247a1466b.md) — BOK00072
-- [키에란 이야기](books/BOK00001-키에란-이야기-e6953070aa8d.md) — BOK00001
-- [탐리엘의 특이 식물](books/BOK00027-탐리엘의-특이-식물-6e41770810cc.md) — BOK00027
-- [통치자를 대하는 예법](books/BOK00079-통치자를-대하는-예법-dfd89483e530.md) — BOK00079
-- [페어리](books/BOK00006-페어리-aead66f5927e.md) — BOK00006
-- [펠라기우스의 광기](books/BOK00042-펠라기우스의-광기-b97b84735a84.md) — BOK00042
-- [학자를 위한 님프 안내서](books/BOK00021-학자를-위한-님프-안내서-063fd4eeab77.md) — BOK00021
-- [현자](books/BOK00054-현자-9c66db5dd4c0.md) — BOK00054
-- [화살 맞은 여인](books/BOK00081-화살-맞은-여인-ce16d0c625ef.md) — BOK00081
-- [회색 매의 서사시](books/BOK00032-회색-매의-서사시-d08468c278c2.md) — BOK00032
-- [흑단의 팔](books/BOK00067-흑단의-팔-dc3ff2f00e54.md) — BOK00067
+- [가객 디바드](books/%EA%B0%80%EA%B0%9D%20%EB%94%94%EB%B0%94%EB%93%9C.md) — BOK00086
+- [그레와즈](books/%EA%B7%B8%EB%A0%88%EC%99%80%EC%A6%88.md) — BOK00020
+- [기억의 돌](books/%EA%B8%B0%EC%96%B5%EC%9D%98%20%EB%8F%8C.md) — BOK00022
+- [농담](books/%EB%86%8D%EB%8B%B4.md) — BOK00070
+- [단편: 아르테움에 관하여](books/%EB%8B%A8%ED%8E%B8%20%EC%95%84%EB%A5%B4%ED%85%8C%EC%9B%80%EC%97%90%20%EA%B4%80%ED%95%98%EC%97%AC.md) — BOK00002
+- [대거폴의 역사](books/%EB%8C%80%EA%B1%B0%ED%8F%B4%EC%9D%98%20%EC%97%AD%EC%82%AC.md) — BOK00061
+- [도둑의 고백](books/%EB%8F%84%EB%91%91%EC%9D%98%20%EA%B3%A0%EB%B0%B1.md) — BOK00056
+- [동물의 신, 이우스](books/%EB%8F%99%EB%AC%BC%EC%9D%98%20%EC%8B%A0%2C%20%EC%9D%B4%EC%9A%B0%EC%8A%A4.md) — BOK00071
+- [돼지의 자손들](books/%EB%8F%BC%EC%A7%80%EC%9D%98%20%EC%9E%90%EC%86%90%EB%93%A4.md) — BOK00008
+- [레드가드 역사 주석](books/%EB%A0%88%EB%93%9C%EA%B0%80%EB%93%9C%20%EC%97%AD%EC%82%AC%20%EC%A3%BC%EC%84%9D.md) — BOK00087
+- [레드가드의 역사와 영웅](books/%EB%A0%88%EB%93%9C%EA%B0%80%EB%93%9C%EC%9D%98%20%EC%97%AD%EC%82%AC%EC%99%80%20%EC%98%81%EC%9B%85.md) — BOK00004
+- [리리시우스 이야기](books/%EB%A6%AC%EB%A6%AC%EC%8B%9C%EC%9A%B0%EC%8A%A4%20%EC%9D%B4%EC%95%BC%EA%B8%B0.md) — BOK00037
+- [마라의 눈물](books/%EB%A7%88%EB%9D%BC%EC%9D%98%20%EB%88%88%EB%AC%BC.md) — BOK00069
+- [마법사 길드의 기원](books/%EB%A7%88%EB%B2%95%EC%82%AC%20%EA%B8%B8%EB%93%9C%EC%9D%98%20%EA%B8%B0%EC%9B%90.md) — BOK00038
+- [바렌지아 여왕 전기, 제1권](books/%EB%B0%94%EB%A0%8C%EC%A7%80%EC%95%84%20%EC%97%AC%EC%99%95%20%EC%A0%84%EA%B8%B0%2C%20%EC%A0%9C1%EA%B6%8C.md) — BOK00059
+- [바렌지아 여왕 전기, 제2권](books/%EB%B0%94%EB%A0%8C%EC%A7%80%EC%95%84%20%EC%97%AC%EC%99%95%20%EC%A0%84%EA%B8%B0%2C%20%EC%A0%9C2%EA%B6%8C.md) — BOK00060
+- [바렌지아 여왕 전기, 제3권](books/%EB%B0%94%EB%A0%8C%EC%A7%80%EC%95%84%20%EC%97%AC%EC%99%95%20%EC%A0%84%EA%B8%B0%2C%20%EC%A0%9C3%EA%B6%8C.md) — BOK00089
+- [바보의 흑단, 제1부째](books/%EB%B0%94%EB%B3%B4%EC%9D%98%20%ED%9D%91%EB%8B%A8%2C%20%EC%A0%9C1%EB%B6%80%EC%A7%B8.md) — BOK00074
+- [바보의 흑단, 제2부째](books/%EB%B0%94%EB%B3%B4%EC%9D%98%20%ED%9D%91%EB%8B%A8%2C%20%EC%A0%9C2%EB%B6%80%EC%A7%B8.md) — BOK00075
+- [바보의 흑단, 제3부째](books/%EB%B0%94%EB%B3%B4%EC%9D%98%20%ED%9D%91%EB%8B%A8%2C%20%EC%A0%9C3%EB%B6%80%EC%A7%B8.md) — BOK00076
+- [바보의 흑단, 제4부째](books/%EB%B0%94%EB%B3%B4%EC%9D%98%20%ED%9D%91%EB%8B%A8%2C%20%EC%A0%9C4%EB%B6%80%EC%A7%B8.md) — BOK00077
+- [바보의 흑단, 제5부째](books/%EB%B0%94%EB%B3%B4%EC%9D%98%20%ED%9D%91%EB%8B%A8%2C%20%EC%A0%9C5%EB%B6%80%EC%A7%B8.md) — BOK00078
+- [바보의 흑단, 제6부](books/%EB%B0%94%EB%B3%B4%EC%9D%98%20%ED%9D%91%EB%8B%A8%2C%20%EC%A0%9C6%EB%B6%80.md) — BOK00088
+- [반 다르의 첫 두루마리](books/%EB%B0%98%20%EB%8B%A4%EB%A5%B4%EC%9D%98%20%EC%B2%AB%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — BOK00000
+- [법률 기초](books/%EB%B2%95%EB%A5%A0%20%EA%B8%B0%EC%B4%88.md) — BOK00025
+- [베토니 전쟁](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/BOK00083/%EB%B2%A0%ED%86%A0%EB%8B%88%20%EC%A0%84%EC%9F%81.md) — BOK00083
+- [베토니 전쟁](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/BOK00084/%EB%B2%A0%ED%86%A0%EB%8B%88%20%EC%A0%84%EC%9F%81.md) — BOK00084
+- [부서진 다이아몬드](books/%EB%B6%80%EC%84%9C%EC%A7%84%20%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C.md) — BOK00034
+- [빛과 어둠](books/%EB%B9%9B%EA%B3%BC%20%EC%96%B4%EB%91%A0.md) — BOK00055
+- [상스러운 노래](books/%EC%83%81%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EB%85%B8%EB%9E%98.md) — BOK00068
+- [수인병에 관하여](books/%EC%88%98%EC%9D%B8%EB%B3%91%EC%97%90%20%EA%B4%80%ED%95%98%EC%97%AC.md) — BOK00036
+- [수정탑의 수상쩍은 이야기](books/%EC%88%98%EC%A0%95%ED%83%91%EC%9D%98%20%EC%88%98%EC%83%81%EC%A9%8D%EC%9D%80%20%EC%9D%B4%EC%95%BC%EA%B8%B0.md) — BOK00062
+- [신 아케이](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/BOK00005/%EC%8B%A0%20%EC%95%84%EC%BC%80%EC%9D%B4.md) — BOK00005
+- [신 아케이](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/BOK00016/%EC%8B%A0%20%EC%95%84%EC%BC%80%EC%9D%B4.md) — BOK00016
+- [신과 숭배에 관한 개요](books/%EC%8B%A0%EA%B3%BC%20%EC%88%AD%EB%B0%B0%EC%97%90%20%EA%B4%80%ED%95%9C%20%EA%B0%9C%EC%9A%94.md) — BOK00063
+- [신비마법](books/%EC%8B%A0%EB%B9%84%EB%A7%88%EB%B2%95.md) — BOK00040
+- [신비술사 갈레리온](books/%EC%8B%A0%EB%B9%84%EC%88%A0%EC%82%AC%20%EA%B0%88%EB%A0%88%EB%A6%AC%EC%98%A8.md) — BOK00066
+- [아주라 소환](books/%EC%95%84%EC%A3%BC%EB%9D%BC%20%EC%86%8C%ED%99%98.md) — BOK00080
+- [알리크르](books/%EC%95%8C%EB%A6%AC%ED%81%AC%EB%A5%B4.md) — BOK00085
+- [야생 엘프](books/%EC%95%BC%EC%83%9D%20%EC%97%98%ED%94%84.md) — BOK00003
+- [어둠의 형제단](books/%EC%96%B4%EB%91%A0%EC%9D%98%20%ED%98%95%EC%A0%9C%EB%8B%A8.md) — BOK00026
+- [에드워드 왕, 제10부](books/%EC%97%90%EB%93%9C%EC%9B%8C%EB%93%9C%20%EC%99%95%2C%20%EC%A0%9C10%EB%B6%80.md) — BOK00109
+- [에드워드 왕, 제11부](books/%EC%97%90%EB%93%9C%EC%9B%8C%EB%93%9C%20%EC%99%95%2C%20%EC%A0%9C11%EB%B6%80.md) — BOK00110
+- [에드워드 왕, 제12부](books/%EC%97%90%EB%93%9C%EC%9B%8C%EB%93%9C%20%EC%99%95%2C%20%EC%A0%9C12%EB%B6%80.md) — BOK00111
+- [에드워드 왕, 제1부](books/%EC%97%90%EB%93%9C%EC%9B%8C%EB%93%9C%20%EC%99%95%2C%20%EC%A0%9C1%EB%B6%80.md) — BOK00100
+- [에드워드 왕, 제2부](books/%EC%97%90%EB%93%9C%EC%9B%8C%EB%93%9C%20%EC%99%95%2C%20%EC%A0%9C2%EB%B6%80.md) — BOK00101
+- [에드워드 왕, 제3부](books/%EC%97%90%EB%93%9C%EC%9B%8C%EB%93%9C%20%EC%99%95%2C%20%EC%A0%9C3%EB%B6%80.md) — BOK00102
+- [에드워드 왕, 제4부](books/%EC%97%90%EB%93%9C%EC%9B%8C%EB%93%9C%20%EC%99%95%2C%20%EC%A0%9C4%EB%B6%80.md) — BOK00103
+- [에드워드 왕, 제5부](books/%EC%97%90%EB%93%9C%EC%9B%8C%EB%93%9C%20%EC%99%95%2C%20%EC%A0%9C5%EB%B6%80.md) — BOK00104
+- [에드워드 왕, 제6부](books/%EC%97%90%EB%93%9C%EC%9B%8C%EB%93%9C%20%EC%99%95%2C%20%EC%A0%9C6%EB%B6%80.md) — BOK00105
+- [에드워드 왕, 제7부](books/%EC%97%90%EB%93%9C%EC%9B%8C%EB%93%9C%20%EC%99%95%2C%20%EC%A0%9C7%EB%B6%80.md) — BOK00106
+- [에드워드 왕, 제8부](books/%EC%97%90%EB%93%9C%EC%9B%8C%EB%93%9C%20%EC%99%95%2C%20%EC%A0%9C8%EB%B6%80.md) — BOK00107
+- [에드워드 왕, 제9부](books/%EC%97%90%EB%93%9C%EC%9B%8C%EB%93%9C%20%EC%99%95%2C%20%EC%A0%9C9%EB%B6%80.md) — BOK00108
+- [연인의 탄식 전설](books/%EC%97%B0%EC%9D%B8%EC%9D%98%20%ED%83%84%EC%8B%9D%20%EC%A0%84%EC%84%A4.md) — BOK00035
+- [옛 방식](books/%EC%98%9B%20%EB%B0%A9%EC%8B%9D.md) — BOK00009
+- [오블리비언에 관하여](books/%EC%98%A4%EB%B8%94%EB%A6%AC%EB%B9%84%EC%96%B8%EC%97%90%20%EA%B4%80%ED%95%98%EC%97%AC.md) — BOK00053
+- [올랜더의 망치](books/%EC%98%AC%EB%9E%9C%EB%8D%94%EC%9D%98%20%EB%A7%9D%EC%B9%98.md) — BOK00007
+- [와바잭](books/%EC%99%80%EB%B0%94%EC%9E%AD.md) — BOK00065
+- [우드본의 회고록, 제1부](books/%EC%9A%B0%EB%93%9C%EB%B3%B8%EC%9D%98%20%ED%9A%8C%EA%B3%A0%EB%A1%9D%2C%20%EC%A0%9C1%EB%B6%80.md) — BOK00112
+- [우드본의 회고록, 제2부](books/%EC%9A%B0%EB%93%9C%EB%B3%B8%EC%9D%98%20%ED%9A%8C%EA%B3%A0%EB%A1%9D%2C%20%EC%A0%9C2%EB%B6%80.md) — BOK00113
+- [웨이레스트, 만의 보석](books/%EC%9B%A8%EC%9D%B4%EB%A0%88%EC%8A%A4%ED%8A%B8%2C%20%EB%A7%8C%EC%9D%98%20%EB%B3%B4%EC%84%9D.md) — BOK00064
+- [은행가의 내기](books/%EC%9D%80%ED%96%89%EA%B0%80%EC%9D%98%20%EB%82%B4%EA%B8%B0.md) — BOK00082
+- [일리악 만의 축일](books/%EC%9D%BC%EB%A6%AC%EC%95%85%20%EB%A7%8C%EC%9D%98%20%EC%B6%95%EC%9D%BC.md) — BOK00033
+- [일리악 만의 흡혈귀, 제1부](books/%EC%9D%BC%EB%A6%AC%EC%95%85%20%EB%A7%8C%EC%9D%98%20%ED%9D%A1%ED%98%88%EA%B7%80%2C%20%EC%A0%9C1%EB%B6%80.md) — BOK00057
+- [일리악 만의 흡혈귀, 제2부](books/%EC%9D%BC%EB%A6%AC%EC%95%85%20%EB%A7%8C%EC%9D%98%20%ED%9D%A1%ED%98%88%EA%B7%80%2C%20%EC%A0%9C2%EB%B6%80.md) — BOK00058
+- [정신병원의 무도회](books/%EC%A0%95%EC%8B%A0%EB%B3%91%EC%9B%90%EC%9D%98%20%EB%AC%B4%EB%8F%84%ED%9A%8C.md) — BOK00039
+- [제국 약사 제1권](books/%EC%A0%9C%EA%B5%AD%20%EC%95%BD%EC%82%AC%20%EC%A0%9C1%EA%B6%8C.md) — BOK00028
+- [제국 약사 제2권](books/%EC%A0%9C%EA%B5%AD%20%EC%95%BD%EC%82%AC%20%EC%A0%9C2%EA%B6%8C.md) — BOK00029
+- [제국 약사 제3권](books/%EC%A0%9C%EA%B5%AD%20%EC%95%BD%EC%82%AC%20%EC%A0%9C3%EA%B6%8C.md) — BOK00030
+- [제국 약사 제4권](books/%EC%A0%9C%EA%B5%AD%20%EC%95%BD%EC%82%AC%20%EC%A0%9C4%EA%B6%8C.md) — BOK00031
+- [제프레에 관하여](books/%EC%A0%9C%ED%94%84%EB%A0%88%EC%97%90%20%EA%B4%80%ED%95%98%EC%97%AC.md) — BOK00073
+- [진정한 바렌지아, 2부](books/%EC%A7%84%EC%A0%95%ED%95%9C%20%EB%B0%94%EB%A0%8C%EC%A7%80%EC%95%84%2C%202%EB%B6%80.md) — BOK00044
+- [진정한 바렌지아, 제3부](books/%EC%A7%84%EC%A0%95%ED%95%9C%20%EB%B0%94%EB%A0%8C%EC%A7%80%EC%95%84%2C%20%EC%A0%9C3%EB%B6%80.md) — BOK00045
+- [진짜 바렌지아 제1부](books/%EC%A7%84%EC%A7%9C%20%EB%B0%94%EB%A0%8C%EC%A7%80%EC%95%84%20%EC%A0%9C1%EB%B6%80.md) — BOK00043
+- [진짜 바렌지아, 제10부](books/%EC%A7%84%EC%A7%9C%20%EB%B0%94%EB%A0%8C%EC%A7%80%EC%95%84%2C%20%EC%A0%9C10%EB%B6%80.md) — BOK00052
+- [진짜 바렌지아, 제4부](books/%EC%A7%84%EC%A7%9C%20%EB%B0%94%EB%A0%8C%EC%A7%80%EC%95%84%2C%20%EC%A0%9C4%EB%B6%80.md) — BOK00046
+- [진짜 바렌지아, 제5부](books/%EC%A7%84%EC%A7%9C%20%EB%B0%94%EB%A0%8C%EC%A7%80%EC%95%84%2C%20%EC%A0%9C5%EB%B6%80.md) — BOK00047
+- [진짜 바렌지아, 제6부](books/%EC%A7%84%EC%A7%9C%20%EB%B0%94%EB%A0%8C%EC%A7%80%EC%95%84%2C%20%EC%A0%9C6%EB%B6%80.md) — BOK00048
+- [진짜 바렌지아, 제7부](books/%EC%A7%84%EC%A7%9C%20%EB%B0%94%EB%A0%8C%EC%A7%80%EC%95%84%2C%20%EC%A0%9C7%EB%B6%80.md) — BOK00049
+- [진짜 바렌지아, 제8부](books/%EC%A7%84%EC%A7%9C%20%EB%B0%94%EB%A0%8C%EC%A7%80%EC%95%84%2C%20%EC%A0%9C8%EB%B6%80.md) — BOK00050
+- [진짜 바렌지아, 제9부](books/%EC%A7%84%EC%A7%9C%20%EB%B0%94%EB%A0%8C%EC%A7%80%EC%95%84%2C%20%EC%A0%9C9%EB%B6%80.md) — BOK00051
+- [찬탈자의 몰락](books/%EC%B0%AC%ED%83%88%EC%9E%90%EC%9D%98%20%EB%AA%B0%EB%9D%BD.md) — BOK00041
+- [치유사의 이야기](books/%EC%B9%98%EC%9C%A0%EC%82%AC%EC%9D%98%20%EC%9D%B4%EC%95%BC%EA%B8%B0.md) — BOK00072
+- [키에란 이야기](books/%ED%82%A4%EC%97%90%EB%9E%80%20%EC%9D%B4%EC%95%BC%EA%B8%B0.md) — BOK00001
+- [탐리엘의 특이 식물](books/%ED%83%90%EB%A6%AC%EC%97%98%EC%9D%98%20%ED%8A%B9%EC%9D%B4%20%EC%8B%9D%EB%AC%BC.md) — BOK00027
+- [통치자를 대하는 예법](books/%ED%86%B5%EC%B9%98%EC%9E%90%EB%A5%BC%20%EB%8C%80%ED%95%98%EB%8A%94%20%EC%98%88%EB%B2%95.md) — BOK00079
+- [페어리](books/%ED%8E%98%EC%96%B4%EB%A6%AC.md) — BOK00006
+- [펠라기우스의 광기](books/%ED%8E%A0%EB%9D%BC%EA%B8%B0%EC%9A%B0%EC%8A%A4%EC%9D%98%20%EA%B4%91%EA%B8%B0.md) — BOK00042
+- [학자를 위한 님프 안내서](books/%ED%95%99%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%8B%98%ED%94%84%20%EC%95%88%EB%82%B4%EC%84%9C.md) — BOK00021
+- [현자](books/%ED%98%84%EC%9E%90.md) — BOK00054
+- [화살 맞은 여인](books/%ED%99%94%EC%82%B4%20%EB%A7%9E%EC%9D%80%20%EC%97%AC%EC%9D%B8.md) — BOK00081
+- [회색 매의 서사시](books/%ED%9A%8C%EC%83%89%20%EB%A7%A4%EC%9D%98%20%EC%84%9C%EC%82%AC%EC%8B%9C.md) — BOK00032
+- [흑단의 팔](books/%ED%9D%91%EB%8B%A8%EC%9D%98%20%ED%8C%94.md) — BOK00067
 
 ### 40권 단위 분할 열람
 
