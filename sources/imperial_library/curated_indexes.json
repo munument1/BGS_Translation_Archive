@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "method": "Curated public bibliographic titles cross-referenced against publicly indexed game book lists; category-level original TIL pages were not directly accessible (403). This is not an exhaustive transcription of those pages.",
+  "sources": {
+    "battlespire": "https://elderscrolls.fandom.com/wiki/Books_(Battlespire)",
+    "redguard": "https://elderscrolls.fandom.com/wiki/Books_(Redguard)",
+    "shadowkey": "https://elderscrolls.fandom.com/wiki/Category:Shadowkey:_Books",
+    "eso_journals": "https://www.imperial-library.info/content/book-type/journals"
+  },
+  "groups": {
+    "battlespire": {
+      "label": "배틀스파이어",
+      "url": "https://www.imperial-library.info/game-books/tesl-battlespire-books",
+      "titles": [
+        "A Short History of The Augmented Craftworks",
+        "Anchor Warning",
+        "Annotated Compendium of Arcane Contrivances of the Second Age, Volume IV",
+        "Arcana Restored",
+        "Book of Life and Service",
+        "Book of Rest and Endings",
+        "Book of the Wheels of Heaven",
+        "Boustrophedon Note",
+        "Chimere's Journal",
+        "Chimere's Notes",
+        "Codex Arcana, Vol I",
+        "Codex Arcana, Vol II",
+        "Codex Arcana, Vol III",
+        "Codex Arcana, Vol IV",
+        "Codex Arcana, Vol V",
+        "Codex Arcana, Vol VI",
+        "Codex Arcana, Vol VII",
+        "Codex Arcana, Vol VIII",
+        "Codex Arcana, Vol IX",
+        "Curiosities of the Second Age",
+        "Harvest's End, 3E 172",
+        "Imago's Notes on Neonymics",
+        "Intelligence Training Note",
+        "Jagar Tharn's Letter",
+        "Kendhall Book of Riddles",
+        "King Edward, Book VII",
+        "Lehmekweh Note",
+        "Letter from Balaherne",
+        "Letter from Chimere Graegyn",
+        "Letter to the Grand Marshall of the Imperial Legion",
+        "Letters for the Battlespire Hero",
+        "Letters from the Dremora",
+        "Note from Deyanira",
+        "Note from Herne",
+        "Note to Mactana Greenway",
+        "Quarantine Warning",
+        "Savior's Hide Note",
+        "Someone's Last Words",
+        "Soul Cairn Coffin Verses Inscription",
+        "Soul Cairn Retainer Inscription",
+        "Soul Cairn Stained Glass Window Note",
+        "Spear of Bitter Mercy Inscription",
+        "Spirit of the Daedra",
+        "Star Galley Crib Note",
+        "Star Galley Crib Opening Mechanism Note",
+        "Starkhorn's Compendium",
+        "Starlover's Log",
+        "The Book of Daedra",
+        "The Legendary Scourge",
+        "The Posting of the Hunt",
+        "The Restricted List Of Noble Artifacts",
+        "The Vagaries of Magicka",
+        "The Waters of Oblivion",
+        "Trebuchet Ritual"
+      ]
+    },
+    "redguard": {
+      "label": "레드가드",
+      "url": "https://www.imperial-library.info/game-books/tesa-redguard-books",
+      "titles": [
+        "Book of Dwarven Lore",
+        "Brother Kithral's Journal",
+        "Elven Artifacts",
+        "The Firmament",
+        "Flora of Hammerfell",
+        "Iszara's Journal",
+        "Keep Out",
+        "Letter",
+        "N'Gasta's Necromancy Book",
+        "No Trespassing",
+        "Palace Extension",
+        "Redguards, Their Heroes and History",
+        "Wanted: Cyrus"
+      ]
+    },
+    "shadowkey": {
+      "label": "섀도키",
+      "url": "https://www.imperial-library.info/game-books/tes-travels-shadowkey-books",
+      "titles": [
+        "Brown Scroll",
+        "Council Hall Scroll",
+        "Crushed Scroll",
+        "First Scroll of Shadow",
+        "Grell's Letter",
+        "Letter from General Duvais",
+        "Note of Payment",
+        "Second Scroll of Shadow"
+      ]
+    },
+    "eso_journals": {
+      "label": "ESO 일지·쪽지·편지",
+      "url": "https://www.imperial-library.info/game-books/elder-scrolls-online-books-journals-notes-and-letters",
+      "titles": [
+        "Panicked Note",
+        "Misplaced Journal",
+        "Bonnie Spriggan Logbook",
+        "Hurriedly Written Note",
+        "Hastily Written Observations",
+        "Note About Paths",
+        "Burnt Note",
+        "Letter to Lady Sulima",
+        "Another Letter from the Reformer",
+        "Doshia's Journal",
+        "Dorand's Final Notes"
+      ]
+    }
+  }
+}
