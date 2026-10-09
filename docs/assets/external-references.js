@@ -10,7 +10,7 @@
     battlespire:"배틀스파이어",redguard:"레드가드",shadowkey:"섀도키",
     eso:"엘더 스크롤 온라인",eso_journals:"ESO 일지·편지"
   };
-  let all=[],game="all",visible=48,filtered=[];
+  let all=[],game="all",visible=48,filtered=[],lookup={};
   function card(x){
     const node=document.createElement("article");
     node.className="reference-card";
@@ -33,6 +33,15 @@
     link.href=url;
     link.textContent=x.direct_link?"원문 서적 페이지 ↗":"게임별 원문 목록 ↗";
     node.append(tag,title,english,desc,note,link);
+    const path=lookup[x.uid];
+    if(path) {
+      const work=document.createElement("a");
+      const encoded=path.split("/").map(encodeURIComponent).join("/");
+      work.href="https://github.com/munument1/BGS_Translation_Archive/blob/main/docs/untranslated/"+encoded;
+      work.target="_blank";work.rel="noopener noreferrer";
+      work.textContent="GitHub 번역 작업 파일 ↗";
+      node.append(work);
+    }
     return node;
   }
   function render(){
@@ -73,6 +82,13 @@
       error.hidden=false;
       error.textContent="전체 서지 색인 생성 이전 자료를 표시합니다.";
     }
+    try {
+      const bookResponse=await fetch("./untranslated/lookup.json");
+      if(bookResponse.ok){
+        const mapping=await bookResponse.json();
+        if(mapping.workbooks&&typeof mapping.workbooks==="object")lookup=mapping.workbooks;
+      }
+    }catch(error){console.warn("Workbook links unavailable",error);}
     render();
     const params=new URLSearchParams(location.search);
     if(params.has("game")&&params.get("game") in LABELS)setGame(params.get("game"));
