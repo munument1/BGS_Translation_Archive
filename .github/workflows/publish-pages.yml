@@ -22,6 +22,7 @@ jobs:
     environment:
       name: github-pages
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -39,8 +40,9 @@ jobs:
           root=Path('docs/books')
           c=json.loads((root/'catalog.json').read_text(encoding='utf-8'))
           assert len(c['books'])>=1600
-          assert all((root/b['path']).is_file() for b in c['books'])
-          print('Verified pages catalog: '+str(len(c['books']))+' linked books')
+          missing=[b['path'] for b in c['books'] if not (root/b['path']).is_file()]
+          print('Verified catalog entries: '+str(len(c['books']))+', missing files: '+str(len(missing)))
+          assert not missing, missing[:10]
           PY
 
       - name: Setup GitHub Pages
