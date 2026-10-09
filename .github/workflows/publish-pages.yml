@@ -35,6 +35,10 @@ jobs:
           test -f docs/books/catalog.json
           test -f docs/books/fulltext-index.json
           node --check docs/assets/library.js
+          test -f docs/books/external_candidates.json
+          test -f docs/imperial-library.html
+          test -f docs/assets/external-references.js
+          node --check docs/assets/external-references.js
           python3 - <<'PY'
           import json
           from pathlib import Path
@@ -44,6 +48,10 @@ jobs:
           missing=[b['path'] for b in c['books'] if not (root/b['path']).is_file()]
           print('Verified catalog entries: '+str(len(c['books']))+', missing files: '+str(len(missing)))
           assert not missing, missing[:10]
+          references=json.loads((root/'external_candidates.json').read_text(encoding='utf-8'))
+          assert len(references['items']) >= 7
+          assert all(row['url'].startswith('https://www.imperial-library.info/content/') for row in references['items'])
+          assert all(row['status']=='external_reference_only' and not row['text_republished'] for row in references['items'])
           PY
 
       - name: Setup GitHub Pages
