@@ -248,6 +248,30 @@ def main():
     root=a.root/"docs"/"books"
     root.mkdir(parents=True,exist_ok=True)
     results=[export(root,g,source[g]) for g in GAMES]
+    # Small fast catalog for navigation; body text is indexed separately to
+    # keep the first web page load light. Reader fetches one Markdown file.
+    metadata=[]
+    fulltext=[]
+    for game in GAMES:
+        for b in source[game]:
+            uid=hashlib.sha256((game+"\x1f"+b.get("plugin","")+"\x1f"+b["book_id"]).encode("utf-8")).hexdigest()[:20]
+            metadata.append({
+                "uid":uid,"game":game,"title":b["title_ko"],
+                "author":b.get("author_ko",""),
+                "plugin":b.get("plugin",""),
+                "record_id":b["book_id"],
+                "path":game+"/"+b["file_path"],
+                "source":b["source_ref"],
+                "preview":" ".join(b["ko"].split())[:185],
+                "length":len(b["ko"])
+            })
+            fulltext.append({"uid":uid,"text":b["ko"]})
+    metadata.sort(key=lambda x:(list(GAMES).index(x["game"]),x["title"],x["record_id"]))
+    (root/"catalog.json").write_text(json.dumps({
+        "schema_version":1,"books":metadata,"counts":{r["game"]:r["books"] for r in results}
+    },ensure_ascii=False,separators=(",",":")),encoding="utf-8")
+    (root/"fulltext-index.json").write_text(
+        json.dumps(fulltext,ensure_ascii=False,separators=(",",":")),encoding="utf-8")
     manifest={"schema_version":1,"games":results,
         "sources":{"daggerfall":GH+"-KR-Daggerfall_Unity","morrowind":GH+"-KR-openmw/releases/tag/openmw-0.51.0-kr4",
           "oblivion":GH+"-KR-Oblivion-Translation","skyrim":"sources/skyrim_books (not supplied)"}}
@@ -257,7 +281,8 @@ def main():
     for item in results:
         g=item["game"]; count=f'{item["books"]:,}권' if item["available"] else "자료 미확보"
         lines.append(f"| {GAMES[g]} | {count} | [열기]({g}/index.md) |")
-    lines.extend(["","각 게임의 books/ 폴더에 서적 1권당 Markdown 1개를 보관하며 index.md에서 개별로 찾아볼 수 있습니다.",
+    lines.extend(["","[검색과 서적 읽기 기능이 있는 GitHub Pages](../index.html)",
+      "각 게임의 books/ 폴더에 번역된 서적 제목만 사용한 Markdown 파일 1개씩 보관합니다.",
       "complete.md가 전체 합본이고, part-XX.md는 40권 단위 분할본입니다.",
       "스카이림 한국어 STRINGS는 로컬에서 확인했지만 해당 문자열을 BOOK FormID와 연결할 게임 플러그인(ESM/ESL)은 아직 확보되지 않았습니다.",
       "tools/extract_skyrim_books.py로 게임 플러그인과 번역 STRINGS를 대조해 sources/skyrim_books에 BOOK JSONL을 가져오면 자동 반영됩니다.",
