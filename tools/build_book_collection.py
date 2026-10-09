@@ -275,7 +275,7 @@ def main():
         json.dumps(fulltext,ensure_ascii=False,separators=(",",":")),encoding="utf-8")
     manifest={"schema_version":1,"games":results,
         "sources":{"daggerfall":GH+"-KR-Daggerfall_Unity","morrowind":GH+"-KR-openmw/releases/tag/openmw-0.51.0-kr4",
-          "oblivion":GH+"-KR-Oblivion-Translation","skyrim":"sources/skyrim_books (not supplied)"}}
+          "oblivion":GH+"-KR-Oblivion-Translation","skyrim":"sources/skyrim_books (localized BOOK JSONL)"}}
     (root/"manifest.json").write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     lines=["# 엘더 스크롤 한국어 서적 아카이브","","각 작품의 한국어 서적 본문을 합본 Markdown과 JSONL로 정리합니다.","",
            "| 게임 | 수록 | 열람 |","|---|---:|---|"]
@@ -285,8 +285,10 @@ def main():
     lines.extend(["","[검색과 서적 읽기 기능이 있는 GitHub Pages](../index.html)",
       "각 게임의 books/ 폴더에 번역된 서적 제목만 사용한 Markdown 파일 1개씩 보관합니다.",
       "complete.md가 전체 합본이고, part-XX.md는 40권 단위 분할본입니다.",
-      "스카이림 한국어 STRINGS는 로컬에서 확인했지만 해당 문자열을 BOOK FormID와 연결할 게임 플러그인(ESM/ESL)은 아직 확보되지 않았습니다.",
-      "tools/extract_skyrim_books.py로 게임 플러그인과 번역 STRINGS를 대조해 sources/skyrim_books에 BOOK JSONL을 가져오면 자동 반영됩니다.",
+      "스카이림은 사용자가 제공한 ESM/ESL과 한국어 STRINGS를 대조해 BOOK 레코드를 JSONL로 수록했습니다.",
+      "tools/extract_skyrim_books_node.cjs에서 추출한 한국어 서적 레코드는 sources/skyrim_books/에서 확인할 수 있습니다.",
+      "[The Imperial Library의 추가 서적 출처와 후보](../imperial-library.html) — 외부 참조 링크만 포함하며 번역 본문에는 합산하지 않습니다.",
+      "[확장 및 저작권 검토 정책](EXTERNAL_SOURCES.md)",
       "","번역 데이터의 원본 출처와 재배포 조건을 존중해야 합니다. 영어 서적 본문 전문은 포함하지 않습니다.",""])
     (root/"README.md").write_text("\n".join(lines),encoding="utf-8")
     print(json.dumps(results,ensure_ascii=False))
