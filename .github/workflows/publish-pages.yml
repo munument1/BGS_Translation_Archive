@@ -36,6 +36,7 @@ jobs:
           test -f docs/books/fulltext-index.json
           node --check docs/assets/library.js
           test -f docs/books/external_candidates.json
+          test -f docs/books/imperial_game_books_catalog.json
           test -f docs/imperial-library.html
           test -f docs/assets/external-references.js
           node --check docs/assets/external-references.js
@@ -48,6 +49,11 @@ jobs:
           missing=[b['path'] for b in c['books'] if not (root/b['path']).is_file()]
           print('Verified catalog entries: '+str(len(c['books']))+', missing files: '+str(len(missing)))
           assert not missing, missing[:10]
+          ext=json.loads((root/'imperial_game_books_catalog.json').read_text(encoding='utf-8'))
+          assert ext['total'] >= 2600
+          assert ext['counts']['eso'] >= 2500
+          assert len(ext['entries']) == ext['total']
+          assert all(not row['full_text_included'] and row['status']=='bibliography_only' for row in ext['entries'])
           references=json.loads((root/'external_candidates.json').read_text(encoding='utf-8'))
           assert len(references['items']) >= 7
           assert all(row['url'].startswith('https://www.imperial-library.info/content/') for row in references['items'])
