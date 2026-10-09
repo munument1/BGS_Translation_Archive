@@ -164,7 +164,8 @@ function run() {
   fs.writeFileSync(path.join(output,"_extraction_manifest.json"),
     JSON.stringify(report,null,2)+"\n","utf8");
   console.log(JSON.stringify({total:entries.length, extracted:result.filter(x=>x.status==="written").length,
-    existing:result.filter(x=>x.status==="exists").length,issues:errors.length,local_output:output},null,2));
+    existing:result.filter(x=>x.status==="exists").length,issues:errors.length,local_output:output,
+    issue_details:errors.slice(0,30)},null,2));
   if (errors.length) process.exitCode = 2;
 }
 try { run(); } catch(e) { console.error(e.message); process.exitCode = 1; }
