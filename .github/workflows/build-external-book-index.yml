@@ -41,6 +41,7 @@ jobs:
           assert data['counts']['eso'] >= 2000
           assert len(set(row['uid'] for row in data['entries'])) == data['total']
           assert all(row['status']=='bibliography_only' and not row['full_text_included'] for row in data['entries'])
+          assert all(row['translation_status']=='untranslated' and row['body_en'] is None and row['body_ko'] is None for row in data['entries'])
           assert all(row['source_url'].startswith('https://www.imperial-library.info/') for row in data['entries'])
           print(data['counts'])
           PY
