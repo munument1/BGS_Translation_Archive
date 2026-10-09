@@ -83,8 +83,8 @@
 - [네민다의 명령서](books/%EB%84%A4%EB%AF%BC%EB%8B%A4%EC%9D%98%20%EB%AA%85%EB%A0%B9%EC%84%9C.md) — bk_nemindasorders
 - [네크롬 사건](books/%EB%84%A4%ED%81%AC%EB%A1%AC%20%EC%82%AC%EA%B1%B4.md) — bookskill_illusion3
 - [넬로스의 쪽지](books/%EB%84%AC%EB%A1%9C%EC%8A%A4%EC%9D%98%20%EC%AA%BD%EC%A7%80.md) — bk_notefromnelos
-- [노-흐의 나무 그림책](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_BriefHistoryofWood/%EB%85%B8-%ED%9D%90%EC%9D%98%20%EB%82%98%EB%AC%B4%20%EA%B7%B8%EB%A6%BC%EC%B1%85.md) — bk_BriefHistoryofWood
-- [노-흐의 나무 그림책](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_BriefHistoryofWood_01/%EB%85%B8-%ED%9D%90%EC%9D%98%20%EB%82%98%EB%AC%B4%20%EA%B7%B8%EB%A6%BC%EC%B1%85.md) — bk_BriefHistoryofWood_01
+- [노-흐의 나무 그림책](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_BriefHistoryofWood/%EB%85%B8-%ED%9D%90%EC%9D%98%20%EB%82%98%EB%AC%B4%20%EA%B7%B8%EB%A6%BC%EC%B1%85.md) — bk_BriefHistoryofWood
+- [노-흐의 나무 그림책](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_BriefHistoryofWood_01/%EB%85%B8-%ED%9D%90%EC%9D%98%20%EB%82%98%EB%AC%B4%20%EA%B7%B8%EB%A6%BC%EC%B1%85.md) — bk_BriefHistoryofWood_01
 - [노란 수수께끼 책](books/%EB%85%B8%EB%9E%80%20%EC%88%98%EC%88%98%EA%BB%98%EB%81%BC%20%EC%B1%85.md) — bk_yellowbookofriddles
 - [노예들에게 보내는 쪽지](books/%EB%85%B8%EC%98%88%EB%93%A4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%AA%BD%EC%A7%80.md) — bk_notetocalderaslaves
 - [느추낙의 불과 신앙](books/%EB%8A%90%EC%B6%94%EB%82%99%EC%9D%98%20%EB%B6%88%EA%B3%BC%20%EC%8B%A0%EC%95%99.md) — bk_nchunaksfireandfaith
@@ -150,8 +150,8 @@
 - [라드렌의 주문 파괴자 두루마리](books/%EB%9D%BC%EB%93%9C%EB%A0%8C%EC%9D%98%20%EC%A3%BC%EB%AC%B8%20%ED%8C%8C%EA%B4%B4%EC%9E%90%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_radrenesspellbreaker
 - [라디야의 얼음 가면 두루마리](books/%EB%9D%BC%EB%94%94%EC%95%BC%EC%9D%98%20%EC%96%BC%EC%9D%8C%20%EA%B0%80%EB%A9%B4%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_radiyasicymask
 - [라빌라 추모문](books/%EB%9D%BC%EB%B9%8C%EB%9D%BC%20%EC%B6%94%EB%AA%A8%EB%AC%B8.md) — bk_ravilamemorial
-- [랄람 드레딜의 편지](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_letterfromllaalam/%EB%9E%84%EB%9E%8C%20%EB%93%9C%EB%A0%88%EB%94%9C%EC%9D%98%20%ED%8E%B8%EC%A7%80.md) — bk_letterfromllaalam
-- [랄람 드레딜의 편지](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_letterfromllaalam2/%EB%9E%84%EB%9E%8C%20%EB%93%9C%EB%A0%88%EB%94%9C%EC%9D%98%20%ED%8E%B8%EC%A7%80.md) — bk_letterfromllaalam2
+- [랄람 드레딜의 편지](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_letterfromllaalam/%EB%9E%84%EB%9E%8C%20%EB%93%9C%EB%A0%88%EB%94%9C%EC%9D%98%20%ED%8E%B8%EC%A7%80.md) — bk_letterfromllaalam
+- [랄람 드레딜의 편지](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_letterfromllaalam2/%EB%9E%84%EB%9E%8C%20%EB%93%9C%EB%A0%88%EB%94%9C%EC%9D%98%20%ED%8E%B8%EC%A7%80.md) — bk_letterfromllaalam2
 - [레도란 금고 장부](books/%EB%A0%88%EB%8F%84%EB%9E%80%20%EA%B8%88%EA%B3%A0%20%EC%9E%A5%EB%B6%80.md) — bk_Redoran_Vaults_Ledger
 - [레도란 요리 비법](books/%EB%A0%88%EB%8F%84%EB%9E%80%20%EC%9A%94%EB%A6%AC%20%EB%B9%84%EB%B2%95.md) — bk_redorancookingsecrets
 - [레도란의 희망](books/%EB%A0%88%EB%8F%84%EB%9E%80%EC%9D%98%20%ED%9D%AC%EB%A7%9D.md) — bookskill_blunt weapon1
@@ -175,30 +175,30 @@
 - [말사 울레스에게 보내는 쪽지](books/%EB%A7%90%EC%82%AC%20%EC%9A%B8%EB%A0%88%EC%8A%A4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%AA%BD%EC%A7%80.md) — bk_notetomalsa
 - [망령의 혼인 지참금](books/%EB%A7%9D%EB%A0%B9%EC%9D%98%20%ED%98%BC%EC%9D%B8%20%EC%A7%80%EC%B0%B8%EA%B8%88.md) — bookskill_unarmored1
 - [망자의 군단](books/%EB%A7%9D%EC%9E%90%EC%9D%98%20%EA%B5%B0%EB%8B%A8.md) — bk_legionsofthedead
-- [맞춤 모피 갑옷 가격표](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_fur_armor/%EB%A7%9E%EC%B6%A4%20%EB%AA%A8%ED%94%BC%20%EA%B0%91%EC%98%B7%20%EA%B0%80%EA%B2%A9%ED%91%9C.md) — bk_fur_armor
-- [맞춤 모피 갑옷 가격표](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/sc_fur_armor/%EB%A7%9E%EC%B6%A4%20%EB%AA%A8%ED%94%BC%20%EA%B0%91%EC%98%B7%20%EA%B0%80%EA%B2%A9%ED%91%9C.md) — sc_fur_armor
+- [맞춤 모피 갑옷 가격표](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_fur_armor/%EB%A7%9E%EC%B6%A4%20%EB%AA%A8%ED%94%BC%20%EA%B0%91%EC%98%B7%20%EA%B0%80%EA%B2%A9%ED%91%9C.md) — bk_fur_armor
+- [맞춤 모피 갑옷 가격표](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/sc_fur_armor/%EB%A7%9E%EC%B6%A4%20%EB%AA%A8%ED%94%BC%20%EA%B0%91%EC%98%B7%20%EA%B0%80%EA%B2%A9%ED%91%9C.md) — sc_fur_armor
 - [맞춤 방어구 가격표](books/%EB%A7%9E%EC%B6%A4%20%EB%B0%A9%EC%96%B4%EA%B5%AC%20%EA%B0%80%EA%B2%A9%ED%91%9C.md) — bk_custom_armor
 - [매지카 유린의 두루마리](books/%EB%A7%A4%EC%A7%80%EC%B9%B4%20%EC%9C%A0%EB%A6%B0%EC%9D%98%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_manarape
 - [매지카의 변덕](books/%EB%A7%A4%EC%A7%80%EC%B9%B4%EC%9D%98%20%EB%B3%80%EB%8D%95.md) — bk_VagariesOfMagica
 - [맹렬하게 구워지는 두루마리](books/%EB%A7%B9%EB%A0%AC%ED%95%98%EA%B2%8C%20%EA%B5%AC%EC%9B%8C%EC%A7%80%EB%8A%94%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_FiercelyRoastThyEnemy_unique
 - [멀리 있는 다섯 별](books/%EB%A9%80%EB%A6%AC%20%EC%9E%88%EB%8A%94%20%EB%8B%A4%EC%84%AF%20%EB%B3%84.md) — bk_five_far_stars
 - [메누스에게 보내는 쪽지](books/%EB%A9%94%EB%88%84%EC%8A%A4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%AA%BD%EC%A7%80.md) — bk_notetomenus
-- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_baladas/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_baladas
-- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_belvayn/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_belvayn
-- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_bemis/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_bemis
-- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_bero/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_bero
-- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_brilnosu/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_brilnosu
-- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_galasa/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_galasa
-- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_guril/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_guril
-- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_mavon/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_mavon
-- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_navil/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_navil
-- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_oran/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_oran
-- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_sadus/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_sadus
-- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_saren/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_saren
-- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_therana/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_therana
-- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_varro/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_varro
-- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_vendu/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_vendu
-- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_yasalmibaal/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_yasalmibaal
+- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_baladas/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_baladas
+- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_belvayn/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_belvayn
+- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_bemis/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_bemis
+- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_bero/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_bero
+- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_brilnosu/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_brilnosu
+- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_galasa/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_galasa
+- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_guril/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_guril
+- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_mavon/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_mavon
+- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_navil/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_navil
+- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_oran/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_oran
+- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_sadus/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_sadus
+- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_saren/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_saren
+- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_therana/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_therana
+- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_varro/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_varro
+- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_vendu/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_vendu
+- [명예로운 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_yasalmibaal/%EB%AA%85%EC%98%88%EB%A1%9C%EC%9A%B4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_yasalmibaal
 - [모로윈드 간사](books/%EB%AA%A8%EB%A1%9C%EC%9C%88%EB%93%9C%20%EA%B0%84%EC%82%AC.md) — bk_ShortHistoryMorrowind
 - [모로윈드에 관하여](books/%EB%AA%A8%EB%A1%9C%EC%9C%88%EB%93%9C%EC%97%90%20%EA%B4%80%ED%95%98%EC%97%AC.md) — bk_OnMorrowind
 - [모로윈드의 대가문](books/%EB%AA%A8%EB%A1%9C%EC%9C%88%EB%93%9C%EC%9D%98%20%EB%8C%80%EA%B0%80%EB%AC%B8.md) — bk_great_houses
@@ -323,8 +323,8 @@
 - [새벽과 황혼의 책](books/%EC%83%88%EB%B2%BD%EA%B3%BC%20%ED%99%A9%ED%98%BC%EC%9D%98%20%EC%B1%85.md) — bk_BookDawnAndDusk
 - [생명력의 두루마리](books/%EC%83%9D%EB%AA%85%EB%A0%A5%EC%9D%98%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_vitality
 - [서스크의 역사](books/%EC%84%9C%EC%8A%A4%ED%81%AC%EC%9D%98%20%EC%97%AD%EC%82%AC.md) — bk_ThirskHistory
-- [서스크의 역사 - 개정판](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_ThirskHistory_revised_f/%EC%84%9C%EC%8A%A4%ED%81%AC%EC%9D%98%20%EC%97%AD%EC%82%AC%20-%20%EA%B0%9C%EC%A0%95%ED%8C%90.md) — bk_ThirskHistory_revised_f
-- [서스크의 역사 - 개정판](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_ThirskHistory_revised_m/%EC%84%9C%EC%8A%A4%ED%81%AC%EC%9D%98%20%EC%97%AD%EC%82%AC%20-%20%EA%B0%9C%EC%A0%95%ED%8C%90.md) — bk_ThirskHistory_revised_m
+- [서스크의 역사 - 개정판](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_ThirskHistory_revised_f/%EC%84%9C%EC%8A%A4%ED%81%AC%EC%9D%98%20%EC%97%AD%EC%82%AC%20-%20%EA%B0%9C%EC%A0%95%ED%8C%90.md) — bk_ThirskHistory_revised_f
+- [서스크의 역사 - 개정판](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_ThirskHistory_revised_m/%EC%84%9C%EC%8A%A4%ED%81%AC%EC%9D%98%20%EC%97%AD%EC%82%AC%20-%20%EA%B0%9C%EC%A0%95%ED%8C%90.md) — bk_ThirskHistory_revised_m
 - [석방 신원서](books/%EC%84%9D%EB%B0%A9%20%EC%8B%A0%EC%9B%90%EC%84%9C.md) — chargen statssheet
 - [선돌의 위치](books/%EC%84%A0%EB%8F%8C%EC%9D%98%20%EC%9C%84%EC%B9%98.md) — bk_BM_StoneMap
 - [선장의 피시 스틱 안내서](books/%EC%84%A0%EC%9E%A5%EC%9D%98%20%ED%94%BC%EC%8B%9C%20%EC%8A%A4%ED%8B%B1%20%EC%95%88%EB%82%B4%EC%84%9C.md) — bk_fishystick
@@ -346,22 +346,22 @@
 - [손글씨 쪽지](books/%EC%86%90%EA%B8%80%EC%94%A8%20%EC%AA%BD%EC%A7%80.md) — bk_Irano_note
 - [손글씨 편지](books/%EC%86%90%EA%B8%80%EC%94%A8%20%ED%8E%B8%EC%A7%80.md) — bk_Alen_note
 - [손달레의 쪽지](books/%EC%86%90%EB%8B%AC%EB%A0%88%EC%9D%98%20%EC%AA%BD%EC%A7%80.md) — bk_notefromsondaale
-- [송장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_Teran_invoice/%EC%86%A1%EC%9E%A5.md) — bk_Teran_invoice
-- [송장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_pillowinvoice/%EC%86%A1%EC%9E%A5.md) — bk_pillowinvoice
+- [송장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_Teran_invoice/%EC%86%A1%EC%9E%A5.md) — bk_Teran_invoice
+- [송장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_pillowinvoice/%EC%86%A1%EC%9E%A5.md) — bk_pillowinvoice
 - [수감자 명단](books/%EC%88%98%EA%B0%90%EC%9E%90%20%EB%AA%85%EB%8B%A8.md) — bk_V_hlaaluprison
 - [순례자의 길](books/%EC%88%9C%EB%A1%80%EC%9E%90%EC%9D%98%20%EA%B8%B8.md) — bk_PilgrimsPath
-- [숨은 살인자의 두루마리](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/sc_Chappy_sniper_test/%EC%88%A8%EC%9D%80%20%EC%82%B4%EC%9D%B8%EC%9E%90%EC%9D%98%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_Chappy_sniper_test
-- [숨은 살인자의 두루마리](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/sc_hiddenkiller/%EC%88%A8%EC%9D%80%20%EC%82%B4%EC%9D%B8%EC%9E%90%EC%9D%98%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_hiddenkiller
+- [숨은 살인자의 두루마리](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/sc_Chappy_sniper_test/%EC%88%A8%EC%9D%80%20%EC%82%B4%EC%9D%B8%EC%9E%90%EC%9D%98%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_Chappy_sniper_test
+- [숨은 살인자의 두루마리](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/sc_hiddenkiller/%EC%88%A8%EC%9D%80%20%EC%82%B4%EC%9D%B8%EC%9E%90%EC%9D%98%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_hiddenkiller
 - [스위트셰어 삼촌의 노래](books/%EC%8A%A4%EC%9C%84%ED%8A%B8%EC%85%B0%EC%96%B4%20%EC%82%BC%EC%B4%8C%EC%9D%98%20%EB%85%B8%EB%9E%98.md) — sc_unclesweetshare
 - [스쿠마 중독자의 고백](books/%EC%8A%A4%EC%BF%A0%EB%A7%88%20%EC%A4%91%EB%8F%85%EC%9E%90%EC%9D%98%20%EA%B3%A0%EB%B0%B1.md) — bk_Confessions
 - [시간의 알](books/%EC%8B%9C%EA%B0%84%EC%9D%98%20%EC%95%8C.md) — bk_EggOfTime
 - [시디스](books/%EC%8B%9C%EB%94%94%EC%8A%A4.md) — BookSkill_Alteration3
-- [시련의 가문](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_HouseOfTroubles_c/%EC%8B%9C%EB%A0%A8%EC%9D%98%20%EA%B0%80%EB%AC%B8.md) — bk_HouseOfTroubles_c
-- [시련의 가문](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_HouseOfTroubles_o/%EC%8B%9C%EB%A0%A8%EC%9D%98%20%EA%B0%80%EB%AC%B8.md) — bk_HouseOfTroubles_o
+- [시련의 가문](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_HouseOfTroubles_c/%EC%8B%9C%EB%A0%A8%EC%9D%98%20%EA%B0%80%EB%AC%B8.md) — bk_HouseOfTroubles_c
+- [시련의 가문](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_HouseOfTroubles_o/%EC%8B%9C%EB%A0%A8%EC%9D%98%20%EA%B0%80%EB%AC%B8.md) — bk_HouseOfTroubles_o
 - [시르 성의 공포](books/%EC%8B%9C%EB%A5%B4%20%EC%84%B1%EC%9D%98%20%EA%B3%B5%ED%8F%AC.md) — bk_playscript
 - [시시 보고서](books/%EC%8B%9C%EC%8B%9C%20%EB%B3%B4%EA%B3%A0%EC%84%9C.md) — bk_shishireport
-- [시체 준비 제1권](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_corpsepreperation1_c/%EC%8B%9C%EC%B2%B4%20%EC%A4%80%EB%B9%84%20%EC%A0%9C1%EA%B6%8C.md) — bk_corpsepreperation1_c
-- [시체 준비 제1권](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_corpsepreperation1_o/%EC%8B%9C%EC%B2%B4%20%EC%A4%80%EB%B9%84%20%EC%A0%9C1%EA%B6%8C.md) — bk_corpsepreperation1_o
+- [시체 준비 제1권](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_corpsepreperation1_c/%EC%8B%9C%EC%B2%B4%20%EC%A4%80%EB%B9%84%20%EC%A0%9C1%EA%B6%8C.md) — bk_corpsepreperation1_c
+- [시체 준비 제1권](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_corpsepreperation1_o/%EC%8B%9C%EC%B2%B4%20%EC%A4%80%EB%B9%84%20%EC%A0%9C1%EA%B6%8C.md) — bk_corpsepreperation1_o
 - [시체 준비 제2권](books/%EC%8B%9C%EC%B2%B4%20%EC%A4%80%EB%B9%84%20%EC%A0%9C2%EA%B6%8C.md) — bk_corpsepreperation2_c
 - [시체 준비 제3권](books/%EC%8B%9C%EC%B2%B4%20%EC%A4%80%EB%B9%84%20%EC%A0%9C3%EA%B6%8C.md) — bk_corpsepreperation3_c
 - [식민지 현황 보고서](books/%EC%8B%9D%EB%AF%BC%EC%A7%80%20%ED%98%84%ED%99%A9%20%EB%B3%B4%EA%B3%A0%EC%84%9C.md) — bk_colonyreport
@@ -382,9 +382,9 @@
 - [아마야에게 보내는 쪽지](books/%EC%95%84%EB%A7%88%EC%95%BC%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%AA%BD%EC%A7%80.md) — bk_NoteToAmaya
 - [아베르나니트의 죽음의 일격](books/%EC%95%84%EB%B2%A0%EB%A5%B4%EB%82%98%EB%8B%88%ED%8A%B8%EC%9D%98%20%EC%A3%BD%EC%9D%8C%EC%9D%98%20%EC%9D%BC%EA%B2%A9.md) — BookSkill_Block1
 - [아스카디아 제도 토지 증서](books/%EC%95%84%EC%8A%A4%EC%B9%B4%EB%94%94%EC%95%84%20%EC%A0%9C%EB%8F%84%20%ED%86%A0%EC%A7%80%20%EC%A6%9D%EC%84%9C.md) — bk_landdeed_hhrd
-- [아우라네 프레르니스의 조제법](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_AuraneFrernis1/%EC%95%84%EC%9A%B0%EB%9D%BC%EB%84%A4%20%ED%94%84%EB%A0%88%EB%A5%B4%EB%8B%88%EC%8A%A4%EC%9D%98%20%EC%A1%B0%EC%A0%9C%EB%B2%95.md) — bk_AuraneFrernis1
-- [아우라네 프레르니스의 조제법](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_auranefrernis2/%EC%95%84%EC%9A%B0%EB%9D%BC%EB%84%A4%20%ED%94%84%EB%A0%88%EB%A5%B4%EB%8B%88%EC%8A%A4%EC%9D%98%20%EC%A1%B0%EC%A0%9C%EB%B2%95.md) — bk_auranefrernis2
-- [아우라네 프레르니스의 조제법](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_auranefrernis3/%EC%95%84%EC%9A%B0%EB%9D%BC%EB%84%A4%20%ED%94%84%EB%A0%88%EB%A5%B4%EB%8B%88%EC%8A%A4%EC%9D%98%20%EC%A1%B0%EC%A0%9C%EB%B2%95.md) — bk_auranefrernis3
+- [아우라네 프레르니스의 조제법](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_AuraneFrernis1/%EC%95%84%EC%9A%B0%EB%9D%BC%EB%84%A4%20%ED%94%84%EB%A0%88%EB%A5%B4%EB%8B%88%EC%8A%A4%EC%9D%98%20%EC%A1%B0%EC%A0%9C%EB%B2%95.md) — bk_AuraneFrernis1
+- [아우라네 프레르니스의 조제법](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_auranefrernis2/%EC%95%84%EC%9A%B0%EB%9D%BC%EB%84%A4%20%ED%94%84%EB%A0%88%EB%A5%B4%EB%8B%88%EC%8A%A4%EC%9D%98%20%EC%A1%B0%EC%A0%9C%EB%B2%95.md) — bk_auranefrernis2
+- [아우라네 프레르니스의 조제법](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_auranefrernis3/%EC%95%84%EC%9A%B0%EB%9D%BC%EB%84%A4%20%ED%94%84%EB%A0%88%EB%A5%B4%EB%8B%88%EC%8A%A4%EC%9D%98%20%EC%A1%B0%EC%A0%9C%EB%B2%95.md) — bk_auranefrernis3
 - [아주라 소환](books/%EC%95%84%EC%A3%BC%EB%9D%BC%20%EC%86%8C%ED%99%98.md) — bk_InvocationOfAzura
 - [아주라와 상자](books/%EC%95%84%EC%A3%BC%EB%9D%BC%EC%99%80%20%EC%83%81%EC%9E%90.md) — BookSkill_Sneak3
 - [아지라의 꽃 보고서](books/%EC%95%84%EC%A7%80%EB%9D%BC%EC%9D%98%20%EA%BD%83%20%EB%B3%B4%EA%B3%A0%EC%84%9C.md) — bk_Ajira2
@@ -421,13 +421,13 @@
 - [오드랄의 제국사 3](books/%EC%98%A4%EB%93%9C%EB%9E%84%EC%9D%98%20%EC%A0%9C%EA%B5%AD%EC%82%AC%203.md) — bk_BriefHistoryEmpire3_oh
 - [오드랄의 제국사 4](books/%EC%98%A4%EB%93%9C%EB%9E%84%EC%9D%98%20%EC%A0%9C%EA%B5%AD%EC%82%AC%204.md) — bk_BriefHistoryEmpire4_oh
 - [오드랄의 토지 증서](books/%EC%98%A4%EB%93%9C%EB%9E%84%EC%9D%98%20%ED%86%A0%EC%A7%80%20%EC%A6%9D%EC%84%9C.md) — bk_landdeedfake_hhrd
-- [오래된 드웨머 서적](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/book_dwe_boom00/%EC%98%A4%EB%9E%98%EB%90%9C%20%EB%93%9C%EC%9B%A8%EB%A8%B8%20%EC%84%9C%EC%A0%81.md) — book_dwe_boom00
-- [오래된 드웨머 서적](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/book_dwe_cogs00/%EC%98%A4%EB%9E%98%EB%90%9C%20%EB%93%9C%EC%9B%A8%EB%A8%B8%20%EC%84%9C%EC%A0%81.md) — book_dwe_cogs00
-- [오래된 드웨머 서적](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/book_dwe_mach00/%EC%98%A4%EB%9E%98%EB%90%9C%20%EB%93%9C%EC%9B%A8%EB%A8%B8%20%EC%84%9C%EC%A0%81.md) — book_dwe_mach00
-- [오래된 드웨머 서적](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/book_dwe_metal_fab00/%EC%98%A4%EB%9E%98%EB%90%9C%20%EB%93%9C%EC%9B%A8%EB%A8%B8%20%EC%84%9C%EC%A0%81.md) — book_dwe_metal_fab00
-- [오래된 드웨머 서적](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/book_dwe_pipe00/%EC%98%A4%EB%9E%98%EB%90%9C%20%EB%93%9C%EC%9B%A8%EB%A8%B8%20%EC%84%9C%EC%A0%81.md) — book_dwe_pipe00
-- [오래된 드웨머 서적](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/book_dwe_power_con00/%EC%98%A4%EB%9E%98%EB%90%9C%20%EB%93%9C%EC%9B%A8%EB%A8%B8%20%EC%84%9C%EC%A0%81.md) — book_dwe_power_con00
-- [오래된 드웨머 서적](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/book_dwe_water00/%EC%98%A4%EB%9E%98%EB%90%9C%20%EB%93%9C%EC%9B%A8%EB%A8%B8%20%EC%84%9C%EC%A0%81.md) — book_dwe_water00
+- [오래된 드웨머 서적](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/book_dwe_boom00/%EC%98%A4%EB%9E%98%EB%90%9C%20%EB%93%9C%EC%9B%A8%EB%A8%B8%20%EC%84%9C%EC%A0%81.md) — book_dwe_boom00
+- [오래된 드웨머 서적](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/book_dwe_cogs00/%EC%98%A4%EB%9E%98%EB%90%9C%20%EB%93%9C%EC%9B%A8%EB%A8%B8%20%EC%84%9C%EC%A0%81.md) — book_dwe_cogs00
+- [오래된 드웨머 서적](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/book_dwe_mach00/%EC%98%A4%EB%9E%98%EB%90%9C%20%EB%93%9C%EC%9B%A8%EB%A8%B8%20%EC%84%9C%EC%A0%81.md) — book_dwe_mach00
+- [오래된 드웨머 서적](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/book_dwe_metal_fab00/%EC%98%A4%EB%9E%98%EB%90%9C%20%EB%93%9C%EC%9B%A8%EB%A8%B8%20%EC%84%9C%EC%A0%81.md) — book_dwe_metal_fab00
+- [오래된 드웨머 서적](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/book_dwe_pipe00/%EC%98%A4%EB%9E%98%EB%90%9C%20%EB%93%9C%EC%9B%A8%EB%A8%B8%20%EC%84%9C%EC%A0%81.md) — book_dwe_pipe00
+- [오래된 드웨머 서적](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/book_dwe_power_con00/%EC%98%A4%EB%9E%98%EB%90%9C%20%EB%93%9C%EC%9B%A8%EB%A8%B8%20%EC%84%9C%EC%A0%81.md) — book_dwe_power_con00
+- [오래된 드웨머 서적](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/book_dwe_water00/%EC%98%A4%EB%9E%98%EB%90%9C%20%EB%93%9C%EC%9B%A8%EB%A8%B8%20%EC%84%9C%EC%A0%81.md) — book_dwe_water00
 - [오리티우스 마로의 쪽지](books/%EC%98%A4%EB%A6%AC%ED%8B%B0%EC%9A%B0%EC%8A%A4%20%EB%A7%88%EB%A1%9C%EC%9D%98%20%EC%AA%BD%EC%A7%80.md) — bk_talostreason
 - [오브 왕자의 브라이트발 두루마리](books/%EC%98%A4%EB%B8%8C%20%EC%99%95%EC%9E%90%EC%9D%98%20%EB%B8%8C%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B0%9C%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_princeovsbrightball
 - [오블리비언에 관하여](books/%EC%98%A4%EB%B8%94%EB%A6%AC%EB%B9%84%EC%96%B8%EC%97%90%20%EA%B4%80%ED%95%98%EC%97%AC.md) — bk_onoblivion
@@ -436,9 +436,9 @@
 - [오카토의 편지](books/%EC%98%A4%EC%B9%B4%ED%86%A0%EC%9D%98%20%ED%8E%B8%EC%A7%80.md) — bk_ocato_recommendation
 - [오크의 참된 본성](books/%EC%98%A4%ED%81%AC%EC%9D%98%20%EC%B0%B8%EB%90%9C%20%EB%B3%B8%EC%84%B1.md) — bk_truenatureoforcs
 - [온두시의 정신 붕괴 두루마리](books/%EC%98%A8%EB%91%90%EC%8B%9C%EC%9D%98%20%EC%A0%95%EC%8B%A0%20%EB%B6%95%EA%B4%B4%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_ondusisunhinging
-- [왕실 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_Alen/%EC%99%95%EC%8B%A4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_Alen
-- [왕실 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_Berano/%EC%99%95%EC%8B%A4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_Berano
-- [왕실 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/writ_Hloggar/%EC%99%95%EC%8B%A4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_Hloggar
+- [왕실 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_Alen/%EC%99%95%EC%8B%A4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_Alen
+- [왕실 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_Berano/%EC%99%95%EC%8B%A4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_Berano
+- [왕실 처형 영장](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/writ_Hloggar/%EC%99%95%EC%8B%A4%20%EC%B2%98%ED%98%95%20%EC%98%81%EC%9E%A5.md) — writ_Hloggar
 - [요르니브레트 경의 마지막 춤](books/%EC%9A%94%EB%A5%B4%EB%8B%88%EB%B8%8C%EB%A0%88%ED%8A%B8%20%EA%B2%BD%EC%9D%98%20%EB%A7%88%EC%A7%80%EB%A7%89%20%EC%B6%A4.md) — bookskill_light armor3
 - [용이 부서졌을 때 어디에 있었는가](books/%EC%9A%A9%EC%9D%B4%20%EB%B6%80%EC%84%9C%EC%A1%8C%EC%9D%84%20%EB%95%8C%20%EC%96%B4%EB%94%94%EC%97%90%20%EC%9E%88%EC%97%88%EB%8A%94%EA%B0%80.md) — bk_wherewereyoudragonbroke
 - [우스의 하늘의 손의 두루마리](books/%EC%9A%B0%EC%8A%A4%EC%9D%98%20%ED%95%98%EB%8A%98%EC%9D%98%20%EC%86%90%EC%9D%98%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_uthshandofheaven
@@ -453,8 +453,8 @@
 - [위더신스](books/%EC%9C%84%EB%8D%94%EC%8B%A0%EC%8A%A4.md) — bookskill_restoration1
 - [유령 없음 증명서](books/%EC%9C%A0%EB%A0%B9%20%EC%97%86%EC%9D%8C%20%EC%A6%9D%EB%AA%85%EC%84%9C.md) — bk_uleni's_papers
 - [육신의 순수의 두루마리](books/%EC%9C%A1%EC%8B%A0%EC%9D%98%20%EC%88%9C%EC%88%98%EC%9D%98%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_purityofbody
-- [은가스타! 크바타! 크바키스!](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_NGastaKvataKvakis_c/%EC%9D%80%EA%B0%80%EC%8A%A4%ED%83%80%21%20%ED%81%AC%EB%B0%94%ED%83%80%21%20%ED%81%AC%EB%B0%94%ED%82%A4%EC%8A%A4%21.md) — bk_NGastaKvataKvakis_c
-- [은가스타! 크바타! 크바키스!](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_NGastaKvataKvakis_o/%EC%9D%80%EA%B0%80%EC%8A%A4%ED%83%80%21%20%ED%81%AC%EB%B0%94%ED%83%80%21%20%ED%81%AC%EB%B0%94%ED%82%A4%EC%8A%A4%21.md) — bk_NGastaKvataKvakis_o
+- [은가스타! 크바타! 크바키스!](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_NGastaKvataKvakis_c/%EC%9D%80%EA%B0%80%EC%8A%A4%ED%83%80%21%20%ED%81%AC%EB%B0%94%ED%83%80%21%20%ED%81%AC%EB%B0%94%ED%82%A4%EC%8A%A4%21.md) — bk_NGastaKvataKvakis_c
+- [은가스타! 크바타! 크바키스!](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_NGastaKvataKvakis_o/%EC%9D%80%EA%B0%80%EC%8A%A4%ED%83%80%21%20%ED%81%AC%EB%B0%94%ED%83%80%21%20%ED%81%AC%EB%B0%94%ED%82%A4%EC%8A%A4%21.md) — bk_NGastaKvataKvakis_o
 - [은빛 광채의 두루마리](books/%EC%9D%80%EB%B9%9B%20%EA%B4%91%EC%B1%84%EC%9D%98%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_argentglow
 - [은출레프트 연대기](books/%EC%9D%80%EC%B6%9C%EB%A0%88%ED%94%84%ED%8A%B8%20%EC%97%B0%EB%8C%80%EA%B8%B0.md) — bk_ChroniclesNchuleft
 - [음탕한 아르고니안 하녀](books/%EC%9D%8C%ED%83%95%ED%95%9C%20%EC%95%84%EB%A5%B4%EA%B3%A0%EB%8B%88%EC%95%88%20%ED%95%98%EB%85%80.md) — bk_lustyargonianmaid
@@ -513,8 +513,8 @@
 - [졸다의 소유물](books/%EC%A1%B8%EB%8B%A4%EC%9D%98%20%EC%86%8C%EC%9C%A0%EB%AC%BC.md) — bk_propertyofjolda
 - [종족 계통발생에 관한 기록](books/%EC%A2%85%EC%A1%B1%20%EA%B3%84%ED%86%B5%EB%B0%9C%EC%83%9D%EC%97%90%20%EA%B4%80%ED%95%9C%20%EA%B8%B0%EB%A1%9D.md) — bookskill_restoration2
 - [주문 명세서](books/%EC%A3%BC%EB%AC%B8%20%EB%AA%85%EC%84%B8%EC%84%9C.md) — bk_eggorders
-- [주석본 아누아드](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_AnnotatedAnuad/%EC%A3%BC%EC%84%9D%EB%B3%B8%20%EC%95%84%EB%88%84%EC%95%84%EB%93%9C.md) — bk_AnnotatedAnuad
-- [주석본 아누아드](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_ChildrensAnuad/%EC%A3%BC%EC%84%9D%EB%B3%B8%20%EC%95%84%EB%88%84%EC%95%84%EB%93%9C.md) — bk_ChildrensAnuad
+- [주석본 아누아드](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_AnnotatedAnuad/%EC%A3%BC%EC%84%9D%EB%B3%B8%20%EC%95%84%EB%88%84%EC%95%84%EB%93%9C.md) — bk_AnnotatedAnuad
+- [주석본 아누아드](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_ChildrensAnuad/%EC%A3%BC%EC%84%9D%EB%B3%B8%20%EC%95%84%EB%88%84%EC%95%84%EB%93%9C.md) — bk_ChildrensAnuad
 - [죽어가는 남자의 유언](books/%EC%A3%BD%EC%96%B4%EA%B0%80%EB%8A%94%20%EB%82%A8%EC%9E%90%EC%9D%98%20%EC%9C%A0%EC%96%B8.md) — sc_Indie
 - [지르 성의 공포](books/%EC%A7%80%EB%A5%B4%20%EC%84%B1%EC%9D%98%20%EA%B3%B5%ED%8F%AC.md) — bookskill_destruction1
 - [지옥불의 두루마리](books/%EC%A7%80%EC%98%A5%EB%B6%88%EC%9D%98%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_hellfire
@@ -606,15 +606,15 @@
 - [품절 안내문](books/%ED%92%88%EC%A0%88%20%EC%95%88%EB%82%B4%EB%AC%B8.md) — bk_notesoldout
 - [프리사의 일지](books/%ED%94%84%EB%A6%AC%EC%82%AC%EC%9D%98%20%EC%9D%BC%EC%A7%80.md) — bk_fryssajournal
 - [피로 쓴 두루마리](books/%ED%94%BC%EB%A1%9C%20%EC%93%B4%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_Malaki
-- [피로 얼룩진 쪽지](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/sc_bloodynote_s/%ED%94%BC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A7%84%20%EC%AA%BD%EC%A7%80.md) — sc_bloodynote_s
-- [피로 얼룩진 쪽지](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/sc_fjellnote/%ED%94%BC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A7%84%20%EC%AA%BD%EC%A7%80.md) — sc_fjellnote
-- [피로 얼룩진 쪽지](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/sc_frosselnote/%ED%94%BC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A7%84%20%EC%AA%BD%EC%A7%80.md) — sc_frosselnote
+- [피로 얼룩진 쪽지](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/sc_bloodynote_s/%ED%94%BC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A7%84%20%EC%AA%BD%EC%A7%80.md) — sc_bloodynote_s
+- [피로 얼룩진 쪽지](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/sc_fjellnote/%ED%94%BC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A7%84%20%EC%AA%BD%EC%A7%80.md) — sc_fjellnote
+- [피로 얼룩진 쪽지](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/sc_frosselnote/%ED%94%BC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A7%84%20%EC%AA%BD%EC%A7%80.md) — sc_frosselnote
 - [피의 도둑의 두루마리](books/%ED%94%BC%EC%9D%98%20%EB%8F%84%EB%91%91%EC%9D%98%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_bloodthief
 - [피의 불꽃의 두루마리](books/%ED%94%BC%EC%9D%98%20%EB%B6%88%EA%BD%83%EC%9D%98%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_bloodfire
 - [하급 지배의 두루마리](books/%ED%95%98%EA%B8%89%20%EC%A7%80%EB%B0%B0%EC%9D%98%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_lesserdomination
 - [하늘의 아이들](books/%ED%95%98%EB%8A%98%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%93%A4.md) — bk_ChildrenOfTheSky
-- [하닌의 장례 연회](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_bartendersguide/%ED%95%98%EB%8B%8C%EC%9D%98%20%EC%9E%A5%EB%A1%80%20%EC%97%B0%ED%9A%8C.md) — bk_bartendersguide
-- [하닌의 장례 연회](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation.esp/bk_bartendersguide_01/%ED%95%98%EB%8B%8C%EC%9D%98%20%EC%9E%A5%EB%A1%80%20%EC%97%B0%ED%9A%8C.md) — bk_bartendersguide_01
+- [하닌의 장례 연회](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_bartendersguide/%ED%95%98%EB%8B%8C%EC%9D%98%20%EC%9E%A5%EB%A1%80%20%EC%97%B0%ED%9A%8C.md) — bk_bartendersguide
+- [하닌의 장례 연회](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/Morrowind_Korean_ReTranslation_esp/bk_bartendersguide_01/%ED%95%98%EB%8B%8C%EC%9D%98%20%EC%9E%A5%EB%A1%80%20%EC%97%B0%ED%9A%8C.md) — bk_bartendersguide_01
 - [할게르드의 이야기](books/%ED%95%A0%EA%B2%8C%EB%A5%B4%EB%93%9C%EC%9D%98%20%EC%9D%B4%EC%95%BC%EA%B8%B0.md) — bookskill_heavy armor1
 - [해골 소환의 두루마리](books/%ED%95%B4%EA%B3%A8%20%EC%86%8C%ED%99%98%EC%9D%98%20%EB%91%90%EB%A3%A8%EB%A7%88%EB%A6%AC.md) — sc_summonskeletalservant
 - [해독된 서신](books/%ED%95%B4%EB%8F%85%EB%90%9C%20%EC%84%9C%EC%8B%A0.md) — bk_a1_1_packagedecoded
