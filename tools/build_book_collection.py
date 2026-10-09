@@ -142,6 +142,27 @@ def skyrim(folder):
                     plugin=plugin,form_id=str(fid),editor_id=row.get("editor_id",""))
     return list(output.values())
 
+def book_filename(book):
+    """Only the translated title appears in the filename (no ID/hash suffix)."""
+    import unicodedata
+    name=unicodedata.normalize("NFC",str(book["title_ko"])).strip()
+    name=re.sub(r'[<>:"/\\|?*#%\x00-\x1f]'," ",name)
+    name=re.sub(r"\s+"," ",name).strip(" .")
+    if not name:
+        name="제목 미확인"
+    if name.upper().split(".")[0] in {"CON","PRN","AUX","NUL","COM1","COM2","LPT1","LPT2"}:
+        name="서적 "+name
+    # Keep the UTF-8 basename under the 255-byte file-system limit.
+    while len((name+".md").encode("utf-8"))>245:
+        name=name[:-1].rstrip(" .")
+    return name+".md"
+
+
+def safe_segment(value):
+    value=re.sub(r'[^A-Za-z0-9가-힣._-]',"_",str(value)).strip("._")
+    return value[:80] or "unknown"
+
+
 def render(book):
     title=book["title_ko"].replace("\n"," ").replace("#",r"\#")
     details=["ID: "+book["book_id"]]
@@ -152,58 +173,64 @@ def render(book):
     return "## "+title+"\n\n"+" / ".join(details)+"\n\n"+book["ko"].replace("\n","  \n")+"\n\n"+credit+"\n\n---\n\n"
 
 
-def file_name(book):
-    """Stable and collision-resistant, compatible with Windows filenames."""
-    key="/".join((book["game"],book.get("plugin",""),book["book_id"]))
-    safe_id=re.sub(r"[^A-Za-z0-9가-힣._-]+","-",book["book_id"]).strip("-.")[:52]
-    safe_title=re.sub(r"[^A-Za-z0-9가-힣._-]+","-",book["title_ko"]).strip("-.")[:54]
-    identifier=hashlib.sha256(key.encode("utf-8")).hexdigest()[:12]
-    return f"{safe_id or 'book'}-{safe_title or 'untitled'}-{identifier}.md"
-
-
 def export(root,game,books):
+    import shutil
+    from collections import Counter
+    from urllib.parse import quote
     d=root/game
     d.mkdir(parents=True,exist_ok=True)
     books.sort(key=lambda b:(b.get("plugin",""),b["title_ko"],b["book_id"]))
     intro="# The Elder Scrolls "+GAMES[game]+" 한국어 서적 합본\n\n"
     if not books:
         (d/"index.md").write_text(intro+"현재 사용 가능한 한국어 서적 본문 자료가 없어 보류 중입니다.\n",encoding="utf-8")
-        return {"game":game,"books":0,"individual_files":0,"available":False}
+        return {"game":game,"books":0,"individual_files":0,"duplicate_titles":0,"available":False}
     intro+=f"수록 서적: {len(books):,}건. 기존 번역 데이터를 추출한 상태이며 인게임 전수 검수를 의미하지 않습니다.\n\n---\n\n"
     full=intro+"".join(map(render,books))
     (d/"complete.md").write_text(full,encoding="utf-8")
-    with (d/"books.jsonl").open("w",encoding="utf-8",newline="\n") as f:
-        for b in books: f.write(json.dumps(b,ensure_ascii=False,sort_keys=True)+"\n")
 
-    # Every book has a directly-linkable file in addition to complete/part collections.
+    names=[book_filename(b) for b in books]
+    duplicates=Counter(name.casefold() for name in names)
+    # Clean only generated per-book files, never source material or shared docs.
     individual=d/"books"
-    individual.mkdir(exist_ok=True)
+    if individual.exists():
+        shutil.rmtree(individual)
+    individual.mkdir()
     index_rows=[]
-    filenames=set()
-    for book in books:
-        name=file_name(book)
-        normalized=name.casefold()
-        if normalized in filenames:
-            raise ValueError("Duplicate individual book filename: "+name)
-        filenames.add(normalized)
+    paths=set()
+    for book,name in zip(books,names):
+        if duplicates[name.casefold()]>1:
+            # Conflicting book titles keep the SAME clean filename; only the
+            # containing directory distinguishes the two distinct records.
+            rel=Path("books")/"동명이서적"/safe_segment(book.get("plugin","game"))/safe_segment(book["book_id"])/name
+        else:
+            rel=Path("books")/name
+        key=rel.as_posix().casefold()
+        if key in paths: raise ValueError("Book file path collision: "+str(rel))
+        paths.add(key)
+        filepath=d/rel
+        filepath.parent.mkdir(parents=True,exist_ok=True)
         single=render(book).replace("## ","# ",1)
-        single=single.rsplit("\n---\n",1)[0].rstrip()+"\n"
-        (individual/name).write_text(single,encoding="utf-8")
+        filepath.write_text(single.rsplit("\n---\n",1)[0].rstrip()+"\n",encoding="utf-8")
+        book["file_path"]=rel.as_posix()
         title=book["title_ko"].replace("\n"," ").replace("[",r"\[").replace("]",r"\]")
-        index_rows.append(f"- [{title}](books/{name}) — {book['book_id']}")
-
+        index_rows.append(f"- [{title}]({quote(rel.as_posix(),safe='/')}) — {book['book_id']}")
+    with (d/"books.jsonl").open("w",encoding="utf-8",newline="\n") as f:
+        for book in books:
+            f.write(json.dumps(book,ensure_ascii=False,sort_keys=True)+"\n")
     parts=[]
     for i in range(0,len(books),40):
         name=f"part-{i//40+1:02d}.md"
         (d/name).write_text(intro+"".join(map(render,books[i:i+40])),encoding="utf-8")
         parts.append(f"- [{i+1}~{min(len(books),i+40)}권]({name})")
     (d/"index.md").write_text(intro+
-        "[전체 합본](complete.md) · [JSONL](books.jsonl)\n\n"+
+        "[웹 도서관](../../index.html) · [전체 합본](complete.md) · [JSONL](books.jsonl)\n\n"+
         "### 개별 서적 파일\n\n"+
-        f"총 {len(books):,}개의 독립 Markdown 파일 (books/). 제목을 선택하면 해당 책만 열립니다.\n\n"+
+        f"총 {len(books):,}개의 독립 Markdown 파일. 파일명은 한국어 책 제목만 사용합니다.\n"+
+        "같은 제목의 서로 다른 책은 동명이서적 하위 폴더에서 구분합니다.\n\n"+
         "\n".join(index_rows)+"\n\n"+
         "### 40권 단위 분할 열람\n\n"+"\n".join(parts)+"\n",encoding="utf-8")
-    return {"game":game,"books":len(books),"individual_files":len(filenames),"available":True,
+    return {"game":game,"books":len(books),"individual_files":len(paths),
+            "duplicate_titles":sum(v for v in duplicates.values() if v>1),"available":True,
             "sha256":hashlib.sha256(full.encode()).hexdigest()}
 
 
