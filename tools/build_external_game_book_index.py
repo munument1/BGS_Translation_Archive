@@ -50,9 +50,13 @@ def make_record(game,title,index,source_url,source_description,title_ko="",direc
         "direct_link":bool(direct_url),
         "source_description":source_description,
         "status":"bibliography_only",
+        "translation_status":"untranslated",
         "translation_complete":False,
         "rights_reviewed":False,
         "full_text_included":False,
+        "body_en":None,
+        "body_ko":None,
+        "source_text_access":"external_link_only",
     }
 
 def build(epub,curated,known_refs):
