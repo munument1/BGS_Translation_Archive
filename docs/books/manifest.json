@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "games": [
+    {
+      "game": "daggerfall",
+      "books": 93,
+      "available": true,
+      "sha256": "fe292252b24aeba89c73225037d6f09fcc0997e408c722d6e37499d8dfda8084"
+    },
+    {
+      "game": "morrowind",
+      "books": 632,
+      "available": true,
+      "sha256": "6ab57dfd40af660fe2e02c03c0d9df73f2e2db8bcda64e6f22e396c5dcbefb6e"
+    },
+    {
+      "game": "oblivion",
+      "books": 927,
+      "available": true,
+      "sha256": "83aee59d65a4c0d7246fb33db844e79d0cb995f4e1a20190a46e2b82692a14a6"
+    },
+    {
+      "game": "skyrim",
+      "books": 0,
+      "available": false
+    }
+  ],
+  "sources": {
+    "daggerfall": "https://github.com/munument1/-KR-Daggerfall_Unity",
+    "morrowind": "https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4",
+    "oblivion": "https://github.com/munument1/-KR-Oblivion-Translation",
+    "skyrim": "sources/skyrim_books (not supplied)"
+  }
+}
