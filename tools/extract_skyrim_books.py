@@ -129,12 +129,13 @@ def book_records(plugin: Path):
         raise ValueError(f"Malformed or incomplete Skyrim plugin: {plugin}")
 
 
-def run(input_dir: Path, output: Path):
+def run(input_dir: Path, output: Path, plugins_dir: Path | None = None):
     strings_dir = input_dir / "strings"
     if not strings_dir.is_dir():
         raise ValueError(f"Missing strings directory: {strings_dir}")
     all_tables = {p.name.lower():p for p in strings_dir.iterdir() if p.is_file()}
-    plugin_paths = sorted(p for p in input_dir.iterdir()
+    plugin_root = plugins_dir or input_dir
+    plugin_paths = sorted(p for p in plugin_root.iterdir()
                           if p.is_file() and p.suffix.lower() in (".esm", ".esp", ".esl"))
     if not plugin_paths:
         raise ValueError(
@@ -196,8 +197,9 @@ def main():
     a=argparse.ArgumentParser()
     a.add_argument("input_dir",type=Path,help="Local folder containing ESM/ESP/ESL and strings/")
     a.add_argument("--output",type=Path,default=Path("sources/skyrim_books/skyrim_book_records.jsonl"))
+    a.add_argument("--plugins-dir",type=Path,help="Optional separate Skyrim Data directory containing ESM/ESL")
     args=a.parse_args()
-    run(args.input_dir,args.output)
+    run(args.input_dir,args.output,args.plugins_dir)
 
 
 if __name__=="__main__":
