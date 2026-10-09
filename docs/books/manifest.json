@@ -38,6 +38,6 @@
     "daggerfall": "https://github.com/munument1/-KR-Daggerfall_Unity",
     "morrowind": "https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4",
     "oblivion": "https://github.com/munument1/-KR-Oblivion-Translation",
-    "skyrim": "sources/skyrim_books (not supplied)"
+    "skyrim": "sources/skyrim_books (localized BOOK JSONL)"
   }
 }
