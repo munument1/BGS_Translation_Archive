@@ -34,6 +34,7 @@ jobs:
           test -f docs/assets/library.js
           test -f docs/books/catalog.json
           test -f docs/books/fulltext-index.json
+          node --check docs/assets/library.js
           python3 - <<'PY'
           import json
           from pathlib import Path
