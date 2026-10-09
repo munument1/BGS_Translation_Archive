@@ -1,0 +1,56 @@
+name: Publish Tamriel Library Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+      - ".github/workflows/publish-pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Confirm complete static library
+        run: |
+          test -f docs/index.html
+          test -f docs/assets/library.css
+          test -f docs/assets/library.js
+          test -f docs/books/catalog.json
+          test -f docs/books/fulltext-index.json
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          root=Path('docs/books')
+          c=json.loads((root/'catalog.json').read_text(encoding='utf-8'))
+          assert len(c['books'])>=1600
+          assert all((root/b['path']).is_file() for b in c['books'])
+          print('Verified pages catalog: '+str(len(c['books']))+' linked books')
+          PY
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload docs as a static site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
