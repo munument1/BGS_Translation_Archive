@@ -96,7 +96,20 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A docs/books
+          git add -f -A docs/books
+          python3 - <<'PY'
+          import json, subprocess
+          from pathlib import Path
+          root=Path('docs/books')
+          m=json.loads((root/'manifest.json').read_text(encoding='utf-8'))
+          tracked=set(subprocess.check_output(['git','ls-files','--cached','--','docs/books'],text=True).splitlines())
+          for item in m['games']:
+              expected=set(p.as_posix() for p in (root/item['game']/'books').rglob('*.md'))
+              missing=expected-tracked
+              assert not missing,(item['game'],len(missing),sorted(missing)[:6])
+              assert len(expected)==item['individual_files']
+              print(item['game'],len(expected),'tracked individual books')
+          PY
           if ! git diff --cached --quiet; then
             git commit -m "docs: update Elder Scrolls Korean book anthologies"
             git pull --rebase origin main
