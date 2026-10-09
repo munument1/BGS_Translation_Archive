@@ -73,6 +73,7 @@ node tools/extract_eso_epub_local.cjs --epub "C:\\path\\to\\ElderScrollsOnline_T
 - 공개 자료: 제목·링크·서지 메타데이터, 한국어 번역 작업 틀만 유지
 - 자동 다운로드·사이트 접속·403 우회·공개 저장소에 원문 전문 업로드 기능은 없습니다.
 - ESO 일반 서적 이외 네 분류의 원문 전문은 아직 확보되지 않았습니다.
+- 테스트 결과(2026-10-10): 참고 EPUB의 ESO 2,533개 항목 중 **2,530개의 텍스트 추출을 확인**했습니다. `Daedric Text`, `Snapdragon’s Burnt Notes`, `Summoning Rituals of the Arch-Mage` 3개는 EPUB 본문 HTML에서 추출 가능한 텍스트가 없어 예외로 기록됩니다. 이 시험 추출물은 공개 저장소에 커밋하지 않고 일회성 실행 환경에서 삭제했습니다.
 
 ## 저작권과 원문 재배포
 
