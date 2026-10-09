@@ -102,7 +102,7 @@ jobs:
           from pathlib import Path
           root=Path('docs/books')
           m=json.loads((root/'manifest.json').read_text(encoding='utf-8'))
-          tracked=set(subprocess.check_output(['git','ls-files','--cached','--','docs/books'],text=True).splitlines())
+          tracked=set(subprocess.check_output(['git','ls-files','-z','--cached','--','docs/books']).decode('utf-8').split('\x00'))
           for item in m['games']:
               expected=set(p.as_posix() for p in (root/item['game']/'books').rglob('*.md'))
               missing=expected-tracked
