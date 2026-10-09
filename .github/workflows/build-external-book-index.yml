@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "tools/build_external_game_book_index.py"
+      - "tools/extract_eso_epub_local.cjs"
       - "sources/imperial_library/**"
       - "docs/books/external_candidates.json"
       - ".github/workflows/build-external-book-index.yml"
@@ -28,6 +29,22 @@ jobs:
             "https://raw.githubusercontent.com/HorrorPills/epub-imperial-library/main/ElderScrollsOnline_Tomes.epub" \
             -o /tmp/eso-library-reference.epub
           unzip -t /tmp/eso-library-reference.epub | tail -n 2
+      - name: Validate private offline English text extraction
+        run: |
+          node --check tools/extract_eso_epub_local.cjs
+          node tools/extract_eso_epub_local.cjs --epub /tmp/eso-library-reference.epub
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path('work/imperial_library_originals/eso')
+          manifest=json.loads((p/'_extraction_manifest.json').read_text(encoding='utf-8'))
+          assert manifest['total']==2533, manifest['total']
+          assert manifest['success']>=2500, manifest['errors'][:5]
+          assert len(list(p.glob('ext-*.txt')))==manifest['success']
+          print('PRIVATE extraction validated:', manifest['success'], 'chapters')
+          PY
+          git check-ignore work/imperial_library_originals/eso/_extraction_manifest.json
+          rm -rf work/imperial_library_originals
       - name: Extract only chapter titles from NCX, not text bodies
         run: |
           python3 tools/build_external_game_book_index.py \
