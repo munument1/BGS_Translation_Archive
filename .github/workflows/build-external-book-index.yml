@@ -1,0 +1,56 @@
+name: Build Additional Game Books Bibliography
+
+on:
+  push:
+    paths:
+      - "tools/build_external_game_book_index.py"
+      - "sources/imperial_library/**"
+      - "docs/books/external_candidates.json"
+      - ".github/workflows/build-external-book-index.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: external-book-index
+  cancel-in-progress: true
+
+jobs:
+  bibliography:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download reference ESO EPUB to a temporary path
+        run: |
+          curl --fail --location --retry 4 --retry-delay 3 \
+            "https://raw.githubusercontent.com/HorrorPills/epub-imperial-library/main/ElderScrollsOnline_Tomes.epub" \
+            -o /tmp/eso-library-reference.epub
+          unzip -t /tmp/eso-library-reference.epub | tail -n 2
+      - name: Extract only chapter titles from NCX, not text bodies
+        run: |
+          python3 tools/build_external_game_book_index.py \
+            --eso-epub /tmp/eso-library-reference.epub \
+            --output docs/books/imperial_game_books_catalog.json
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          data=json.loads(Path('docs/books/imperial_game_books_catalog.json').read_text(encoding='utf-8'))
+          assert len(data['entries']) == data['total']
+          assert data['counts']['eso'] >= 2000
+          assert len(set(row['uid'] for row in data['entries'])) == data['total']
+          assert all(row['status']=='bibliography_only' and not row['full_text_included'] for row in data['entries'])
+          assert all(row['source_url'].startswith('https://www.imperial-library.info/') for row in data['entries'])
+          print(data['counts'])
+          PY
+      - name: Commit bibliography data, leaving original texts out of git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/books/imperial_game_books_catalog.json
+          if ! git diff --cached --quiet; then
+            git commit -m "docs: index additional Elder Scrolls game book titles"
+            git pull --rebase origin main
+            git push
+          fi
