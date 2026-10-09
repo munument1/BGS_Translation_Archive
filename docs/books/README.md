@@ -7,7 +7,7 @@
 | II. Daggerfall | 93권 | [열기](daggerfall/index.md) |
 | III. Morrowind | 632권 | [열기](morrowind/index.md) |
 | IV. Oblivion | 927권 | [열기](oblivion/index.md) |
-| V. Skyrim | 679권 | [열기](skyrim/index.md) |
+| V. Skyrim | 977권 | [열기](skyrim/index.md) |
 
 [검색과 서적 읽기 기능이 있는 GitHub Pages](../index.html)
 각 게임의 books/ 폴더에 번역된 서적 제목만 사용한 Markdown 파일 1개씩 보관합니다.

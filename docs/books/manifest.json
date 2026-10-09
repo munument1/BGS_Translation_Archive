@@ -27,11 +27,11 @@
     },
     {
       "game": "skyrim",
-      "books": 679,
-      "individual_files": 679,
-      "duplicate_titles": 60,
+      "books": 977,
+      "individual_files": 977,
+      "duplicate_titles": 143,
       "available": true,
-      "sha256": "6a0571b5dfedcbc6f599422b711c2bf445b5bb45baaf2aa71d52040d757c394e"
+      "sha256": "a27ef2a0c9a06eeec1130d2cf6cdca3e7762c69ee45ab775a6cf0edb0af05980"
     }
   ],
   "sources": {
