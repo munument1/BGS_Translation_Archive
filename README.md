@@ -13,6 +13,14 @@
 - [Imperial Library 연계 외부 서적 색인](docs/imperial-library.html) — Battlespire·Redguard·Shadowkey·ESO·ESO 일지/쪽지 등 총 **2,619건의 제목/출처 색인**. EPUB 목차·공개 참고 자료 기반이며, 번역·원문 전문은 수록하지 않습니다. [대조 기준 및 한계](docs/books/EXTERNAL_SOURCES.md).
 - [미번역 서적 번역 작업실](docs/untranslated/README.md) — 책 1권당 Markdown 작업 파일 1개, 총 **2,619개**. 원문 제목·출처 링크·번역 입력란 수록, 영문 원문 전문은 미수록.
 
+## Imperial Library 원문 참조 및 공식 소개
+
+The Imperial Library는 오래된 엘더 스크롤 게임·세계관 자료를 정리하는 독립 팬 아카이브입니다. [Bethesda 공식 지원의 세계관 참고 자료](https://help.bethesda.net/app/answers/detail/a_id/1421)로 링크되어 있고, [ESO 공식 Community Spotlight (2021-05-20)](https://www.elderscrollsonline.com/en-us/news/post/60117)에서도 소개됐습니다.
+
+- 이 프로젝트는 별개의 **비상업적 한국어 팬 번역·보존 서고**이며 Bethesda나 The Imperial Library의 공식 프로젝트가 아닙니다.
+- 공식 사이트 소개는 원문 전체를 다른 공개 GitHub에 복제하거나 번역문을 재배포할 포괄적 허가와는 구분됩니다.
+- [ESO 참고 EPUB에서 번역용 영어 본문을 추출하는 Node.js 도구](tools/extract_eso_epub_local.cjs)를 추가했습니다. **사용자가 적법하게 확보한 EPUB을 로컬에서 처리**하며, 결과는 Git 추적이 차단된 `work/`에만 저장합니다. 원문 전문은 공개 저장소에 자동 업로드하지 않습니다.
+
 ## 기본 원칙
 
 - **ESP/ESM**: 최종 적용 결과물
