@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "source": "The Imperial Library — Game Books",
+  "source_url": "https://www.imperial-library.info/game-books",
+  "scope": "ESO-only external reference examples; not an exhaustive gap audit",
+  "disclaimer_ko": "한국어 제목은 편의상 제안한 번역이며 정식 번역을 뜻하지 않습니다. 전문은 복제하거나 번역해 게시하지 않았습니다.",
+  "items": [
+    {
+      "id": "til-eso-001",
+      "game": "eso",
+      "title_en": "The Eye of Baan Dar",
+      "title_ko": "반 다르의 눈",
+      "url": "https://www.imperial-library.info/content/eye-baan-dar",
+      "category": "전설·종교",
+      "summary_ko": "바안다리 카짓 사이에 전해지는 작은 보석과 그 가치를 둘러싼 전승이다.",
+      "status": "external_reference_only",
+      "rights_status": "not_verified",
+      "text_republished": false
+    },
+    {
+      "id": "til-eso-002",
+      "game": "eso",
+      "title_en": "Chronicle of Apocrypha",
+      "title_ko": "아포크리파 연대기",
+      "url": "https://www.imperial-library.info/content/chronicle-apocrypha",
+      "category": "역사·기록",
+      "summary_ko": "헤르메우스 모라의 영역을 둘러싼 위기와 필멸자 챔피언의 행적을 기록한다.",
+      "status": "external_reference_only",
+      "rights_status": "not_verified",
+      "text_republished": false
+    },
+    {
+      "id": "til-eso-003",
+      "game": "eso",
+      "title_en": "On Our Enemies",
+      "title_ko": "우리의 적들에 대하여",
+      "url": "https://www.imperial-library.info/content/our-enemies",
+      "category": "정치·선전",
+      "summary_ko": "대거폴 동맹의 관점에서 다른 동맹의 종족과 정치적 성향을 비판하는 선전문이다.",
+      "status": "external_reference_only",
+      "rights_status": "not_verified",
+      "text_republished": false
+    },
+    {
+      "id": "til-eso-004",
+      "game": "eso",
+      "title_en": "The Warrior's Blade",
+      "title_ko": "전사의 검",
+      "url": "https://www.imperial-library.info/content/warriors-blade",
+      "category": "전설·종교",
+      "summary_ko": "트리니막의 칼날과 신앙, 전사의 맹세를 다루는 짧은 종교 문헌이다.",
+      "status": "external_reference_only",
+      "rights_status": "not_verified",
+      "text_republished": false
+    },
+    {
+      "id": "til-eso-005",
+      "game": "eso",
+      "title_en": "The Primate: Finding Faith",
+      "title_ko": "대사제: 신앙을 찾아서",
+      "url": "https://www.imperial-library.info/content/primate-finding-faith",
+      "category": "인물·역사",
+      "summary_ko": "제국 도시의 젊은이가 속죄의 시간을 보내며 신앙과 종교적 삶을 접하는 이야기다.",
+      "status": "external_reference_only",
+      "rights_status": "not_verified",
+      "text_republished": false
+    },
+    {
+      "id": "til-eso-006",
+      "game": "eso",
+      "title_en": "A Life of Strife and Struggle",
+      "title_ko": "투쟁과 고난의 삶",
+      "url": "https://www.imperial-library.info/content/life-strife-and-struggle",
+      "category": "인물·역사",
+      "summary_ko": "마지막 에일리드 왕 랄로리아란 다이나르의 삶과 몰락한 에일리드 시대를 회고한다.",
+      "status": "external_reference_only",
+      "rights_status": "not_verified",
+      "text_republished": false
+    },
+    {
+      "id": "til-eso-007",
+      "game": "eso",
+      "title_en": "Convergence of Maestros",
+      "title_ko": "악장들의 회합",
+      "url": "https://www.imperial-library.info/content/convergence-maestros",
+      "category": "문화·기록",
+      "summary_ko": "바드 대학의 악장들이 모여 논의를 시작하는 회의 기록이다.",
+      "status": "external_reference_only",
+      "rights_status": "not_verified",
+      "text_republished": false
+    }
+  ]
+}
