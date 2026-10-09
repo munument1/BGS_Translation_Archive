@@ -160,7 +160,8 @@ def book_filename(book):
 
 def safe_segment(value):
     value=re.sub(r'[^A-Za-z0-9가-힣._-]',"_",str(value)).strip("._")
-    return value[:80] or "unknown"
+    # Never let .esp/.esm/.esl-like directory names match repository ignore patterns.
+    return (value.replace(".", "_")[:80] or "unknown")
 
 
 def render(book):
