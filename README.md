@@ -7,9 +7,10 @@
 
 ## 엘더 스크롤 서적 합본
 
-- [탐리엘의 서고 — GitHub Pages 웹 도서관](https://munument1.github.io/BGS_Translation_Archive/) — 웹 검색, 가나다 색인, 작품별 탐색, 읽기 화면 (Pages 활성화 필요)
+- [탐리엘의 서고 — GitHub Pages 웹 도서관](https://munument1.github.io/BGS_Translation_Archive/) — 웹 검색, 가나다 색인, 작품별 탐색, 읽기 화면
 - [대거폴·모로윈드·오블리비언·스카이림 서적 원자료](docs/books/README.md) — 작품별 합본, 40권 분할본, 제목만 남긴 개별 서적 Markdown, JSONL 데이터
-- 네 작품에서 한국어 본문이 확인된 서적 2,629권을 아카이브했습니다. 페이지 배포는 저장소 Settings → Pages → Source: GitHub Actions 설정 후 Actions에서 `Publish Tamriel Library Pages` 실행으로 완료할 수 있습니다.
+- 네 작품에서 한국어 본문이 확인된 서적 2,629권을 아카이브했습니다. GitHub Pages 배포 워크플로를 사용합니다.
+- [The Imperial Library 외부 서적 탐색](docs/imperial-library.html) — ESO 서적 7건의 참고용 한국어 제목과 원문 링크. 번역 전문 미수록; [확장/저작권 검토 기준](docs/books/EXTERNAL_SOURCES.md).
 
 ## 기본 원칙
 
