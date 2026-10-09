@@ -24,8 +24,8 @@
     desc.textContent=x.source_description||"참고용 서적 제목 · 게임별 출처";
     const note=document.createElement("div");note.className="review-note";
     note.textContent=x.direct_link?
-      "개별 서적 원문 링크 확인 · 번역 전문 미수록":
-      "개별 원문 주소 미확인 · 게임별 원문 목록으로 이동";
+      "미번역 · 원문/번역 전문 미수록 · 개별 출처 링크":
+      "미번역 · 원문/번역 전문 미수록 · 게임별 출처 링크";
     const link=document.createElement("a");
     link.target="_blank";link.rel="noopener noreferrer";
     const url=x.source_url;
