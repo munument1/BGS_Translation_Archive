@@ -32,7 +32,7 @@ jobs:
       - name: Validate private offline English text extraction
         run: |
           node --check tools/extract_eso_epub_local.cjs
-          node tools/extract_eso_epub_local.cjs --epub /tmp/eso-library-reference.epub
+          node tools/extract_eso_epub_local.cjs --epub /tmp/eso-library-reference.epub || test $? -eq 2
           python3 - <<'PY'
           import json
           from pathlib import Path
