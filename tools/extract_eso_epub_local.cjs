@@ -113,7 +113,10 @@ function extractBody(html) {
     depth += /^<\/div/i.test(match[0]) ? -1 : 1;
     if (depth === 0) { end = match.index; break; }
   }
-  if (end < 0) throw Error("Book body DIV not closed");
+  // Some archived pages contain malformed nested DIV markup. In that case
+  // preserve the page body through its closing tag rather than discard text.
+  if (end < 0) end = html.toLowerCase().lastIndexOf("</body>");
+  if (end < start) throw Error("Book body DIV not closed and BODY missing");
   return entityDecode(html.slice(start,end)
     .replace(/<(script|style)\b[^>]*>[\s\S]*?<\/\1>/gi,"")
     .replace(/<br\s*\/?>/gi,"\n")
