@@ -35,3 +35,15 @@
 - **이미 있는 작업 파일은 빌드 스크립트가 덮어쓰지 않습니다.** 수동으로 입력한 번역문을 보호합니다.
 
 관련 참고: [외부 서적 색인](../imperial-library.html) · [서적 이용 및 검수 기준](../books/EXTERNAL_SOURCES.md)
+
+## 로컬 영문 원문 준비 (ESP/ESM 미필요)
+
+사용 권한이 있는 ESO 참고 EPUB을 준비했다면 저장소 최상위에서 Node.js로 실행할 수 있습니다.
+
+```powershell
+node tools/extract_eso_epub_local.cjs --epub "C:\\path\\to\\ElderScrollsOnline_Tomes.epub"
+```
+
+참고 원문이 `work/imperial_library_originals/eso/ext-<서적UID>.txt`로 저장됩니다. 이 로컬 `work/` 폴더는 Git에서 제외되며 원문 전문은 공개 웹페이지에 표시하거나 GitHub에 커밋하지 않습니다. 명시적 권한이 없는 외부 저작물의 재배포는 피해야 합니다.
+
+자세한 내용: [외부 서적 출처·공식 소개·이용 기준](../books/EXTERNAL_SOURCES.md)
