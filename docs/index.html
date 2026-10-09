@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#111719">
+  <meta name="description" content="대거폴, 모로윈드, 오블리비언, 스카이림의 한국어 서적을 탐색하고 읽는 비공식 엘더 스크롤 도서관.">
+  <meta property="og:title" content="The Elder Scrolls · 한국어 서적 도서관">
+  <meta property="og:description" content="탐리엘의 이야기를 한곳에서. 한국어 책 제목 색인과 본문 검색, 작품별 서적 합본.">
+  <title>탐리엘의 서고 | The Elder Scrolls 한국어 서적 아카이브</title>
+  <link rel="stylesheet" href="./assets/library.css">
+  <script src="./assets/library.js" defer></script>
+</head>
+<body data-theme="dark">
+  <a class="skip-link" href="#library">도서 목록으로 건너뛰기</a>
+  <div class="site-shell">
+    <header class="site-header">
+      <a class="wordmark" href="./index.html" aria-label="탐리엘의 서고 처음으로">
+        <span class="wordmark-icon" aria-hidden="true">✧</span>
+        <span class="wordmark-label"><strong>TAMRIEL ARCHIVE</strong><small>탐리엘의 서고</small></span>
+      </a>
+      <div class="header-actions">
+        <a class="header-link" href="https://github.com/munument1/BGS_Translation_Archive" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+        <button type="button" class="theme-button" id="themeToggle" aria-label="밝은 테마로 변경" title="테마 변경">☼</button>
+      </div>
+    </header>
+
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-text">
+        <p class="eyebrow"><span class="eyebrow-dot"></span> THE ELDER SCROLLS · KOREAN LIBRARY</p>
+        <h1 id="hero-title">세월이 지나도<br><em>이야기는 남는다.</em></h1>
+        <p class="hero-subtitle">탐리엘 곳곳에 흩어진 서적을 한국어로 읽는 작은 도서관. 네 시대의 이야기와 오래된 기록을 한자리에서 만나보세요.</p>
+        <a class="hero-cta" href="#library">서고 둘러보기 <span aria-hidden="true">↗</span></a>
+        <div class="hero-stats">
+          <span><strong id="heroTotal">—</strong><small>수록 서적</small></span>
+          <span class="stats-divider"></span>
+          <span><strong id="heroGames">—</strong><small>작품</small></span>
+          <span class="stats-divider"></span>
+          <span><strong>한국어</strong><small>서적 본문</small></span>
+        </div>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <div class="orbit orbit-outer"></div><div class="orbit orbit-inner"></div>
+        <div class="star star-one">✦</div><div class="star star-two">✧</div><div class="star star-three">✦</div>
+        <div class="cover-back"><span>THE ELDER<br>SCROLLS</span></div>
+        <div class="cover-front"><div class="cover-rule"></div><span class="cover-symbol">✺</span><span class="cover-kicker">A COLLECTION OF</span><strong>TAMRIEL<br>CHRONICLES</strong><span class="cover-flourish">❦</span><span class="cover-foot">VOLUMES · II — V</span></div>
+        <div class="hero-art-caption">WORDS FROM ANOTHER AGE / 02—05</div>
+      </div>
+    </section>
+
+    <div class="explore-heading"><span>01 / THE COLLECTION</span><span class="explore-caption">시리즈별 서고</span></div>
+    <section class="game-overview" aria-label="작품별 서고">
+      <button class="game-tile" data-select-game="daggerfall" type="button">
+        <span class="tile-number">II</span><span class="tile-details"><small>THE ELDER SCROLLS</small><strong>Daggerfall</strong><span>대거폴</span></span><span class="tile-count" id="count-daggerfall">—권</span><span class="tile-arrow">↗</span>
+      </button>
+      <button class="game-tile" data-select-game="morrowind" type="button">
+        <span class="tile-number">III</span><span class="tile-details"><small>THE ELDER SCROLLS</small><strong>Morrowind</strong><span>모로윈드</span></span><span class="tile-count" id="count-morrowind">—권</span><span class="tile-arrow">↗</span>
+      </button>
+      <button class="game-tile" data-select-game="oblivion" type="button">
+        <span class="tile-number">IV</span><span class="tile-details"><small>THE ELDER SCROLLS</small><strong>Oblivion</strong><span>오블리비언</span></span><span class="tile-count" id="count-oblivion">—권</span><span class="tile-arrow">↗</span>
+      </button>
+      <button class="game-tile" data-select-game="skyrim" type="button">
+        <span class="tile-number">V</span><span class="tile-details"><small>THE ELDER SCROLLS</small><strong>Skyrim</strong><span>스카이림</span></span><span class="tile-count" id="count-skyrim">준비 중</span><span class="tile-arrow">↗</span>
+      </button>
+    </section>
+
+    <main class="library" id="library">
+      <div class="section-heading"><div><p class="eyebrow">02 / EXPLORE THE ARCHIVE</p><h2>서적 색인 <span class="heading-ornament" aria-hidden="true">✦</span></h2><p>제목, 저자, 본문으로 원하는 이야기를 찾아보세요.</p></div><div class="section-num" aria-hidden="true">INDEX / 001</div></div>
+      <div class="catalog-controls">
+        <div class="search-wrap">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <label class="sr-only" for="searchInput">서적 검색</label>
+          <input id="searchInput" type="search" autocomplete="off" placeholder="책 제목, 인물, 사건, 본문 검색…" aria-describedby="searchHint">
+          <kbd id="searchHint">/</kbd>
+        </div>
+        <label class="fulltext-option"><input id="fullTextToggle" type="checkbox"><span>본문 전체 검색</span></label>
+      </div>
+      <div class="filters-row">
+        <div id="gameFilters" class="filter-tabs" role="group" aria-label="작품 선택">
+          <button type="button" class="filter-tab is-active" data-filter="all" aria-pressed="true">전체</button>
+          <button type="button" class="filter-tab" data-filter="daggerfall" aria-pressed="false">대거폴</button>
+          <button type="button" class="filter-tab" data-filter="morrowind" aria-pressed="false">모로윈드</button>
+          <button type="button" class="filter-tab" data-filter="oblivion" aria-pressed="false">오블리비언</button>
+          <button type="button" class="filter-tab" data-filter="skyrim" aria-pressed="false">스카이림</button>
+        </div>
+        <div class="sort-actions">
+          <button type="button" class="favorites-button" id="favoritesToggle" aria-pressed="false" title="저장한 서적만 보기">☆ 내 서재</button>
+          <label class="sr-only" for="sortSelect">정렬</label>
+          <select id="sortSelect" class="sort-select"><option value="title">가나다순</option><option value="game">작품순</option><option value="lengthDesc">긴 책부터</option><option value="lengthAsc">짧은 책부터</option></select>
+        </div>
+      </div>
+      <div class="index-letters" id="initialFilters" role="group" aria-label="제목 첫 글자 색인"></div>
+      <div class="results-heading"><span id="resultsCount" aria-live="polite">서적을 불러오는 중…</span><span id="resultsDescription">TITLE INDEX · A—Z / ㄱ—ㅎ</span></div>
+      <div class="books-grid" id="booksGrid" aria-live="off"></div>
+      <div class="empty-state" id="emptyState" hidden><span aria-hidden="true">✧</span><h3 id="emptyTitle">검색 결과가 없습니다.</h3><p id="emptyDescription">다른 검색어나 필터를 시도해 보세요.</p><button id="resetFilters" class="outline-button" type="button">필터 초기화</button></div>
+      <div class="load-more"><button class="outline-button" type="button" id="loadMore" hidden>서적 더 보기 <span aria-hidden="true">↓</span></button></div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-brand"><span aria-hidden="true">✧</span><strong>TAMRIEL ARCHIVE</strong><p>모험이 끝난 자리에도, 이야기는 계속됩니다.</p></div>
+      <div class="footer-links"><a href="./books/README.md">원자료 및 합본</a><a href="./books/SKYRIM_IMPORT.md">스카이림 자료 안내</a><a href="https://github.com/munument1/BGS_Translation_Archive" target="_blank" rel="noopener noreferrer">GitHub 저장소 ↗</a></div>
+      <p class="footer-legal">비공식 팬 제작 번역 자료 아카이브 · Bethesda Softworks 및 The Elder Scrolls의 공식 웹사이트가 아닙니다.</p>
+    </footer>
+  </div>
+
+  <section id="readerLayer" class="reader-layer" hidden aria-label="서적 읽기">
+    <div id="readerBackdrop" class="reader-backdrop"></div>
+    <div class="reader-sheet" role="dialog" aria-modal="true" aria-labelledby="readerTitle">
+      <header class="reader-toolbar"><button type="button" id="readerClose" class="reader-back" aria-label="서고로 돌아가기">← <span>서고로 돌아가기</span></button><div class="reader-tools"><button type="button" id="readerFontDown" title="글씨 작게" aria-label="글씨 작게">A−</button><button type="button" id="readerFontUp" title="글씨 크게" aria-label="글씨 크게">A+</button><button type="button" id="readerFavorite" title="서적 저장" aria-label="서적을 내 서재에 저장">☆</button><button type="button" id="readerCopy" title="링크 복사" aria-label="이 책 링크 복사">↗</button><button type="button" id="readerCloseIcon" title="닫기" aria-label="닫기">✕</button></div></header>
+      <div class="reader-scroller" id="readerScroller">
+        <article class="reader-article">
+          <div class="reader-crest" aria-hidden="true">✥</div>
+          <p class="reader-label" id="readerGame">THE ELDER SCROLLS</p>
+          <h2 id="readerTitle">서적을 불러오는 중…</h2>
+          <div class="reader-metadata" id="readerMetadata"></div>
+          <div class="reader-rule" aria-hidden="true">✦</div>
+          <div class="reader-content" id="readerContent"></div>
+          <div class="reader-end" aria-hidden="true">❧</div>
+          <a class="reader-source" id="readerSource" target="_blank" rel="noopener noreferrer" hidden>원본 번역 출처 ↗</a>
+          <div class="reader-navigation"><button type="button" id="readerPrevious">← 이전 책</button><button type="button" id="readerNext">다음 책 →</button></div>
+        </article>
+      </div>
+    </div>
+  </section>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
