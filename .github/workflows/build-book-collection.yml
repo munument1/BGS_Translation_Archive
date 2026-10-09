@@ -13,6 +13,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: book-collection-main
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -95,6 +99,7 @@ jobs:
           git add -A docs/books
           if ! git diff --cached --quiet; then
             git commit -m "docs: update Elder Scrolls Korean book anthologies"
+            git pull --rebase origin main
             git push
           else
             echo "No book archive changes."
