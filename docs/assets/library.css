@@ -31,3 +31,14 @@
 .untranslated-disclaimer strong{color:var(--muted);font-weight:600}
 @media(max-width:1050px){.untranslated-overview{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:680px){.untranslated-series{padding-top:40px}.untranslated-series-header{align-items:flex-start;flex-direction:column;gap:12px}.untranslated-series-all{padding:3px 0}.untranslated-overview{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.game-tile--pending{height:147px}.game-tile--pending .tile-details strong{font-size:18px}.game-tile--pending .tile-number{font-size:30px}}
+
+/* Archival provenance and independently verified official recognition */
+.archive-provenance{padding:49px 0 63px;margin:38px 0 0;border-top:1px solid var(--soft-edge)}
+.archive-provenance .eyebrow{margin:0 0 14px}
+.archive-provenance h2{font:600 clamp(24px,2.8vw,34px)/1.5 var(--display);letter-spacing:-.045em;margin:0 0 19px}
+.archive-provenance p:not(.eyebrow){max-width:940px;font:400 13px/2 var(--display);color:var(--muted);margin:0 0 14px;word-break:keep-all}
+.archive-provenance strong{font-weight:700;color:var(--ink)}
+.provenance-links{display:flex;flex-wrap:wrap;gap:10px;margin:24px 0 0}
+.provenance-links a{font-size:12px;color:var(--gold);border:1px solid var(--edge);padding:13px 16px;background:var(--panel)}
+.provenance-links a:hover{border-color:var(--gold-dim);color:var(--ink)}
+@media(max-width:680px){.archive-provenance{padding:38px 0 48px}.provenance-links a{width:100%;text-align:center}}
