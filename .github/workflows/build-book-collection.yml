@@ -1,0 +1,80 @@
+name: Build Elder Scrolls Korean Book Archive
+
+on:
+  push:
+    paths:
+      - "tools/build_book_collection.py"
+      - ".github/workflows/build-book-collection.yml"
+      - "sources/skyrim_books/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out archive
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Download only Daggerfall book source files
+        run: |
+          git clone --depth 1 --filter=blob:none --sparse https://github.com/munument1/-KR-Daggerfall_Unity.git /tmp/df-books
+          git -C /tmp/df-books sparse-checkout set text/Books
+          test -f /tmp/df-books/text/Books/BOK00000-LOC.txt
+
+      - name: Download Oblivion canonical translations
+        run: |
+          curl --fail --location --retry 4 --retry-delay 4 \
+            https://raw.githubusercontent.com/munument1/-KR-Oblivion-Translation/main/canonical_translation_v2.csv \
+            --output /tmp/oblivion-translation.csv
+          test -s /tmp/oblivion-translation.csv
+
+      - name: Download OpenMW Korean Morrowind release
+        run: |
+          curl --fail --location --retry 4 --retry-delay 4 \
+            https://github.com/munument1/-KR-openmw/releases/download/openmw-0.51.0-kr4/Morrowind-Korean-OpenMW-0.51.0-KR4-Full.zip \
+            --output /tmp/morrowind-kr4.zip
+          unzip -t /tmp/morrowind-kr4.zip | tail -n 2
+
+      - name: Build and validate book collections
+        run: |
+          python3 tools/build_book_collection.py \
+            --daggerfall /tmp/df-books/text/Books \
+            --oblivion /tmp/oblivion-translation.csv \
+            --morrowind-zip /tmp/morrowind-kr4.zip --root .
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          root=Path('docs/books')
+          m=json.loads((root/'manifest.json').read_text(encoding='utf-8'))
+          for item in m['games']:
+              game=item['game']
+              if item['available']:
+                  records=(root/game/'books.jsonl').read_text(encoding='utf-8').splitlines()
+                  assert len(records)==item['books']
+                  ids=set()
+                  for line in records:
+                      r=json.loads(line)
+                      assert r['record']=='BOOK' and r['ko'] and r['book_id']
+                      key=(r.get('plugin',''),r['book_id'])
+                      assert key not in ids,(game,key)
+                      ids.add(key)
+                  print(game,len(records))
+          PY
+
+      - name: Commit docs/books only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/books
+          if ! git diff --cached --quiet; then
+            git commit -m "docs: update Elder Scrolls Korean book anthologies"
+            git push
+          else
+            echo "No book archive changes."
+          fi
