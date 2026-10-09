@@ -69,12 +69,22 @@ jobs:
                       key=(r.get('plugin',''),r['book_id'])
                       assert key not in ids,(game,key)
                       ids.add(key)
-                  individual=list((root/game/'books').glob('*.md'))
+                  from urllib.parse import quote
+                  individual=list((root/game/'books').rglob('*.md'))
                   assert len(individual)==item['books'],(game,len(individual),item['books'])
-                  assert len(set(p.name.lower() for p in individual))==len(individual)
                   index=(root/game/'index.md').read_text(encoding='utf-8')
-                  for path in individual:
-                      assert ('books/'+path.name) in index,('missing index link',path)
+                  seen=set()
+                  for row in records:
+                      record=json.loads(row)
+                      path=record.get('file_path')
+                      assert path and path.endswith('.md')
+                      assert (root/game/path).is_file(),(game,path)
+                      assert (root/game/path).stem in (record['title_ko'],) or (
+                          (root/game/path).stem and not (root/game/path).stem.startswith(record['book_id']))
+                      assert quote(path,safe='/') in index,('missing index link',path)
+                      assert path.casefold() not in seen,path
+                      seen.add(path.casefold())
+                  assert len(seen)==len(individual)
                   print(game,len(records),'individual files:',len(individual))
           PY
 
@@ -82,7 +92,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/books
+          git add -A docs/books
           if ! git diff --cached --quiet; then
             git commit -m "docs: update Elder Scrolls Korean book anthologies"
             git push
