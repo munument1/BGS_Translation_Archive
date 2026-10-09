@@ -51,6 +51,29 @@
 
 본문을 넣을 자리를 미리 예약했지만 현재 공개 저장소에는 원문 전체를 복사하지 않았습니다. 나중에 권리 검토가 끝나고 번역문이 확보되면 같은 서지 식별자로 수록할 수 있습니다.
 
+## 공식 소개 기록 및 보존 목적
+
+The Imperial Library는 엘더 스크롤 게임 내 서적·대화·기타 설정 자료를 장기간 아카이빙해 온 팬 관리 사이트입니다.
+
+- [Bethesda Support — 세계관 참고 사이트](https://help.bethesda.net/app/answers/detail/a_id/1421): The Imperial Library를 참고 사이트로 안내합니다.
+- [ESO 공식 Community Spotlight (2021년 5월 20일)](https://www.elderscrollsonline.com/en-us/news/post/60117): 독립 팬 아카이브 활동을 공식적으로 소개합니다.
+
+본 한국어 프로젝트는 그 보존 정신을 참고하지만, The Imperial Library나 Bethesda의 공식 번역판이 아닙니다. 공식 소개는 번역 및 재배포에 관한 포괄적인 이용허락으로 해석하지 않습니다.
+
+## 로컬 원문 추출 도구
+
+원문 확보에 필요한 기술적 경로는 마련했습니다. [`tools/extract_eso_epub_local.cjs`](../../tools/extract_eso_epub_local.cjs)는 **사용자가 적법하게 확보한 EPUB 파일**에서 영어 서적 본문을 추출하며, Node.js만 사용합니다.
+
+```powershell
+node tools/extract_eso_epub_local.cjs --epub "C:\\path\\to\\ElderScrollsOnline_Tomes.epub"
+```
+
+- 출력 폴더: `work/imperial_library_originals/eso/` (Git에서 제외)
+- 결과: 각 `ext-*.txt` 원문 참조 파일과 `_extraction_manifest.json` (출처·원제·해시)
+- 공개 자료: 제목·링크·서지 메타데이터, 한국어 번역 작업 틀만 유지
+- 자동 다운로드·사이트 접속·403 우회·공개 저장소에 원문 전문 업로드 기능은 없습니다.
+- ESO 일반 서적 이외 네 분류의 원문 전문은 아직 확보되지 않았습니다.
+
 ## 저작권과 원문 재배포
 
 The Imperial Library의 원문 페이지 공개 자체는 번역 전문을 복제·재배포할 허락을 뜻하지 않습니다. 게임 내 서적은 베데스다 등 권리자가 소유한 저작물일 수 있으며, 웹사이트에 보존된 다른 저작물도 별도의 권리가 존재할 수 있습니다.
