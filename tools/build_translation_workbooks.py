@@ -52,6 +52,7 @@ def create_workbooks(catalog: dict, root: Path) -> dict:
             raise ValueError("Source or translation bodies must not be present in metadata catalog")
         grouped[game].append(item)
     all_ids = set()
+    links = {}
     manifest = {"schema_version":1, "total":0, "games":{}}
     for game, title in SHELVES.items():
         books = sorted(grouped[game], key=lambda e:(e["title_en"].casefold(),e["uid"]))
@@ -76,6 +77,7 @@ def create_workbooks(catalog: dict, root: Path) -> dict:
                 raise ValueError("Case-folded path collision: "+str(rel))
             seen_paths.add(lower)
             target = root / game / rel
+            links[uid] = (Path(game) / rel).as_posix()
             target.parent.mkdir(parents=True, exist_ok=True)
             source = b["source_url"]
             collection = b.get("collection_url",source)
@@ -112,6 +114,7 @@ def create_workbooks(catalog: dict, root: Path) -> dict:
     if manifest["total"] != catalog["total"]:
         raise ValueError(f"Unexpected total: {manifest['total']} != {catalog['total']}")
     (root/"manifest.json").write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    (root/"lookup.json").write_text(json.dumps({"schema_version":1,"workbooks":links},ensure_ascii=False,separators=(",",":"))+"\n",encoding="utf-8")
     return manifest
 
 def main():
