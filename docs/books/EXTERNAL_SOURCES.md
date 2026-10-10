@@ -10,7 +10,7 @@
 - 한국어 제목을 시범 검토한 ESO 7종: [external_candidates.json](external_candidates.json)
 - 출처 및 재생성: [build_external_game_book_index.py](../../tools/build_external_game_book_index.py), [build-external-book-index.yml](../../.github/workflows/build-external-book-index.yml)
 
-**이 문서는 아직 네 작품의 전체 영문 서적명을 전수 대조한 결과가 아닙니다.** 원문 사이트 Game Books 목록에 대한 자동 접근이 403으로 제한됩니다. 대량 ESO 항목은 [HorrorPills/epub-imperial-library](https://github.com/HorrorPills/epub-imperial-library)의 EPUB 목차(NCX)에 기재된 **제목만** 추출했습니다. PC에서 해당 페이지가 정상 열려 외전 3종 및 ESO 일지 페이지의 전체 목록과 개별 링크를 직접 추출했습니다. 다만 원문 전체 사이트를 망라한 결과는 아닙니다.
+**이 문서는 아직 네 작품의 전체 영문 서적명을 전수 대조한 결과가 아닙니다.** 기존 웹 검색 환경에서는 Game Books 페이지가 403으로 차단됐지만, 2026-10-10 연결된 사용자 PC에서는 동일 페이지가 HTTP 200으로 열렸습니다. 대량 ESO 항목은 [HorrorPills/epub-imperial-library](https://github.com/HorrorPills/epub-imperial-library)의 EPUB 목차(NCX)에 기재된 **제목만** 추출했습니다. PC에서 해당 페이지가 정상 열려 외전 3종 및 ESO 일지 페이지의 전체 목록과 개별 링크를 직접 추출했습니다. 다만 원문 전체 사이트를 망라한 결과는 아닙니다.
 
 ## 원문 게임별 카탈로그
 
@@ -74,6 +74,14 @@ node tools/extract_eso_epub_local.cjs --epub "C:\\path\\to\\ElderScrollsOnline_T
 - 자동 다운로드·사이트 접속·403 우회·공개 저장소에 원문 전문 업로드 기능은 없습니다.
 - ESO 일반 서적 이외 네 분류의 원문 전문은 아직 확보되지 않았습니다.
 - 테스트 결과(2026-10-10): 참고 EPUB의 ESO 2,533개 항목 중 **2,530개의 텍스트 추출을 확인**했습니다. `Daedric Text`, `Snapdragon’s Burnt Notes`, `Summoning Rituals of the Arch-Mage` 3개는 EPUB 본문 HTML에서 추출 가능한 텍스트가 없어 예외로 기록됩니다. 이 시험 추출물은 공개 저장소에 커밋하지 않고 일회성 실행 환경에서 삭제했습니다.
+
+## Imperial Library 직접 확인한 원문 목록의 로컬 추출
+
+- 원문 공식 Game Books 페이지에서 직접 확인한 항목: 배틀스파이어 50건, 레드가드 16건, 섀도키 5건, ESO 일지·편지 2,233건 (합계 2,304건)
+- ESO 일반 서적은 EPUB 목차 2,533건, 그중 로컬 추출 가능한 영문 텍스트 2,530건
+- 연결된 PC에서 외전·ESO 일지 7건의 본문 추가 추출을 검증함
+- 최신 로컬 원문 추출 도구: [`tools/import_til_originals_local.py`](../../tools/import_til_originals_local.py)
+- `robots.txt`에 기재된 10초 간격을 존중하며 최소 10.5초 간격으로 요청. 원문 결과는 Git에서 제외되는 `work/`에만 저장
 
 ## 저작권과 원문 재배포
 
