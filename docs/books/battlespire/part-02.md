@@ -8,43 +8,43 @@
 
 ID: ext-70e46937b444fc64a509
 
-None were so clever, or prodigal with their crafts, as the enchanters of the pre-Imperial Heartland. Many enchantments did they lavish upon even the least of their possessions, and from father to son of martial class might descend such heirlooms as to beggar a prince of the Modern Era. These artifacts may not be discerned by their age, for many objects of Elven craft also have stood the tests of time in great abundance. The only sure mark is in the provenance and documentation, for many powers may lie unguessed within the subtle wortcrafts of these Kings of Wizardry.  
+제국 이전 시대 심장부의 마법부여사들만큼 영리하고, 자신의 기예를 아낌없이 베푼 이들은 없었다. 그들은 가장 하찮은 소유물에도 여러 마법을 풍성히 부여했다. 무인 계급의 아버지에게서 아들로 전해지는 가보 가운데에는, 오늘날의 왕자조차 초라하게 만들 만한 것이 있었다. 이런 유물은 오래되었다는 사실만으로 구별할 수 없다. 엘프가 만든 물건 중에도 세월의 시험을 견뎌 낸 것이 아주 많기 때문이다. 확실한 표지는 유래와 기록뿐이다. 이 마법의 왕들이 펼친 정교한 약제술 속에는 짐작조차 못 한 수많은 힘이 숨어 있을 수 있다.  
   
-The BattleAxe of Rubicund Wisdom bears enchantments enhancing the skills of DESTRUCTION, and casts the spell of Teleport, and provides the preternatural Blessing of Athleticism when equipped.  
+붉게 물든 지혜의 전투도끼에는 파괴마법 솜씨를 높이는 마법이 깃들어 있다. 순간이동 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The BattleAxe of Furious Swiftblade bears enchantments enhancing the skills of SHORTBLADE, and casts the spell of Jumping, and provides the preternatural Blessing of Athleticism when equipped.  
+맹렬한 날쌘 칼날의 전투도끼에는 단검 솜씨를 높이는 마법이 깃들어 있다. 도약 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Broadsword of the Flea’s Leaping grants benefits in the disciplines of JUMPING, casts the spell of Jumping, and provides the preternatural Blessing of Athleticism when equipped.  
+벼룩의 도약 브로드소드는 도약 능력을 높인다. 도약 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Broadsword of Percipient Wisdom grants benefits in the disciplines of THAUMATURGY, casts the spell of Medium Cure Health, and provides the preternatural Blessing of Athleticism when equipped.  
+통찰의 지혜 브로드소드는 기적술 능력을 높인다. 중급 체력 회복 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Claymore of the Hare’s Fleetness affords some abilities in the arts of RUNNING, and casts the spell of Running, and provides the preternatural Blessing of Athleticism when equipped.  
+토끼의 신속함 클레이모어는 달리기 능력을 높인다. 달리기 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Claymore of Transcendent Wisdom affords some abilities in the arts of MYSTICISM, and casts the spell of Major Cure Health, and provides the preternatural Blessing of Athleticism when equipped.  
+초월한 지혜의 클레이모어는 신비마법 능력을 높인다. 상급 체력 회복 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The CrossBow of Grand Sureflight affords some abilities in the arts of MISSILE, and casts the spell of Medium Shield, and provides the preternatural Blessing of Athleticism when equipped.  
+위대한 정확한 비행의 석궁은 사격 능력을 높인다. 중급 방어막 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Dagger of the Tiger’s Stalking grants benefits in the disciplines of STEALTH, casts the spell of Minor Cure Health, and provides the preternatural Blessing of Athleticism when equipped.  
+호랑이의 추적 단검은 은신 능력을 높인다. 하급 체력 회복 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Dagger of Emerald Wisdom grants benefits in the disciplines of RESTORATION, casts the spell of Minor Shield, and provides the preternatural Blessing of Athleticism when equipped.  
+에메랄드 지혜의 단검은 회복마법 능력을 높인다. 하급 방어막 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Javelin of the Fervent Dolphin bears enchantments enhancing the skills of SWIMMING, and casts the spell of Medium Cure Health, and provides the preternatural Blessing of Athleticism when equipped.  
+열렬한 돌고래의 투창에는 수영 솜씨를 높이는 마법이 깃들어 있다. 중급 체력 회복 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The LongBow of Furious Smiting grants benefits in the disciplines of BLUNTWEAPON, casts the spell of Medium Shield, and provides the preternatural Blessing of Athleticism when equipped.  
+맹렬한 강타의 장궁은 둔기 능력을 높인다. 중급 방어막 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Longsword of Iniquitous Surprise bears enchantments enhancing the skills of BACKSTABBING, and casts the spell of Major Cure Health, and provides the preternatural Blessing of Athleticism when equipped.  
+사악한 기습의 장검에는 배후 공격 솜씨를 높이는 마법이 깃들어 있다. 상급 체력 회복 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Longsword of Auricular Wisdom bears enchantments enhancing the skills of ALTERATION, and casts the spell of Minor Cure Health, and provides the preternatural Blessing of Athleticism when equipped.  
+귀의 지혜 장검에는 변화마법 솜씨를 높이는 마법이 깃들어 있다. 하급 체력 회복 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Mace of the Furious Horny Fist affords some abilities in the arts of HANDTOHAND, and casts the spell of Teleport, and provides the preternatural Blessing of Athleticism when equipped.  
+맹렬한 굳은살 박힌 주먹의 철퇴는 맨손 격투 능력을 높인다. 순간이동 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Short Sword of the Fervent Swimmer affords some abilities in the arts of SWIMMING, and casts the spell of Medium Cure Health, and provides the preternatural Blessing of Athleticism when equipped.  
+열렬한 수영꾼의 소검은 수영 능력을 높인다. 중급 체력 회복 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Short Sword of Argent Wisdom affords some abilities in the arts of ILLUSION, and casts the spell of Medium Shield, and provides the preternatural Blessing of Athleticism when equipped.  
+은빛 지혜의 소검은 환영마법 능력을 높인다. 중급 방어막 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The ShortBow of Furious Deep Cleaving bears enchantments enhancing the skills of AXE, and casts the spell of Minor Shield, and provides the preternatural Blessing of Athleticism when equipped.  
+맹렬한 깊은 쪼개기의 단궁에는 도끼 솜씨를 높이는 마법이 깃들어 있다. 하급 방어막 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The WarAxe of Furious Hewing grants benefits in the disciplines of LONGBLADE, casts the spell of Running, and provides the preternatural Blessing of Athleticism when equipped.
+맹렬한 베기의 전쟁도끼는 장검 능력을 높인다. 달리기 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.
 
 [출처](https://www.imperial-library.info/content/curiosities-second-age)
 
@@ -54,23 +54,23 @@ The WarAxe of Furious Hewing grants benefits in the disciplines of LONGBLADE, ca
 
 ID: ext-2d4ee24cc0829f3dc8bc
 
-[[The book contains many pages of close, tightly-written scribbling. The earliest entry is marked “Harvest’s End, 3E 172.” Only the first few pages make sense. Later entries are incoherent and illegible. In the first few pages you learn the basic story of Chimere, Master Sorcerer, Summoner, and Direnni retainer, and how he treated with Lord Dagon, tricked him, and paid the price of his victory.  
+[[이 책에는 빽빽하게 휘갈겨 쓴 글이 여러 장에 걸쳐 담겨 있다. 가장 이른 기록에는 '제3시대 172년, 수확의 끝'이라고 적혀 있다. 처음 몇 장만 뜻을 알아볼 수 있고, 뒤쪽의 기록들은 앞뒤가 맞지 않으며 글씨도 읽을 수 없다. 처음 몇 장을 통해 대마법사이자 소환술사, 디레니 가문의 가신인 키메르가 데이건 경과 거래하고 그를 속인 뒤 승리의 대가를 치른 사연을 알게 된다.  
   
-Chimere Graegyn was a retainer of the ambitious Direnni clan. The Direnni derived the bulk of their power from their traffickings with Daedra, a very profitable but risky path to success. Chimere was perhaps the cleverest and most ambitious of the Direnni summoners. He dared to scheme against Lord Dagon, and won. When his trick succeeded, Dagon was cast into Oblivion. However, in the instant of his betrayal, Dagon struck out against the mortal who tricked him. Chimere’s pact assured that he would live forever in his home town among the happy voices of his friends and countrymen. Twisting the literal words of Chimere’s pact, Dagon scooped up tiny Caecilly Island (a small island off the coast of Northmoor) and hurled in into the void. All Chimere’s friends and countrymen were instantly killed, though the sounds of their voices remained to torment Chimere’s memory. Chimere was condemned to live forever, to grow progressively old and crippled with arthritis, and to contemplate the tragic consequences of his defiance of fate and fortune in cheating a Daedra Lord.  
+키메르 그레이긴은 야심 찬 디레니 가문의 가신이었다. 디레니 가문은 힘의 대부분을 데이드라와의 거래에서 얻었다. 대단한 이익을 가져다주지만 위험한 성공의 길이었다. 키메르는 디레니 소환술사 가운데 가장 영리하고 야심 찬 인물이었을 것이다. 그는 감히 데이건 경을 상대로 계략을 꾸몄고, 승리했다. 속임수가 성공하자 데이건은 오블리비언으로 추방되었다. 그러나 배신당한 바로 그 순간, 데이건은 자신을 속인 필멸자에게 반격했다. 키메르는 고향에서 친구들과 동포들의 행복한 목소리에 둘러싸여 영원히 살 것을 계약으로 보장받았다. 데이건은 그 계약의 문구를 문자 그대로 비틀었다. 노스무어 연안의 작은 섬인 케실리 섬을 통째로 떠서 공허 속으로 던진 것이다. 키메르의 친구와 동포는 모두 즉시 죽었지만, 그들의 목소리는 남아 그의 기억을 괴롭혔다. 키메르는 영원히 살면서 점점 늙고 관절염으로 몸을 못 쓰게 되는 운명에 처했다. 그는 운명과 행운에 맞서 데이드라 군주를 속인 비극적인 결과를 영원히 되새겨야 했다.  
   
-In the earlier, more lucid sections of the journal, you also find other information of relevance to your current plight.  
+일지의 앞쪽, 비교적 정신이 맑았을 때 쓴 부분에서는 지금 그대의 곤경과 관련된 다른 정보도 발견한다.  
   
-Searching for details of Chimere’s successful defeat of Dagon, you find the following:  
+키메르가 데이건을 물리친 구체적인 방법을 찾아보면 다음과 같은 내용이 나온다.  
   
-The Armor of the Saviour’s Hide: Created by the Daedra Lord Malacath, this armor has the marvelous property of turning the blow of an oathbreaker. Chimere tricked Dagon into swearing an oath against the Powers which he had no intention of keeping. The Hide of the Savior turned Dagon’s titanic fury long enough for Chimere to deliver his own attack — an incantation invoked upon Dagon’s “Protonymic” (i.e., Incantory True Name). Unfortunately, like many of Malacath’s gifts, the armor is a mixed blessing. It also makes its wearer exceptionally vulnerable to magical attacks, so one should only wear it for particular occasions.  
+구원자의 가죽 갑옷: 데이드라 군주 말라카스가 만든 이 갑옷에는 맹세를 어긴 자의 일격을 튕겨 내는 놀라운 성질이 있다. 키메르는 데이건을 속여, 지킬 생각도 없는 맹세를 권능들 앞에서 하게 했다. 구원자의 가죽은 데이건의 거대한 분노를 막아 주었고, 그 틈에 키메르는 자신의 공격을 가할 수 있었다. 데이건의 프로토니믹, 즉 주문으로 부르는 진명을 이용한 주문이었다. 하지만 말라카스의 많은 선물처럼 이 갑옷 역시 축복만을 주는 것은 아니다. 착용자를 마법 공격에 유난히 취약하게 만들기도 하므로, 특별한 경우에만 입어야 한다.  
   
-Dagon’s Protonymic: Chimere used Dagon’s Protonymic in an incantation to invoke a sorcery that would gradually drain all of Dagon’s power into the void. Chimere miscalculated, however, not realizing that Dagon’s resistance could slow the draining of his power, even if it could not stop it. As a result, Dagon had the time to curse Chimere with a literal fulfillment of the terms of his bargain with Chimere. Rather than let his power drain into the void, Dagon cast it all into his curse. As a result, Caecilly Island was cast into the void, all its citizens were horribly slain, and Chimere was condemned to live forever among the ruins of his greatest ambition.  
+데이건의 프로토니믹: 키메르는 데이건의 프로토니믹을 주문에 사용하여, 데이건의 모든 힘을 서서히 공허로 흘려보내는 마법을 불러냈다. 하지만 계산이 빗나갔다. 데이건이 저항하면 힘이 빠져나가는 것을 막지는 못해도 늦출 수 있다는 사실을 알지 못한 것이다. 그 결과 데이건은 키메르와 맺은 거래의 조건을 문자 그대로 실현하여 그를 저주할 시간을 얻었다. 데이건은 힘이 공허로 빠져나가도록 내버려 두는 대신, 남은 힘 전부를 저주에 쏟아부었다. 그리하여 케실리 섬은 공허로 던져지고 주민들은 모두 참혹하게 죽었으며, 키메르는 자신의 가장 큰 야망이 무너진 폐허 속에서 영원히 살아가게 되었다.  
   
-You also find the following details concerning the Rituals of the Hunt:  
+사냥의 의식에 관해서도 다음과 같은 상세한 내용을 발견한다.  
   
-The Chapel of the Innocent Quarry: Chimere believes that Dagon had Caecilly Island established as the site of the Chapel of the Innocent Quarry to personally mock and torment Chimere. The green crystal structure was created by enchantments, and is the only building on the island erected since it was ripped from Tamriel and loosed in the void.  
+무고한 사냥감의 예배당: 키메르는 데이건이 자신을 조롱하고 괴롭히려고 케실리 섬에 이 예배당을 세웠다고 믿는다. 초록 수정 건물은 마법으로 만들어졌으며, 섬이 탐리엘에서 뜯겨 나와 공허로 던져진 뒤 세워진 유일한 건물이다.  
   
-The Spear: Supposedly the Spear of Bitter Mercy used in the Wild Hunts could not be handled by any mortal or immortal save the ones sanctified to the Hunt and bound by its strictures. However, Chimere has determined that though the Spear’s power is great, it is not unlimited, and that certain enchanted items — for instance, the Armor of the Savior’s Hide, forged by Malacath — are sufficient to protect a mortal or immortal bearer from its maleficent energies.]]
+창: 와일드 헌트에서 쓰는 쓰라린 자비의 창은, 사냥을 위해 축성되고 그 규율에 묶인 자가 아니라면 필멸자든 불멸자든 다룰 수 없다고 알려져 있다. 하지만 키메르는 창의 힘이 위대할지언정 무한하지는 않다고 밝혀냈다. 말라카스가 벼린 구원자의 가죽 갑옷처럼, 특정한 마법 물품은 필멸자나 불멸자 착용자를 창의 사악한 에너지로부터 충분히 보호할 수 있다는 것이다.]]
 
 [출처](https://www.imperial-library.info/content/harvests-end-3e-172)
 
@@ -80,23 +80,23 @@ The Spear: Supposedly the Spear of Bitter Mercy used in the Wild Hunts could not
 
 ID: ext-6219dd323ba438cc73b5
 
-For the eyes of the Exalted Grand Marshall of His August Imperial Highness’ Legions, from his Peer of the Twilit Fastnesses, the Battlemage Clarentavious Valisious.  
+존엄하신 황제 폐하의 군단을 이끄는 고귀한 총사령관께, 황혼의 요새들에서 그대와 같은 지위를 지닌 전투마법사 클라렌타비우스 발리시오스가 올립니다.  
   
-As you read this, I am dead. My life, however, has not been given in vain, for I have vouchsafed you one small hope in all this tide of despair. The Great Star Galley, wrought by my own hand, still stands ready for your service. It will transport you to the High Halls and Librarium of the College.  
+그대가 이 글을 읽을 때면 나는 죽었을 것입니다. 하지만 내 목숨을 헛되이 바친 것은 아닙니다. 이 절망의 물결 속에서도 그대에게 작은 희망 하나를 남겼기 때문입니다. 내 손으로 만든 위대한 스타 갤리는 아직 그대를 위해 준비되어 있습니다. 그것은 그대를 대학의 높은 전당과 도서관으로 데려갈 것입니다.  
   
-Feigning vile possession and fellowship with the Enemy, I have contrived to conceal it from them, by dismantling my ingenious Opening Mechanism, and hiding away the five cogs upon which its workings depend. I leave one cog here for you, the others I have cunningly secreted. Assemble the mechanism, and you shall gain entry to the Star Galley Crib.  
+나는 사악한 빙의에 사로잡혀 적의 편이 된 척하며, 놈들에게서 이를 숨길 방도를 마련했습니다. 내가 고안한 개방 장치를 분해하고, 장치의 작동에 필요한 다섯 톱니바퀴를 숨긴 것입니다. 하나는 그대를 위해 여기 남겨 두고, 나머지는 교묘히 감추었습니다. 장치를 조립하면 스타 갤리의 요람에 들어갈 수 있습니다.  
   
-Beware the one that is named Methats.  
+메사츠라는 자를 조심하십시오.  
   
-He alone, I fear, suspects my ruse and might discover the workings.  
+그자만이 내 속임수를 의심하는 것 같습니다. 장치의 작동 원리를 알아낼지도 모릅니다.  
   
-One more criterion must be fulfilled before the Star Galley can convey you to the Colleges. Despite my many exertions upon the issue, the Galley requires the full puissance of all five anchors to pierce the mana streams and win free of its moorings.  
+스타 갤리가 그대를 대학들로 데려가려면 조건 하나를 더 충족해야 합니다. 내가 그 문제를 해결하려고 온갖 노력을 기울였음에도, 갤리가 마나의 흐름을 뚫고 정박한 자리에서 풀려나려면 다섯 닻의 온전한 힘이 모두 필요합니다.  
   
-One such anchor is here in my quarters. If but one anchor is not conjoined, the Galley will lack the power to depart this space.  
+그런 닻 하나가 이곳 내 거처에 있습니다. 단 하나라도 연결되어 있지 않으면 갤리는 이 공간을 떠날 힘을 얻지 못합니다.  
   
-Now listen and pay heed. If you would achieve this undertaking and drive the dark ones from our Emperor’s sovereign estate, seek out my remains. There you shall find the Typos Sophia, that shields any who possess it from the Taking into puppetry that is Possession. If you find me yet alive by some miracle, it shall be yours for your great purpose.  
+이제 귀 기울여 명심하십시오. 이 일을 이루고 어두운 자들을 우리 황제의 영지에서 몰아내려면, 내 유해를 찾으십시오. 그곳에서 티포스 소피아를 발견할 것입니다. 이를 지닌 자는 빙의라는 꼭두각시 상태로 붙잡히는 것으로부터 보호받습니다. 기적적으로 내가 아직 살아 있는 것을 발견한다 해도, 그대의 위대한 목적을 위해 그것을 드리겠습니다.  
   
-In Finis, when addressing the burial of those souls fallen here, I pray you remember their valour and their service in the name of Empire and forever hold high the name of Battlemage.
+끝으로, 이곳에서 쓰러진 영혼들의 장례를 치를 때 그들의 용맹과 제국을 위한 봉사를 기억하고, 전투마법사라는 이름을 영원히 높여 주시기를 바랍니다.
 
 [출처](https://www.imperial-library.info/content/letter-grand-marshall-imperial-legion)
 
@@ -106,43 +106,43 @@ In Finis, when addressing the burial of those souls fallen here, I pray you reme
 
 ID: ext-c1792f6fbfa66d36d8be
 
-That others might know, and be warned and witful, those devices called “augmented” are special, and deserving of special praise, for they bear multiple enchantments, the more econmically to aid the enchanter and warrior is his daily labors.  
+다른 이들이 알고 경계하며 지혜로워질 수 있도록 밝혀 둔다. '증강'이라 불리는 도구들은 특별하며, 특별한 찬사를 받을 만하다. 여러 마법이 깃들어 있어 마법부여사와 전사의 일상적인 노고를 더욱 효율적으로 돕기 때문이다.  
   
-The BattleAxe of Augmented Red Wisdom bears enchantments enhancing the skills of DESTRUCTION, and does Major Frost Damage to the enemy.  
+증강된 붉은 지혜의 전투도끼에는 파괴마법 솜씨를 높이는 마법이 깃들어 있으며, 적에게 큰 냉기 피해를 준다.  
   
-The BattleAxe of Augmented Swiftblade bears enchantments enhancing the skills of SHORTBLADE, and does Minor Frost Damage to the enemy.  
+증강된 날쌘 칼날의 전투도끼에는 단검 솜씨를 높이는 마법이 깃들어 있으며, 적에게 작은 냉기 피해를 준다.  
   
-The Broadsword of Augmented Leaping grants benefits in the disciplines of JUMPING, and, when striking a target, causes Minor Frost Damage .  
+증강된 도약의 브로드소드는 도약 능력을 높이며, 대상을 맞히면 작은 냉기 피해를 준다.  
   
-The Broadsword of Augmented Unseen Wisdom grants benefits in the disciplines of THAUMATURGY, and, when striking a target, causes Medium Fire Damage .  
+증강된 보이지 않는 지혜의 브로드소드는 기적술 능력을 높이며, 대상을 맞히면 중간 정도의 화염 피해를 준다.  
   
-The Claymore of Augmented Fleetness affords some abilities in the arts of RUNNING, and causes Medium Frost Damage to a victim on contact.  
+증강된 신속함의 클레이모어는 달리기 능력을 높이며, 희생자에게 닿으면 중간 정도의 냉기 피해를 준다.  
   
-The Claymore of Augmented Unknown Wisdom affords some abilities in the arts of MYSTICISM, and causes Major Fire Damage to a victim on contact.  
+증강된 미지의 지혜의 클레이모어는 신비마법 능력을 높이며, 희생자에게 닿으면 큰 화염 피해를 준다.  
   
-The CrossBow of Augmented Sureflight affords some abilities in the arts of MISSILE, and causes Medium Magic Damage to a victim on contact.  
+증강된 정확한 비행의 석궁은 사격 능력을 높이며, 희생자에게 닿으면 중간 정도의 마법 피해를 준다.  
   
-The Dagger of Augmented Stalking grants benefits in the disciplines of STEALTH, and, when striking a target, causes Minor Fire Damage.  
+증강된 추적의 단검은 은신 능력을 높이며, 대상을 맞히면 작은 화염 피해를 준다.  
   
-The Dagger of Augmented Green Wisdom grants benefits in the disciplines of RESTORATION, and, when striking a target, causes Minor Magic Damage .  
+증강된 초록 지혜의 단검은 회복마법 능력을 높이며, 대상을 맞히면 작은 마법 피해를 준다.  
   
-The Javelin of the Augmented Dolphin bears enchantments enhancing the skills of SWIMMING, and does Medium Fire Damage to the enemy.  
+증강된 돌고래의 투창에는 수영 솜씨를 높이는 마법이 깃들어 있으며, 적에게 중간 정도의 화염 피해를 준다.  
   
-The LongBow of Augmented Smiting grants benefits in the disciplines of BLUNTWEAPON, and, when striking a target, causes Medium Magic Damage .  
+증강된 강타의 장궁은 둔기 능력을 높이며, 대상을 맞히면 중간 정도의 마법 피해를 준다.  
   
-The Longsword of Augmented Surprise bears enchantments enhancing the skills of BACKSTABBING, and does Major Fire Damage to the enemy.  
+증강된 기습의 장검에는 배후 공격 솜씨를 높이는 마법이 깃들어 있으며, 적에게 큰 화염 피해를 준다.  
   
-The Longsword of Augmented Golden Wisdom bears enchantments enhancing the skills of ALTERATION, and does Minor Fire Damageto the enemy.  
+증강된 황금 지혜의 장검에는 변화마법 솜씨를 높이는 마법이 깃들어 있으며, 적에게 작은 화염 피해를 준다.  
   
-The Mace of the Augmented Horny Fist affords some abilities in the arts of HANDTOHAND, and causes Major Frost Damage to a victim on contact.  
+증강된 굳은살 박힌 주먹의 철퇴는 맨손 격투 능력을 높이며, 희생자에게 닿으면 큰 냉기 피해를 준다.  
   
-The Short Sword of the Augmented Swimmer affords some abilities in the arts of SWIMMING, and causes Medium Fire Damage to a victim on contact.  
+증강된 수영꾼의 소검은 수영 능력을 높이며, 희생자에게 닿으면 중간 정도의 화염 피해를 준다.  
   
-The Short Sword of Augmented Silver Wisdom affords some abilities in the arts of ILLUSION, and causes Medium Magic Damage to a victim on contact.  
+증강된 은빛 지혜의 소검은 환영마법 능력을 높이며, 희생자에게 닿으면 중간 정도의 마법 피해를 준다.  
   
-The ShortBow of Augmented Deep Biting bears enchantments enhancing the skills of AXE, and does Minor Magic Damage to the enemy.  
+증강된 깊은 물림의 단궁에는 도끼 솜씨를 높이는 마법이 깃들어 있으며, 적에게 작은 마법 피해를 준다.  
   
-The WarAxe of Augmented Hewing grants benefits in the disciplines of LONGBLADE, and, when striking a target, causes Medium Frost Damage.
+증강된 베기의 전쟁도끼는 장검 능력을 높이며, 대상을 맞히면 중간 정도의 냉기 피해를 준다.
 
 [출처](https://www.imperial-library.info/content/short-history-augmented-craftworks)
 
@@ -152,13 +152,13 @@ The WarAxe of Augmented Hewing grants benefits in the disciplines of LONGBLADE, 
 
 ID: ext-ac89861a51835aa5b659
 
-Dear Occupant:  
+이곳에 계신 분께.  
   
-We regret to inform you that you have failed your preliminary Intelligence examination.  
+귀하가 예비 지능 시험에 불합격했음을 유감스럽게 알려 드립니다.  
   
-Only a real dope would dive into a deep hole without arranging for a teleport anchor. Heh-heh.  
+순간이동용 닻도 마련하지 않고 깊은 구멍으로 뛰어드는 것은 정말 멍청한 사람이나 할 짓이니까요. 헤헤.  
   
-Have a nice day. Or two.
+좋은 하루 보내십시오. 아니, 이틀쯤.
 
 [출처](https://www.imperial-library.info/content/intelligence-training-note)
 
@@ -168,7 +168,7 @@ Have a nice day. Or two.
 
 ID: ext-624381df414cf9d33dcf
 
-[[The book is written in Daedric, but the illustrations of various complex wheel, gear, and pulley arrangements suggest that this could be the Book of the Wheels of Heaven. By studying the tables of codes in the back, you discover that the code you are looking for is Doht Yoodt Seht Koht, or DUSK in Tamrielic. The table also displays the codes written as numerals, which happily are the same in Tamrielic and Daedric — 4-21-19-11 — which corresponds to the number of the letters in the alphabet sequence.]]
+[[책은 데이드라 문자로 쓰여 있다. 하지만 복잡하게 얽힌 여러 바퀴와 톱니바퀴, 도르래의 삽화를 보면 『천상의 수레바퀴에 관한 책』인 듯하다. 뒤쪽의 암호표를 살펴보니, 찾고 있는 암호가 Doht Yoodt Seht Koht, 즉 탐리엘 문자로 DUSK임을 알게 된다. 표에는 암호를 숫자로 적은 것도 나와 있다. 다행히 숫자는 탐리엘 문자와 데이드라 문자가 같아서 4-21-19-11이다. 이는 각 글자가 알파벳에서 차지하는 순서에 해당한다.]]
 
 [출처](https://www.imperial-library.info/content/book-wheels-heaven)
 
@@ -178,49 +178,49 @@ ID: ext-624381df414cf9d33dcf
 
 ID: ext-ec2b929a4f6e908ace71
 
-[[Among the hundreds of riddles in this weighty tome, THE KENDHALL BOOK OF RIDDLES, four have been marked with scraps of paper:]]  
+[[두툼한 『켄드홀 수수께끼집』에 담긴 수백 가지 수수께끼 가운데 네 곳에 종잇조각이 끼워져 있다.]]  
   
-Page 1  
+1쪽  
   
-Loadbearer, Warrior  
-Spirited, Brave  
-Fleet-foot, Ironshod  
-Faithful One, Slave  
-Answer: Horse  
+짐을 지는 자, 전사  
+기운차고 용감한 자  
+발이 빠르고 쇠 신을 신은 자  
+충실한 자, 노예  
+정답: 말(Horse)  
   
-Page 2  
+2쪽  
   
-I rise above the roofs below  
-Finger up-raised to heaven.  
-I speak in clear tones  
-That aim for others  
-To gather where I call.  
+아래의 지붕들보다 높이 솟아  
+하늘을 향해 손가락을 세운다.  
+나는 맑은 소리로 말하여  
+다른 이들이  
+내가 부르는 곳으로 모이게 한다.  
   
-Answer: Bell Tower  
+정답: 종탑(Bell Tower)  
   
-Page 3  
+3쪽  
   
-Some live in me, some live on,  
-And some shave me to stride upon.  
-I rarely leave my native land.  
-Until my death I always stand.  
-High and low I may be found  
-Both above and under ground.  
+누군가는 내 안에 살고, 누군가는 내 위에 살며,  
+누군가는 나를 깎아 그 위를 걸어간다.  
+나는 고향 땅을 좀처럼 떠나지 않는다.  
+죽을 때까지 언제나 서 있다.  
+높은 곳에도 낮은 곳에도 있으며  
+땅 위에도 땅 아래에도 있다.  
   
-Answer: Tree  
+정답: 나무(Tree)  
   
-Page 4  
+4쪽  
   
-Armor bright  
-Gleaming white  
-A single rank  
-Their faces blank  
-Now hid by night  
-Now bold by light  
-Bright red the land  
-Where soldiers stand  
+빛나는 갑옷  
+희게 반짝이며  
+한 줄로 늘어서고  
+얼굴은 무표정하다  
+때로는 밤에 가려지고  
+때로는 빛 아래 당당하다  
+병사들이 선 땅은  
+선명한 붉은색  
   
-Answer: Teeth
+정답: 이(Teeth)
 
 [출처](https://www.imperial-library.info/content/kendhall-book-riddles)
 
@@ -230,13 +230,13 @@ Answer: Teeth
 
 ID: ext-8c9bb47be51c6feafc5d
 
-[[beneath several large, important-looking charts and diagrams]]  
+[[크고 중요해 보이는 여러 도표와 도해 아래에]]  
   
-Behold the ritual of making for the Grand and Thaumaturgical and Most Puissant Trebuchet of Overarching Peril.  
+위대하고 기적을 행하며 지극히 강력한, 드넓은 재앙의 투석기를 만드는 의식을 보라.  
   
-He that touches this parchment to the workings of the Trebuchet of Granvellusa and releases its spirits therein shall apprehend before him an full and ready Engine of Mighty Destruction for the subjugation of the Foes of all Direnni.  
+이 양피지를 그란벨루사의 투석기 장치에 대어 그 안에 깃든 정령들을 풀어놓는 자는, 모든 디레니의 적을 굴복시킬 위력적인 파괴 장치가 완전한 모습으로 준비되어 눈앞에 나타나는 것을 보리라.  
   
-Forromeo has spoken. The world shall hear. Let all peoples tremble before the everlasting might and grandeur of Clan Direnni.
+포로메오가 말하였으니, 세상은 들을지어다. 모든 민족은 디레니 가문의 영원한 힘과 위엄 앞에 떨지어다.
 
 [출처](https://www.imperial-library.info/content/trebuchet-ritual)
 
@@ -246,43 +246,43 @@ Forromeo has spoken. The world shall hear. Let all peoples tremble before the ev
 
 ID: ext-8dce0c5857d97e96cef1
 
-TAKE CARE. The excellences of my works may not always be ready to the eye, and may lie deep within the warp and weft of the spirit weave.  
+주의하라. 내 작품의 뛰어남은 언제나 눈에 쉽게 드러나는 것이 아니며, 영혼을 엮은 날실과 씨실 깊숙한 곳에 숨어 있을 수도 있다.  
   
-The BattleAxe of Starkhorn’s Swiftblade bears enchantments enhancing the skills of SHORTBLADE, and gives some Resistance to Shock when equipped by the owner.  
+스타크혼의 날쌘 칼날 전투도끼에는 단검 솜씨를 높이는 마법이 깃들어 있으며, 소유자가 장비하면 어느 정도의 전격 저항력을 준다.  
   
-The Boots of Starkhorn’s Fleetness affords some abilities in the arts of RUNNING, and, when in use by the owner, provides a modest Resistance to Poison.  
+스타크혼의 신속함 장화는 달리기 능력을 높이며, 소유자가 사용하면 적당한 독 저항력을 준다.  
   
-The Broadsword of Starkhorn’s Unseen Wisdom grants benefits in the disciplines of THAUMATURGY, and, when equipped, confers a measure of Resistance to Magic for its owner.  
+스타크혼의 보이지 않는 지혜 브로드소드는 기적술 능력을 높이며, 장비하면 소유자에게 어느 정도의 마법 저항력을 준다.  
   
-The Claymore of Starkhorn’s Unknown Wisdom affords some abilities in the arts of MYSTICISM, and, when in use by the owner, provides a modest Resistance to Poison.  
+스타크혼의 미지의 지혜 클레이모어는 신비마법 능력을 높이며, 소유자가 사용하면 적당한 독 저항력을 준다.  
   
-The CrossBow of Starkhorn’s Sureflight affords some abilities in the arts of MISSILE, and, when in use by the owner, provides a modest Resistance to Poison.  
+스타크혼의 정확한 비행 석궁은 사격 능력을 높이며, 소유자가 사용하면 적당한 독 저항력을 준다.  
   
-The Cuirass of Starkhorn’s Swimmer affords some abilities in the arts of SWIMMING, and, when in use by the owner, provides a modest Resistance to Fire.  
+스타크혼의 수영꾼 흉갑은 수영 능력을 높이며, 소유자가 사용하면 적당한 화염 저항력을 준다.  
   
-The Dagger of Starkhorn’s Green Wisdom grants benefits in the disciplines of RESTORATION, and, when equipped, confers a measure of Resistance to All Elements for its owner.  
+스타크혼의 초록 지혜 단검은 회복마법 능력을 높이며, 장비하면 소유자에게 어느 정도의 모든 원소 저항력을 준다.  
   
-The Gauntlets of Starkhorn’s Red Wisdom bears enchantments enhancing the skills of DESTRUCTION, and gives some Resistance to Shock when equipped by the owner.  
+스타크혼의 붉은 지혜 건틀릿에는 파괴마법 솜씨를 높이는 마법이 깃들어 있으며, 소유자가 장비하면 어느 정도의 전격 저항력을 준다.  
   
-The Greaves of Starkhorn’s Leaping grants benefits in the disciplines of JUMPING, and, when equipped, confers a measure of Resistance to Magic for its owner.  
+스타크혼의 도약 경갑은 도약 능력을 높이며, 장비하면 소유자에게 어느 정도의 마법 저항력을 준다.  
   
-The Helmet of Starkhorn’s Stalking grants benefits in the disciplines of STEALTH, and, when equipped, confers a measure of Resistance to All Elements for its owner.  
+스타크혼의 추적 투구는 은신 능력을 높이며, 장비하면 소유자에게 어느 정도의 모든 원소 저항력을 준다.  
   
-The Javelin of Starkhorn’s Dolphin bears enchantments enhancing the skills of SWIMMING, and gives some Resistance to All Elements when equipped by the owner.  
+스타크혼의 돌고래 투창에는 수영 솜씨를 높이는 마법이 깃들어 있으며, 소유자가 장비하면 어느 정도의 모든 원소 저항력을 준다.  
   
-The LongBow of Starkhorn’s Smiting grants benefits in the disciplines of BLUNTWEAPON, and, when equipped, confers a measure of Resistance to Magic for its owner.  
+스타크혼의 강타 장궁은 둔기 능력을 높이며, 장비하면 소유자에게 어느 정도의 마법 저항력을 준다.  
   
-The Longsword of Starkhorn’s Golden Wisdom bears enchantments enhancing the skills of ALTERATION, and gives some Resistance to Frost when equipped by the owner.  
+스타크혼의 황금 지혜 장검에는 변화마법 솜씨를 높이는 마법이 깃들어 있으며, 소유자가 장비하면 어느 정도의 냉기 저항력을 준다.  
   
-The Mace of Starkhorn’s Horny Fist affords some abilities in the arts of HANDTOHAND, and, when in use by the owner, provides a modest Resistance to Fire.  
+스타크혼의 굳은살 박힌 주먹 철퇴는 맨손 격투 능력을 높이며, 소유자가 사용하면 적당한 화염 저항력을 준다.  
   
-The Pauldrons of Starkhorn’s Surprise bears enchantments enhancing the skills of BACKSTABBING, and gives some Resistance to Frost when equipped by the owner.  
+스타크혼의 기습 견갑에는 배후 공격 솜씨를 높이는 마법이 깃들어 있으며, 소유자가 장비하면 어느 정도의 냉기 저항력을 준다.  
   
-The Short Sword of Starkhorn’s Silver Wisdom affords some abilities in the arts of ILLUSION, and, when in use by the owner, provides a modest Resistance to Fire.  
+스타크혼의 은빛 지혜 소검은 환영마법 능력을 높이며, 소유자가 사용하면 적당한 화염 저항력을 준다.  
   
-The ShortBow of Starkhorn’s Deep Biting bears enchantments enhancing the skills of AXE, and gives some Resistance to Frost when equipped by the owner.  
+스타크혼의 깊은 물림 단궁에는 도끼 솜씨를 높이는 마법이 깃들어 있으며, 소유자가 장비하면 어느 정도의 냉기 저항력을 준다.  
   
-The WarAxe of Starkhorn’s Hewing grants benefits in the disciplines of LONGBLADE, and, when equipped, confers a measure of Resistance to All Elements for its owner.
+스타크혼의 베기 전쟁도끼는 장검 능력을 높이며, 장비하면 소유자에게 어느 정도의 모든 원소 저항력을 준다.
 
 [출처](https://www.imperial-library.info/content/starkhorns-compendium-his-arts-and-crafts-realms-lesser-enchantments)
 
@@ -292,17 +292,17 @@ The WarAxe of Starkhorn’s Hewing grants benefits in the disciplines of LONGBLA
 
 ID: ext-367ea1ee1addb5f389ce
 
-For all Feydra’s vassals, our Hounds.  
+페이드라의 모든 봉신, 우리의 사냥개들에게.  
   
-You shall not return to the Chapel until the hunt is resolved, and the quarry’s corpse is borne in to rest upon the altar.  
+사냥이 끝나고 사냥감의 시체가 운반되어 제단 위에 놓일 때까지 예배당으로 돌아와서는 안 된다.  
   
-Remember, you are The Greater Hounds. You are to pursue and harry the quarry but must not kill it. That honor shall be Egahirn’s only.  
+기억하라. 너희는 상급 사냥개들이다. 사냥감을 쫓고 몰아붙이되, 죽여서는 안 된다. 그 영예는 오직 에가히른의 몫이다.  
   
-Keep your amulets about you, the quarry is wily.  
+부적을 몸에 지녀라. 사냥감은 교활하다.  
   
-Now go, and run well, for the Hunt is a thing of beauty.  
+이제 가서 잘 달려라. 사냥은 아름다운 것이니.  
   
-Herne.
+헤른.
 
 [출처](https://www.imperial-library.info/content/letter-fire-daedra)
 

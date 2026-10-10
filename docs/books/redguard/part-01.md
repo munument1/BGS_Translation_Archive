@@ -8,13 +8,13 @@
 
 ID: ext-2779e98c5c3c56d93d34
 
-Transcription:  
+[수록 안내: 확보된 원문 자체가 발췌문입니다. 책 전문이나 삽화 전체의 번역이 아닙니다.]  
   
-Fig 15 Hunding (p17)  
+그림 15. 훈딩 (17쪽)  
   
-[…] beginning of recorded time in High Desert and were craftsmen and mystics. His grandfather was a retainer of Mansel Sesnit, the Elden Yokudan, and led many of the battles of unification prior to Sesnit’s assassination. When he was 14, Hunding’s father died in one of the regions’ many insurrections, and he was left to support his mother and four brothers. His prowess[…]  
+[…] 기록된 역사가 시작되던 시절부터 하이 데저트에 살았으며, 장인인 동시에 신비술사였다. 그의 할아버지는 고대 요쿠다의 만셀 세스닛을 섬기던 가신으로, 세스닛이 암살되기 전에 벌어진 통일 전쟁의 여러 전투를 이끌었다. 훈딩이 열네 살이 되었을 때, 지역에서 끊임없이 일어나던 반란 중 하나로 아버지가 목숨을 잃었다. 이후 그는 어머니와 네 형제를 부양해야 했다. 그의 뛰어난 능력은[…]  
   
-Fig 16 Leki (p21)
+그림 16. 레키 (21쪽)
 
 [출처](https://www.imperial-library.info/content/redguards-their-heroes-and-history)
 
@@ -24,23 +24,24 @@ Fig 16 Leki (p21)
 
 ID: ext-f8fc052fab5bdd6b3dd4
 
-Transcription:  
+[수록 안내: 설계도에서 확보된 글자만 번역했습니다. 도면 자체를 재현한 것이 아닙니다.]  
   
-PALACE EXTENSION  
+궁전 증축  
   
-LEVITATION DEVICE  
-OBSERVATION TOWER  
+공중부양 장치  
+전망탑  
   
-THRONE ROOM  
+알현실  
   
-SCALE 1001  
+축척 1001  
   
-ALL UNITS  
-IMPERIAL  
-MEASURE  
+모든 단위는  
+제국식  
+도량형을  
+따름  
   
-Dirigible Lift  
-Control Room
+비행선 승강장  
+제어실
 
 [출처](https://www.imperial-library.info/content/richtons-palace-expansion-schematic)
 
@@ -50,8 +51,10 @@ Control Room
 
 ID: ext-93aca7b069065a122911
 
-Map drawn by Maiko the Stros M’Kai Cartographer  
-Fragments of a treasure map assembled by Cyrus.
+[수록 안내: 아래는 원문 페이지에 남은 지도 설명의 번역입니다. 지도 이미지나 지도 속 표기를 번역한 것이 아닙니다.]  
+  
+스트로스 므카이의 지도 제작자 마이코가 그린 지도.  
+사이러스가 모아 맞춘 보물 지도 조각들.
 
 [출처](https://www.imperial-library.info/content/flask-lillandril-maps)
 
@@ -61,32 +64,32 @@ Fragments of a treasure map assembled by Cyrus.
 
 ID: ext-02516ed1c4158815a11d
 
-A is for the apes that date their mothers  
-B is for the boils they pop for fun  
-C is for the water sailors sail on  
-D is for the lumps upon their tongues  
-E is for the eels they eat for breakfast  
-F is for the fleas that swarm within their shorts  
-G is for the grog they swill by gallons  
-H is for the hair upon their warts  
-I is what they poke out with their fingers  
-J is for the jerks they give on ropes  
-K is for the kats they drown in bags  
-L is for the love they give to goats  
-M is for the marks of fifty lashes  
-N is for their smarts, for they have none  
-O is for the oceans they get lost in  
-P is for their pox and scurvy gums  
-Q is for the quakebutts fit for pounding  
-R is wrong, and wrong theyll always be  
-S is stinky, just like sailors armpits  
-T is for the ticks that eat their fleas  
-U is for the urgent needs of manhood  
-V is for the vegetables they wont eat  
-W for weevils in their hardtack  
-X ‘es mark the spots on all their mapses  
-Y – oh why! We cry, must our song end?  
-Z – the zoanthropic girls of our hometowns
+A는 제 어미와 놀아나는 원숭이들  
+B는 재미 삼아 터뜨리는 종기들  
+C는 뱃놈들이 배를 띄우는 물  
+D는 그놈들 혀에 돋은 돌기들  
+E는 아침밥으로 먹는 뱀장어  
+F는 그놈들 속바지에 들끓는 벼룩들  
+G는 몇 갤런씩 들이켜는 그로그  
+H는 그놈들 사마귀 위에 난 털  
+I는 제 손가락으로 찔러 빼는 눈  
+J는 밧줄을 홱홱 잡아당기는 짓  
+K는 자루에 넣어 물에 빠뜨리는 고양이들  
+L은 염소들에게 베푸는 사랑  
+M은 쉰 대의 채찍질이 남긴 자국  
+N은 그놈들 머리, 텅 비어 있지  
+O는 그놈들이 길을 잃는 바다들  
+P는 그놈들 천연두와 괴혈병 든 잇몸  
+Q는 두들기기 딱 좋은 들썩이는 엉덩이들  
+R은 틀려먹었다는 뜻, 그놈들은 영영 틀려먹었지  
+S는 뱃놈들 겨드랑이처럼 고약한 냄새  
+T는 그놈들 벼룩을 잡아먹는 진드기들  
+U는 남정네들의 참을 수 없는 욕구  
+V는 그놈들이 절대 안 먹는 채소들  
+W는 그놈들 건빵 속의 바구미들  
+X는 그놈들 지도마다 찍힌 표시들  
+Y, 아 왜! 우린 외치지, 노래가 꼭 끝나야 하나?  
+Z는 우리 고향의 짐승 같은 아가씨들
 
 [출처](https://www.imperial-library.info/content/crendal-town-drunks-drunken-song)
 
@@ -96,16 +99,16 @@ Z – the zoanthropic girls of our hometowns
 
 ID: ext-40cc3f2f8e852b026f92
 
-NO TRESPASSING  
+무단출입 금지  
   
-THIS SITE HAS BEEN CLAIMED BY  
-THE IMPERIAL ARCHAEOLOGICAL SOCIETY  
+이 부지는  
+제국 고고학 협회의 소유로 선언되었다.  
   
-AUTHORIZED  
-PERSONNEL  
-ONLY  
+허가받은  
+관계자만  
+출입 가능  
   
-DWARVEN RECLAMATION ACT 2E 864
+제2시대 864년 드웨머 유물 회수법
 
 [출처](https://www.imperial-library.info/content/no-trespassing)
 
@@ -115,7 +118,9 @@ DWARVEN RECLAMATION ACT 2E 864
 
 ID: ext-726dee95276a12be04c6
 
-This comic from Bethesda provides a prelude to the events in Elder Scrolls Adventures: Redguard. It tells the story of the conflict between Crowns and Forebears factions, and the story of how young Cyrus became estranged from his sister, Iszara, and came to sail as a mercenary.
+[수록 안내: 아래는 원문 페이지의 만화 소개문 번역입니다. 만화의 그림이나 대사를 번역한 것이 아닙니다.]  
+  
+베데스다가 제작한 이 만화는 『엘더스크롤 어드벤처: 레드가드』에서 벌어지는 사건들의 서막을 보여 준다. 크라운과 포어베어 두 세력의 갈등, 그리고 젊은 사이러스가 누이 이자라와 소원해지고 용병으로서 바다를 누비게 된 사연을 다룬다.
 
 [출처](https://www.imperial-library.info/content/origin-cyrus)
 
@@ -125,17 +130,15 @@ This comic from Bethesda provides a prelude to the events in Elder Scrolls Adven
 
 ID: ext-fded7edea602adab5128
 
-Transcription:  
-  
-WANTED  
-FOR TREASON AND MURDER  
-‘CYRUS’  
-REDGUARD MALE 1.85 M. 80 K. 25-30 YRS.  
-A REWARD OF 100 GOLD PIECES WILL BE GIVEN  
-FOR INFORMATION LEADING TO THE ARREST  
-OF THIS CRIMINAL. BE IT KNOWN THAT,  
-BY ORDER OF THE EMPORER, ANY PERSON  
-HARBOURING A FUGITIVE WILL BE HANGED.
+수배  
+반역 및 살인 혐의  
+'사이러스'  
+레드가드 남성, 신장 1.85미터, 체중 80킬로그램, 나이 25~30세.  
+이 범죄자의 체포에 결정적인 정보를 제공한 자에게  
+금화 100닢의 포상금을 지급한다.  
+황제 폐하의 명에 따라,  
+도망자를 숨겨 주는 자는 누구든  
+교수형에 처함을 알린다.
 
 [출처](https://www.imperial-library.info/content/wanted-cyrus)
 
@@ -145,17 +148,17 @@ HARBOURING A FUGITIVE WILL BE HANGED.
 
 ID: ext-17145c6d060a882fe892
 
-Transcription:  
+[수록 안내: 아래는 확보된 전사문만 번역한 발췌문입니다. 책 전문이 아니며, 원문에서 끊긴 앞뒤 문장은 복원하지 않았습니다.]  
   
-of Lillandril, a magical flask discovered during the 1st Era of Tamriel (c. 1E470) by a group of Elves living in Lillandril, a port city on the Northern shore of Summerset Isle. Upon learning that the flask had the marvellous property of being able to absorb magic of any persuasion, the founders realized their importance in the world and spread word of their discovery. They performed various favors for the Barons of Summerset Isle, keeping the magical powers of the Wood Elves of Valenwood in check.  
+…릴란드릴의 플라스크는 탐리엘의 제1시대, 약 1E 470년경 서머셋 아일 북쪽 해안의 항구 도시 릴란드릴에 살던 엘프 무리가 발견한 마법의 병이다. 그들은 이 플라스크가 어떤 종류의 마법이든 흡수할 수 있다는 놀라운 성질을 알아냈다. 발견자들은 자신들이 세상에서 얼마나 중요한 위치에 놓였는지 깨닫고 발견 소식을 널리 알렸다. 또한 서머셋 아일의 남작들에게 여러 도움을 베풀며 발렌우드 우드 엘프들의 마법력을 견제했다.  
   
-Eventually the founders, worried that Wood Elf assassins may kill them and take the flask, left Summerset Isle for the City of Daggerfall, in High Rock, where they hoped to buy their safety from the Clan Direnni, to live in secret, protected by the Direnni.  
+시간이 흐르자 발견자들은 우드 엘프 암살자들이 자신들을 죽이고 플라스크를 빼앗을까 두려워했다. 그래서 서머셋 아일을 떠나 하이 록의 대거폴로 향했다. 그곳에서 디레니 가문에 대가를 치르고 안전을 보장받아, 가문의 보호 아래 비밀리에 살 생각이었다.  
   
-While sailing from Summerset to High Rock, they were shipwrecked on the coral reef along the southern coast of what is now Stros M’kai. The founders were killed and the Flask of Lillandril was lost.  
+그러나 서머셋에서 하이 록으로 항해하던 중, 배가 오늘날 스트로스 므카이 남쪽 해안의 산호초에 걸려 난파했다. 발견자들은 목숨을 잃었고 릴란드릴의 플라스크도 사라졌다.  
   
-Stories of the flask have appeared over the ages, but it is still believed by many that it is lost somewhere on the island of Stros M’Kai.  
+이후 시대마다 플라스크에 관한 이야기가 전해졌지만, 지금도 많은 이들은 그것이 스트로스 므카이 섬 어딘가에 잠들어 있다고 믿는다.  
   
-References linking the island to the flask occur in manuscript fragments of unknown but ancient origin held in the private library of Enric Dexian at Sentinel. One piece, the Lagan Text, has symbols (reproduced above) which could be interpreted as map references. This has led to the theory that the location of the flask was known at some time after the founders demise. In particular
+이 섬과 플라스크의 연관성을 보여 주는 언급은 센티넬의 엔릭 덱시안이 소장한, 기원은 알 수 없으나 오래된 필사본 조각에서도 발견된다. 그중 '라간 문서'라 불리는 한 조각에는 지도상의 위치를 나타내는 것으로 해석할 수 있는 기호가 있다. 이 기호는 위에 재현되어 있다. 이 때문에 발견자들이 사망한 뒤 어느 시점에는 누군가가 플라스크의 위치를 알고 있었다는 설이 제기되었다. 특히…
 
 [출처](https://www.imperial-library.info/content/elven-artifacts)
 
@@ -165,23 +168,21 @@ References linking the island to the flask occur in manuscript fragments of unkn
 
 ID: ext-e93cd677853e432fbbce
 
-Transcription:  
+CE 864년 첫 씨앗 26일  
   
-First Seed 26.CE 864  
+이것이 마지막 기록이 될 것이다. 이 지긋지긋한 무기력에서 벗어나려 한다. 행동할 때가 왔다! 바질과 그 게으른 늑대 무리는 우리 왕자를 애도하며 어둠 속에 숨는 것만으로 만족한다. 총독이 가장 두려워하는 바로 그것을 우리가 가지고 있는데도!  
   
-This will be my last entry, as I’m taking leave of this maddening torpor: the time to act is at hand! Basil and the rest of his lazy wolves are content to mourn our Prince and hide in shadows, even while we have the very thing the Governor fears most!  
+제국이 지배를 굳혀 가는 동안, 내 사랑은 몇 달째 호박 속에 누워 있다. 아토르 왕자를 되살리지 못하면 해머펠은 영영 사라지고 말 것이다.  
   
-For months my love has lain in amber while the Empire firms its hold. Hammerfell will be lost forever if Prince A’tor is not restored.  
+결심했다. 연맹이 잠에서 깨어나지 못한다면, 그들이 자는 동안 영혼석을 훔치겠다! 아침이면 나는 스트로스 므카이에 도착해 있을 것이다. 그곳에는 내게 필요한 도움을 줄지도 모르는 사람들이 있다.  
   
-I am decided:if the League can’t shake its slumber, then I will steal the soulgem as they sleep! By morning I’ll be in Stros M’Kai where there are others who might give me the help I need.  
+사이러스  
   
-Cyrus  
+집시 여자가 네가 스트로스 므카이로 올 것이라고 했다. 물론 나는 그 면전에서 비웃었다. 그래도 어른을 공경하는 마음에서 이 경고를 남긴다. 피의 자물쇠가 열렸다면 네가 온 것임을 알 테니, 부디 다음 말을 새겨들어라.  
   
-The gypsy woman told me you would come to Stros M’Kai. I laughed in her face of course, but I leave this warning if only for respect of one’s elders. If the blood lock is opened then I know it is you, and ask you to please heed the next:  
+내 문제는 내게 맡기고, 요즘 네가 가장 좋아하는 길이 어디든 그 길로 돌아가라.  
   
-Leave me my dilemma and go back to whatever road you love best these days.  
-  
-You’ve had ample practise.
+그런 일이라면 충분히 익숙하겠지.
 
 [출처](https://www.imperial-library.info/content/iszaras-journal)
 
@@ -191,16 +192,14 @@ You’ve had ample practise.
 
 ID: ext-fa2ab5107b1bac2ea647
 
-Transcription:  
+출입 금지  
+추후 통지가 있을 때까지  
+스트로스 므카이 임시 총독  
+리히턴 제독 각하의 명에 따라  
   
-KEEP OUT  
-Until Further Notice & by Order of  
-The Provisional Governor of Stros M’Kai  
-Lord Admiral Richton  
-  
-NO ONE  
-MAY ENTER  
-THIS AREA
+누구도  
+이 구역에  
+들어갈 수 없다.
 
 [출처](https://www.imperial-library.info/content/keep-out)
 
@@ -210,13 +209,11 @@ THIS AREA
 
 ID: ext-6df889179f22e00d516b
 
-Transcription:  
+입안에서 독의 맛이 난다. 가슴속의 누런 안개가 숨길을 틀어막는다. 옆구리의 깊은 상처에서는 피가 쏟아진다. 무엇이 먼저 나를 죽일까? 상처인가, 독인가?  
   
-I can taste the poison in my mouth – a yellow fog in the chest that clogs the vital passages. The gash in my side weeps fast – which will kill me first – wound or toxin?  
+그녀의 성급함을 저주한다! 이 사악한 어둠 속에서 혼자 반지를 찾아낼 수 있으리라 생각한 내 자만도 저주한다. 하지만 그녀는 약속 장소에 나타나지 않았다. 시간이 다 되어 가는 것 같아 두렵다. 아크메이지의 반지만 있으면 크라운이 권력을 되찾는 데 한 걸음 더 다가갈 수 있다. 그의 시신이 여기 있는 것이 분명하다. 전투가 끝난 뒤의 저류가 무슨 장난을 부린 것이겠지. 거미의 젖은 깊다. 이자라, 네게 아무 일도 없었기를 빈다. 문 너머에서 고블린들이 들린다. 우불라 우불라 우불라, 놈들이 나를 잡으러 온다. 사랑하는 이여, 나는 너를 저버렸다. 반지에는 조금도 가까워지지 못했다. 서둘러야 한다.  
   
-Damn her impatience! And damn my pride to think I might find theringin this nefarious darkness on my own. But she missed the rendezvous & I fear we are running out of time. With theArchmage’s ring we are one step closer to restoring theCrownsto power. I am sure his body is here. Some trick of the undercurrent in the wake of the battle. Thespider’s milkis deep.IszaraI pray nothing has happened to you. I hear thegoblinsbehind the door. Ubula Ubula Ubula they come for me. I have failed you my love. The ring is nowhere nearer. You must hurry.  
-  
-The League is closing in. TheEmpireis closing in. The Darkness is closing
+연맹이 다가온다. 제국이 다가온다. 어둠이 다가…
 
 [출처](https://www.imperial-library.info/content/brother-kithrals-journal)
 
@@ -226,13 +223,11 @@ The League is closing in. TheEmpireis closing in. The Darkness is closing
 
 ID: ext-1ef18500dacd58354e7b
 
-Transcription:  
+사이러스에게.  
   
-Cyrus-  
+친구여, 이 편지가 네 손에 닿기를 바란다. 이번 여행 끝에 스트로스 므카이에 왔는데, 이곳에서는 지난 석 달 동안 네 누이를 본 사람이 아무도 없더구나. 최악의 사태가 걱정된다. 몇 주쯤은 여기 머물러야 할 것 같구나. 돌아오거든 드래긴 테일 여관으로 찾아오렴.  
   
-I hope this letter finds your hands, friend. My latest travels have brought me toStros M’Kaiand no one here has seen yoursisterfor three months. I fear the worst. I feel obligated to stay for a few weeks. I will be at theDraggin Tale Inn, should you return.  
-  
-Tobias
+토비아스
 
 [출처](https://www.imperial-library.info/content/tobias-letter)
 
@@ -242,13 +237,13 @@ Tobias
 
 ID: ext-4edb5a5a2525f5f7389c
 
-Transcription:  
+[수록 안내: 레드가드 판본에서 확보된 전사문을 번역했습니다. 후속 작품에 등장하는 더 긴 판본으로 대체하지 않았습니다.]  
   
-Active from Sun’s Height to Hearth Fire  
+태양의 정점부터 화롯불까지 활동함  
   
-The Warrior is a Guardian Constellation, and thus protects his Charges from the Serpent during his Season. His Charges are the Lady, the Steed, and the Lord, Minor Constellations which share his Quadrant of the Heavens.  
+전사는 수호 별자리다. 따라서 자신의 계절이 되면 뱀으로부터 휘하의 별자리들을 지킨다. 그가 수호하는 것은 숙녀, 군마, 군주다. 이 작은 별자리들은 하늘에서 전사와 같은 사분면을 차지한다.  
   
-The Serpent threatens Different Charges during Different Seasons, and the Warrior’s Very Aspect will Change according to the Times. If, for Example, His Lady is being threatened the Warrior will seem as if he is looking to His Left, Eyes blazing towards that Part of the Sky wherein she resides. Thus, to find the Serpent during the Warrior’s Season, look to where he looks, for that is where the Coiled Beast is Active.
+뱀은 계절마다 서로 다른 별자리를 위협하며, 전사의 모습도 때에 따라 달라진다. 예를 들어 숙녀가 위협받으면 전사는 왼쪽을 바라보는 듯한 모습을 띠고, 숙녀가 자리한 하늘을 향해 두 눈을 빛낸다. 그러므로 전사의 계절에 뱀을 찾으려면 전사가 바라보는 곳을 보라. 똬리를 튼 그 짐승은 바로 그곳에서 활동하고 있다.
 
 [출처](https://www.imperial-library.info/content/redguard-firmament)
 
@@ -258,19 +253,17 @@ The Serpent threatens Different Charges during Different Seasons, and the Warrio
 
 ID: ext-a206921d7ba3e152eeac
 
-Transcription:  
+알로에  
   
-Aloe  
+옛사람들은 알로에의 효능을 잘 알고 있었다. 출혈을 멎게 하고 상처의 치유를 촉진하는 데 유용한 놀라운 약초다. 천연두의 증세를 완화하는 효과도 밝혀졌다. 으깬 잎에서 나온 즙을 지극히 맑은 물과 섞기만 하면 약물을 만들 수 있다.  
   
-The ancients knew well the efficacy of the Aloe. It is a wondrous herb, useful in staunching the flow of blood and in promoting the healing of wounds. It has also been found to lessen the effect of the pox. An elixir may be simply made by combining the licqor from a crushed leaf with purest water.  
+안젤리카  
   
-Angelica  
+해머펠 주민들은 설탕 결정으로 입힌 안젤리카를 별미로 여긴다. 장에 가스가 차는 증상을 치료하는 데도 써 왔다.  
   
-Angelica is known among those who dwell in Hammerfell as a delicacy when crystalised. It has been used to cure the flatulence.  
+바질  
   
-Basil  
-  
-This herb is beneficial for reducing swelling in the proboscus. It is applied as a poultice over the affected area. As a precautionary measure, straws should be placed in the nostrils prior to application.
+이 약초는 코의 부기를 가라앉히는 데 효과가 있다. 환부에 습포제로 바른다. 예방 조치로, 바르기 전에 콧구멍에 빨대를 꽂아 두어야 한다.
 
 [출처](https://www.imperial-library.info/content/flora-hammerfell)
 

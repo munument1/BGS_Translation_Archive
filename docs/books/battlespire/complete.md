@@ -8,11 +8,11 @@
 
 ID: ext-7c169e7c72caf80f434e
 
-[[in badly faded ink on parchment yellowed with age]]  
+[[세월에 누렇게 바랜 양피지에 몹시 흐려진 잉크로 적혀 있다.]]  
   
-For any unfortunate pursued by the Hunt.  
+사냥에 쫓기는 불운한 이에게.  
   
-Know that you are not alone, that you have a friend in this desolate place. For the moment my croft-cottage is safe from the hunters. Find me there, in the middle of the moor away to the North. I can offer you shelter and respite, but come quickly, for every day I feel my strength fading.  
+그대는 혼자가 아니며, 이 황량한 곳에도 친구가 있다는 것을 알아 두시오. 지금은 내 작은 농가가 사냥꾼들로부터 안전하오. 북쪽 멀리 황야 한가운데 있는 그곳으로 나를 찾아오시오. 피신처와 쉴 틈을 드릴 수 있소. 하지만 서둘러 오시오. 하루가 다르게 내 힘이 쇠해지는 것을 느끼고 있으니.  
   
 C.
 
@@ -24,17 +24,17 @@ C.
 
 ID: ext-7ef789f26a3a427104c6
 
-[[These lines are scribbled hastily on crumpled vellum. From the stains and the changes in ink colour, you guess they were written over a long period of time.]]  
+[[구겨진 송아지 가죽 양피지에 급히 휘갈겨 쓴 글이다. 얼룩과 잉크 색의 변화로 보아 오랜 시간에 걸쳐 쓴 듯하다.]]  
   
-What new madness is this? Is it not enough that I am to be tormented here for all time with the pain of my friends? The island is crawling with horrors and my ears are filled with the shrieks of mortals, torn apart for sport!  
+이것은 또 무슨 광기인가? 친구들의 고통과 함께 이곳에서 영원히 괴로워하는 것만으로는 부족하단 말인가? 섬에는 끔찍한 것들이 들끓고, 유희 삼아 갈가리 찢기는 필멸자들의 비명이 내 귀를 가득 채운다!  
   
-I cannot leave, I am cursed to stay, but I shall not stand by and watch others be so used! There must be some way I can help them.  
+나는 떠날 수 없다. 이곳에 머물도록 저주받았다. 하지만 다른 이들이 그렇게 당하는 것을 가만히 지켜보지는 않겠다! 그들을 도울 방법이 분명히 있을 것이다.  
   
-I have heard one of them speak of the great horned temple, the way to leave this place, and of the six keys to its great door. The temple must be the one in Granvellusa. The keys, I fancy, are hidden away in the other temples.  
+그들 가운데 하나가 거대한 뿔 달린 사원에 관해 말하는 것을 들었다. 이곳을 떠나는 길이며, 그 거대한 문을 여는 여섯 열쇠가 있다고 했다. 그란벨루사의 사원이 틀림없다. 열쇠들은 다른 사원들에 숨겨져 있는 것 같다.  
   
-They babble about a ritual hunt, as if this torture were a holy office! And their own temple, the emerald abomination, seems the key to all, their arsenal and their demesne. I have seen them foray out from it with their spears and their hounds of ice and fire.  
+그들은 의식 사냥이라는 말을 지껄인다. 이 고문이 무슨 성스러운 예식이라도 되는 것처럼! 그들 자신의 사원, 그 에메랄드빛 흉물은 모든 것의 열쇠인 듯하다. 그들의 무기고이자 영지다. 나는 그들이 창과 얼음과 불의 사냥개를 데리고 그곳에서 출격하는 것을 보았다.  
   
-For now it seems I am safe here, but I long to return to my little croft-cottage on Hartmoor, where I can bar the door, and blot out the screams. Perhaps my old armor might guard against the terrible spears. Perhaps the next poor soul brought here might gather the keys and escape.
+지금은 여기서 안전한 듯하다. 하지만 하트무어의 작은 농가로 돌아가고 싶다. 문을 걸어 잠그고 비명을 차단할 수 있는 곳으로. 어쩌면 내 옛 갑옷이 저 무시무시한 창들을 막아 줄지도 모른다. 어쩌면 다음에 이곳으로 끌려올 가엾은 영혼은 열쇠를 모아 도망칠 수 있을지도 모른다.
 
 [출처](https://www.imperial-library.info/content/chimeres-journal)
 
@@ -44,7 +44,7 @@ For now it seems I am safe here, but I long to return to my little croft-cottage
 
 ID: ext-1326e09d0248f5a7faca
 
-…and the Emperor then commanded to bring forth the two champions who had served him so well, who knelt before him and received his blessing. He bid them rise and said to them, ‘Let all present know how these two have served their Empire, for had not Jagar Tharn been robbed of the support of the archfiend Mehrunes Dagon and his fell minions, then Ria Silmane and her champion might never have revealed Tharn’s imposture, and long might the rightful emperor have languished imprisoned in Dagon’sdark prisons within the Void.’ And he then made them great presents of land and chattels, and raised them up among his counselors, and conferred upon them offices of great importance in his Legions.
+…그런 다음 황제는 자신을 충실히 섬긴 두 영웅을 앞으로 불러오라 명했다. 두 사람은 황제 앞에 무릎을 꿇고 축복을 받았다. 황제는 일어서라 이르고 이렇게 말했다. “여기 모인 모든 이들은 이 두 사람이 제국에 어떻게 봉사했는지 알아 두라. 재거 탄이 대악마 메이룬스 데이건과 그 사악한 하수인들의 지원을 잃지 않았더라면, 리아 실메인과 그녀의 용사는 탄의 사칭을 끝내 밝혀내지 못했을지도 모른다. 그랬다면 정당한 황제는 공허 속 데이건의 어두운 감옥에 갇혀 오랫동안 쇠약해졌을 것이다.” 황제는 이어 두 사람에게 토지와 재산을 후하게 하사하고, 자신의 고문으로 발탁했으며, 군단의 중요한 직책들을 맡겼다.
 
 [출처](https://www.imperial-library.info/content/chronicles-janisiere)
 
@@ -54,9 +54,9 @@ ID: ext-1326e09d0248f5a7faca
 
 ID: ext-470354b54f2b0d572387
 
-This text snippet appeared exclusively in the Battlespire Athaneum.  
+[수록 안내: 이 짧은 발췌문은 배틀스파이어 아테네움에만 실렸습니다.]  
   
-Reinvestment of Battlespire is neither feasible nor desirable at this time. The open provocation and sweet temptation this installation presents to the Daedric Powers is obvious from recent events, and the installation is of no significant value to the maintenance of the Pax Imperia. In light of recent turbulence in the Border Provinces, and considering more pressing demands upon the treasury, we recommend that the gates to Battlespire be sealed indefinitely.
+지금으로서는 배틀스파이어에 다시 자원을 투입하는 것이 가능하지도, 바람직하지도 않다. 최근의 사건들을 보면 이 시설이 데이드라의 권능들에게 노골적인 도발이자 달콤한 유혹이 된다는 점은 분명하다. 또한 이 시설은 제국의 평화를 유지하는 데 별다른 가치가 없다. 최근 변경 지방들의 혼란과 국고를 더욱 시급히 필요로 하는 사안들을 고려하여, 배틀스파이어의 관문을 무기한 봉쇄할 것을 권고한다.
 
 [출처](https://www.imperial-library.info/content/private-proceedings-imperial-commission)
 
@@ -66,17 +66,17 @@ Reinvestment of Battlespire is neither feasible nor desirable at this time. The 
 
 ID: ext-da47aec4dc361bbde626
 
-WARNING!  
+경고!  
   
-QUARANTINE!  
+격리 구역!  
   
-PLAGUE!  
+역병!  
   
-NOTICE: This structure deemed unsafe by order of the Coastal Militia.  
+알림: 해안 민병대의 명에 따라 이 건물은 위험한 것으로 판정되었다.  
   
-Extremely Contagious! Entry Forbidden!  
+전염성이 매우 강함! 출입 금지!  
   
-Warning! No effective physick known!
+경고! 알려진 유효한 치료법 없음!
 
 [출처](https://www.imperial-library.info/content/quarantine-warning)
 
@@ -86,27 +86,27 @@ Warning! No effective physick known!
 
 ID: ext-b840ddfbf190a53e1c82
 
-[[These words are painstakingly scratched onto the parchment in watery uneven strokes]]  
+[[묽고 고르지 못한 획으로 양피지에 힘겹게 긁어 쓴 글이다.]]  
   
-The Armor of the Savior’s Hide may safeguard you against the sting of the Spear of Bitter Mercy. It turns the blow of an oath-breaker and guarded me against Dagon’s hand, but not against his venomous intellect.  
+구원자의 가죽 갑옷은 쓰라린 자비의 창에 찔리는 것을 막아 줄지도 모른다. 맹세를 어긴 자의 일격을 튕겨 내어 데이건의 손으로부터 나를 지켜 주었지만, 그의 독기 어린 지략까지 막아 주지는 못했다.  
   
-Alas, my memory is clouded. So much time has passed since I took the pieces and hid them from my own sight. I fear I have done the task too well.  
+아아, 기억이 흐릿하다. 갑옷 조각들을 가져가 내 눈에도 띄지 않게 숨긴 지 너무나 오랜 시간이 흘렀다. 지나치게 잘 숨겨 버린 것은 아닌지 두렵다.  
   
-I never wished to see the armor again, much less suspected it might be needed by another.  
+나는 그 갑옷을 다시는 보고 싶지 않았다. 다른 이가 필요로 할지도 모른다는 생각은 더더욱 하지 못했다.  
   
-Enough of regrets. These faint snatches are as much as I recollect through the years of madness. Make of them what you will.  
+후회는 이쯤 해 두자. 광기로 얼룩진 오랜 세월 너머로 기억해 낼 수 있는 것은 이 희미한 조각들뿐이다. 그대 나름대로 헤아려 보라.  
   
-One piece I recall in a place high over the water, a narrow margin, between two plumb drops, one below, one above, looking down on the lookout and the faint creaking of timbers.  
+한 조각은 물 위로 높이 솟은 곳에 있었던 것으로 기억한다. 아래와 위로 각각 곧게 떨어지는 두 낭떠러지 사이의 좁은 가장자리였다. 망보는 곳을 내려다볼 수 있었고 목재가 희미하게 삐걱거렸다.  
   
-Another is somewhere similar, within stagger of the first but in the center of a people-home. Where folk would gather, full of music and laughter and the slop of water of life, high above the water and ringed all about with stone.  
+또 하나는 비슷한 곳에 있다. 첫 조각에서 비틀거리며 갈 수 있을 만큼 가까우나, 사람들이 머무는 집의 한가운데다. 사람들이 모이고 음악과 웃음, 생명의 물이 출렁이는 소리로 가득하던 곳이다. 물 위로 높이 솟았고 사방이 돌로 둘러싸여 있다.  
   
-The third I placed in a most wet and inaccessible locale, for I had no thought for decay and the crust of nature. All about was the sound of the great blue and slits of light fell through to the water below. My friends would cast nets and lines to catch food from here, but I cannot fetch out the name of it.  
+세 번째는 무척 축축하고 다가가기 어려운 곳에 두었다. 나는 부식이나 자연이 덮어씌울 껍질은 생각하지 못했다. 사방에서 드넓은 푸른 바다의 소리가 들렸고, 틈새로 내리비친 빛이 아래의 물에 닿았다. 친구들은 여기서 그물과 낚싯줄을 드리워 먹을 것을 잡곤 했지만, 그곳의 이름은 떠오르지 않는다.  
   
-The fourth lies within the mountain, in the tall tower, in the darkness beyond the curtain of water.  
+네 번째는 산속, 높은 탑 안, 물의 장막 너머 어둠 속에 있다.  
   
-The fifth waits in cold darkness down below.  
+다섯 번째는 저 아래 차갑고 어두운 곳에서 기다린다.  
   
-The last sailed up into the sky, and there revolved at the call of the wind. I tacked it to the canvas, so I know not if it still hangs there.
+마지막 것은 하늘 높이 올라가 바람의 부름에 따라 돌았다. 천에 못으로 고정해 두었으니, 아직도 그곳에 매달려 있을지는 모르겠다.
 
 [출처](https://www.imperial-library.info/content/chimeres-notes-about-armor-saviors-hide)
 
@@ -116,9 +116,9 @@ The last sailed up into the sky, and there revolved at the call of the wind. I t
 
 ID: ext-c9d45329cefe3d00c43c
 
-This is the accursed armor I wore when I defied Dagon. It’s no ordinary mail but a captive servant of Malacath, and the trickster’s mark is on it, for it led me into folly.  
+이것은 내가 데이건에게 맞섰을 때 입었던 저주받은 갑옷이다. 평범한 갑옷이 아니라 사로잡힌 말라카스의 종복이다. 나를 어리석은 짓으로 이끌었으니, 속임수꾼의 표식이 새겨져 있는 셈이다.  
   
-As near as I can remember it’s called the Hide of the Saviour and the Scourge of the Oath-breaker and long may it hang here out of my sight, for I wish I’d ne’er used it.
+기억이 맞는다면 구원자의 가죽이자 맹세를 어긴 자의 재앙이라고 불린다. 부디 내 눈에 보이지 않는 이곳에 오래도록 걸려 있기를. 차라리 이것을 쓰지 않았더라면 좋았을 것을.
 
 [출처](https://www.imperial-library.info/content/saviors-hide-note)
 
@@ -128,43 +128,43 @@ As near as I can remember it’s called the Hide of the Saviour and the Scourge 
 
 ID: ext-2e3a5bda275d33937065
 
-It is fitting that only persons of noble birth take glory in the refined enchantments of these devices, and not that peasants, or rabble, or animals, or merchants take nor touch them, that they might take harm thereby, being coarsened and vulgarized by such ill-use.  
+이 도구들에 깃든 세련된 마법의 영광은 오직 고귀한 혈통을 타고난 자만 누리는 것이 마땅하다. 농민이나 천민, 짐승, 상인이 이를 취하거나 만져서는 안 된다. 그런 부당한 사용으로 물건이 거칠어지고 천박해져 손상될 수 있기 때문이다.  
   
-The BattleAxe of Noble Red Wisdom bears enchantments enhancing the skills of DESTRUCTION, and casts the spell of Teleport.  
+고귀한 붉은 지혜의 전투도끼에는 파괴마법 솜씨를 높이는 마법이 깃들어 있으며, 순간이동 주문을 시전한다.  
   
-The BattleAxe of Noble Swiftblade bears enchantments enhancing the skills of SHORTBLADE, and casts the spell of Jumping.  
+고귀한 날쌘 칼날의 전투도끼에는 단검 솜씨를 높이는 마법이 깃들어 있으며, 도약 주문을 시전한다.  
   
-The Broadsword of Noble Leaping grants benefits in the disciplines of JUMPING, and, when striking a target, casts the spell of Jumping.  
+고귀한 도약의 브로드소드는 도약 능력을 높이며, 대상을 맞히면 도약 주문을 시전한다.  
   
-The Broadsword of Noble Unseen Wisdom grants benefits in the disciplines of THAUMATURGY, and, when striking a target, casts the spell of Medium Cure Health.  
+고귀한 보이지 않는 지혜의 브로드소드는 기적술 능력을 높이며, 대상을 맞히면 중급 체력 회복 주문을 시전한다.  
   
-The Claymore of Noble Fleetness affords some abilities in the arts of RUNNING, and casts the spell of Running.  
+고귀한 신속함의 클레이모어는 달리기 능력을 높이며, 달리기 주문을 시전한다.  
   
-The Claymore of Noble Unknown Wisdom affords some abilities in the arts of MYSTICISM, and casts the spell of Major Cure Health.  
+고귀한 미지의 지혜의 클레이모어는 신비마법 능력을 높이며, 상급 체력 회복 주문을 시전한다.  
   
-The CrossBow of Noble Sureflight affords some abilities in the arts of MISSILE, and casts the spell of Medium Shield.  
+고귀한 정확한 비행의 석궁은 사격 능력을 높이며, 중급 방어막 주문을 시전한다.  
   
-The Dagger of Noble Stalking grants benefits in the disciplines of STEALTH, and, when striking a target, casts the spell of Minor Cure Health.  
+고귀한 추적의 단검은 은신 능력을 높이며, 대상을 맞히면 하급 체력 회복 주문을 시전한다.  
   
-The Dagger of Noble Green Wisdom grants benefits in the disciplines of RESTORATION, and, when striking a target, casts the spell of Minor Shield.  
+고귀한 초록 지혜의 단검은 회복마법 능력을 높이며, 대상을 맞히면 하급 방어막 주문을 시전한다.  
   
-The Javelin of the Noble Dolphin bears enchantments enhancing the skills of SWIMMING, and casts the spell of Medium Cure Health.  
+고귀한 돌고래의 투창에는 수영 솜씨를 높이는 마법이 깃들어 있으며, 중급 체력 회복 주문을 시전한다.  
   
-The LongBow of Noble Smiting grants benefits in the disciplines of BLUNTWEAPON, and, when striking a target, casts the spell of Medium Shield.  
+고귀한 강타의 장궁은 둔기 능력을 높이며, 대상을 맞히면 중급 방어막 주문을 시전한다.  
   
-The Longsword of Noble Surprise bears enchantments enhancing the skills of BACKSTABBING, and casts the spell of Major Cure Health.  
+고귀한 기습의 장검에는 배후 공격 솜씨를 높이는 마법이 깃들어 있으며, 상급 체력 회복 주문을 시전한다.  
   
-The Longsword of Noble Golden Wisdom bears enchantments enhancing the skills of ALTERATION, and casts the spell of Minor Cure Health.  
+고귀한 황금 지혜의 장검에는 변화마법 솜씨를 높이는 마법이 깃들어 있으며, 하급 체력 회복 주문을 시전한다.  
   
-The Mace of the Noble Horny Fist affords some abilities in the arts of HANDTOHAND, and casts the spell of Teleport.  
+고귀한 굳은살 박힌 주먹의 철퇴는 맨손 격투 능력을 높이며, 순간이동 주문을 시전한다.  
   
-The Short Sword of the Noble Swimmer affords some abilities in the arts of SWIMMING, and casts the spell of Medium Cure Health.  
+고귀한 수영꾼의 소검은 수영 능력을 높이며, 중급 체력 회복 주문을 시전한다.  
   
-The Short Sword of Noble Silver Wisdom affords some abilities in the arts of ILLUSION, and casts the spell of Medium Shield.  
+고귀한 은빛 지혜의 소검은 환영마법 능력을 높이며, 중급 방어막 주문을 시전한다.  
   
-The ShortBow of Noble Deep Biting bears enchantments enhancing the skills of AXE, and casts the spell of Minor Shield.  
+고귀한 깊은 물림의 단궁에는 도끼 솜씨를 높이는 마법이 깃들어 있으며, 하급 방어막 주문을 시전한다.  
   
-The WarAxe of Noble Hewing grants benefits in the disciplines of LONGBLADE, and, when striking a target, casts the spell of Running.
+고귀한 베기의 전쟁도끼는 장검 능력을 높이며, 대상을 맞히면 달리기 주문을 시전한다.
 
 [출처](https://www.imperial-library.info/content/restricted-list-noble-artifacts)
 
@@ -174,11 +174,11 @@ The WarAxe of Noble Hewing grants benefits in the disciplines of LONGBLADE, and,
 
 ID: ext-6da2228c392847c44ec1
 
-Dagon’s incantory neonymic is Djehkeleho-dehbe-effehezepeh. The Daedric characters are Djeh Koh Leh Oh — Deh Beh — Feh Ee Zeh Peh, or, in Tamrielic, JKLO-DB-FEZP.  
+데이건의 주문용 네오니믹은 Djehkeleho-dehbe-effehezepeh다. 데이드라 문자는 Djeh Koh Leh Oh — Deh Beh — Feh Ee Zeh Peh이며, 탐리엘 문자로는 JKLO-DB-FEZP다.  
   
-Xivilai’s neonymic is Wegerohseh-chehkohieu. The Daedric characters are Weh Geh Roh Seh — Cheh Koh Eiu, or, in Tamrielic, WGRS-CKU.  
+지빌라이의 네오니믹은 Wegerohseh-chehkohieu다. 데이드라 문자는 Weh Geh Roh Seh — Cheh Koh Eiu이며, 탐리엘 문자로는 WGRS-CKU다.  
   
-Faydra’s Neonymic is Nepehkweh-kodo. The Daedric characters are Neh Peh Kweh — Koh Doh, or, in Tamrielic, NPK-KD.
+페이드라의 네오니믹은 Nepehkweh-kodo다. 데이드라 문자는 Neh Peh Kweh — Koh Doh이며, 탐리엘 문자로는 NPK-KD다.
 
 [출처](https://www.imperial-library.info/content/imagos-notes-about-neonymics)
 
@@ -188,11 +188,11 @@ Faydra’s Neonymic is Nepehkweh-kodo. The Daedric characters are Neh Peh Kweh �
 
 ID: ext-3bb777954841d32b0739
 
-[handwritten scrawled on the floor with a piece of charcoal]  
+[숯 조각으로 바닥에 휘갈겨 쓴 글]  
   
-I am dead. Tell my tender Mother dear I loved her, and Tamriel and my Emperor. Akatosh curse the name of the traitor and all daedra. Mara bless and guard my soul.  
+나는 죽었다. 다정하고 소중한 어머니께 내가 어머니와 탐리엘, 황제 폐하를 사랑했다고 전해 다오. 아카토쉬께서 배신자의 이름과 모든 데이드라를 저주하시기를. 마라께서 내 영혼을 축복하고 지켜 주시기를.  
   
-You who find me – avenge me, take the traitor’s blood in my name, and take in hand The Dagger of the Stolid Kin, borne by my father and forged by his father before him. Beware of magic while you carry this blade, but fear neither the sting of poison nor the sear of shock.
+나를 발견한 이여, 내 복수를 해 다오. 내 이름으로 배신자의 피를 취하고, 아버지가 지니셨으며 그 이전에는 할아버지가 벼리셨던 우직한 혈족의 단검을 손에 들어라. 이 칼을 지닐 때는 마법을 조심하되, 독의 아픔이나 전격의 작열은 두려워하지 마라.
 
 [출처](https://www.imperial-library.info/content/someones-last-words)
 
@@ -202,11 +202,11 @@ You who find me – avenge me, take the traitor’s blood in my name, and take i
 
 ID: ext-0851f48bebcdbcda8cda
 
-For the edification and admonition of all that should pass through this hall. Know that this is one of the five great Anchors that moor the Battlespire in its place and retain it in the life-flood of sustaining Mana, without which there is no light, no life, no Being.  
+이 회랑을 지나는 모든 이에게 가르침과 경고를 남긴다. 이것은 배틀스파이어를 제자리에 붙들어 매고, 생명을 지탱하는 마나의 흐름 속에 머물게 하는 다섯 거대한 닻 가운데 하나다. 그 흐름이 없다면 빛도, 생명도, 존재도 없다.  
   
-In their o’er-reaching wisdom, the Powers have required me, against my every protest and complaint, to affix to it a dreadful device, which you see before you, whose purpose is to sunder and divide this anchor and imperil the Spire and all who inhabit it.  
+권능들은 지나치게 심오한 지혜로, 나의 온갖 항의와 불평에도 불구하고 이 닻에 끔찍한 장치를 달라고 요구했다. 그대 눈앞에 있는 장치다. 이것은 닻을 갈라 끊어 스파이어와 그 안에 사는 모든 이를 위험에 빠뜨리기 위한 것이다.  
   
-Never divide the Anchor. It is the rock on which all our lives are founded. All Anchors must be conjoined to assure the safety and stability of the Spire. Above all, never allow them all to be unloosed. Sure destruction shall follow, as the Battlespire departs the flux that keeps all sides of nature in unity. Now avaunt, and quit this chamber, lest the imp of temptation, or some unhappy humour overcome you, and lead you onto the path of certain annihilation.  
+절대로 닻을 끊지 마라. 우리의 모든 생명은 이 반석 위에 세워져 있다. 스파이어의 안전과 안정을 보장하려면 모든 닻이 이어져 있어야 한다. 무엇보다도 닻 전부가 풀려나게 해서는 안 된다. 배틀스파이어가 자연의 모든 측면을 하나로 묶는 흐름에서 벗어나면, 확실한 파멸이 뒤따를 것이다. 이제 물러가 이 방을 떠나라. 유혹의 악마나 불길한 충동이 그대를 사로잡아, 틀림없는 소멸의 길로 이끌지 못하도록.  
   
 C.V.
 
@@ -218,41 +218,45 @@ C.V.
 
 ID: ext-4b1735dc193e841fc8af
 
-[This volume is an encyclopedic reference to the Lords of the Daedric Realms, their chief clans, the themes and spheres of influence of each clan, and to the legends and lore associated with those mortals who traffick with Daedra.]  
+[이 책은 데이드라 영역의 군주들, 그들의 주요 일족과 각 일족의 특성 및 영향권, 데이드라와 거래하는 필멸자들에 얽힌 전설과 전승을 다룬 백과사전식 참고서다.]  
   
-Azura, whose sphere is dusk and dawn, the magic inbetween realms of twilight  
+아주라. 황혼과 새벽, 땅거미가 드리운 영역들 사이의 마법을 관장한다.  
   
-Beothiah, whose sphere is deceit and conspiracy, and the secret plots of murder, assassination, treason, and unlawful overthrow of authority  
+보에디아. 기만과 음모, 살인과 암살, 반역과 불법적인 권력 전복을 위한 은밀한 모의를 관장한다.  
   
-Clavicus Vile, whose sphere is the granting of power and wishes through ritual invocations and pact  
+클라비쿠스 바일. 의식적인 소환과 계약을 통해 힘을 내리고 소원을 이루어 주는 일을 관장한다.  
   
-Hermaeus Mora, whose sphere is scrying of the tides of Fate, of the past and future as read in the stars and heavens, and in whose dominion are the treasures of knowledge and memory  
+헤르메우스 모라. 별과 하늘에 쓰인 과거와 미래, 운명의 조류를 읽는 일을 관장한다. 지식과 기억의 보물이 그의 지배 아래 있다.  
   
-Hircine, whose sphere is the Hunt, the Sport of Daedras, the Greatest Game, the Chase and Sacrifice of Mortals  
+허씬. 데이드라의 유희이자 가장 위대한 경기인 사냥, 필멸자의 추격과 희생을 관장한다.  
   
-Malacath, whose sphere is the patronage of the spurned and ostracized, and the Sworn Oath, and the Bloody Curse  
+말라카스. 멸시받고 배척당한 자들의 보호, 맹세한 서약과 피의 저주를 관장한다.  
   
-Mehrunes Dagon, whose sphere is Destruction, Change, Revolution, Energy, and Ambition  
+메이룬스 데이건. 파괴와 변화, 혁명과 에너지, 야망을 관장한다.  
   
-Mephala, whose sphere is obscured to mortals; known by the names Webspinner, Spinner, and Spider; whose only consistent theme seems to be interference in the affairs of mortals for her amusement  
+메팔라. 필멸자들에게는 관장하는 영역이 분명하지 않다. 거미줄을 짜는 자, 잣는 자, 거미라는 이름으로 알려져 있다. 자신의 즐거움을 위해 필멸자들의 일에 간섭한다는 점만이 유일하게 일관된 특성으로 보인다.  
   
-Meridia, whose sphere is obscured to mortals; who is associated with the energies of living things  
+메리디아. 필멸자들에게는 관장하는 영역이 분명하지 않으며, 살아 있는 것들의 에너지와 관련되어 있다.  
   
-Molag Bal, whose sphere is the domination and enslavement of mortals; whose desire is to harvest the souls of mortals and to bring mortals souls within his sway by spreading seeds of strife and discord in the mortal realms Namira, whose sphere is the ancient Darkness; known as the Spirit Daedra, ruler of sundry dark and shadowy spirits; associated with spiders, insects, slugs, and other repulsive creatures which inspire mortals with an instinctive revulsion Nocturnal, whose sphere is the night and darkness; who is known as the Night Mistress  
+몰라그 발. 필멸자의 지배와 노예화를 관장한다. 필멸자의 영역에 다툼과 불화의 씨앗을 뿌려, 그들의 영혼을 거두어 자신의 지배 아래 두기를 원한다.  
   
-Peryite, whose sphere is the ordering of the lowest orders of the Oblivion; who is known as the Taskmaster  
+나미라. 태고의 어둠을 관장한다. 정령 데이드라로 알려져 있으며, 어둡고 그늘진 여러 정령을 다스린다. 거미와 곤충, 민달팽이를 비롯해 필멸자에게 본능적인 혐오를 일으키는 불쾌한 생물들과 관련되어 있다.  
   
-Sanguine, whose sphere is hedonistic revelry and debaucherie, and passionate indulgences of darker natures  
+녹터널. 밤과 어둠을 관장하며, 밤의 여주인으로 알려져 있다.  
   
-Sheogorath, whose sphere is Madness, and whose motives are unknowable  
+페리아이트. 오블리비언의 가장 낮은 계층에 질서를 부여하는 일을 관장한다. 감독관으로 알려져 있다.  
   
-Vaernima, whose sphere is the realm of dreams and nightmares, and from whose realm isues forth evil omens  
+생귄. 쾌락을 좇는 흥청거림과 방탕, 어두운 본성에 대한 열정적인 탐닉을 관장한다.  
   
-[especially marked for special interest under the heading “Malacath” you find a reference to SCOURGE, blessed by Malacath, and dedicated to the use of mortals. In short, the reference suggests that any daedra attempting to invoke the weapon’s powers will be expelled into the voidstreams of Oblivion.]  
+쉐오고라스. 광기를 관장하며, 그 동기는 알 수 없다.  
   
-“Of the legendary artifacts of the daedra, many are well known, like Azura’s Star, and Sheogorath’s Wabbajack. Others are less well known, like Scourge, Mackkan’s Hammer, Bane of Daedra….  
+베르미나. 꿈과 악몽의 영역을 관장하며, 그 영역에서 사악한 징조가 흘러나온다.  
   
-“…yet though Malacath blessed Scourge to be potent against his daedra kin, he thought not that it should fall into daedric hands, then to serve as a tool for private war among caitiff and forsaken. Thus did Malacath curse the device such that, should any darkkin seek to invoke its powers, that a voidhole should open and swallow that daedra, and purge him into Oblivion’s voidstreams, from thence to pathfind back to the Real and Unreal Worlds in the full order of time.”
+[특별히 관심을 두라고 표시된 '말라카스' 항목에서, 말라카스의 축복을 받아 필멸자들이 사용하도록 만들어진 스커지에 관한 설명을 발견한다. 요컨대 이 무기의 힘을 불러내려는 데이드라는 오블리비언의 공허의 흐름 속으로 추방된다는 내용이다.]  
+  
+“데이드라의 전설적인 유물 가운데에는 아주라의 별이나 쉐오고라스의 와바잭처럼 널리 알려진 것이 많다. 반면 데이드라의 파멸이라 불리는 맥칸의 망치, 스커지처럼 덜 알려진 것도 있다….  
+  
+“…그러나 말라카스가 스커지를 축복하여 자신의 데이드라 동족에게 위력을 발휘하게 했다고 해서, 그것이 데이드라의 손에 넘어가 비겁하고 버림받은 자들 사이의 사적인 전쟁에 쓰이기를 바란 것은 아니었다. 그래서 말라카스는 이 도구에 저주를 내렸다. 어둠의 종족이 그 힘을 불러내려 하면 공허의 구멍이 열려 그 데이드라를 삼키고 오블리비언의 공허의 흐름으로 쓸어 버리도록 한 것이다. 그러면 그 데이드라는 오랜 시간이 흐른 뒤에야 실재와 비실재의 세계로 돌아오는 길을 찾아야 한다.”
 
 [출처](https://www.imperial-library.info/content/requisite-book-daedra)
 
@@ -262,67 +266,67 @@ Vaernima, whose sphere is the realm of dreams and nightmares, and from whose rea
 
 ID: ext-a5de005cdf1100c48312
 
-HOW YOU SHOULD KNOW US  
+너희가 우리에 관해 알아야 할 것  
   
-DEATH, DEFEAT, AND FEAR  
+죽음, 패배, 그리고 두려움  
   
-We do not die. We do not fear death.  
+우리는 죽지 않는다. 우리는 죽음을 두려워하지 않는다.  
   
-Destroy the Body, and the Animus is cast into The Darkness. But the Animus returns.  
+육신을 파괴하면 아니무스는 어둠 속으로 던져진다. 그러나 아니무스는 돌아온다.  
   
-But we are not all brave.  
+그렇다고 우리가 모두 용감한 것은 아니다.  
   
-We feel pain, and fear it. We feel shame, and fear it. We feel loss, and fear it. We hate the Darkness, and fear it.  
+우리는 고통을 느끼며 그것을 두려워한다. 수치를 느끼며 그것을 두려워한다. 상실을 느끼며 그것을 두려워한다. 우리는 어둠을 증오하며 그것을 두려워한다.  
   
-The Scamps have small thoughts, and cannot fear greatly.  
+스캠프는 생각이 얕아 크게 두려워할 수 없다.  
   
-The Vermai have no thoughts, and cannot fear.  
+버마이는 생각이 없어 두려워할 수 없다.  
   
-The Dremora have deep thoughts, and must master fear to overcome it.  
+드레모라는 생각이 깊으므로, 두려움을 이기려면 그것을 다스려야 한다.  
   
-THE CLAN BOND  
+일족의 유대  
   
-We are not born; we have not fathers nor mothers, yet we have kin and clans.  
+우리는 태어나지 않는다. 아버지도 어머니도 없지만, 혈족과 일족은 있다.  
   
-The clan-form is strong. It shapes body and thought.  
+일족의 형상은 강하다. 그것이 육신과 생각을 빚는다.  
   
-In the clan-form is strength and purpose.  
+일족의 형상 안에 힘과 목적이 있다.  
   
-THE OATH BOND  
+맹세의 유대  
   
-We serve by choice. We serve the strong, so that their strength might shield us.  
+우리는 스스로 선택하여 섬긴다. 강한 자를 섬기는 것은 그 힘이 우리를 지켜 주도록 하기 위해서다.  
   
-Clans serve by long-practice, but practice may change.  
+일족들은 오랜 관례에 따라 섬기지만, 관례는 바뀔 수 있다.  
   
-Dremora have long served Dagon but not always so.  
+드레모라는 오랫동안 데이건을 섬겨 왔으나, 언제나 그랬던 것은 아니다.  
   
-Practice is secure when oath-bonds are secure, and trust is shared.  
+맹세의 유대가 굳건하고 신뢰를 나눌 때 관례도 굳건하다.  
   
-When oath-bonds are weak, there is pain, and shame, and loss, and Darkness, and great fear.  
+맹세의 유대가 약해지면 고통과 수치와 상실과 어둠, 그리고 큰 두려움이 있다.  
   
-HOW WE THINK ABOUT MAN  
+우리는 인간을 어떻게 생각하는가  
   
-Perhaps you find Scamps comic, and Vermai brutish.  
+너희는 스캠프가 우스꽝스럽고 버마이가 짐승 같다고 여길지도 모른다.  
   
-How then do you imagine we view you humans?  
+그렇다면 우리가 너희 인간을 어떻게 볼 것이라고 생각하는가?  
   
-You are the Prey, and we are the Huntsmen.  
+너희는 사냥감이고, 우리는 사냥꾼이다.  
   
-The Scamps are the Hounds, and the Vermai the Beaters.  
+스캠프는 사냥개이며, 버마이는 몰이꾼이다.  
   
-Your flesh is sweet, and the chase is diverting.  
+너희의 살은 달콤하고, 추격은 즐겁다.  
   
-As you may sometimes praise the fox or hare, admiring its cunning and speed, and lamenting as the hounds tear its flesh, so do we sometimes admire our prey, and secretly applaud when it cheats our snares or eludes pursuit.  
+너희가 때로 여우나 토끼를 칭찬하며 그 영리함과 재빠름에 감탄하고, 사냥개들이 살을 찢는 것을 안타까워하듯이, 우리도 때로는 사냥감에 감탄한다. 그들이 덫을 피하거나 추격을 따돌리면 남몰래 갈채를 보내기도 한다.  
   
-But, like all worldly things, you will in time wear, and be used up. You age, grow ugly, weak, and foolish. You are always lost, late or soon.  
+하지만 세상의 모든 것처럼, 너희도 시간이 지나면 닳고 소진된다. 늙고 추해지고 약해지고 어리석어진다. 이르든 늦든 너희는 언제나 사라진다.  
   
-Sometimes the prey turns upon us and bites. It is a small thing. When wounded or weary, we fly away to restore. Sometimes a precious thing is lost, but that risk makes the chase all the sweeter.  
+때로는 사냥감이 돌아서서 우리를 문다. 사소한 일이다. 다치거나 지치면 우리는 날아가 회복한다. 때로는 귀중한 것을 잃기도 하지만, 그 위험이 추격을 더욱 달콤하게 만든다.  
   
-MAN’S MYSTERY  
+인간의 수수께끼  
   
-Man is mortal, and doomed to death and failure and loss.  
+인간은 필멸자이며, 죽음과 실패와 상실을 피할 수 없다.  
   
-This lies beyond our comprehension – why do you not despair?
+우리는 이것을 이해할 수 없다. 어째서 너희는 절망하지 않는가?
 
 [출처](https://www.imperial-library.info/content/spirit-daedra)
 
@@ -332,53 +336,53 @@ This lies beyond our comprehension – why do you not despair?
 
 ID: ext-63e18b74e583105b25e9
 
-Letter 1 From The Dremora  
+드레모라가 보낸 편지 1  
   
-We the Dremora are true to our word.  
+우리 드레모라는 약속을 지킨다.  
   
-This place is closed to us, and the help we can provide is limited.  
+우리는 이곳에 들어갈 수 없으며, 줄 수 있는 도움도 한정되어 있다.  
   
-You are now in the place of the Hunt.  
+그대는 이제 사냥의 땅에 있다.  
   
-To leave this realm you must enter the gate in the great horned temple, in the walled city to the East.  
+이 영역을 떠나려면 동쪽의 성벽 도시 안에 있는 거대한 뿔 달린 사원의 관문으로 들어가야 한다.  
   
-You will require six keys to enter the temple. If the Hunt were fair, you would find them abroad in the island.  
+사원에 들어가려면 여섯 열쇠가 필요하다. 사냥이 공정하다면 그대는 섬 곳곳에서 열쇠를 찾을 수 있을 것이다.  
   
-The Hunt is not fair.  
+사냥은 공정하지 않다.  
   
-The hunter has taken one to prevent your escape. The touch of his spear is death, and no mortal weapon can harm him.  
+사냥꾼은 그대의 탈출을 막으려고 열쇠 하나를 가져갔다. 그의 창에 닿으면 죽으며, 필멸자의 무기로는 그를 해칠 수 없다.  
   
-Your plight is utterly hopeless and impossible.  
+그대의 처지는 철저히 절망적이며 해결할 수 없다.  
   
-Therefore we assume that you may be somewhat delayed.  
+그러므로 우리는 그대가 다소 늦어질 것으로 짐작한다.  
   
-The old man in the lonely cottage knows what you need. He will test your patience, but persist and the reward will be great.  
+외딴 오두막의 노인은 그대에게 필요한 것을 안다. 그대의 인내심을 시험하겠지만, 버티면 큰 보상이 있을 것이다.  
   
-Farewell, strange mortal. Enjoy the Hunt.  
+잘 가라, 기이한 필멸자여. 사냥을 즐겨라.  
   
-Letter 2 From The Dremora  
+드레모라가 보낸 편지 2  
   
-Upon the central island is Lord Dagon’s Hunting Lodge. Those who pledged their immortal spirits in return for services are bound here for Dagon’s sport. These miserable wraiths are mad and malevolent, but in life each was proud and powerful. Seek their treasures: the Longbow of Heaven’s Hail, the Boots of Peace, the Gauntlets of the Poor, and the Helmet of the Light Within. The Longbow casts arrows and spells with deadly accuracy. The Boots, once worn by a famed mortal warrior who had renounced the use of weapons, confer great skill in unarmed combat and feats of physical daring. The Gauntlets render the wearer resistant to magic, while the Helmet draws power from an opposing spellcaster and lends that power to its wearer. Some of these items are carried by the wraiths who possessed them in life; other items are hidden where the diligent might find them.  
+가운데 섬에는 데이건 경의 사냥 별장이 있다. 도움을 받는 대가로 불멸의 영혼을 담보로 맡긴 자들은 이곳에 묶여 데이건의 유희거리가 된다. 이 비참한 망령들은 미치고 사악해졌으나, 살아 있을 때는 모두 자부심이 강하고 강력한 자들이었다. 그들의 보물, 곧 천상의 우박 장궁, 평화의 장화, 가난한 자의 건틀릿, 내면의 빛 투구를 찾아라. 장궁은 화살과 주문을 치명적으로 정확하게 날린다. 장화는 무기 사용을 버린 유명한 필멸자 전사가 신었던 것으로, 맨손 전투와 대담한 신체 묘기에 뛰어난 솜씨를 부여한다. 건틀릿은 착용자에게 마법 저항력을 주고, 투구는 적대하는 주문 시전자의 힘을 끌어내 착용자에게 빌려준다. 이 물품들 가운데 일부는 생전에 소유했던 망령들이 지니고 있다. 다른 것들은 부지런한 자라면 찾을 수 있는 곳에 숨겨져 있다.  
   
-A Dark Seducer, Lord Dagon’s personal bodyguard and current paramour, carries the Sword of the Moon Reiver, a unique sword forged from Dagon’s own substance. No other weapon has such power to do him harm. Seek her, vanquish her, and seize her sword, or your errand is hopeless.  
+데이건 경의 개인 경호원이자 지금의 연인인 다크 시듀서가 달의 약탈자 검을 가지고 있다. 데이건 자신의 실체로 벼린 유일무이한 검이다. 그를 해칠 수 있는 힘은 다른 어떤 무기도 이 검에 미치지 못한다. 그녀를 찾아 쓰러뜨리고 검을 빼앗아라. 그러지 못하면 그대의 임무에는 희망이 없다.  
   
-Entry to the Lodge is blocked by three great Sigil Wards. The Amulets of Entry for these Sigils are carried by Dagon’s greatest lieutenants. They are terrible in skill and power, and protected from many weapons and magics — But you need these amulets to approach Dagon.  
+별장 입구는 세 개의 거대한 인장 결계로 막혀 있다. 이 인장들의 출입 부적은 데이건의 가장 뛰어난 부관들이 지니고 있다. 그들의 솜씨와 힘은 무시무시하고 많은 무기와 마법으로부터 보호받는다. 하지만 데이건에게 접근하려면 그 부적들이 필요하다.  
   
-Do not hope for aid from us in this place. This message is all we can provide. All else is arrayed against you in this place. Trust no one.  
+이곳에서 우리의 도움을 바라지 마라. 이 전갈이 우리가 줄 수 있는 전부다. 이곳의 다른 모든 것은 그대에게 적대한다. 아무도 믿지 마라.  
   
-Your friend is held in Lord Dagon’s Hunting Lodge. Lord Dagon himself stands guard. Beware of a trap. Lord Dagon is well-served by many spies. And if you would have a chance against him, you must not fail of these things:  
+그대의 친구는 데이건 경의 사냥 별장에 붙잡혀 있다. 데이건 경이 직접 지키고 있다. 함정을 조심하라. 데이건 경에게는 충실한 첩자가 많다. 그를 상대로 조금이라도 승산을 얻고 싶다면 다음을 빠뜨려서는 안 된다.  
   
-Gird yourself with the Armor of the Savior’s Hide.  
+구원자의 가죽 갑옷으로 몸을 둘러라.  
   
-Arm yourself with the Sword of the Moon Reiver.  
+달의 약탈자 검으로 무장하라.  
   
-Trust in the power of secret names, and the aid of absent friends.  
+비밀 이름의 힘과, 이곳에 없는 친구들의 도움을 믿어라.  
   
-Put your hope in the shock of surprise, and the swiftness of desperate action.  
+기습의 충격과 절박한 행동의 신속함에 희망을 걸어라.  
   
-The obstacles you face seem insurmountable. Thus will Lord Dagon be wonderfully dismayed when you succeed.  
+그대 앞의 장애물들은 넘을 수 없을 만큼 커 보인다. 그러니 그대가 성공했을 때 데이건 경은 놀라울 정도로 당황할 것이다.  
   
-Beyond all hope, weigh daring against the odds, and courage against despair.
+모든 희망을 넘어, 불리한 가능성에는 대담함을, 절망에는 용기를 맞서 세워라.
 
 [출처](https://www.imperial-library.info/content/letters-dremora)
 
@@ -388,11 +392,11 @@ Beyond all hope, weigh daring against the odds, and courage against despair.
 
 ID: ext-d2d20c497ebf554b615e
 
-[[Written in red… ink?… on a torn piece of parchment in an elegant, precise hand. The note is unsigned.]]  
+[[찢어진 양피지에 붉은… 잉크인가?…로 우아하고 정밀하게 쓴 글이다. 서명은 없다.]]  
   
-Lehmekweh  
+레메크웨  
   
-I expect an unexpected guest. See the unseen, and conduct this guest into my presence with the greatest hospitality.
+뜻밖의 손님이 올 것으로 예상한다. 보이지 않는 것을 보고, 극진한 환대로 그 손님을 내 앞으로 안내하라.
 
 [출처](https://www.imperial-library.info/content/lehmekweh-note)
 
@@ -402,29 +406,29 @@ I expect an unexpected guest. See the unseen, and conduct this guest into my pre
 
 ID: ext-07b82272ce4089eb2846
 
-For Mactana Greenway, Gatekeeper.  
+문지기 막타나 그린웨이에게.  
   
-A few more names for the Annals and Assizes of Entry. I believe these will be the last for today.  
+입장 기록과 심사 명부에 올릴 이름 몇 명을 더 보내네. 오늘은 이들이 마지막일 것 같군.  
   
-Samar Starlover, Master of the Serpent Blade.  
+뱀의 검의 달인, 사마르 스타러버.  
   
-Grad Helthen, Grand Ipsissimus of the dissolving fires.  
+소멸하는 불꽃의 대 이프시시무스, 그라드 헬텐.  
   
-Clarentavious Valisious, Venerable Artificer, greybeard master of the Hammer and the harness.  
+존경받는 장인이자 망치와 마구의 백발 대가, 클라렌타비우스 발리시오스.  
   
-Paxti Bittor, Exalted Summoner, Lion-Lord Invoker Pursuivant.  
+고귀한 소환술사이자 사자 군주를 불러내는 전령, 팍스티 비토르.  
   
-Vatasha Trenelle/Josian Kaid, novice.  
+수련생, 바타샤 트레넬/조시안 카이드.  
   
-[[scribbled in an unsteady hand]]  
+[[떨리는 필체로 휘갈겨 쓴 글]]  
   
-The daedra prince has forced entry. Battlespire is fallen.  
+데이드라 군주가 강제로 침입했다. 배틀스파이어가 함락되었다.  
   
-Lomegan surrendered the Portal Keys, and he was struck down. I saw others Taken. Trust no one.  
+로메간은 차원문 열쇠를 넘겼고, 그대로 쓰러졌다. 다른 이들이 빼앗기는 것도 보았다. 아무도 믿지 마라.  
   
-The gate home is closed by the invader’s sigil; the only way out now is the old Star Galley.  
+고향으로 통하는 관문은 침입자의 인장으로 닫혔다. 이제 나갈 길은 오래된 스타 갤리뿐이다.  
   
-I tried to guard the anchors, but most were loosed. If you may avenge us, restore the anchors. If you despair, free the last anchors, and die with our enemies.
+나는 닻들을 지키려 했지만 대부분 풀려났다. 우리의 복수를 할 수 있다면 닻들을 복구하라. 절망했다면 마지막 닻들까지 풀고 우리의 적과 함께 죽어라.
 
 [출처](https://www.imperial-library.info/content/letter-mactana-greenway)
 
@@ -434,85 +438,85 @@ I tried to guard the anchors, but most were loosed. If you may avenge us, restor
 
 ID: ext-327ed5607544025e713f
 
-Just as it is necessary for the state to prepare arms and to provide abundant stores of victuals for the soldiers who are to fight for it, so it is fitting for Imperial Servants to fortify themselves against the assaults of pagans and heretics with a multitude of sound writings. So all know, and Malham speaks.  
+나라가 자신을 위해 싸울 병사들에게 무기를 마련하고 넉넉한 식량을 제공해야 하듯, 제국의 봉사자들도 수많은 건전한 저술로 자신을 굳게 하여 이교도와 이단자의 공격에 맞서는 것이 마땅하다. 모두가 이를 알며, 말함이 말한다.  
   
-“White Finger of Lingering Death”  
+“서서히 다가오는 죽음의 흰 손가락”  
   
-Produces the casting of Poison  
+독 주문을 시전한다.  
   
-By envious fate’s decrees  
+시기하는 운명의 명에 따라  
   
-Abide not long the lords of earth;  
+대지의 군주들은 오래 머물지 못하니,  
   
-Beneath the poisoned bite the flesh must fall.  
+독이 어린 물림 아래 육신은 쓰러져야 한다.  
   
-“Shroud of Night”  
+“밤의 장막”  
   
-Casts the spell of Shadow  
+그림자 주문을 시전한다.  
   
-Whence art thou come? Know by his mien  
+그대는 어디에서 왔는가? 그의 모습을 보고 알라.  
   
-That Shadow is power.  
+그림자는 힘이다.  
   
-“Beacon of Warning”  
+“경고의 봉화”  
   
-Renders the power of Detect Enemy  
+적 탐지의 힘을 부여한다.  
   
-Thine enemy be known.  
+그대의 적이 드러날지어다.  
   
-“Glove of Service”  
+“봉사의 장갑”  
   
-Grants the gift of lesser Monster Summoning  
+하급 괴물 소환의 재능을 부여한다.  
   
-Though they be least, least answer thy call.  
+그들이 가장 미약할지라도, 그 미약한 자들이 그대의 부름에 답하리라.  
   
-“Horn of the Hunt”  
+“사냥의 뿔피리”  
   
-Grants the gift of modest Summon Brute  
+중간 정도의 야수 소환 재능을 부여한다.  
   
-Pour out libations from the mingled cup; the soldiers answer; the captain’s call.  
+섞인 술잔에서 제주를 따르라. 병사들은 대장의 부름에 응한다.  
   
-“Badge of the Steward”  
+“집사의 휘장”  
   
-Grants the gift of Summon Wise Monster  
+현명한 괴물 소환의 재능을 부여한다.  
   
-From parched and arid wastes beyond the stars, the Wise harken to the clash of war.  
+별 너머 바싹 마른 황무지에서, 현명한 자들은 전쟁의 충돌에 귀를 기울인다.  
   
-“Guerdon of the Warden”  
+“수호자의 보상”  
   
-Grants the gift of grand Summon Guard”  
+강대한 경비병 소환의 재능을 부여한다.  
   
-From darkness he comes.  
+어둠에서 그가 온다.  
   
-“Knower of Nightmares”  
+“악몽을 아는 자”  
   
-Grants the gift of Summon Surpassing Horror  
+더없이 무서운 공포의 존재를 소환하는 재능을 부여한다.  
   
-When his horn sounds, the hosts shall part in fear and shame.  
+그의 뿔피리가 울리면 군세는 두려움과 수치로 갈라지리라.  
   
-“Eyes of Arcane Sight”  
+“비전의 시야를 가진 눈”  
   
-Renders the power of Detect Spell  
+주문 탐지의 힘을 부여한다.  
   
-What works, bright or dark, are written between this world and the next? Those works you shall read as threads woven in fire.  
+이 세계와 다음 세계 사이에는 밝거나 어두운 어떤 업적이 쓰여 있는가? 그대는 그 업적을 불로 짜인 실처럼 읽으리라.  
   
-“Curtain of the Unseen World”  
+“보이지 않는 세계의 휘장”  
   
-Renders the power of Invisibility  
+투명의 힘을 부여한다.  
   
-Behind this curtain he moves unknown to friend and foe.  
+이 휘장 뒤에서 그는 친구에게도 적에게도 알려지지 않은 채 움직인다.  
   
-“Beckon of the Averted Eye”  
+“빗겨 간 시선의 손짓”  
   
-Renders the power of Chameleon  
+카멜레온의 힘을 부여한다.  
   
-The stalker is lost in the blend of light and shadow, color and texture.  
+추적자는 빛과 그림자, 색과 질감의 어우러짐 속에 모습을 감춘다.  
   
-“Arms of Feathered Grace”  
+“깃털처럼 우아한 팔”  
   
-Renders the power of Slow Fall  
+느린 낙하의 힘을 부여한다.  
   
-He falls, but with grace and keen eye, like the raptor upon his prey.
+그는 떨어지되, 먹잇감에 덮치는 맹금처럼 우아하게, 날카로운 눈으로 떨어진다.
 
 [출처](https://www.imperial-library.info/content/malhams-annotated-compendium-arcane-contrivances-second-age-volume-iv)
 
@@ -522,11 +526,11 @@ He falls, but with grace and keen eye, like the raptor upon his prey.
 
 ID: ext-33e8e2a9ddb2b52467ed
 
-[a passage from the text of THE VAGARIES OF MAGICKA]  
+[『매지카의 변덕』 본문에서 발췌한 구절]  
   
-“…but take care, lest power enfeeble the fundaments, and curtail the flow through the Congeries, except when functions be warranted. And safeguard that the Congeries shall not be abused by prideful wizards, confident in their skill and blinded by their ambitions. In this, hold the ordering of the Congeries among the oldest and most trusted of mages, and make secure this ordering through arcane codes and keys to confound even the most clever students.  
+“…그러나 힘이 토대를 약화하지 않도록 주의하라. 또한 작동이 허가된 경우가 아니라면 집합 장치(Congeries)를 통한 흐름을 제한하라. 자신의 솜씨를 과신하고 야망에 눈먼 오만한 마법사들이 집합 장치를 남용하지 못하도록 보호하라. 이를 위해 가장 오래되고 신뢰할 만한 마법사들에게 집합 장치의 제어를 맡기고, 가장 영리한 학생조차 풀 수 없는 비전의 암호와 열쇠로 그 제어 체계를 지켜라.  
   
-“The Restorals must be most carefully guarded, for how often have even the wise lusted to overreach their bodies and souls with vitality and mana. And also must the Magica Fountains be damped and banked, sanctioning their engendering only to the reconsecration of essential arcane engines and templates, and then only by common assent of the Council.”
+“회복 장치(Restorals)는 특히 엄중히 지켜야 한다. 현명한 이들조차 생명력과 마나로 자신의 몸과 영혼이 감당할 수 있는 한계를 넘어서기를 얼마나 자주 탐했는가. 매지카 분수 역시 억제하고 막아 두어야 한다. 반드시 필요한 비전 장치와 형판을 다시 축성할 때에만 그 힘을 일으키도록 허락하되, 그때에도 평의회의 공동 동의를 받아야 한다.”
 
 [출처](https://www.imperial-library.info/content/vagaries-magicka)
 
@@ -536,15 +540,15 @@ ID: ext-33e8e2a9ddb2b52467ed
 
 ID: ext-c2858505b6648d713f03
 
-Herne  
+헤른.  
   
-I do not comprehend. By the rites of the Hunt, the hare must have some chance of escape, however small.  
+이해할 수 없네. 사냥의 의례에 따르면 토끼에게는 아무리 작더라도 도망칠 기회가 있어야 하네.  
   
-I understand that this is Egahirn’s first Hunt, I see that he must succeed, but does it not impair the principles of the Hunt to have him bear one of the six keys? How is the hare to wrest it from him?  
+이번이 에가히른의 첫 사냥이라는 것은 알고 있네. 그가 반드시 성공해야 한다는 것도 알지. 하지만 여섯 열쇠 가운데 하나를 그에게 지니게 하는 것은 사냥의 원칙을 훼손하지 않는가? 토끼가 어떻게 그의 손에서 그것을 빼앗겠나?  
   
-Egahirn should pass the rite as you did, as I did, as a proper hunter, in full obedience to the forms. Surely it is the only way for the rite to be firm and fast.  
+에가히른도 자네와 나처럼, 합당한 사냥꾼으로서 모든 형식을 철저히 지키며 의례를 통과해야 하네. 그래야만 의례가 굳건히 유지될 수 있지 않겠나.  
   
-Balaherne
+발라헤른
 
 [출처](https://www.imperial-library.info/content/letter-balaherne)
 
@@ -554,97 +558,98 @@ Balaherne
 
 ID: ext-1f433cc04588d9256580
 
-Letter 1 For The Battlespire Hero  
+배틀스파이어 영웅에게 보내는 편지 1  
   
-I sure hope you come through here, I could use the help.  
+네가 꼭 이곳을 지나왔으면 좋겠어. 도움이 필요하거든.  
   
-We are in so much trouble! All hell’s broken loose here, and the gate home’s blocked with some sort of damn thing which hurts to touch. A lot.  
+우리 정말 큰일 났어! 여긴 온통 지옥이 됐고, 집으로 가는 관문은 만지면 아픈 빌어먹을 뭔가에 막혔어. 아주 많이 아파.  
   
-Have a look around, see if you can find anyone alive to talk to. I’m going to try to get a disguise and get out in the confusion.  
+주변을 둘러보고, 살아 있어서 말을 나눌 만한 사람이 있는지 찾아봐. 나는 변장할 것을 구해서 이 혼란을 틈타 빠져나갈 생각이야.  
   
-I’m trying to remember what the instructor always said – scout out the land, eliminate your threats and gather resources. Or search, slaughter and steal for short.  
+교관님이 늘 하시던 말씀을 떠올려 보고 있어. 지형을 정찰하고, 위협을 제거하고, 자원을 모으라고 하셨지. 짧게 말하면 뒤지고, 죽이고, 훔치라는 거야.  
   
-See if you can keep up.  
+뒤처지지 말고 따라와 봐.  
   
-We’re getting a real big test, looks like!  
+아무래도 엄청난 시험을 치르게 된 것 같네!  
   
-Vatasha/Josian  
+바타샤/조시안  
   
-Letter 2 For The Battlespire Hero  
+배틀스파이어 영웅에게 보내는 편지 2  
   
-I’ve heard that one of the Battlemages is still alive – Clarentavious, I think. I haven’t seen him, but then, I haven’t had time to look for any secret doors or anything. They wanted him because of some machine or other that’s broken.  
+전투마법사 한 분이 아직 살아 계시다는 말을 들었어. 클라렌타비우스였던 것 같아. 직접 보지는 못했지만, 비밀문 같은 걸 찾아볼 시간도 없었거든. 놈들은 고장 난 무슨 기계 때문에 그분이 필요했던 모양이야.  
   
-Oh, and Methats seems to be the one who’s being left in charge, if you’re interested.  
+아, 궁금하다면 알려 줄게. 이곳을 맡겨 두고 가는 책임자는 메사츠인 것 같아.  
   
-Stay close, you might need me!  
+가까이 따라와. 내가 필요할지도 모르잖아!  
   
-Vatasha/Josian  
+바타샤/조시안  
   
-Letter 3 For The Battlespire Hero  
+배틀스파이어 영웅에게 보내는 편지 3  
   
-I’ve found another of those damn things like the ones which are blocking the Weir Gate – and a little Daedra went straight by it! I think he’s got some sort of special charm or something that lets him through. I sure can’t get past.  
+위어 관문을 막고 있는 것과 똑같은 빌어먹을 물건을 또 찾았어. 그런데 조그만 데이드라 하나가 바로 그 옆을 지나가는 거야! 통과하게 해 주는 특별한 부적 같은 걸 가진 모양이야. 나는 도저히 지나갈 수 없어.  
   
-Oh, and here’s another hint for you – there’s a big gem thing just near here – heals you right up! Boy, was I glad to find it!  
+아, 힌트 하나 더. 이 근처에 커다란 보석 같은 게 있는데, 몸을 금방 치료해 줘! 발견해서 얼마나 기뻤는지 몰라!  
   
-Vatasha/Josian  
+바타샤/조시안  
   
-Letter 4 For The Battlespire Hero  
+배틀스파이어 영웅에게 보내는 편지 4  
   
-Glad you could make it.  
+여기까지 와 줘서 기뻐.  
   
-bad news – 1. wizards & guards dead. No prisoners I could find. 2. Daedra everywhere. Little long-ears – weak, but sneaky pack fighters. Big eyeless things with long arms – stupid and very tough. 3. Paxti Bittor is the traitor. Daedra may have some codes and keywords, but there’re plenty of rooms and passages I can’t get into. 4. Teleports don’t work. Maybe mana locks, keywords? Look around – wizards are sloppy with security. 5. Floating symbols are magic sigils, and deadly! Weir gate is sealed by a REAL nasty one. Daedra wear amulets marked with same symbols. Tried to pass symbols wearing right amulets, but some work, some don’t – can’t figure pattern.  
+나쁜 소식 — 1. 마법사와 경비병들은 죽었어. 포로는 찾지 못했어. 2. 데이드라가 사방에 있어. 귀가 길고 작은 놈들은 약하지만 떼로 교활하게 싸워. 팔이 길고 눈이 없는 큰 것들은 멍청하지만 아주 질겨. 3. 팍스티 비토르가 배신자야. 데이드라가 암호나 핵심어를 좀 가지고 있을지는 몰라도, 내가 들어가지 못하는 방과 통로가 아직 많아. 4. 순간이동 장치가 작동하지 않아. 마나 자물쇠나 핵심어 때문일까? 찾아봐. 마법사들은 보안에 허술하니까. 5. 공중에 뜬 기호들은 마법 인장이야. 치명적이지! 위어 관문은 정말 지독한 인장에 봉쇄됐어. 데이드라들은 같은 기호가 새겨진 부적을 차고 있어. 맞는 부적을 차고 기호를 지나가 봤는데, 어떤 것은 되고 어떤 것은 안 돼. 규칙을 모르겠어.  
   
-Good news – 1. I’m sticking close to a boss daedra named Sumeer. Stole a cloak, hood, & amulet from a careless bodyguard. Sumeer has a mass teleportation artifact, I think. I wear the amulet, and go when he goes. 2. My Plan A: stay close to Sumeer and improvise. 3. My Plan B: Find an amulet with the same symbol as the one blocking the weir gate to get me back through the gate, or find something or someone else to get me through. Elseways we will never see Tamriel again. 4. My Plan C: Sneak until I’m discovered, then take as many with me as I can. 5. Don’t think they know I’m here. 6. Command and security are sloppy. Politics? 7. Left you a pair of healing potions in this scroll. Toast my health when you quaff them.  
+좋은 소식 — 1. 수미르라는 데이드라 우두머리 곁에 붙어 있어. 부주의한 경호원에게서 망토와 두건, 부적을 훔쳤거든. 수미르는 집단 순간이동 유물을 가진 것 같아. 나는 부적을 차고 그가 갈 때 함께 가. 2. 계획 A는 수미르에게 붙어서 임기응변으로 버티기. 3. 계획 B는 위어 관문을 막은 것과 같은 기호의 부적을 찾아 관문으로 돌아가거나, 나를 통과시켜 줄 다른 물건이나 사람을 찾기. 그러지 못하면 우린 다시는 탐리엘을 보지 못해. 4. 계획 C는 들킬 때까지 숨어 다니다가, 들키면 최대한 많은 놈들을 길동무로 삼기. 5. 놈들은 아직 내가 여기 있다는 걸 모르는 것 같아. 6. 지휘 체계와 보안이 엉망이야. 권력 다툼 때문일까? 7. 이 두루마리에 치유 물약 두 병을 남겨 뒀어. 마실 때 내 건강을 위해 건배해 줘.  
   
-Suggestions – 1. The door to the teleportal off the north corridor near the tiger rug has some sort of password protection on it. Get it working. It leads upsection to Battlespire libraries, barracks, armories, and such. DON’T COUNT ON ME to get this open. I’m riding the boss daedra’s coattails. 2. Find out how daedra got here. Bittor, the traitor, was master of teleportation and voidgates; that’s the likely route. 3. Search for codes and keys and clues and weapons. I don’t think the daedra got them all by a long shot. I couldn’t search the battlemages or guards without drawing attention to myself, but some of them may have had time to leave something for posterity. And this is the Battlespire, for gods sakes. Who knows what stuff they have around here? 4. Stay with me, pal. Even if something happens to me, look for what’s left. I’ll make sure I pass on anything I can.  
+제안 — 1. 호랑이 깔개 근처 북쪽 복도에서 순간이동문으로 통하는 문에는 암호 같은 것이 걸려 있어. 작동시켜 봐. 위쪽 구역의 배틀스파이어 도서관과 병영, 무기고 등으로 연결돼. 내가 열어 줄 거라고는 기대하지 마. 나는 데이드라 우두머리에게 묻어가고 있으니까. 2. 데이드라가 어떻게 들어왔는지 알아봐. 배신자 비토르는 순간이동과 공허 관문의 대가였으니, 아마 그쪽이겠지. 3. 암호와 열쇠, 단서와 무기를 찾아봐. 데이드라들이 전부 챙겼을 리는 없다고 생각해. 나는 눈길을 끌까 봐 전투마법사와 경비병들을 뒤져 보지 못했지만, 그중에는 후세에 무언가를 남길 시간이 있었던 사람도 있을 거야. 게다가 신들이여, 여긴 배틀스파이어잖아. 여기에 어떤 물건들이 있을지 누가 알겠어? 4. 친구, 끝까지 따라와. 내게 무슨 일이 생기더라도 남은 것을 찾아봐. 넘겨줄 수 있는 것은 반드시 전해 줄게.  
   
-Stay with me. Vatasha/Josian  
+끝까지 따라와. 바타샤/조시안  
   
-Letter 5 For The Battlespire Hero  
+배틀스파이어 영웅에게 보내는 편지 5  
   
-So far, so good.  
+아직까지는 순조로워.  
   
-I’m with a group of Daedra with cloaks and hoods. Still careless, don’t seem to expect trouble, but this disguise thing is too risky. When I get a chance, I’ll slip off and follow under spell concealments.  
+망토와 두건을 쓴 데이드라 무리에 섞여 있어. 여전히 부주의하고 문제가 생길 거라고는 생각하지 않는 것 같지만, 변장은 너무 위험해. 기회가 생기면 몰래 빠져나와 은폐 주문을 쓰고 뒤따라갈 거야.  
   
-This place is crawling with spooks and bones. They call this place the Soul Cairn. The chief — heard one call him “Lord Something-or-Other Moath” — sent troops out to scout. The report is simple: DO NOT FOOL WITH THE WRAITHS! They cannot be killed or destroyed. Period. Sounds like a good policy. These daedra troops look pretty tough, but they aren’t making a dent in the wraith things. So stay clear of them.  
+여기는 유령과 해골이 득실거려. 소울 케언이라고 부르더라. 우두머리는 누군가가 '뭐라뭐라 모스 경'이라고 부르는 걸 들었는데, 정찰대를 내보냈어. 보고는 간단해. 망령은 건드리지 마! 죽이거나 파괴할 수 없어. 끝. 괜찮은 방침 같아. 데이드라 병사들도 꽤 강해 보이는데 망령들에게는 흠집도 못 내더라고. 그러니 가까이 가지 마.  
   
-Our next stop is someplace called Shade Perilous. Not sure after that. A couple of my Daedra companions had little accidents; I snatched their plunder. When I get a chance, I’ll sort it out. Anything extra or dangerous I’ll dump along the way for you. I’m leaving you two Spell Restoratives here; I got plenty extra. Keep your eyes out, and watch yourself.  
+다음 목적지는 셰이드 페릴러스라는 곳이야. 그다음은 확실하지 않아. 데이드라 동료 몇 놈에게 작은 사고가 나서, 그놈들의 전리품을 챙겼어. 기회가 나면 정리할 거야. 남는 물건이나 위험한 물건은 너를 위해 길에 버려 둘게. 여기에는 주문 회복제 두 개를 남겨 둬. 나는 여분이 넉넉하거든. 눈 크게 뜨고 몸조심해.  
   
-Vatasha/Josian  
+바타샤/조시안  
   
-Letter 6 For The Battlespire Hero  
+배틀스파이어 영웅에게 보내는 편지 6  
   
-So much for the disguise. One of the big ones caught me sneaking around, and ripped into me. I knocked him through his hat, but he mussed my garments in a most thorough fashion. I think they may be on the lookout now. Be careful.  
+변장은 이제 끝이야. 큰 놈 하나가 내가 숨어 다니는 걸 보고 덤벼들었어. 정신이 번쩍 들게 두들겨 줬지만, 내 옷도 아주 철저하게 망쳐 놨지. 이제 놈들이 경계하고 있을지도 몰라. 조심해.  
   
-I’m depending on silent feet and shadow spells now. You’ll need two amulets to get past the warding sigils. I left an extra one here on the dock. I found the gate, many rooms on, past a graveyard, but don’t know how the gate works. I’ll hang around and slip through with the next courier. If I can leave the gate open, you’re golden. If not, you’re on your own. Maybe there’s an inscription or manual hidden around somewhere.  
+지금은 조용한 발걸음과 그림자 주문에 의지하고 있어. 방어 인장을 지나려면 부적 두 개가 필요해. 여분 하나를 여기 부두에 남겨 뒀어. 방 여러 개와 묘지를 지나 관문을 찾았지만, 어떻게 작동하는지는 모르겠어. 근처에 숨어 있다가 다음 전령과 함께 통과할 생각이야. 관문을 열어 둘 수 있으면 너도 문제없을 거야. 못 그러면 혼자 해결해야 해. 어쩌면 근처 어딘가에 비문이나 설명서가 숨겨져 있을지도 몰라.  
   
-Stay AWAY from the wraiths. I can’t even scratch one. The big Daedra are tough, but dumb – either they don’t know spells, or can’t cast them worth a damn.  
+망령들한테는 접근하지 마. 나는 흠집 하나도 못 내겠어. 큰 데이드라들은 질기지만 멍청해. 주문을 모르거나, 알아도 제대로 쓰지 못하는 것 같아.  
   
-Next is a place called Shade Perilous. It’s a Daedra stronghold, not one of the Dagon holds, but a Noctural domain. Makes no sense to me – Dagon and Noctural are supposed to hate each other – but we’ll see soon enough.  
+다음은 셰이드 페릴러스라는 곳이야. 데이드라의 요새인데, 데이건의 영지가 아니라 녹터널의 영역이래. 이해가 안 돼. 데이건과 녹터널은 서로 싫어한다던데. 그래도 곧 알게 되겠지.  
   
-Keep a’coming.  
+계속 따라와.  
   
-Vatasha/Josian  
+바타샤/조시안  
   
-Letter 7 For The Battlespire Hero  
+배틀스파이어 영웅에게 보내는 편지 7  
   
-They’re on to me. I’m on the run.  
+들켰어. 지금 쫓기고 있어.  
   
-I’m low on juice, and not in the best of health. I just began to realize I might not make it.  
+힘도 얼마 안 남았고 몸 상태도 좋지 않아. 살아서 빠져나가지 못할 수도 있다는 생각이 들기 시작했어.  
   
-No matter what happens, I’ll go out with a lot of noise and fuss. If I have to make a sacrifice, just do me one last favor, and make sure the gesture isn’t wasted. Sounds gloomy, but I need to say it.  
+무슨 일이 벌어져도 요란하게 한바탕 벌이고 갈 거야. 내가 희생해야 한다면 마지막 부탁 하나만 들어줘. 그 희생이 헛되지 않게 해 줘. 우울하게 들리겠지만 꼭 말해야겠어.  
   
-I hope we can look back on this someday as our greatest adventure. And if not, then drink a flowing glass at each occasion in remembrance of me.  
+언젠가 이 일을 우리의 가장 위대한 모험이었다고 돌아볼 수 있으면 좋겠다. 그러지 못한다면, 기회가 있을 때마다 넘치도록 잔을 채워 나를 기억하며 마셔 줘.  
   
-Vatasha/Josian  
+바타샤/조시안  
   
-Letter 8 For The Battlespire Hero  
+배틀스파이어 영웅에게 보내는 편지 8  
   
-Overheard this password, but no idea what it means, or who needs it.  
+이 암호를 엿들었지만, 무슨 뜻인지 누구에게 필요한지는 모르겠어.  
   
+데이건의 대리인이 이곳을 다스린다  
 The Gerent of Dagon Rules Here  
   
-Vatasha/Josian
+바타샤/조시안
 
 [출처](https://www.imperial-library.info/content/letters-battlespire-hero)
 
@@ -654,15 +659,15 @@ Vatasha/Josian
 
 ID: ext-9e97643efe8c20471c35
 
-The Morrowind version of this text does not have the bracketed introduction. The Battlespire version uses an accent in Papré’s name.  
+[판본 안내: 모로윈드 판본에는 대괄호로 된 도입부가 없습니다. 배틀스파이어 판본에서는 파프레의 이름 Papré에 악센트 기호를 씁니다.]  
   
-[[Scrawled hastily on a page from a log journal]]  
+[[기록 일지의 한 장에 급히 휘갈겨 쓴 글]]  
   
-6th moon ……. “Alas, the Battlespire appears to be falling into the hands of evil. Their many attempts in the past have failed, until now. Dagon seems to have new minions at his side this time. These new horrors are not at all too powerful beyond our magicks and weaponry, but their numbers are feverishly great. We grow low on supplies and soldiers for this holdout. I fear the worst.”  
+여섯 번째 달……. “아아, 배틀스파이어가 악의 손에 넘어가는 것 같다. 그들은 과거에 여러 번 시도했지만 지금까지는 실패했다. 이번에 데이건은 새로운 하수인들을 거느린 듯하다. 새로 나타난 이 끔찍한 것들이 우리의 마법과 무기를 압도할 만큼 강한 것은 아니다. 하지만 수가 터무니없이 많다. 농성을 이어 가기에는 물자와 병사가 부족해지고 있다. 최악의 사태가 두렵다.”  
   
-8th moon ……. “I have presented to the few remaining Battlemages my last hope plan. I will fight my way to the bowels of the Battlespire, where I will mount Dragonne Papre, my Dragon companion. From his lair, we will take flight. Since the Weir Gate has been taken, teleportation is not possible. Only Papre can make such a journey to the Imperial Palace. There, we will report the evil infection and return with a regimental force of rescue. May the Powers be with me.”  
+여덟 번째 달……. “몇 남지 않은 전투마법사들에게 마지막 희망을 건 계획을 제시했다. 배틀스파이어 깊숙한 곳까지 싸워 나아가, 나의 드래곤 동료 드라곤 파프레를 타겠다. 그의 둥지에서 우리는 날아오를 것이다. 위어 관문이 함락되어 순간이동은 불가능하다. 황궁까지 그런 여행을 할 수 있는 것은 파프레뿐이다. 그곳에서 악의 침투를 보고하고, 구출을 위한 연대 병력과 함께 돌아오겠다. 권능들이 나와 함께하기를.”  
   
-9th moon…….. “It is as I feared. A carcass is all I have come to find. They have sealed the main gate so Papre could not escape. I am not sorrowful though, for I will be eternally reunited with Dragonne Papre. Hope for the living is lost. My name is Samar Starlover. Tell my sister I am dead, and if all the seas were ink, I could not write enough how I shall miss her.”
+아홉 번째 달……. “두려워하던 일이 벌어졌다. 내가 발견한 것은 시체뿐이다. 놈들이 정문을 봉쇄하여 파프레는 도망칠 수 없었다. 하지만 슬프지는 않다. 나는 드라곤 파프레와 영원히 다시 함께할 것이기 때문이다. 살아 있는 이들의 희망은 사라졌다. 내 이름은 사마르 스타러버다. 누이에게 내가 죽었다고 전해 다오. 온 바다가 잉크라 해도, 내가 그녀를 얼마나 그리워할지 다 적을 수 없다고.”
 
 [출처](https://www.imperial-library.info/content/starlovers-log)
 
@@ -672,9 +677,9 @@ The Morrowind version of this text does not have the bracketed introduction. The
 
 ID: ext-1c57abb1320abd00eff4
 
-[[Scrawled in a cramped, almost illegible hand is a single word:]]  
+[[비좁게 휘갈겨 써서 거의 읽을 수 없는 필체로 단어 하나가 적혀 있다.]]  
   
-boustrophedon
+boustrophedon (부스트로페돈)
 
 [출처](https://www.imperial-library.info/content/boustrophedon-note)
 
@@ -684,415 +689,415 @@ boustrophedon
 
 ID: ext-69c8a880f83f8e170930
 
-Codex Arcana, Volume I  
+비전 대전, 제1권  
   
-STUDENTS AND SCHOLAR: Attend our Abjurations!  
-SHOWING DUE PROPRIETY IN THE CUSTODY OF BOOKS  
+학생과 학자들이여, 우리의 경고에 귀 기울이라!  
+책을 보관할 때 지켜야 할 마땅한 예법  
   
-We not only render service to the Emperor in preparing volumes of new books, but also exercise an office of sacred piety when we treat books carefully, and again when we restore them to their proper places and commend them to inviolable custody; that they may rejoice in purity while we have them in our hands, and rest securely when they are restored to their repositories. And surely next to the vestments and engines dedicated to the Emperor’s glory, arcane books deserve to be rightly treated by the battlemage, to which great injury is done so often as they are touched by unclean hands. Wherefore we deem it expedient to warn our students against various negligences, such as might be easily avoided and which do wonderful harm to books.  
+우리는 새 책들을 마련함으로써 황제를 섬길 뿐 아니라, 책을 조심스럽게 다루고 제자리에 돌려놓아 침해받지 않도록 보관함으로써 성스러운 경건의 의무도 행한다. 그리하여 책은 우리 손에 있을 때 깨끗함 속에서 기뻐하고, 서고로 돌아가면 안전하게 쉴 수 있다. 황제의 영광에 바쳐진 의복과 장치 다음으로, 비전의 책들은 전투마법사에게 올바른 대접을 받을 자격이 있다. 더러운 손이 닿을 때마다 책은 큰 해를 입는다. 그러므로 우리는 학생들에게 갖가지 부주의를 경고하는 것이 마땅하다고 여긴다. 쉽게 피할 수 있으면서도 책에는 놀라울 만큼 큰 해를 입히는 부주의들이다.  
   
-Being a partial index of arcane contrivances known to the scholars and alchemists of Battlespire, that these contrivances might more readily be known to all students, and neither abused, nor neglected, nor wasted in their employment.  
+배틀스파이어의 학자들과 연금술사들이 아는 비전 장치의 일부를 정리한 목록이다. 모든 학생이 이 장치들을 더욱 쉽게 알아보고, 사용하면서 남용하거나 방치하거나 낭비하지 않도록 하기 위함이다.  
   
-“Art of Corruption”  
-Produces the casting of Major Poison Damage Range  
+“타락의 기예(Art of Corruption)”  
+원거리로 큰 독 피해를 주는 주문을 시전한다.  
   
-“Beaks of Lightning”  
-Casts the spell of Major Shock Damage Range  
+“번개의 부리(Beaks of Lightning)”  
+원거리로 큰 전격 피해를 주는 주문을 시전한다.  
   
-“Bite of Fleshrime”  
-Renders the power of Medium Frost Damage Range  
+“살얼음의 물림(Bite of Fleshrime)”  
+원거리로 중간 정도의 냉기 피해를 주는 힘을 부여한다.  
   
-“Blossom of Chastening Fire”  
-Produces the casting of Minor Fire Damage Range  
+“징계하는 불의 꽃(Blossom of Chastening Fire)”  
+원거리로 작은 화염 피해를 주는 주문을 시전한다.  
   
-“Boils of Handfire”  
-Produces the casting of Minor Fire Damage  
+“손불의 종기(Boils of Handfire)”  
+작은 화염 피해를 주는 주문을 시전한다.  
   
-“Bone of Resolve”  
-Produces the casting of Spell Resistance  
+“결의의 뼈(Bone of Resolve)”  
+주문 저항 주문을 시전한다.  
   
-“Breath of the Vampire”  
-Produces the casting of Vampiric Drain  
+“흡혈귀의 숨결(Breath of the Vampire)”  
+흡혈 주문을 시전한다.  
   
-“Candle of the Lesser Vigil”  
-Renders the power of Minor Shield  
+“작은 철야의 촛불(Candle of the Lesser Vigil)”  
+하급 방어막의 힘을 부여한다.  
   
-“Coals of Bonesear”  
-Renders the power of Major Fire Damage  
+“뼈를 태우는 숯(Coals of Bonesear)”  
+큰 화염 피해를 주는 힘을 부여한다.  
   
-“Din of Revelations”  
-Renders the power of Major Delayed Damage  
+“계시의 굉음(Din of Revelations)”  
+큰 지연 피해를 주는 힘을 부여한다.  
   
-“Dove of Blistering Fire”  
-Renders the power of Medium Fire Damage Range  
+“물집 잡히는 불의 비둘기(Dove of Blistering Fire)”  
+원거리로 중간 정도의 화염 피해를 주는 힘을 부여한다.  
   
-“Ewer of Purity”  
-Renders the power of Cure Poison  
+“순수의 물주전자(Ewer of Purity)”  
+독 치료의 힘을 부여한다.  
   
-“Excrescence of Ice”  
-Produces the casting of Major Frost Damage  
+“얼음 돌기(Excrescence of Ice)”  
+큰 냉기 피해를 주는 주문을 시전한다.  
   
-Codex Arcana, Volume II  
+비전 대전, 제2권  
   
-STUDENTS AND SCHOLAR: Attend our Abjurations!  
-SHOWING DUE PROPRIETY IN THE CUSTODY OF BOOKS  
+학생과 학자들이여, 우리의 경고에 귀 기울이라!  
+책을 보관할 때 지켜야 할 마땅한 예법  
   
-We not only render service to the Emperor in preparing volumes of new books, but also exercise an office of sacred piety when we treat books carefully, and again when we restore them to their proper places and commend them to inviolable custody; that they may rejoice in purity while we have them in our hands, and rest securely when they are restored to their repositories. And surely next to the vestments and engines dedicated to the Emperor’s glory, arcane books deserve to be rightly treated by the battlemage, to which great injury is done so often as they are touched by unclean hands. Wherefore we deem it expedient to warn our students against various negligences, such as might be easily avoided and which do wonderful harm to books.  
+우리는 새 책들을 마련함으로써 황제를 섬길 뿐 아니라, 책을 조심스럽게 다루고 제자리에 돌려놓아 침해받지 않도록 보관함으로써 성스러운 경건의 의무도 행한다. 그리하여 책은 우리 손에 있을 때 깨끗함 속에서 기뻐하고, 서고로 돌아가면 안전하게 쉴 수 있다. 황제의 영광에 바쳐진 의복과 장치 다음으로, 비전의 책들은 전투마법사에게 올바른 대접을 받을 자격이 있다. 더러운 손이 닿을 때마다 책은 큰 해를 입는다. 그러므로 우리는 학생들에게 갖가지 부주의를 경고하는 것이 마땅하다고 여긴다. 쉽게 피할 수 있으면서도 책에는 놀라울 만큼 큰 해를 입히는 부주의들이다.  
   
-Being a partial index of arcane contrivances known to the scholars and alchemists of Battlespire, that these contrivances might more readily be known to all students, and neither abused, nor neglected, nor wasted in their employment.  
+배틀스파이어의 학자들과 연금술사들이 아는 비전 장치의 일부를 정리한 목록이다. 모든 학생이 이 장치들을 더욱 쉽게 알아보고, 사용하면서 남용하거나 방치하거나 낭비하지 않도록 하기 위함이다.  
   
-“Faremyle of Burning Blows”  
-Renders the power of Medium Fire Damage  
+“타오르는 일격의 파레마일(Faremyle of Burning Blows)”  
+중간 정도의 화염 피해를 주는 힘을 부여한다.  
   
-“Father of Blight”  
-Produces the casting of Medium Continuous Damage to the victim  
+“역병의 아버지(Father of Blight)”  
+희생자에게 중간 정도의 지속 피해를 주는 주문을 시전한다.  
   
-“Fin of Spite”  
-Produces the casting of Minor Continuous Damage to the victim  
+“악의의 지느러미(Fin of Spite)”  
+희생자에게 작은 지속 피해를 주는 주문을 시전한다.  
   
-“Flakes of Snow”  
-Produces the casting of Minor Frost Damage  
+“눈송이(Flakes of Snow)”  
+작은 냉기 피해를 주는 주문을 시전한다.  
   
-“Flame of the Greater Vigil”  
-Casts the spell of Medium Shield  
+“큰 철야의 불꽃(Flame of the Greater Vigil)”  
+중급 방어막 주문을 시전한다.  
   
-“Forks of Bonefrost”  
-Casts the spell of Major Frost Damage Range  
+“뼈를 얼리는 갈래(Forks of Bonefrost)”  
+원거리로 큰 냉기 피해를 주는 주문을 시전한다.  
   
-“Glaze of Mysteries”  
-Produces the casting of Medium Delayed Damage  
+“신비의 유약(Glaze of Mysteries)”  
+중간 정도의 지연 피해를 주는 주문을 시전한다.  
   
-“Gleam of the Shock Ward”  
-Produces the casting of Resistance to Shock  
+“전격 방호의 빛(Gleam of the Shock Ward)”  
+전격 저항 주문을 시전한다.  
   
-“Harkenor of Agony”  
-Renders the power of Major Continuous Damage to the victim  
+“고통의 하커너(Harkenor of Agony)”  
+희생자에게 큰 지속 피해를 주는 힘을 부여한다.  
   
-“Harrow of Wizardbrand”  
-Casts the spell of Major Magic Damage  
+“마법사의 낙인 써레(Harrow of Wizardbrand)”  
+큰 마법 피해를 주는 주문을 시전한다.  
   
-“Heart of the Subtle Force”  
-Produces the casting of Minor Shock Damage  
+“미묘한 힘의 심장(Heart of the Subtle Force)”  
+작은 전격 피해를 주는 주문을 시전한다.  
   
-“Horn of Magepain”  
-Renders the power of Medium Magic Damage Range  
+“마법사의 고통 뿔피리(Horn of Magepain)”  
+원거리로 중간 정도의 마법 피해를 주는 힘을 부여한다.  
   
-“Hue of the Journeyman”  
-Casts the spell of Medium Poison Damage  
+“숙련공의 빛깔(Hue of the Journeyman)”  
+중간 정도의 독 피해를 주는 주문을 시전한다.  
   
-“Husk of the Fiery Ward”  
-Casts the spell of Resistance to Fire  
+“화염 방호의 껍질(Husk of the Fiery Ward)”  
+화염 저항 주문을 시전한다.  
   
-“Incidence of Biter Bitten”  
-Produces the casting of Fire shield  
+“물려 버린 무는 자의 사건(Incidence of Biter Bitten)”  
+화염 방어막 주문을 시전한다.  
   
-Codex Arcana, Volume III  
+비전 대전, 제3권  
   
-STUDENTS AND SCHOLAR: Attend our Abjurations!  
-SHOWING DUE PROPRIETY IN THE CUSTODY OF BOOKS  
+학생과 학자들이여, 우리의 경고에 귀 기울이라!  
+책을 보관할 때 지켜야 할 마땅한 예법  
   
-We not only render service to the Emperor in preparing volumes of new books, but also exercise an office of sacred piety when we treat books carefully, and again when we restore them to their proper places and commend them to inviolable custody; that they may rejoice in purity while we have them in our hands, and rest securely when they are restored to their repositories. And surely next to the vestments and engines dedicated to the Emperor’s glory, arcane books deserve to be rightly treated by the battlemage, to which great injury is done so often as they are touched by unclean hands. Wherefore we deem it expedient to warn our students against various negligences, such as might be easily avoided and which do wonderful harm to books.  
+우리는 새 책들을 마련함으로써 황제를 섬길 뿐 아니라, 책을 조심스럽게 다루고 제자리에 돌려놓아 침해받지 않도록 보관함으로써 성스러운 경건의 의무도 행한다. 그리하여 책은 우리 손에 있을 때 깨끗함 속에서 기뻐하고, 서고로 돌아가면 안전하게 쉴 수 있다. 황제의 영광에 바쳐진 의복과 장치 다음으로, 비전의 책들은 전투마법사에게 올바른 대접을 받을 자격이 있다. 더러운 손이 닿을 때마다 책은 큰 해를 입는다. 그러므로 우리는 학생들에게 갖가지 부주의를 경고하는 것이 마땅하다고 여긴다. 쉽게 피할 수 있으면서도 책에는 놀라울 만큼 큰 해를 입히는 부주의들이다.  
   
-Being a partial index of arcane contrivances known to the scholars and alchemists of Battlespire, that these contrivances might more readily be known to all students, and neither abused, nor neglected, nor wasted in their employment.  
+배틀스파이어의 학자들과 연금술사들이 아는 비전 장치의 일부를 정리한 목록이다. 모든 학생이 이 장치들을 더욱 쉽게 알아보고, 사용하면서 남용하거나 방치하거나 낭비하지 않도록 하기 위함이다.  
   
-“Knight of the Grand Vigil”  
-Produces the casting of Major Shield  
+“위대한 철야의 기사(Knight of the Grand Vigil)”  
+상급 방어막 주문을 시전한다.  
   
-“Lot of Fate”  
-Produces the casting of Medium Continuous Damage to the victim  
+“운명의 제비(Lot of Fate)”  
+희생자에게 중간 정도의 지속 피해를 주는 주문을 시전한다.  
   
-“Maid of Rime”  
-Casts the spell of Medium Frost Damage  
+“서리의 처녀(Maid of Rime)”  
+중간 정도의 냉기 피해를 주는 주문을 시전한다.  
   
-“Mote of Cleansing Fire”  
-Produces the casting of Major Fire Damage Range  
+“정화하는 불의 티끌(Mote of Cleansing Fire)”  
+원거리로 큰 화염 피해를 주는 주문을 시전한다.  
   
-“Plume of Baleful Woe”  
-Renders the power of Minor Magic Damage  
+“불길한 비애의 깃털(Plume of Baleful Woe)”  
+작은 마법 피해를 주는 힘을 부여한다.  
   
-“Prayer of Fleshfire”  
-Casts the spell of Medium Poison Damage Range  
+“살을 태우는 불의 기도(Prayer of Fleshfire)”  
+원거리로 중간 정도의 독 피해를 주는 주문을 시전한다.  
   
-“Principle of the Broad Force”  
-Renders the power of Medium Shock Damage  
+“광대한 힘의 원리(Principle of the Broad Force)”  
+중간 정도의 전격 피해를 주는 힘을 부여한다.  
   
-“Ribs of the Mana Ward”  
-Produces the casting of Resistance to Magic  
+“마나 방호의 갈비뼈(Ribs of the Mana Ward)”  
+마법 저항 주문을 시전한다.  
   
-“Root of the Hero”  
-Renders the power of Medium Cure Health  
+“영웅의 뿌리(Root of the Hero)”  
+중급 체력 회복의 힘을 부여한다.  
   
-“Rose of Weirdbane”  
-Produces the casting of Medium Magic Damage  
+“기이한 파멸의 장미(Rose of Weirdbane)”  
+중간 정도의 마법 피해를 주는 주문을 시전한다.  
   
-“Seal of the Grand Force”  
-Casts the spell of Major Shock Damage Range  
+“위대한 힘의 인장(Seal of the Grand Force)”  
+원거리로 큰 전격 피해를 주는 주문을 시전한다.  
   
-“Seed of Healing”  
-Produces the casting of Minor Cure Health  
+“치유의 씨앗(Seed of Healing)”  
+하급 체력 회복 주문을 시전한다.  
   
-“Shells of Magewrack”  
-Casts the spell of Major Magic Damage Range  
+“마법사를 파괴하는 껍데기(Shells of Magewrack)”  
+원거리로 큰 마법 피해를 주는 주문을 시전한다.  
   
-“Shimmer of the Frosty Ward”  
-Produces the casting of Resistance to Frost  
+“냉기 방호의 아른거림(Shimmer of the Frosty Ward)”  
+냉기 저항 주문을 시전한다.  
   
-“Sifting of Stain”  
-Produces the casting of Minor Poison Damage Range  
+“얼룩의 체질(Sifting of Stain)”  
+원거리로 작은 독 피해를 주는 주문을 시전한다.  
   
-“Skein of Convulsion”  
-Renders the power of Confusion  
+“경련의 실타래(Skein of Convulsion)”  
+혼란의 힘을 부여한다.  
   
-“Skins of the Poison Ward”  
-Casts the spell of Resistance to Poison  
+“독 방호의 가죽(Skins of the Poison Ward)”  
+독 저항 주문을 시전한다.  
   
-“Sliver of Skinchill”  
-Produces the casting of Minor Frost Damage Range  
+“피부를 얼리는 조각(Sliver of Skinchill)”  
+원거리로 작은 냉기 피해를 주는 주문을 시전한다.  
   
-“Sweetpin of Secrets”  
-Renders the power of Minor Delayed Damage  
+“비밀의 달콤한 핀(Sweetpin of Secrets)”  
+작은 지연 피해를 주는 힘을 부여한다.  
   
-“Swirl of the Bright Well”  
-Renders the power of Spell Absorption  
+“밝은 우물의 소용돌이(Swirl of the Bright Well)”  
+주문 흡수의 힘을 부여한다.  
   
-Codex Arcana, Volume IV  
+비전 대전, 제4권  
   
-STUDENTS AND SCHOLAR: Attend our Abjurations!  
-SHOWING DUE PROPRIETY IN THE CUSTODY OF BOOKS  
+학생과 학자들이여, 우리의 경고에 귀 기울이라!  
+책을 보관할 때 지켜야 할 마땅한 예법  
   
-We not only render service to the Emperor in preparing volumes of new books, but also exercise an office of sacred piety when we treat books carefully, and again when we restore them to their proper places and commend them to inviolable custody; that they may rejoice in purity while we have them in our hands, and rest securely when they are restored to their repositories. And surely next to the vestments and engines dedicated to the Emperor’s glory, arcane books deserve to be rightly treated by the battlemage, to which great injury is done so often as they are touched by unclean hands. Wherefore we deem it expedient to warn our students against various negligences, such as might be easily avoided and which do wonderful harm to books.  
+우리는 새 책들을 마련함으로써 황제를 섬길 뿐 아니라, 책을 조심스럽게 다루고 제자리에 돌려놓아 침해받지 않도록 보관함으로써 성스러운 경건의 의무도 행한다. 그리하여 책은 우리 손에 있을 때 깨끗함 속에서 기뻐하고, 서고로 돌아가면 안전하게 쉴 수 있다. 황제의 영광에 바쳐진 의복과 장치 다음으로, 비전의 책들은 전투마법사에게 올바른 대접을 받을 자격이 있다. 더러운 손이 닿을 때마다 책은 큰 해를 입는다. 그러므로 우리는 학생들에게 갖가지 부주의를 경고하는 것이 마땅하다고 여긴다. 쉽게 피할 수 있으면서도 책에는 놀라울 만큼 큰 해를 입히는 부주의들이다.  
   
-Being a partial index of arcane contrivances known to the scholars and alchemists of Battlespire, that these contrivances might more readily be known to all students, and neither abused, nor neglected, nor wasted in their employment.  
+배틀스파이어의 학자들과 연금술사들이 아는 비전 장치의 일부를 정리한 목록이다. 모든 학생이 이 장치들을 더욱 쉽게 알아보고, 사용하면서 남용하거나 방치하거나 낭비하지 않도록 하기 위함이다.  
   
-“Tale of the Whole Flesh”  
-Casts the spell of Major Cure Health  
+“온전한 육신의 이야기(Tale of the Whole Flesh)”  
+상급 체력 회복 주문을 시전한다.  
   
-“Tear of Despair”  
-Produces the casting of Major Continuous Damage to the victim  
+“절망의 눈물(Tear of Despair)”  
+희생자에게 큰 지속 피해를 주는 주문을 시전한다.  
   
-“Thimble of Magefire”  
-Produces the casting of Minor Magic Damage Range  
+“마법 불꽃의 골무(Thimble of Magefire)”  
+원거리로 작은 마법 피해를 주는 주문을 시전한다.  
   
-“Thread of Sparking”  
-Renders the power of Minor Shock Damage Range  
+“불꽃이 튀는 실(Thread of Sparking)”  
+원거리로 작은 전격 피해를 주는 힘을 부여한다.  
   
-“Tides of the Between”  
-Produces the casting of Teleport  
+“사이의 조류(Tides of the Between)”  
+순간이동 주문을 시전한다.  
   
-“Tinct of the Apprentice”  
-Produces the casting of Minor Poison Damage  
+“수련생의 물감(Tinct of the Apprentice)”  
+작은 독 피해를 주는 주문을 시전한다.  
   
-“Waft of Lightness”  
-Produces the casting of Jumping  
+“가벼움의 바람(Waft of Lightness)”  
+도약 주문을 시전한다.  
   
-“Web of the Master”  
-Renders the power of Major Poison Damage  
+“대가의 거미줄(Web of the Master)”  
+큰 독 피해를 주는 힘을 부여한다.  
   
-“Whim of the Grand Warding”  
-Renders the power of Resistance to All elements  
+“위대한 방호의 변덕(Whim of the Grand Warding)”  
+모든 원소 저항의 힘을 부여한다.  
   
-“Wind of Swiftness”  
-Renders the power of Running  
+“신속함의 바람(Wind of Swiftness)”  
+달리기의 힘을 부여한다.  
   
-“Winds of Storm”  
-Produces the casting of Medium Shock Damage Range  
+“폭풍의 바람(Winds of Storm)”  
+원거리로 중간 정도의 전격 피해를 주는 주문을 시전한다.  
   
-“Wing of Spellshifting”  
-Casts the spell of Spell Reflection  
+“주문 전환의 날개(Wing of Spellshifting)”  
+주문 반사 주문을 시전한다.  
   
-“Withy of Withering”  
-Casts the spell of Minor Continuous Damage to the victim  
+“시듦의 버드나무 가지(Withy of Withering)”  
+희생자에게 작은 지속 피해를 주는 주문을 시전한다.  
   
-Codex Arcana, Volume V  
+비전 대전, 제5권  
   
-STUDENTS AND SCHOLAR: Attend our Abjurations!  
-SHOWING DUE PROPRIETY IN THE CUSTODY OF BOOKS  
+학생과 학자들이여, 우리의 경고에 귀 기울이라!  
+책을 보관할 때 지켜야 할 마땅한 예법  
   
-We not only render service to the Emperor in preparing volumes of new books, but also exercise an office of sacred piety when we treat books carefully, and again when we restore them to their proper places and commend them to inviolable custody; that they may rejoice in purity while we have them in our hands, and rest securely when they are restored to their repositories. And surely next to the vestments and engines dedicated to the Emperor’s glory, arcane books deserve to be rightly treated by the battlemage, to which great injury is done so often as they are touched by unclean hands. Wherefore we deem it expedient to warn our students against various negligences, such as might be easily avoided and which do wonderful harm to books.  
+우리는 새 책들을 마련함으로써 황제를 섬길 뿐 아니라, 책을 조심스럽게 다루고 제자리에 돌려놓아 침해받지 않도록 보관함으로써 성스러운 경건의 의무도 행한다. 그리하여 책은 우리 손에 있을 때 깨끗함 속에서 기뻐하고, 서고로 돌아가면 안전하게 쉴 수 있다. 황제의 영광에 바쳐진 의복과 장치 다음으로, 비전의 책들은 전투마법사에게 올바른 대접을 받을 자격이 있다. 더러운 손이 닿을 때마다 책은 큰 해를 입는다. 그러므로 우리는 학생들에게 갖가지 부주의를 경고하는 것이 마땅하다고 여긴다. 쉽게 피할 수 있으면서도 책에는 놀라울 만큼 큰 해를 입히는 부주의들이다.  
   
-Being a partial index of arcane contrivances known to the scholars and alchemists of Battlespire, that these contrivances might more readily be known to all students, and neither abused, nor neglected, nor wasted in their employment.  
+배틀스파이어의 학자들과 연금술사들이 아는 비전 장치의 일부를 정리한 목록이다. 모든 학생이 이 장치들을 더욱 쉽게 알아보고, 사용하면서 남용하거나 방치하거나 낭비하지 않도록 하기 위함이다.  
   
-BattleAxe of Scathing: causes Minor Magic Damage, and is informed by the arts of ILLUSION  
+통렬함의 전투도끼(BattleAxe of Scathing): 작은 마법 피해를 주며, 환영마법의 기예를 담고 있다.  
   
-BattleAxe of Marvelous Extension:provides castings of the spell Slow Fall, and gifts its owner with special insight into the disciplines of MYSTICISM  
+놀라운 연장의 전투도끼(BattleAxe of Marvelous Extension): 느린 낙하 주문을 시전할 수 있으며, 소유자에게 신비마법에 관한 특별한 통찰을 준다.  
   
-BattleAxe of Heaven’s Teeth: causes Minor Shock Damage, and is schooled with crafts of RUNNING  
+하늘의 이빨 전투도끼(BattleAxe of Heaven’s Teeth): 작은 전격 피해를 주며, 달리기의 기예를 담고 있다.  
   
-Boots of the Creeping Things: enchanted with the spell of Summon Brute, and is informed by the arts of THAUMATURGY  
+기어 다니는 것들의 장화(Boots of the Creeping Things): 야수 소환 주문이 부여되어 있으며, 기적술의 기예를 담고 있다.  
   
-Boots of Glacial Hue: wreaks Major Frost Damage, and partakes of the excellence of THAUMATURGY  
+빙하빛 장화(Boots of Glacial Hue): 큰 냉기 피해를 주며, 기적술의 탁월함을 지닌다.  
   
-Boots of Consuming Indwelling:provides castings of the spell Spell Absorption, and is schooled with crafts of RESTORATION  
+삼켜 들이는 내재의 장화(Boots of Consuming Indwelling): 주문 흡수 주문을 시전할 수 있으며, 회복마법의 기예를 담고 있다.  
   
-Boots of Exquisite Perfection:provides castings of the spell Resistance to All elements, and gifts its owner with special insight into the disciplines of SHORTBLADE  
+정교한 완벽함의 장화(Boots of Exquisite Perfection): 모든 원소 저항 주문을 시전할 수 있으며, 소유자에게 단검에 관한 특별한 통찰을 준다.  
   
-Broadsword of the Biting Pains: engenders Medium Frost Damage, and partakes of the excellence of DESTRUCTION  
+파고드는 고통의 브로드소드(Broadsword of the Biting Pains): 중간 정도의 냉기 피해를 일으키며, 파괴마법의 탁월함을 지닌다.  
   
-Broadsword of Uncertainty: casts the spell of Invisibility, and is schooled with crafts of ALTERATION  
+불확실성의 브로드소드(Broadsword of Uncertainty): 투명 주문을 시전하며, 변화마법의 기예를 담고 있다.  
   
-Broadsword of the Firmament:provides castings of the spell Resistance to Shock, and gifts its owner with special insight into the disciplines of MISSILE  
+천구의 브로드소드(Broadsword of the Firmament): 전격 저항 주문을 시전할 수 있으며, 소유자에게 사격에 관한 특별한 통찰을 준다.  
   
-Broadsword of the Unnatural Essence: engenders Medium Poison Damage, and gifts its owner with special insight into the disciplines of BACKSTABBING  
+부자연스러운 정수의 브로드소드(Broadsword of the Unnatural Essence): 중간 정도의 독 피해를 일으키며, 소유자에게 배후 공격에 관한 특별한 통찰을 준다.  
   
-Claymore of Mysteries: conceives the spell of Chameleon, and partakes of the excellence of THAUMATURGY  
+신비의 클레이모어(Claymore of Mysteries): 카멜레온 주문을 불러내며, 기적술의 탁월함을 지닌다.  
   
-Claymore of Sulphurous Death: wreaks Major Poison Damage, and is informed by the arts of JUMPING  
+유황 죽음의 클레이모어(Claymore of Sulphurous Death): 큰 독 피해를 주며, 도약의 기예를 담고 있다.  
   
-Claymore of Glacial Hue: wreaks Major Frost Damage, and gifts its owner with special insight into the disciplines of RESTORATION  
+빙하빛 클레이모어(Claymore of Glacial Hue): 큰 냉기 피해를 주며, 소유자에게 회복마법에 관한 특별한 통찰을 준다.  
   
-CrossBow of Pleasure: conceives the spell of Minor Cure Health, and partakes of the excellence of THAUMATURGY  
+쾌락의 석궁(CrossBow of Pleasure): 하급 체력 회복 주문을 불러내며, 기적술의 탁월함을 지닌다.  
   
-Codex Arcana, Volume VI  
+비전 대전, 제6권  
   
-STUDENTS AND SCHOLAR: Attend our Abjurations!  
-SHOWING DUE PROPRIETY IN THE CUSTODY OF BOOKS  
+학생과 학자들이여, 우리의 경고에 귀 기울이라!  
+책을 보관할 때 지켜야 할 마땅한 예법  
   
-We not only render service to the Emperor in preparing volumes of new books, but also exercise an office of sacred piety when we treat books carefully, and again when we restore them to their proper places and commend them to inviolable custody; that they may rejoice in purity while we have them in our hands, and rest securely when they are restored to their repositories. And surely next to the vestments and engines dedicated to the Emperor’s glory, arcane books deserve to be rightly treated by the battlemage, to which great injury is done so often as they are touched by unclean hands. Wherefore we deem it expedient to warn our students against various negligences, such as might be easily avoided and which do wonderful harm to books.  
+우리는 새 책들을 마련함으로써 황제를 섬길 뿐 아니라, 책을 조심스럽게 다루고 제자리에 돌려놓아 침해받지 않도록 보관함으로써 성스러운 경건의 의무도 행한다. 그리하여 책은 우리 손에 있을 때 깨끗함 속에서 기뻐하고, 서고로 돌아가면 안전하게 쉴 수 있다. 황제의 영광에 바쳐진 의복과 장치 다음으로, 비전의 책들은 전투마법사에게 올바른 대접을 받을 자격이 있다. 더러운 손이 닿을 때마다 책은 큰 해를 입는다. 그러므로 우리는 학생들에게 갖가지 부주의를 경고하는 것이 마땅하다고 여긴다. 쉽게 피할 수 있으면서도 책에는 놀라울 만큼 큰 해를 입히는 부주의들이다.  
   
-Being a partial index of arcane contrivances known to the scholars and alchemists of Battlespire, that these contrivances might more readily be known to all students, and neither abused, nor neglected, nor wasted in their employment.  
+배틀스파이어의 학자들과 연금술사들이 아는 비전 장치의 일부를 정리한 목록이다. 모든 학생이 이 장치들을 더욱 쉽게 알아보고, 사용하면서 남용하거나 방치하거나 낭비하지 않도록 하기 위함이다.  
   
-CrossBow of Sulphurous Death: wreaks Major Poison Damage, and is schooled with crafts of RESTORATION  
+유황 죽음의 석궁(CrossBow of Sulphurous Death): 큰 독 피해를 주며, 회복마법의 기예를 담고 있다.  
   
-CrossBow of Grotesque Liveliness: engenders Rapid, Medium Continuous Damage to Target, and is informed by the arts of THAUMATURGY  
+기괴한 생동감의 석궁(CrossBow of Grotesque Liveliness): 대상에게 빠르게 중간 정도의 지속 피해를 일으키며, 기적술의 기예를 담고 있다.  
   
-Cuirass of the Dusk and the Dawn: casts the spell of Shadow, and is schooled with crafts of RESTORATION  
+황혼과 새벽의 흉갑(Cuirass of the Dusk and the Dawn): 그림자 주문을 시전하며, 회복마법의 기예를 담고 있다.  
   
-Cuirass of the Outermost Wastes: wreaks Major Delayed Damage, and partakes of the excellence of THAUMATURGY  
+가장 먼 황무지의 흉갑(Cuirass of the Outermost Wastes): 큰 지연 피해를 주며, 기적술의 탁월함을 지닌다.  
   
-Cuirass of the Scaly Pelt: enchanted with the spell of Minor Shield, and is informed by the arts of BLUNTWEAPON  
+비늘 가죽 흉갑(Cuirass of the Scaly Pelt): 하급 방어막 주문이 부여되어 있으며, 둔기의 기예를 담고 있다.  
   
-Cuirass of Final Virtue: wreaks Major Fire Damage, and gifts its owner with special insight into the disciplines of RESTORATION  
+마지막 미덕의 흉갑(Cuirass of Final Virtue): 큰 화염 피해를 주며, 소유자에게 회복마법에 관한 특별한 통찰을 준다.  
   
-Dagger of the Capering Dog: conceives the spell of Summon Smart Guard, and partakes of the excellence of DESTRUCTION  
+깡충대는 개의 단검(Dagger of the Capering Dog): 영리한 경비병 소환 주문을 불러내며, 파괴마법의 탁월함을 지닌다.  
   
-Dagger of the Shrew: engenders Medium Magic Damage, and is informed by the arts of MYSTICISM  
+말괄량이의 단검(Dagger of the Shrew): 중간 정도의 마법 피해를 일으키며, 신비마법의 기예를 담고 있다.  
   
-Dagger of the Tongue of the Wyrm: engenders Medium Fire Damage, and gifts its owner with special insight into the disciplines of ALTERATION  
+고룡의 혀 단검(Dagger of the Tongue of the Wyrm): 중간 정도의 화염 피해를 일으키며, 소유자에게 변화마법에 관한 특별한 통찰을 준다.  
   
-Dagger of the Winter’s Night: casts the spell of Resistance to Frost, and is schooled with crafts of HANDTOHAND  
+겨울밤의 단검(Dagger of the Winter’s Night): 냉기 저항 주문을 시전하며, 맨손 격투의 기예를 담고 있다.  
   
-Gauntlets of Scathing: causes Minor Magic Damage, and gifts its owner with special insight into the disciplines of MYSTICISM  
+통렬함의 건틀릿(Gauntlets of Scathing): 작은 마법 피해를 주며, 소유자에게 신비마법에 관한 특별한 통찰을 준다.  
   
-Gauntlets of the Rain of Fire: causes Minor Fire Damage, and partakes of the excellence of ILLUSION  
+불비의 건틀릿(Gauntlets of the Rain of Fire): 작은 화염 피해를 주며, 환영마법의 탁월함을 지닌다.  
   
-Gauntlets of the Summer’s Day: enchanted with the spell of Resistance to Fire, and is informed by the arts of LONGBLADE  
+여름날의 건틀릿(Gauntlets of the Summer’s Day): 화염 저항 주문이 부여되어 있으며, 장검의 기예를 담고 있다.  
   
-Gauntlets of Expectant Wonder: casts the spell of Summon Smart Monster, and is schooled with crafts of MYSTICISM  
+기대하는 경이의 건틀릿(Gauntlets of Expectant Wonder): 영리한 괴물 소환 주문을 시전하며, 신비마법의 기예를 담고 있다.  
   
-Greaves of the Biting Pains: engenders Medium Frost Damage, and is schooled with crafts of ALTERATION  
+파고드는 고통의 경갑(Greaves of the Biting Pains): 중간 정도의 냉기 피해를 일으키며, 변화마법의 기예를 담고 있다.  
   
-Codex Arcana, Volume VII  
+비전 대전, 제7권  
   
-STUDENTS AND SCHOLAR: Attend our Abjurations!  
-SHOWING DUE PROPRIETY IN THE CUSTODY OF BOOKS  
+학생과 학자들이여, 우리의 경고에 귀 기울이라!  
+책을 보관할 때 지켜야 할 마땅한 예법  
   
-We not only render service to the Emperor in preparing volumes of new books, but also exercise an office of sacred piety when we treat books carefully, and again when we restore them to their proper places and commend them to inviolable custody; that they may rejoice in purity while we have them in our hands, and rest securely when they are restored to their repositories. And surely next to the vestments and engines dedicated to the Emperor’s glory, arcane books deserve to be rightly treated by the battlemage, to which great injury is done so often as they are touched by unclean hands. Wherefore we deem it expedient to warn our students against various negligences, such as might be easily avoided and which do wonderful harm to books.  
+우리는 새 책들을 마련함으로써 황제를 섬길 뿐 아니라, 책을 조심스럽게 다루고 제자리에 돌려놓아 침해받지 않도록 보관함으로써 성스러운 경건의 의무도 행한다. 그리하여 책은 우리 손에 있을 때 깨끗함 속에서 기뻐하고, 서고로 돌아가면 안전하게 쉴 수 있다. 황제의 영광에 바쳐진 의복과 장치 다음으로, 비전의 책들은 전투마법사에게 올바른 대접을 받을 자격이 있다. 더러운 손이 닿을 때마다 책은 큰 해를 입는다. 그러므로 우리는 학생들에게 갖가지 부주의를 경고하는 것이 마땅하다고 여긴다. 쉽게 피할 수 있으면서도 책에는 놀라울 만큼 큰 해를 입히는 부주의들이다.  
   
-Being a partial index of arcane contrivances known to the scholars and alchemists of Battlespire, that these contrivances might more readily be known to all students, and neither abused, nor neglected, nor wasted in their employment.  
+배틀스파이어의 학자들과 연금술사들이 아는 비전 장치의 일부를 정리한 목록이다. 모든 학생이 이 장치들을 더욱 쉽게 알아보고, 사용하면서 남용하거나 방치하거나 낭비하지 않도록 하기 위함이다.  
   
-Greaves of Kings: conceives the spell of Major Shield, and partakes of the excellence of MYSTICISM  
+왕들의 경갑(Greaves of Kings): 상급 방어막 주문을 불러내며, 신비마법의 탁월함을 지닌다.  
   
-Greaves of Unrequited Intent: conceives the spell of Spell Resistance, and is informed by the arts of DESTRUCTION  
+보답받지 못한 뜻의 경갑(Greaves of Unrequited Intent): 주문 저항 주문을 불러내며, 파괴마법의 기예를 담고 있다.  
   
-Greaves of the Stamp of the Toad:provides castings of the spell Monster Summoning, and gifts its owner with special insight into the disciplines of ALTERATION  
+두꺼비 발구름의 경갑(Greaves of the Stamp of the Toad): 괴물 소환 주문을 시전할 수 있으며, 소유자에게 변화마법에 관한 특별한 통찰을 준다.  
   
-Helmet of Despair: enchanted with the spell of Poison, and is informed by the arts of DESTRUCTION  
+절망의 투구(Helmet of Despair): 독 주문이 부여되어 있으며, 파괴마법의 기예를 담고 있다.  
   
-Helmet of Precipitous Revelation: engenders Medium Delayed Damage, and is schooled with crafts of ALTERATION  
+갑작스러운 계시의 투구(Helmet of Precipitous Revelation): 중간 정도의 지연 피해를 일으키며, 변화마법의 기예를 담고 있다.  
   
-Helmet of the Tongue of the Wyrm: engenders Medium Fire Damage, and partakes of the excellence of DESTRUCTION  
+고룡의 혀 투구(Helmet of the Tongue of the Wyrm): 중간 정도의 화염 피해를 일으키며, 파괴마법의 탁월함을 지닌다.  
   
-Helmet of the Winding Road:provides castings of the spell Teleport, and gifts its owner with special insight into the disciplines of AXE  
+굽이치는 길의 투구(Helmet of the Winding Road): 순간이동 주문을 시전할 수 있으며, 소유자에게 도끼에 관한 특별한 통찰을 준다.  
   
-Javelin of Joy:provides castings of the spell Medium Cure Health, and gifts its owner with special insight into the disciplines of MYSTICISM  
+기쁨의 투창(Javelin of Joy): 중급 체력 회복 주문을 시전할 수 있으며, 소유자에게 신비마법에 관한 특별한 통찰을 준다.  
   
-Javelin of Heaven’s Teeth: causes Minor Shock Damage, and partakes of the excellence of ILLUSION  
+하늘의 이빨 투창(Javelin of Heaven’s Teeth): 작은 전격 피해를 주며, 환영마법의 탁월함을 지닌다.  
   
-Javelin of Endless Woe: wreaks Rapid, Major Continuous Damage to Target, and is schooled with crafts of MYSTICISM  
+끝없는 비애의 투창(Javelin of Endless Woe): 대상에게 빠르게 큰 지속 피해를 주며, 신비마법의 기예를 담고 있다.  
   
-LongBow of Sweet Airs: casts the spell of Cure Poison, and is schooled with crafts of ALTERATION  
+달콤한 선율의 장궁(LongBow of Sweet Airs): 독 치료 주문을 시전하며, 변화마법의 기예를 담고 있다.  
   
-LongBow of Scars: causes Rapid, Minor Continuous Damage to Target, and gifts its owner with special insight into the disciplines of ALTERATION  
+흉터의 장궁(LongBow of Scars): 대상에게 빠르게 작은 지속 피해를 주며, 소유자에게 변화마법에 관한 특별한 통찰을 준다.  
   
-LongBow of the Unnatural Essence: engenders Medium Poison Damage, and is informed by the arts of DESTRUCTION  
+부자연스러운 정수의 장궁(LongBow of the Unnatural Essence): 중간 정도의 독 피해를 일으키며, 파괴마법의 기예를 담고 있다.  
   
-Longsword of Exposure: causes Minor Poison Damage, and partakes of the excellence of SWIMMING  
+노출의 장검(Longsword of Exposure): 작은 독 피해를 주며, 수영의 탁월함을 지닌다.  
   
-Longsword of the Eye of the Worldt: enchanted with the spell of Detect Spell, and is informed by the arts of ILLUSION  
+세계의 눈 장검(Longsword of the Eye of the Worldt): 주문 탐지 주문이 부여되어 있으며, 환영마법의 기예를 담고 있다.  
   
-Codex Arcana, Volume VIII  
+비전 대전, 제8권  
   
-STUDENTS AND SCHOLAR: Attend our Abjurations!  
-SHOWING DUE PROPRIETY IN THE CUSTODY OF BOOKS  
+학생과 학자들이여, 우리의 경고에 귀 기울이라!  
+책을 보관할 때 지켜야 할 마땅한 예법  
   
-We not only render service to the Emperor in preparing volumes of new books, but also exercise an office of sacred piety when we treat books carefully, and again when we restore them to their proper places and commend them to inviolable custody; that they may rejoice in purity while we have them in our hands, and rest securely when they are restored to their repositories. And surely next to the vestments and engines dedicated to the Emperor’s glory, arcane books deserve to be rightly treated by the battlemage, to which great injury is done so often as they are touched by unclean hands. Wherefore we deem it expedient to warn our students against various negligences, such as might be easily avoided and which do wonderful harm to books.  
+우리는 새 책들을 마련함으로써 황제를 섬길 뿐 아니라, 책을 조심스럽게 다루고 제자리에 돌려놓아 침해받지 않도록 보관함으로써 성스러운 경건의 의무도 행한다. 그리하여 책은 우리 손에 있을 때 깨끗함 속에서 기뻐하고, 서고로 돌아가면 안전하게 쉴 수 있다. 황제의 영광에 바쳐진 의복과 장치 다음으로, 비전의 책들은 전투마법사에게 올바른 대접을 받을 자격이 있다. 더러운 손이 닿을 때마다 책은 큰 해를 입는다. 그러므로 우리는 학생들에게 갖가지 부주의를 경고하는 것이 마땅하다고 여긴다. 쉽게 피할 수 있으면서도 책에는 놀라울 만큼 큰 해를 입히는 부주의들이다.  
   
-Being a partial index of arcane contrivances known to the scholars and alchemists of Battlespire, that these contrivances might more readily be known to all students, and neither abused, nor neglected, nor wasted in their employment.  
+배틀스파이어의 학자들과 연금술사들이 아는 비전 장치의 일부를 정리한 목록이다. 모든 학생이 이 장치들을 더욱 쉽게 알아보고, 사용하면서 남용하거나 방치하거나 낭비하지 않도록 하기 위함이다.  
   
-Longsword of the Noble Flesh:provides castings of the spell Resistance to Poison, and gifts its owner with special insight into the disciplines of BLUNTWEAPON  
+고귀한 육신의 장검(Longsword of the Noble Flesh): 독 저항 주문을 시전할 수 있으며, 소유자에게 둔기에 관한 특별한 통찰을 준다.  
   
-Longsword of Winter’s Winds: causes Minor Frost Damage, and is schooled with crafts of MYSTICISM  
+겨울바람의 장검(Longsword of Winter’s Winds): 작은 냉기 피해를 주며, 신비마법의 기예를 담고 있다.  
   
-Mace of Odious Disorder: engenders Slow, Medium Continuous Damage to Target, and is schooled with crafts of RESTORATION  
+혐오스러운 무질서의 철퇴(Mace of Odious Disorder): 대상에게 느리게 중간 정도의 지속 피해를 일으키며, 회복마법의 기예를 담고 있다.  
   
-Mace of Dancing Fate: wreaks Major Shock Damage, and gifts its owner with special insight into the disciplines of RESTORATION  
+춤추는 운명의 철퇴(Mace of Dancing Fate): 큰 전격 피해를 주며, 소유자에게 회복마법에 관한 특별한 통찰을 준다.  
   
-Mace of Vengeance: wreaks Major Magic Damage, and partakes of the excellence of THAUMATURGY  
+복수의 철퇴(Mace of Vengeance): 큰 마법 피해를 주며, 기적술의 탁월함을 지닌다.  
   
-Pauldrons of Sacred Honor: casts the spell of Medium Shield, and is schooled with crafts of MISSILE  
+성스러운 명예의 견갑(Pauldrons of Sacred Honor): 중급 방어막 주문을 시전하며, 사격의 기예를 담고 있다.  
   
-Pauldrons of the Mischievous Hand: casts the spell of Spell Reflection, and gifts its owner with special insight into the disciplines of MYSTICISM  
+짓궂은 손의 견갑(Pauldrons of the Mischievous Hand): 주문 반사 주문을 시전하며, 소유자에게 신비마법에 관한 특별한 통찰을 준다.  
   
-Pauldrons of the Monkey’s Apprehension: conceives the spell of Detect Enemy, and partakes of the excellence of ILLUSION  
+원숭이의 경계심 견갑(Pauldrons of the Monkey’s Apprehension): 적 탐지 주문을 불러내며, 환영마법의 탁월함을 지닌다.  
   
-Pauldrons of Winter’s Winds: causes Minor Frost Damage, and is informed by the arts of ILLUSION  
+겨울바람의 견갑(Pauldrons of Winter’s Winds): 작은 냉기 피해를 주며, 환영마법의 기예를 담고 있다.  
   
-Short Sword of Final Virtue: wreaks Major Fire Damage, and is informed by the arts of THAUMATURGY  
+마지막 미덕의 소검(Short Sword of Final Virtue): 큰 화염 피해를 주며, 기적술의 기예를 담고 있다.  
   
-Short Sword of the Sunken Gods’ Awakening:provides castings of the spell Summon Horror, and gifts its owner with special insight into the disciplines of RESTORATION  
+가라앉은 신들의 각성 소검(Short Sword of the Sunken Gods’ Awakening): 공포의 존재 소환 주문을 시전할 수 있으며, 소유자에게 회복마법에 관한 특별한 통찰을 준다.  
   
-Short Sword of the Inner Eye: conceives the spell of Resistance to Magic, and partakes of the excellence of AXE  
+내면의 눈 소검(Short Sword of the Inner Eye): 마법 저항 주문을 불러내며, 도끼의 탁월함을 지닌다.  
   
-Short Sword of Vengeance: wreaks Major Magic Damage, and is schooled with crafts of STEALTH  
+복수의 소검(Short Sword of Vengeance): 큰 마법 피해를 주며, 은신의 기예를 담고 있다.  
   
-Codex Arcana, Volume IX  
+비전 대전, 제9권  
   
-STUDENTS AND SCHOLAR: Attend our Abjurations!  
-SHOWING DUE PROPRIETY IN THE CUSTODY OF BOOKS  
+학생과 학자들이여, 우리의 경고에 귀 기울이라!  
+책을 보관할 때 지켜야 할 마땅한 예법  
   
-We not only render service to the Emperor in preparing volumes of new books, but also exercise an office of sacred piety when we treat books carefully, and again when we restore them to their proper places and commend them to inviolable custody; that they may rejoice in purity while we have them in our hands, and rest securely when they are restored to their repositories. And surely next to the vestments and engines dedicated to the Emperor’s glory, arcane books deserve to be rightly treated by the battlemage, to which great injury is done so often as they are touched by unclean hands. Wherefore we deem it expedient to warn our students against various negligences, such as might be easily avoided and which do wonderful harm to books.  
+우리는 새 책들을 마련함으로써 황제를 섬길 뿐 아니라, 책을 조심스럽게 다루고 제자리에 돌려놓아 침해받지 않도록 보관함으로써 성스러운 경건의 의무도 행한다. 그리하여 책은 우리 손에 있을 때 깨끗함 속에서 기뻐하고, 서고로 돌아가면 안전하게 쉴 수 있다. 황제의 영광에 바쳐진 의복과 장치 다음으로, 비전의 책들은 전투마법사에게 올바른 대접을 받을 자격이 있다. 더러운 손이 닿을 때마다 책은 큰 해를 입는다. 그러므로 우리는 학생들에게 갖가지 부주의를 경고하는 것이 마땅하다고 여긴다. 쉽게 피할 수 있으면서도 책에는 놀라울 만큼 큰 해를 입히는 부주의들이다.  
   
-Being a partial index of arcane contrivances known to the scholars and alchemists of Battlespire, that these contrivances might more readily be known to all students, and neither abused, nor neglected, nor wasted in their employment.  
+배틀스파이어의 학자들과 연금술사들이 아는 비전 장치의 일부를 정리한 목록이다. 모든 학생이 이 장치들을 더욱 쉽게 알아보고, 사용하면서 남용하거나 방치하거나 낭비하지 않도록 하기 위함이다.  
   
-ShortBow of the Bile of the Earth: enchanted with the spell of Fire shield, and is informed by the arts of ILLUSION  
+대지의 담즙 단궁(ShortBow of the Bile of the Earth): 화염 방어막 주문이 부여되어 있으며, 환영마법의 기예를 담고 있다.  
   
-ShortBow of Exposure: causes Minor Poison Damage, and gifts its owner with special insight into the disciplines of MYSTICISM  
+노출의 단궁(ShortBow of Exposure): 작은 독 피해를 주며, 소유자에게 신비마법에 관한 특별한 통찰을 준다.  
   
-ShortBow of Saturnine Purpose: wreaks Slow, Major Continuous Damage to Target, and partakes of the excellence of ILLUSION  
+음울한 목적의 단궁(ShortBow of Saturnine Purpose): 대상에게 느리게 큰 지속 피해를 주며, 환영마법의 탁월함을 지닌다.  
   
-Sling of Delight: enchanted with the spell of Major Cure Health, and is informed by the arts of SHORTBLADE  
+즐거움의 투석구(Sling of Delight): 상급 체력 회복 주문이 부여되어 있으며, 단검의 기예를 담고 있다.  
   
-Sling of Fickle Endowment: casts the spell of Confusion, and partakes of the excellence of DESTRUCTION  
+변덕스러운 재능의 투석구(Sling of Fickle Endowment): 혼란 주문을 시전하며, 파괴마법의 탁월함을 지닌다.  
   
-Sling of Riven Stars: engenders Medium Shock Damage, and gifts its owner with special insight into the disciplines of ALTERATION  
+갈라진 별들의 투석구(Sling of Riven Stars): 중간 정도의 전격 피해를 일으키며, 소유자에게 변화마법에 관한 특별한 통찰을 준다.  
   
-Spear of Snares and Springes: causes Minor Delayed Damage, and is informed by the arts of ILLUSION  
+올가미와 덫의 창(Spear of Snares and Springes): 작은 지연 피해를 주며, 환영마법의 기예를 담고 있다.  
   
-Spear of the Fox’s Footfall: conceives the spell of Running, and partakes of the excellence of HANDTOHAND  
+여우의 발걸음 창(Spear of the Fox’s Footfall): 달리기 주문을 불러내며, 맨손 격투의 탁월함을 지닌다.  
   
-Spear of the Rain of Fire: causes Minor Fire Damage, and is schooled with crafts of MYSTICISM  
+불비의 창(Spear of the Rain of Fire): 작은 화염 피해를 주며, 신비마법의 기예를 담고 있다.  
   
-Staff of the Architect’s Gaze: conceives the spell of Vampiric Drain, and gifts its owner with special insight into the disciplines of RESTORATION  
+건축가의 시선 지팡이(Staff of the Architect’s Gaze): 흡혈 주문을 불러내며, 소유자에게 회복마법에 관한 특별한 통찰을 준다.  
   
-Staff of Dancing Fate: wreaks Major Shock Damage, and is informed by the arts of THAUMATURGY  
+춤추는 운명의 지팡이(Staff of Dancing Fate): 큰 전격 피해를 주며, 기적술의 기예를 담고 있다.  
   
-Staff of High Purpose: casts the spell of Jumping, and is schooled with crafts of LONGBLADE  
+고귀한 목적의 지팡이(Staff of High Purpose): 도약 주문을 시전하며, 장검의 기예를 담고 있다.  
   
-WarAxe of the Shrew: engenders Medium Magic Damage, and is schooled with crafts of ALTERATION  
+말괄량이의 전쟁도끼(WarAxe of the Shrew): 중간 정도의 마법 피해를 일으키며, 변화마법의 기예를 담고 있다.  
   
-WarAxe of Riven Stars: engenders Medium Shock Damage, and partakes of the excellence of DESTRUCTION  
+갈라진 별들의 전쟁도끼(WarAxe of Riven Stars): 중간 정도의 전격 피해를 일으키며, 파괴마법의 탁월함을 지닌다.  
   
-WarAxe of the Tears of the Shark: causes Slow, Minor Continuous Damage to Target, and is informed by the arts of DESTRUCTION
+상어의 눈물 전쟁도끼(WarAxe of the Tears of the Shark): 대상에게 느리게 작은 지속 피해를 주며, 파괴마법의 기예를 담고 있다.
 
 [출처](https://www.imperial-library.info/content/codex-arcana)
 
@@ -1122,41 +1127,41 @@ ID: ext-3e7972ec1e51a4a6520d
 
 ID: ext-7e754dbdab9cad7e0029
 
-Posting of The Hunt, Excerpt 1  
+사냥 포고문, 발췌 1  
   
-The Posting of the Hunt.  
+사냥의 포고문.  
   
-Let no man say before a witness that the Hunt has not been called, nor the Rites declared, or the Ancient Offices observed.  
+어느 누구도 증인 앞에서 사냥이 선포되지 않았다거나, 의례가 공표되지 않았다거나, 옛 절차가 준수되지 않았다고 말하지 못하게 하라.  
   
-The Huntsman and his Hounds shall chase and harry the Hare as the ritual demands.  
+사냥꾼과 사냥개들은 의식이 요구하는 대로 토끼를 쫓고 몰아붙여야 한다.  
   
-The Hunt begins before the green crystal reflections of the Chapel of the Innocent Quarry. The Spear of Bitter Mercy is displayed, the Offices of the Hunt are recited: the Drag, the Chase, the Call, and the View to the Kill.  
+사냥은 무고한 사냥감의 예배당에 비치는 초록 수정의 빛 앞에서 시작된다. 쓰라린 자비의 창을 내보이고, 사냥의 절차를 낭송한다. 몰이, 추격, 소집, 그리고 사냥의 검시다.  
   
-Posting of The Hunt, Excerpt 2  
+사냥 포고문, 발췌 2  
   
-The Drag is for the Lesser Dogs, to startle out the Hare.  
+몰이는 하급 사냥개들의 몫이다. 토끼를 놀라게 하여 뛰쳐나오게 한다.  
   
-The Chase is for the Greater Hounds to drive the Hare before them.  
+추격은 상급 사냥개들의 몫이다. 토끼를 앞에 두고 몰아간다.  
   
-On the Call the Greater Hounds trap the Hare and summon the Huntsmen for the kill, with the Spear of Bitter Mercy.  
+소집 단계에서 상급 사냥개들은 토끼를 가두고, 쓰라린 자비의 창으로 죽음을 내리도록 사냥꾼들을 부른다.  
   
-Last is the View. The Huntsman rings the bell to call the Master to view his kill.  
+마지막은 검시다. 사냥꾼은 종을 울려 주인을 부르고 자신이 잡은 사냥감을 보여 준다.  
   
-Then is the bounty bestowed, and the victorious huntsman calls the new Hunt.  
+그런 다음 포상이 내려지고, 승리한 사냥꾼이 새로운 사냥을 선포한다.  
   
-To name a Wild Hunt is a grand and grave right indeed. All but the High Daedra Lords are prey to the potent Spear of Bitter Mercy. It is a terrible weapon, and must not be removed from the Grounds of the Ritual Hunt.  
+와일드 헌트를 지명하는 권리는 실로 위대하고도 중대한 권리다. 고위 데이드라 군주들을 제외한 모든 존재가 강력한 쓰라린 자비의 창의 먹잇감이 된다. 그것은 무시무시한 무기이므로, 의식 사냥의 경내 밖으로 가져가서는 안 된다.  
   
-Posting of The Hunt, Excerpt 3  
+사냥 포고문, 발췌 3  
   
-The Hare is granted one slim chance for escape.  
+토끼에게는 도망칠 수 있는 한 가닥의 희망이 주어진다.  
   
-Six keys in the grounds can open the way into the Horned Temple and away to elude the Huntsman and his Spear.  
+경내에 있는 여섯 열쇠로 뿔 달린 사원으로 통하는 길을 열면, 사냥꾼과 그의 창을 피해 멀리 달아날 수 있다.  
   
-Though no Hare has done this, the forms must be observed. To cheat the Hare of the keys is an unforgivable betrayal of the Law of the Hunt.  
+어떤 토끼도 이를 해낸 적은 없지만, 형식은 지켜져야 한다. 토끼를 속여 열쇠를 빼앗는 것은 사냥의 법에 대한 용서할 수 없는 배신이다.  
   
-Posting of The Hunt, Excerpt 4  
+사냥 포고문, 발췌 4  
   
-In the Ritual of the Hunt, the Huntsmen are protected from all harm, from all weapons, and from sorceries of all types. Wise is the huntsman, however, that fears the bite of his own Spear, for a single touch of the Spear of Bitter Mercy means death for Hare and Huntsman alike.
+사냥의 의식에서 사냥꾼들은 모든 위해와 모든 무기, 온갖 종류의 마법으로부터 보호받는다. 하지만 자신의 창에 물릴 것을 두려워하는 사냥꾼이야말로 현명하다. 쓰라린 자비의 창에 한 번만 닿아도 토끼와 사냥꾼 모두 죽음을 맞기 때문이다.
 
 [출처](https://www.imperial-library.info/content/posting-hunt-excerpts)
 
@@ -1166,15 +1171,15 @@ In the Ritual of the Hunt, the Huntsmen are protected from all harm, from all we
 
 ID: ext-84f9e0765cbff7471013
 
-We are heartened by your success in the Hunt.  
+그대가 사냥에서 거둔 성공에 우리는 힘을 얻었다.  
   
-Seek Lord Imago within his castle in the far north of Havok Wellhead. He knows of your coming. But he may place obstacles in your path to test your merit and sincerity.  
+하복 웰헤드의 먼 북쪽에 있는 성으로 가서 이마고 경을 찾아라. 그는 그대가 올 것을 알고 있다. 하지만 그대의 자질과 진심을 시험하려고 앞길에 장애물을 놓을지도 모른다.  
   
-The lands of Faydra’s clan lie to the west. The lands of Xivilai’s clan lie to the east. These places are not open to the Dremora, and are a mystery to us. However, it may be that a cunning raider like yourself with find somethings of use there.  
+페이드라 일족의 땅은 서쪽에 있다. 지빌라이 일족의 땅은 동쪽에 있다. 드레모라는 그곳에 들어갈 수 없으므로, 우리에게도 그 땅은 수수께끼다. 그래도 그대처럼 영리한 침입자라면 그곳에서 쓸 만한 것을 찾아낼 수도 있을 것이다.  
   
-To leave this realm you must enter the gate within Imago’s castle. There are three keys to this gate. One I know is in the keeping of Lord Imago. The other two keys are, I presume, in the hands of Dagon’s favorites, Faydra and Xivilai. This gate will bear you to the Hunting Lodge of Mehrunes Dagon, where your friend is held.  
+이 영역을 떠나려면 이마고의 성 안에 있는 관문으로 들어가야 한다. 관문에는 열쇠가 세 개 필요하다. 그중 하나는 이마고 경이 가지고 있는 것으로 안다. 나머지 두 개는 데이건의 총애를 받는 페이드라와 지빌라이의 손에 있을 것이라 짐작한다. 이 관문은 그대를 메이룬스 데이건의 사냥 별장으로 데려갈 것이다. 그대의 친구가 붙잡혀 있는 곳이다.  
   
-We wish we could do more to help you. The matter rests now with you, and with the Tides of Fate.
+더 도울 수 있다면 좋으련만. 이제 모든 것은 그대와 운명의 물결에 달렸다.
 
 [출처](https://www.imperial-library.info/content/instructions-after-hunt)
 
@@ -1184,31 +1189,31 @@ We wish we could do more to help you. The matter rests now with you, and with th
 
 ID: ext-ff2405442ef25d570192
 
-[The writing on the parchment appears to be a hasty transcription, perhaps from dictation, or copied from a longer work.]  
+[양피지의 글씨는 급히 받아 적은 것처럼 보인다. 누군가 불러 주는 말을 적었거나, 더 긴 저작에서 옮겨 쓴 것일지도 모른다.]  
   
-The Posting of the Hunt  
+사냥의 포고문  
   
-Let no man say before a witness that the Hunt has not been called, nor the Rites declared, or the Ancient Offices observed.  
+어느 누구도 증인 앞에서 사냥이 선포되지 않았다거나, 의례가 공표되지 않았다거나, 옛 절차가 준수되지 않았다고 말하지 못하게 하라.  
   
-The Ritual of the Innocent Quarry, also called the Wild Hunt, is an ancient rite drawing magical energy from the powerful magica stream that engulfs this realm. The creators and times of the rituals are long forgotten. But followed properly, the rite brings great power and prestige to the Huntsman.  
+와일드 헌트라고도 하는 무고한 사냥감의 의식은, 이 영역을 휩싸는 강력한 매지카의 흐름에서 마법 에너지를 끌어오는 고대의 의례다. 누가 언제 이 의식을 만들었는지는 오래전에 잊혔다. 그러나 올바르게 행하면 사냥꾼에게 큰 힘과 명예를 안겨 준다.  
   
-The ritual pits the all-powerful Huntsmen and their Greater and Lesser Dogs against the pitiful and doomed Innocent Quarry, called by tradition the Hare, after the mortal creature of human hunts. At once, the Huntsman is transported by the exquisite thrill and glory of his might and dominion over his helpless prey, and at the same time touched by the tragic, noble, and ultimately futile plight of the Innocent Quarry. In the highest aesthetic realization of the ritual, the ecstatic rapture of the kill is balanced by the Huntsman’s identification with the sadness and despair of the Innocent Quarry. As in pieces the body of the innocent Hare is torn, the Huntsman reflects on the tragic imbalances of power and the cruel injustices of the world.  
+이 의식에서는 전능한 사냥꾼들과 그들의 상급·하급 사냥개들이, 가련하고 파멸할 운명인 무고한 사냥감과 맞선다. 이 사냥감은 인간의 사냥에서 쫓기는 필멸의 짐승을 본떠 전통적으로 토끼라 불린다. 사냥꾼은 무력한 사냥감을 지배하는 자신의 힘이 안겨 주는 절묘한 전율과 영광에 도취되는 동시에, 무고한 사냥감이 처한 비극적이고 고결하며 결국에는 헛될 수밖에 없는 처지에 마음이 움직인다. 의식이 미적으로 가장 완벽하게 구현될 때, 살해의 황홀한 희열은 사냥감의 슬픔과 절망에 대한 사냥꾼의 공감과 균형을 이룬다. 무고한 토끼의 육신이 조각조각 찢길 때, 사냥꾼은 힘의 비극적인 불균형과 세상의 잔혹한 불의를 돌아본다.  
   
-As the Hunt begins, the Lesser Dogs assemble before the green crystal reflections of the Chapel of the Innocent Quarry. Inside the Chapel, the Huntsmen, the Greater Dogs, and the Master of the Hunt perform the rites that initiate and sanctify the Huntsmen, the Hunt, and the Innocent Quarry. Then the Huntsman emerges from the Chapel, displays the Spear of Bitter Mercy, and recites the Offices of the Hunt. The Offices describe explains the laws and conditions of the four stages of the Hunt: the Drag, the Chase, the Call, and the View to the Kill.  
+사냥이 시작되면 하급 사냥개들이 무고한 사냥감의 예배당에 비치는 초록 수정의 빛 앞에 모인다. 예배당 안에서는 사냥꾼들과 상급 사냥개들, 사냥의 주인이 사냥꾼과 사냥, 무고한 사냥감을 의식에 들이고 신성하게 만드는 의례를 행한다. 그런 다음 사냥꾼이 예배당에서 나와 쓰라린 자비의 창을 내보이고 사냥의 절차를 낭송한다. 절차는 사냥의 네 단계, 곧 몰이와 추격과 소집, 사냥의 검시에 적용되는 법과 조건을 설명한다.  
   
-Stage One — The Drag, in which the Lesser Dogs drag the ground to flush out the Hare.  
+제1단계 — 몰이. 하급 사냥개들이 땅을 훑으며 토끼를 몰아낸다.  
   
-Stage Two — The Chase, in which the Greater Hounds drive the Hare before them.  
+제2단계 — 추격. 상급 사냥개들이 토끼를 앞에 두고 몰아간다.  
   
-Stage Three — The Call, in which the Greater Hounds trap the Hare and summon the Huntsmen for the kill.  
+제3단계 — 소집. 상급 사냥개들이 토끼를 가두고, 죽음을 내리도록 사냥꾼들을 부른다.  
   
-Stage Four — The View, in which the Huntsman makes the kill with the ritual Spear of Bitter Mercy, and calls upon the Master of the Hunt to view the kill by ringing the town bell. The Master of the Hunt then bestows the Bounty upon the Huntsman Bold who has wielded the Spear of Bitter Mercy in the kill. The Master of the Hunt also calls upon the Huntsman Bold to name the next Hare for the next Hunt (though the Huntsman Bold himself may not participate in the next Hunt).  
+제4단계 — 검시. 사냥꾼이 의식용 쓰라린 자비의 창으로 사냥감을 죽인 뒤, 마을 종을 울려 사냥의 주인을 불러 그 사냥감을 살피게 한다. 사냥의 주인은 창을 휘둘러 사냥감을 죽인 용맹한 사냥꾼에게 포상을 내린다. 또한 그에게 다음 사냥에서 쫓을 토끼를 지명하도록 한다. 단, 그 용맹한 사냥꾼 자신은 다음 사냥에 참가할 수 없다.  
   
-The Offices of the Hunt, which the Huntsmen, Master, and Hounds are solemnly sworn to honor, detail the practices and conditions of the Hunt. These practices and conditions, also known as the Law, strictly define all details of the Hunt, such as how many Hounds of each sort may participate, how the Spear of Bitter Mercy may be wielded, and so forth. In addition, the Law states that the Hare must have a genuine chance to escape the Hunt, no matter how slim. In practice, this condition has been defined as the availability of six keys, which, if gathered together in the Temple of Daedric Rites, permit the Hare to teleport away from the Hunt, and so elude the Huntsman and his Spear. It is inconceivable, of course, that the Hare might actually discover the keys and escape, but the forms must be observed, and tampering with the keys or cheating the Hare of a genuine chance of finding or using the keys is a shameful and unforgivable betrayal of the Law of the Hunt.  
+사냥꾼들과 주인, 사냥개들이 엄숙히 준수하기로 맹세한 사냥의 절차에는 사냥의 관행과 조건이 상세히 담겨 있다. 법이라고도 불리는 이 관행과 조건은 각 종류의 사냥개가 몇 마리까지 참가할 수 있는지, 쓰라린 자비의 창을 어떻게 휘둘러야 하는지 등 사냥의 모든 세부 사항을 엄격히 규정한다. 또한 법은 아무리 희박하더라도 토끼에게 사냥에서 벗어날 진정한 기회가 있어야 한다고 명시한다. 실제로 이 조건은 여섯 열쇠를 구할 수 있어야 한다는 뜻으로 정해졌다. 이 열쇠들을 모두 모아 데이드라 의례의 사원으로 가져가면, 토끼는 순간이동으로 사냥을 벗어나 사냥꾼과 그의 창을 피할 수 있다. 물론 토끼가 실제로 열쇠들을 찾아 도망친다는 것은 상상도 할 수 없는 일이다. 그러나 형식은 지켜져야 한다. 열쇠에 손을 대거나, 속임수로 토끼가 열쇠를 찾아 사용해 볼 진정한 기회를 빼앗는 것은 사냥의 법에 대한 수치스럽고 용서할 수 없는 배신이다.  
   
-The Ritual of the Hunt grants the Huntsmen protection from all forms of attack, including mortal and immortal weapons, and sorceries of all schools. Huntsmen are cautioned, however, that the ritual does not protect the Huntsman from the potent energies of his own Spear, and cautions against reckless wielding of the Spear in close melee, darkness, or other dangerous circumstances, for a single touch of the Spear of Bitter Mercy means instant and certain death for innocent Hare or fellow Huntsman alike.  
+사냥의 의식은 사냥꾼들을 모든 형태의 공격으로부터 보호한다. 필멸자와 불멸자의 무기, 모든 학파의 마법도 여기에 포함된다. 하지만 사냥꾼들은 의식이 자신의 창에 깃든 강력한 에너지로부터는 자신들을 보호하지 않는다는 경고를 받는다. 따라서 근접전이나 어둠 속, 그 밖의 위험한 상황에서 창을 무모하게 휘둘러서는 안 된다. 쓰라린 자비의 창은 단 한 번만 닿아도 무고한 토끼와 동료 사냥꾼 모두에게 즉각적이고 확실한 죽음을 가져오기 때문이다.  
   
-The right to name a Wild Hunt is a grand and grave right indeed, as all but the High Daedra Lords are vulnerable to the potent sorceries of the Spear of Bitter Mercy. The Spear itself is therefore a terrible weapon, and it is forbidden to remove it from the Grounds of the Ritual Hunt.
+와일드 헌트를 지명하는 권리는 실로 위대하고도 중대한 권리다. 고위 데이드라 군주들을 제외한 모든 존재가 쓰라린 자비의 창의 강력한 마법에 취약하기 때문이다. 그러므로 창 자체가 무시무시한 무기이며, 의식 사냥의 경내 밖으로 가져가는 것은 금지된다.
 
 [출처](https://www.imperial-library.info/content/posting-hunt)
 
@@ -1218,30 +1223,30 @@ The right to name a Wild Hunt is a grand and grave right indeed, as all but the 
 
 ID: ext-2bcf5e7e51a539f1a624
 
-[[The pages of the BOOK OF LIFE AND SERVICE overflow with obscure mystical pronouncements and prophecies, few of which are comprehensible, much less relevant to your situation. However, the following two excerpts seem of possible interest. The first suggests classification of entities to be encountered here on the Soul Cairn. The second may be an invocation of command.]]  
+[[『생명과 봉사의 서』는 알쏭달쏭한 신비의 선언과 예언으로 가득하다. 이해할 만한 것은 거의 없으며, 그대의 상황과 관련된 것은 더더욱 드물다. 그래도 다음 두 발췌문은 관심을 가질 만해 보인다. 첫 번째는 이 소울 케언에서 마주칠 존재들의 분류를 설명하는 듯하다. 두 번째는 명령을 내리는 주문일지도 모른다.]]  
   
-The Ranks of the Blessed  
+축복받은 자들의 서열  
   
-Blessed are the Bonemen, for they serve without self in spirit forever.  
-Blessed are the Mistmen, for they blend in the glory of the transcendent spirit.  
-Blessed are the Wrathmen, for they render their rage unto the ages.  
-Blessed are the Masters, for they bridge the past and span the future.  
+본맨은 복되도다. 영원히 자아를 버린 영으로 섬기기 때문이다.  
+미스트맨은 복되도다. 초월한 영의 영광 속에 하나가 되기 때문이다.  
+래스맨은 복되도다. 자신의 분노를 영겁에 바치기 때문이다.  
+주인들은 복되도다. 과거를 잇고 미래에 걸쳐 있기 때문이다.  
   
-The Litany of Service  
+봉사의 연도  
   
-The Boneman’s Oath  
+본맨의 맹세  
   
-We die.  
-We pray.  
-To live.  
-We serve.  
+우리는 죽는다.  
+우리는 기도한다.  
+살기 위하여.  
+우리는 섬긴다.  
   
-The Master’s Voice  
+주인의 목소리  
   
-You swore.  
-To Serve.  
-Your Lord.  
-Commands.
+너희는 맹세했다.  
+섬기겠노라고.  
+너희 주인이.  
+명령한다.
 
 [출처](https://www.imperial-library.info/content/book-life-and-service)
 
@@ -1251,17 +1256,17 @@ Commands.
 
 ID: ext-f87d1e6eaa832ce0b2e3
 
-[[You see images of five coffins, each with a short verse. Each coffin lid shows a single word:]]  
+[[각각 짧은 운문이 붙어 있는 다섯 관의 그림이 보인다. 관뚜껑마다 단어 하나씩 적혀 있다.]]  
   
-First coffin: Grave  
+첫 번째 관: 무덤(Grave)  
   
-Second coffin: Life  
+두 번째 관: 생명(Life)  
   
-Third coffin: Boat  
+세 번째 관: 배(Boat)  
   
-Fourth coffin: Pig  
+네 번째 관: 돼지(Pig)  
   
-Fifth coffin: Coffin
+다섯 번째 관: 관(Coffin)
 
 [출처](https://www.imperial-library.info/content/soul-cairn-coffin-verses-inscription)
 
@@ -1271,7 +1276,7 @@ Fifth coffin: Coffin
 
 ID: ext-bbc24b808b31eae13428
 
-[[A lengthy inscription identifies one of the Master’s retainers who came to the Soul Cairn to die and be reborn in his Eternal Service.]]
+[[긴 비문에는 주인의 수행원 한 사람에 관한 기록이 있다. 그는 죽은 뒤 주인을 영원히 섬기는 존재로 다시 태어나기 위해 소울 케언에 왔다.]]
 
 [출처](https://www.imperial-library.info/content/soul-cairn-retainer-inscription)
 
@@ -1281,17 +1286,17 @@ ID: ext-bbc24b808b31eae13428
 
 ID: ext-a55df2b68dd93298c4a2
 
-[[A stained glass window depicts, to one side, many people laboring hard, burdened with great loads, and suffering the agonies of war and death. On the other side the people put down their burdens and are transfigured by a blazing green light which strips them of their tattered soiled garments and leaves them in a perfect splendor of body and spirit. Beneath the window is a simple inscription:]]  
+[[스테인드글라스 창의 한쪽에는 많은 사람이 무거운 짐을 짊어진 채 고된 노동을 하며, 전쟁과 죽음의 고통을 겪는 모습이 그려져 있다. 다른 쪽에서는 사람들이 짐을 내려놓고 눈부신 초록빛으로 변모한다. 빛은 더럽고 해진 옷을 벗겨 내어, 육신과 영혼이 완벽하게 빛나는 모습만을 남긴다. 창 아래에는 간단한 비문이 있다.]]  
   
-THE SOUL CAIRN  
+소울 케언  
   
-Once they struggled, hammered, cried  
+한때 그들은 몸부림치고 망치질하고 울었으며  
   
-Fought for justice, honor, pride.  
+정의와 명예와 긍지를 위해 싸웠다.  
   
-Now from time and tide released  
+이제 시간과 세상의 흐름에서 풀려나  
   
-They guard and serve in silent peace
+고요한 평화 속에 지키고 섬긴다.
 
 [출처](https://www.imperial-library.info/content/soul-cairn-stained-glass-window-note)
 
@@ -1301,13 +1306,13 @@ They guard and serve in silent peace
 
 ID: ext-94ec47f36cafb38ea051
 
-Star Galley Crib Opening Mechanism  
+스타 갤리 요람 개방 장치  
   
-Operation without Permission of His Honor, The Venerable Artificer, is Expressly Forbidden  
+존경하는 장인 각하의 허락 없이 작동하는 것을 엄금함  
   
-Gaze Upon this Device and its Subtle Workings, and Tremble with Wonder!  
+이 장치와 그 정교한 작동 원리를 바라보고 경이로움에 떨지어다!  
   
-By the grace and gifts of Clarentavious Valisious, thus the Star Galley is Made Fast and Secured Thereby.
+클라렌타비우스 발리시오스의 은혜와 재능으로, 스타 갤리는 이처럼 단단히 고정되어 안전히 보호된다.
 
 [출처](https://www.imperial-library.info/content/star-galley-crib-opening-mechanism-note)
 
@@ -1317,9 +1322,9 @@ By the grace and gifts of Clarentavious Valisious, thus the Star Galley is Made 
 
 ID: ext-4e095c2cb3f5f030846c
 
-Star Galley Crib  
+스타 갤리의 요람  
   
-No Admittance
+출입 금지
 
 [출처](https://www.imperial-library.info/content/star-galley-crib-note)
 
@@ -1329,17 +1334,17 @@ No Admittance
 
 ID: ext-d0ad30afd83089a52b8c
 
-[[There is a short inscription in some sort of cipher, followed by these lines:]]  
+[[어떤 암호로 쓰인 짧은 비문 뒤에 다음 구절이 이어진다.]]  
   
-Spear of Bitter Mercy  
+쓰라린 자비의 창  
   
-Lightning in the hand  
+손안의 번개  
   
-My point bites deep  
+내 촉은 깊이 파고들고  
   
-I end the chase  
+나는 추격을 끝낸다  
   
-Even the mightiest are unmade by my touch.
+가장 강대한 자조차 내 손길에 무너진다.
 
 [출처](https://www.imperial-library.info/content/spear-bitter-mercy-inscription)
 
@@ -1349,21 +1354,21 @@ Even the mightiest are unmade by my touch.
 
 ID: ext-5ac3c33dc521810d3d53
 
-[The pages of the BOOK OF REST AND ENDINGS are filled with obscure bits of cult mumbo-jumbo.]  
+[『안식과 종말의 서』의 책장들은 알아듣기 힘든 밀교의 잡설로 가득하다.]  
   
-The Ritual for Ending Wrathmen  
+래스맨을 끝내는 의식  
   
-From fifty Fathers  
+쉰 아버지에게서  
   
-Frozen in slavepast  
+노예였던 과거에 얼어붙은 자를  
   
-Rip from the wraithloom  
+망령의 베틀에서 찢어 내고  
   
-Sunder the lifeweave  
+생명의 직물을 끊어라  
   
-Lock tight in earthgrip  
+대지의 손아귀에 단단히 가두고  
   
-Hold firm in gravefast
+무덤의 결박 속에 굳게 붙들어라
 
 [출처](https://www.imperial-library.info/content/book-rest-and-endings)
 
@@ -1373,23 +1378,23 @@ Hold firm in gravefast
 
 ID: ext-9cb02ea71d6096f40a0b
 
-Like many notes in Battlespire, this book did not have an official, in-game title. It’s current title (“Password Notes”) was chosen by Lady Nerevar based on its contents.  
+[수록 안내: 배틀스파이어의 다른 여러 쪽지처럼 이 글에도 공식적인 게임 내 제목은 없습니다. 현재 제목인 '암호 쪽지'는 레이디 네레바가 내용을 바탕으로 붙였습니다.]  
   
-Password Note 1  
+암호 쪽지 1  
   
-[[Scrawled on a scrap of paper in a forceful feminine hand is what appears to be a phonetic transcription of a code in Daedric: the three letters jeb, meht, & quam:]]  
+[[종잇조각에 힘 있는 여성의 필체로 휘갈겨 쓴 글은, 데이드라 암호인 세 글자 jeb, meht, quam을 소리 나는 대로 옮겨 적은 것처럼 보인다.]]  
   
 djeh meh kw  
   
-Password Note 2  
+암호 쪽지 2  
   
-[scawled on a piece of linen torn from a drape]  
+[커튼에서 찢어 낸 아마포 조각에 휘갈겨 쓴 글]  
   
 Zyr = Zenaide = Berk  
   
-Password Note 3  
+암호 쪽지 3  
   
-[scawled on a piece of linen torn from a drape]  
+[커튼에서 찢어 낸 아마포 조각에 휘갈겨 쓴 글]  
   
 Meht = Gatanas = Memasgi
 
@@ -1401,17 +1406,17 @@ Meht = Gatanas = Memasgi
 
 ID: ext-3a0f63be9a4116c914f2
 
-[beneath this passage from THE WATERS OF OBLIVION someone has scrawled a comment in blood; the script is still damp]  
+[『오블리비언의 물』에서 발췌한 이 구절 아래에 누군가 피로 논평을 휘갈겨 놓았다. 글씨가 아직 축축하다.]  
   
-An hundred and twenty numbered ages in the void that fated folk had grown deep-schooled in evil. Then the Bright Gods resolved to punish those faithless spirits, and shatter the unruly caitiffs, those huge, unholy scathers, loathsome to the Light. They repented exceedingly that they had gazed upon Oblivion, and seen there the first of dark kin, and welcomed them as brothers and sisters.  
+공허에서 헤아려 백스무 시대가 흐르는 동안, 운명 지어진 그 무리는 악에 깊이 통달하였다. 그러자 빛나는 신들은 신의를 저버린 그 영혼들을 벌하고, 빛이 혐오하는 거대하고 불경한 파괴자들, 그 다스릴 수 없는 비열한 자들을 산산이 부수기로 결의하였다. 신들은 오블리비언을 바라보고 그곳에서 최초의 어두운 종족을 발견하여 형제자매로 맞아들인 일을 더없이 후회하였다.  
   
-The Principalities of Victory beheld how great was the wickedness of the wayward spirits, and saw that they were bold in sin and full of wiles. They resolved then to chasten the tribes of daedra, and smite darkkind with hammer and hand.  
+승리의 권세들은 빗나간 영혼들의 사악함이 얼마나 큰지 보았으며, 그들이 죄악에 대담하고 간계로 가득함을 알았다. 그리하여 데이드라 부족들을 징계하고, 망치와 손으로 어둠의 종족을 치기로 결의하였다.  
   
-But ever shall Darkness contest the Light, and great were the Powers that breathed the void and laid waste upon one another, and no oath might bind them, so deep were they in envy and perfidy. For once the portals are opened, who shall shut them upon the rising tide?  
+그러나 어둠은 영원히 빛에 맞서리라. 공허를 호흡하며 서로를 황폐하게 만든 권능들은 위대하였고, 질투와 배신에 너무 깊이 빠져 있었기에 어떤 맹세도 그들을 묶지 못하였다. 한번 차원문이 열리면, 밀려드는 조류 앞에서 누가 그것을 닫을 수 있겠는가?  
   
-[the comment]  
+[논평]  
   
-Crap!!! Where do they GET such silly ideas?
+개소리!!! 대체 어디서 이런 멍청한 생각을 주워 오는 거야?
 
 [출처](https://www.imperial-library.info/content/battlespire-waters-oblivion)
 
@@ -1421,9 +1426,9 @@ Crap!!! Where do they GET such silly ideas?
 
 ID: ext-768c1a54babf50fc756d
 
-This text snippet appeared exclusively in the Battlespire Athaneum.  
+[수록 안내: 이 짧은 발췌문은 배틀스파이어 아테네움에만 실렸습니다.]  
   
-The Emperor questioned the heroes closely. One said that, when struck by the enchanted sword, Dagon appeared to have been sucked away and compressed into an ever-smaller volume, and then to have disappeared. The Emperor then inquired among his counselors how long we might be free of the Prince of Destruction. Their answers were various, hopeful, and unpersuasive. ‘You have done all that might be done, sighed the Emperor, but Oblivion cannot long hold Dagon, and when he returns, he surely will count us among his most-cherished enemies.’
+황제는 영웅들에게 자세히 물었다. 한 사람이 말하기를, 마법이 깃든 검에 맞은 데이건은 어디론가 빨려 들어가듯 점점 더 작은 부피로 압축되다가 사라졌다고 했다. 이어 황제는 고문들에게 우리가 얼마나 오래 파괴의 군주에게서 벗어나 있을 수 있는지 물었다. 대답은 제각각이었고 희망적이었으나 설득력은 없었다. 황제는 한숨을 쉬며 말했다. “그대들은 할 수 있는 모든 일을 다 했소. 그러나 오블리비언도 데이건을 오래 붙들지는 못할 것이오. 그가 돌아오면 분명 우리를 가장 아끼는 원수들 가운데 하나로 여길 것이오.”
 
 [출처](https://www.imperial-library.info/content/private-correspondence-julianos-cennan-chamberlain-uriel-septimu)
 
@@ -1433,22 +1438,20 @@ The Emperor questioned the heroes closely. One said that, when struck by the enc
 
 ID: ext-d905ba71ed3d0cdd790f
 
-Like many notes in Battlespire, this book did not have an official, in-game title. It’s current title (“Note to Jaciel”) was chosen by Lady Nerevar based on its contents.  
+[수록 안내: 배틀스파이어의 다른 여러 쪽지처럼 이 글에도 공식적인 게임 내 제목은 없습니다. 현재 제목은 레이디 네레바가 내용을 바탕으로 붙였습니다. 원문은 게임 데이터 파일에서 발견된 그대로 재현되어 있습니다. 여기에 나오는 '데야니'는 데야니라로 추정되지만, 마지막 두 글자가 빠진 이유는 알려져 있지 않습니다.]  
   
-This book has been reproduced exactly as it was found in the game’s data files. The “Deyani” mentioned here is likely Deyanira, though I do not know why the last two letters were left off.  
+[[여러 쪽지 가운데 다음과 같은 손으로 쓴 쪽지를 발견한다.]]  
   
-[[Among a group of notes you find the following hand-written note:]]  
+자시엘에게.  
   
-Jaciel —  
+시듀서들 일부가 반영의 예배당에서 모이고 있다는 것을 알고 있나요? 내가 환영받지 못한다는 느낌이 분명히 들었어요. 이 새로 들어온 자들이 다른 때에도 은밀하고 수상하게 행동하는 것을 보아서 걱정돼요.  
   
-Are you aware that some of the Seducers have been meeting in the Chapel of Reflections? I felt distinctly that I was not welcome. I have seen other secretive and furtive behavior from these recruits that makes me anxious.  
+당신이 주인 없는 이 데이드라들을 수행원으로 받아들였다는 건 알아요. 사실 내가 그들의 사정을 들어주라고 당신에게 적극 권했지요. 그들을 보호해 주는 당신은 더없이 관대하고, 오랜 기예와 솜씨를 가진 전사들을 받아들이는 것은 현명한 일이에요. 하지만 충성심이 이렇게 의심스러운 이들을 계속 두는 것이 지혜로운지 의문이 들기 시작했어요. 어쩌면 우리가 감당할 수 없는 위험일지도 몰라요.  
   
-I know you have accepted these Lordless Daedra as retainers. In fact, I strongly advocated their case to you. You are most generous in affording them protection, and shrewd in recruiting warriors of ancient craft and skill. But I begin to doubt the wisdom of retaining agents of such doubtful loyalty. Perhaps this is a risk we cannot afford.  
+시간이 나는 대로 이 일에 관해 나와 이야기해 주세요.  
   
-Please speak with me about this at your earliest convenience.  
-  
-Love,  
-Deyani
+사랑을 담아,  
+데야니
 
 [출처](https://www.imperial-library.info/content/note-jaciel)
 
@@ -1458,13 +1461,13 @@ Deyani
 
 ID: ext-33431114925252baa952
 
-[a neatly penned message on a small piece of paper, many times folded, and signed in a bold, formal hand]  
+[여러 번 접은 작은 종이에 단정하게 쓴 전갈이며, 힘 있고 격식 있는 필체로 서명되어 있다.]  
   
-Read this and let it be judged fair, nor doubted.  
+이 글을 읽는 자는 이를 정당한 것으로 여기고 의심하지 말라.  
   
-The bearer wears the form of Lomegan Mariel, Imperial Secretary, but is indeed Sirran Angada. Sirran Angada enjoys my countenance, and speaks with my voice.  
+이 편지를 지닌 자는 제국 서기관 로메간 마리엘의 모습을 하고 있으나, 실은 시란 앙가다다. 시란 앙가다는 나의 총애를 받으며, 나를 대신하여 말한다.  
   
-Jagar Tharn
+재거 탄
 
 [출처](https://www.imperial-library.info/content/jagar-tharns-letter)
 
@@ -1474,43 +1477,43 @@ Jagar Tharn
 
 ID: ext-70e46937b444fc64a509
 
-None were so clever, or prodigal with their crafts, as the enchanters of the pre-Imperial Heartland. Many enchantments did they lavish upon even the least of their possessions, and from father to son of martial class might descend such heirlooms as to beggar a prince of the Modern Era. These artifacts may not be discerned by their age, for many objects of Elven craft also have stood the tests of time in great abundance. The only sure mark is in the provenance and documentation, for many powers may lie unguessed within the subtle wortcrafts of these Kings of Wizardry.  
+제국 이전 시대 심장부의 마법부여사들만큼 영리하고, 자신의 기예를 아낌없이 베푼 이들은 없었다. 그들은 가장 하찮은 소유물에도 여러 마법을 풍성히 부여했다. 무인 계급의 아버지에게서 아들로 전해지는 가보 가운데에는, 오늘날의 왕자조차 초라하게 만들 만한 것이 있었다. 이런 유물은 오래되었다는 사실만으로 구별할 수 없다. 엘프가 만든 물건 중에도 세월의 시험을 견뎌 낸 것이 아주 많기 때문이다. 확실한 표지는 유래와 기록뿐이다. 이 마법의 왕들이 펼친 정교한 약제술 속에는 짐작조차 못 한 수많은 힘이 숨어 있을 수 있다.  
   
-The BattleAxe of Rubicund Wisdom bears enchantments enhancing the skills of DESTRUCTION, and casts the spell of Teleport, and provides the preternatural Blessing of Athleticism when equipped.  
+붉게 물든 지혜의 전투도끼에는 파괴마법 솜씨를 높이는 마법이 깃들어 있다. 순간이동 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The BattleAxe of Furious Swiftblade bears enchantments enhancing the skills of SHORTBLADE, and casts the spell of Jumping, and provides the preternatural Blessing of Athleticism when equipped.  
+맹렬한 날쌘 칼날의 전투도끼에는 단검 솜씨를 높이는 마법이 깃들어 있다. 도약 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Broadsword of the Flea’s Leaping grants benefits in the disciplines of JUMPING, casts the spell of Jumping, and provides the preternatural Blessing of Athleticism when equipped.  
+벼룩의 도약 브로드소드는 도약 능력을 높인다. 도약 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Broadsword of Percipient Wisdom grants benefits in the disciplines of THAUMATURGY, casts the spell of Medium Cure Health, and provides the preternatural Blessing of Athleticism when equipped.  
+통찰의 지혜 브로드소드는 기적술 능력을 높인다. 중급 체력 회복 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Claymore of the Hare’s Fleetness affords some abilities in the arts of RUNNING, and casts the spell of Running, and provides the preternatural Blessing of Athleticism when equipped.  
+토끼의 신속함 클레이모어는 달리기 능력을 높인다. 달리기 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Claymore of Transcendent Wisdom affords some abilities in the arts of MYSTICISM, and casts the spell of Major Cure Health, and provides the preternatural Blessing of Athleticism when equipped.  
+초월한 지혜의 클레이모어는 신비마법 능력을 높인다. 상급 체력 회복 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The CrossBow of Grand Sureflight affords some abilities in the arts of MISSILE, and casts the spell of Medium Shield, and provides the preternatural Blessing of Athleticism when equipped.  
+위대한 정확한 비행의 석궁은 사격 능력을 높인다. 중급 방어막 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Dagger of the Tiger’s Stalking grants benefits in the disciplines of STEALTH, casts the spell of Minor Cure Health, and provides the preternatural Blessing of Athleticism when equipped.  
+호랑이의 추적 단검은 은신 능력을 높인다. 하급 체력 회복 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Dagger of Emerald Wisdom grants benefits in the disciplines of RESTORATION, casts the spell of Minor Shield, and provides the preternatural Blessing of Athleticism when equipped.  
+에메랄드 지혜의 단검은 회복마법 능력을 높인다. 하급 방어막 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Javelin of the Fervent Dolphin bears enchantments enhancing the skills of SWIMMING, and casts the spell of Medium Cure Health, and provides the preternatural Blessing of Athleticism when equipped.  
+열렬한 돌고래의 투창에는 수영 솜씨를 높이는 마법이 깃들어 있다. 중급 체력 회복 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The LongBow of Furious Smiting grants benefits in the disciplines of BLUNTWEAPON, casts the spell of Medium Shield, and provides the preternatural Blessing of Athleticism when equipped.  
+맹렬한 강타의 장궁은 둔기 능력을 높인다. 중급 방어막 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Longsword of Iniquitous Surprise bears enchantments enhancing the skills of BACKSTABBING, and casts the spell of Major Cure Health, and provides the preternatural Blessing of Athleticism when equipped.  
+사악한 기습의 장검에는 배후 공격 솜씨를 높이는 마법이 깃들어 있다. 상급 체력 회복 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Longsword of Auricular Wisdom bears enchantments enhancing the skills of ALTERATION, and casts the spell of Minor Cure Health, and provides the preternatural Blessing of Athleticism when equipped.  
+귀의 지혜 장검에는 변화마법 솜씨를 높이는 마법이 깃들어 있다. 하급 체력 회복 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Mace of the Furious Horny Fist affords some abilities in the arts of HANDTOHAND, and casts the spell of Teleport, and provides the preternatural Blessing of Athleticism when equipped.  
+맹렬한 굳은살 박힌 주먹의 철퇴는 맨손 격투 능력을 높인다. 순간이동 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Short Sword of the Fervent Swimmer affords some abilities in the arts of SWIMMING, and casts the spell of Medium Cure Health, and provides the preternatural Blessing of Athleticism when equipped.  
+열렬한 수영꾼의 소검은 수영 능력을 높인다. 중급 체력 회복 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The Short Sword of Argent Wisdom affords some abilities in the arts of ILLUSION, and casts the spell of Medium Shield, and provides the preternatural Blessing of Athleticism when equipped.  
+은빛 지혜의 소검은 환영마법 능력을 높인다. 중급 방어막 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The ShortBow of Furious Deep Cleaving bears enchantments enhancing the skills of AXE, and casts the spell of Minor Shield, and provides the preternatural Blessing of Athleticism when equipped.  
+맹렬한 깊은 쪼개기의 단궁에는 도끼 솜씨를 높이는 마법이 깃들어 있다. 하급 방어막 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.  
   
-The WarAxe of Furious Hewing grants benefits in the disciplines of LONGBLADE, casts the spell of Running, and provides the preternatural Blessing of Athleticism when equipped.
+맹렬한 베기의 전쟁도끼는 장검 능력을 높인다. 달리기 주문을 시전하며, 장비하면 초자연적인 운동 능력의 축복을 내린다.
 
 [출처](https://www.imperial-library.info/content/curiosities-second-age)
 
@@ -1520,23 +1523,23 @@ The WarAxe of Furious Hewing grants benefits in the disciplines of LONGBLADE, ca
 
 ID: ext-2d4ee24cc0829f3dc8bc
 
-[[The book contains many pages of close, tightly-written scribbling. The earliest entry is marked “Harvest’s End, 3E 172.” Only the first few pages make sense. Later entries are incoherent and illegible. In the first few pages you learn the basic story of Chimere, Master Sorcerer, Summoner, and Direnni retainer, and how he treated with Lord Dagon, tricked him, and paid the price of his victory.  
+[[이 책에는 빽빽하게 휘갈겨 쓴 글이 여러 장에 걸쳐 담겨 있다. 가장 이른 기록에는 '제3시대 172년, 수확의 끝'이라고 적혀 있다. 처음 몇 장만 뜻을 알아볼 수 있고, 뒤쪽의 기록들은 앞뒤가 맞지 않으며 글씨도 읽을 수 없다. 처음 몇 장을 통해 대마법사이자 소환술사, 디레니 가문의 가신인 키메르가 데이건 경과 거래하고 그를 속인 뒤 승리의 대가를 치른 사연을 알게 된다.  
   
-Chimere Graegyn was a retainer of the ambitious Direnni clan. The Direnni derived the bulk of their power from their traffickings with Daedra, a very profitable but risky path to success. Chimere was perhaps the cleverest and most ambitious of the Direnni summoners. He dared to scheme against Lord Dagon, and won. When his trick succeeded, Dagon was cast into Oblivion. However, in the instant of his betrayal, Dagon struck out against the mortal who tricked him. Chimere’s pact assured that he would live forever in his home town among the happy voices of his friends and countrymen. Twisting the literal words of Chimere’s pact, Dagon scooped up tiny Caecilly Island (a small island off the coast of Northmoor) and hurled in into the void. All Chimere’s friends and countrymen were instantly killed, though the sounds of their voices remained to torment Chimere’s memory. Chimere was condemned to live forever, to grow progressively old and crippled with arthritis, and to contemplate the tragic consequences of his defiance of fate and fortune in cheating a Daedra Lord.  
+키메르 그레이긴은 야심 찬 디레니 가문의 가신이었다. 디레니 가문은 힘의 대부분을 데이드라와의 거래에서 얻었다. 대단한 이익을 가져다주지만 위험한 성공의 길이었다. 키메르는 디레니 소환술사 가운데 가장 영리하고 야심 찬 인물이었을 것이다. 그는 감히 데이건 경을 상대로 계략을 꾸몄고, 승리했다. 속임수가 성공하자 데이건은 오블리비언으로 추방되었다. 그러나 배신당한 바로 그 순간, 데이건은 자신을 속인 필멸자에게 반격했다. 키메르는 고향에서 친구들과 동포들의 행복한 목소리에 둘러싸여 영원히 살 것을 계약으로 보장받았다. 데이건은 그 계약의 문구를 문자 그대로 비틀었다. 노스무어 연안의 작은 섬인 케실리 섬을 통째로 떠서 공허 속으로 던진 것이다. 키메르의 친구와 동포는 모두 즉시 죽었지만, 그들의 목소리는 남아 그의 기억을 괴롭혔다. 키메르는 영원히 살면서 점점 늙고 관절염으로 몸을 못 쓰게 되는 운명에 처했다. 그는 운명과 행운에 맞서 데이드라 군주를 속인 비극적인 결과를 영원히 되새겨야 했다.  
   
-In the earlier, more lucid sections of the journal, you also find other information of relevance to your current plight.  
+일지의 앞쪽, 비교적 정신이 맑았을 때 쓴 부분에서는 지금 그대의 곤경과 관련된 다른 정보도 발견한다.  
   
-Searching for details of Chimere’s successful defeat of Dagon, you find the following:  
+키메르가 데이건을 물리친 구체적인 방법을 찾아보면 다음과 같은 내용이 나온다.  
   
-The Armor of the Saviour’s Hide: Created by the Daedra Lord Malacath, this armor has the marvelous property of turning the blow of an oathbreaker. Chimere tricked Dagon into swearing an oath against the Powers which he had no intention of keeping. The Hide of the Savior turned Dagon’s titanic fury long enough for Chimere to deliver his own attack — an incantation invoked upon Dagon’s “Protonymic” (i.e., Incantory True Name). Unfortunately, like many of Malacath’s gifts, the armor is a mixed blessing. It also makes its wearer exceptionally vulnerable to magical attacks, so one should only wear it for particular occasions.  
+구원자의 가죽 갑옷: 데이드라 군주 말라카스가 만든 이 갑옷에는 맹세를 어긴 자의 일격을 튕겨 내는 놀라운 성질이 있다. 키메르는 데이건을 속여, 지킬 생각도 없는 맹세를 권능들 앞에서 하게 했다. 구원자의 가죽은 데이건의 거대한 분노를 막아 주었고, 그 틈에 키메르는 자신의 공격을 가할 수 있었다. 데이건의 프로토니믹, 즉 주문으로 부르는 진명을 이용한 주문이었다. 하지만 말라카스의 많은 선물처럼 이 갑옷 역시 축복만을 주는 것은 아니다. 착용자를 마법 공격에 유난히 취약하게 만들기도 하므로, 특별한 경우에만 입어야 한다.  
   
-Dagon’s Protonymic: Chimere used Dagon’s Protonymic in an incantation to invoke a sorcery that would gradually drain all of Dagon’s power into the void. Chimere miscalculated, however, not realizing that Dagon’s resistance could slow the draining of his power, even if it could not stop it. As a result, Dagon had the time to curse Chimere with a literal fulfillment of the terms of his bargain with Chimere. Rather than let his power drain into the void, Dagon cast it all into his curse. As a result, Caecilly Island was cast into the void, all its citizens were horribly slain, and Chimere was condemned to live forever among the ruins of his greatest ambition.  
+데이건의 프로토니믹: 키메르는 데이건의 프로토니믹을 주문에 사용하여, 데이건의 모든 힘을 서서히 공허로 흘려보내는 마법을 불러냈다. 하지만 계산이 빗나갔다. 데이건이 저항하면 힘이 빠져나가는 것을 막지는 못해도 늦출 수 있다는 사실을 알지 못한 것이다. 그 결과 데이건은 키메르와 맺은 거래의 조건을 문자 그대로 실현하여 그를 저주할 시간을 얻었다. 데이건은 힘이 공허로 빠져나가도록 내버려 두는 대신, 남은 힘 전부를 저주에 쏟아부었다. 그리하여 케실리 섬은 공허로 던져지고 주민들은 모두 참혹하게 죽었으며, 키메르는 자신의 가장 큰 야망이 무너진 폐허 속에서 영원히 살아가게 되었다.  
   
-You also find the following details concerning the Rituals of the Hunt:  
+사냥의 의식에 관해서도 다음과 같은 상세한 내용을 발견한다.  
   
-The Chapel of the Innocent Quarry: Chimere believes that Dagon had Caecilly Island established as the site of the Chapel of the Innocent Quarry to personally mock and torment Chimere. The green crystal structure was created by enchantments, and is the only building on the island erected since it was ripped from Tamriel and loosed in the void.  
+무고한 사냥감의 예배당: 키메르는 데이건이 자신을 조롱하고 괴롭히려고 케실리 섬에 이 예배당을 세웠다고 믿는다. 초록 수정 건물은 마법으로 만들어졌으며, 섬이 탐리엘에서 뜯겨 나와 공허로 던져진 뒤 세워진 유일한 건물이다.  
   
-The Spear: Supposedly the Spear of Bitter Mercy used in the Wild Hunts could not be handled by any mortal or immortal save the ones sanctified to the Hunt and bound by its strictures. However, Chimere has determined that though the Spear’s power is great, it is not unlimited, and that certain enchanted items — for instance, the Armor of the Savior’s Hide, forged by Malacath — are sufficient to protect a mortal or immortal bearer from its maleficent energies.]]
+창: 와일드 헌트에서 쓰는 쓰라린 자비의 창은, 사냥을 위해 축성되고 그 규율에 묶인 자가 아니라면 필멸자든 불멸자든 다룰 수 없다고 알려져 있다. 하지만 키메르는 창의 힘이 위대할지언정 무한하지는 않다고 밝혀냈다. 말라카스가 벼린 구원자의 가죽 갑옷처럼, 특정한 마법 물품은 필멸자나 불멸자 착용자를 창의 사악한 에너지로부터 충분히 보호할 수 있다는 것이다.]]
 
 [출처](https://www.imperial-library.info/content/harvests-end-3e-172)
 
@@ -1546,23 +1549,23 @@ The Spear: Supposedly the Spear of Bitter Mercy used in the Wild Hunts could not
 
 ID: ext-6219dd323ba438cc73b5
 
-For the eyes of the Exalted Grand Marshall of His August Imperial Highness’ Legions, from his Peer of the Twilit Fastnesses, the Battlemage Clarentavious Valisious.  
+존엄하신 황제 폐하의 군단을 이끄는 고귀한 총사령관께, 황혼의 요새들에서 그대와 같은 지위를 지닌 전투마법사 클라렌타비우스 발리시오스가 올립니다.  
   
-As you read this, I am dead. My life, however, has not been given in vain, for I have vouchsafed you one small hope in all this tide of despair. The Great Star Galley, wrought by my own hand, still stands ready for your service. It will transport you to the High Halls and Librarium of the College.  
+그대가 이 글을 읽을 때면 나는 죽었을 것입니다. 하지만 내 목숨을 헛되이 바친 것은 아닙니다. 이 절망의 물결 속에서도 그대에게 작은 희망 하나를 남겼기 때문입니다. 내 손으로 만든 위대한 스타 갤리는 아직 그대를 위해 준비되어 있습니다. 그것은 그대를 대학의 높은 전당과 도서관으로 데려갈 것입니다.  
   
-Feigning vile possession and fellowship with the Enemy, I have contrived to conceal it from them, by dismantling my ingenious Opening Mechanism, and hiding away the five cogs upon which its workings depend. I leave one cog here for you, the others I have cunningly secreted. Assemble the mechanism, and you shall gain entry to the Star Galley Crib.  
+나는 사악한 빙의에 사로잡혀 적의 편이 된 척하며, 놈들에게서 이를 숨길 방도를 마련했습니다. 내가 고안한 개방 장치를 분해하고, 장치의 작동에 필요한 다섯 톱니바퀴를 숨긴 것입니다. 하나는 그대를 위해 여기 남겨 두고, 나머지는 교묘히 감추었습니다. 장치를 조립하면 스타 갤리의 요람에 들어갈 수 있습니다.  
   
-Beware the one that is named Methats.  
+메사츠라는 자를 조심하십시오.  
   
-He alone, I fear, suspects my ruse and might discover the workings.  
+그자만이 내 속임수를 의심하는 것 같습니다. 장치의 작동 원리를 알아낼지도 모릅니다.  
   
-One more criterion must be fulfilled before the Star Galley can convey you to the Colleges. Despite my many exertions upon the issue, the Galley requires the full puissance of all five anchors to pierce the mana streams and win free of its moorings.  
+스타 갤리가 그대를 대학들로 데려가려면 조건 하나를 더 충족해야 합니다. 내가 그 문제를 해결하려고 온갖 노력을 기울였음에도, 갤리가 마나의 흐름을 뚫고 정박한 자리에서 풀려나려면 다섯 닻의 온전한 힘이 모두 필요합니다.  
   
-One such anchor is here in my quarters. If but one anchor is not conjoined, the Galley will lack the power to depart this space.  
+그런 닻 하나가 이곳 내 거처에 있습니다. 단 하나라도 연결되어 있지 않으면 갤리는 이 공간을 떠날 힘을 얻지 못합니다.  
   
-Now listen and pay heed. If you would achieve this undertaking and drive the dark ones from our Emperor’s sovereign estate, seek out my remains. There you shall find the Typos Sophia, that shields any who possess it from the Taking into puppetry that is Possession. If you find me yet alive by some miracle, it shall be yours for your great purpose.  
+이제 귀 기울여 명심하십시오. 이 일을 이루고 어두운 자들을 우리 황제의 영지에서 몰아내려면, 내 유해를 찾으십시오. 그곳에서 티포스 소피아를 발견할 것입니다. 이를 지닌 자는 빙의라는 꼭두각시 상태로 붙잡히는 것으로부터 보호받습니다. 기적적으로 내가 아직 살아 있는 것을 발견한다 해도, 그대의 위대한 목적을 위해 그것을 드리겠습니다.  
   
-In Finis, when addressing the burial of those souls fallen here, I pray you remember their valour and their service in the name of Empire and forever hold high the name of Battlemage.
+끝으로, 이곳에서 쓰러진 영혼들의 장례를 치를 때 그들의 용맹과 제국을 위한 봉사를 기억하고, 전투마법사라는 이름을 영원히 높여 주시기를 바랍니다.
 
 [출처](https://www.imperial-library.info/content/letter-grand-marshall-imperial-legion)
 
@@ -1572,43 +1575,43 @@ In Finis, when addressing the burial of those souls fallen here, I pray you reme
 
 ID: ext-c1792f6fbfa66d36d8be
 
-That others might know, and be warned and witful, those devices called “augmented” are special, and deserving of special praise, for they bear multiple enchantments, the more econmically to aid the enchanter and warrior is his daily labors.  
+다른 이들이 알고 경계하며 지혜로워질 수 있도록 밝혀 둔다. '증강'이라 불리는 도구들은 특별하며, 특별한 찬사를 받을 만하다. 여러 마법이 깃들어 있어 마법부여사와 전사의 일상적인 노고를 더욱 효율적으로 돕기 때문이다.  
   
-The BattleAxe of Augmented Red Wisdom bears enchantments enhancing the skills of DESTRUCTION, and does Major Frost Damage to the enemy.  
+증강된 붉은 지혜의 전투도끼에는 파괴마법 솜씨를 높이는 마법이 깃들어 있으며, 적에게 큰 냉기 피해를 준다.  
   
-The BattleAxe of Augmented Swiftblade bears enchantments enhancing the skills of SHORTBLADE, and does Minor Frost Damage to the enemy.  
+증강된 날쌘 칼날의 전투도끼에는 단검 솜씨를 높이는 마법이 깃들어 있으며, 적에게 작은 냉기 피해를 준다.  
   
-The Broadsword of Augmented Leaping grants benefits in the disciplines of JUMPING, and, when striking a target, causes Minor Frost Damage .  
+증강된 도약의 브로드소드는 도약 능력을 높이며, 대상을 맞히면 작은 냉기 피해를 준다.  
   
-The Broadsword of Augmented Unseen Wisdom grants benefits in the disciplines of THAUMATURGY, and, when striking a target, causes Medium Fire Damage .  
+증강된 보이지 않는 지혜의 브로드소드는 기적술 능력을 높이며, 대상을 맞히면 중간 정도의 화염 피해를 준다.  
   
-The Claymore of Augmented Fleetness affords some abilities in the arts of RUNNING, and causes Medium Frost Damage to a victim on contact.  
+증강된 신속함의 클레이모어는 달리기 능력을 높이며, 희생자에게 닿으면 중간 정도의 냉기 피해를 준다.  
   
-The Claymore of Augmented Unknown Wisdom affords some abilities in the arts of MYSTICISM, and causes Major Fire Damage to a victim on contact.  
+증강된 미지의 지혜의 클레이모어는 신비마법 능력을 높이며, 희생자에게 닿으면 큰 화염 피해를 준다.  
   
-The CrossBow of Augmented Sureflight affords some abilities in the arts of MISSILE, and causes Medium Magic Damage to a victim on contact.  
+증강된 정확한 비행의 석궁은 사격 능력을 높이며, 희생자에게 닿으면 중간 정도의 마법 피해를 준다.  
   
-The Dagger of Augmented Stalking grants benefits in the disciplines of STEALTH, and, when striking a target, causes Minor Fire Damage.  
+증강된 추적의 단검은 은신 능력을 높이며, 대상을 맞히면 작은 화염 피해를 준다.  
   
-The Dagger of Augmented Green Wisdom grants benefits in the disciplines of RESTORATION, and, when striking a target, causes Minor Magic Damage .  
+증강된 초록 지혜의 단검은 회복마법 능력을 높이며, 대상을 맞히면 작은 마법 피해를 준다.  
   
-The Javelin of the Augmented Dolphin bears enchantments enhancing the skills of SWIMMING, and does Medium Fire Damage to the enemy.  
+증강된 돌고래의 투창에는 수영 솜씨를 높이는 마법이 깃들어 있으며, 적에게 중간 정도의 화염 피해를 준다.  
   
-The LongBow of Augmented Smiting grants benefits in the disciplines of BLUNTWEAPON, and, when striking a target, causes Medium Magic Damage .  
+증강된 강타의 장궁은 둔기 능력을 높이며, 대상을 맞히면 중간 정도의 마법 피해를 준다.  
   
-The Longsword of Augmented Surprise bears enchantments enhancing the skills of BACKSTABBING, and does Major Fire Damage to the enemy.  
+증강된 기습의 장검에는 배후 공격 솜씨를 높이는 마법이 깃들어 있으며, 적에게 큰 화염 피해를 준다.  
   
-The Longsword of Augmented Golden Wisdom bears enchantments enhancing the skills of ALTERATION, and does Minor Fire Damageto the enemy.  
+증강된 황금 지혜의 장검에는 변화마법 솜씨를 높이는 마법이 깃들어 있으며, 적에게 작은 화염 피해를 준다.  
   
-The Mace of the Augmented Horny Fist affords some abilities in the arts of HANDTOHAND, and causes Major Frost Damage to a victim on contact.  
+증강된 굳은살 박힌 주먹의 철퇴는 맨손 격투 능력을 높이며, 희생자에게 닿으면 큰 냉기 피해를 준다.  
   
-The Short Sword of the Augmented Swimmer affords some abilities in the arts of SWIMMING, and causes Medium Fire Damage to a victim on contact.  
+증강된 수영꾼의 소검은 수영 능력을 높이며, 희생자에게 닿으면 중간 정도의 화염 피해를 준다.  
   
-The Short Sword of Augmented Silver Wisdom affords some abilities in the arts of ILLUSION, and causes Medium Magic Damage to a victim on contact.  
+증강된 은빛 지혜의 소검은 환영마법 능력을 높이며, 희생자에게 닿으면 중간 정도의 마법 피해를 준다.  
   
-The ShortBow of Augmented Deep Biting bears enchantments enhancing the skills of AXE, and does Minor Magic Damage to the enemy.  
+증강된 깊은 물림의 단궁에는 도끼 솜씨를 높이는 마법이 깃들어 있으며, 적에게 작은 마법 피해를 준다.  
   
-The WarAxe of Augmented Hewing grants benefits in the disciplines of LONGBLADE, and, when striking a target, causes Medium Frost Damage.
+증강된 베기의 전쟁도끼는 장검 능력을 높이며, 대상을 맞히면 중간 정도의 냉기 피해를 준다.
 
 [출처](https://www.imperial-library.info/content/short-history-augmented-craftworks)
 
@@ -1618,13 +1621,13 @@ The WarAxe of Augmented Hewing grants benefits in the disciplines of LONGBLADE, 
 
 ID: ext-ac89861a51835aa5b659
 
-Dear Occupant:  
+이곳에 계신 분께.  
   
-We regret to inform you that you have failed your preliminary Intelligence examination.  
+귀하가 예비 지능 시험에 불합격했음을 유감스럽게 알려 드립니다.  
   
-Only a real dope would dive into a deep hole without arranging for a teleport anchor. Heh-heh.  
+순간이동용 닻도 마련하지 않고 깊은 구멍으로 뛰어드는 것은 정말 멍청한 사람이나 할 짓이니까요. 헤헤.  
   
-Have a nice day. Or two.
+좋은 하루 보내십시오. 아니, 이틀쯤.
 
 [출처](https://www.imperial-library.info/content/intelligence-training-note)
 
@@ -1634,7 +1637,7 @@ Have a nice day. Or two.
 
 ID: ext-624381df414cf9d33dcf
 
-[[The book is written in Daedric, but the illustrations of various complex wheel, gear, and pulley arrangements suggest that this could be the Book of the Wheels of Heaven. By studying the tables of codes in the back, you discover that the code you are looking for is Doht Yoodt Seht Koht, or DUSK in Tamrielic. The table also displays the codes written as numerals, which happily are the same in Tamrielic and Daedric — 4-21-19-11 — which corresponds to the number of the letters in the alphabet sequence.]]
+[[책은 데이드라 문자로 쓰여 있다. 하지만 복잡하게 얽힌 여러 바퀴와 톱니바퀴, 도르래의 삽화를 보면 『천상의 수레바퀴에 관한 책』인 듯하다. 뒤쪽의 암호표를 살펴보니, 찾고 있는 암호가 Doht Yoodt Seht Koht, 즉 탐리엘 문자로 DUSK임을 알게 된다. 표에는 암호를 숫자로 적은 것도 나와 있다. 다행히 숫자는 탐리엘 문자와 데이드라 문자가 같아서 4-21-19-11이다. 이는 각 글자가 알파벳에서 차지하는 순서에 해당한다.]]
 
 [출처](https://www.imperial-library.info/content/book-wheels-heaven)
 
@@ -1644,49 +1647,49 @@ ID: ext-624381df414cf9d33dcf
 
 ID: ext-ec2b929a4f6e908ace71
 
-[[Among the hundreds of riddles in this weighty tome, THE KENDHALL BOOK OF RIDDLES, four have been marked with scraps of paper:]]  
+[[두툼한 『켄드홀 수수께끼집』에 담긴 수백 가지 수수께끼 가운데 네 곳에 종잇조각이 끼워져 있다.]]  
   
-Page 1  
+1쪽  
   
-Loadbearer, Warrior  
-Spirited, Brave  
-Fleet-foot, Ironshod  
-Faithful One, Slave  
-Answer: Horse  
+짐을 지는 자, 전사  
+기운차고 용감한 자  
+발이 빠르고 쇠 신을 신은 자  
+충실한 자, 노예  
+정답: 말(Horse)  
   
-Page 2  
+2쪽  
   
-I rise above the roofs below  
-Finger up-raised to heaven.  
-I speak in clear tones  
-That aim for others  
-To gather where I call.  
+아래의 지붕들보다 높이 솟아  
+하늘을 향해 손가락을 세운다.  
+나는 맑은 소리로 말하여  
+다른 이들이  
+내가 부르는 곳으로 모이게 한다.  
   
-Answer: Bell Tower  
+정답: 종탑(Bell Tower)  
   
-Page 3  
+3쪽  
   
-Some live in me, some live on,  
-And some shave me to stride upon.  
-I rarely leave my native land.  
-Until my death I always stand.  
-High and low I may be found  
-Both above and under ground.  
+누군가는 내 안에 살고, 누군가는 내 위에 살며,  
+누군가는 나를 깎아 그 위를 걸어간다.  
+나는 고향 땅을 좀처럼 떠나지 않는다.  
+죽을 때까지 언제나 서 있다.  
+높은 곳에도 낮은 곳에도 있으며  
+땅 위에도 땅 아래에도 있다.  
   
-Answer: Tree  
+정답: 나무(Tree)  
   
-Page 4  
+4쪽  
   
-Armor bright  
-Gleaming white  
-A single rank  
-Their faces blank  
-Now hid by night  
-Now bold by light  
-Bright red the land  
-Where soldiers stand  
+빛나는 갑옷  
+희게 반짝이며  
+한 줄로 늘어서고  
+얼굴은 무표정하다  
+때로는 밤에 가려지고  
+때로는 빛 아래 당당하다  
+병사들이 선 땅은  
+선명한 붉은색  
   
-Answer: Teeth
+정답: 이(Teeth)
 
 [출처](https://www.imperial-library.info/content/kendhall-book-riddles)
 
@@ -1696,13 +1699,13 @@ Answer: Teeth
 
 ID: ext-8c9bb47be51c6feafc5d
 
-[[beneath several large, important-looking charts and diagrams]]  
+[[크고 중요해 보이는 여러 도표와 도해 아래에]]  
   
-Behold the ritual of making for the Grand and Thaumaturgical and Most Puissant Trebuchet of Overarching Peril.  
+위대하고 기적을 행하며 지극히 강력한, 드넓은 재앙의 투석기를 만드는 의식을 보라.  
   
-He that touches this parchment to the workings of the Trebuchet of Granvellusa and releases its spirits therein shall apprehend before him an full and ready Engine of Mighty Destruction for the subjugation of the Foes of all Direnni.  
+이 양피지를 그란벨루사의 투석기 장치에 대어 그 안에 깃든 정령들을 풀어놓는 자는, 모든 디레니의 적을 굴복시킬 위력적인 파괴 장치가 완전한 모습으로 준비되어 눈앞에 나타나는 것을 보리라.  
   
-Forromeo has spoken. The world shall hear. Let all peoples tremble before the everlasting might and grandeur of Clan Direnni.
+포로메오가 말하였으니, 세상은 들을지어다. 모든 민족은 디레니 가문의 영원한 힘과 위엄 앞에 떨지어다.
 
 [출처](https://www.imperial-library.info/content/trebuchet-ritual)
 
@@ -1712,43 +1715,43 @@ Forromeo has spoken. The world shall hear. Let all peoples tremble before the ev
 
 ID: ext-8dce0c5857d97e96cef1
 
-TAKE CARE. The excellences of my works may not always be ready to the eye, and may lie deep within the warp and weft of the spirit weave.  
+주의하라. 내 작품의 뛰어남은 언제나 눈에 쉽게 드러나는 것이 아니며, 영혼을 엮은 날실과 씨실 깊숙한 곳에 숨어 있을 수도 있다.  
   
-The BattleAxe of Starkhorn’s Swiftblade bears enchantments enhancing the skills of SHORTBLADE, and gives some Resistance to Shock when equipped by the owner.  
+스타크혼의 날쌘 칼날 전투도끼에는 단검 솜씨를 높이는 마법이 깃들어 있으며, 소유자가 장비하면 어느 정도의 전격 저항력을 준다.  
   
-The Boots of Starkhorn’s Fleetness affords some abilities in the arts of RUNNING, and, when in use by the owner, provides a modest Resistance to Poison.  
+스타크혼의 신속함 장화는 달리기 능력을 높이며, 소유자가 사용하면 적당한 독 저항력을 준다.  
   
-The Broadsword of Starkhorn’s Unseen Wisdom grants benefits in the disciplines of THAUMATURGY, and, when equipped, confers a measure of Resistance to Magic for its owner.  
+스타크혼의 보이지 않는 지혜 브로드소드는 기적술 능력을 높이며, 장비하면 소유자에게 어느 정도의 마법 저항력을 준다.  
   
-The Claymore of Starkhorn’s Unknown Wisdom affords some abilities in the arts of MYSTICISM, and, when in use by the owner, provides a modest Resistance to Poison.  
+스타크혼의 미지의 지혜 클레이모어는 신비마법 능력을 높이며, 소유자가 사용하면 적당한 독 저항력을 준다.  
   
-The CrossBow of Starkhorn’s Sureflight affords some abilities in the arts of MISSILE, and, when in use by the owner, provides a modest Resistance to Poison.  
+스타크혼의 정확한 비행 석궁은 사격 능력을 높이며, 소유자가 사용하면 적당한 독 저항력을 준다.  
   
-The Cuirass of Starkhorn’s Swimmer affords some abilities in the arts of SWIMMING, and, when in use by the owner, provides a modest Resistance to Fire.  
+스타크혼의 수영꾼 흉갑은 수영 능력을 높이며, 소유자가 사용하면 적당한 화염 저항력을 준다.  
   
-The Dagger of Starkhorn’s Green Wisdom grants benefits in the disciplines of RESTORATION, and, when equipped, confers a measure of Resistance to All Elements for its owner.  
+스타크혼의 초록 지혜 단검은 회복마법 능력을 높이며, 장비하면 소유자에게 어느 정도의 모든 원소 저항력을 준다.  
   
-The Gauntlets of Starkhorn’s Red Wisdom bears enchantments enhancing the skills of DESTRUCTION, and gives some Resistance to Shock when equipped by the owner.  
+스타크혼의 붉은 지혜 건틀릿에는 파괴마법 솜씨를 높이는 마법이 깃들어 있으며, 소유자가 장비하면 어느 정도의 전격 저항력을 준다.  
   
-The Greaves of Starkhorn’s Leaping grants benefits in the disciplines of JUMPING, and, when equipped, confers a measure of Resistance to Magic for its owner.  
+스타크혼의 도약 경갑은 도약 능력을 높이며, 장비하면 소유자에게 어느 정도의 마법 저항력을 준다.  
   
-The Helmet of Starkhorn’s Stalking grants benefits in the disciplines of STEALTH, and, when equipped, confers a measure of Resistance to All Elements for its owner.  
+스타크혼의 추적 투구는 은신 능력을 높이며, 장비하면 소유자에게 어느 정도의 모든 원소 저항력을 준다.  
   
-The Javelin of Starkhorn’s Dolphin bears enchantments enhancing the skills of SWIMMING, and gives some Resistance to All Elements when equipped by the owner.  
+스타크혼의 돌고래 투창에는 수영 솜씨를 높이는 마법이 깃들어 있으며, 소유자가 장비하면 어느 정도의 모든 원소 저항력을 준다.  
   
-The LongBow of Starkhorn’s Smiting grants benefits in the disciplines of BLUNTWEAPON, and, when equipped, confers a measure of Resistance to Magic for its owner.  
+스타크혼의 강타 장궁은 둔기 능력을 높이며, 장비하면 소유자에게 어느 정도의 마법 저항력을 준다.  
   
-The Longsword of Starkhorn’s Golden Wisdom bears enchantments enhancing the skills of ALTERATION, and gives some Resistance to Frost when equipped by the owner.  
+스타크혼의 황금 지혜 장검에는 변화마법 솜씨를 높이는 마법이 깃들어 있으며, 소유자가 장비하면 어느 정도의 냉기 저항력을 준다.  
   
-The Mace of Starkhorn’s Horny Fist affords some abilities in the arts of HANDTOHAND, and, when in use by the owner, provides a modest Resistance to Fire.  
+스타크혼의 굳은살 박힌 주먹 철퇴는 맨손 격투 능력을 높이며, 소유자가 사용하면 적당한 화염 저항력을 준다.  
   
-The Pauldrons of Starkhorn’s Surprise bears enchantments enhancing the skills of BACKSTABBING, and gives some Resistance to Frost when equipped by the owner.  
+스타크혼의 기습 견갑에는 배후 공격 솜씨를 높이는 마법이 깃들어 있으며, 소유자가 장비하면 어느 정도의 냉기 저항력을 준다.  
   
-The Short Sword of Starkhorn’s Silver Wisdom affords some abilities in the arts of ILLUSION, and, when in use by the owner, provides a modest Resistance to Fire.  
+스타크혼의 은빛 지혜 소검은 환영마법 능력을 높이며, 소유자가 사용하면 적당한 화염 저항력을 준다.  
   
-The ShortBow of Starkhorn’s Deep Biting bears enchantments enhancing the skills of AXE, and gives some Resistance to Frost when equipped by the owner.  
+스타크혼의 깊은 물림 단궁에는 도끼 솜씨를 높이는 마법이 깃들어 있으며, 소유자가 장비하면 어느 정도의 냉기 저항력을 준다.  
   
-The WarAxe of Starkhorn’s Hewing grants benefits in the disciplines of LONGBLADE, and, when equipped, confers a measure of Resistance to All Elements for its owner.
+스타크혼의 베기 전쟁도끼는 장검 능력을 높이며, 장비하면 소유자에게 어느 정도의 모든 원소 저항력을 준다.
 
 [출처](https://www.imperial-library.info/content/starkhorns-compendium-his-arts-and-crafts-realms-lesser-enchantments)
 
@@ -1758,17 +1761,17 @@ The WarAxe of Starkhorn’s Hewing grants benefits in the disciplines of LONGBLA
 
 ID: ext-367ea1ee1addb5f389ce
 
-For all Feydra’s vassals, our Hounds.  
+페이드라의 모든 봉신, 우리의 사냥개들에게.  
   
-You shall not return to the Chapel until the hunt is resolved, and the quarry’s corpse is borne in to rest upon the altar.  
+사냥이 끝나고 사냥감의 시체가 운반되어 제단 위에 놓일 때까지 예배당으로 돌아와서는 안 된다.  
   
-Remember, you are The Greater Hounds. You are to pursue and harry the quarry but must not kill it. That honor shall be Egahirn’s only.  
+기억하라. 너희는 상급 사냥개들이다. 사냥감을 쫓고 몰아붙이되, 죽여서는 안 된다. 그 영예는 오직 에가히른의 몫이다.  
   
-Keep your amulets about you, the quarry is wily.  
+부적을 몸에 지녀라. 사냥감은 교활하다.  
   
-Now go, and run well, for the Hunt is a thing of beauty.  
+이제 가서 잘 달려라. 사냥은 아름다운 것이니.  
   
-Herne.
+헤른.
 
 [출처](https://www.imperial-library.info/content/letter-fire-daedra)
 

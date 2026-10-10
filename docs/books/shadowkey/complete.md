@@ -24,7 +24,7 @@ ID: ext-dd1134324c375ba96d47
 
 ID: ext-30d6553e3fc287040931
 
-A third of the payment accompanies this note. The rest shall be paid in full by our agents. Scout Dragonstar, deliver the map to our agents in Earthtear Caverns.
+이 쪽지와 함께 보수의 3분의 1을 보낸다. 나머지는 우리 요원들이 전액 지급할 것이다. 드래곤스타를 정찰하고, 어스티어 동굴에 있는 우리 요원들에게 지도를 전달하라.
 
 [출처](https://www.imperial-library.info/content/shadowkey-letter-general-duvais)
 
@@ -34,7 +34,7 @@ A third of the payment accompanies this note. The rest shall be paid in full by 
 
 ID: ext-11c04edcbe743ee3b86d
 
-Meya Violet was a great merchant captain. Her selfness skills of negotiation made the Dragonstar guild great. No one know what took her that night. We honor her, and pray we can sustain her greatness.
+메야 바이올렛은 위대한 상단장이었다. 그녀의 협상 솜씨 덕분에 드래곤스타 길드는 크게 번성했다. 그날 밤 무엇이 그녀를 앗아 갔는지는 아무도 모른다. 우리는 그녀를 기리며, 그녀가 이룬 위업을 이어 갈 수 있기를 기도한다.
 
 [출처](https://www.imperial-library.info/content/shadowkey-council-hall-scroll)
 
@@ -44,7 +44,7 @@ Meya Violet was a great merchant captain. Her selfness skills of negotiation mad
 
 ID: ext-160b4647a82c3f353547
 
-…chosen to explore this relation of world to shadow, Azra was the first to realize that shadows were not a mere absence of light, but a reflection of possible worlds created by forces in conflict. A light strikes a rock, and the shadow is a record of their clash, past, present and future. Other conflicting forces produced less obvious shadows, fire and water, wind and rock, or nations at war. With skill and patience the shadows of all could be read, and patterns teased out, emphasized or eradicated. Manipulating a shadow could, through contagion, manipulate the object or force which cast it. Azra was eminent master of this nearly imperceptible magic.
+…세계와 그림자 사이의 이러한 관계를 탐구하도록 선택받은 아즈라는, 그림자가 단순히 빛이 없는 상태가 아니라 서로 충돌하는 힘들이 만들어 내는 가능성의 세계를 비춘 것임을 최초로 깨달았다. 빛이 바위에 부딪치면, 그림자는 두 힘의 충돌을 과거와 현재, 미래에 걸쳐 기록한다. 불과 물, 바람과 바위, 전쟁 중인 나라들처럼 서로 맞서는 다른 힘들도 눈에 잘 띄지 않는 그림자를 만들어 냈다. 솜씨와 인내만 있다면 이 모든 그림자를 읽고 그 안의 무늬를 찾아내어 두드러지게 하거나 없앨 수 있었다. 그림자를 조작하면 그 영향이 번져, 그림자를 드리운 사물이나 힘까지 조작할 수 있었다. 아즈라는 거의 감지조차 할 수 없는 이 마법에 통달한 뛰어난 대가였다.
 
 [출처](https://www.imperial-library.info/content/shadowkey-scrolls-1)
 
@@ -54,7 +54,7 @@ ID: ext-160b4647a82c3f353547
 
 ID: ext-925eadadbf345ed01038
 
-…Azra attempted what had never been done before, manipulating his own shadow to such and extent that he instantiated and melded all possible Azras at the same time, crossing over from this singular existences in shadow. Ignorant Redguard soldier, fearing the power of Azra should he succeed, trapped and confronted Azra. The battle did not go well for the wizard. The hole blasted when he lost control of his magics can still be seen at the village that bears his name, Azra’s Crossing. The science of shadow lost a great man that day, although others, such as Pergan Asuul, strive to take his place.
+…아즈라는 누구도 해 보지 못한 일을 시도했다. 자신의 그림자를 조작하여, 존재할 수 있는 모든 아즈라를 동시에 실체화하고 하나로 융합하려 한 것이다. 그렇게 그림자 속에서 따로따로 존재하던 자신들을 넘어가려 했다. 무지한 레드가드 병사들은 아즈라가 성공했을 때 지니게 될 힘을 두려워하여 그를 포위하고 맞섰다. 전투는 마법사에게 불리하게 흘러갔다. 그가 마법의 통제력을 잃었을 때 폭발로 생긴 구덩이는, 그의 이름을 딴 마을인 아즈라스 크로싱에서 지금도 볼 수 있다. 그림자를 연구하는 학문은 그날 위대한 인물을 잃었다. 하지만 페르간 아술 같은 이들은 그의 자리를 잇고자 애쓰고 있다.
 
 [출처](https://www.imperial-library.info/content/shadowkey-scrolls-2)
 

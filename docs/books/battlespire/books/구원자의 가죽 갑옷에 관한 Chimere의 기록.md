@@ -2,26 +2,26 @@
 
 ID: ext-b840ddfbf190a53e1c82
 
-[[These words are painstakingly scratched onto the parchment in watery uneven strokes]]  
+[[묽고 고르지 못한 획으로 양피지에 힘겹게 긁어 쓴 글이다.]]  
   
-The Armor of the Savior’s Hide may safeguard you against the sting of the Spear of Bitter Mercy. It turns the blow of an oath-breaker and guarded me against Dagon’s hand, but not against his venomous intellect.  
+구원자의 가죽 갑옷은 쓰라린 자비의 창에 찔리는 것을 막아 줄지도 모른다. 맹세를 어긴 자의 일격을 튕겨 내어 데이건의 손으로부터 나를 지켜 주었지만, 그의 독기 어린 지략까지 막아 주지는 못했다.  
   
-Alas, my memory is clouded. So much time has passed since I took the pieces and hid them from my own sight. I fear I have done the task too well.  
+아아, 기억이 흐릿하다. 갑옷 조각들을 가져가 내 눈에도 띄지 않게 숨긴 지 너무나 오랜 시간이 흘렀다. 지나치게 잘 숨겨 버린 것은 아닌지 두렵다.  
   
-I never wished to see the armor again, much less suspected it might be needed by another.  
+나는 그 갑옷을 다시는 보고 싶지 않았다. 다른 이가 필요로 할지도 모른다는 생각은 더더욱 하지 못했다.  
   
-Enough of regrets. These faint snatches are as much as I recollect through the years of madness. Make of them what you will.  
+후회는 이쯤 해 두자. 광기로 얼룩진 오랜 세월 너머로 기억해 낼 수 있는 것은 이 희미한 조각들뿐이다. 그대 나름대로 헤아려 보라.  
   
-One piece I recall in a place high over the water, a narrow margin, between two plumb drops, one below, one above, looking down on the lookout and the faint creaking of timbers.  
+한 조각은 물 위로 높이 솟은 곳에 있었던 것으로 기억한다. 아래와 위로 각각 곧게 떨어지는 두 낭떠러지 사이의 좁은 가장자리였다. 망보는 곳을 내려다볼 수 있었고 목재가 희미하게 삐걱거렸다.  
   
-Another is somewhere similar, within stagger of the first but in the center of a people-home. Where folk would gather, full of music and laughter and the slop of water of life, high above the water and ringed all about with stone.  
+또 하나는 비슷한 곳에 있다. 첫 조각에서 비틀거리며 갈 수 있을 만큼 가까우나, 사람들이 머무는 집의 한가운데다. 사람들이 모이고 음악과 웃음, 생명의 물이 출렁이는 소리로 가득하던 곳이다. 물 위로 높이 솟았고 사방이 돌로 둘러싸여 있다.  
   
-The third I placed in a most wet and inaccessible locale, for I had no thought for decay and the crust of nature. All about was the sound of the great blue and slits of light fell through to the water below. My friends would cast nets and lines to catch food from here, but I cannot fetch out the name of it.  
+세 번째는 무척 축축하고 다가가기 어려운 곳에 두었다. 나는 부식이나 자연이 덮어씌울 껍질은 생각하지 못했다. 사방에서 드넓은 푸른 바다의 소리가 들렸고, 틈새로 내리비친 빛이 아래의 물에 닿았다. 친구들은 여기서 그물과 낚싯줄을 드리워 먹을 것을 잡곤 했지만, 그곳의 이름은 떠오르지 않는다.  
   
-The fourth lies within the mountain, in the tall tower, in the darkness beyond the curtain of water.  
+네 번째는 산속, 높은 탑 안, 물의 장막 너머 어둠 속에 있다.  
   
-The fifth waits in cold darkness down below.  
+다섯 번째는 저 아래 차갑고 어두운 곳에서 기다린다.  
   
-The last sailed up into the sky, and there revolved at the call of the wind. I tacked it to the canvas, so I know not if it still hangs there.
+마지막 것은 하늘 높이 올라가 바람의 부름에 따라 돌았다. 천에 못으로 고정해 두었으니, 아직도 그곳에 매달려 있을지는 모르겠다.
 
 [출처](https://www.imperial-library.info/content/chimeres-notes-about-armor-saviors-hide)

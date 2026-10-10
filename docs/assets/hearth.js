@@ -12,23 +12,28 @@
   // No remote audio, tracking, or copyrighted recordings are required.
   function createFire() {
     context = new AudioContext();
-    const length = context.sampleRate * 12;
+    const length = context.sampleRate * 40;
     const buffer = context.createBuffer(2, length, context.sampleRate);
     for (let channel = 0; channel < 2; channel++) {
       const samples = buffer.getChannelData(channel);
       let ember = 0;
       for (let i = 0; i < length; i++) {
         ember = (ember + (Math.random() * 2 - 1) * 0.02) / 1.02;
-        samples[i] = ember * 2.8;
+        samples[i] = ember * 0.3;
       }
-      for (let time = 0.1; time < 11.8; time += 0.08 + Math.random() * 0.45) {
+      for (let time = 0.1; time < 39.8; time += 0.07 + Math.random() * 0.28) {
         const start = Math.floor(time * context.sampleRate);
-        const duration = Math.floor(context.sampleRate * (0.008 + Math.random() * 0.035));
-        const strength = 0.08 + Math.random() * 0.22;
+        const duration = Math.floor(context.sampleRate * (0.012 + Math.random() * 0.05));
+        const strength = 0.35 + Math.random() * 0.35;
+        const pitch = 1400 + Math.random() * 2800;
         for (let i = 0; i < duration; i++) {
-          samples[start + i] += (Math.random() * 2 - 1) * strength * Math.exp(-i / (duration / 5));
+          const attack = Math.min(1, i / (context.sampleRate * 0.0004));
+          const decay = Math.exp(-i / (duration / 6));
+          const snap = Math.sin(2 * Math.PI * pitch * i / context.sampleRate);
+          samples[start + i] += ((Math.random() * 2 - 1) * 0.65 + snap * 0.35) * strength * attack * decay;
         }
       }
+      for (let i = 0; i < length; i++) samples[i] = Math.max(-0.85, Math.min(0.85, samples[i]));
       const edge = Math.floor(context.sampleRate * 0.04);
       for (let i = 0; i < edge; i++) {
         samples[i] *= i / edge;
@@ -40,7 +45,7 @@
     fire.loop = true;
     const warmth = context.createBiquadFilter();
     warmth.type = "lowpass";
-    warmth.frequency.value = 3200;
+    warmth.frequency.value = 6000;
     master = context.createGain();
     master.gain.value = 0;
     fire.connect(warmth).connect(master).connect(context.destination);
@@ -50,7 +55,7 @@
   function setVolume() {
     volume.setAttribute("aria-valuetext", volume.value + "%");
     if (master) {
-      master.gain.setTargetAtTime(playing ? Number(volume.value) / 100 : 0, context.currentTime, 0.08);
+      master.gain.setTargetAtTime(playing ? Number(volume.value) / 100 * 0.65 : 0, context.currentTime, 0.08);
     }
   }
 

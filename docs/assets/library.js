@@ -92,7 +92,7 @@
     article.className="book-card";
     const top=document.createElement("div"); top.className="book-card-top";
     const category=document.createElement("span"); category.className="book-category";
-    category.textContent="THE ELDER SCROLLS "+GAME[book.game].roman+" · "+GAME[book.game].ko+(book.content_language==="en"?" · 미번역":"");
+    category.textContent="THE ELDER SCROLLS "+GAME[book.game].roman+" · "+GAME[book.game].ko+(book.content_language==="en"?" · 미번역":book.needs_translation_review?" · 번역 검수 필요":"");
     const favorite=document.createElement("button");favorite.type="button";
     favorite.className="book-mark";favorite.dataset.uid=book.uid;
     favorite.addEventListener("click",e=>{e.stopPropagation();setFavorite(book.uid);if(state.savedOnly)render();});
@@ -178,7 +178,7 @@
     $("readerTitle").textContent=book.title;
     $("readerGame").textContent="THE ELDER SCROLLS "+GAME[book.game].roman+" · "+GAME[book.game].en;
     $("readerMetadata").replaceChildren();
-    [book.author, GAME[book.game].ko,book.content_language==="en"?"영문 · 미번역":null,book.record_id].filter(Boolean).forEach(value=>{
+    [book.author, GAME[book.game].ko,book.content_language==="en"?"영문 · 미번역":book.needs_translation_review?"한국어 · 번역 검수 필요":null,book.record_id].filter(Boolean).forEach(value=>{
       const span=document.createElement("span");span.textContent=value;$("readerMetadata").append(span);
     });
     $("readerContent").textContent="서적을 펼치는 중…";

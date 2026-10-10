@@ -2,16 +2,16 @@
 
 ID: ext-7ef789f26a3a427104c6
 
-[[These lines are scribbled hastily on crumpled vellum. From the stains and the changes in ink colour, you guess they were written over a long period of time.]]  
+[[구겨진 송아지 가죽 양피지에 급히 휘갈겨 쓴 글이다. 얼룩과 잉크 색의 변화로 보아 오랜 시간에 걸쳐 쓴 듯하다.]]  
   
-What new madness is this? Is it not enough that I am to be tormented here for all time with the pain of my friends? The island is crawling with horrors and my ears are filled with the shrieks of mortals, torn apart for sport!  
+이것은 또 무슨 광기인가? 친구들의 고통과 함께 이곳에서 영원히 괴로워하는 것만으로는 부족하단 말인가? 섬에는 끔찍한 것들이 들끓고, 유희 삼아 갈가리 찢기는 필멸자들의 비명이 내 귀를 가득 채운다!  
   
-I cannot leave, I am cursed to stay, but I shall not stand by and watch others be so used! There must be some way I can help them.  
+나는 떠날 수 없다. 이곳에 머물도록 저주받았다. 하지만 다른 이들이 그렇게 당하는 것을 가만히 지켜보지는 않겠다! 그들을 도울 방법이 분명히 있을 것이다.  
   
-I have heard one of them speak of the great horned temple, the way to leave this place, and of the six keys to its great door. The temple must be the one in Granvellusa. The keys, I fancy, are hidden away in the other temples.  
+그들 가운데 하나가 거대한 뿔 달린 사원에 관해 말하는 것을 들었다. 이곳을 떠나는 길이며, 그 거대한 문을 여는 여섯 열쇠가 있다고 했다. 그란벨루사의 사원이 틀림없다. 열쇠들은 다른 사원들에 숨겨져 있는 것 같다.  
   
-They babble about a ritual hunt, as if this torture were a holy office! And their own temple, the emerald abomination, seems the key to all, their arsenal and their demesne. I have seen them foray out from it with their spears and their hounds of ice and fire.  
+그들은 의식 사냥이라는 말을 지껄인다. 이 고문이 무슨 성스러운 예식이라도 되는 것처럼! 그들 자신의 사원, 그 에메랄드빛 흉물은 모든 것의 열쇠인 듯하다. 그들의 무기고이자 영지다. 나는 그들이 창과 얼음과 불의 사냥개를 데리고 그곳에서 출격하는 것을 보았다.  
   
-For now it seems I am safe here, but I long to return to my little croft-cottage on Hartmoor, where I can bar the door, and blot out the screams. Perhaps my old armor might guard against the terrible spears. Perhaps the next poor soul brought here might gather the keys and escape.
+지금은 여기서 안전한 듯하다. 하지만 하트무어의 작은 농가로 돌아가고 싶다. 문을 걸어 잠그고 비명을 차단할 수 있는 곳으로. 어쩌면 내 옛 갑옷이 저 무시무시한 창들을 막아 줄지도 모른다. 어쩌면 다음에 이곳으로 끌려올 가엾은 영혼은 열쇠를 모아 도망칠 수 있을지도 모른다.
 
 [출처](https://www.imperial-library.info/content/chimeres-journal)

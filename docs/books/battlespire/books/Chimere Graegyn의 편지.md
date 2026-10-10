@@ -2,11 +2,11 @@
 
 ID: ext-7c169e7c72caf80f434e
 
-[[in badly faded ink on parchment yellowed with age]]  
+[[세월에 누렇게 바랜 양피지에 몹시 흐려진 잉크로 적혀 있다.]]  
   
-For any unfortunate pursued by the Hunt.  
+사냥에 쫓기는 불운한 이에게.  
   
-Know that you are not alone, that you have a friend in this desolate place. For the moment my croft-cottage is safe from the hunters. Find me there, in the middle of the moor away to the North. I can offer you shelter and respite, but come quickly, for every day I feel my strength fading.  
+그대는 혼자가 아니며, 이 황량한 곳에도 친구가 있다는 것을 알아 두시오. 지금은 내 작은 농가가 사냥꾼들로부터 안전하오. 북쪽 멀리 황야 한가운데 있는 그곳으로 나를 찾아오시오. 피신처와 쉴 틈을 드릴 수 있소. 하지만 서둘러 오시오. 하루가 다르게 내 힘이 쇠해지는 것을 느끼고 있으니.  
   
 C.
 

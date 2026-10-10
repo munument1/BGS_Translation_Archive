@@ -17,6 +17,13 @@ def build(root):
     korean = json.loads((folder/'external_korean_texts.json').read_text(encoding='utf-8'))
     titles = {x['uid']:x['title_ko'] for x in previews['entries'] if x.get('uid') and x.get('title_ko')}
     translations = {x['uid']:x for x in korean['entries'] if x.get('coverage')=='full' and x.get('body_ko')}
+    new_korean = json.loads((folder/'external_korean_translations.json').read_text(encoding='utf-8'))
+    for item in new_korean['entries']:
+        if item['uid'] in translations:
+            raise ValueError('Existing full Korean translation must be preserved: '+item['uid'])
+        if item.get('coverage')!='available_source_text' or not item.get('body_ko'):
+            raise ValueError('Expected a translation of available source text: '+item['uid'])
+        translations[item['uid']] = item
     groups = defaultdict(list)
     for item in data['entries']:
         if item['game'] not in LABELS:
@@ -30,6 +37,12 @@ def build(root):
                    needs_source_review=True)
         if translated:
             row.update(title_ko=translated['title_ko'],ko=translated['body_ko'],content_language='ko',status='translated')
+            if translated.get('coverage')=='available_source_text':
+                if translated.get('source_sha256')!=item['source_sha256']:
+                    raise ValueError('Translation source has changed: '+item['uid'])
+                row.update(translation_coverage=translated['coverage'],
+                           needs_translation_review=translated.get('needs_translation_review',True),
+                           translation_notes=translated.get('translation_notes',''))
         groups[item['game']].append(row)
     catalog, fulltext, results = [], [], []
     for game,label in LABELS.items():
@@ -46,6 +59,9 @@ def build(root):
                                 path=game+'/'+row['file_path'],source=row['source_ref'],
                                 preview=' '.join(body.split())[:185],length=len(body),
                                 content_language=row['content_language'],translation_status=row['status']))
+            if row.get('translation_coverage')=='available_source_text':
+                catalog[-1].update(translation_coverage=row['translation_coverage'],
+                                   needs_translation_review=row['needs_translation_review'])
             fulltext.append(dict(uid=row['book_id'],text=body))
     (folder/'additional_catalog.json').write_text(json.dumps(dict(schema_version=1,books=catalog,
         counts={g:len(groups[g]) for g in LABELS}),ensure_ascii=False,separators=(',',':')),encoding='utf-8')
