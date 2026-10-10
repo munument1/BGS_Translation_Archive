@@ -88,12 +88,12 @@
       const previewResponse=await fetch("./books/external_korean_previews.json");
       if(previewResponse.ok){
         const previews=await previewResponse.json();
-        const norm=text=>String(text||"").toLocaleLowerCase().normalize("NFKC").replace(/\\s+/g," ").trim();
-        const byUrl=new Map((previews.entries||[]).map(x=>[String(x.source_url).replace(/\\/$/,"").toLowerCase(),x]));
-        const byTitle=new Map((previews.entries||[]).map(x=>[x.game+"|"+norm(x.title_en).replace(/\\s*\\[tesa:\\s*redguard\\]$/,""),x]));
+        const norm=text=>String(text||"").toLocaleLowerCase().normalize("NFKC").replace(/\s+/g," ").trim();
+        const byUrl=new Map((previews.entries||[]).map(x=>[String(x.source_url).replace(/\/$/,"").toLowerCase(),x]));
+        const byTitle=new Map((previews.entries||[]).map(x=>[x.game+"|"+norm(x.title_en).replace(/\s*\[tesa:\s*redguard\]$/,""),x]));
         all=all.map(x=>{
-          const preview=byUrl.get(String(x.source_url||"").replace(/\\/$/,"").toLowerCase())||
-            byTitle.get(x.game+"|"+norm(x.title_en).replace(/\\s*\\[tesa:\\s*redguard\\]$/,""));
+          const preview=byUrl.get(String(x.source_url||"").replace(/\/$/,"").toLowerCase())||
+            byTitle.get(x.game+"|"+norm(x.title_en).replace(/\s*\[tesa:\s*redguard\]$/,""));
           return preview ? {...x,title_ko:preview.title_ko,source_description:preview.summary_ko,korean_preview:true} : x;
         });
       }
