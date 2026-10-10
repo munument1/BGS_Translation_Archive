@@ -1,9 +1,18 @@
 {
-  "description": "Local source-reference based Korean book-title translations and original Korean summaries; not full-text republication.",
-  "translation_type": "title_and_independent_summary",
+  "description": "First-pass Korean title translations for 71 external game-book index entries; 5 have original Korean summaries. No book bodies are republished.",
+  "translation_type": "titles_with_select_summaries",
+  "translation_review_status": "first_pass",
   "body_republication_authorized": false,
   "entries": [
     {
+      "uid": "ext-1326e09d0248f5a7faca",
+      "game": "battlespire",
+      "title_en": "From “The Chronicles of Janisiere”",
+      "title_ko": "『자니시에르 연대기』 발췌",
+      "source_url": "https://www.imperial-library.info/content/chronicles-janisiere"
+    },
+    {
+      "uid": "ext-3e7972ec1e51a4a6520d",
       "game": "battlespire",
       "title_en": "Arcana Restored",
       "title_ko": "비전술 복원",
@@ -12,14 +21,343 @@
       "source_completeness": "transcribed_full"
     },
     {
-      "game": "redguard",
-      "title_en": "Elven Artifacts",
-      "title_ko": "엘프의 유물",
-      "source_url": "https://www.imperial-library.info/content/elven-artifacts",
-      "summary_ko": "마법을 흡수하는 릴란드릴의 플라스크를 다룬 기록. 첫 번째 시대에 발견된 이 유물은 창립자들이 배를 타고 이동하던 중 스트로스 므카이 앞바다에서 잃어버렸다고 전해집니다. 고대 문서에 위치를 암시하는 단서가 남아 있습니다.",
-      "source_completeness": "fragment"
+      "uid": "ext-5ac3c33dc521810d3d53",
+      "game": "battlespire",
+      "title_en": "Book of Rest and Endings",
+      "title_ko": "안식과 종말의 서",
+      "source_url": "https://www.imperial-library.info/content/book-rest-and-endings"
     },
     {
+      "uid": "ext-624381df414cf9d33dcf",
+      "game": "battlespire",
+      "title_en": "Book of The Wheels of Heaven",
+      "title_ko": "천상의 수레바퀴에 관한 책",
+      "source_url": "https://www.imperial-library.info/content/book-wheels-heaven"
+    },
+    {
+      "uid": "ext-84f9e0765cbff7471013",
+      "game": "battlespire",
+      "title_en": "Instructions for After the Hunt",
+      "title_ko": "사냥 후 지침",
+      "source_url": "https://www.imperial-library.info/content/instructions-after-hunt"
+    },
+    {
+      "uid": "ext-33e8e2a9ddb2b52467ed",
+      "game": "battlespire",
+      "title_en": "The Vagaries Of Magicka",
+      "title_ko": "매지카의 변덕",
+      "source_url": "https://www.imperial-library.info/content/vagaries-magicka"
+    },
+    {
+      "uid": "ext-8c9bb47be51c6feafc5d",
+      "game": "battlespire",
+      "title_en": "Trebuchet Ritual",
+      "title_ko": "투석기 의식",
+      "source_url": "https://www.imperial-library.info/content/trebuchet-ritual"
+    },
+    {
+      "uid": "ext-470354b54f2b0d572387",
+      "game": "battlespire",
+      "title_en": "From “Private Proceedings of the Imperial Commission”",
+      "title_ko": "『제국 위원회 비공개 회의록』 발췌",
+      "source_url": "https://www.imperial-library.info/content/private-proceedings-imperial-commission"
+    },
+    {
+      "uid": "ext-768c1a54babf50fc756d",
+      "game": "battlespire",
+      "title_en": "From private correspondence of Julianos Cennan, Chamberlain to Uriel Septim",
+      "title_ko": "유리엘 셉팀의 시종장 율리아노스 세난의 사적인 서신 발췌",
+      "source_url": "https://www.imperial-library.info/content/private-correspondence-julianos-cennan-chamberlain-uriel-septimu"
+    },
+    {
+      "uid": "ext-7e754dbdab9cad7e0029",
+      "game": "battlespire",
+      "title_en": "Posting of The Hunt Excerpts",
+      "title_ko": "사냥 포고문 발췌",
+      "source_url": "https://www.imperial-library.info/content/posting-hunt-excerpts"
+    },
+    {
+      "uid": "ext-a5de005cdf1100c48312",
+      "game": "battlespire",
+      "title_en": "Spirit of the Daedra",
+      "title_ko": "데이드라의 정신",
+      "source_url": "https://www.imperial-library.info/content/spirit-daedra"
+    },
+    {
+      "uid": "ext-ff2405442ef25d570192",
+      "game": "battlespire",
+      "title_en": "The Posting of the Hunt",
+      "title_ko": "사냥의 포고문",
+      "source_url": "https://www.imperial-library.info/content/posting-hunt"
+    },
+    {
+      "uid": "ext-4b1735dc193e841fc8af",
+      "game": "battlespire",
+      "title_en": "The Requisite Book of Daedra",
+      "title_ko": "데이드라 필수 지침서",
+      "source_url": "https://www.imperial-library.info/content/requisite-book-daedra"
+    },
+    {
+      "uid": "ext-b840ddfbf190a53e1c82",
+      "game": "battlespire",
+      "title_en": "Chimere’s Notes About the Armor of the Savior’s Hide",
+      "title_ko": "구원자의 가죽 갑옷에 관한 Chimere의 기록",
+      "source_url": "https://www.imperial-library.info/content/chimeres-notes-about-armor-saviors-hide"
+    },
+    {
+      "uid": "ext-2d4ee24cc0829f3dc8bc",
+      "game": "battlespire",
+      "title_en": "Harvest’s End, 3E 172",
+      "title_ko": "제3시대 172년, 수확의 끝",
+      "source_url": "https://www.imperial-library.info/content/harvests-end-3e-172"
+    },
+    {
+      "uid": "ext-2bcf5e7e51a539f1a624",
+      "game": "battlespire",
+      "title_en": "Book of Life and Service",
+      "title_ko": "생명과 봉사의 서",
+      "source_url": "https://www.imperial-library.info/content/book-life-and-service"
+    },
+    {
+      "uid": "ext-ec2b929a4f6e908ace71",
+      "game": "battlespire",
+      "title_en": "The Kendhall Book of Riddles",
+      "title_ko": "켄드홀 수수께끼집",
+      "source_url": "https://www.imperial-library.info/content/kendhall-book-riddles"
+    },
+    {
+      "uid": "ext-da47aec4dc361bbde626",
+      "game": "battlespire",
+      "title_en": "Quarantine Warning",
+      "title_ko": "격리 경고문",
+      "source_url": "https://www.imperial-library.info/content/quarantine-warning"
+    },
+    {
+      "uid": "ext-4e095c2cb3f5f030846c",
+      "game": "battlespire",
+      "title_en": "Star Galley Crib Note",
+      "title_ko": "스타 갤리의 요람에 관한 쪽지",
+      "source_url": "https://www.imperial-library.info/content/star-galley-crib-note"
+    },
+    {
+      "uid": "ext-94ec47f36cafb38ea051",
+      "game": "battlespire",
+      "title_en": "Star Galley Crib Opening Mechanism Note",
+      "title_ko": "스타 갤리 요람 개방 장치에 관한 쪽지",
+      "source_url": "https://www.imperial-library.info/content/star-galley-crib-opening-mechanism-note"
+    },
+    {
+      "uid": "ext-f87d1e6eaa832ce0b2e3",
+      "game": "battlespire",
+      "title_en": "Soul Cairn Coffin Verses Inscription",
+      "title_ko": "소울 케언 관에 새겨진 운문",
+      "source_url": "https://www.imperial-library.info/content/soul-cairn-coffin-verses-inscription"
+    },
+    {
+      "uid": "ext-bbc24b808b31eae13428",
+      "game": "battlespire",
+      "title_en": "Soul Cairn Retainer Inscription",
+      "title_ko": "소울 케언 수행원의 비문",
+      "source_url": "https://www.imperial-library.info/content/soul-cairn-retainer-inscription"
+    },
+    {
+      "uid": "ext-a55df2b68dd93298c4a2",
+      "game": "battlespire",
+      "title_en": "Soul Cairn Stained Glass Window Note",
+      "title_ko": "소울 케언 스테인드글라스 창에 관한 쪽지",
+      "source_url": "https://www.imperial-library.info/content/soul-cairn-stained-glass-window-note"
+    },
+    {
+      "uid": "ext-d0ad30afd83089a52b8c",
+      "game": "battlespire",
+      "title_en": "Spear of Bitter Mercy Inscription",
+      "title_ko": "쓰라린 자비의 창 비문",
+      "source_url": "https://www.imperial-library.info/content/spear-bitter-mercy-inscription"
+    },
+    {
+      "uid": "ext-0851f48bebcdbcda8cda",
+      "game": "battlespire",
+      "title_en": "Anchor Warning",
+      "title_ko": "닻에 관한 경고",
+      "source_url": "https://www.imperial-library.info/content/anchor-warning"
+    },
+    {
+      "uid": "ext-7ef789f26a3a427104c6",
+      "game": "battlespire",
+      "title_en": "Chimere’s Journal",
+      "title_ko": "Chimere의 일지",
+      "source_url": "https://www.imperial-library.info/content/chimeres-journal"
+    },
+    {
+      "uid": "ext-9cb02ea71d6096f40a0b",
+      "game": "battlespire",
+      "title_en": "Password Notes",
+      "title_ko": "암호 쪽지",
+      "source_url": "https://www.imperial-library.info/content/password-notes"
+    },
+    {
+      "uid": "ext-9e97643efe8c20471c35",
+      "game": "battlespire",
+      "title_en": "Starlover’s Log",
+      "title_ko": "별을 사랑하는 자의 기록",
+      "source_url": "https://www.imperial-library.info/content/starlovers-log"
+    },
+    {
+      "uid": "ext-1c57abb1320abd00eff4",
+      "game": "battlespire",
+      "title_en": "Boustrophedon Note",
+      "title_ko": "부스트로페돈 방식으로 쓴 쪽지",
+      "source_url": "https://www.imperial-library.info/content/boustrophedon-note"
+    },
+    {
+      "uid": "ext-ac89861a51835aa5b659",
+      "game": "battlespire",
+      "title_en": "Intelligence Training Note",
+      "title_ko": "지능 훈련 쪽지",
+      "source_url": "https://www.imperial-library.info/content/intelligence-training-note"
+    },
+    {
+      "uid": "ext-33431114925252baa952",
+      "game": "battlespire",
+      "title_en": "Jagar Tharn’s Letter",
+      "title_ko": "재거 탄의 편지",
+      "source_url": "https://www.imperial-library.info/content/jagar-tharns-letter"
+    },
+    {
+      "uid": "ext-d2d20c497ebf554b615e",
+      "game": "battlespire",
+      "title_en": "Lehmekweh Note",
+      "title_ko": "레메크웨의 쪽지",
+      "source_url": "https://www.imperial-library.info/content/lehmekweh-note"
+    },
+    {
+      "uid": "ext-c2858505b6648d713f03",
+      "game": "battlespire",
+      "title_en": "Letter From Balaherne",
+      "title_ko": "발라헤른의 편지",
+      "source_url": "https://www.imperial-library.info/content/letter-balaherne"
+    },
+    {
+      "uid": "ext-7c169e7c72caf80f434e",
+      "game": "battlespire",
+      "title_en": "Letter From Chimere Graegyn",
+      "title_ko": "Chimere Graegyn의 편지",
+      "source_url": "https://www.imperial-library.info/content/letter-chimere-graegyn"
+    },
+    {
+      "uid": "ext-367ea1ee1addb5f389ce",
+      "game": "battlespire",
+      "title_en": "Letter To Fire Daedra",
+      "title_ko": "화염 데이드라에게 보내는 편지",
+      "source_url": "https://www.imperial-library.info/content/letter-fire-daedra"
+    },
+    {
+      "uid": "ext-07b82272ce4089eb2846",
+      "game": "battlespire",
+      "title_en": "Letter To Mactana Greenway",
+      "title_ko": "막타나 그린웨이에게 보내는 편지",
+      "source_url": "https://www.imperial-library.info/content/letter-mactana-greenway"
+    },
+    {
+      "uid": "ext-6219dd323ba438cc73b5",
+      "game": "battlespire",
+      "title_en": "Letter To The Grand Marshall of The Imperial Legion",
+      "title_ko": "제국 군단 총사령관에게 보내는 편지",
+      "source_url": "https://www.imperial-library.info/content/letter-grand-marshall-imperial-legion"
+    },
+    {
+      "uid": "ext-1f433cc04588d9256580",
+      "game": "battlespire",
+      "title_en": "Letters For The Battlespire Hero",
+      "title_ko": "배틀스파이어 영웅에게 보내는 편지들",
+      "source_url": "https://www.imperial-library.info/content/letters-battlespire-hero"
+    },
+    {
+      "uid": "ext-63e18b74e583105b25e9",
+      "game": "battlespire",
+      "title_en": "Letters From The Dremora",
+      "title_ko": "드레모라가 보낸 편지들",
+      "source_url": "https://www.imperial-library.info/content/letters-dremora"
+    },
+    {
+      "uid": "ext-d905ba71ed3d0cdd790f",
+      "game": "battlespire",
+      "title_en": "Note to Jaciel",
+      "title_ko": "자시엘에게 보내는 쪽지",
+      "source_url": "https://www.imperial-library.info/content/note-jaciel"
+    },
+    {
+      "uid": "ext-c9d45329cefe3d00c43c",
+      "game": "battlespire",
+      "title_en": "Savior’s Hide Note",
+      "title_ko": "구원자의 가죽에 관한 쪽지",
+      "source_url": "https://www.imperial-library.info/content/saviors-hide-note"
+    },
+    {
+      "uid": "ext-3bb777954841d32b0739",
+      "game": "battlespire",
+      "title_en": "Someone’s Last Words",
+      "title_ko": "누군가의 유언",
+      "source_url": "https://www.imperial-library.info/content/someones-last-words"
+    },
+    {
+      "uid": "ext-c1792f6fbfa66d36d8be",
+      "game": "battlespire",
+      "title_en": "A Short History of The Augmented Craftworks",
+      "title_ko": "증강 공예품의 간략한 역사",
+      "source_url": "https://www.imperial-library.info/content/short-history-augmented-craftworks"
+    },
+    {
+      "uid": "ext-69c8a880f83f8e170930",
+      "game": "battlespire",
+      "title_en": "Codex Arcana",
+      "title_ko": "비전술 법전",
+      "source_url": "https://www.imperial-library.info/content/codex-arcana"
+    },
+    {
+      "uid": "ext-70e46937b444fc64a509",
+      "game": "battlespire",
+      "title_en": "Curiosities Of The Second Age",
+      "title_ko": "제2시대의 진기한 물품들",
+      "source_url": "https://www.imperial-library.info/content/curiosities-second-age"
+    },
+    {
+      "uid": "ext-6da2228c392847c44ec1",
+      "game": "battlespire",
+      "title_en": "Imago’s Notes About Neonymics",
+      "title_ko": "네오니믹에 관한 이마고의 기록",
+      "source_url": "https://www.imperial-library.info/content/imagos-notes-about-neonymics"
+    },
+    {
+      "uid": "ext-327ed5607544025e713f",
+      "game": "battlespire",
+      "title_en": "Malham’s Annotated Compendium of Arcane Contrivances of the Second Age, Volume IV",
+      "title_ko": "말함의 주석 달린 제2시대 비전 장치 대전, 제4권",
+      "source_url": "https://www.imperial-library.info/content/malhams-annotated-compendium-arcane-contrivances-second-age-volume-iv"
+    },
+    {
+      "uid": "ext-8dce0c5857d97e96cef1",
+      "game": "battlespire",
+      "title_en": "Starkhorn’s Compendium Of His Arts And Crafts In The Realms Of Lesser Enchantments",
+      "title_ko": "하급 마법의 영역에서 쌓은 스타크혼의 기술과 공예 대전",
+      "source_url": "https://www.imperial-library.info/content/starkhorns-compendium-his-arts-and-crafts-realms-lesser-enchantments"
+    },
+    {
+      "uid": "ext-2e3a5bda275d33937065",
+      "game": "battlespire",
+      "title_en": "The Restricted List of Noble Artifacts",
+      "title_ko": "귀중한 유물 제한 목록",
+      "source_url": "https://www.imperial-library.info/content/restricted-list-noble-artifacts"
+    },
+    {
+      "uid": "ext-3a0f63be9a4116c914f2",
+      "game": "battlespire",
+      "title_en": "The Waters of Oblivion",
+      "title_ko": "오블리비언의 물",
+      "source_url": "https://www.imperial-library.info/content/battlespire-waters-oblivion"
+    },
+    {
+      "uid": "ext-6d7209dc7e6ce13f7b31",
       "game": "redguard",
       "title_en": "Book of Dwarven Lore",
       "title_ko": "드웨머 전승서",
@@ -28,6 +366,16 @@
       "source_completeness": "description_only"
     },
     {
+      "uid": "ext-17145c6d060a882fe892",
+      "game": "redguard",
+      "title_en": "Elven Artifacts",
+      "title_ko": "엘프의 유물",
+      "source_url": "https://www.imperial-library.info/content/elven-artifacts",
+      "summary_ko": "마법을 흡수하는 릴란드릴의 플라스크를 다룬 기록. 첫 번째 시대에 발견된 이 유물은 창립자들이 배를 타고 이동하던 중 스트로스 므카이 앞바다에서 잃어버렸다고 전해집니다. 고대 문서에 위치를 암시하는 단서가 남아 있습니다.",
+      "source_completeness": "fragment"
+    },
+    {
+      "uid": "ext-2779e98c5c3c56d93d34",
       "game": "redguard",
       "title_en": "Redguards, Their Heroes and History [TESA: Redguard]",
       "title_ko": "레드가드: 영웅과 역사",
@@ -36,12 +384,132 @@
       "source_completeness": "fragment"
     },
     {
+      "uid": "ext-726dee95276a12be04c6",
+      "game": "redguard",
+      "title_en": "The Origin of Cyrus!",
+      "title_ko": "사이러스의 기원!",
+      "source_url": "https://www.imperial-library.info/content/origin-cyrus"
+    },
+    {
+      "uid": "ext-4edb5a5a2525f5f7389c",
+      "game": "redguard",
+      "title_en": "Ffoulkes’ Firmament",
+      "title_ko": "풀크스의 천구",
+      "source_url": "https://www.imperial-library.info/content/redguard-firmament"
+    },
+    {
+      "uid": "ext-a206921d7ba3e152eeac",
+      "game": "redguard",
+      "title_en": "Flora of Hammerfell",
+      "title_ko": "해머펠의 식물상",
+      "source_url": "https://www.imperial-library.info/content/flora-hammerfell"
+    },
+    {
+      "uid": "ext-02516ed1c4158815a11d",
+      "game": "redguard",
+      "title_en": "Crendal the Town Drunk’s Drunken Song",
+      "title_ko": "마을 주정뱅이 크렌달의 술 노래",
+      "source_url": "https://www.imperial-library.info/content/crendal-town-drunks-drunken-song"
+    },
+    {
+      "uid": "ext-1ed6eefbb311935fe465",
+      "game": "redguard",
+      "title_en": "Restless League Insignia",
+      "title_ko": "불굴의 연맹 표장",
+      "source_url": "https://www.imperial-library.info/content/restless-league-insignia"
+    },
+    {
+      "uid": "ext-f8fc052fab5bdd6b3dd4",
+      "game": "redguard",
+      "title_en": "Richton’s Palace Expansion Schematic",
+      "title_ko": "리히턴의 궁전 확장 설계도",
+      "source_url": "https://www.imperial-library.info/content/richtons-palace-expansion-schematic"
+    },
+    {
+      "uid": "ext-93aca7b069065a122911",
+      "game": "redguard",
+      "title_en": "The Flask of Lillandril Maps",
+      "title_ko": "릴란드릴의 플라스크 지도",
+      "source_url": "https://www.imperial-library.info/content/flask-lillandril-maps"
+    },
+    {
+      "uid": "ext-fded7edea602adab5128",
+      "game": "redguard",
+      "title_en": "Wanted: Cyrus",
+      "title_ko": "수배: 사이러스",
+      "source_url": "https://www.imperial-library.info/content/wanted-cyrus"
+    },
+    {
+      "uid": "ext-fa2ab5107b1bac2ea647",
+      "game": "redguard",
+      "title_en": "Keep Out",
+      "title_ko": "출입 금지",
+      "source_url": "https://www.imperial-library.info/content/keep-out"
+    },
+    {
+      "uid": "ext-40cc3f2f8e852b026f92",
+      "game": "redguard",
+      "title_en": "No Trespassing",
+      "title_ko": "무단출입 금지",
+      "source_url": "https://www.imperial-library.info/content/no-trespassing"
+    },
+    {
+      "uid": "ext-6df889179f22e00d516b",
+      "game": "redguard",
+      "title_en": "Brother Kithral’s Journal",
+      "title_ko": "키스랄 형제의 일지",
+      "source_url": "https://www.imperial-library.info/content/brother-kithrals-journal"
+    },
+    {
+      "uid": "ext-e93cd677853e432fbbce",
+      "game": "redguard",
+      "title_en": "Iszara’s Journal",
+      "title_ko": "이자라의 일지",
+      "source_url": "https://www.imperial-library.info/content/iszaras-journal"
+    },
+    {
+      "uid": "ext-1ef18500dacd58354e7b",
+      "game": "redguard",
+      "title_en": "Tobias’ Letter",
+      "title_ko": "토비아스의 편지",
+      "source_url": "https://www.imperial-library.info/content/tobias-letter"
+    },
+    {
+      "uid": "ext-dd1134324c375ba96d47",
       "game": "shadowkey",
       "title_en": "Brown Scroll",
       "title_ko": "갈색 두루마리",
       "source_url": "https://www.imperial-library.info/content/shadowkey-brown-scroll",
       "summary_ko": "자거 탄이 라크반에게 보낸 경고문. 그는 그림자 마법사 페르간 아술과의 교류를 중단하라고 요구하며, 스켈로스 운드리엘을 제거하려는 자신의 계획이 위험해지는 것을 경계합니다.",
       "source_completeness": "transcribed_full"
+    },
+    {
+      "uid": "ext-11c04edcbe743ee3b86d",
+      "game": "shadowkey",
+      "title_en": "Council Hall Scroll",
+      "title_ko": "평의회 회관 두루마리",
+      "source_url": "https://www.imperial-library.info/content/shadowkey-council-hall-scroll"
+    },
+    {
+      "uid": "ext-30d6553e3fc287040931",
+      "game": "shadowkey",
+      "title_en": "Letter from General Duvais",
+      "title_ko": "듀베 장군의 편지",
+      "source_url": "https://www.imperial-library.info/content/shadowkey-letter-general-duvais"
+    },
+    {
+      "uid": "ext-160b4647a82c3f353547",
+      "game": "shadowkey",
+      "title_en": "Twilight Temple Scrolls #1",
+      "title_ko": "황혼 사원 두루마리 1",
+      "source_url": "https://www.imperial-library.info/content/shadowkey-scrolls-1"
+    },
+    {
+      "uid": "ext-925eadadbf345ed01038",
+      "game": "shadowkey",
+      "title_en": "Twilight Temple Scrolls #2",
+      "title_ko": "황혼 사원 두루마리 2",
+      "source_url": "https://www.imperial-library.info/content/shadowkey-scrolls-2"
     }
   ]
 }
