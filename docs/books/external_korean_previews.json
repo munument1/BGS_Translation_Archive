@@ -1,0 +1,47 @@
+{
+  "description": "Local source-reference based Korean book-title translations and original Korean summaries; not full-text republication.",
+  "translation_type": "title_and_independent_summary",
+  "body_republication_authorized": false,
+  "entries": [
+    {
+      "game": "battlespire",
+      "title_en": "Arcana Restored",
+      "title_ko": "비전술 복원",
+      "source_url": "https://www.imperial-library.info/content/arcana-restored-1",
+      "summary_ko": "왑나 노이스트라가 쓴 마법 유물 복원 지침서. 순금으로 마나 분수를 준비하고 정확한 주문으로 유물의 힘을 되살린 뒤, 복원 과정에서 입은 마나 화상과 부상을 치료하도록 안내합니다.",
+      "source_completeness": "transcribed_full"
+    },
+    {
+      "game": "redguard",
+      "title_en": "Elven Artifacts",
+      "title_ko": "엘프의 유물",
+      "source_url": "https://www.imperial-library.info/content/elven-artifacts",
+      "summary_ko": "마법을 흡수하는 릴란드릴의 플라스크를 다룬 기록. 첫 번째 시대에 발견된 이 유물은 창립자들이 배를 타고 이동하던 중 스트로스 므카이 앞바다에서 잃어버렸다고 전해집니다. 고대 문서에 위치를 암시하는 단서가 남아 있습니다.",
+      "source_completeness": "fragment"
+    },
+    {
+      "game": "redguard",
+      "title_en": "Book of Dwarven Lore",
+      "title_ko": "드웨머 전승서",
+      "source_url": "https://www.imperial-library.info/content/book-dwarven-lore",
+      "summary_ko": "드웨머의 멸망과 언어에 관해 설명하는 짧은 개론서. 현재 보관된 자료에서는 게임 내 책 설명과 상인의 소개만 확인되며, 본문 전문은 확보되지 않았습니다.",
+      "source_completeness": "description_only"
+    },
+    {
+      "game": "redguard",
+      "title_en": "Redguards, Their Heroes and History [TESA: Redguard]",
+      "title_ko": "레드가드: 영웅과 역사",
+      "source_url": "https://www.imperial-library.info/content/redguards-their-heroes-and-history",
+      "summary_ko": "레드가드의 기원과 영웅 훈딩·레키를 다루는 역사서. 확인된 발췌에는 훈딩의 어린 시절과 가족을 부양한 이야기가 남아 있으며, 전체 본문은 일부만 보관되어 있습니다.",
+      "source_completeness": "fragment"
+    },
+    {
+      "game": "shadowkey",
+      "title_en": "Brown Scroll",
+      "title_ko": "갈색 두루마리",
+      "source_url": "https://www.imperial-library.info/content/shadowkey-brown-scroll",
+      "summary_ko": "자거 탄이 라크반에게 보낸 경고문. 그는 그림자 마법사 페르간 아술과의 교류를 중단하라고 요구하며, 스켈로스 운드리엘을 제거하려는 자신의 계획이 위험해지는 것을 경계합니다.",
+      "source_completeness": "transcribed_full"
+    }
+  ]
+}
