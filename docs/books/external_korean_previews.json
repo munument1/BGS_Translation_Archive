@@ -1,8 +1,7 @@
 {
-  "description": "First-pass Korean title translations for 71 external game-book index entries; 5 have original Korean summaries. No book bodies are republished.",
+  "description": "First-pass Korean title translations for 71 external game-book entries; 5 Korean summaries. Available translated reading texts are kept separately in external_korean_texts.json.",
   "translation_type": "titles_with_select_summaries",
   "translation_review_status": "first_pass",
-  "body_republication_authorized": false,
   "entries": [
     {
       "uid": "ext-1326e09d0248f5a7faca",
