@@ -23,9 +23,11 @@
     const desc=document.createElement("p");
     desc.textContent=x.source_description||"참고용 서적 제목 · 게임별 출처";
     const note=document.createElement("div");note.className="review-note";
-    note.textContent=x.direct_link?
-      "미번역 · 원문/번역 전문 미수록 · 개별 출처 링크":
-      "미번역 · 원문/번역 전문 미수록 · 게임별 출처 링크";
+    note.textContent=x.korean_preview?
+      "한국어 제목·내용 소개 제공 · 번역 전문 미수록 · 개별 출처 링크":
+      (x.direct_link?
+        "미번역 · 원문/번역 전문 미수록 · 개별 출처 링크":
+        "미번역 · 원문/번역 전문 미수록 · 게임별 출처 링크");
     const link=document.createElement("a");
     link.target="_blank";link.rel="noopener noreferrer";
     const url=x.source_url;
@@ -82,6 +84,20 @@
       error.hidden=false;
       error.textContent="전체 서지 색인 생성 이전 자료를 표시합니다.";
     }
+    try {
+      const previewResponse=await fetch("./books/external_korean_previews.json");
+      if(previewResponse.ok){
+        const previews=await previewResponse.json();
+        const norm=text=>String(text||"").toLocaleLowerCase().normalize("NFKC").replace(/\\s+/g," ").trim();
+        const byUrl=new Map((previews.entries||[]).map(x=>[String(x.source_url).replace(/\\/$/,"").toLowerCase(),x]));
+        const byTitle=new Map((previews.entries||[]).map(x=>[x.game+"|"+norm(x.title_en).replace(/\\s*\\[tesa:\\s*redguard\\]$/,""),x]));
+        all=all.map(x=>{
+          const preview=byUrl.get(String(x.source_url||"").replace(/\\/$/,"").toLowerCase())||
+            byTitle.get(x.game+"|"+norm(x.title_en).replace(/\\s*\\[tesa:\\s*redguard\\]$/,""));
+          return preview ? {...x,title_ko:preview.title_ko,source_description:preview.summary_ko,korean_preview:true} : x;
+        });
+      }
+    }catch(error){console.warn("Korean book previews unavailable",error);}
     try {
       const bookResponse=await fetch("./untranslated/lookup.json");
       if(bookResponse.ok){
