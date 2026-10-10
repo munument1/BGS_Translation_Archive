@@ -33,9 +33,9 @@
     parent.appendChild(element);
     return element;
   };
+  const style=add(document.head,"style",null,styling);
+  style.dataset.archiveReader="true";
   function build() {
-    const style=add(document.head,"style",null,styling);
-    style.dataset.archiveReader="true";
     layer=add(document.body,"div","til-reader-layer");
     layer.hidden=true;
     const dialog=add(layer,"section","til-reader-window");
