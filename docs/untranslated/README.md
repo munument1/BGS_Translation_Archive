@@ -36,6 +36,20 @@
 
 관련 참고: [외부 서적 색인](../imperial-library.html) · [서적 이용 및 검수 기준](../books/EXTERNAL_SOURCES.md)
 
+
+## 외전·ESO 일지 영문 원문을 로컬에 가져오기
+
+공개 서적 목록에서 확보한 **배틀스파이어 50건, 레드가드 16건, 섀도키 5건, ESO 일지·편지 2,233건**은 개별 원문 주소가 연결돼 있습니다.
+
+사용 권한과 원본 사이트의 접근 정책을 확인한 후, PC의 번역 작업용 로컬 폴더로 소량씩 가져올 수 있습니다.
+
+```powershell
+python tools/import_til_originals_local.py --game redguard --limit 5
+python tools/import_til_originals_local.py --game eso_journals --limit 5
+```
+
+도구는 `robots.txt`를 읽어 접근 허용 여부를 확인하고 요청 간 **최소 10.5초**를 유지합니다. 한 번에 최대 50개 URL만 요청하며, 다시 실행하면 이미 저장한 책을 건너뛰고 다음 항목부터 이어서 수집합니다. 원문은 `work/imperial_library_originals/<game>/`에만 보관하며 Git과 웹사이트에는 게시하지 않습니다.
+
 ## 로컬 영문 원문 준비 (ESP/ESM 미필요)
 
 사용 권한이 있는 ESO 참고 EPUB을 준비했다면 저장소 최상위에서 Node.js로 실행할 수 있습니다.
