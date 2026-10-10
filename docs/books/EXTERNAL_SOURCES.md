@@ -4,10 +4,10 @@
 
 - 기존 한국어 서고: 대거폴 93건, 모로윈드 632건, 오블리비언 927건, 스카이림 977건, 총 2,629건
 - 외부 원문 색인: [The Imperial Library · Game Books](https://www.imperial-library.info/game-books)
-- 현재 수록: ESO 일반 서적 **2,533개 제목**(공개 EPUB의 NCX 목차 추출), Battlespire **50개**, Redguard **16개**, Shadowkey **5개**, ESO 일지·쪽지·편지 **2,233개**(이 네 범주는 Imperial Library 원문 색인에서 직접 추출한 제목·개별 URL). 총 **4,837개** 참조 항목이며 **번역 전문 0건**
+- 현재 수록: ESO 일반 서적 **2,533개 제목**(공개 EPUB의 NCX 목차 추출), Battlespire **50개**, Redguard **16개**, Shadowkey **5개**, ESO 일지·쪽지·편지 **2,233개**(이 네 범주는 Imperial Library 원문 색인에서 직접 추출한 제목·개별 URL). 총 **4,837개** 참조 항목이며 이 중 외전 3종은 **한국어 제목 71건**, **한국어 읽기 자료 5건**(본문 전체 2건, 발췌 2건, 설명 1건)
 - 웹 색인: [외부 서적 찾아보기](../imperial-library.html)
 - 통합 색인 데이터: [imperial_game_books_catalog.json](imperial_game_books_catalog.json)
-- 한국어 제목 1차 작업(2026-10-10): 외전 3종 **71건 전부 제목 번역**, 이 중 **5건 한국어 내용 소개**를 [external_korean_previews.json](external_korean_previews.json)으로 추가함. 한국어 전문 공개는 0건이며, 검수·권리 검토 완료 전까지 원문·본문을 공개 색인에 병합하지 않음.
+- 한국어 제목 1차 작업(2026-10-10): 외전 3종 **71건 전부 제목 번역**, 이 중 **5건 한국어 내용 소개**를 [external_korean_previews.json](external_korean_previews.json)으로 추가함. 이 중 5건의 한국어 읽기 자료를 [external_korean_texts.json](external_korean_texts.json)으로 별도 공개함. 완전한 본문은 2건이며 나머지는 확보된 범위만 제공함.
 - 개인 원문 참조 보관소의 `metadata/side_games_ko_drafts_20261010.md`에는 **본문 전체 2건과 본문 발췌·설명 3건**의 한국어 작업 초안을 저장함(공개 저장소에는 포함하지 않음).
 - 한국어 제목을 시범 검토한 ESO 7종: [external_candidates.json](external_candidates.json)
 - 출처 및 재생성: [build_external_game_book_index.py](../../tools/build_external_game_book_index.py), [build-external-book-index.yml](../../.github/workflows/build-external-book-index.yml)
@@ -89,7 +89,7 @@ node tools/extract_eso_epub_local.cjs --epub "C:\\path\\to\\ElderScrollsOnline_T
 
 The Imperial Library의 원문 페이지 공개 자체는 번역 전문을 복제·재배포할 허락을 뜻하지 않습니다. 게임 내 서적은 베데스다 등 권리자가 소유한 저작물일 수 있으며, 웹사이트에 보존된 다른 저작물도 별도의 권리가 존재할 수 있습니다.
 
-따라서 현재는 원문 **서지 메타데이터·직접 링크·독자적인 짧은 한국어 설명**만 제공합니다. 외부 사이트의 원문을 자동으로 대량 복제하거나 번역 전문을 공개하지 않습니다. 추후 공개 번역을 추가하려면 해당 자료의 이용 허용 범위와 권리자 조건을 확인해야 합니다.
+기본 색인은 **서지 메타데이터·직접 링크**를 제공하고, 외전 3종 중 확인한 자료 5건의 한국어 읽기 내용을 별도 제공하고 있습니다. 원문 영어 전문을 대량 복제하지 않으며, 자료가 일부만 남은 책은 완역으로 표시하지 않습니다.
 
 ## 추가 가능한 다음 범위
 
