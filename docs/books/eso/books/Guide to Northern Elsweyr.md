@@ -1,0 +1,23 @@
+# Guide to Northern Elsweyr
+
+ID: ext-fe9e08b01d38ed52698e
+
+Of all the far-flung provinces of this great Empire, none may be quite as welcoming as Elsweyr. Don’t let their beastly countenance fool you. The Khajiit are, by and large, a friendly and gracious people, eager to host visitors and entice travelers with all manner of goods and services. If you wish to vacation in a land of carefree ease, gentle breezes, and plentiful warmth, look no further!  
+  
+Should you travel there from Cyrodiil, you’ll enter the venerable province of AnequinaÐone of the two major regions that make up the province of ElsweyrÐand find the pastoral town of Riverhold waiting to welcome you.  
+  
+This bustling border town is a frequent stop for caravanners and travelers passing between Elsweyr and the greater Empire. The spacious town square acts as an open-air market where a wide array of goods are peddled right off the wagon by their enterprising owners, and the offerings vary by the hour as traders depart on their journeys or arrive from them. There’s plenty to do other than haggle, of course. The Banished Regrets inn frequently offers a selection of imported libations to ease a parched throat and the quiet atmosphere of the Temple of the Moon’s Blessing is sure to give you a moment’s peace. There is also a burgeoning House of Histories, which promises to exhibit the long and storied history of the Khajiit upon its completion.  
+  
+Once you’re refreshed and ready to resume your travels, a short caravan ride east of Riverhold will lead you to the capital of Anequina: Rimmen.  
+  
+On the road to Rimmen, you’ll begin to see that the land of Elsweyr is as diverse as the Khajiit themselves. The closer you draw to the flourishing city, the more apparent it becomes that here the arid savannah has been tamed and the dry grassland has given way to lush greenery and flooded steppes of cane paddies. Within Rimmen’s high walls, you will see that the misconception that Khajiit have an aversion to water is greatly exaggerated. Here trees and tropical plants thrive along artificial canals that weave throughout the city, supplied by a great aqueduct that spans the entire kingdom. Older than the city itself, it’s a wonder constructed in an era long behind us. Lounging along the waterways is a favorite pass-time for residents and visitors alike. Rimmen’s year-round warmth and largely clear skies make it a popular destination for vacationers from all around the Empire. Spend one day here and you’ll find that Khajiit hospitality is second to none!  
+  
+If you’re feeling adventurous and up for a considerable hike, you can while away your time following the Anequina Aqueduct through the countryside. While you’re touring the wonders of Anequina, you simply cannot miss the Scar, quite literally, an expansive canyon carved straight through the middle of the region. The sight of it from above or below is breathtaking in its magnitude and one you won’t want to miss. Though you may find the sight of a vast water source that’s just out of reach too much to bear in the arid scrub-lands that lie to the west.  
+  
+Before you endeavor to traverse the winding chasm that is the Scar, it would behoove you to stop by the city of Orcrest. While Riverhold is the gateway to Anequina, and Rimmen the capital, Orcrest is the center of commerce. This ancient, walled city rests along the cliffs of the Scar, outstretching its welcoming arms (its great bridges) to bring the disparate regions of Anequina together. Traders from all over the kingdom, and beyond come here to peddle their goods to their counterparts from neighboring Pellitine, Valenwood, and Cyrodiil. Few things cannot be found for sale here. It’s said that Khajiit here will part with their tail for the right price, but I’ll admit that my fluency with Ta’agra is not the best.  
+  
+You may have tired hustle and bustle of city life, there are plenty of quieter places to take in the scenery. Placid moon-sugar farms dot the meadows of Merryvale, where the cane stalks sway along with the songs of cheery harvesters in the cool breeze. Khajiiti temples to the Divines are both numerous and strikingly beautiful. Sunspire in particular dwarfs any cathedral in Kvatch. Though if you want a truly unique Elsweyr experience, spend some time meditating with the monks of one of their adeptoriums and take in the feats of strength, agility, and skill that these dedicated ascetics are capable of.  
+  
+If my words have brought you this far, I hope you’ll take a few steps more and begin your travels to one of the most wondrous provinces in the Empire!
+
+[출처](https://www.imperial-library.info/content/guide-northern-elsweyr)

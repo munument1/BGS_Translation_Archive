@@ -1,0 +1,17 @@
+# Mysteries of the Mundus Stones
+
+ID: ext-6378d9660600620eb623
+
+The influence of Aetherius, the plane of magicka and spirits, upon Nirn is unquestionable. It filters through the veil of Oblivion from laminar (and luminar) perforations left by the architect Magnus and the Magna-Ge as they fled Mundus, bringing light and magic to mortals. The motivations for their flight aside (and before I digress into Dawn Era origination theories and thought experiments about a Nirn completely separated from Aetherius), the stars, their power, and their arrangements have long been subjects of intense study and even worship in some cultures.  
+  
+The Ayleids are commonly associated with the practice of Aetherial magic. You can learn more about their creations in my work Aetherial Fragments, but suffice it to say they were able to manipulate and store starlight in ways we have yet to fully comprehend. The Nedic people also had an interest in the stars, though their culture was focused on theology over magical study. However, there is evidence that the highest echelons of Nedic priesthood preserved ancient rituals that invoked Aetherial magic. If what remains of their ponderous, flowery, and excruciating-to-translate poetry is any indication, they had a particular fascination with the constellations and their aspects.  
+  
+The constellations each occupy their own magical domains, as evidenced by the observable energies that emanate from Mundus Stones and their ability to instill power into individuals. We do not know who erected these stones (which can be found across all the provinces of Tamriel) or for what purpose, but their magical resonance tells us clearly that each constellation’s signature is quite unique. This raises questions: were the individual constellations deliberately formed the Magna-Ge, imparting their essence into the trans-constellatory light? Is each constellation a window into a different Aetherial realm, such as Sovngarde or the Far Shores?  
+  
+My own careful examination of several of the stones in the Alik’r Desert, which nearly exhausted my limited funding, revealed a curious phenomenon. Everyone knows that the guardian constellations— the Mage, Thief, and Warrior—are said to protect the other constellations from the destructive chaos of the Serpent, but my research may have exposed part of the magical underpinning of this legend. A survey of the Warrior stone uncovered strong Aetherial currents traveling from the stars into the stone and radiating outward, implying a cross-Tamrielic web. Why no other scholar or mage has commented on this, I cannot say. Mundus Stones are poorly studied, and it is possible that this energy is not always active.  
+  
+I theorize that there are other, related stones, as yet undiscovered, that further focus the power of the constellations. Could these magical pathways be manipulated—or, even more interestingly, reversed—to create a kind of Aetherial feedback? What would this permit us to achieve, and what would it teach us of the very nature of the relationship between Mundus and Aetherius?  
+  
+I fear that my work in this area has introduced more questions than it has answers, but you are undoubtedly as thrilled as I am by the implications of this research. Sadly, I have experienced difficulty in procuring additional funding for this project, and I am searching for new sponsors. I hope to pursue this intriguing discovery further as soon as possible.
+
+[출처](https://www.imperial-library.info/content/mysteries-mundus-stones)

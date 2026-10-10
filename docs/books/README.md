@@ -17,4 +17,18 @@ tools/extract_skyrim_books_node.cjs에서 추출한 한국어 서적 레코드�
 [외전·ESO 서적 보기](../imperial-library.html) — 외전 3종 제목 71건과 한국어 읽기 자료 5건(본문 2·발췌 2·설명 1)을 제공하며, 위 네 게임 2,629권 합계에는 포함하지 않습니다.
 [확장 및 저작권 검토 정책](EXTERNAL_SOURCES.md)
 
-번역 데이터의 원본 출처와 재배포 조건을 존중해야 합니다. 영어 서적 본문 전문은 포함하지 않습니다.
+번역 데이터의 원본 출처와 재배포 조건을 존중해야 합니다. 추가 게임의 영문 원문은 아래 외전과 온라인 서가에 수록합니다.
+
+## 외전과 온라인 서적
+
+기존 시리즈와 동일한 개별 Markdown·전체 합본·40권 분할본·JSONL 양식입니다. 미번역 서적은 영문으로 수록했습니다.
+
+| 게임 | 수록 | 열람 |
+|---|---:|---|
+| Battlespire | 50권 | [열기](battlespire/index.md) |
+| Redguard | 14권 | [열기](redguard/index.md) |
+| Shadowkey | 5권 | [열기](shadowkey/index.md) |
+| Online | 2,482권 | [열기](eso/index.md) |
+| Online Journals, Notes & Letters | 2,231권 | [열기](eso_journals/index.md) |
+
+[수록 현황 및 남은 항목](ENGLISH_SOURCES.md) · [웹 서가](../index.html)

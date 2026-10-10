@@ -1,0 +1,13 @@
+# War, Hunt, Deliverance
+
+ID: ext-dffdb526e1509da69666
+
+GOM HAKH ROAT VU QENRI  
+JOURNEY ON WITH MANY NAMES  
+WAR, HUNT, DELIVERANCE  
+NONE TAKE SPOIL, NONE SEEK GLORY  
+WHEN KIN OF GODS MUST DIE  
+THOUGH MORE BEAUTIFUL THAN WE  
+GOM HAKH ROAT VU QENRI
+
+[출처](https://www.imperial-library.info/content/war-hunt-deliverance)

@@ -1,0 +1,19 @@
+# For the Old of Akavir
+
+ID: ext-06091a384571214ff9f9
+
+HEWA OKUSH TZANDRI TA  
+  
+NO FAITH IN BLADE OR SHIELD  
+  
+FOR THE OLD OF AKAVIR  
+  
+THE SONG OF OUR FIRST BRETHREN  
+  
+A WEAPON FOR WHEN THE NEED ARISES  
+  
+THE ANEQUINA DRAGONHORN  
+  
+HEWA OKUSH TZANDRI TA
+
+[출처](https://www.imperial-library.info/content/old-akavir)

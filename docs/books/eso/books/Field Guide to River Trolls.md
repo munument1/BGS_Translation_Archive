@@ -1,0 +1,19 @@
+# Field Guide to River Trolls
+
+ID: ext-3758c5d82e6cbeb6b8ea
+
+The origin of the race of trolls is somewhat obscure – which is another way of saying we know absolutely nothing about where they come from, how they got here, or why they exist at all. The troll has certainly haunted Tamrielic folklore from time immemorial, known to nearly every culture and appearing in tales of all sorts, from children’s fables to the histories of the ancients. Indeed, they are mentioned in Khosey’s venerable “Tamrilean Tractates,” which speak of “ye Trohl of Rapace, thrice-orbed Enormity [that] Eateth ye Fleshe of [both] Commons and Kyngs.”  
+  
+After our long history on Tamriel with them, we men and mer should really know quite a bit about trolls, should we not? Perhaps so – but we don’t. The few facts at our disposal are as follows:  
+  
+– Trolls are fierce and formidable carnivores, devouring anything they can catch down to fingernails and marrow.  
+  
+– A troll injured by any means but fire heals with preternatural speed, a regeneration almost certainly magical in nature.  
+  
+– Troll fat is a reagent prized by alchemists, though its virtues seem to vary depending on different recipes and rendering techniques.  
+  
+– Despite their physical prowess, trolls are reclusive creatures, and their lairs are usually found well off the beaten track. We can say little else with certainty, save that trolls live in a range of habitats and seem to exist in variations appropriate to their environment of origin. The most common, and therefore best-known types of trolls, include the Forest Trolls of central Tamriel, and the Frost Trolls of the far north. But history and legend tell us of other types of trolls, more obscure perhaps, but no less fascinating. Some, like the Lava Trolls of Vvardenfell, are almost certainly extinct (if, indeed, they ever existed outside the fevered imaginations of Dark Elf corner club raconteurs). But today we shall speak of a rare breed of “Trohl of Rapace” that you can definitely still encounter – and not in far-off regions like Middle Argonia or Topal Island. They live in Cyrodiil itself – if one knows where to look for them. I’m speaking of the elusive River Troll. You won’t find it listed on the Imperial Register of Beasts and Lower Beings, but it’s real nonetheless, as I can readily attest. I myself have personally seen, in the marketplace of Sutch, the carcass of a River Troll that was brought in by an intrepid hunter who traps the tributaries of the Brena. She told me they lair out of sight in riverside caves or burrows, subsisting on mudcrabs, large fish, and crocodiles – as well as upon unwary people, when they can get them. This might be why they’re so rarely reported, as few survive such an encounter.  
+  
+The appearance of the corpse, fire-scarred though it was, bore out the brave hunter’s account. Unlike the familiar forest variety, this River Troll’s hide was clad in shiny water-shedding scales, silver-blue in color and as durable as they were flexible. The long scaly hands had webbing between the clawed fingers, and the fangs were the sharp, spiky teeth of fish-eaters. The hunter said they can hold their breath for long periods, lurking unseen in the shallows until they erupt from ambush to overwhelm their prey. Since that encounter I’ve questioned others who range the wild places of Cyrodiil and learned that the experience of the hunter of Sutch was not unique. River Trolls, though rarely seen, can be found lurking in the watersheds of the Brena, Strid, and central Niben river systems, and doubtless account for a fair percentage of the livestock – and people – who go missing in these regions. Knowing what I do now has certainly persuaded me to confine my nature walks to paths on the drier uplands, lest I end my scholarly career as fodder for trollkins in some muddy riverside burrow!
+
+[출처](https://www.imperial-library.info/content/field-guide-river-trolls)

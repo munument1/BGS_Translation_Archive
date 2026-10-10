@@ -1,0 +1,19 @@
+# The Myth of the Sea Sloads
+
+ID: ext-ac3e1c073e7bdfae796c
+
+By Raavarion, Sapiarch of Aquatic Malevolence  
+  
+The sea that surrounds our beloved island provides sustenance and resources, allows for swift transportation, and serves as a boundary between Summerset and the rest of the world. Unfortunately, however, not everything that comes from the sea can be considered beneficial, and there exists many seaborne threats that pose a significant danger to the island. We here in the College of Sapiarchs have deemed the level of danger high enough that we have devoted an entire field of study to help research and formulate countermeasures, hence my appointment to the post of Sapiarch of Aquatic Malevolence.  
+  
+Threats from the sea appear in many different forms, from natural events to enemy kingdoms. Nature has a way of letting the island know that even the magical protections provided by the Crystal Tower aren’t always enough to stop a destructive storm, crashing waves, or flood waters from damaging Summerset. As far as enemies are concerned, the Royal Navy keeps the sea lanes as clear as possible and serves as a deterrent to the forces of the other alliances. The exception to this remains the various factions of the Maormer—the Sea Elves—who fearlessly slip past patrols to raid coastal settlements on a regular basis.  
+  
+Probably the most fearsome potential threat appears in the form of the Sload. Even though these vile creatures from the southwestern Abecean Sea were much more ambitious in their attempts to conquer Summerset in centuries past, the residents of the coral kingdoms of Thras continue to pillage and raid our holdings to the current day. The amphibious, slug-like beings have an affinity for magic, though they seem more drawn to dark magic than to anything positive or beneficial. They deal in necromancy, plagues, and other instruments of death and destruction.  
+  
+Recent rumors heard across the island suggest that a particular type of Sload, the Sea Sload, have returned to trouble Summerset. While they haven’t been seen or heard from in centuries, the Sea Sloads rule the undersea kingdom of Ul’vor Kus, located somewhere in the Sea of Pearls. Even the possibility that such creatures have infiltrated the island is cause for concern and utmost diligence. To this end, I have consulted old tomes and ancient volumes contained within our extensive libraries to gather whatever information I can. I’m sorry to say, it isn’t much. The Sea Sloads are even more reclusive and mysterious than their more numerous cousins.  
+  
+What I could uncover indicates that we should not underestimate the threat the Sea Sloads pose. Instead of organizing themselves in small kingdoms, as the Thras Sload are wont to do, the Sea Sloads form cabals of small numbers of like-minded individuals who cooperate to attain some specific goal. Then the cabals break up, reform, and reorganize as interests and necessity warrant. While Sea Sloads have as much interest in necromancy as any other Sloads, they also demonstrate skill in alchemy, shadow magic, and mind magic, among other arcane disciplines. For all their ambition and power, however, our records indicate that the Sea Sloads may in fact be on the verge of extinction. My predecessor, Winawen, certainly wrote as much in her seminal work, “The Villains of Ul’Vor Kus.” It was her educated opinion that the Sea Sloads would naturally disappear within a few centuries. Such an event cannot occur soon enough.  
+  
+Until confirmation of Sea Sload activity on Summerset is verified, I suggest we remain vigilant and watch the sea. Besides the Sea Sloads themselves, these arrogant and unfriendly creatures have been known to utilize all kinds of terrible sea monsters. The last thing the island needs in these turbulent times is attacks by creatures from the sea.
+
+[출처](https://www.imperial-library.info/content/myth-sea-sloads)

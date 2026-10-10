@@ -1,0 +1,15 @@
+# The Rotwood Enigma
+
+ID: ext-96e59a6fc8446b67b70b
+
+We never knew where he came from. He showed up during our assault on the Rotwood Butchers, a nasty group that’d taken to terrorizing travelers a couple days out of Evermore. We found their hideout, but were caught off guard when more were inside than we expected; there must have been an entrance we didn’t see. They had us pinned, trapped in the filthy caves they’d claimed, when out of nowhere he came clanking down the hall, covered head to toe in shining plate and cleaving bandits in half with every swing. The tide turned. One after another, Rotwood scoundrels fell to his blade until none were left.  
+  
+I thanked him and asked his name, but he didn’t respond. Confused, I tried introducing myself, telling him about our company and the work we’d been taking on to clear out bandits and beasts all over northern Bangkorai. Nothing. Frustrated and a little disturbed, we left the cave and headed back to camp. He followed. I told him he wasn’t welcome if he was going to keep up the silent treatment and hide his face from us, but it didn’t help. Everyone was on edge, uneasy. We didn’t see any signs of aggression, and I don’t think anyone wanted to raise a sword to challenge him after the carnage with the Rotwoods earlier.  
+  
+It just went on like that. He never talked at all. He took his food alone, off away from the camp, and never seemed to sleep; he just propped himself up against a tree or a rock at night, never once taking off a piece of that armor. None of us had seen the like of it before, all smooth, rounded pieces with strange feathery engravings. It was beautiful, silver with dark swirls, covering him entirely. We were uncomfortable at first (and who wouldn’t be?), but he never hurt anyone aside from the bandits we rooted out. And by Stendarr, did he ever hurt them!  
+  
+We warmed to his presence, probably because he saved our skins over and over. His was the blow that ended Swampheart the Fetid, a filthy hag that had been abducting innocents. She’d cast some horrible magic that slowed us all down—all but him. He was the one who saved Riles-the-Leaves from being tossed over a cliff by the boar Bloodgut, who’d assailed several farmers and their livestock. He even saved my own life more than once. He was tireless, fearless, and, it seemed, dedicated to our goals.  
+  
+I wonder to this day if he had a name, if he was even a “he.” I don’t guess we’ll ever know. Six months he tromped along with us on our contracts, and for those six months we prospered more than ever; we even added new blood to our roster. When winter came on, we headed back to Evermore for our usual time off (it’s slow getting good work in the cold months), and one morning, he was gone. No sign, no tracks, nothing. Just disappeared. No one I’ve spoken to has ever heard of him or anything like him, and I get a lot of funny looks when I tell the tale. No matter. Wherever he is, I hope he’s doing well and carrying on the good work.
+
+[출처](https://www.imperial-library.info/content/rotwood-enigma)

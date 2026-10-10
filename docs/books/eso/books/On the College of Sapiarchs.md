@@ -1,0 +1,17 @@
+# On the College of Sapiarchs
+
+ID: ext-90d919d7a7779a6ee32f
+
+By Adandora, Chronicler at Large  
+  
+The College of Sapiarchs. It lies to the west of Lillandril, on a small island outcropping that rises from the sea. The general public cannot access the compound, not without obtaining the permission of the portal master who controls the magical egress that leads from Lillandril proper to the small island. They say this is to protect the sages and maintain the solitude they need to think deep thoughts and study obscure lore. This chronicler has made repeated attempts to ascertain what exactly goes on in the isolated college compound. Here is what I have uncovered.  
+  
+First, though, some background on the Sapiarchs themselves. There are two-hundred-and-twenty-three fully accredited Sapiarchs at any given time, each devoted to and responsible for a specific field of study. The current leader of the Sapiarchs, Larnatille of Lillandril, for example, serves as the Sapiarch of Arcanology, encapsulating the collected knowledge of arcane lore within her prodigious mind. The Sapiarchs, in turn, are each assisted by one or more acolytes. These Sapiarchs-in-training hope to one day replace their masters and earn a seat in the college, though that isn’t the only path for aspiring sages to take. Any distinguished High Elf scholar could receive a summons at any time and be invited to join the prestigious college.  
+  
+Individually, Sapiarchs conduct and catalog research to expand their particular area of expertise, give lectures, consult when called upon in regards to their field of study, and write papers and books to expound upon their subject matter. As a group, the function of the College of Sapiarchs is to advise the current rulers of Summerset and train the heirs to the throne. They also issue proclamations as necessary when research and study reveal new information the public needs to know and they review such research to determine if it should be included in scholarly reference material.  
+  
+Now let’s get back to the physical compound that also goes by the name of the College of Sapiarchs. Now, while this chronicler has not yet been able to personally explore the College compound, I have it on good authority that the following details are mostly true and predominantly reliable. The walled compound fills the small island that lies directly west of Lillandril. The main level of the compound features, from what I’ve been able to gather, a grand library, study halls, and suites for the most senior members of the College. I understand that dormitories and study cells are available for the use of the lesser Sapiarchs.  
+  
+The true wonder of the College of Sapiarchs, though, not counting their connection to the Crystal Tower, is the massive maze of chambers and corridors beneath the main compound. This area, known as the Labyrinth, serves a number of functions, but its most celebrated use revolves around the matriculation of the royal heirs of Alinor. When an heir to the throne reaches the appropriate age, they go to the Sapiarchs’ Labyrinth to study Altmeri Regal Praxis and Ceremoniarchy for 3,555 days before being crowned. This chronicler is quite certain that the mysterious College of Sapiarchs contains additional secrets, but as long as the sages demand privacy and the Queen and her agents support such a policy, the people of Summerset will never know what truly lurks within the walls of the College compound.
+
+[출처](https://www.imperial-library.info/content/college-sapiarchs)

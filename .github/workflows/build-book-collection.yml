@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "tools/build_book_collection.py"
+      - "tools/build_external_book_collection.py"
       - "tools/extract_skyrim_books.py"
       - "tests/test_skyrim_books.py"
       - ".github/workflows/build-book-collection.yml"
@@ -27,7 +28,10 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Verify Skyrim extractor with synthetic records
+      - name: Install HTML parser for synthetic mirror tests
+        run: python3 -m pip install beautifulsoup4
+
+      - name: Verify extractors and formatting with synthetic records
         run: python3 -m unittest discover -s tests -v
 
       - name: Download only Daggerfall book source files
@@ -56,6 +60,7 @@ jobs:
             --daggerfall /tmp/df-books/text/Books \
             --oblivion /tmp/oblivion-translation.csv \
             --morrowind-zip /tmp/morrowind-kr4.zip --root .
+          python3 tools/build_external_book_collection.py
           python3 - <<'PY'
           import json
           from pathlib import Path

@@ -5,7 +5,12 @@
     daggerfall: { ko:"대거폴",en:"DAGGERFALL",roman:"II" },
     morrowind: { ko:"모로윈드",en:"MORROWIND",roman:"III" },
     oblivion: { ko:"오블리비언",en:"OBLIVION",roman:"IV" },
-    skyrim: { ko:"스카이림",en:"SKYRIM",roman:"V" }
+    skyrim: { ko:"스카이림",en:"SKYRIM",roman:"V" },
+    battlespire: {ko:"배틀스파이어",en:"BATTLESPIRE",roman:"BS"},
+    redguard: {ko:"레드가드",en:"REDGUARD",roman:"RG"},
+    shadowkey: {ko:"섀도키",en:"SHADOWKEY",roman:"SK"},
+    eso: {ko:"ESO 일반 서적",en:"ONLINE",roman:"ONLINE"},
+    eso_journals: {ko:"ESO 일지·쪽지·편지",en:"ONLINE JOURNALS",roman:"ONLINE"}
   };
   const INITIALS = ["전체","ㄱ","ㄴ","ㄷ","ㄹ","ㅁ","ㅂ","ㅅ","ㅇ","ㅈ","ㅊ","ㅋ","ㅌ","ㅍ","ㅎ","A–Z","#"];
   const CHOSEONG = "ㄱㄲㄴㄷㄸㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ";
@@ -67,7 +72,7 @@
   }
   function textSearch(book, terms) {
     if(!terms.length)return true;
-    let content=[book.title,book.author,book.preview,book.record_id,book.plugin].join(" ").toLowerCase();
+    let content=[book.title,book.title_en,book.author,book.preview,book.record_id,book.plugin].join(" ").toLowerCase();
     if(state.fulltext && state.fulltextMap) content += " "+(state.fulltextMap.get(book.uid)||"").toLowerCase();
     return terms.every(term=>content.includes(term));
   }
@@ -87,7 +92,7 @@
     article.className="book-card";
     const top=document.createElement("div"); top.className="book-card-top";
     const category=document.createElement("span"); category.className="book-category";
-    category.textContent="THE ELDER SCROLLS "+GAME[book.game].roman+" · "+GAME[book.game].ko;
+    category.textContent="THE ELDER SCROLLS "+GAME[book.game].roman+" · "+GAME[book.game].ko+(book.content_language==="en"?" · 미번역":"");
     const favorite=document.createElement("button");favorite.type="button";
     favorite.className="book-mark";favorite.dataset.uid=book.uid;
     favorite.addEventListener("click",e=>{e.stopPropagation();setFavorite(book.uid);if(state.savedOnly)render();});
@@ -173,14 +178,15 @@
     $("readerTitle").textContent=book.title;
     $("readerGame").textContent="THE ELDER SCROLLS "+GAME[book.game].roman+" · "+GAME[book.game].en;
     $("readerMetadata").replaceChildren();
-    [book.author, GAME[book.game].ko,book.record_id].filter(Boolean).forEach(value=>{
+    [book.author, GAME[book.game].ko,book.content_language==="en"?"영문 · 미번역":null,book.record_id].filter(Boolean).forEach(value=>{
       const span=document.createElement("span");span.textContent=value;$("readerMetadata").append(span);
     });
     $("readerContent").textContent="서적을 펼치는 중…";
+    $("readerContent").lang=book.content_language||"ko";
     $("readerScroller").scrollTop=0;
     $("readerContent").style.setProperty("--reader-size",state.readerSize+"px");
     const source=$("readerSource");
-    const validSource=book.source?.startsWith("https://github.com/");
+    const validSource=book.source?.startsWith("https://github.com/")||book.source?.startsWith("https://www.imperial-library.info/content/");
     source.hidden=!validSource;
     if(validSource)source.href=book.source;else source.removeAttribute("href");
     setFavorite(uid,false);
@@ -218,6 +224,8 @@
       const res=await fetch("./books/fulltext-index.json");
       if(!res.ok)throw Error("fulltext-index unavailable");
       const list=await res.json();
+      const extra=await fetch("./books/additional_fulltext-index.json");
+      if(extra.ok)list.push(...await extra.json());
       state.fulltextMap=new Map(list.map(x=>[x.uid,x.text]));
       $("resultsDescription").textContent="본문 전체 검색 활성화";
       render();
@@ -283,12 +291,19 @@
       if(!response.ok)throw Error("카탈로그 HTTP "+response.status);
       const data=await response.json();
       if(!Array.isArray(data.books))throw Error("Invalid catalog");
+      const additional=await fetch("./books/additional_catalog.json");
+      if(additional.ok){
+        const extra=await additional.json();
+        if(Array.isArray(extra.books))data.books.push(...extra.books);
+        data.counts={...data.counts,...extra.counts};
+      }
       state.items=data.books.filter(b=>GAME[b.game] && b.uid && b.path && b.title);
       const counts=data.counts||{};
       $("heroTotal").textContent=state.items.length.toLocaleString("ko-KR");
-      $("heroGames").textContent=Object.entries(counts).filter(([,n])=>n>0).length.toString();
+      $("heroGames").textContent=new Set(Object.entries(counts).filter(([,n])=>n>0).map(([g])=>g==="eso_journals"?"eso":g)).size.toString();
       Object.keys(GAME).forEach(game=>{
-        $(("count-"+game)).textContent=(counts[game]||0)>0?(counts[game]||0).toLocaleString("ko-KR")+"권":"준비 중";
+        const count=$("count-"+game);
+        if(count)count.textContent=(counts[game]||0)>0?(counts[game]||0).toLocaleString("ko-KR")+"권":"준비 중";
       });
       const params=new URLSearchParams(location.search);
       const requestedGame=params.get("game");

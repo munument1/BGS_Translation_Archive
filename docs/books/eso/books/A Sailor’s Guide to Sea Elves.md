@@ -1,0 +1,17 @@
+# A Sailor’s Guide to Sea Elves
+
+ID: ext-d04c84e47c2c35afcdf7
+
+Whether you are a recruit for the Royal Navy, or merely taking a voyage into open waters, you will want to know something of the Maormer before you have the misfortune of spotting their ships on the horizon. This guide will help prepare you for the day that you inevitably do. Take heed of that as my first lesson: if you spend any amount of time on sea or shore, you will cross paths with Sea Elves.  
+  
+As their name suggests, the Sea Elves are at home on the water. They are so able at plying the waves that a Maormer ship can remain at sea indefinitely, so long as it is sea-worthy. The Maormer take full advantage of that fact when raiding our trade vessels, or ambushing our fleets. Never pursue a retreating Sea Elf vessel, even if you think they are hobbled. They will bait you into thinking you can catch them, but make no mistake: Sea Elf cutters are faster than any ship in our fleet. Soon you will find yourself lured out into the open ocean, unable to safely retreat, while they circle you like sharks. Your food stores will dwindle, and once you are finally too weak to put up a fight, the Maormer will swoop in to slaughter you. It is a cowardly, but effective tactic.  
+  
+Secondly, never flee a Sea Elf vessel unless you can see land. Even then, do so with great care. It is not a matter of if the Maormer will overtake you, it is when. The best course of action when confronted by Maormer ships is to stand and fight. At least then you have some hope of coming out ahead. Sea Elf fleets are most often composed of small, agile vessels well-suited to quick hit-and-run engagements. Bloody their noses quickly and you may drive them off before they are committed to their attack.  
+  
+When fighting the Maormer, their ballistae are the least of your troubles. They can turn the seas themselves against you. Any ship larger than a sloop is sure to have at least one of their Sea Mages beneath its sails, conjuring wind and storm to toss you about like a toy boat. Every effort should be made to neutralize Maormer Sea Mages as quickly as possible. If the waves have not yet done you in, the Sea Elves will sic their beasts on you. Maormer breed and train a variety of marine predators to bolster their ranks. From winged reef vipers that can leap high out of the water and onto your deck, to sea serpents large enough to capsize a warship. In either case, keep moving at a steady clip and the creatures will have difficulty reaching you before they tire.  
+  
+As for the Maormer themselves, do not let their deceptive tactics fool you. Sea Elves are vicious combatants who want nothing more than to spill Altmer blood. If they manage to board your vessel, you will have a hard fight on your hands. Maormer are exceptionally steady on their feet in even the roughest waters, and nimbler than an acrobat at traversing a ship’s rigging. As you might imagine, well-trained and armored marines are the best defense against boarding, but if you find yourself in the melee you will need to assume a formation that will protect your flanks. Sea Elf raiders prefer enveloping tactics that quickly overwhelm a scattered enemy.  
+  
+There is only so much to be learned from a guide alone, but I hope that this knowledge has better prepared you for the day when your life depends on it. Phynaster guide your sails.
+
+[출처](https://www.imperial-library.info/content/sailors-guide-sea-elves)

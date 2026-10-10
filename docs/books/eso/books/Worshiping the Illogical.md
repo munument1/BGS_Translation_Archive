@@ -1,0 +1,17 @@
+# Worshiping the Illogical
+
+ID: ext-d3bb76373b3c84941c0e
+
+By Proctor Nevyn, Apostle of Sotha Sil  
+  
+The Clockwork Apostles dedicate their lives to many things. The words of our Sermons, laid before us by the ever-faithful Deldrise Morvayn, Fourth Tourbillon. The will of our god Lord Seht, the Mainspring Ever-Wound, the Divine Metronome. The driving forces of inspiration, of innovation, of discovery in all forms, magical, technological, spiritual. But we often forget, in our pursuit to unravel the mysterious of our world, that we are also subjects of the Tribunal. I have found throughout my long tenure that many of my pupils have a hard time grasping the threefold nature of our belief within the Tribunal. Still, despite the repetition of these questions, I never rebuff this curiosity. Rather, I try to encourage it, for there is an abundance of contradictions within our piety towards Lady Amalexia and Lord Vivec. After all, the worship of these deities seem to almost challenge the beliefs we hold so true within our order. Why are we told to worship these often puzzling deities alongside our sound and steady Clockwork God? Why must we follow not one god, but three?  
+  
+Yet even this seemingly simple fact is but a misconception, for in this sequence we have found truth. ALMSIVI is but one entity, not the fractured creation that many perceive it as. It only appears fractured in the forms our gods have taken, but rather than separate deities they are all one portion of a welded whole. Regulated in their irregularities. Lady Amalexia and Lord Vivec, who are only consistent in their inconsistency, still create the order of our truths. They are the tock within our Lord Seht’s tick, the wheel that forever goes forward but only to circle itself. They are the truths of our chaotic present, the irregular oscillations that we must weld together. Within them we find the aspects of our humanity, the soul which merges with the machine, ambition which merges with beneficence. The act of faith itself seems contradictory to the importance we hold on evidential certainty. But not one among us is completely machine, cold and logical without the emotions which bind us together. No, we are welded beings, as varied and complex as our three gods. Fractured parts which have come together to create our individuality.  
+  
+How does one devote themselves to such aspects? To these traits of Nirn which are not logic and order, our guiding principles? The Sermons tell us to understand their limitations. To pay heed, but know the boundaries of their scale. Know that these are the principals needed for our current world, Nirn-Prior, and shall be but an addition to the whole which is Nirn-Ensuing.  
+  
+Hold tight their words, their laws and limits. Know that they are the echoes of a fractured selves, welded whole. Know that the Sublime Piston gives and takes in equal measures, sundering the Named pursuits of lesser mer. We must tear apart that which will be welded whole once more. Beliefs, structures, laws, one day outdated and unneeded.  
+  
+And so we pay our respects to these aspects of our deities. Without faith towards ALMSIVI we ourselves become sundered from the truth. Speak the names of Lady Amalexia and Lord Vivec with respect, with piety. Listen to their words and heed their laws when necessary. They are the broken cogs that reflect ourselves, to be as venerated as the truths that we honor.
+
+[출처](https://www.imperial-library.info/content/worshiping-illogical)

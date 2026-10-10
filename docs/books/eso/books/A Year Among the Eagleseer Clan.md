@@ -1,0 +1,25 @@
+# A Year Among the Eagleseer Clan
+
+ID: ext-9826731212af36093fd2
+
+By Glabrian Tuliel, University of Gwylim  
+  
+(Written during the reign of Emperor Leovic, 2E 564)  
+  
+For centuries, the Reach and its inhabitants have been mysteries to the rest of Tamriel. The establishment of an Imperial governor in Markarth, however, signals a new era for the Reach and its peoples. The scholars and travelers of Tamriel can finally venture into the Reach and perhaps come to understand the Reachfolk and their ways.  
+  
+With that goal in mind, I undertook the journey to Markarth in the spring of 2E 560, carrying a letter of introduction from Emperor Moricar. Governor Caddach (not without misgivings) helped me obtain a guide—a young warrior named Duinal—to introduce me to the Eagleseers, one of the friendlier Reach clans. Five days’ travel brought us to the Eagleseers’ dhun (a fortified hilltop village, common in the hinterlands). Duinal explained my mission, and I was received by Chief Darragh and his close adviser, the witch Aislin. At first, Darragh seemed puzzled by my intentions, and Aislin frankly regarded me with contempt. I believe the only reason they permitted me to stay was that Darragh thought it might be useful to have Caddach owe him a small favor.  
+  
+We arrived in early spring and found preparations underway for a ceremonial hunt. The first of the season, it seemed. The clan’s food stores were low after a long winter, but the snow was finally melting and a large party of hunters was making ready to leave. The night before the hunters set out, the clan gathered for a ceremony seeking Hircine’s favor. Wild dances represented the chase and the kill, a rather violent spectacle that I found unsettling—invoking a Daedric Prince for any reason seemed reckless to me. Aislin and her sisters presided over the whole affair. At the height of the ceremony, she commanded clan warriors to take me away. The secret rites that followed were evidently not for the eyes of an outsider. I never did learn anything more about it.  
+  
+The ceremony (whatever it was) evidently met with Hircine’s approval, for the hunt went well. I remained with the Eagleseers for two weeks after the hunters returned, observing their lifestyle. They are a bawdy, plain-spoken people, and some of them went out of their way to see if they could intimidate or shock me. However, the fact that I was under Chief Darragh’s protection seemed to shield me from the worst of that sort of thing. With my stocks of paper and ink running low—and conscious of the fact that I did not wish to wear out my welcome—I offered gifts of some small trinkets I brought with me, said farewell, and made my way back to Markarth.  
+  
+When I returned to the Eagleseers in midsummer, I was surprised to find the clan’s dhun half-empty. I learned that they had moved their flocks to the high pastures and many of their folk had established temporary camps to watch over their valuable livestock. Reachfolk do not steal from other Reachfolk unless the clans are feuding, but the mountains are home to ogres, trolls, and other dangerous beasts, so the flocks must be constantly guarded. Other Eagleseers had left to set up fishing camps along nearby rivers, or had gone to Markarth to trade. It was a busy time, yet different from my previous visits.  
+  
+My third visit in the fall showed me yet another aspect of clan life. Like most Reach clans, the Eagleseers sow no fields and look forward to no autumn harvest. They do, however, gather wild roots and berries, preparing for the winter to come. Smokehouses were full of meat being preserved, as this is the time of year when the Eagleseers cull their herds, slaughtering the livestock they need to sustain themselves through the cold months. I brought many useful gifts from Markarth this time—knives, blankets, and such—and made a point of joining in the clan’s work at every opportunity. The Eagleseers seemed to be growing accustomed to my presence.  
+  
+Four months later, I returned in midwinter, a difficult and dangerous journey in the snow. I was anxious to see how my friends among the Eagleseers—for by now I had a few—were getting along. Winter, I had learned, is the season for crafting tools, clothes, and toys. Hunters try their luck as weather and game permit, but most people survive on the food they were able to store away in summer and fall. To my dismay, I found the Eagleseers grieving and furious. Three days before my return, warriors of the Six-Fords clan had waylaid an Eagleseer hunting party and killed Chief Darragh. Apparently the Six-Fords and Eagleseers have been engaged in a feud for years over some old insult. The two clans pursue their quarrel in fits and starts, but winter is the season for feuding and raiding. Aislin openly blamed me for Darragh’s death: the old chief’s welcome of a soft outlander had angered the hard gods of the Reach, and they had shown their displeasure. I left shortly thereafter, feeling unsafe among the clan.  
+  
+Regardless, I learned much during my year with the Eagleseer clan.
+
+[출처](https://www.imperial-library.info/content/year-among-eagleseer-clan)

@@ -1,0 +1,49 @@
+# The Kendhall Book of Riddles
+
+ID: ext-c368b9eab2f0a28caec1
+
+[[Among the hundreds of riddles in this weighty tome, THE KENDHALL BOOK OF RIDDLES, four have been marked with scraps of paper:]]  
+  
+Page 1  
+  
+Loadbearer, Warrior  
+Spirited, Brave  
+Fleet-foot, Ironshod  
+Faithful One, Slave  
+Answer: Horse  
+  
+Page 2  
+  
+I rise above the roofs below  
+Finger up-raised to heaven.  
+I speak in clear tones  
+That aim for others  
+To gather where I call.  
+  
+Answer: Bell Tower  
+  
+Page 3  
+  
+Some live in me, some live on,  
+And some shave me to stride upon.  
+I rarely leave my native land.  
+Until my death I always stand.  
+High and low I may be found  
+Both above and under ground.  
+  
+Answer: Tree  
+  
+Page 4  
+  
+Armor bright  
+Gleaming white  
+A single rank  
+Their faces blank  
+Now hid by night  
+Now bold by light  
+Bright red the land  
+Where soldiers stand  
+  
+Answer: Teeth
+
+[출처](https://www.imperial-library.info/content/kendhall-book-riddles)

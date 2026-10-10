@@ -1,0 +1,17 @@
+# On the Chamber of Legates
+
+ID: ext-951cf5ee571a8c98e6ae
+
+A rumination by Legate Tebeza-ko under the reign of Countess Caro.  
+  
+The legate system works well for us. Perhaps that is not the case in other principalities, but in Leyawiin, dictating the laws and overseeing the daily needs of the city hasn’t fallen under the preview of the city’s ruler since the time of the Empire. Now, with the Empire gone and the Council of Elders disbanded, it falls to the recently created Chamber of Legates to fulfill this duty. Historically, separating the city’s governing body from the ruler of the city allowed petty lordlings to play their political games without needing to worry about, or neglect, the logistics of city business.  
+  
+The chamber has dominion over all bureaucratic functions pertaining to the running of the city and the surrounding province. The business of the harbor, for example, requires permits, permissions, inventories, and infrastructure to ensure that all the necessary goods are transported to the correct location, ship, or vendor. In order to complete these tasks, we keep a detailed register of the trade ships and their routes in order to calculate when shipments will be ready. Well-trained and informed harbor masters remain at their post throughout the day, and occasionally into the night, so that each ship is greeted and given correct instructions. The roads of the city must remain free from disorder and debris so that goods can be carted safely and securely.  
+  
+To this end, we legates oversee the harbormasters. The acquisition of wood to build and maintain the docks. The schedules of shipments from new trading vessels—trusted captains fall under the less severe purview of the harbormasters themselves. The hiring of crews to maintain the roads and streets of Leyawiin, especially around the markets. Merchant permits regarding all manner of goods and services but particularly the more exotic materials, such as live undomesticated animals, or spices and herbs which can be used for more than medicinal purposes.  
+  
+The chamber meets daily, for as long as we need to, in order to discuss the business that affects Leyawiin. Occasionally, we allow the public to attend these meetings. This allows the public, particularly the merchant class, to call our attention to any areas of city life that they believe require our attention. It allows the chamber to get first-hand accounts of how our policies are functioning, and whether we need to address any shortcomings or adapt our approaches. Though, chiefly, the publicly attended meetings allow us to become a trusted vector for the city. Now, our reputation is so great that civilians will openly talk to us about their complaints. They feel safe knowing that we will hear their concerns and address the issues they feel strongly about in due course without it posing a threat to their lives or livelihoods.  
+  
+This system of management has been used and refined since the Chamber of Legates was established after the fall of the Empire. The system is not perfect. It is still rife with political ambitions, class divides, prejudices, and a whole host of other flaws inherent in any system of governance. But, we have found that a representative Chamber of Legates, and a countess willing to listen to us sitting on the throne, allows us to circumvent those flaws well enough to keep the best interests of Leyawiin at the forefront and the business of the city moving forward.
+
+[출처](https://www.imperial-library.info/content/chamber-legates)

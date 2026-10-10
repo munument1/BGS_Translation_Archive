@@ -1,0 +1,19 @@
+# In Death is the Promise
+
+ID: ext-16441b2a6c43b4751390
+
+NEHT ZAN UR JENDRAI TSOLI  
+  
+AN END COMES TO ALL  
+  
+IN DEATH IS THE PROMISE  
+  
+BATTLE WEARY SWORD LAID DOWN  
+  
+BATTLE SCARRED SHIELD SET ASIDE  
+  
+ALL SHALL REST IN LASTING PEACE  
+  
+NEHT ZAN UR JENDRAI TSOLI
+
+[출처](https://www.imperial-library.info/content/death-promise)

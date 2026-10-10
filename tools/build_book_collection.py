@@ -145,7 +145,7 @@ def skyrim(folder):
 def book_filename(book):
     """Only the translated title appears in the filename (no ID/hash suffix)."""
     import unicodedata
-    name=unicodedata.normalize("NFC",str(book["title_ko"])).strip()
+    name=unicodedata.normalize("NFC",str(book.get("title_ko") or book["title_en"])).strip()
     name=re.sub(r'[<>:"/\\|?*#%\x00-\x1f]'," ",name)
     name=re.sub(r"\s+"," ",name).strip(" .")
     if not name:
@@ -165,27 +165,28 @@ def safe_segment(value):
 
 
 def render(book):
-    title=book["title_ko"].replace("\n"," ").replace("#",r"\#")
+    title=(book.get("title_ko") or book["title_en"]).replace("\n"," ").replace("#",r"\#")
     details=["ID: "+book["book_id"]]
     if book.get("author_ko"): details.append("저자: "+book["author_ko"])
     if book.get("plugin"): details.append("플러그인: "+book["plugin"])
     source=book["source_ref"]
     credit="[출처]("+source+")" if source.startswith("https://") else "출처: "+source
-    return "## "+title+"\n\n"+" / ".join(details)+"\n\n"+book["ko"].replace("\n","  \n")+"\n\n"+credit+"\n\n---\n\n"
+    body=book.get("ko") or book.get("en","")
+    return "## "+title+"\n\n"+" / ".join(details)+"\n\n"+body.replace("\n","  \n")+"\n\n"+credit+"\n\n---\n\n"
 
 
-def export(root,game,books):
+def export(root,game,books,language_label="한국어",game_label=None,source_note=None):
     import shutil
     from collections import Counter
     from urllib.parse import quote
     d=root/game
     d.mkdir(parents=True,exist_ok=True)
-    books.sort(key=lambda b:(b.get("plugin",""),b["title_ko"],b["book_id"]))
-    intro="# The Elder Scrolls "+GAMES[game]+" 한국어 서적 합본\n\n"
+    books.sort(key=lambda b:(b.get("plugin",""),b.get("title_ko") or b["title_en"],b["book_id"]))
+    intro="# The Elder Scrolls "+(game_label or GAMES[game])+" "+language_label+" 서적 합본\n\n"
     if not books:
         (d/"index.md").write_text(intro+"현재 사용 가능한 한국어 서적 본문 자료가 없어 보류 중입니다.\n",encoding="utf-8")
         return {"game":game,"books":0,"individual_files":0,"duplicate_titles":0,"available":False}
-    intro+=f"수록 서적: {len(books):,}건. 기존 번역 데이터를 추출한 상태이며 인게임 전수 검수를 의미하지 않습니다.\n\n---\n\n"
+    intro+=f"수록 서적: {len(books):,}건. "+(source_note or "기존 번역 데이터를 추출한 상태이며 인게임 전수 검수를 의미하지 않습니다.")+"\n\n---\n\n"
     full=intro+"".join(map(render,books))
     (d/"complete.md").write_text(full,encoding="utf-8")
 
@@ -213,7 +214,7 @@ def export(root,game,books):
         single=render(book).replace("## ","# ",1)
         filepath.write_text(single.rsplit("\n---\n",1)[0].rstrip()+"\n",encoding="utf-8")
         book["file_path"]=rel.as_posix()
-        title=book["title_ko"].replace("\n"," ").replace("[",r"\[").replace("]",r"\]")
+        title=(book.get("title_ko") or book["title_en"]).replace("\n"," ").replace("[",r"\[").replace("]",r"\]")
         index_rows.append(f"- [{title}]({quote(rel.as_posix(),safe='/')}) — {book['book_id']}")
     with (d/"books.jsonl").open("w",encoding="utf-8",newline="\n") as f:
         for book in books:
@@ -226,7 +227,7 @@ def export(root,game,books):
     (d/"index.md").write_text(intro+
         "[웹 도서관](../../index.html) · [전체 합본](complete.md) · [JSONL](books.jsonl)\n\n"+
         "### 개별 서적 파일\n\n"+
-        f"총 {len(books):,}개의 독립 Markdown 파일. 파일명은 한국어 책 제목만 사용합니다.\n"+
+        f"총 {len(books):,}개의 독립 Markdown 파일. 파일명은 책 제목만 사용합니다.\n"+
         "같은 제목의 서로 다른 책은 동명이서적 하위 폴더에서 구분합니다.\n\n"+
         "\n".join(index_rows)+"\n\n"+
         "### 40권 단위 분할 열람\n\n"+"\n".join(parts)+"\n",encoding="utf-8")

@@ -1,0 +1,19 @@
+# Fight As Prey
+
+ID: ext-c772728b35eab7be9500
+
+RET ASHTU ZIN FONG DAN LO  
+  
+FORGET HONOR, AS DRAGONS DO  
+  
+INSTEAD FIGHT AS PREY  
+  
+RUN AND HIDE, STRIKE FROM AMBUSH  
+  
+WOUND WITH A THOUSAND CUTS  
+  
+DECEIT TRIUMPHS OVER PRIDE  
+  
+RET ASHTU ZIN FONG DAN LO
+
+[출처](https://www.imperial-library.info/content/fight-prey)

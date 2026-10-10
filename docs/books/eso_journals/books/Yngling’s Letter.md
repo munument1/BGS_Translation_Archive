@@ -1,0 +1,13 @@
+# Yngling’s Letter
+
+ID: ext-93dc7be95f5abb4fdaba
+
+Ser Yngling,  
+  
+I must admit that I was surprised by your request for funds to repair the House Hlaalu Temple in Vivec. Before our meeting last week I knew only that you were an outlander and not a member of our Temple. Once again, I ask that you forgive an old man for heeding to false rumors. Now that I have met you, I am sure that your motives are pure, and you can restore the Temple to its former glory.  
+  
+House Hlaalu has neglected its Temple in Vivec for many years and it is in a state of disrepair. Given the difficulty of this restoration, I would be pleased to contribute 50,000 drakes to your efforts.  
+  
+Archcanon Saryoni
+
+[출처](https://www.imperial-library.info/content/ynglings-letter)

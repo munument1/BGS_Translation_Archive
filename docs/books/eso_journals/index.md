@@ -1,0 +1,2303 @@
+# The Elder Scrolls Online Journals, Notes & Letters 원문·번역 서적 합본
+
+수록 서적: 2,231건. 영문 원문을 우선 수록했습니다. 미번역 서적의 판본·발췌 여부는 번역 전에 확인하세요.
+
+---
+
+[웹 도서관](../../index.html) · [전체 합본](complete.md) · [JSONL](books.jsonl)
+
+### 개별 서적 파일
+
+총 2,231개의 독립 Markdown 파일. 파일명은 책 제목만 사용합니다.
+같은 제목의 서로 다른 책은 동명이서적 하위 폴더에서 구분합니다.
+
+- [5 Things List](books/5%20Things%20List.md) — ext-fa4e924b99458f9f03d5
+- [A Boon for the Tribe](books/A%20Boon%20for%20the%20Tribe.md) — ext-93750bf6a0aa6cb98404
+- [A Brother’s Gifts](books/A%20Brother%E2%80%99s%20Gifts.md) — ext-0de6569852d3242d5935
+- [A Brother’s Plea](books/A%20Brother%E2%80%99s%20Plea.md) — ext-78d15b046fa9e1dfecab
+- [A Challenger’s Thoughts](books/A%20Challenger%E2%80%99s%20Thoughts.md) — ext-8e690e31428398a61733
+- [A Citizen’s Petition](books/A%20Citizen%E2%80%99s%20Petition.md) — ext-b9c4672c9657451ae77e
+- [A Complaint to the Thalmor](books/A%20Complaint%20to%20the%20Thalmor.md) — ext-30cdfcc04693863f9579
+- [A Cure for Lycanthropy](books/A%20Cure%20for%20Lycanthropy.md) — ext-67956aaa4fcb31898083
+- [A Cyrodilic Merchant’s Lament](books/A%20Cyrodilic%20Merchant%E2%80%99s%20Lament.md) — ext-3f5e381c15d52c0147ab
+- [A Daughter’s Journal](books/A%20Daughter%E2%80%99s%20Journal.md) — ext-239cb25e6d4ecc8a851c
+- [A Deal is Struck](books/A%20Deal%20is%20Struck.md) — ext-e278fda28d9c75cf92f6
+- [A Death Desired](books/A%20Death%20Desired.md) — ext-588ab5579bd547e387f5
+- [A Discarded Letter](books/A%20Discarded%20Letter.md) — ext-5cc16f545d2ab14cf925
+- [A Discarded Missive](books/A%20Discarded%20Missive.md) — ext-35c4e7ce477bf6ddec3f
+- [A Distracted Enemy](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-1a9275a72632954fe787/A%20Distracted%20Enemy.md) — ext-1a9275a72632954fe787
+- [A Distracted Enemy](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-3370dc2a0126f97c9f62/A%20Distracted%20Enemy.md) — ext-3370dc2a0126f97c9f62
+- [A Final Appeal](books/A%20Final%20Appeal.md) — ext-cb563906b0ae3ae8b7e7
+- [A Fitting Tribute](books/A%20Fitting%20Tribute.md) — ext-7ebef0935b41cdfbe7ee
+- [A Fortune Behind Those Walls](books/A%20Fortune%20Behind%20Those%20Walls.md) — ext-55f814d31a5f0a52d51b
+- [A Letter Home](books/A%20Letter%20Home.md) — ext-c60025e609634db020fc
+- [A Letter to Maraya](books/A%20Letter%20to%20Maraya.md) — ext-bc0d64368043dd88e0c4
+- [A Letter to the Mayor](books/A%20Letter%20to%20the%20Mayor.md) — ext-a3ff4f87a8f26ecb8052
+- [A Looter’s Paradise](books/A%20Looter%E2%80%99s%20Paradise.md) — ext-46e1749155e0026c4650
+- [A Merchant’s Orders to His Guards](books/A%20Merchant%E2%80%99s%20Orders%20to%20His%20Guards.md) — ext-6cb06a70a46422ed38fa
+- [A Midnight Ambush](books/A%20Midnight%20Ambush.md) — ext-19b4199531a7997f27ed
+- [A Moment of Your Time?](books/A%20Moment%20of%20Your%20Time.md) — ext-3cf36e82e15f3cc0b396
+- [A Mother’s Lament](books/A%20Mother%E2%80%99s%20Lament.md) — ext-3149cf42e3d49f3a2bb3
+- [A Nagging Question](books/A%20Nagging%20Question.md) — ext-de50f11e976510eae298
+- [A Nixad Made Me Do It](books/A%20Nixad%20Made%20Me%20Do%20It.md) — ext-eabb9bdc0add19e444ba
+- [A Note \[Desyree Marcelle\]](books/A%20Note%20%5BDesyree%20Marcelle%5D.md) — ext-bfad8dec57bc36074361
+- [A One-Time Offer](books/A%20One-Time%20Offer.md) — ext-97399555a5674d7ba852
+- [A Perfect Score](books/A%20Perfect%20Score.md) — ext-9fdab3d20372381be6ad
+- [A Plea for Aid](books/A%20Plea%20for%20Aid.md) — ext-7ee98709bead4b37eb81
+- [A Plea for Help](books/A%20Plea%20for%20Help.md) — ext-a01a3773297691c85df3
+- [A Plea for the Elder Scrolls \[Covenant version\]](books/A%20Plea%20for%20the%20Elder%20Scrolls%20%5BCovenant%20version%5D.md) — ext-585969882afaabcfbeb8
+- [A Plea for the Elder Scrolls \[Dominion version\]](books/A%20Plea%20for%20the%20Elder%20Scrolls%20%5BDominion%20version%5D.md) — ext-8dd4bce77e50911e00fc
+- [A Plea for the Elder Scrolls \[Pact version\]](books/A%20Plea%20for%20the%20Elder%20Scrolls%20%5BPact%20version%5D.md) — ext-8814d6800b461373af62
+- [A Plea in Parting](books/A%20Plea%20in%20Parting.md) — ext-ab7afca8aa9e14bce921
+- [A Prayer for My Family](books/A%20Prayer%20for%20My%20Family.md) — ext-68d4367740c0e3e76c15
+- [A Prisoner’s Journal](books/A%20Prisoner%E2%80%99s%20Journal.md) — ext-afae28b9717d008653a8
+- [A Promise Made](books/A%20Promise%20Made.md) — ext-b2d6e10c7ea25e448844
+- [A Promise and a Warning](books/A%20Promise%20and%20a%20Warning.md) — ext-db565651e36f9d68d899
+- [A Ragged Inscription](books/A%20Ragged%20Inscription.md) — ext-7b4df0d1a9a8f7305c6a
+- [A Request for Relief](books/A%20Request%20for%20Relief.md) — ext-9fc4ca872dbdb9e4fc28
+- [A Request for Your Support](books/A%20Request%20for%20Your%20Support.md) — ext-77904ed97e4166d6f037
+- [A Rumor of Serpents](books/A%20Rumor%20of%20Serpents.md) — ext-a75e6c58f579ec39218b
+- [A Sacrament Remains](books/A%20Sacrament%20Remains.md) — ext-8ce3eceeace2939f1d50
+- [A Sad Day for the Ra Gada](books/A%20Sad%20Day%20for%20the%20Ra%20Gada.md) — ext-be25087ce534a928b839
+- [A Second Warning](books/A%20Second%20Warning.md) — ext-6432c5685e74f7d6a913
+- [A Servant’s Tale](books/A%20Servant%E2%80%99s%20Tale.md) — ext-97865eb48f939ff6c994
+- [A Sister’s Regret](books/A%20Sister%E2%80%99s%20Regret.md) — ext-32580bac5d60eb7b9409
+- [A Sister’s Retort](books/A%20Sister%E2%80%99s%20Retort.md) — ext-d58b08e473f2ca2d0b9e
+- [A Smuggler’s Plan](books/A%20Smuggler%E2%80%99s%20Plan.md) — ext-72e134dd20f205bb14d7
+- [A Soldier’s Letter](books/A%20Soldier%E2%80%99s%20Letter.md) — ext-479901a3068af6c10fd0
+- [A Subtler Brew](books/A%20Subtler%20Brew.md) — ext-f559ddd208ddc134117f
+- [A Tally of Villagers](books/A%20Tally%20of%20Villagers.md) — ext-84bf0e8c116fa6d3f1da
+- [A Token of My Affection](books/A%20Token%20of%20My%20Affection.md) — ext-3cb308b497c0a846e2f7
+- [A Tough Audience](books/A%20Tough%20Audience.md) — ext-6cce80b5c1904ad17a7a
+- [A Warning from Zimmeron](books/A%20Warning%20from%20Zimmeron.md) — ext-bb253adaec8026282e7b
+- [A Warning to Those Who Follow](books/A%20Warning%20to%20Those%20Who%20Follow.md) — ext-eb26b5414d61c234c39f
+- [A Way Out](books/A%20Way%20Out.md) — ext-f95adcb2e6ce394add5c
+- [A Wealth of Raw Material](books/A%20Wealth%20of%20Raw%20Material.md) — ext-f5d7f5bb8f4ef7f1e861
+- [A Window for Escape](books/A%20Window%20for%20Escape.md) — ext-90e110bb8ec85e5d85b6
+- [A Word to the Wise](books/A%20Word%20to%20the%20Wise.md) — ext-c217ed9eae38f463fdb9
+- [Abandoned Requisition Request](books/Abandoned%20Requisition%20Request.md) — ext-16393c065a97df880051
+- [Abnur Tharn’s Letter to the Player](books/Abnur%20Tharn%E2%80%99s%20Letter%20to%20the%20Player.md) — ext-5628fc2c15e5e0525794
+- [About Floofer](books/About%20Floofer.md) — ext-78bc45c9d4af4dcb2659
+- [About Jhaka](books/About%20Jhaka.md) — ext-46ec4b9d90de9f33b789
+- [About Mercy](books/About%20Mercy.md) — ext-28c554edd2e099584b24
+- [About That Doll](books/About%20That%20Doll.md) — ext-fe5299af999f17545e0c
+- [About the Boss](books/About%20the%20Boss.md) — ext-35af5bfba4a963db7ca2
+- [Academy’s Rejection Letter](books/Academy%E2%80%99s%20Rejection%20Letter.md) — ext-07732a0af1f9afc1af24
+- [Accusation of Falsity](books/Accusation%20of%20Falsity.md) — ext-4c660b701d5d69aac80c
+- [Acolyte’s Chipped Scroll Plate](books/Acolyte%E2%80%99s%20Chipped%20Scroll%20Plate.md) — ext-5a669f500342065a0ca4
+- [Acolyte’s Lost Scroll Plate](books/Acolyte%E2%80%99s%20Lost%20Scroll%20Plate.md) — ext-a34d526e339264ea3dac
+- [Acolyte’s Report](books/Acolyte%E2%80%99s%20Report.md) — ext-eed217e7939e1dd193ec
+- [Acolyte’s Scorched Scroll Plate](books/Acolyte%E2%80%99s%20Scorched%20Scroll%20Plate.md) — ext-51e33db97b1536391f61
+- [Adainaz’s Journal](books/Adainaz%E2%80%99s%20Journal.md) — ext-1e7913eeb2b304324c30
+- [Add to the Collector’s Villa](books/Add%20to%20the%20Collector%E2%80%99s%20Villa.md) — ext-993fb9b3daac15fc6e83
+- [Adder’s Ransom Note](books/Adder%E2%80%99s%20Ransom%20Note.md) — ext-1c5f6bca701c18b9c887
+- [Adeber’s Journal](books/Adeber%E2%80%99s%20Journal.md) — ext-1f6bae99f3ea75eb1142
+- [Administrative Ledger, Entry 3,412](books/Administrative%20Ledger%2C%20Entry%203%2C412.md) — ext-6d47c7d2ec333080e759
+- [Admission Denied](books/Admission%20Denied.md) — ext-8b3fc2b7f3e6ea29bd08
+- [Adventurer’s Almanac, 3rd Edition](books/Adventurer%E2%80%99s%20Almanac%2C%203rd%20Edition.md) — ext-904a9eb2f0378642bd12
+- [Adwig’s Journal](books/Adwig%E2%80%99s%20Journal.md) — ext-e2915b921f20db89ce3c
+- [Aera’s Household Notes](books/Aera%E2%80%99s%20Household%20Notes.md) — ext-72e12a5732603fdca3e9
+- [Aera’s Letter to Denskar](books/Aera%E2%80%99s%20Letter%20to%20Denskar.md) — ext-35d9a9fc2635d9444136
+- [Aera’s Letter to Tryn](books/Aera%E2%80%99s%20Letter%20to%20Tryn.md) — ext-9f908a0a61edbcaf2e03
+- [Agganor’s Journal](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-391583abfe0603e51e9d/Agganor%E2%80%99s%20Journal.md) — ext-391583abfe0603e51e9d
+- [Agganor’s Journal](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-b1f87a33c6f10fb86eb0/Agganor%E2%80%99s%20Journal.md) — ext-b1f87a33c6f10fb86eb0
+- [Agolas’ Journal](books/Agolas%E2%80%99%20Journal.md) — ext-f8f19a8d2fc16ae27751
+- [Aicaano’s Journal](books/Aicaano%E2%80%99s%20Journal.md) — ext-56cf5c87b13e1ae88582
+- [Albus’ Journal](books/Albus%E2%80%99%20Journal.md) — ext-1419a24999d043b8b5b4
+- [Alchemist’s Report](books/Alchemist%E2%80%99s%20Report.md) — ext-02112829ff672b690d00
+- [Alchemy Report](books/Alchemy%20Report.md) — ext-60a18c8c74123b5f96ea
+- [Alchemy Workshop Instructions](books/Alchemy%20Workshop%20Instructions.md) — ext-f60cac7b84790b3b3e5f
+- [Aldimion’s Journal](books/Aldimion%E2%80%99s%20Journal.md) — ext-0c56042da30c901d9818
+- [Aldmeri Scouting Efforts](books/Aldmeri%20Scouting%20Efforts.md) — ext-f77de8b4b4d55c5be17f
+- [Alizinda’s Journal](books/Alizinda%E2%80%99s%20Journal.md) — ext-72a14cb45236b43dbac1
+- [All Alone](books/All%20Alone.md) — ext-d45ee210def4d4d06fb1
+- [All Bow to Mirrormoor!](books/All%20Bow%20to%20Mirrormoor%21.md) — ext-2f314a9df56714cb935c
+- [All Our Hopes Dashed](books/All%20Our%20Hopes%20Dashed.md) — ext-f977ab70ceba449863de
+- [Aloysius’s Note](books/Aloysius%E2%80%99s%20Note.md) — ext-59e3faa3552aad850719
+- [Altered Missive](books/Altered%20Missive.md) — ext-94be434085ddca03ca80
+- [Altered Naanurrel’s Logbook](books/Altered%20Naanurrel%E2%80%99s%20Logbook.md) — ext-b629063422783f372775
+- [Altmeri Overseer’s Journal](books/Altmeri%20Overseer%E2%80%99s%20Journal.md) — ext-e6b89fb106d222ce90a0
+- [Aluvus’ Final Notes](books/Aluvus%E2%80%99%20Final%20Notes.md) — ext-525b97aa2e8ff9c093ac
+- [Aluvus’ Further Notes](books/Aluvus%E2%80%99%20Further%20Notes.md) — ext-540e52f49c98d2050853
+- [Aluvus’ Journal](books/Aluvus%E2%80%99%20Journal.md) — ext-da9be9d44505542ad5f2
+- [Aluvus’ Notes](books/Aluvus%E2%80%99%20Notes.md) — ext-7884040f67ef84c29172
+- [Alvada’s Journal](books/Alvada%E2%80%99s%20Journal.md) — ext-55a61a4c44f471707e60
+- [Amberic’s Note](books/Amberic%E2%80%99s%20Note.md) — ext-36a64c5a789e3dcc4d0a
+- [Ambitions Realized](books/Ambitions%20Realized.md) — ext-59575177f0bf748b5bed
+- [Ambush Orders](books/Ambush%20Orders.md) — ext-ae06e44bc2457556ab19
+- [An Amazing Opportunity](books/An%20Amazing%20Opportunity.md) — ext-348f3d69e2548d616a66
+- [An Ancient Scroll](books/An%20Ancient%20Scroll.md) — ext-b4fb2b649fc66ba63d4f
+- [An Apology for Missing Jewelry](books/An%20Apology%20for%20Missing%20Jewelry.md) — ext-b6756880744ecfeb1174
+- [An Easy Assignment](books/An%20Easy%20Assignment.md) — ext-f6aceef7f57af867de17
+- [An Egg-citing Discovery!](books/An%20Egg-citing%20Discovery%21.md) — ext-105e5d790d39cd302827
+- [An Elegantly Penned Letter](books/An%20Elegantly%20Penned%20Letter.md) — ext-bfe4b6b98d2d9d5e1ea9
+- [An Exile’s Notes](books/An%20Exile%E2%80%99s%20Notes.md) — ext-4cbdd2a6c36015780bc8
+- [An Increasing Problem](books/An%20Increasing%20Problem.md) — ext-c3cfe581f9ee53e0f978
+- [An Invitation to the Whispered Ball](books/An%20Invitation%20to%20the%20Whispered%20Ball.md) — ext-7a432d996fc75e7b7236
+- [An Irate Employer](books/An%20Irate%20Employer.md) — ext-c577f1f2ea5203410fa2
+- [An Offer of Protection](books/An%20Offer%20of%20Protection.md) — ext-14b1b845691647fed1a6
+- [An Offering](books/An%20Offering.md) — ext-ff89fbac9d86ed59f48e
+- [An Unusual Hare](books/An%20Unusual%20Hare.md) — ext-f67f618b1021b34d7a23
+- [An “Invitation” to Discovery](books/An%20%E2%80%9CInvitation%E2%80%9D%20to%20Discovery.md) — ext-080fafb6bfa599756e9a
+- [Ancestral Tombs of the Thirty Revered Families](books/Ancestral%20Tombs%20of%20the%20Thirty%20Revered%20Families.md) — ext-2a889383bf2f4c32d5be
+- [Anchor Maintenance Notes](books/Anchor%20Maintenance%20Notes.md) — ext-2d93446a5c8c10b231ea
+- [Anchorite Odska’s Final Report](books/Anchorite%20Odska%E2%80%99s%20Final%20Report.md) — ext-0e64a2928780a2c254a1
+- [Anchorite Odska’s Report, Morndas Eve.](books/Anchorite%20Odska%E2%80%99s%20Report%2C%20Morndas%20Eve.md) — ext-924da8009a9411f1ab21
+- [Anchorite’s Log](books/Anchorite%E2%80%99s%20Log.md) — ext-89dbef32d13d9585205e
+- [Ancient Hunter’s Journal](books/Ancient%20Hunter%E2%80%99s%20Journal.md) — ext-275600db922a92a650cc
+- [Aneshi’s Note](books/Aneshi%E2%80%99s%20Note.md) — ext-80e209f210caa9bf0a2d
+- [Angiente’s Book of Prospects](books/Angiente%E2%80%99s%20Book%20of%20Prospects.md) — ext-6d25991e1bcb508af3fd
+- [Angry Angry](books/Angry%20Angry.md) — ext-51006bc2745f97a2c937
+- [Angry Love Letter](books/Angry%20Love%20Letter.md) — ext-d624a0278d206fabacd2
+- [Aniaste’s Journal](books/Aniaste%E2%80%99s%20Journal.md) — ext-82bb544ab7c203daf3f5
+- [Anirtur’s Diary](books/Anirtur%E2%80%99s%20Diary.md) — ext-e630c12a5b7ff3ff8512
+- [Anjuld’s Journal](books/Anjuld%E2%80%99s%20Journal.md) — ext-6d6be36780ba528f333f
+- [Anonymous Journal](books/Anonymous%20Journal.md) — ext-48b446aa917e17d89653
+- [Anonymous Torn Journal](books/Anonymous%20Torn%20Journal.md) — ext-b4e5353378623374a273
+- [Another Letter from the Reformer](books/Another%20Letter%20from%20the%20Reformer.md) — ext-5cbdc4801833c242294e
+- [Another Scrawled Note](books/Another%20Scrawled%20Note.md) — ext-095151a7469eddf923d2
+- [Anvil Lighthouse Report](books/Anvil%20Lighthouse%20Report.md) — ext-8120e41197e4b7c2356f
+- [Anyone, Please](books/Anyone%2C%20Please.md) — ext-9ce5b90f338d159e83ba
+- [Apologies to Uncle Neldatir](books/Apologies%20to%20Uncle%20Neldatir.md) — ext-f5bd404b61bc96657dfa
+- [Apothecary’s Ledger](books/Apothecary%E2%80%99s%20Ledger.md) — ext-c8edf242c6b09e9137bf
+- [Application of Flame](books/Application%20of%20Flame.md) — ext-356e5b69ee2bb2bd56fb
+- [Application of Flame for the Uninitiated](books/Application%20of%20Flame%20for%20the%20Uninitiated.md) — ext-0ae991033705d0b7eaf8
+- [Apply More Pressure](books/Apply%20More%20Pressure.md) — ext-86cc43ed73a366e69262
+- [Aranias’ Diary](books/Aranias%E2%80%99%20Diary.md) — ext-7ee9c8553f029ebf4627
+- [Arch-Mage’s Journal](books/Arch-Mage%E2%80%99s%20Journal.md) — ext-84d9e9efad79b2233bf5
+- [Archcanon’s Journal](books/Archcanon%E2%80%99s%20Journal.md) — ext-a3b371147564a0166179
+- [Archdruid Michiel’s Orders](books/Archdruid%20Michiel%E2%80%99s%20Orders.md) — ext-44074840932a6f5654e1
+- [Archdruid’s Letter](books/Archdruid%E2%80%99s%20Letter.md) — ext-0d8479df97fdf7833280
+- [Architectural Survey Summary Report](books/Architectural%20Survey%20Summary%20Report.md) — ext-bcd6e945c165ee403f53
+- [Archwizard Twelvane’s Decree](books/Archwizard%20Twelvane%E2%80%99s%20Decree.md) — ext-c4203950e327d5a3eac1
+- [Ardia’s Journal](books/Ardia%E2%80%99s%20Journal.md) — ext-2795e0c9c3296858455d
+- [Argonian Journal Pages](books/Argonian%20Journal%20Pages.md) — ext-d205cc7ea1d792145f0f
+- [Argonian Refugee’s Diary](books/Argonian%20Refugee%E2%80%99s%20Diary.md) — ext-0e8b536c8f5ec995a14e
+- [Armament Inventory](books/Armament%20Inventory.md) — ext-94c02b0f412c625100f5
+- [Aronel’s Journal](books/Aronel%E2%80%99s%20Journal.md) — ext-9c0c91a2cee7b8f58fd6
+- [Arowende’s Diary](books/Arowende%E2%80%99s%20Diary.md) — ext-aa77416a1fff4d8a0e97
+- [Arrai’s Journal](books/Arrai%E2%80%99s%20Journal.md) — ext-13b55c315dd8797719a0
+- [Arrius Scouting Order](books/Arrius%20Scouting%20Order.md) — ext-0170b324083f663ebd4a
+- [Artisan’s Notes](books/Artisan%E2%80%99s%20Notes.md) — ext-0ddaec6de003adab3898
+- [Ascendant Champion Orders](books/Ascendant%20Champion%20Orders.md) — ext-ba3a95c2e11b60d69ec2
+- [Ascendant Champion’s New Orders](books/Ascendant%20Champion%E2%80%99s%20New%20Orders.md) — ext-d3d33602e515c5d6c9f7
+- [Ascendant Order Note](books/Ascendant%20Order%20Note.md) — ext-7f7bb43194b94ad856fc
+- [Assassin’s Letter](books/Assassin%E2%80%99s%20Letter.md) — ext-c2b4ca60489b9665932b
+- [Assassin’s Orders](books/Assassin%E2%80%99s%20Orders.md) — ext-6f59b05b3c1d37ba0074
+- [Astia’s Journal](books/Astia%E2%80%99s%20Journal.md) — ext-9f4fcb703333cccdcdde
+- [Atrocious Love Letter](books/Atrocious%20Love%20Letter.md) — ext-abac72bbdd0e5315c9fc
+- [Attention All Egg-Hands](books/Attention%20All%20Egg-Hands.md) — ext-067e4095f4dd3da18ae2
+- [Attention Moon Walkers](books/Attention%20Moon%20Walkers.md) — ext-de787f96c3c946c806bd
+- [Aurelia’s Letter](books/Aurelia%E2%80%99s%20Letter.md) — ext-2cad707d1a7946335d6c
+- [Auridon Target Brief](books/Auridon%20Target%20Brief.md) — ext-d7f103cee8fec7c7bd09
+- [Avenge Us!](books/Avenge%20Us%21.md) — ext-57c8dbb9fd01ab6a4c71
+- [Await My Emissary](books/Await%20My%20Emissary.md) — ext-250e6ca4746042a9538e
+- [Ayleid Library?](books/Ayleid%20Library.md) — ext-5abca95c9ccfad73d7f1
+- [Ayleid Ruin Exploration Orders](books/Ayleid%20Ruin%20Exploration%20Orders.md) — ext-bc014a9d4ce3ede6e5e6
+- [Azara’s Note](books/Azara%E2%80%99s%20Note.md) — ext-3cf9a0e379b87a60d8ce
+- [Azin-jo’s Journal](books/Azin-jo%E2%80%99s%20Journal.md) — ext-b469f7f6e7bab894b739
+- [Azum’s Journal](books/Azum%E2%80%99s%20Journal.md) — ext-e7315eccc2517e74016a
+- [Baandari Peddler Note](books/Baandari%20Peddler%20Note.md) — ext-23d74b8f7dff00e9e9b7
+- [Back Home in Orsinium](books/Back%20Home%20in%20Orsinium.md) — ext-a13279bed322281a719b
+- [Back to the Land!](books/Back%20to%20the%20Land%21.md) — ext-9e40ed918c93493dbd43
+- [Badly Damaged Journal](books/Badly%20Damaged%20Journal.md) — ext-41d7ed2b573290e582e4
+- [Bahzahar’s Summons](books/Bahzahar%E2%80%99s%20Summons.md) — ext-1117362f9c43de5f8dee
+- [Bakhig’s Journal](books/Bakhig%E2%80%99s%20Journal.md) — ext-d2a19f1456ac15f8cc9d
+- [Balgvir’s Siege Journal](books/Balgvir%E2%80%99s%20Siege%20Journal.md) — ext-834e6233c5b29a7ccb1e
+- [Balith’s Journal](books/Balith%E2%80%99s%20Journal.md) — ext-c5420e7d17f63d6251f1
+- [Balki’s Instructions](books/Balki%E2%80%99s%20Instructions.md) — ext-875c3ae0fa6a26555d82
+- [Balorgh’s Plan](books/Balorgh%E2%80%99s%20Plan.md) — ext-cbd2ab057bfbf6eeb400
+- [Bandit Thug’s Journal](books/Bandit%20Thug%E2%80%99s%20Journal.md) — ext-859af95d4b3fc3c4e063
+- [Bandit’s Letter](books/Bandit%E2%80%99s%20Letter.md) — ext-34c4aa603d4b15a2b5e4
+- [Banneret Jenine’s Orders](books/Banneret%20Jenine%E2%80%99s%20Orders.md) — ext-c288e23f97f072dded79
+- [Barely Legible Note](books/Barely%20Legible%20Note.md) — ext-cf22e37aaea8f57281a6
+- [Barelzar and the Daedra](books/Barelzar%20and%20the%20Daedra.md) — ext-fdf3060e00f9fbfce498
+- [Barjot’s Journal](books/Barjot%E2%80%99s%20Journal.md) — ext-60a8eaac4c3c2e9b5600
+- [Barkbite Stronghold Shaman’s List](books/Barkbite%20Stronghold%20Shaman%E2%80%99s%20List.md) — ext-f0b4411aaf586a8ed0fc
+- [Baron Sorick’s Orders](books/Baron%20Sorick%E2%80%99s%20Orders.md) — ext-a975ce3fa3d80f5fecc4
+- [Barrow Trench Scout’s Report](books/Barrow%20Trench%20Scout%E2%80%99s%20Report.md) — ext-f675702a9088349e4bf9
+- [Barrowton’s Journal](books/Barrowton%E2%80%99s%20Journal.md) — ext-d058ba824f96c5584168
+- [Bartholomew’s Discovery](books/Bartholomew%E2%80%99s%20Discovery.md) — ext-93a908d7a0e8504cf227
+- [Bartholomew’s Task](books/Bartholomew%E2%80%99s%20Task.md) — ext-1f3e307190045d11a116
+- [Bartholomew’s Theory](books/Bartholomew%E2%80%99s%20Theory.md) — ext-4f275ab1683d00da16a6
+- [Bashshi-ra Inquiry (partial)](books/Bashshi-ra%20Inquiry%20%28partial%29.md) — ext-d9334588a2a88631b961
+- [Battered Note](books/Battered%20Note.md) — ext-c69f288bdf10694258d8
+- [Battle of Falinesti](books/Battle%20of%20Falinesti.md) — ext-c0d00dd88f1105f3707e
+- [Battle of Thormar](books/Battle%20of%20Thormar.md) — ext-575f61726a451b7b6e55
+- [Battleplans](books/Battleplans.md) — ext-eefeda3026a5eb8dbfb7
+- [Bazorgbeg’s Expeditionary Journal](books/Bazorgbeg%E2%80%99s%20Expeditionary%20Journal.md) — ext-5c36a34f6b4fb26bf3ec
+- [Bazorgbeg’s Notes](books/Bazorgbeg%E2%80%99s%20Notes.md) — ext-7f0a5c4529b68b813d48
+- [Belarata Parchments](books/Belarata%20Parchments.md) — ext-57ecc9e4de011d156168
+- [Beldorr’s Note](books/Beldorr%E2%80%99s%20Note.md) — ext-943c5e75c3b848b43b68
+- [Bending to the Flame](books/Bending%20to%20the%20Flame.md) — ext-521f5b46e47962d4fee1
+- [Big Damn Bugs](books/Big%20Damn%20Bugs.md) — ext-080daa6898c849ed85c5
+- [Bismuth Experiment #3](books/Bismuth%20Experiment%203.md) — ext-7672f56b1702fdbd8a03
+- [Black Dagger Recall Orders](books/Black%20Dagger%20Recall%20Orders.md) — ext-a5db15f8692d2f91736a
+- [Black Kiergo: Primed for Peryite?](books/Black%20Kiergo%20Primed%20for%20Peryite.md) — ext-f764268c45048e2538b5
+- [Black Snails Shipping Notice](books/Black%20Snails%20Shipping%20Notice.md) — ext-2553ad23d172b0e27b9d
+- [Black Soul Gem Manifest](books/Black%20Soul%20Gem%20Manifest.md) — ext-e0b5cc5211f57e095285
+- [Black Vine Ruins](books/Black%20Vine%20Ruins.md) — ext-9da55a3da17c36a3c200
+- [Blackcaster Notice](books/Blackcaster%20Notice.md) — ext-4e3ac4e081cfb583d20f
+- [Blackguard Instructions](books/Blackguard%20Instructions.md) — ext-26a4261a60a724fcb56b
+- [Blackguard Note](books/Blackguard%20Note.md) — ext-a588a4157b92379968ed
+- [Bleakrock Fisherman’s Journal](books/Bleakrock%20Fisherman%E2%80%99s%20Journal.md) — ext-e10cef7c31051f2a8b89
+- [Blightcrown’s Notes](books/Blightcrown%E2%80%99s%20Notes.md) — ext-c35790d655f010990dca
+- [Blightcrown’s Orders](books/Blightcrown%E2%80%99s%20Orders.md) — ext-eace72c988d9cc244b3d
+- [Blood-Feathers Battle Slogans](books/Blood-Feathers%20Battle%20Slogans.md) — ext-3c19d79a81dfe02f6e24
+- [Blood-Sealed Contract](books/Blood-Sealed%20Contract.md) — ext-4ce93c49774ce791e41c
+- [Blood-Soaked Letter](books/Blood-Soaked%20Letter.md) — ext-1e5938cb6500f3a09eaf
+- [Blood-Spattered Love Note](books/Blood-Spattered%20Love%20Note.md) — ext-6f43818f93c7944094b8
+- [Bloodthorn Orders](books/Bloodthorn%20Orders.md) — ext-aa8ad1d02bb5877a7cc1
+- [Bloodthorn Orders: Ebon Crypt](books/Bloodthorn%20Orders%20Ebon%20Crypt.md) — ext-3cb1d9f788c1977f24e0
+- [Bloody Note \[ESO\]](books/Bloody%20Note%20%5BESO%5D.md) — ext-098ad082b84a25f8cef2
+- [Blue](books/Blue.md) — ext-e96dd2c607353d48e874
+- [Blue Aedral Shipment Details](books/Blue%20Aedral%20Shipment%20Details.md) — ext-7b5850c6892fba1615a8
+- [Blue Road Scout Notes](books/Blue%20Road%20Scout%20Notes.md) — ext-bcef52e6d7853ccc1e7b
+- [Blunt Their Weapons](books/Blunt%20Their%20Weapons.md) — ext-a68765828714857d3fca
+- [Boethiah’s Call of Champions](books/Boethiah%E2%80%99s%20Call%20of%20Champions.md) — ext-f237209af5552ec5b71e
+- [Bogcup’s Letter from Hyacinth](books/Bogcup%E2%80%99s%20Letter%20from%20Hyacinth.md) — ext-9b140299d5ae79511c77
+- [Bogvir’s Letter](books/Bogvir%E2%80%99s%20Letter.md) — ext-a42ecd95c09949e9fb45
+- [Bonnie Spriggan Logbook](books/Bonnie%20Spriggan%20Logbook.md) — ext-5658566181c8cebd784d
+- [Book of Thoughts](books/Book%20of%20Thoughts.md) — ext-2248a62429af7c0a914c
+- [Bordaunt Virelande’s Journal](books/Bordaunt%20Virelande%E2%80%99s%20Journal.md) — ext-c1408142e9ffeea76b58
+- [Borzugh’s Letter](books/Borzugh%E2%80%99s%20Letter.md) — ext-dbb9928f95a631d123c8
+- [Borzul’s Suicide Note](books/Borzul%E2%80%99s%20Suicide%20Note.md) — ext-b4dc6fc31a1c590966cc
+- [Bothamul’s Orders](books/Bothamul%E2%80%99s%20Orders.md) — ext-0b802d441b84fd0bed89
+- [Bounties of Blackwood](books/Bounties%20of%20Blackwood.md) — ext-9a23ee0d81b3cada069e
+- [Bounty Contract: Wadracki](books/Bounty%20Contract%20Wadracki.md) — ext-08d1b8411f8df2a02540
+- [Bounty Order from Sorcalin](books/Bounty%20Order%20from%20Sorcalin.md) — ext-684be31601cbd20465b2
+- [Bowman’s Note](books/Bowman%E2%80%99s%20Note.md) — ext-0acdeb72725329bf4b39
+- [Breton Bedtime Stories (Loose Page)](books/Breton%20Bedtime%20Stories%20%28Loose%20Page%29.md) — ext-571097e2094b59cf29df
+- [Bridge Guard’s Complaint](books/Bridge%20Guard%E2%80%99s%20Complaint.md) — ext-916a69b5b1ffe845de02
+- [Brief Letter to an Aldarch](books/Brief%20Letter%20to%20an%20Aldarch.md) — ext-48212c244e8ce6ac2f9b
+- [Brigadine’s Journal](books/Brigadine%E2%80%99s%20Journal.md) — ext-34014e585203836d6f2d
+- [Bringing Home the Trolls](books/Bringing%20Home%20the%20Trolls.md) — ext-70c390cfa850723de6b0
+- [Broken Helm Notes](books/Broken%20Helm%20Notes.md) — ext-7200d2ee8252b2d12712
+- [Brondold’s Journal](books/Brondold%E2%80%99s%20Journal.md) — ext-62dabbe4e98b30891cf3
+- [Brondold’s Papers](books/Brondold%E2%80%99s%20Papers.md) — ext-a220c6a2b183258c7a52
+- [Brugurikh’s Journal](books/Brugurikh%E2%80%99s%20Journal.md) — ext-8834bb5b4367475ef33f
+- [Bruma Pleads for Aid](books/Bruma%20Pleads%20for%20Aid.md) — ext-4c0acb383e6b65cdaf13
+- [Brunnduhl’s Note](books/Brunnduhl%E2%80%99s%20Note.md) — ext-ba97f6c5615915a6039e
+- [Burial Site Orders](books/Burial%20Site%20Orders.md) — ext-fa25c87477820d2b9647
+- [Burn the False Propaganda](books/Burn%20the%20False%20Propaganda.md) — ext-a6b15efefb16d5786762
+- [Burned Fragment](books/Burned%20Fragment.md) — ext-346b527ed98653eac77b
+- [Burned Research Notes](books/Burned%20Research%20Notes.md) — ext-9d7ced38da1d0b2f9e34
+- [Burned-By-Fire’s Journal](books/Burned-By-Fire%E2%80%99s%20Journal.md) — ext-03e3cb428aef28000ad3
+- [Burnt Note](books/Burnt%20Note.md) — ext-3cb4f5cf9e8523f1f5de
+- [Burnt Papers](books/Burnt%20Papers.md) — ext-169df4cf42b5e53f63fb
+- [Burnt, Mostly Illegible Scrap](books/Burnt%2C%20Mostly%20Illegible%20Scrap.md) — ext-c688d775a35af2ac5e70
+- [By Order of Faolchu](books/By%20Order%20of%20Faolchu.md) — ext-34eaa3ab8ad9aa36d08c
+- [By Order of the Silver Dawn](books/By%20Order%20of%20the%20Silver%20Dawn.md) — ext-fba7c6b69822929d2ee5
+- [Cadwell’s Journal: Deep Thoughts, Part 412](books/Cadwell%E2%80%99s%20Journal%20Deep%20Thoughts%2C%20Part%20412.md) — ext-6b1b85b91eaa4ebd8f4d
+- [Cadwell’s Journal: Famous Coldharbourites](books/Cadwell%E2%80%99s%20Journal%20Famous%20Coldharbourites.md) — ext-83bb71493c8e5e2c330d
+- [Caecilius’ Journal](books/Caecilius%E2%80%99%20Journal.md) — ext-82ae6e2ce71178df879f
+- [Calis’s Journal](books/Calis%E2%80%99s%20Journal.md) — ext-eeeff4c239af1d27974b
+- [Call to the Cloisters](books/Call%20to%20the%20Cloisters.md) — ext-374700d1f5a556870e84
+- [Call to the Faithful \[Note\]](books/Call%20to%20the%20Faithful%20%5BNote%5D.md) — ext-7bd1a5ea3dac69da9344
+- [Calo’s Journal](books/Calo%E2%80%99s%20Journal.md) — ext-7e3b48e234357a462ba7
+- [Camandar’s Journal](books/Camandar%E2%80%99s%20Journal.md) — ext-bf6cafff7eddae65bdd2
+- [Camp Update](books/Camp%20Update.md) — ext-4830aa262606d4be16e4
+- [Cantillon’s Correspondence](books/Cantillon%E2%80%99s%20Correspondence.md) — ext-1949ce92515508bac530
+- [Cantor Izalgo’s Journal](books/Cantor%20Izalgo%E2%80%99s%20Journal.md) — ext-be137e325cff1ec58924
+- [Canuldil’s Note](books/Canuldil%E2%80%99s%20Note.md) — ext-72c066ea910b2c4a6d13
+- [Canuldil’s Plea](books/Canuldil%E2%80%99s%20Plea.md) — ext-68506ceb2ce4ada129f1
+- [Captain Abitius’s Orders](books/Captain%20Abitius%E2%80%99s%20Orders.md) — ext-3d2362286092925fd4ad
+- [Captain Alphaury’s Journal](books/Captain%20Alphaury%E2%80%99s%20Journal.md) — ext-6e8850dc9fa23e5b1d54
+- [Captain Black Sword’s Journal](books/Captain%20Black%20Sword%E2%80%99s%20Journal.md) — ext-e2887268b0ff4a6c4ac8
+- [Captain Blackheart’s Log](books/Captain%20Blackheart%E2%80%99s%20Log.md) — ext-804da29371659dcc13cd
+- [Captain Burwarah’s Records](books/Captain%20Burwarah%E2%80%99s%20Records.md) — ext-90d544756e4e3b4bd531
+- [Captain Evani’s Log](books/Captain%20Evani%E2%80%99s%20Log.md) — ext-60b92edaa46923919622
+- [Captain Fanimanwe’s Journal](books/Captain%20Fanimanwe%E2%80%99s%20Journal.md) — ext-a88d13a150135b431df8
+- [Captain Izard’s Orders](books/Captain%20Izard%E2%80%99s%20Orders.md) — ext-f72b176015a5754ba606
+- [Captain Kaleen’s Log](books/Captain%20Kaleen%E2%80%99s%20Log.md) — ext-62c71f7d5de8b8beb0c3
+- [Captain Nilail’s Log](books/Captain%20Nilail%E2%80%99s%20Log.md) — ext-39d130e408e2b84d57d6
+- [Captain Parondo’s Log Entry](books/Captain%20Parondo%E2%80%99s%20Log%20Entry.md) — ext-3cabaded65d32c257657
+- [Captain Svadstar’s Announcement](books/Captain%20Svadstar%E2%80%99s%20Announcement.md) — ext-6a69ac2c9dfd330701dc
+- [Captain Tsuzo’s Log](books/Captain%20Tsuzo%E2%80%99s%20Log.md) — ext-5362d62605eaecc297b1
+- [Captain Za’ji’s Log](books/Captain%20Za%E2%80%99ji%E2%80%99s%20Log.md) — ext-4b035abf339733173566
+- [Captain’s Letter](books/Captain%E2%80%99s%20Letter.md) — ext-0edb615b95214b21e378
+- [Captain’s Log of the Intrepid Guar](books/Captain%E2%80%99s%20Log%20of%20the%20Intrepid%20Guar.md) — ext-3910dd730c322c97023d
+- [Captain’s Orders](books/Captain%E2%80%99s%20Orders.md) — ext-e8594c4371cd55c6354d
+- [Captive’s Crumpled Note](books/Captive%E2%80%99s%20Crumpled%20Note.md) — ext-9dcf1c53738812a03dfb
+- [Captive’s Discreet Warning](books/Captive%E2%80%99s%20Discreet%20Warning.md) — ext-1c2639096d964ac71c5e
+- [Capturing Ammabani’s Pride](books/Capturing%20Ammabani%E2%80%99s%20Pride.md) — ext-f417ebf4759bc7377133
+- [Cardia’s Letter to Father](books/Cardia%E2%80%99s%20Letter%20to%20Father.md) — ext-d79f436652705a6da7c4
+- [Cartorrel’s Last Words](books/Cartorrel%E2%80%99s%20Last%20Words.md) — ext-f8642a28547c12bbc12f
+- [Catalyst Notes](books/Catalyst%20Notes.md) — ext-6d9366704d42aaf66e29
+- [Caterwaul Logbook](books/Caterwaul%20Logbook.md) — ext-98c12fa08fd52c6348bf
+- [Caught Him!](books/Caught%20Him%21.md) — ext-00bb97e66d9bc3163add
+- [Cavot Agnan’s Breakthrough](books/Cavot%20Agnan%E2%80%99s%20Breakthrough.md) — ext-8f5ece0f9cb3036ed24a
+- [Celan’s Journal](books/Celan%E2%80%99s%20Journal.md) — ext-664b7c557708790e767b
+- [Cerise’s Farewell Note](books/Cerise%E2%80%99s%20Farewell%20Note.md) — ext-7abcef9b1205bf037e7e
+- [Ceythalmor Captain’s Journal](books/Ceythalmor%20Captain%E2%80%99s%20Journal.md) — ext-161494c7175660cf0bd9
+- [Ceythalmor Mission Orders](books/Ceythalmor%20Mission%20Orders.md) — ext-a93136cf3963680ec3f6
+- [Ceythalmor Relocation Orders](books/Ceythalmor%20Relocation%20Orders.md) — ext-fde41618d116f85da6d1
+- [Chamber Instructions](books/Chamber%20Instructions.md) — ext-51e6d366a23556c0926e
+- [Charred Journal](books/Charred%20Journal.md) — ext-d17126ee0496d8412ac6
+- [Chastisement from Zimmeron](books/Chastisement%20from%20Zimmeron.md) — ext-6cf56b581aef24256742
+- [Checklist for Challenging the Opulent](books/Checklist%20for%20Challenging%20the%20Opulent.md) — ext-29e215fe4e151d057e0e
+- [Chewed Note](books/Chewed%20Note.md) — ext-c3067d45ffbcba66648a
+- [Chiselshriek Foreman’s Log](books/Chiselshriek%20Foreman%E2%80%99s%20Log.md) — ext-4e224ca00ebd0e6dab00
+- [Chodala’s Writings](books/Chodala%E2%80%99s%20Writings.md) — ext-60d93a469f2f92f1deb4
+- [Chores](books/Chores.md) — ext-ff6b01e1a6cb254efa7d
+- [Cinnar’s Notes](books/Cinnar%E2%80%99s%20Notes.md) — ext-b07b3ae5f32b91c1ee5e
+- [Cipher Akacirn’s Journal](books/Cipher%20Akacirn%E2%80%99s%20Journal.md) — ext-09baf0ab9ad4c93bf337
+- [Cipher Dreyla’s Note](books/Cipher%20Dreyla%E2%80%99s%20Note.md) — ext-eccb6656a7935544c354
+- [Cipher Nelfynn’s Note](books/Cipher%20Nelfynn%E2%80%99s%20Note.md) — ext-7d557f4390c53cd92361
+- [Cipher Sabinius’s Apology](books/Cipher%20Sabinius%E2%80%99s%20Apology.md) — ext-50dbcae0f77db683c5e2
+- [Cipher Tlaxalt’s Note](books/Cipher%20Tlaxalt%E2%80%99s%20Note.md) — ext-244ee6772b74648fdad8
+- [Cipius’ Orders](books/Cipius%E2%80%99%20Orders.md) — ext-287d2f91e2fd7a7b8bb4
+- [Claudie’s Journal](books/Claudie%E2%80%99s%20Journal.md) — ext-fad6b28206b7341b95f6
+- [Claudie’s Last Entry](books/Claudie%E2%80%99s%20Last%20Entry.md) — ext-65d980e569f0f469981f
+- [Claudina’s Notes](books/Claudina%E2%80%99s%20Notes.md) — ext-88d58379d7af40a79273
+- [Clearing the Crypts](books/Clearing%20the%20Crypts.md) — ext-c3fb4964418af9ced733
+- [Closing Performance Notes](books/Closing%20Performance%20Notes.md) — ext-517210048c058ce2d7e7
+- [Cloudrest Secret Entrance](books/Cloudrest%20Secret%20Entrance.md) — ext-96e258ea1477cf3b0dad
+- [Coded Message on Coin](books/Coded%20Message%20on%20Coin.md) — ext-b2265253f884b8f89462
+- [Coded Missive](books/Coded%20Missive.md) — ext-10f00612df58a3f9450c
+- [Coded Rutter](books/Coded%20Rutter.md) — ext-3d62188afe9334d3c57d
+- [Colovian Deserter’s Journal](books/Colovian%20Deserter%E2%80%99s%20Journal.md) — ext-081aa8cfef42e5414998
+- [Come to Vvardenfell!](books/Come%20to%20Vvardenfell%21.md) — ext-7f6a7d972fb37915e7e5
+- [Coming of the Learned One](books/Coming%20of%20the%20Learned%20One.md) — ext-9d5169267b23f3c78761
+- [Commendation Letter](books/Commendation%20Letter.md) — ext-13326f1527281f4a8e44
+- [Commentary on Fate Dialectal](books/Commentary%20on%20Fate%20Dialectal.md) — ext-22e7e04a4adeb1613f7f
+- [Commodore’s Diary](books/Commodore%E2%80%99s%20Diary.md) — ext-1e5da52e5770acec5923
+- [Communications Between Nilphas and Thoryn](books/Communications%20Between%20Nilphas%20and%20Thoryn.md) — ext-25e2cf2745989856e7ba
+- [Compiled Research](books/Compiled%20Research.md) — ext-6233ca3ad52ba1c010dd
+- [Concerned Letter](books/Concerned%20Letter.md) — ext-00b6556d48fdda7c9ed8
+- [Concerning Balorgh](books/Concerning%20Balorgh.md) — ext-e6893399b9d13b78248d
+- [Concerning Garick](books/Concerning%20Garick.md) — ext-fa8a26a2679beb6bda06
+- [Concerning the Saints’ Safety and Security](books/Concerning%20the%20Saints%E2%80%99%20Safety%20and%20Security.md) — ext-1ad04c1e5c2a6ee1824e
+- [Confessions of a Bold Alchemist](books/Confessions%20of%20a%20Bold%20Alchemist.md) — ext-4b3e9b176b552682845a
+- [Confiscated from the Prisoner](books/Confiscated%20from%20the%20Prisoner.md) — ext-269460a82c6384848265
+- [Confused Correspondence from Fjurig](books/Confused%20Correspondence%20from%20Fjurig.md) — ext-c948c2984b83b53c8c62
+- [Congratulations On Another Success!](books/Congratulations%20On%20Another%20Success%21.md) — ext-ae266ae16ef62e035650
+- [Constable Maldred’s Journal](books/Constable%20Maldred%E2%80%99s%20Journal.md) — ext-82c461ab145b3885ded1
+- [Constable Ulbren’s Notebook](books/Constable%20Ulbren%E2%80%99s%20Notebook.md) — ext-aded0939c4f78e5be105
+- [Contract Scroll](books/Contract%20Scroll.md) — ext-c8c0ccfd5874bc7e19c6
+- [Correspondence from Torvesard](books/Correspondence%20from%20Torvesard.md) — ext-67c0827109381b2323a0
+- [Council Meeting Summons](books/Council%20Meeting%20Summons.md) — ext-67d35c1ced7e78e18db3
+- [Councilor Abor’s Journal](books/Councilor%20Abor%E2%80%99s%20Journal.md) — ext-f172c009cb57535c38e6
+- [Councilor Jirich’s Records](books/Councilor%20Jirich%E2%80%99s%20Records.md) — ext-91a166cb04d4d05a5330
+- [Count’s Correspondence](books/Count%E2%80%99s%20Correspondence.md) — ext-7297d496bf3d754b6791
+- [Courier Grenier’s Note](books/Courier%20Grenier%E2%80%99s%20Note.md) — ext-705bb2ba10f326895224
+- [Courier-Delivered Letter](books/Courier-Delivered%20Letter.md) — ext-3fdccf38a7eeb95b5b98
+- [Covenant Intelligence Report 2, 502](books/Covenant%20Intelligence%20Report%202%2C%20502.md) — ext-e5d6c074b1c0233b354e
+- [Cover Every Approach](books/Cover%20Every%20Approach.md) — ext-361f03d298ed891b5978
+- [Covert Note](books/Covert%20Note.md) — ext-7b74d4c643f12ddfa1fc
+- [Cracking the Elden Tree Vault](books/Cracking%20the%20Elden%20Tree%20Vault.md) — ext-e47a3f0768b5ce8e42c2
+- [Crow’s Wood Traveler’s Log](books/Crow%E2%80%99s%20Wood%20Traveler%E2%80%99s%20Log.md) — ext-08807941c81a4b969b00
+- [Crumbling Breton Scroll](books/Crumbling%20Breton%20Scroll.md) — ext-d9c6e0e3830dc78b8bfe
+- [Crumpled Note in the Desk](books/Crumpled%20Note%20in%20the%20Desk.md) — ext-973a5785c25499fa51ad
+- [Culmination and Success](books/Culmination%20and%20Success.md) — ext-ed627660c560b4aeee1c
+- [Cult Screed](books/Cult%20Screed.md) — ext-7652675b90776d9ee802
+- [Cultist Orders](books/Cultist%20Orders.md) — ext-469953fe55086b79aca8
+- [Curative Batch Notes](books/Curative%20Batch%20Notes.md) — ext-3124f56f8c04f20850a7
+- [Curious Manifest](books/Curious%20Manifest.md) — ext-867b253870e98219053e
+- [Curnard’s Journal](books/Curnard%E2%80%99s%20Journal.md) — ext-9fde9e608fbd43fb64c6
+- [Daggerfall Covenant Missive](books/Daggerfall%20Covenant%20Missive.md) — ext-95c6f65842f18cf75cb1
+- [Daggerfall Market Shopping List](books/Daggerfall%20Market%20Shopping%20List.md) — ext-11400e11768ac94c643d
+- [Damar’s Ledger](books/Damar%E2%80%99s%20Ledger.md) — ext-90fdfd25e3d43a819ff5
+- [Dark Contract](books/Dark%20Contract.md) — ext-4206a287e9f4393b6796
+- [Dark Elf Dispatch](books/Dark%20Elf%20Dispatch.md) — ext-84b37415cc74a5e64e3f
+- [Dark Ministrations](books/Dark%20Ministrations.md) — ext-23a42ec33e8766c61817
+- [Dark Ritual](books/Dark%20Ritual.md) — ext-b4f437a41f3b0d2f5ac4
+- [Dawn of the Exalted Viper](books/Dawn%20of%20the%20Exalted%20Viper.md) — ext-8c7ef7b97aad14047ac1
+- [Dead Man’s Drop](books/Dead%20Man%E2%80%99s%20Drop.md) — ext-e5a1cf3de0b288ca5eda
+- [Dead Sword-Disciple’s Note](books/Dead%20Sword-Disciple%E2%80%99s%20Note.md) — ext-458004d57f1fec61f510
+- [Deal with the Messenger](books/Deal%20with%20the%20Messenger.md) — ext-11140ebeadcd81917cb3
+- [Dealing with the Recollection](books/Dealing%20with%20the%20Recollection.md) — ext-21cd30c2166c76bb0179
+- [Dear Escort](books/Dear%20Escort.md) — ext-87b6d17b43ff4b9b138d
+- [Dear Johun Letter](books/Dear%20Johun%20Letter.md) — ext-38839ee3ab07d00e282b
+- [Death is No Laughing Matter](books/Death%20is%20No%20Laughing%20Matter.md) — ext-0adc5cb49bd846578c29
+- [Death to All Mages](books/Death%20to%20All%20Mages.md) — ext-b6d0f21cbcc25ac6131a
+- [Death-Hunts Await](books/Death-Hunts%20Await.md) — ext-a0c56bd5a3a51d1bad45
+- [Deathbringer Orders](books/Deathbringer%20Orders.md) — ext-95680eeeea52d15bfc7d
+- [Debonaire’s Captain Log](books/Debonaire%E2%80%99s%20Captain%20Log.md) — ext-756b4f501dee94dea127
+- [Deciphered Imperial Document](books/Deciphered%20Imperial%20Document.md) — ext-fd6390a97456d7ae87e4
+- [Deckhand’s Log](books/Deckhand%E2%80%99s%20Log.md) — ext-724d5aa63fe67aae4602
+- [Decoded Coin Message](books/Decoded%20Coin%20Message.md) — ext-cd46358952eb7666a9cf
+- [Deem-Ra’s Diary](books/Deem-Ra%E2%80%99s%20Diary.md) — ext-23d0212ae76a31043709
+- [Deep Thoughts of Chief Gloorot](books/Deep%20Thoughts%20of%20Chief%20Gloorot.md) — ext-13d66d57692e2dc00287
+- [Deet-Loh’s Notes](books/Deet-Loh%E2%80%99s%20Notes.md) — ext-e257209f20c7d5339892
+- [Deleyn’s Mill Order Form](books/Deleyn%E2%80%99s%20Mill%20Order%20Form.md) — ext-145a1882ddce23738f60
+- [Delivery Schedule and Manifests](books/Delivery%20Schedule%20and%20Manifests.md) — ext-584cb4e68615e4a6d8a2
+- [Delver Notes](books/Delver%20Notes.md) — ext-e8076b3df920514359d2
+- [Delves-Deeply’s Note](books/Delves-Deeply%E2%80%99s%20Note.md) — ext-f537b0b39f429776c3f4
+- [Del’s Claim](books/Del%E2%80%99s%20Claim.md) — ext-f2b163d507c323accf2c
+- [Del’s Claim Report](books/Del%E2%80%99s%20Claim%20Report.md) — ext-14b1d21d99e1ea8eef1d
+- [Demands of the Painted Eye](books/Demands%20of%20the%20Painted%20Eye.md) — ext-a078adc3ed1dee0c8667
+- [Deregor’s Lost Goods](books/Deregor%E2%80%99s%20Lost%20Goods.md) — ext-2e272188c2af328c3c0a
+- [Desperate Time](books/Desperate%20Time.md) — ext-b5676515e4edcc2ba041
+- [Desperate for the Fantastical](books/Desperate%20for%20the%20Fantastical.md) — ext-78f905b43bc92884c24c
+- [Destron’s Journal](books/Destron%E2%80%99s%20Journal.md) — ext-7c8ac9cfe277bb9fa50b
+- [Devastator Ursana’s Letter](books/Devastator%20Ursana%E2%80%99s%20Letter.md) — ext-243e4de3ddffb44d9259
+- [Devotee Journal](books/Devotee%20Journal.md) — ext-2c90b5c8b41539e4677c
+- [Diary of Climent Noellaume](books/Diary%20of%20Climent%20Noellaume.md) — ext-87e025c347dc3e196619
+- [Diary of a Romance](books/Diary%20of%20a%20Romance.md) — ext-dfef89f9ef1002abad8d
+- [Dictate of Renewal](books/Dictate%20of%20Renewal.md) — ext-395bd6632be350a3bd5a
+- [Digging Orders](books/Digging%20Orders.md) — ext-61226795664da4163a2e
+- [Directions to Meeting](books/Directions%20to%20Meeting.md) — ext-c958137efb8bd20e1ae9
+- [Directions to the hidden book](books/Directions%20to%20the%20hidden%20book.md) — ext-a702a64e16abdc2fec27
+- [Directive To Centurion Bodenius](books/Directive%20To%20Centurion%20Bodenius.md) — ext-adf4973160b927d549a6
+- [Dirty Abandoned Journal](books/Dirty%20Abandoned%20Journal.md) — ext-f68344be92158c140d1f
+- [Disastrix Zansora’s Journal](books/Disastrix%20Zansora%E2%80%99s%20Journal.md) — ext-ec431439b1d28b21707c
+- [Discarded Diary](books/Discarded%20Diary.md) — ext-cc350feae436053183fc
+- [Discarded Dream Journal](books/Discarded%20Dream%20Journal.md) — ext-a287558b2498ba3da73d
+- [Discarded Journal](books/Discarded%20Journal.md) — ext-03b727ad6cc7262efacc
+- [Discarded Orders](books/Discarded%20Orders.md) — ext-1d92c5598347a6a4eceb
+- [Disciplinary Action](books/Disciplinary%20Action.md) — ext-ce845220a5d9797b1ac5
+- [Dismissal Letter](books/Dismissal%20Letter.md) — ext-d93c10aca4e2b1bcbe2d
+- [Distribution Notes](books/Distribution%20Notes.md) — ext-945b523d72f9f1f48271
+- [Divayth Fyr’s Notes](books/Divayth%20Fyr%E2%80%99s%20Notes.md) — ext-c48cc758d40ac5c51c5c
+- [Diviner’s Journal](books/Diviner%E2%80%99s%20Journal.md) — ext-7e41c82b49be664e09a9
+- [Dockmaster’s Lament](books/Dockmaster%E2%80%99s%20Lament.md) — ext-94425b79830ddad639e9
+- [Dominion Agent’s Report](books/Dominion%20Agent%E2%80%99s%20Report.md) — ext-89a1a927f647403743fd
+- [Dominion Condolences](books/Dominion%20Condolences.md) — ext-5145ce4657a2aec8d314
+- [Dominion Intelligence Topsheet](books/Dominion%20Intelligence%20Topsheet.md) — ext-07330c9f947a95e37e79
+- [Dominion Military Recruitment](books/Dominion%20Military%20Recruitment.md) — ext-e823c0ac26329213e9b9
+- [Dominion Orders](books/Dominion%20Orders.md) — ext-9d65b24360b9ea466108
+- [Dominion Orders: Enduum](books/Dominion%20Orders%20Enduum.md) — ext-a7854d39f318b8e6db6d
+- [Dominion Soldier’s Journal: Zuuk](books/Dominion%20Soldier%E2%80%99s%20Journal%20Zuuk.md) — ext-46191dc14182cec5f087
+- [Don’t Mess This Up](books/Don%E2%80%99t%20Mess%20This%20Up.md) — ext-b1f5564a550803f42418
+- [Doomed Explorer’s Journal](books/Doomed%20Explorer%E2%80%99s%20Journal.md) — ext-3acd5f775884aad0fa89
+- [Dorand’s Final Notes](books/Dorand%E2%80%99s%20Final%20Notes.md) — ext-acc25aa3318f6f693e9c
+- [Doshia’s Journal](books/Doshia%E2%80%99s%20Journal.md) — ext-f00823fe653465850693
+- [Dour Lady’s Captain Log](books/Dour%20Lady%E2%80%99s%20Captain%20Log.md) — ext-f9b98c2891ffe3e30204
+- [Dradeiva’s Journal](books/Dradeiva%E2%80%99s%20Journal.md) — ext-7d5438b3c5686d786b8b
+- [Dragons: A Report for the Queen](books/Dragons%20A%20Report%20for%20the%20Queen.md) — ext-5d71a7f6fcad6d6bebd8
+- [Dragonstar Caravan Company Note](books/Dragonstar%20Caravan%20Company%20Note.md) — ext-68e65d56360a34aaf2f0
+- [Drago’s Orders](books/Drago%E2%80%99s%20Orders.md) — ext-4491a9673247f7d0b9b6
+- [Drakeeh the Unchained’s Journal](books/Drakeeh%20the%20Unchained%E2%80%99s%20Journal.md) — ext-33ca209f212cca091a3c
+- [Dranos’s Diary](books/Dranos%E2%80%99s%20Diary.md) — ext-eb5882862286a2089dcb
+- [Dread Lady’s Letter](books/Dread%20Lady%E2%80%99s%20Letter.md) — ext-60eb8e6ac7bde6bb1de4
+- [Dreadsail Orders](books/Dreadsail%20Orders.md) — ext-4cd26222c19448c971a6
+- [Dreadsails Communique](books/Dreadsails%20Communique.md) — ext-e298acecabb29f828f5e
+- [Dreamsnake Manifest](books/Dreamsnake%20Manifest.md) — ext-7e9ae156e8f4ed3fd5d1
+- [Dres Message](books/Dres%20Message.md) — ext-a69db0a4908de488ffbc
+- [Dreynis’s Notes](books/Dreynis%E2%80%99s%20Notes.md) — ext-a802bf8138847e0eb0b6
+- [Drillk’s Journal](books/Drillk%E2%80%99s%20Journal.md) — ext-f75cfd88a987740c18b9
+- [Drivas’ Journal (Partial)](books/Drivas%E2%80%99%20Journal%20%28Partial%29.md) — ext-67f162b1eacf3000fa6c
+- [Drolora’s Trap Summary](books/Drolora%E2%80%99s%20Trap%20Summary.md) — ext-8570f066185fbdc2292a
+- [Drop Instructions](books/Drop%20Instructions.md) — ext-c61f2bdd750ad22ed7ad
+- [Drublog Shaman’s Journal](books/Drublog%20Shaman%E2%80%99s%20Journal.md) — ext-f499207c3c29569944be
+- [Druid Senna’s Last Account](books/Druid%20Senna%E2%80%99s%20Last%20Account.md) — ext-b5e641645c54f2e2ade5
+- [Drusilla’s Notes](books/Drusilla%E2%80%99s%20Notes.md) — ext-a7088a111b31e43a384f
+- [Duchess Astella’s Notes](books/Duchess%20Astella%E2%80%99s%20Notes.md) — ext-e6ee887c9737c6e96c20
+- [Duchess Elea’s Investigation Notes](books/Duchess%20Elea%E2%80%99s%20Investigation%20Notes.md) — ext-ecc1eeab58bf527915c1
+- [Dulkhi’s Diary](books/Dulkhi%E2%80%99s%20Diary.md) — ext-5842f0a4a805787df27f
+- [Dulza’s Log](books/Dulza%E2%80%99s%20Log.md) — ext-3efcd92731309b4d6d1b
+- [Dusk Captain Zenfis’s Orders](books/Dusk%20Captain%20Zenfis%E2%80%99s%20Orders.md) — ext-d361b2966f7a50fa3eaa
+- [Dusksaber Report](books/Dusksaber%20Report.md) — ext-705568337d72daaa86b9
+- [Duttard’s Journal](books/Duttard%E2%80%99s%20Journal.md) — ext-ba3fb1db58efc0720cfa
+- [Dwarven Ruin Explorer’s Journal](books/Dwarven%20Ruin%20Explorer%E2%80%99s%20Journal.md) — ext-5dde8d4e008418b82ba8
+- [Ealcil’s Journal](books/Ealcil%E2%80%99s%20Journal.md) — ext-3fa9191e67f6cbd4ae46
+- [Ealcil’s Notes](books/Ealcil%E2%80%99s%20Notes.md) — ext-d26375e5d44e21b1451a
+- [Ebon Crypt](books/Ebon%20Crypt.md) — ext-8b728be5a09cb1a76560
+- [Edric’s Confession](books/Edric%E2%80%99s%20Confession.md) — ext-bed4281ad7b18ac01ab2
+- [Edvilda’s Log Book](books/Edvilda%E2%80%99s%20Log%20Book.md) — ext-be640dd8e2e0a7bef059
+- [Edweg’s Resignation Note](books/Edweg%E2%80%99s%20Resignation%20Note.md) — ext-072e770a25178778fc7a
+- [Egg-Tender’s Journal](books/Egg-Tender%E2%80%99s%20Journal.md) — ext-419e9f6a9f793fdd16af
+- [Egg-Tender’s Unfinished Letter](books/Egg-Tender%E2%80%99s%20Unfinished%20Letter.md) — ext-9ffc48e4d66af36c8e4c
+- [Eislef’s Journal](books/Eislef%E2%80%99s%20Journal.md) — ext-c093acb8519662362f96
+- [Eldbjorg’s Needed Ingredients](books/Eldbjorg%E2%80%99s%20Needed%20Ingredients.md) — ext-f78b98956d5a5b2654aa
+- [Elegian’s Notes](books/Elegian%E2%80%99s%20Notes.md) — ext-7048f90c17f8642fbbb1
+- [Elenaire’s Journal](books/Elenaire%E2%80%99s%20Journal.md) — ext-87707bbfe946dadf1b75
+- [Elf Prisoner’s Note](books/Elf%20Prisoner%E2%80%99s%20Note.md) — ext-8f51e33866a1aafbb54c
+- [Elphirion’s Journal](books/Elphirion%E2%80%99s%20Journal.md) — ext-9fcb077daf344f08d178
+- [Emerald Eye Mage’s Journal](books/Emerald%20Eye%20Mage%E2%80%99s%20Journal.md) — ext-1f4ee63420e4afd94c38
+- [End of my Patience](books/End%20of%20my%20Patience.md) — ext-4402be9aca85eac02265
+- [Endarre’s Log](books/Endarre%E2%80%99s%20Log.md) — ext-9f6ad9959c21ea1ff6cf
+- [Endegor’s Orders](books/Endegor%E2%80%99s%20Orders.md) — ext-19f2bec78726d607384d
+- [Endemir’s Journal Entry](books/Endemir%E2%80%99s%20Journal%20Entry.md) — ext-34bcab1a11cb343e0274
+- [Enthoras’ Journal](books/Enthoras%E2%80%99%20Journal.md) — ext-e99f5a04dcf10e809ff0
+- [Entila’s Folly](books/Entila%E2%80%99s%20Folly.md) — ext-7f3da271b5558ede1667
+- [Entry 19](books/Entry%2019.md) — ext-429efec299347e27a3cb
+- [Enzamir’s Note](books/Enzamir%E2%80%99s%20Note.md) — ext-d4e8815c08bd06319a67
+- [Erokii Relics](books/Erokii%20Relics.md) — ext-35d9bcf1ba57e8628da9
+- [Ertival’s Recounting](books/Ertival%E2%80%99s%20Recounting.md) — ext-10ccddd6da1c03083c34
+- [Esdir’s Old Journal](books/Esdir%E2%80%99s%20Old%20Journal.md) — ext-9cd842eec5b31e39295a
+- [Eshraf’s Journal](books/Eshraf%E2%80%99s%20Journal.md) — ext-fbc5dbb6ee2868c45364
+- [Essanyon’s Records](books/Essanyon%E2%80%99s%20Records.md) — ext-b83b8b278e9f8cc51f6c
+- [Establish Watchposts](books/Establish%20Watchposts.md) — ext-d1404426da74065a717f
+- [Euraxian Necromancers](books/Euraxian%20Necromancers.md) — ext-c39b14e18eb345276f75
+- [Euraxia’s Personal Journal](books/Euraxia%E2%80%99s%20Personal%20Journal.md) — ext-0525b97bd0986cb1b29a
+- [Evacuation Order](books/Evacuation%20Order.md) — ext-af10d231c3ac6f72944d
+- [Eveli’s Speech Ideas](books/Eveli%E2%80%99s%20Speech%20Ideas.md) — ext-dd2b368278c6fecad59c
+- [Everfull Flagon Journal](books/Everfull%20Flagon%20Journal.md) — ext-a6ec207261e1f7bb60e8
+- [Excavation Orders](books/Excavation%20Orders.md) — ext-7045f16d2927ee0f6ae7
+- [Excerpt from Cosh’s Papers](books/Excerpt%20from%20Cosh%E2%80%99s%20Papers.md) — ext-938a0f28e45aad64e279
+- [Excerpt from al-Danobia Heist Journal](books/Excerpt%20from%20al-Danobia%20Heist%20Journal.md) — ext-734ae82aac23eeeb1da5
+- [Excerpts from Keshargo’s Journal](books/Excerpts%20from%20Keshargo%E2%80%99s%20Journal.md) — ext-825fa06869d15a3c5732
+- [Excuses Don’t Buy Mansions](books/Excuses%20Don%E2%80%99t%20Buy%20Mansions.md) — ext-492dfbfb72379a84cdf1
+- [Experiment Journal](books/Experiment%20Journal.md) — ext-32b39336c21618af5be1
+- [Exploring the Xal Ithix Ruins](books/Exploring%20the%20Xal%20Ithix%20Ruins.md) — ext-e6ea4ea6c9a6408be6cb
+- [Exposing a Terrible Evil](books/Exposing%20a%20Terrible%20Evil.md) — ext-cee39c26a98dd47b8561
+- [Eyes of the Queen Only](books/Eyes%20of%20the%20Queen%20Only.md) — ext-75cde02c2f211628d013
+- [Eyewitness to the Wall](books/Eyewitness%20to%20the%20Wall.md) — ext-23fd384e7cfa5f52f471
+- [Factor Luluelle’s Report](books/Factor%20Luluelle%E2%80%99s%20Report.md) — ext-b5a0a33de5fe193f5f62
+- [Faculty Application](books/Faculty%20Application.md) — ext-c2483150ba3ebd0d937c
+- [Faded Note](books/Faded%20Note.md) — ext-d610c4c7b1da560ab474
+- [Faded and Dusty Scroll](books/Faded%20and%20Dusty%20Scroll.md) — ext-052d22da913794c59158
+- [Faenalir’s Letter](books/Faenalir%E2%80%99s%20Letter.md) — ext-4ed82efcf33f863bac70
+- [Faithful One](books/Faithful%20One.md) — ext-f2a79b9b87fb326820e1
+- [Fakimal’s Letter](books/Fakimal%E2%80%99s%20Letter.md) — ext-82005428a87ccd51e581
+- [Falkfyr’s Complete Report](books/Falkfyr%E2%80%99s%20Complete%20Report.md) — ext-440d97611ebd300686a6
+- [Falling](books/Falling.md) — ext-11fa7367aaa9888533e1
+- [Famia Mercius’s Journal](books/Famia%20Mercius%E2%80%99s%20Journal.md) — ext-fab89de7e1c48365d402
+- [Fanatic’s Orders](books/Fanatic%E2%80%99s%20Orders.md) — ext-15f9bc11be640e8fd28b
+- [Fang-Furls’ Business Ledger](books/Fang-Furls%E2%80%99%20Business%20Ledger.md) — ext-b74ba8c84b797f97f14a
+- [Fang-Furls’ Dead Drops](books/Fang-Furls%E2%80%99%20Dead%20Drops.md) — ext-0379802a3ebd1555d011
+- [Fanlyrion’s Journal](books/Fanlyrion%E2%80%99s%20Journal.md) — ext-93d0962c2f6d0c3ee808
+- [Fantos Epilion’s Journal](books/Fantos%20Epilion%E2%80%99s%20Journal.md) — ext-0d100e0631501008922c
+- [Farandare’s Journal](books/Farandare%E2%80%99s%20Journal.md) — ext-1c0b7b6fb86bcc5f3f00
+- [Farangel’s Delve: Further Orders](books/Farangel%E2%80%99s%20Delve%20Further%20Orders.md) — ext-db0d3daea1a7cacc7872
+- [Farewell Missive](books/Farewell%20Missive.md) — ext-ebd9bb850d6c05986049
+- [Farewell Note to Lauriel](books/Farewell%20Note%20to%20Lauriel.md) — ext-d852832e466bdeae4e28
+- [Fasaran’s Diary](books/Fasaran%E2%80%99s%20Diary.md) — ext-8382faa2c0e582ed4ae4
+- [Fascinating Relics](books/Fascinating%20Relics.md) — ext-5ad9d3c7bc81d9163ad2
+- [Faven’s Note](books/Faven%E2%80%99s%20Note.md) — ext-245c1d9faff07b418c3e
+- [Felgol’s Note](books/Felgol%E2%80%99s%20Note.md) — ext-f20b967d2030602d6120
+- [Fell’s Brigade Orders](books/Fell%E2%80%99s%20Brigade%20Orders.md) — ext-9f63881df54b53938859
+- [Fera’s Journal](books/Fera%E2%80%99s%20Journal.md) — ext-2c2a911e3aa0af57d424
+- [Ferhara’s Warclaws](books/Ferhara%E2%80%99s%20Warclaws.md) — ext-4c595244f4aa552acd12
+- [Ferone’s Instructions](books/Ferone%E2%80%99s%20Instructions.md) — ext-fb0664be2acf54422135
+- [Feyne Vildan’s Diary](books/Feyne%20Vildan%E2%80%99s%20Diary.md) — ext-45c3f99f6079274148d7
+- [Final Letter of Sergeant Berarah](books/Final%20Letter%20of%20Sergeant%20Berarah.md) — ext-a77b0d1eedf5550328fe
+- [Final Statement of Leobert Charien](books/Final%20Statement%20of%20Leobert%20Charien.md) — ext-5eefabf2c69314d0a199
+- [Final Thoughts](books/Final%20Thoughts.md) — ext-8d4b1c0975c15ea771af
+- [Final Will and Testament of Fovus Rivul](books/Final%20Will%20and%20Testament%20of%20Fovus%20Rivul.md) — ext-af42d50ff3706fa193b8
+- [Final Words](books/Final%20Words.md) — ext-f11c584c6b8358e83305
+- [Find the Lodestones!](books/Find%20the%20Lodestones%21.md) — ext-c6d6920cbd4388b6a4f3
+- [Finimi’s Domicile](books/Finimi%E2%80%99s%20Domicile.md) — ext-7f3da5c535c5bcb85c80
+- [Finimi’s Spellbook](books/Finimi%E2%80%99s%20Spellbook.md) — ext-c2ab608d91a43c48a3bb
+- [Firebrand Watch](books/Firebrand%20Watch.md) — ext-d0535e478523078b78b1
+- [Fire’s Grip](books/Fire%E2%80%99s%20Grip.md) — ext-cd579c3f82b7b99bb1d2
+- [Firras’ Journal](books/Firras%E2%80%99%20Journal.md) — ext-e58c04a2ea2056ff5c53
+- [First Mate Dalmir’s Log](books/First%20Mate%20Dalmir%E2%80%99s%20Log.md) — ext-094a67354dd8dce1d74f
+- [First Servant’s Letter](books/First%20Servant%E2%80%99s%20Letter.md) — ext-70f77ffa54793882d13e
+- [First Signs of the Flu](books/First%20Signs%20of%20the%20Flu.md) — ext-96193b22d893d77d676f
+- [Firuin’s Journal](books/Firuin%E2%80%99s%20Journal.md) — ext-abee9c24cce3f52b4ea4
+- [Firuth’s Writ](books/Firuth%E2%80%99s%20Writ.md) — ext-7ebbe7e6f40d27ed1e26
+- [Firuth’s writ of Endorsement](books/Firuth%E2%80%99s%20writ%20of%20Endorsement.md) — ext-f8d4e443e2d727c6e579
+- [Fisherman’s Journal](books/Fisherman%E2%80%99s%20Journal.md) — ext-a9655a7597f2700d55f5
+- [Fishing Camp Checklist](books/Fishing%20Camp%20Checklist.md) — ext-9aa601b0b39e45156aef
+- [Fists of Thalmor](books/Fists%20of%20Thalmor.md) — ext-78ac8e1c141620c3afc1
+- [Five Claws Battle Cries](books/Five%20Claws%20Battle%20Cries.md) — ext-838bf3e408e9f141f2d8
+- [Five-Fold Felicitations!](books/Five-Fold%20Felicitations%21.md) — ext-b9736f02881ff4624914
+- [Fleeing Senchal](books/Fleeing%20Senchal.md) — ext-df5175aa545a123b9412
+- [Fleet Queen’s Orders](books/Fleet%20Queen%E2%80%99s%20Orders.md) — ext-0789acebe3f552f0de01
+- [Fleg’s Note](books/Fleg%E2%80%99s%20Note.md) — ext-664e9d27d50ab6fde91f
+- [Flu Victim’s Note](books/Flu%20Victim%E2%80%99s%20Note.md) — ext-209d601c8634457e6e44
+- [Flyleaf Catacombs](books/Flyleaf%20Catacombs.md) — ext-cdde501198d69c0462a3
+- [Follow-Up Performance Notes](books/Follow-Up%20Performance%20Notes.md) — ext-9e9f49e559e981eb56a3
+- [Folsi’s Report](books/Folsi%E2%80%99s%20Report.md) — ext-df053a38ef8e8126d549
+- [Fool!](books/Fool%21.md) — ext-e07b0bfe0608c6ea7118
+- [Foolish Wings](books/Foolish%20Wings.md) — ext-7e1849e66b4831e8b0ef
+- [For Captain Telomure](books/For%20Captain%20Telomure.md) — ext-498342011b41a1b90466
+- [For Donel from Father](books/For%20Donel%20from%20Father.md) — ext-9ceaa356f7ec0093570e
+- [For Letter Finder](books/For%20Letter%20Finder.md) — ext-738a27f8f725e123a17c
+- [For Mathal](books/For%20Mathal.md) — ext-992e55177099361d24ac
+- [For My Love](books/For%20My%20Love.md) — ext-c8c1fc92bc7609c6dd64
+- [For The Drinking Contest](books/For%20The%20Drinking%20Contest.md) — ext-dcac0b957e73dfb7a170
+- [For The Preliminary Duels](books/For%20The%20Preliminary%20Duels.md) — ext-c40c0bf04042f0eab3d5
+- [For The Tracker’s Competition](books/For%20The%20Tracker%E2%80%99s%20Competition.md) — ext-c79c9d080b96aa9aee26
+- [For Your Next Celebration](books/For%20Your%20Next%20Celebration.md) — ext-2ca60afe0a08a0b789f8
+- [For the Archery Competition](books/For%20the%20Archery%20Competition.md) — ext-46b90c2c6e99fa29ee77
+- [For the Doyen, Sleek Splendid-Paws](books/For%20the%20Doyen%2C%20Sleek%20Splendid-Paws.md) — ext-3e69e1f0410d30e92bd9
+- [Forbidden Research Notes](books/Forbidden%20Research%20Notes.md) — ext-24b6c011caedc2ea4a5e
+- [Foreman’s Complaint](books/Foreman%E2%80%99s%20Complaint.md) — ext-0eaa5f0e97de2733a40d
+- [Foreman’s Letter](books/Foreman%E2%80%99s%20Letter.md) — ext-d3898a0c12f053e33409
+- [Forged Letter From “Zali”](books/Forged%20Letter%20From%20%E2%80%9CZali%E2%80%9D.md) — ext-f55385305d5b04b200bd
+- [Forged Second Cohort Orders](books/Forged%20Second%20Cohort%20Orders.md) — ext-cd18a3b12465e0ea2a83
+- [Franara’s Journal](books/Franara%E2%80%99s%20Journal.md) — ext-6a15eac20107f49a9347
+- [Frayed Note](books/Frayed%20Note.md) — ext-a318a5f159fc125c2f58
+- [Frederick’s Letter](books/Frederick%E2%80%99s%20Letter.md) — ext-289e5fd70c95cf41eb1f
+- [Free the Caged](books/Free%20the%20Caged.md) — ext-9079bd2669a0881ea9e1
+- [Freiwen’s Diary](books/Freiwen%E2%80%99s%20Diary.md) — ext-184950f9b8c2bae0f718
+- [Freshly Penned Note](books/Freshly%20Penned%20Note.md) — ext-d0226ad14313f616f12f
+- [Frirhild’s Journal](books/Frirhild%E2%80%99s%20Journal.md) — ext-6a054d4a6f7676591a3b
+- [Frog Stealing Plans](books/Frog%20Stealing%20Plans.md) — ext-ecfc89376e02c32f2518
+- [From A Copy For The Archive](books/From%20A%20Copy%20For%20The%20Archive.md) — ext-be0fed971035924adc02
+- [From Jofnir to Merric](books/From%20Jofnir%20to%20Merric.md) — ext-428dde9b5080d1dc3ce5
+- [From Regent of Serpentine Stratagems](books/From%20Regent%20of%20Serpentine%20Stratagems.md) — ext-bf715a98a036d52163fd
+- [From Shad Astula with Love](books/From%20Shad%20Astula%20with%20Love.md) — ext-29c396afe52d54f48cf5
+- [From the Journal of Balver Bemis](books/From%20the%20Journal%20of%20Balver%20Bemis.md) — ext-028e8dfec4081829bf48
+- [From the Regent of Fanged Fury](books/From%20the%20Regent%20of%20Fanged%20Fury.md) — ext-cbca609a9919cc41ba76
+- [Fungal Grotto Journal](books/Fungal%20Grotto%20Journal.md) — ext-b6dd24961cccdbfb0f1f
+- [Funny Stuff, Sil](books/Funny%20Stuff%2C%20Sil.md) — ext-abcb0284c52c6588acfa
+- [Furious Letter](books/Furious%20Letter.md) — ext-4ca98b9708efa07f837e
+- [Further Missive from the Mages](books/Further%20Missive%20from%20the%20Mages.md) — ext-51406290feb27fc328d0
+- [Gabrielle Benele’s Journal](books/Gabrielle%20Benele%E2%80%99s%20Journal.md) — ext-0d794ce9affdcfb67d2f
+- [Gabrielle’s Journal](books/Gabrielle%E2%80%99s%20Journal.md) — ext-c451e84076fbac3a8f51
+- [Gabrielle’s Research Notes](books/Gabrielle%E2%80%99s%20Research%20Notes.md) — ext-4988bfb139f08a1a0485
+- [Gaea’s Letter](books/Gaea%E2%80%99s%20Letter.md) — ext-0cefbe0bfb11a9c2c1e9
+- [Galidor’s Scribbled Note](books/Galidor%E2%80%99s%20Scribbled%20Note.md) — ext-2a39423e7473145fc031
+- [Galmon’s Note](books/Galmon%E2%80%99s%20Note.md) — ext-6aa218f6b65d0204e4b4
+- [Gamirth’s Final Message](books/Gamirth%E2%80%99s%20Final%20Message.md) — ext-c16c9d0d9e1400e4411e
+- [Gamwyn’s Journal](books/Gamwyn%E2%80%99s%20Journal.md) — ext-e942df79ba74ea2af71d
+- [Garden of Sacred Numbers Temporal Tome](books/Garden%20of%20Sacred%20Numbers%20Temporal%20Tome.md) — ext-a0aa9fb51799249b29d1
+- [Garick’s Message](books/Garick%E2%80%99s%20Message.md) — ext-0b41eb962e1bc5aa1dff
+- [Garil’s Journal](books/Garil%E2%80%99s%20Journal.md) — ext-aef498c5298dbc4e4ead
+- [Garlas Agea Construction Log](books/Garlas%20Agea%20Construction%20Log.md) — ext-4168a790ef9725f289a1
+- [Garnikh’s Hunting Log](books/Garnikh%E2%80%99s%20Hunting%20Log.md) — ext-a845cb3ed5302917aa8c
+- [Gascone’s Memorandum](books/Gascone%E2%80%99s%20Memorandum.md) — ext-f7f6eaea5b358e317d7e
+- [Gaston’s Instructions](books/Gaston%E2%80%99s%20Instructions.md) — ext-f8ecb5e9f702a1abc5d5
+- [Gathiel’s Astrology Chart](books/Gathiel%E2%80%99s%20Astrology%20Chart.md) — ext-173d48be2abc410ba78d
+- [Gathiel’s Diary](books/Gathiel%E2%80%99s%20Diary.md) — ext-76c880c63e672048fff3
+- [Gavo’s Itinerary](books/Gavo%E2%80%99s%20Itinerary.md) — ext-30ee4188ea3aeae7563c
+- [Gavros’s Journal](books/Gavros%E2%80%99s%20Journal.md) — ext-72a335c5f7dad7a063d4
+- [Geel-Ma’s Diary](books/Geel-Ma%E2%80%99s%20Diary.md) — ext-1b8edb013fca0988c14c
+- [General Malgoth’s Journal](books/General%20Malgoth%E2%80%99s%20Journal.md) — ext-138884159f67ff36bb1d
+- [General Serien’s Orders](books/General%20Serien%E2%80%99s%20Orders.md) — ext-337fec24d1a8b5150603
+- [General’s Order 12008](books/General%E2%80%99s%20Order%2012008.md) — ext-e6def34dc5ddef84de32
+- [Get Back to Work](books/Get%20Back%20to%20Work.md) — ext-8c3dc0053f4d35d39e0a
+- [Get it Done, Conele](books/Get%20it%20Done%2C%20Conele.md) — ext-79f2aa865e106421d65d
+- [Gharakul’s Journal](books/Gharakul%E2%80%99s%20Journal.md) — ext-e79e37ab1dbd3420ae5c
+- [Gilded Letter](books/Gilded%20Letter.md) — ext-40b873134d8125382bfc
+- [Gjarma’s Orders](books/Gjarma%E2%80%99s%20Orders.md) — ext-8725ffc959b20e90cd5c
+- [Glademist Scouting Order](books/Glademist%20Scouting%20Order.md) — ext-8df18e887af4156a7b91
+- [Glenumbria: Alessian Orders](books/Glenumbria%20Alessian%20Orders.md) — ext-a6a268969e786a0c6f2a
+- [Glonnir’s Letter](books/Glonnir%E2%80%99s%20Letter.md) — ext-12b2ba434215c5c82cbb
+- [Gold Coast Missive](books/Gold%20Coast%20Missive.md) — ext-2ebda1efc9608dc1549d
+- [Gold Coast Trading Company Note](books/Gold%20Coast%20Trading%20Company%20Note.md) — ext-12b4b656e7da80013f3d
+- [Goldleaf Acquisitions, Manager’s Notes](books/Goldleaf%20Acquisitions%2C%20Manager%E2%80%99s%20Notes.md) — ext-3fb5d3f0ed08ef823a01
+- [Golvyni’s Journal](books/Golvyni%E2%80%99s%20Journal.md) — ext-0d37348555ee1499cd5a
+- [Good Travels!](books/Good%20Travels%21.md) — ext-25b12e76897ceab0d816
+- [Goodbye Note](books/Goodbye%20Note.md) — ext-2488ab9ea74cd3b2f5f0
+- [Gordag’s Journal](books/Gordag%E2%80%99s%20Journal.md) — ext-86d9e0051c0e8cdf244a
+- [Gorlar’s Journal](books/Gorlar%E2%80%99s%20Journal.md) — ext-43832695f8b8c77442a9
+- [Graccus’ Journal, Volume I](books/Graccus%E2%80%99%20Journal%2C%20Volume%20I.md) — ext-c63e8efca2e121be8c56
+- [Graverobber’s Lament](books/Graverobber%E2%80%99s%20Lament.md) — ext-a662112414635077618b
+- [Graverobber’s Note](books/Graverobber%E2%80%99s%20Note.md) — ext-bfc0ffaa8a59fbda288f
+- [Gray Host Communique](books/Gray%20Host%20Communique.md) — ext-cd75166b647879264f69
+- [Gray Host Intelligence Dispatch](books/Gray%20Host%20Intelligence%20Dispatch.md) — ext-7311b29d5f40abe0e64c
+- [Gray Host Orders](books/Gray%20Host%20Orders.md) — ext-384d8d21a1d8ce5f38ca
+- [Grazdar’s Notes: Hammer’s Bypass](books/Grazdar%E2%80%99s%20Notes%20Hammer%E2%80%99s%20Bypass.md) — ext-4e42e641e86846e5eb07
+- [Grazzar’s Threat](books/Grazzar%E2%80%99s%20Threat.md) — ext-2a45931b76fead6e5b68
+- [Green Serpent Bounty](books/Green%20Serpent%20Bounty.md) — ext-9cd0edbb181d47b3ca3b
+- [Greenshade Explorer’s Log](books/Greenshade%20Explorer%E2%80%99s%20Log.md) — ext-77c3fe95d6a7d46c9410
+- [Greetings from the Orcthane](books/Greetings%20from%20the%20Orcthane.md) — ext-1f97f79521b6f353ed81
+- [Grenetta’s Journal](books/Grenetta%E2%80%99s%20Journal.md) — ext-07914499e18cbf842c92
+- [Grida’s Note](books/Grida%E2%80%99s%20Note.md) — ext-3629c1d394f6ca95e448
+- [Grida’s Note to Dralof](books/Grida%E2%80%99s%20Note%20to%20Dralof.md) — ext-38377b6833413ff27d76
+- [Grigerda’s Letter](books/Grigerda%E2%80%99s%20Letter.md) — ext-97a8dc64ad1b7ee49d3a
+- [Grim Jest](books/Grim%20Jest.md) — ext-b637d3533c190ccd6b33
+- [Gripe, Gripe, Gripe](books/Gripe%2C%20Gripe%2C%20Gripe.md) — ext-46edc03e28034e7c635d
+- [Gryphon Watching Log](books/Gryphon%20Watching%20Log.md) — ext-e04b4b4bd0bc7ce0dc1f
+- [Guard Duty](books/Guard%20Duty.md) — ext-5a0e022da8beb39e7e23
+- [Guardian’s Decree](books/Guardian%E2%80%99s%20Decree.md) — ext-12127d16c0786d94cb9a
+- [Guild Contract: Spindleclutch](books/Guild%20Contract%20Spindleclutch.md) — ext-1dd353448c8100156a7f
+- [Guild Mage’s Journal](books/Guild%20Mage%E2%80%99s%20Journal.md) — ext-931726e677d80c80d019
+- [Guildmaster Merric’s Notes](books/Guildmaster%20Merric%E2%80%99s%20Notes.md) — ext-ee621be61415901b27c6
+- [Gwenengith’s Journal](books/Gwenengith%E2%80%99s%20Journal.md) — ext-03a1b7e9b80bb9a1f4c9
+- [Hadaz’s Final Letter](books/Hadaz%E2%80%99s%20Final%20Letter.md) — ext-c482a259021fe7f67ad9
+- [Hadmal Lastblood’s Journal](books/Hadmal%20Lastblood%E2%80%99s%20Journal.md) — ext-cafb66f62d09b16bac23
+- [Hadmal’s Journal](books/Hadmal%E2%80%99s%20Journal.md) — ext-21a14e166959ad3b9838
+- [Haldain’s Journal](books/Haldain%E2%80%99s%20Journal.md) — ext-2ba4737af569adafe6d9
+- [Hald’s Interrogation Transcript](books/Hald%E2%80%99s%20Interrogation%20Transcript.md) — ext-1e62f4997e6e342c8159
+- [Half-Burned Note to Borodin](books/Half-Burned%20Note%20to%20Borodin.md) — ext-2535526605c7054bee15
+- [Hammett’s Journal](books/Hammett%E2%80%99s%20Journal.md) — ext-f28bdb023b5692bfafaf
+- [Harrani’s Report](books/Harrani%E2%80%99s%20Report.md) — ext-8d5803e42398022d6f67
+- [Hastily Written Observations](books/Hastily%20Written%20Observations.md) — ext-ec3c2bad0e5445bb9970
+- [Head Jailer’s Journal](books/Head%20Jailer%E2%80%99s%20Journal.md) — ext-0cd6e672e1a1e99d6be2
+- [Head Overseer’s Orders](books/Head%20Overseer%E2%80%99s%20Orders.md) — ext-d487f070fd5251b69eca
+- [Heading to Imperial City](books/Heading%20to%20Imperial%20City.md) — ext-81235c6ad30abf4d8e55
+- [Healer Heloise’s Notes](books/Healer%20Heloise%E2%80%99s%20Notes.md) — ext-8a00b5180a13af426815
+- [Healer Jenille’s Note](books/Healer%20Jenille%E2%80%99s%20Note.md) — ext-17fcabae4593620f75bc
+- [Hears-the-Wind’s Note](books/Hears-the-Wind%E2%80%99s%20Note.md) — ext-475cd0eee226d38d9263
+- [Heed My Words](books/Heed%20My%20Words.md) — ext-24b9a0d912a4d829b2c7
+- [Heetzasi’s Journal](books/Heetzasi%E2%80%99s%20Journal.md) — ext-a146cc01f88466618c3e
+- [Hegris’s Orders](books/Hegris%E2%80%99s%20Orders.md) — ext-06c32254570174464d6d
+- [Heirloom Vase](books/Heirloom%20Vase.md) — ext-5c07f0cd7d9d31f10924
+- [Heiruna’s Journal](books/Heiruna%E2%80%99s%20Journal.md) — ext-b2d9627f4fba44ca761f
+- [Hendil’s Journal](books/Hendil%E2%80%99s%20Journal.md) — ext-70af0b254d2d3881c7bf
+- [Henri’s Journal](books/Henri%E2%80%99s%20Journal.md) — ext-867a418ce4d7d4712740
+- [Here To Stay](books/Here%20To%20Stay.md) — ext-703c157524dffa65a70e
+- [Hezsatari’s Instructions](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-0e271735c97b5f40c292/Hezsatari%E2%80%99s%20Instructions.md) — ext-0e271735c97b5f40c292
+- [Hezsatari’s Instructions](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-a0f42cd3fe42559f793c/Hezsatari%E2%80%99s%20Instructions.md) — ext-a0f42cd3fe42559f793c
+- [Hidden Diary](books/Hidden%20Diary.md) — ext-5be152909214021c05e8
+- [Hidden Kindred Instructions](books/Hidden%20Kindred%20Instructions.md) — ext-45373264ca7016ffe871
+- [Hidden-Hands’ Journal](books/Hidden-Hands%E2%80%99%20Journal.md) — ext-2b92bbdad5d0a75e4b6f
+- [High King Emeric, I Implore You!](books/High%20King%20Emeric%2C%20I%20Implore%20You%21.md) — ext-c079f1ca240dc0a0fd9a
+- [High Priest’s Orders](books/High%20Priest%E2%80%99s%20Orders.md) — ext-e6ffae6a684b1e826cc7
+- [Hildune’s Secret Refuge](books/Hildune%E2%80%99s%20Secret%20Refuge.md) — ext-4df27840a909c6c1fe8b
+- [Hinaamo’s Journal](books/Hinaamo%E2%80%99s%20Journal.md) — ext-4904bd598643a378534a
+- [Hizrabi’s Report](books/Hizrabi%E2%80%99s%20Report.md) — ext-b27d6ea6505c2dbd7f9b
+- [Hjurring’s Last Seed Journal](books/Hjurring%E2%80%99s%20Last%20Seed%20Journal.md) — ext-1f5e0952bc189272092a
+- [Hlaalu Construction Syndic](books/Hlaalu%20Construction%20Syndic.md) — ext-61518190701e7c06f186
+- [Hlaalu Letter](books/Hlaalu%20Letter.md) — ext-7181d3d671f42e7e9a2c
+- [Hlaki’s Journal](books/Hlaki%E2%80%99s%20Journal.md) — ext-3654e5ec4154761c0ec0
+- [Hoagrick’s Note](books/Hoagrick%E2%80%99s%20Note.md) — ext-a87d65907eb5738cca33
+- [Hope and Recriminations](books/Hope%20and%20Recriminations.md) — ext-e5fcf80ef709faa7e10f
+- [House Dres Order](books/House%20Dres%20Order.md) — ext-1959babc82ea3960eb53
+- [House Dres Orders](books/House%20Dres%20Orders.md) — ext-588e4306ce460c1dbd11
+- [How Long Before the Echoes Fade?](books/How%20Long%20Before%20the%20Echoes%20Fade.md) — ext-c060022750b1ef2a8594
+- [How Long?](books/How%20Long.md) — ext-e1090bcf84e60a60bf44
+- [How Much Longer?](books/How%20Much%20Longer.md) — ext-4f6b03b7a6eb84e90f4e
+- [How the Locks Work](books/How%20the%20Locks%20Work.md) — ext-072ec990223e62fae756
+- [Howls in the Night](books/Howls%20in%20the%20Night.md) — ext-0ee434892ebd7378cdcc
+- [Hubert’s Diary](books/Hubert%E2%80%99s%20Diary.md) — ext-e7bbe8a237a6dec678b7
+- [Hubert’s Notes](books/Hubert%E2%80%99s%20Notes.md) — ext-3847aa3df9050065dbe5
+- [Hurriedly Written Note](books/Hurriedly%20Written%20Note.md) — ext-ca06de936706b5dedeac
+- [Husks and Bones](books/Husks%20and%20Bones.md) — ext-7fd23b2106ce6bdeb498
+- [Huvar’s Journal](books/Huvar%E2%80%99s%20Journal.md) — ext-1245614d16645fd5c825
+- [I Count the Nights](books/I%20Count%20the%20Nights.md) — ext-bdfa98293f230dc66e5b
+- [I Know Its Name](books/I%20Know%20Its%20Name.md) — ext-9c2234673ab9be1c8f75
+- [I Must Not Falter](books/I%20Must%20Not%20Falter.md) — ext-774dd79f888f9560e7c3
+- [I Need Your Help!](books/I%20Need%20Your%20Help%21.md) — ext-b306e5d39e47f44896b5
+- [I Saw Him Again Tonight](books/I%20Saw%20Him%20Again%20Tonight.md) — ext-5695908bad8bc2d938e6
+- [I Suspect Duplicity](books/I%20Suspect%20Duplicity.md) — ext-4224dee2c2692ccd47d5
+- [IOU Honor Guard Armor](books/IOU%20Honor%20Guard%20Armor.md) — ext-0c72f3bd3cf2600a9cc6
+- [IT’S NOT A POTION!](books/IT%E2%80%99S%20NOT%20A%20POTION%21.md) — ext-f412a4fb3038b6e97fd7
+- [Ibrula’s Journal](books/Ibrula%E2%80%99s%20Journal.md) — ext-caab9ed095d4e2c3bf70
+- [Ice-Heart’s Journal](books/Ice-Heart%E2%80%99s%20Journal.md) — ext-b7bba65e25119d021cf2
+- [Icereach Coven Note](books/Icereach%20Coven%20Note.md) — ext-bf4d543b3416189a3764
+- [If I may Beseech You](books/If%20I%20may%20Beseech%20You.md) — ext-0e94bd9e9b9b2f0a741f
+- [If You Can Read This, Open It](books/If%20You%20Can%20Read%20This%2C%20Open%20It.md) — ext-3b7e0c64fbec4d785409
+- [Ilasaba’s Excuses](books/Ilasaba%E2%80%99s%20Excuses.md) — ext-b65fe7f0b6a1bb339c87
+- [Ilessan Tower](books/Ilessan%20Tower.md) — ext-b88e716b07d92d31e810
+- [Ilthag’s Orders](books/Ilthag%E2%80%99s%20Orders.md) — ext-50d3f35ffb76b58650b3
+- [Imperial Architect’s Correspondence](books/Imperial%20Architect%E2%80%99s%20Correspondence.md) — ext-bd1844526c81921e50fd
+- [Imperial Incursions: Officer’s Lament](books/Imperial%20Incursions%20Officer%E2%80%99s%20Lament.md) — ext-5545d35148ac16737380
+- [Imperial Mutiny!](books/Imperial%20Mutiny%21.md) — ext-644b073681d673bb6e71
+- [Imperial Recall Orders](books/Imperial%20Recall%20Orders.md) — ext-b4c00d3b1dfcd0e72946
+- [Imperial Refugee’s Journal](books/Imperial%20Refugee%E2%80%99s%20Journal.md) — ext-3800e07cf45ca715c6c7
+- [Imperial University Note](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-22507d7ffc55485d4527/Imperial%20University%20Note.md) — ext-22507d7ffc55485d4527
+- [Imperial University Note](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-dc62be809871aba08ee9/Imperial%20University%20Note.md) — ext-dc62be809871aba08ee9
+- [Impressions of Northwind Mine](books/Impressions%20of%20Northwind%20Mine.md) — ext-f11c3099d1cccf087e75
+- [Improved Cataclyst Model](books/Improved%20Cataclyst%20Model.md) — ext-1e76a83acb13e37d38a9
+- [In Need of Mortal Implements](books/In%20Need%20of%20Mortal%20Implements.md) — ext-3151b91412f9b10bebd2
+- [In Reply to Concerning Rumors](books/In%20Reply%20to%20Concerning%20Rumors.md) — ext-10773a3269dcc57b274b
+- [In the Deep Tombs](books/In%20the%20Deep%20Tombs.md) — ext-1e9a5737d0294330e129
+- [In the Event of Your Demise](books/In%20the%20Event%20of%20Your%20Demise.md) — ext-62c9030a0e6f3d534d4e
+- [Incomplete Letter](books/Incomplete%20Letter.md) — ext-05252c1b8c050c425ba6
+- [Increased Bandit Activity](books/Increased%20Bandit%20Activity.md) — ext-5bb882f5687e42fc2bbb
+- [Increased Dominion Activity](books/Increased%20Dominion%20Activity.md) — ext-5a24a8ddd33a4555ec17
+- [Indal’s Letter](books/Indal%E2%80%99s%20Letter.md) — ext-daae73f5c0bdf0bfb8ea
+- [Indirim’s Journal, Assembled](books/Indirim%E2%80%99s%20Journal%2C%20Assembled.md) — ext-801258bfd3d46b4e8dd0
+- [Information Request from Emeric](books/Information%20Request%20from%20Emeric.md) — ext-aae4991086e68f475efa
+- [Ingfred’s Work Order](books/Ingfred%E2%80%99s%20Work%20Order.md) — ext-26dd3364e00931804851
+- [Initiate’s Fear](books/Initiate%E2%80%99s%20Fear.md) — ext-5c4a306e757c511db3b1
+- [Initiate’s Last Sight](books/Initiate%E2%80%99s%20Last%20Sight.md) — ext-13c5267526dca40b7cba
+- [Inquisitor Orders](books/Inquisitor%20Orders.md) — ext-e530bcc5a517c721cad8
+- [Instructions for Lothnarth](books/Instructions%20for%20Lothnarth.md) — ext-11aff44a4b5f5b51c0f9
+- [Instructions for Placement](books/Instructions%20for%20Placement.md) — ext-7ce958881c6914df1563
+- [Intercepted Star-Gazer’s Document](books/Intercepted%20Star-Gazer%E2%80%99s%20Document.md) — ext-69fabbe0d92dec1337fb
+- [Intiate’s Notes](books/Intiate%E2%80%99s%20Notes.md) — ext-ecb3bd52a4025af82d18
+- [Inventory Letter](books/Inventory%20Letter.md) — ext-fcaa3cffaa53882512e7
+- [Investigation Note](books/Investigation%20Note.md) — ext-0fb8b089253c1d8b1746
+- [Investigator’s Note](books/Investigator%E2%80%99s%20Note.md) — ext-0274f3e967f8d50180b4
+- [Invitation Cover Letter](books/Invitation%20Cover%20Letter.md) — ext-19765ffcfd6806a14a67
+- [Invitation from the Gardener](books/Invitation%20from%20the%20Gardener.md) — ext-c3c0a5149b6fa2b3f265
+- [Invitation to Morrowind](books/Invitation%20to%20Morrowind.md) — ext-de7d7c6c5e6764ab3386
+- [Invitation to Orsinium](books/Invitation%20to%20Orsinium.md) — ext-5a4fd89510a9c550e2ac
+- [Invitation to the Hunt](books/Invitation%20to%20the%20Hunt.md) — ext-02038ef79c3430d8030b
+- [Invitation to the Kinlady’s Conference](books/Invitation%20to%20the%20Kinlady%E2%80%99s%20Conference.md) — ext-b565bd9c2166e08778e9
+- [Invoice for Comestibles](books/Invoice%20for%20Comestibles.md) — ext-826e4717c88f5a4d0c7f
+- [Irgnar’s Journal](books/Irgnar%E2%80%99s%20Journal.md) — ext-2c5071f1f1961c888dca
+- [Irnard Rirnil Letters to the Mages Guild](books/Irnard%20Rirnil%20Letters%20to%20the%20Mages%20Guild.md) — ext-c5e274c91aecbbf8cae1
+- [It Lives!](books/It%20Lives%21.md) — ext-986936336beb2006bd64
+- [It is Insufferable](books/It%20is%20Insufferable.md) — ext-0158aad8bef1190599f0
+- [Items Needed for Curative](books/Items%20Needed%20for%20Curative.md) — ext-c0c0c4494113ec69276c
+- [Ithis Omalor’s Orders](books/Ithis%20Omalor%E2%80%99s%20Orders.md) — ext-58fa49444aec2395eadb
+- [Ithisa’s Journal](books/Ithisa%E2%80%99s%20Journal.md) — ext-b483ffeaadfba9832798
+- [It’s the Hunt that Counts](books/It%E2%80%99s%20the%20Hunt%20that%20Counts.md) — ext-f5a25cd540eca6864bb0
+- [Ixtaxh Explorer’s Journal](books/Ixtaxh%20Explorer%E2%80%99s%20Journal.md) — ext-74f298558d59fa3d81a5
+- [Izbadd’s Letter](books/Izbadd%E2%80%99s%20Letter.md) — ext-49a84261e08ea6db79fd
+- [Izzmothar’s Power](books/Izzmothar%E2%80%99s%20Power.md) — ext-52ebe160f8094fbbd692
+- [I’ll Get You Ulbazar](books/I%E2%80%99ll%20Get%20You%20Ulbazar.md) — ext-6ff1c496a02b974ee23b
+- [I’ve Had It](books/I%E2%80%99ve%20Had%20It.md) — ext-3c30dd08dec0ddd9d981
+- [Jackdaw Fort](books/Jackdaw%20Fort.md) — ext-e8575b2a5f801af81f1e
+- [Jakolar’s Journal](books/Jakolar%E2%80%99s%20Journal.md) — ext-c767a4d3d0349407918d
+- [Jardirr’s Commendation](books/Jardirr%E2%80%99s%20Commendation.md) — ext-c24ae174cc9912a2344e
+- [Jeirmun’s Work Log](books/Jeirmun%E2%80%99s%20Work%20Log.md) — ext-83537063e1ea329fcb2b
+- [Jewelry Crafting Survey](books/Jewelry%20Crafting%20Survey.md) — ext-2941246d92796a48bc81
+- [Jofnir’s Journal](books/Jofnir%E2%80%99s%20Journal.md) — ext-3a954172b54f77718a25
+- [Jomund’s Research Notes](books/Jomund%E2%80%99s%20Research%20Notes.md) — ext-19ed992fe2c84fd73085
+- [Josseline’s Letter](books/Josseline%E2%80%99s%20Letter.md) — ext-be069286c410c9afeb21
+- [Journal](books/Journal.md) — ext-24283f2635eaa3c32d9a
+- [Journal \[Amarbina\]](books/Journal%20%5BAmarbina%5D.md) — ext-939b1b27773eeb48cff1
+- [Journal of Adosi Fevur](books/Journal%20of%20Adosi%20Fevur.md) — ext-cc177f89e398c12f93b7
+- [Journal of Arrai](books/Journal%20of%20Arrai.md) — ext-a0d789608c5d35bd2f61
+- [Journal of Bernamot the Great](books/Journal%20of%20Bernamot%20the%20Great.md) — ext-9228a07eb7e05cb7bdd3
+- [Journal of Culanwe](books/Journal%20of%20Culanwe.md) — ext-f9c719ab11b6877bd049
+- [Journal of Dionus Trutor](books/Journal%20of%20Dionus%20Trutor.md) — ext-48189f6c4e97b0420e40
+- [Journal of Elias](books/Journal%20of%20Elias.md) — ext-685fe8107c138d697696
+- [Journal of Garron](books/Journal%20of%20Garron.md) — ext-37b7cb47821e76e93173
+- [Journal of Habbert Unsinett](books/Journal%20of%20Habbert%20Unsinett.md) — ext-5b48984d5e774e7af971
+- [Journal of Hostia Asellus](books/Journal%20of%20Hostia%20Asellus.md) — ext-8e8ca3211a5578ba8fa7
+- [Journal of Justiciar Avanaire](books/Journal%20of%20Justiciar%20Avanaire.md) — ext-b774c2cecc1704ec5bc1
+- [Journal of Kovan Giryon](books/Journal%20of%20Kovan%20Giryon.md) — ext-27472a0b9d8de54c72e3
+- [Journal of Legionary Jucanis](books/Journal%20of%20Legionary%20Jucanis.md) — ext-8a6f9d4fd2fc92731934
+- [Journal of Magiul Shiana](books/Journal%20of%20Magiul%20Shiana.md) — ext-380b4c451ddfa23d88c1
+- [Journal of Master Pellingare](books/Journal%20of%20Master%20Pellingare.md) — ext-2b90013e343b4dd7cc43
+- [Journal of Merethrin](books/Journal%20of%20Merethrin.md) — ext-29760b893d1c2e54c90b
+- [Journal of Nerile Belvayn](books/Journal%20of%20Nerile%20Belvayn.md) — ext-c974c5ed6a684e0894aa
+- [Journal of Nicolas Douare](books/Journal%20of%20Nicolas%20Douare.md) — ext-035fd8a49976bdb2e512
+- [Journal of Orryn the Black](books/Journal%20of%20Orryn%20the%20Black.md) — ext-7e3fb6cad40b3b3068e3
+- [Journal of Priestess Aranwen](books/Journal%20of%20Priestess%20Aranwen.md) — ext-17180bd5dec8d7ec9d32
+- [Journal of Scamp Naal](books/Journal%20of%20Scamp%20Naal.md) — ext-0949f8e48c2a65d9c9ac
+- [Journal of Shardmarshal Vargas](books/Journal%20of%20Shardmarshal%20Vargas.md) — ext-244eef234eaebd8e0473
+- [Journal of Skorvild Frostwind](books/Journal%20of%20Skorvild%20Frostwind.md) — ext-7377d652c6b00fcb8de7
+- [Journal of Thracius Mento](books/Journal%20of%20Thracius%20Mento.md) — ext-725811746c07e14c7740
+- [Journal of Tsona-Ei](books/Journal%20of%20Tsona-Ei.md) — ext-c7cd46f1f05e46653f43
+- [Journal of Ulrich](books/Journal%20of%20Ulrich.md) — ext-bcc84b5f440b788ce23d
+- [Journal of Urodil Sea-Born](books/Journal%20of%20Urodil%20Sea-Born.md) — ext-2fb7080386738c1100da
+- [Journal of Ventilias Proximus](books/Journal%20of%20Ventilias%20Proximus.md) — ext-615c7962e059d4987577
+- [Journal of a Fallen Officer](books/Journal%20of%20a%20Fallen%20Officer.md) — ext-8d6a57e3f8c95f6e3103
+- [Journal of a Scorned Lover](books/Journal%20of%20a%20Scorned%20Lover.md) — ext-037ad7472eb0ed422ada
+- [Journal of a Stranded Mage](books/Journal%20of%20a%20Stranded%20Mage.md) — ext-829827682a1eaf508a41
+- [Journal of a Telvani Emissary](books/Journal%20of%20a%20Telvani%20Emissary.md) — ext-435cc00331b6bd2b92f5
+- [Journal of a Z’en Priest](books/Journal%20of%20a%20Z%E2%80%99en%20Priest.md) — ext-2ec976a259f9084b1081
+- [Journal of the First Remnant](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-679129abe5d02ad2b9eb/Journal%20of%20the%20First%20Remnant.md) — ext-679129abe5d02ad2b9eb
+- [Journal of the First Remnant](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-a5a186545c4b078aff18/Journal%20of%20the%20First%20Remnant.md) — ext-a5a186545c4b078aff18
+- [Journal of the King’s Seneschal](books/Journal%20of%20the%20King%E2%80%99s%20Seneschal.md) — ext-d70a29444f9f6ef742ff
+- [Journal of the Oculary](books/Journal%20of%20the%20Oculary.md) — ext-76470ae279fcb2427209
+- [Journal’s Final Pages](books/Journal%E2%80%99s%20Final%20Pages.md) — ext-d6647efd1cd9e3a5b6d6
+- [Journeys In Galen: A Scholar’s Travels](books/Journeys%20In%20Galen%20A%20Scholar%E2%80%99s%20Travels.md) — ext-5b9863ba94a2bf5f1d7d
+- [Julian Notes](books/Julian%20Notes.md) — ext-04d6a1439fef798a2dcc
+- [J’daththarr’s Letter](books/J%E2%80%99daththarr%E2%80%99s%20Letter.md) — ext-8ea8fc3e93c197b71909
+- [J’saad’s Note](books/J%E2%80%99saad%E2%80%99s%20Note.md) — ext-1d1cd74acb3a66878be8
+- [Kaarat’s Journal](books/Kaarat%E2%80%99s%20Journal.md) — ext-5ae04df5bac108d231c4
+- [Kal Druun’s Notes](books/Kal%20Druun%E2%80%99s%20Notes.md) — ext-f07b51db3235f472e59d
+- [Kal-Eeto’s Journal](books/Kal-Eeto%E2%80%99s%20Journal.md) — ext-5d2975628f052f775db7
+- [Kalodar’s Letter](books/Kalodar%E2%80%99s%20Letter.md) — ext-0050d416750724a97d3c
+- [Karnhar’s Journal](books/Karnhar%E2%80%99s%20Journal.md) — ext-42b98e898729f4de731a
+- [Kastav’s Journal](books/Kastav%E2%80%99s%20Journal.md) — ext-c6209068376dd4aeaf79
+- [Keeper Ormi’s Journal](books/Keeper%20Ormi%E2%80%99s%20Journal.md) — ext-516b0a8ceac4839eb2a9
+- [Keeper’s Farewell Letter](books/Keeper%E2%80%99s%20Farewell%20Letter.md) — ext-faf2552483b2141f2568
+- [Keeshka’s Remedy Book](books/Keeshka%E2%80%99s%20Remedy%20Book.md) — ext-147a879d09fe36f41c2c
+- [Kelbarn’s To-Do List](books/Kelbarn%E2%80%99s%20To-Do%20List.md) — ext-83495636a3af49db9e9d
+- [Kennel Tender’s Letter](books/Kennel%20Tender%E2%80%99s%20Letter.md) — ext-ab2cd5e4be273428e72c
+- [Kennixa’s List](books/Kennixa%E2%80%99s%20List.md) — ext-c407d1fc0b326e96898d
+- [Kerthor’s Supply List](books/Kerthor%E2%80%99s%20Supply%20List.md) — ext-65c8c6ef8b40cd05ff8c
+- [Khadabi’s Rules](books/Khadabi%E2%80%99s%20Rules.md) — ext-c0808b9e7845bddc7cec
+- [Khag’s Head Count](books/Khag%E2%80%99s%20Head%20Count.md) — ext-ef083754a36e080df51e
+- [Khajiiti Merchant’s Invoice](books/Khajiiti%20Merchant%E2%80%99s%20Invoice.md) — ext-d27515aac7e252ef624c
+- [Khajiiti Note](books/Khajiiti%20Note.md) — ext-b1bfaef2511797ab01df
+- [Khajiit’s Lost Journal Page](books/Khajiit%E2%80%99s%20Lost%20Journal%20Page.md) — ext-66190ec609c0fa60ab1b
+- [Khasaad’s Treasure Map](books/Khasaad%E2%80%99s%20Treasure%20Map.md) — ext-e20d6b953efb35d9b0d8
+- [Khenarthi’s Roost: Interim Orders](books/Khenarthi%E2%80%99s%20Roost%20Interim%20Orders.md) — ext-10cc256d2fb7f9403b64
+- [Khorshina’s Journal](books/Khorshina%E2%80%99s%20Journal.md) — ext-2861cfced1a09517eccb
+- [King Joile’s Orders to General Mercedene](books/King%20Joile%E2%80%99s%20Orders%20to%20General%20Mercedene.md) — ext-39653ac5727953830e62
+- [King Kurog’s Promise](books/King%20Kurog%E2%80%99s%20Promise.md) — ext-c69331df3d170b38f77a
+- [King Maxevian’s Orders](books/King%20Maxevian%E2%80%99s%20Orders.md) — ext-eb0230cb6ffd9fbaf432
+- [King Nantharion’s Orders](books/King%20Nantharion%E2%80%99s%20Orders.md) — ext-06de7658d8c8ced2ea56
+- [King’s Haven Scouting Record](books/King%E2%80%99s%20Haven%20Scouting%20Record.md) — ext-392073c0b382dd19a1ab
+- [King’s Haven Territory Record](books/King%E2%80%99s%20Haven%20Territory%20Record.md) — ext-6f1554ddabb7a0da3e7f
+- [King’s Haven Trade Record](books/King%E2%80%99s%20Haven%20Trade%20Record.md) — ext-1a117e11b1eed9f3b215
+- [Kinlady’s Letter](books/Kinlady%E2%80%99s%20Letter.md) — ext-27d8d905fdc127a01514
+- [Kinlord Orlemar’s Notes](books/Kinlord%20Orlemar%E2%80%99s%20Notes.md) — ext-79c193a034269737cad0
+- [Kireth’s Journal](books/Kireth%E2%80%99s%20Journal.md) — ext-797aa90b5a9e0145d742
+- [Kireth’s Notebook](books/Kireth%E2%80%99s%20Notebook.md) — ext-908bbb6f65543f7d85ca
+- [Kireth’s Prism Notes](books/Kireth%E2%80%99s%20Prism%20Notes.md) — ext-2c3c7d6be505e6f6a96e
+- [Kireth’s Taarengrav Note](books/Kireth%E2%80%99s%20Taarengrav%20Note.md) — ext-c9290afb93378c69116b
+- [Kiv’s Journal](books/Kiv%E2%80%99s%20Journal.md) — ext-71037615df564c2baee4
+- [Kiv’s Notes](books/Kiv%E2%80%99s%20Notes.md) — ext-e7e08b93f3f593349668
+- [Kjalnar’s Research Notes](books/Kjalnar%E2%80%99s%20Research%20Notes.md) — ext-7866d9939da2572f87b0
+- [Klaandor’s Journal](books/Klaandor%E2%80%99s%20Journal.md) — ext-b116985f8e00cd832db2
+- [Knahaten Flu Confirmed](books/Knahaten%20Flu%20Confirmed.md) — ext-babd8518c9f902b262e7
+- [Knight Ondrisse’s Orders](books/Knight%20Ondrisse%E2%80%99s%20Orders.md) — ext-e847fcde62088d236cac
+- [Knight Richel’s Orders](books/Knight%20Richel%E2%80%99s%20Orders.md) — ext-b160f2add6b1d6514f39
+- [Kotholl’s Contract](books/Kotholl%E2%80%99s%20Contract.md) — ext-3b73f1640ae01ce89750
+- [Kraala’s Journal](books/Kraala%E2%80%99s%20Journal.md) — ext-7d94307ee4abb6a41b88
+- [Krin’ze’s Journal](books/Krin%E2%80%99ze%E2%80%99s%20Journal.md) — ext-205af01dca2b186afcef
+- [Krisandra Edrald’s Journal](books/Krisandra%20Edrald%E2%80%99s%20Journal.md) — ext-32442c299885c2e7d7f8
+- [Kuralit’s Clue](books/Kuralit%E2%80%99s%20Clue.md) — ext-cb56f89ebaa7dd3b68e5
+- [Kurlash’s Orders](books/Kurlash%E2%80%99s%20Orders.md) — ext-379d72d1ee4581c9e95e
+- [Kurog’s Orders](books/Kurog%E2%80%99s%20Orders.md) — ext-95d7f75a0431fb351349
+- [Kwama Miner’s Note](books/Kwama%20Miner%E2%80%99s%20Note.md) — ext-91193933fdda199e65ed
+- [Kwama Shipment Manifest](books/Kwama%20Shipment%20Manifest.md) — ext-4b4e7a193645f07fca58
+- [Kynmarcher Strix’s Journal](books/Kynmarcher%20Strix%E2%80%99s%20Journal.md) — ext-ae156b27274ec53f56dc
+- [Lady Edwyge’s Notes](books/Lady%20Edwyge%E2%80%99s%20Notes.md) — ext-4266f8d23ee02810edc6
+- [Lady Laurent’s Qharroa Notes](books/Lady%20Laurent%E2%80%99s%20Qharroa%20Notes.md) — ext-b51930ce27177e8a0535
+- [Lady Laurent’s To-Do List](books/Lady%20Laurent%E2%80%99s%20To-Do%20List.md) — ext-4eeba268d1bc4d95f3ea
+- [Lady Llarel’s Journal](books/Lady%20Llarel%E2%80%99s%20Journal.md) — ext-9cb973f3d3bdd54ea959
+- [Lady Weatherleah’s Journal](books/Lady%20Weatherleah%E2%80%99s%20Journal.md) — ext-bf3d3a000b0cc6c4f208
+- [Lanath’s Journal](books/Lanath%E2%80%99s%20Journal.md) — ext-df9a68c8cb71d64cba2f
+- [Lanista’s Journal](books/Lanista%E2%80%99s%20Journal.md) — ext-e205be7f8f98f95b57c6
+- [Lashum’s Report](books/Lashum%E2%80%99s%20Report.md) — ext-0cb151a509cf72309c3c
+- [Last Warning, Cat](books/Last%20Warning%2C%20Cat.md) — ext-7a0d3ee8bc28599dc24e
+- [Last Will and Testament](books/Last%20Will%20and%20Testament.md) — ext-f624cc4aa4ebe15f9f2a
+- [Last Words of Gordianus Fortunatus](books/Last%20Words%20of%20Gordianus%20Fortunatus.md) — ext-152fabfcc7c6ef64f318
+- [Last Words of a Devotee](books/Last%20Words%20of%20a%20Devotee.md) — ext-a9bade7386aa57662d26
+- [Laughing Moons Ledger](books/Laughing%20Moons%20Ledger.md) — ext-2ecdabadbc82b515c7ec
+- [Lauron’s Journal](books/Lauron%E2%80%99s%20Journal.md) — ext-80b2c6d3bfd93014bd2e
+- [Leave This Place](books/Leave%20This%20Place.md) — ext-a5893e62f0fa82fcd0e5
+- [Leave the Crimson Oath Alone](books/Leave%20the%20Crimson%20Oath%20Alone.md) — ext-17c200fdfaf9593255cb
+- [Ledger of Souls](books/Ledger%20of%20Souls.md) — ext-a72216d7dafd4daf4bd6
+- [Leeza’s Bloodthorn Report](books/Leeza%E2%80%99s%20Bloodthorn%20Report.md) — ext-b32fe842d379522bf995
+- [Legate Minutes: Concerning Goblins](books/Legate%20Minutes%20Concerning%20Goblins.md) — ext-42ba9a3bb7c988eb8cf8
+- [Legend of Chill House](books/Legend%20of%20Chill%20House.md) — ext-6f698aa520bef80428b2
+- [Legionary Jadreitha’s Journal Entry](books/Legionary%20Jadreitha%E2%80%99s%20Journal%20Entry.md) — ext-016e0c0a444fe097117c
+- [Legionary Ulrath’s Report](books/Legionary%20Ulrath%E2%80%99s%20Report.md) — ext-e0442f733952ced1777c
+- [Legionary’s Journal](books/Legionary%E2%80%99s%20Journal.md) — ext-845ef42dfc806926d8ed
+- [Leimaer the Raven’s Journal](books/Leimaer%20the%20Raven%E2%80%99s%20Journal.md) — ext-fb1b2741d14ef7f244a5
+- [Leonaud Niscel’s Journal](books/Leonaud%20Niscel%E2%80%99s%20Journal.md) — ext-2132b11c9a3692923d4e
+- [Leonce’s Journal](books/Leonce%E2%80%99s%20Journal.md) — ext-fe4932a354cbb013d569
+- [Lerineaux’s Concerns](books/Lerineaux%E2%80%99s%20Concerns.md) — ext-bd14bbc413ed6df41351
+- [Letter Concerning Tredecim](books/Letter%20Concerning%20Tredecim.md) — ext-b4e9fc691a8a7a08c536
+- [Letter From Agenor](books/Letter%20From%20Agenor.md) — ext-ac612c8895b60ed31927
+- [Letter From Ember](books/Letter%20From%20Ember.md) — ext-18f31f37633c4aadf24c
+- [Letter From Isobel](books/Letter%20From%20Isobel.md) — ext-6f8938ee7289d02464f0
+- [Letter From Karpu-sa](books/Letter%20From%20Karpu-sa.md) — ext-5a0bb6a2eea76dd14ce8
+- [Letter Home](books/Letter%20Home.md) — ext-f51ec1e7fbe4b8eeeeda
+- [Letter for Dark Adept Vairisse](books/Letter%20for%20Dark%20Adept%20Vairisse.md) — ext-798be4d6f3ce0c1e318c
+- [Letter for Vittoria](books/Letter%20for%20Vittoria.md) — ext-7fab1ab09c2526f95d62
+- [Letter from Abnur Tharn](books/Letter%20from%20Abnur%20Tharn.md) — ext-e07fcde74f935d34cbfc
+- [Letter from Ajim-Jaa](books/Letter%20from%20Ajim-Jaa.md) — ext-090ce26a81df30214c58
+- [Letter from Althen](books/Letter%20from%20Althen.md) — ext-b38369ade03758b343c9
+- [Letter from Altholmir](books/Letter%20from%20Altholmir.md) — ext-0093896228ca56b64bab
+- [Letter from Ansdurran](books/Letter%20from%20Ansdurran.md) — ext-cb63a8cd9d40c96fc80a
+- [Letter from Astara](books/Letter%20from%20Astara.md) — ext-4125e31a192d9fb57643
+- [Letter from Aurelia Jourvel](books/Letter%20from%20Aurelia%20Jourvel.md) — ext-77a147c9bd605950ef47
+- [Letter from Azandar](books/Letter%20from%20Azandar.md) — ext-9434d67249696d43632c
+- [Letter from Baron Materre](books/Letter%20from%20Baron%20Materre.md) — ext-3c875463033f0af71b6b
+- [Letter from Bashshi-ra](books/Letter%20from%20Bashshi-ra.md) — ext-d4b16ea6f86a477f8044
+- [Letter from Berfonas](books/Letter%20from%20Berfonas.md) — ext-76f6637a1613abff12ac
+- [Letter from Camarino](books/Letter%20from%20Camarino.md) — ext-8870ef363f057749b7e1
+- [Letter from Chill Hollow](books/Letter%20from%20Chill%20Hollow.md) — ext-dca4ee0aca23cf828acd
+- [Letter from Clan Mother Tadali](books/Letter%20from%20Clan%20Mother%20Tadali.md) — ext-ce3e6a57388b7de4e9ca
+- [Letter from Cyrus V. Nasby](books/Letter%20from%20Cyrus%20V.%20Nasby.md) — ext-831abcb5cadb12a14e01
+- [Letter from Dannic](books/Letter%20from%20Dannic.md) — ext-44094fdd992e7667caf9
+- [Letter from Deesh-Jee](books/Letter%20from%20Deesh-Jee.md) — ext-efe3aaafa4185aaee120
+- [Letter from Druid Laurel](books/Letter%20from%20Druid%20Laurel.md) — ext-047f6558f4f087a554c2
+- [Letter from Duke Nathaniel](books/Letter%20from%20Duke%20Nathaniel.md) — ext-a65b03b746f1dcc3d5b1
+- [Letter from Ezhkel](books/Letter%20from%20Ezhkel.md) — ext-0f9fc27b6e1be54a61da
+- [Letter from Faradan](books/Letter%20from%20Faradan.md) — ext-b82a90ab73665077d8f9
+- [Letter from Farrul Lupus](books/Letter%20from%20Farrul%20Lupus.md) — ext-96615fdb62a1c7769864
+- [Letter from Farvyn’s Mother](books/Letter%20from%20Farvyn%E2%80%99s%20Mother.md) — ext-f32dc903314a20d767d9
+- [Letter from Gabbi](books/Letter%20from%20Gabbi.md) — ext-8da943601d89b744e79e
+- [Letter from Gad](books/Letter%20from%20Gad.md) — ext-0703d14138e45b3784af
+- [Letter from Gorvyn](books/Letter%20from%20Gorvyn.md) — ext-11053b7538399216e707
+- [Letter from Gothurg](books/Letter%20from%20Gothurg.md) — ext-5e98f3e2f1d1e3756d11
+- [Letter from Ilhidel of Clan Corelanya](books/Letter%20from%20Ilhidel%20of%20Clan%20Corelanya.md) — ext-eef5b1de5b1c4b95a228
+- [Letter from Inalieth](books/Letter%20from%20Inalieth.md) — ext-c301da7ea8f378b140c8
+- [Letter from Julles Laurdon](books/Letter%20from%20Julles%20Laurdon.md) — ext-3d882b279998c55aff02
+- [Letter from Kireth](books/Letter%20from%20Kireth.md) — ext-faab622ca92c8046b4e2
+- [Letter from Lady Arabelle](books/Letter%20from%20Lady%20Arabelle.md) — ext-28e4d22fc30821e0cf61
+- [Letter from Lady Belain](books/Letter%20from%20Lady%20Belain.md) — ext-b87f875f43b0f2fafe26
+- [Letter from Lady Lleraya](books/Letter%20from%20Lady%20Lleraya.md) — ext-305882ddb9ee726f5eed
+- [Letter from Lenwe](books/Letter%20from%20Lenwe.md) — ext-4961b9a8c13ea19242c9
+- [Letter from Leramil the Wise](books/Letter%20from%20Leramil%20the%20Wise.md) — ext-ea8568b8740b5aece139
+- [Letter from Leramil the Wise \[Torvesard\]](books/Letter%20from%20Leramil%20the%20Wise%20%5BTorvesard%5D.md) — ext-9149bfe6ab79e1182bb1
+- [Letter from Lord Oursin Materre](books/Letter%20from%20Lord%20Oursin%20Materre.md) — ext-3e17aace6115e29f50d8
+- [Letter from Lyris](books/Letter%20from%20Lyris.md) — ext-e50aa63b3d67ecdef729
+- [Letter from Magistrix Vox](books/Letter%20from%20Magistrix%20Vox.md) — ext-c8b170cc54010c41af64
+- [Letter from Minique](books/Letter%20from%20Minique.md) — ext-f93e10507ba11c1d5e01
+- [Letter from Mirudda](books/Letter%20from%20Mirudda.md) — ext-78f2b7ca49657fc3a420
+- [Letter from Nothelas](books/Letter%20from%20Nothelas.md) — ext-51a71b6d4127b51a0d42
+- [Letter from Oleenla](books/Letter%20from%20Oleenla.md) — ext-b468d8b9165c8da25059
+- [Letter from Paheiza](books/Letter%20from%20Paheiza.md) — ext-117a4ad29c97cbd12b6f
+- [Letter from Peverel](books/Letter%20from%20Peverel.md) — ext-897006c396ed6a9b23f1
+- [Letter from Queen Euraxia](books/Letter%20from%20Queen%20Euraxia.md) — ext-db965f1bca581d79d20c
+- [Letter from Queen Prolyssa](books/Letter%20from%20Queen%20Prolyssa.md) — ext-2ff4d658ef84971b5bda
+- [Letter from Quintus](books/Letter%20from%20Quintus.md) — ext-366658d0b4ba5ab377fa
+- [Letter from Quistley Silvelle](books/Letter%20from%20Quistley%20Silvelle.md) — ext-0a5886489f771bd0f342
+- [Letter from Ragna](books/Letter%20from%20Ragna.md) — ext-99e7a7cfcacd95f65041
+- [Letter from Rakhad](books/Letter%20from%20Rakhad.md) — ext-fdb64039d78b97d52c74
+- [Letter from Sharp](books/Letter%20from%20Sharp.md) — ext-8db1c9aa2ba8bbc69eaf
+- [Letter from Sister Glynolde](books/Letter%20from%20Sister%20Glynolde.md) — ext-82c2a6ec09b3f16b82f1
+- [Letter from Tamien Sellan](books/Letter%20from%20Tamien%20Sellan.md) — ext-c76c1c326616bfa8d4be
+- [Letter from Tanlorin](books/Letter%20from%20Tanlorin.md) — ext-97104c240bb79e2395e7
+- [Letter from Thukhozod](books/Letter%20from%20Thukhozod.md) — ext-e0da998f2722b9ed93c6
+- [Letter from Tillrani](books/Letter%20from%20Tillrani.md) — ext-1bf8d0647ec32eb3e330
+- [Letter from Turo](books/Letter%20from%20Turo.md) — ext-50310c2d9664ad495eb3
+- [Letter from Vetitia Marcott](books/Letter%20from%20Vetitia%20Marcott.md) — ext-4a18a4840ca437724b76
+- [Letter from Vila](books/Letter%20from%20Vila.md) — ext-666abaf54c77f06774be
+- [Letter from Zerith-var](books/Letter%20from%20Zerith-var.md) — ext-4118a1ec8c70ad1e32f0
+- [Letter from a Prison Guard](books/Letter%20from%20a%20Prison%20Guard.md) — ext-3e594aa5792ddab2bf56
+- [Letter from the Fighters Guild](books/Letter%20from%20the%20Fighters%20Guild.md) — ext-b99ae4cc7898a8244ea3
+- [Letter from the Governor](books/Letter%20from%20the%20Governor.md) — ext-40405e94bf6b183881af
+- [Letter from the Intended Couple](books/Letter%20from%20the%20Intended%20Couple.md) — ext-6362bc6aa6b66bbfe8a4
+- [Letter from the Orsinium Orphanage](books/Letter%20from%20the%20Orsinium%20Orphanage.md) — ext-ed8daf25b052a84ea24d
+- [Letter from the Reformer](books/Letter%20from%20the%20Reformer.md) — ext-e66c10713d867676936d
+- [Letter from the Skald-King’s Agent](books/Letter%20from%20the%20Skald-King%E2%80%99s%20Agent.md) — ext-f05ad7d152f0c4196ae2
+- [Letter from the Stirk Fellowship](books/Letter%20from%20the%20Stirk%20Fellowship.md) — ext-fd00941bc21024228736
+- [Letter of Complaint](books/Letter%20of%20Complaint.md) — ext-56cc2cbba7b2381df34a
+- [Letter of Execution](books/Letter%20of%20Execution.md) — ext-3bda98a255b717a4bd9b
+- [Letter of Resignation \[Aishah\]](books/Letter%20of%20Resignation%20%5BAishah%5D.md) — ext-10332431673002c7b7cb
+- [Letter of Resignation \[Farethi\]](books/Letter%20of%20Resignation%20%5BFarethi%5D.md) — ext-e5a30f233c5937abf344
+- [Letter of Resignation \[Trilam Farethi\]](books/Letter%20of%20Resignation%20%5BTrilam%20Farethi%5D.md) — ext-c094d4044853d2f9f239
+- [Letter of Understanding](books/Letter%20of%20Understanding.md) — ext-4b732075e2a8755c6bc2
+- [Letter of Warning](books/Letter%20of%20Warning.md) — ext-7e3d64852861255933e5
+- [Letter of Welcome](books/Letter%20of%20Welcome.md) — ext-35aa157772a9afad97c5
+- [Letter to Abbot Kulan-dro](books/Letter%20to%20Abbot%20Kulan-dro.md) — ext-22df5f5f84de9f60f516
+- [Letter to Agnor](books/Letter%20to%20Agnor.md) — ext-c9c724f472cd1d5b25ae
+- [Letter to Akash](books/Letter%20to%20Akash.md) — ext-76798421563133759e92
+- [Letter to Alma](books/Letter%20to%20Alma.md) — ext-a356d933a8316fd06a60
+- [Letter to Amirmil](books/Letter%20to%20Amirmil.md) — ext-312797069a3a8590e24f
+- [Letter to Ando](books/Letter%20to%20Ando.md) — ext-314221d90a8bd792484a
+- [Letter to Apprentice Gwerina](books/Letter%20to%20Apprentice%20Gwerina.md) — ext-33eae029b2e574688416
+- [Letter to Ariana](books/Letter%20to%20Ariana.md) — ext-46cbca3cc13685ff1656
+- [Letter to Armorer Uthik](books/Letter%20to%20Armorer%20Uthik.md) — ext-acf9d49d876b2214a4d9
+- [Letter to Artisans Craftworks](books/Letter%20to%20Artisans%20Craftworks.md) — ext-5acf087ff6e68aaf3081
+- [Letter to Bakul](books/Letter%20to%20Bakul.md) — ext-bfc28d41f7ab6d5302c6
+- [Letter to Balorgh](books/Letter%20to%20Balorgh.md) — ext-698162eedc63be5cc712
+- [Letter to Baloth Bloodtusk](books/Letter%20to%20Baloth%20Bloodtusk.md) — ext-c613d919cb67bc508b98
+- [Letter to Bane of My Existence](books/Letter%20to%20Bane%20of%20My%20Existence.md) — ext-cdb8cd48f09018f5e50f
+- [Letter to Belya](books/Letter%20to%20Belya.md) — ext-9a6b1f2b8d1008d90617
+- [Letter to Betra](books/Letter%20to%20Betra.md) — ext-8ec2192cb3ddd7a4f14b
+- [Letter to Bhoki](books/Letter%20to%20Bhoki.md) — ext-071565e6d2b5c3f9de7b
+- [Letter to Bodani](books/Letter%20to%20Bodani.md) — ext-b55f69ce9bebff130880
+- [Letter to Calahawn](books/Letter%20to%20Calahawn.md) — ext-498ffdef9cd2f5c02172
+- [Letter to Captain Helane](books/Letter%20to%20Captain%20Helane.md) — ext-79fcf37e4005189318d6
+- [Letter to Captain Lerisa](books/Letter%20to%20Captain%20Lerisa.md) — ext-392e1c15cd84889b7a2e
+- [Letter to Captain Leronus](books/Letter%20to%20Captain%20Leronus.md) — ext-2397200deebb7bf8a39a
+- [Letter to Captain Lyn Georick](books/Letter%20to%20Captain%20Lyn%20Georick.md) — ext-8f5d7dd73b6332daf052
+- [Letter to Captain Oghul](books/Letter%20to%20Captain%20Oghul.md) — ext-80445d114aa69f50729a
+- [Letter to Casolinwe](books/Letter%20to%20Casolinwe.md) — ext-abc4ad38055d8fb0415e
+- [Letter to Councilor Dolvara](books/Letter%20to%20Councilor%20Dolvara.md) — ext-f2ec8f5699819ff3fd39
+- [Letter to Councilor Lovidicus](books/Letter%20to%20Councilor%20Lovidicus.md) — ext-ab6f115af2fb16fa793b
+- [Letter to Cynhamoth](books/Letter%20to%20Cynhamoth.md) — ext-2ff59d3cf345fb30e2b1
+- [Letter to Danier](books/Letter%20to%20Danier.md) — ext-eb5d76123b558d0a88aa
+- [Letter to Darene](books/Letter%20to%20Darene.md) — ext-61e87b30801f78cde706
+- [Letter to Deredrien](books/Letter%20to%20Deredrien.md) — ext-30bb901d77876a1fe127
+- [Letter to Dhalen](books/Letter%20to%20Dhalen.md) — ext-cc5322b0085440a7b75c
+- [Letter to Diabolist Volcatia](books/Letter%20to%20Diabolist%20Volcatia.md) — ext-f155d6505e77c40602ff
+- [Letter to Dockmaster Arnauld](books/Letter%20to%20Dockmaster%20Arnauld.md) — ext-9fb549f761ffc1ee3873
+- [Letter to Dorbin](books/Letter%20to%20Dorbin.md) — ext-7bb875817dfbf097c51b
+- [Letter to Dusandar](books/Letter%20to%20Dusandar.md) — ext-36323b39bfdf79533c62
+- [Letter to Edhelfin](books/Letter%20to%20Edhelfin.md) — ext-d03190bd5c181fa01daf
+- [Letter to Egranor](books/Letter%20to%20Egranor.md) — ext-5ec5f277d349acaf4bc0
+- [Letter to Elanwen](books/Letter%20to%20Elanwen.md) — ext-610462febf32ccb08ceb
+- [Letter to Elistrenne Starflower](books/Letter%20to%20Elistrenne%20Starflower.md) — ext-69f1216900ac78fe2d10
+- [Letter to Eraven](books/Letter%20to%20Eraven.md) — ext-14ca69d89a76fc3bdd77
+- [Letter to Estre](books/Letter%20to%20Estre.md) — ext-f055abf8d0f947f27e28
+- [Letter to Evis Marys](books/Letter%20to%20Evis%20Marys.md) — ext-e2a3964e467ac405c01a
+- [Letter to Evrien](books/Letter%20to%20Evrien.md) — ext-3d06ee3f7da8bf4e7e0d
+- [Letter to Exarch Braadoth](books/Letter%20to%20Exarch%20Braadoth.md) — ext-35529f7185b3523718d2
+- [Letter to Fadeel](books/Letter%20to%20Fadeel.md) — ext-ab0f8e883385521d9b7c
+- [Letter to Feina-Darak](books/Letter%20to%20Feina-Darak.md) — ext-2a8d929ea3a9dc89fee2
+- [Letter to Finia Marcott](books/Letter%20to%20Finia%20Marcott.md) — ext-6e81c648bed515bee763
+- [Letter to Firilia](books/Letter%20to%20Firilia.md) — ext-59d8f3767a9436a2d5c0
+- [Letter to Geldrion](books/Letter%20to%20Geldrion.md) — ext-87b68442e7970df25fc4
+- [Letter to Grand Warlord Dortene](books/Letter%20to%20Grand%20Warlord%20Dortene.md) — ext-67fc7d5f9cf7994a96a5
+- [Letter to Grand Warlord Sorcalin](books/Letter%20to%20Grand%20Warlord%20Sorcalin.md) — ext-6eff5444fb8b3e5eb243
+- [Letter to Grand Warlord Zimmeron](books/Letter%20to%20Grand%20Warlord%20Zimmeron.md) — ext-1b3630ab48cb66af7b83
+- [Letter to Haeralf](books/Letter%20to%20Haeralf.md) — ext-0d66dd2628a9e4a8d6e1
+- [Letter to Haladan](books/Letter%20to%20Haladan.md) — ext-2587e88c845dc60c8b10
+- [Letter to Halakaku](books/Letter%20to%20Halakaku.md) — ext-6bf99d765aa51a26314a
+- [Letter to Hanza](books/Letter%20to%20Hanza.md) — ext-f4330db54a7e75738b4e
+- [Letter to Headman Bhosek](books/Letter%20to%20Headman%20Bhosek.md) — ext-3e54dededefb89691801
+- [Letter to Hearth-Mother](books/Letter%20to%20Hearth-Mother.md) — ext-04de384ec4ce03723f89
+- [Letter to Herminius Sophus](books/Letter%20to%20Herminius%20Sophus.md) — ext-861b357b1e1e6a447e7c
+- [Letter to Hosni](books/Letter%20to%20Hosni.md) — ext-03a30712d91334ca9648
+- [Letter to Idirfa](books/Letter%20to%20Idirfa.md) — ext-90bf59cfedef83b84994
+- [Letter to Imedril](books/Letter%20to%20Imedril.md) — ext-37c63fede52c32b33799
+- [Letter to Imwyn](books/Letter%20to%20Imwyn.md) — ext-fc0a687022d0f7293ccc
+- [Letter to Irm](books/Letter%20to%20Irm.md) — ext-af4de45ad61abdd81c1f
+- [Letter to Isrudde](books/Letter%20to%20Isrudde.md) — ext-55fb0ebb0083f0315289
+- [Letter to Jakarn](books/Letter%20to%20Jakarn.md) — ext-81587672e713f0c1b035
+- [Letter to Jakild](books/Letter%20to%20Jakild.md) — ext-a3711d4a886428369e01
+- [Letter to Jazish](books/Letter%20to%20Jazish.md) — ext-44585fcc11885469b889
+- [Letter to Kathner](books/Letter%20to%20Kathner.md) — ext-97761d7be72d25e8d5c6
+- [Letter to Kharekh gra-Bagrat](books/Letter%20to%20Kharekh%20gra-Bagrat.md) — ext-910c1e2a6de2f2861431
+- [Letter to King Folbert](books/Letter%20to%20King%20Folbert.md) — ext-9c9b8c1acfd42f0a6b32
+- [Letter to King Maxevian](books/Letter%20to%20King%20Maxevian.md) — ext-da4f298e5649b65c98cd
+- [Letter to Kitza-Enoo](books/Letter%20to%20Kitza-Enoo.md) — ext-1d16d6bf2996cd68a6e0
+- [Letter to Lady Sulima](books/Letter%20to%20Lady%20Sulima.md) — ext-605eb7440eb6cc342e12
+- [Letter to Lady Weatherleah](books/Letter%20to%20Lady%20Weatherleah.md) — ext-f9349edc0bf85884613c
+- [Letter to Laenira](books/Letter%20to%20Laenira.md) — ext-86dd646ff8321ff5f177
+- [Letter to Laryaril](books/Letter%20to%20Laryaril.md) — ext-932a2b54ec864c3525d0
+- [Letter to Lauriel](books/Letter%20to%20Lauriel.md) — ext-5c8b11ac133d13295925
+- [Letter to Leonce Gavendien](books/Letter%20to%20Leonce%20Gavendien.md) — ext-c4ad1a061809fe358030
+- [Letter to Littorn](books/Letter%20to%20Littorn.md) — ext-db862b9a4524363da32a
+- [Letter to Lozruth](books/Letter%20to%20Lozruth.md) — ext-1649ff0371ee4d459aa5
+- [Letter to Magister Meln Rendys](books/Letter%20to%20Magister%20Meln%20Rendys.md) — ext-1a6cc2d92d88f58ea5fe
+- [Letter to Mairrna](books/Letter%20to%20Mairrna.md) — ext-54dadc57986571d0ba91
+- [Letter to Marillan](books/Letter%20to%20Marillan.md) — ext-8f8d8c0026b77b6b88f4
+- [Letter to Marina](books/Letter%20to%20Marina.md) — ext-de5679f17afa56cd2ce0
+- [Letter to Marshal Hlaren](books/Letter%20to%20Marshal%20Hlaren.md) — ext-d7e311adcc68a5118693
+- [Letter to Master Rethan](books/Letter%20to%20Master%20Rethan.md) — ext-ebabe8ad56202d29faff
+- [Letter to Matus Amnis](books/Letter%20to%20Matus%20Amnis.md) — ext-30452833c87c1e562976
+- [Letter to Mertis](books/Letter%20to%20Mertis.md) — ext-824011e5f6d46815bd9a
+- [Letter to Mirudda](books/Letter%20to%20Mirudda.md) — ext-5c58ece640497e2e0323
+- [Letter to Mother Ciannait](books/Letter%20to%20Mother%20Ciannait.md) — ext-7f9cb12d546ad6a90430
+- [Letter to Mouth Vabdru](books/Letter%20to%20Mouth%20Vabdru.md) — ext-e168335308786cdbd3f7
+- [Letter to Mylenne](books/Letter%20to%20Mylenne.md) — ext-51a7c1401b622c12c291
+- [Letter to Nabor](books/Letter%20to%20Nabor.md) — ext-93a2473280f9fef92d2e
+- [Letter to Narsis](books/Letter%20to%20Narsis.md) — ext-112e8d22b227d37fe299
+- [Letter to Negaelion](books/Letter%20to%20Negaelion.md) — ext-5c037dbcb942078db353
+- [Letter to Norasea](books/Letter%20to%20Norasea.md) — ext-f141b98d454a7b79797b
+- [Letter to Ofglog](books/Letter%20to%20Ofglog.md) — ext-d8d1ab8df8591b8eeb32
+- [Letter to Orpheon](books/Letter%20to%20Orpheon.md) — ext-cb5d82ff5584819a4cac
+- [Letter to Orzorga](books/Letter%20to%20Orzorga.md) — ext-ac7f69a7aa3faabf3b7e
+- [Letter to Otumi-Ra](books/Letter%20to%20Otumi-Ra.md) — ext-67d44ec6324b7429eb9e
+- [Letter to Paathi](books/Letter%20to%20Paathi.md) — ext-aa9f54b87941debc96cf
+- [Letter to Pelena](books/Letter%20to%20Pelena.md) — ext-39d4321e75f5778127fb
+- [Letter to Pentarch Draljura](books/Letter%20to%20Pentarch%20Draljura.md) — ext-439be3cef97c2bbe784d
+- [Letter to Percy Velmont](books/Letter%20to%20Percy%20Velmont.md) — ext-b47976a9046c06060000
+- [Letter to Peryite](books/Letter%20to%20Peryite.md) — ext-79f337511f51a0186b12
+- [Letter to Purifier Cyrus](books/Letter%20to%20Purifier%20Cyrus.md) — ext-6a51ac3a19587c4e00cf
+- [Letter to Raelynne](books/Letter%20to%20Raelynne.md) — ext-e8d1ba26b75bfea65e9d
+- [Letter to Raerana](books/Letter%20to%20Raerana.md) — ext-c28e737b532d3b2ca402
+- [Letter to Rana](books/Letter%20to%20Rana.md) — ext-9261d0e73da540687356
+- [Letter to Reezal-Jul](books/Letter%20to%20Reezal-Jul.md) — ext-429c5afc7603f3ead126
+- [Letter to Roshilde](books/Letter%20to%20Roshilde.md) — ext-125c280acaa5f267263c
+- [Letter to Rulassalmo](books/Letter%20to%20Rulassalmo.md) — ext-8179edd71ada3c74e224
+- [Letter to Runescriber Kulth](books/Letter%20to%20Runescriber%20Kulth.md) — ext-fea189cc124902cd0eea
+- [Letter to Savarak](books/Letter%20to%20Savarak.md) — ext-41a7f508b8535d5c946f
+- [Letter to Selenwe](books/Letter%20to%20Selenwe.md) — ext-b96f9c19ed0858a5bd5e
+- [Letter to Selloe](books/Letter%20to%20Selloe.md) — ext-090e37b48177c146975b
+- [Letter to Sentulus](books/Letter%20to%20Sentulus.md) — ext-998b1ce7b1b0e304285d
+- [Letter to Seyne](books/Letter%20to%20Seyne.md) — ext-fdf81930192c4fde3e74
+- [Letter to Shirnama](books/Letter%20to%20Shirnama.md) — ext-5eef43bc9833eb3f77d1
+- [Letter to Skull-Brother Xandier](books/Letter%20to%20Skull-Brother%20Xandier.md) — ext-1c374b7e49af314f81b5
+- [Letter to Sonya](books/Letter%20to%20Sonya.md) — ext-5a76a5cfc91d4aed28fe
+- [Letter to Stelvene Lothaire](books/Letter%20to%20Stelvene%20Lothaire.md) — ext-e75902940c650cd8baea
+- [Letter to Strastnoc](books/Letter%20to%20Strastnoc.md) — ext-cf6feaf3838ab2907c48
+- [Letter to Sybilline Elve](books/Letter%20to%20Sybilline%20Elve.md) — ext-1c425d6e0bc5a5e032f0
+- [Letter to Tarnamir](books/Letter%20to%20Tarnamir.md) — ext-16eeaab2ab04c9911b35
+- [Letter to Tavo from Nahrina](books/Letter%20to%20Tavo%20from%20Nahrina.md) — ext-6816484186efce795668
+- [Letter to Telenger](books/Letter%20to%20Telenger.md) — ext-4b7b8709e1dda9d774e7
+- [Letter to Thalrinel](books/Letter%20to%20Thalrinel.md) — ext-053b29dadc8897e1818f
+- [Letter to Valenia](books/Letter%20to%20Valenia.md) — ext-d48daa1abdee6342fc9f
+- [Letter to Vashabar](books/Letter%20to%20Vashabar.md) — ext-5c38adc0e2189eb71b93
+- [Letter to Vethisa](books/Letter%20to%20Vethisa.md) — ext-8eb11697ce4f5afde906
+- [Letter to Vibius Sosia](books/Letter%20to%20Vibius%20Sosia.md) — ext-ed69ff6d7b742c0f1a87
+- [Letter to Vicereeve Nirenorwe](books/Letter%20to%20Vicereeve%20Nirenorwe.md) — ext-30dbb3da40b6047576fb
+- [Letter to Vigrod](books/Letter%20to%20Vigrod.md) — ext-567b810cb60b2d2e61c2
+- [Letter to Volgo](books/Letter%20to%20Volgo.md) — ext-861dbd4050af56d8cd7c
+- [Letter to Windhelm](books/Letter%20to%20Windhelm.md) — ext-95a9313db39f8da0840b
+- [Letter to Wyress Gwen](books/Letter%20to%20Wyress%20Gwen.md) — ext-6815468afb69a8925c13
+- [Letter to Yazara](books/Letter%20to%20Yazara.md) — ext-4713402b0f609f8ab3be
+- [Letter to Zemarek-Thul](books/Letter%20to%20Zemarek-Thul.md) — ext-218dfb372f6d034f690f
+- [Letter to Zerith-var](books/Letter%20to%20Zerith-var.md) — ext-e58a8cea8cc31c5f1163
+- [Letter to Zurga gra-Murtag](books/Letter%20to%20Zurga%20gra-Murtag.md) — ext-a187e5c3e16ae16fa288
+- [Letter to a Scoundrel](books/Letter%20to%20a%20Scoundrel.md) — ext-59288fa8c3f0dc92f262
+- [Letter to an Aldarch](books/Letter%20to%20an%20Aldarch.md) — ext-51a894fc3bfe40494f7d
+- [Letter to my Egg-Kin](books/Letter%20to%20my%20Egg-Kin.md) — ext-8e6c5fb87ad5b129446e
+- [Letter to the Grand Chanter](books/Letter%20to%20the%20Grand%20Chanter.md) — ext-317ebdbba24ce53940b1
+- [Letter to the High Priest](books/Letter%20to%20the%20High%20Priest.md) — ext-baa3899214fef261cac2
+- [Letter to the Icereach Coven](books/Letter%20to%20the%20Icereach%20Coven.md) — ext-23a8855d0459ef519c04
+- [Letter to the Magnastylus](books/Letter%20to%20the%20Magnastylus.md) — ext-9a71de0f856ddf751130
+- [Letter to the Overseer](books/Letter%20to%20the%20Overseer.md) — ext-89a398c3ae62cf23dffb
+- [Letter to the Pentarch](books/Letter%20to%20the%20Pentarch.md) — ext-ae5f79f7312190980d48
+- [Letter to the Twilight Mage](books/Letter%20to%20the%20Twilight%20Mage.md) — ext-c665e8a0aee94d414e53
+- [Letter to the Withered Rose](books/Letter%20to%20the%20Withered%20Rose.md) — ext-ad1ceb433632355dddd4
+- [Letter with Singed Edges](books/Letter%20with%20Singed%20Edges.md) — ext-3f915d84d8396d9ba3e6
+- [Letters from Leon and Rosalind](books/Letters%20from%20Leon%20and%20Rosalind.md) — ext-dabba5df8dcf6573a11b
+- [Letters from the War: Cyrodiil](books/Letters%20from%20the%20War%20Cyrodiil.md) — ext-9e8634335f8d995d5431
+- [Letters from the War: Mead!](books/Letters%20from%20the%20War%20Mead%21.md) — ext-8adf2331355d18772339
+- [Letters from the War: Mournhold](books/Letters%20from%20the%20War%20Mournhold.md) — ext-c5e6ce2e7814609515d0
+- [Letters from the War: Windhelm](books/Letters%20from%20the%20War%20Windhelm.md) — ext-bfd03782211df747015a
+- [Lieutenant Jascien’s Last Missive](books/Lieutenant%20Jascien%E2%80%99s%20Last%20Missive.md) — ext-747f0502155d60ec634f
+- [Life in the Eagle’s Shadow](books/Life%20in%20the%20Eagle%E2%80%99s%20Shadow.md) — ext-87a7d4709deddcd897c7
+- [Lighthouse Orders](books/Lighthouse%20Orders.md) — ext-cf23e3367e4b8fb03979
+- [Liquid Silver](books/Liquid%20Silver.md) — ext-7faac698ee23e27e02aa
+- [List of Sequestered Guests](books/List%20of%20Sequestered%20Guests.md) — ext-407824fa891a95907733
+- [Listens-To-Water’s Observations](books/Listens-To-Water%E2%80%99s%20Observations.md) — ext-34226ba4bae2905c5acc
+- [Lleraya’s Orders](books/Lleraya%E2%80%99s%20Orders.md) — ext-acbbddc3ecaaa0319b36
+- [Lockpick Sales-Duty](books/Lockpick%20Sales-Duty.md) — ext-e39e06faa14f6aa2f400
+- [Log of the Intractable](books/Log%20of%20the%20Intractable.md) — ext-41c644d96e35b8cf6f2b
+- [Logbook of Druid Anwas](books/Logbook%20of%20Druid%20Anwas.md) — ext-d518b7443ffd24240296
+- [Logbook of Druid Betrys](books/Logbook%20of%20Druid%20Betrys.md) — ext-adf784bdde2bdb731469
+- [Look at this Guard Dispatch!](books/Look%20at%20this%20Guard%20Dispatch%21.md) — ext-b2c51ae194db8d83adbc
+- [Look to the Dawn](books/Look%20to%20the%20Dawn.md) — ext-d2d1505770f01ba67bcb
+- [Lord Bacaro’s Journal](books/Lord%20Bacaro%E2%80%99s%20Journal.md) — ext-c3b97fc761370ee9615d
+- [Lord Gallio Valente’s Journal](books/Lord%20Gallio%20Valente%E2%80%99s%20Journal.md) — ext-c1e961b927a115624d4f
+- [Lord Jarol’s Deep Thoughts](books/Lord%20Jarol%E2%80%99s%20Deep%20Thoughts.md) — ext-3f1eaacdeab490ec2a2f
+- [Lord Wallavir’s Wedding Invitation](books/Lord%20Wallavir%E2%80%99s%20Wedding%20Invitation.md) — ext-5488242758c1e44e308b
+- [Lorogdu’s Journal](books/Lorogdu%E2%80%99s%20Journal.md) — ext-12e461cb836ca44bf7e8
+- [Lost and Dusty Journal](books/Lost%20and%20Dusty%20Journal.md) — ext-c95a01a54d5f65ed49a9
+- [Love Letter from Adrolir](books/Love%20Letter%20from%20Adrolir.md) — ext-b43169ab498cfd037709
+- [Love Letter to Aishah](books/Love%20Letter%20to%20Aishah.md) — ext-c7fb137be906d29dae0f
+- [Love Note to Adrienne](books/Love%20Note%20to%20Adrienne.md) — ext-d3b5c260386d74caf673
+- [Love Note to Catina](books/Love%20Note%20to%20Catina.md) — ext-09476dbacefe91060694
+- [Love Note to Enna](books/Love%20Note%20to%20Enna.md) — ext-99427de4da5c2206c113
+- [Lovingly Written Note](books/Lovingly%20Written%20Note.md) — ext-84400687afbd153dd27c
+- [Lucius’ Note](books/Lucius%E2%80%99%20Note.md) — ext-a5531c0653721978ddfb
+- [Lumber Camp Journal](books/Lumber%20Camp%20Journal.md) — ext-7c81bfde5c59c7549007
+- [Lyranth’s Letter](books/Lyranth%E2%80%99s%20Letter.md) — ext-6f080cb538d0db8fbc3d
+- [Maelmoth’s Marvelous Masterpiece](books/Maelmoth%E2%80%99s%20Marvelous%20Masterpiece.md) — ext-194d6e3973ea8a06243d
+- [Maerolor’s Chronicle](books/Maerolor%E2%80%99s%20Chronicle.md) — ext-6ef64d1b815d446a214a
+- [Mages Guild Authorization](books/Mages%20Guild%20Authorization.md) — ext-7fe5db7537eb12849bc3
+- [Magister Irin’s Notes](books/Magister%20Irin%E2%80%99s%20Notes.md) — ext-2f55ac2815de35f6602d
+- [Magister Otheri’s Research Journal](books/Magister%20Otheri%E2%80%99s%20Research%20Journal.md) — ext-3822ee3cadea01aa853c
+- [Magister’s Writ](books/Magister%E2%80%99s%20Writ.md) — ext-13b46b9e32b0fb8ea8e2
+- [Magistrate’s Message](books/Magistrate%E2%80%99s%20Message.md) — ext-0eac7d963e49d4fc9336
+- [Mairead’s Diary](books/Mairead%E2%80%99s%20Diary.md) — ext-7beb3761b20b2287ce4d
+- [Maliah’s Journal](books/Maliah%E2%80%99s%20Journal.md) — ext-854e0497890d06fbeb61
+- [Malizaz’s Journal](books/Malizaz%E2%80%99s%20Journal.md) — ext-707573ace94907da51d4
+- [Malkhest’s Journal](books/Malkhest%E2%80%99s%20Journal.md) — ext-c2443324f5e80edb13ee
+- [Malofar’s Journal](books/Malofar%E2%80%99s%20Journal.md) — ext-07384c10778445aff699
+- [Mammoth Duty](books/Mammoth%20Duty.md) — ext-7e5f7839be590829c2c0
+- [Manifest of Kinlord Rilis XII](books/Manifest%20of%20Kinlord%20Rilis%20XII.md) — ext-a221fff9d9e60d05e234
+- [Manifestos of Kinlord Rilis XII](books/Manifestos%20of%20Kinlord%20Rilis%20XII.md) — ext-7334ace7b7c4029c4dd3
+- [Mannimarco’s Directive](books/Mannimarco%E2%80%99s%20Directive.md) — ext-4ec6ad28f2af3fc29e93
+- [Mannimarco’s Notes](books/Mannimarco%E2%80%99s%20Notes.md) — ext-478171e3dfa4fb437353
+- [Maormer Memo](books/Maormer%20Memo.md) — ext-745fd2896c62d67aa274
+- [Marbruk Builder’s Log](books/Marbruk%20Builder%E2%80%99s%20Log.md) — ext-b5a8a218a53cc98296e4
+- [Marifah’s Journal](books/Marifah%E2%80%99s%20Journal.md) — ext-93554051623b0defd6a7
+- [Mark of Egg-Births](books/Mark%20of%20Egg-Births.md) — ext-326cff3d899469415cf3
+- [Martha’s Journal](books/Martha%E2%80%99s%20Journal.md) — ext-21bd42e7b3d55eb28e4e
+- [Marzula-jo’s Notes](books/Marzula-jo%E2%80%99s%20Notes.md) — ext-78626efd5df0a2e5c32c
+- [Master Healer Viralaine’s Notes](books/Master%20Healer%20Viralaine%E2%80%99s%20Notes.md) — ext-40b1d01da166fa5d70c0
+- [Master Pythis’s Journal](books/Master%20Pythis%E2%80%99s%20Journal.md) — ext-3fca9ded3151a8e547bd
+- [Master Shelreni’s Notes: The Restoration](books/Master%20Shelreni%E2%80%99s%20Notes%20The%20Restoration.md) — ext-77620f697bb4e69157e7
+- [Master Shelreni’s Notes: Torvesard](books/Master%20Shelreni%E2%80%99s%20Notes%20Torvesard.md) — ext-c3657ec7f403d70dba94
+- [Master Shelreni’s Orders](books/Master%20Shelreni%E2%80%99s%20Orders.md) — ext-b770f12702f19c2f35da
+- [Mathias Raiment’s Journal](books/Mathias%20Raiment%E2%80%99s%20Journal.md) — ext-f225caee76a736b54d62
+- [Mathor’s Journal](books/Mathor%E2%80%99s%20Journal.md) — ext-3df1f9bcf9233547c0f7
+- [Matthiaume’s Journal](books/Matthiaume%E2%80%99s%20Journal.md) — ext-8a6884577523e5445492
+- [Maxten’s Research Journal](books/Maxten%E2%80%99s%20Research%20Journal.md) — ext-8d5f1c31e93990389b63
+- [Meat for Soup](books/Meat%20for%20Soup.md) — ext-3101079cc41e0ef8d6dd
+- [Mel Adrys’ Journal](books/Mel%20Adrys%E2%80%99%20Journal.md) — ext-e13890206b70d241bf59
+- [Melleron’s Journal](books/Melleron%E2%80%99s%20Journal.md) — ext-bf73449c524c22aa8504
+- [Meln’s To-Do List](books/Meln%E2%80%99s%20To-Do%20List.md) — ext-597bd15579d13ea747cc
+- [Memo from Menoit](books/Memo%20from%20Menoit.md) — ext-5634695aa229c6b3c200
+- [Memo to Captain Doronil](books/Memo%20to%20Captain%20Doronil.md) — ext-29b668f3c4af3678a1bc
+- [Memo to Captain Siro](books/Memo%20to%20Captain%20Siro.md) — ext-22d77e367a8f4c27f63d
+- [Memorize and Burn!](books/Memorize%20and%20Burn%21.md) — ext-853a8785415285c3b034
+- [Mercano’s Journal](books/Mercano%E2%80%99s%20Journal.md) — ext-a69edb3f46921e240255
+- [Mercenary’s Scorched Journal](books/Mercenary%E2%80%99s%20Scorched%20Journal.md) — ext-713b5baeec847aeecfaf
+- [Merchandise Retrieval Order](books/Merchandise%20Retrieval%20Order.md) — ext-967be9a771f060eb74c5
+- [Merchant Lords’ Compiled Documents](books/Merchant%20Lords%E2%80%99%20Compiled%20Documents.md) — ext-0ef298dc63ee6a9a825b
+- [Merdyndril’s Orders](books/Merdyndril%E2%80%99s%20Orders.md) — ext-94c34f165585d2558fd2
+- [Merien’s Incantation](books/Merien%E2%80%99s%20Incantation.md) — ext-0c237342e53284020e8c
+- [Merion’s Diary](books/Merion%E2%80%99s%20Diary.md) — ext-fc4c0eb74f881ad9faf1
+- [Message from Fennorian](books/Message%20from%20Fennorian.md) — ext-0cce40962df6aeb5dc25
+- [Message from Geneura](books/Message%20from%20Geneura.md) — ext-40c49a42f3fc70feef03
+- [Message in a Bottle](books/Message%20in%20a%20Bottle.md) — ext-221eae59e5532e3dd3e9
+- [Message to Jena](books/Message%20to%20Jena.md) — ext-5d27cd0f8ddb4c228c2b
+- [Messages from Hews Bane](books/Messages%20from%20Hews%20Bane.md) — ext-d33c66e8d1c7b33e78d7
+- [Messenger’s Report](books/Messenger%E2%80%99s%20Report.md) — ext-94b6e24a3270b24106a6
+- [Mezhun’s Field Journal](books/Mezhun%E2%80%99s%20Field%20Journal.md) — ext-092cd63992d732d4a8a2
+- [Might as Well Die Fighting](books/Might%20as%20Well%20Die%20Fighting.md) — ext-bffabf77668440b71d97
+- [Mikget’s To-Do List](books/Mikget%E2%80%99s%20To-Do%20List.md) — ext-101a3628bb9d32191ee0
+- [Mildanor’s Ripped Note](books/Mildanor%E2%80%99s%20Ripped%20Note.md) — ext-b5996e55eb532d417f52
+- [Milvia Terthil’s Note](books/Milvia%20Terthil%E2%80%99s%20Note.md) — ext-72b46a9b5960509f8946
+- [Minahel’s Note](books/Minahel%E2%80%99s%20Note.md) — ext-d31418a472bf1d130f78
+- [Mine Foreman’s Log](books/Mine%20Foreman%E2%80%99s%20Log.md) — ext-a8b4c095c0385e5dddb5
+- [Mine Foreman’s Orders](books/Mine%20Foreman%E2%80%99s%20Orders.md) — ext-475c42427564c973e6f0
+- [Miner’s Journal](books/Miner%E2%80%99s%20Journal.md) — ext-f106c3338e1401ae5764
+- [Minwileth’s Diary](books/Minwileth%E2%80%99s%20Diary.md) — ext-841eb3c007bdd7ea56af
+- [Mirah’s Journal: The Salvage](books/Mirah%E2%80%99s%20Journal%20The%20Salvage.md) — ext-07f48de924cc7550c049
+- [Miruin’s Journal](books/Miruin%E2%80%99s%20Journal.md) — ext-3213bb6a40630bd938c8
+- [Mirulon’s Report](books/Mirulon%E2%80%99s%20Report.md) — ext-387411c439a36e0e14c5
+- [Misplaced Journal](books/Misplaced%20Journal.md) — ext-6da131b5fb4176837832
+- [Missing Citizens](books/Missing%20Citizens.md) — ext-6a3cc415fadd9f00d551
+- [Missing Miners](books/Missing%20Miners.md) — ext-a811d230e171828debe8
+- [Missing: Gordonkha the Shark and Lazy Murshez](books/Missing%20Gordonkha%20the%20Shark%20and%20Lazy%20Murshez.md) — ext-20388870ea6be0f43a3b
+- [Missing: Khiruna](books/Missing%20Khiruna.md) — ext-3c9c12d97a528977a07f
+- [Mission Report: Successful](books/Mission%20Report%20Successful.md) — ext-979f4eb07ca82ebd068c
+- [Missive from Cyrodiil](books/Missive%20from%20Cyrodiil.md) — ext-27fe6966054bcbe7aadc
+- [Missive from Grand Inquisitor Arsalan](books/Missive%20from%20Grand%20Inquisitor%20Arsalan.md) — ext-071943d9cd917eda8ea9
+- [Missive from the Mages Guild](books/Missive%20from%20the%20Mages%20Guild.md) — ext-a0682ae8b119129bf964
+- [Missive to Alchemist](books/Missive%20to%20Alchemist.md) — ext-df1fd3c2e758fa62d086
+- [Missive to Mor Naril](books/Missive%20to%20Mor%20Naril.md) — ext-442e8a5684aaeb9a7009
+- [Mistress Dratha’s Journal](books/Mistress%20Dratha%E2%80%99s%20Journal.md) — ext-b17635bd0b42c0e91e41
+- [Misura’s Missive to Quarrymaster Saldezaar](books/Misura%E2%80%99s%20Missive%20to%20Quarrymaster%20Saldezaar.md) — ext-a2b183b6397d20e07327
+- [Mojha is a Fool](books/Mojha%20is%20a%20Fool.md) — ext-52582761426beba808c5
+- [Moldy Journal](books/Moldy%20Journal.md) — ext-eb226ac28afb1f9142bc
+- [Montclair Assassin’s Orders](books/Montclair%20Assassin%E2%80%99s%20Orders.md) — ext-604ee862d04c4f38bc2e
+- [Moon-Sugar Plans](books/Moon-Sugar%20Plans.md) — ext-2c17929919e530187dc1
+- [Moon-Sugar: A Better Plan](books/Moon-Sugar%20A%20Better%20Plan.md) — ext-7dc355374c45db5f0ac8
+- [More Scorions](books/More%20Scorions.md) — ext-96d2415639d3e78a67e1
+- [Morian Zenas Cell Note](books/Morian%20Zenas%20Cell%20Note.md) — ext-b662c99cd1989f119de2
+- [Morkuldin’s Final Delivery](books/Morkuldin%E2%80%99s%20Final%20Delivery.md) — ext-16e907d53034d775938e
+- [Mossy Note](books/Mossy%20Note.md) — ext-fd1de8152e002425c9dc
+- [Mouth Vabdru’s Journal](books/Mouth%20Vabdru%E2%80%99s%20Journal.md) — ext-de54fa1abe2317088a07
+- [Mud-Covered Letter](books/Mud-Covered%20Letter.md) — ext-9968b6828b9bb5a0ea5a
+- [Murshez Is Dead](books/Murshez%20Is%20Dead.md) — ext-684f0b3993541dc2132a
+- [Museum Guild Letter](books/Museum%20Guild%20Letter.md) — ext-fceec0ae3bcdd90eb1a8
+- [Mustn’t Forget](books/Mustn%E2%80%99t%20Forget.md) — ext-b95eb7b45c015f8ebbd3
+- [My Dear Vanessa](books/My%20Dear%20Vanessa.md) — ext-bfc1a731d4d5682269d4
+- [My Dearest Love](books/My%20Dearest%20Love.md) — ext-8c81992e7c8a5b66d180
+- [My Golden Child](books/My%20Golden%20Child.md) — ext-fdbc57a35355d6f957b0
+- [My Journal](books/My%20Journal.md) — ext-7d2e8dab3106d9ee32ae
+- [My Kwama Journal](books/My%20Kwama%20Journal.md) — ext-c88b950691f337f0d0d7
+- [My Kwama Journal \[Metamorphosis\]](books/My%20Kwama%20Journal%20%5BMetamorphosis%5D.md) — ext-c899c0163a77676deb2b
+- [My Little Present](books/My%20Little%20Present.md) — ext-57510fa2038a3e8ef193
+- [My Sweet Flower](books/My%20Sweet%20Flower.md) — ext-7f70f5aa150c15c8749b
+- [Myshka’s Journal](books/Myshka%E2%80%99s%20Journal.md) — ext-7c859e83f6bbe698513f
+- [Mysterious Letter to Federo](books/Mysterious%20Letter%20to%20Federo.md) — ext-63a7f5cb25d939940c30
+- [Mysterious Ore Notes](books/Mysterious%20Ore%20Notes.md) — ext-6127bc7ac14c7dc083e8
+- [M’zum’s Journal](books/M%E2%80%99zum%E2%80%99s%20Journal.md) — ext-d663bee01da7f643f17a
+- [Na-Kesh’s Journal](books/Na-Kesh%E2%80%99s%20Journal.md) — ext-485e6445916c07ce04a2
+- [Naanurrel’s Logbook](books/Naanurrel%E2%80%99s%20Logbook.md) — ext-e51889fb4ba2cc90b846
+- [Nadafa’s Journal](books/Nadafa%E2%80%99s%20Journal.md) — ext-05b3d7f4b96241ea9b8f
+- [Nadine’s Diary](books/Nadine%E2%80%99s%20Diary.md) — ext-c1c49d3b50a3bef70607
+- [Nahirah’s Journal](books/Nahirah%E2%80%99s%20Journal.md) — ext-a82fcc31d9ba2c6e98f6
+- [Nahlia’s Journal](books/Nahlia%E2%80%99s%20Journal.md) — ext-73fed22a6b985c89b8ec
+- [Najan’s Journal](books/Najan%E2%80%99s%20Journal.md) — ext-ffa265575985b5f9d1fb
+- [Naliara’s Notes](books/Naliara%E2%80%99s%20Notes.md) — ext-2e6428e1d426f863b160
+- [Naril Nagaia Journal](books/Naril%20Nagaia%20Journal.md) — ext-a84d2a70634445b13298
+- [Narnolas’ Notes](books/Narnolas%E2%80%99%20Notes.md) — ext-dc39789da74122ffd241
+- [Narsis Dren and the Lost Notebook](books/Narsis%20Dren%20and%20the%20Lost%20Notebook.md) — ext-7ec18ae642ad67795155
+- [Ne Salas: Need Reinforcements](books/Ne%20Salas%20Need%20Reinforcements.md) — ext-8515c52dea264bd32e5f
+- [Necromancer Anniar’s Journal](books/Necromancer%20Anniar%E2%80%99s%20Journal.md) — ext-30567539aa535e1e2a74
+- [Necromancer Nardirin’s Report](books/Necromancer%20Nardirin%E2%80%99s%20Report.md) — ext-ccc9e3cc64b949ae6461
+- [Necromancers: A Report for the Queen](books/Necromancers%20A%20Report%20for%20the%20Queen.md) — ext-a03346fbfe2fae8c783b
+- [Necromancer’s Diary](books/Necromancer%E2%80%99s%20Diary.md) — ext-0c6e97a8b1abbec4aa39
+- [Necromancer’s Journal](books/Necromancer%E2%80%99s%20Journal.md) — ext-4d2d2ed44656ae866cf7
+- [Nedras’ Journal](books/Nedras%E2%80%99%20Journal.md) — ext-b101e3a3652145c74307
+- [Need More Animus Geodes](books/Need%20More%20Animus%20Geodes.md) — ext-84907368edf4c1f315bb
+- [Neelo’s Notes](books/Neelo%E2%80%99s%20Notes.md) — ext-23b4de3548ee60aaf3d7
+- [Neletai’s Notes](books/Neletai%E2%80%99s%20Notes.md) — ext-38e2ecf615cbe2ee093c
+- [Nellor’s Bandit Connection](books/Nellor%E2%80%99s%20Bandit%20Connection.md) — ext-69a009059f10795bbeb9
+- [Neramo’s Journal](books/Neramo%E2%80%99s%20Journal.md) — ext-984a608ee3cf257708be
+- [Neronnir’s Journal](books/Neronnir%E2%80%99s%20Journal.md) — ext-b81317c75f7b5c8c8cea
+- [Nettira’s Journal](books/Nettira%E2%80%99s%20Journal.md) — ext-56245631af6070842f08
+- [Nevena’s Diary](books/Nevena%E2%80%99s%20Diary.md) — ext-2bb04ce84f704223651c
+- [New Opportunities](books/New%20Opportunities.md) — ext-4ad6a3c1c611b1961288
+- [New Solution Instructions](books/New%20Solution%20Instructions.md) — ext-e6116f8ff4127515191d
+- [Niborwen’s Journal](books/Niborwen%E2%80%99s%20Journal.md) — ext-92f56a1d0bb494e54967
+- [Nicolard Lia’s Journal](books/Nicolard%20Lia%E2%80%99s%20Journal.md) — ext-97a8444101edf4322a93
+- [Nicolard’s Note to Self](books/Nicolard%E2%80%99s%20Note%20to%20Self.md) — ext-da960fae6e1a5066c0c4
+- [Nicolene’s Diary (Private!)](books/Nicolene%E2%80%99s%20Diary%20%28Private%21%29.md) — ext-228ddb945774155b0c00
+- [Night Market Report](books/Night%20Market%20Report.md) — ext-5cd4916ecc6a525c6466
+- [Night Runner Captain’s Journal](books/Night%20Runner%20Captain%E2%80%99s%20Journal.md) — ext-6db152ea53b5be16dfbe
+- [Nikussha’s Research Notes](books/Nikussha%E2%80%99s%20Research%20Notes.md) — ext-3d3eb5e087b647ed2f81
+- [Nilaendril’s Notes](books/Nilaendril%E2%80%99s%20Notes.md) — ext-4ee4abb8f46b5ebbf705
+- [Nilata Search Plan](books/Nilata%20Search%20Plan.md) — ext-1e27e6a5aec61abdb431
+- [Nimriell’s Research](books/Nimriell%E2%80%99s%20Research.md) — ext-78ad45973b6bd9921e42
+- [Nine Commands of the Eight …](books/Nine%20Commands%20of%20the%20Eight%20%E2%80%A6.md) — ext-a631f5948c18bd342820
+- [Nirwaen’s Diary](books/Nirwaen%E2%80%99s%20Diary.md) — ext-a9e815576079ce563bad
+- [Nisaazda’s Journal](books/Nisaazda%E2%80%99s%20Journal.md) — ext-3d6263ac6d56f4e46e7e
+- [Nishzo’s Journal](books/Nishzo%E2%80%99s%20Journal.md) — ext-7ed7ebbc67c98d226301
+- [No More Shipments From Sentinel](books/No%20More%20Shipments%20From%20Sentinel.md) — ext-f90fd2b9b162f1259f31
+- [No Quarantine for Us](books/No%20Quarantine%20for%20Us.md) — ext-6fa1aef948d046625409
+- [No Reason to Worry](books/No%20Reason%20to%20Worry.md) — ext-b75e880b0dfca4b056f6
+- [No Shira, No Good!](books/No%20Shira%2C%20No%20Good%21.md) — ext-00561a5718fb6ea75aaf
+- [No Significant Danger](books/No%20Significant%20Danger.md) — ext-3c39ffe78cc3680229ca
+- [Nolonir’s Journal](books/Nolonir%E2%80%99s%20Journal.md) — ext-ff572d0867850a6daa38
+- [Nord Child’s Journal](books/Nord%20Child%E2%80%99s%20Journal.md) — ext-c6734d85a89c54b95872
+- [Nord Soldier’s Journal](books/Nord%20Soldier%E2%80%99s%20Journal.md) — ext-e0231d8bbf0b0c185483
+- [Norgorgol’s Journal](books/Norgorgol%E2%80%99s%20Journal.md) — ext-fbf04538bdc798bab431
+- [Northern Heartlands Journal](books/Northern%20Heartlands%20Journal.md) — ext-f2e693fc230a010e1391
+- [Not Long Now](books/Not%20Long%20Now.md) — ext-a82a3d4419ae785b42fe
+- [Not My Journal of an Ill-Omened Cavern](books/Not%20My%20Journal%20of%20an%20Ill-Omened%20Cavern.md) — ext-85aeef5e322770fd583d
+- [Not That Bad](books/Not%20That%20Bad.md) — ext-94fc5e381ce8729e9da3
+- [Notable Transactions](books/Notable%20Transactions.md) — ext-d0962e1b2fef58159a08
+- [Note About Paths](books/Note%20About%20Paths.md) — ext-467a9b3ab10d994c30c4
+- [Note From H](books/Note%20From%20H.md) — ext-1a1eca4ef5e23c70228c
+- [Note Written in Blood](books/Note%20Written%20in%20Blood.md) — ext-9ca7dd0c9799a11704b7
+- [Note \[Basins\]](books/Note%20%5BBasins%5D.md) — ext-ef1cc7aa07490897942c
+- [Note about “Wood Elf Etiquette”](books/Note%20about%20%E2%80%9CWood%20Elf%20Etiquette%E2%80%9D.md) — ext-aa7afef9a34aec03e2ed
+- [Note for Khazasha](books/Note%20for%20Khazasha.md) — ext-2b94bc28536fcc31600e
+- [Note for Klukeeshta](books/Note%20for%20Klukeeshta.md) — ext-74313a15f849455167fb
+- [Note from Akash](books/Note%20from%20Akash.md) — ext-5280a55ea87066b3b4b0
+- [Note from Alasan](books/Note%20from%20Alasan.md) — ext-d5beefdfeaf74c7ae90b
+- [Note from Azhnura](books/Note%20from%20Azhnura.md) — ext-0b4e0ab666609fd8139a
+- [Note from Cantor Krin’ze](books/Note%20from%20Cantor%20Krin%E2%80%99ze.md) — ext-04b3c5e1cd1d28b56828
+- [Note from Captain Accalia](books/Note%20from%20Captain%20Accalia.md) — ext-b2db8d56c83525a0c84f
+- [Note from Captain Dunveril](books/Note%20from%20Captain%20Dunveril.md) — ext-2ba8d302478d4b5752e6
+- [Note from Ciridor](books/Note%20from%20Ciridor.md) — ext-78e6460e795601cfb9c6
+- [Note from Commander Derre](books/Note%20from%20Commander%20Derre.md) — ext-295e47c354dce605c634
+- [Note from Danni](books/Note%20from%20Danni.md) — ext-c5c93bae6cdd9f731fa0
+- [Note from Firuin](books/Note%20from%20Firuin.md) — ext-3674ff2b9bb96452790d
+- [Note from Gadri to Federo](books/Note%20from%20Gadri%20to%20Federo.md) — ext-09087e79eb4dcfc462e6
+- [Note from Gullveig](books/Note%20from%20Gullveig.md) — ext-b5d6209677060e8c9bad
+- [Note from Jahla](books/Note%20from%20Jahla.md) — ext-ee95e4f81a3c91a6043e
+- [Note from Jeegren](books/Note%20from%20Jeegren.md) — ext-0e00b974b3a99a675bfa
+- [Note from Kamu](books/Note%20from%20Kamu.md) — ext-5cee1e60ad2fcf9ee6cf
+- [Note from Khezuli’s Contact](books/Note%20from%20Khezuli%E2%80%99s%20Contact.md) — ext-d3831e9ae23b71bfcdf9
+- [Note from Lady Weatherleah](books/Note%20from%20Lady%20Weatherleah.md) — ext-b96931451acf02a7cd36
+- [Note from Magister Osanne](books/Note%20from%20Magister%20Osanne.md) — ext-72016abf36da2fd1bcad
+- [Note from Maryn](books/Note%20from%20Maryn.md) — ext-c3d1fdef922a443eca97
+- [Note from Morantor](books/Note%20from%20Morantor.md) — ext-ea25728cf88b5d834667
+- [Note from No-Fingers](books/Note%20from%20No-Fingers.md) — ext-482e1dcf83d0036a8b24
+- [Note from Orlugash](books/Note%20from%20Orlugash.md) — ext-b0df62e946f5b29101dc
+- [Note from Razum-dar](books/Note%20from%20Razum-dar.md) — ext-14c604d02d69724b6712
+- [Note from Sagabar](books/Note%20from%20Sagabar.md) — ext-ae9793a739353664cf51
+- [Note from Scout Justal](books/Note%20from%20Scout%20Justal.md) — ext-736ee1fc0c0423ee20f6
+- [Note from Slim-Jah](books/Note%20from%20Slim-Jah.md) — ext-904d0e9325f334e81572
+- [Note from Theomund](books/Note%20from%20Theomund.md) — ext-d83337bb591788d135ca
+- [Note from Thulvald’s Logging Camp](books/Note%20from%20Thulvald%E2%80%99s%20Logging%20Camp.md) — ext-6f98d690315709bb4a91
+- [Note from Umindior](books/Note%20from%20Umindior.md) — ext-c826f9d7b0b10a341610
+- [Note from Uxunath](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-072ee3939bc5d3b73eae/Note%20from%20Uxunath.md) — ext-072ee3939bc5d3b73eae
+- [Note from Uxunath](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-220a91390c8e046a0148/Note%20from%20Uxunath.md) — ext-220a91390c8e046a0148
+- [Note from Valkynaz Nokvroz](books/Note%20from%20Valkynaz%20Nokvroz.md) — ext-14f6127407027c5f8d81
+- [Note from Zidal](books/Note%20from%20Zidal.md) — ext-f44f43f1237ef5186d97
+- [Note from a Bottle](books/Note%20from%20a%20Bottle.md) — ext-e784a2b0808e3690f569
+- [Note in Bag of Vvardenfell Silk](books/Note%20in%20Bag%20of%20Vvardenfell%20Silk.md) — ext-cdd67765c0795a23fe89
+- [Note in a Dead Man’s Hand](books/Note%20in%20a%20Dead%20Man%E2%80%99s%20Hand.md) — ext-87c1dd9a332e58431f06
+- [Note on Broken Crate](books/Note%20on%20Broken%20Crate.md) — ext-c715e9d2520f07b7bad6
+- [Note on Torn Parchment](books/Note%20on%20Torn%20Parchment.md) — ext-4c0f82927dc11bbd86b0
+- [Note to Agolas](books/Note%20to%20Agolas.md) — ext-6fa68c5bc1a141a3f2a6
+- [Note to Arathel](books/Note%20to%20Arathel.md) — ext-b7e5c67cd95df230c7fc
+- [Note to Arida](books/Note%20to%20Arida.md) — ext-ca6a268cf38c3bb1d2fd
+- [Note to Barkeep](books/Note%20to%20Barkeep.md) — ext-feb625263385377c4c95
+- [Note to Captain Henrisa](books/Note%20to%20Captain%20Henrisa.md) — ext-a6fd861d00241442bd6c
+- [Note to Cardia](books/Note%20to%20Cardia.md) — ext-e18cb8613548a1f54704
+- [Note to Cynric](books/Note%20to%20Cynric.md) — ext-18b005d67b86c0f1f304
+- [Note to Darius](books/Note%20to%20Darius.md) — ext-873f635f161ddce708ad
+- [Note to Emabeth](books/Note%20to%20Emabeth.md) — ext-fd1845e191f9f64953b2
+- [Note to Gabrielle](books/Note%20to%20Gabrielle.md) — ext-74fd9b3ae0d612f3b61c
+- [Note to Gilbard](books/Note%20to%20Gilbard.md) — ext-fca83f4eb82d7d783a6e
+- [Note to Graguz](books/Note%20to%20Graguz.md) — ext-4c75b782bfb005387e81
+- [Note to King Jorunn](books/Note%20to%20King%20Jorunn.md) — ext-649c9cb6c1326a9e5032
+- [Note to Lt. Stenric](books/Note%20to%20Lt.%20Stenric.md) — ext-e522d897d168667fe00a
+- [Note to Lucien](books/Note%20to%20Lucien.md) — ext-829a7731305c34d87f07
+- [Note to Marianas](books/Note%20to%20Marianas.md) — ext-6fe1400a706c7f46d534
+- [Note to Menthery](books/Note%20to%20Menthery.md) — ext-e06276e30f572f1b44f3
+- [Note to Nantharion](books/Note%20to%20Nantharion.md) — ext-c862b99e01837bb9cda2
+- [Note to Nathyn](books/Note%20to%20Nathyn.md) — ext-91815b2f3d4dfe967670
+- [Note to Neri](books/Note%20to%20Neri.md) — ext-b6494339a02462572d68
+- [Note to Nicolas](books/Note%20to%20Nicolas.md) — ext-e67efb3b19740b06a224
+- [Note to Nilsmon Booklover](books/Note%20to%20Nilsmon%20Booklover.md) — ext-00cb9f584156ee38d470
+- [Note to Nurese](books/Note%20to%20Nurese.md) — ext-a69916786105bf255495
+- [Note to Parsifal](books/Note%20to%20Parsifal.md) — ext-a25ab577fdfd3544e27c
+- [Note to Pellus](books/Note%20to%20Pellus.md) — ext-f07563e7dc598f42e177
+- [Note to Rilasi](books/Note%20to%20Rilasi.md) — ext-345d44d6a082b756e071
+- [Note to Rufinus](books/Note%20to%20Rufinus.md) — ext-666ec2d058104d90e270
+- [Note to Selias](books/Note%20to%20Selias.md) — ext-0d152383c321bec6dbe0
+- [Note to Sir Quatrius](books/Note%20to%20Sir%20Quatrius.md) — ext-9a48af04d9d6a47b19c0
+- [Note to Tajirri](books/Note%20to%20Tajirri.md) — ext-c324e2269238af4d7658
+- [Note to Throne Keeper Farvad](books/Note%20to%20Throne%20Keeper%20Farvad.md) — ext-5246e4d43e693c92a81f
+- [Note to Ulguna](books/Note%20to%20Ulguna.md) — ext-1e11bfe0240fa36ee62a
+- [Note to Vanus](books/Note%20to%20Vanus.md) — ext-deb7fb94514fbb798afe
+- [Note to a Scarlet](books/Note%20to%20a%20Scarlet.md) — ext-b955fc33c02507740344
+- [Notes of Lovirithel the Sage](books/Notes%20of%20Lovirithel%20the%20Sage.md) — ext-a2826cdd2b3e9bf51e87
+- [Notes on Bewan](books/Notes%20on%20Bewan.md) — ext-8ab7e489995f3ee62e74
+- [Notes on Crow Sightings](books/Notes%20on%20Crow%20Sightings.md) — ext-d056ac367729a0314a0a
+- [Notes on Exhumation](books/Notes%20on%20Exhumation.md) — ext-e28a9749c1a12209b99d
+- [Notes on Klathzgar’s Schematics](books/Notes%20on%20Klathzgar%E2%80%99s%20Schematics.md) — ext-0d5cb171f9dc29aad446
+- [Notes on Razak](books/Notes%20on%20Razak.md) — ext-d5243a5b8d9ec5cb5332
+- [Notes on Shornhelm’s Cisterns](books/Notes%20on%20Shornhelm%E2%80%99s%20Cisterns.md) — ext-78195ae31baad9b38de6
+- [Notes on the Fable of the Dragon](books/Notes%20on%20the%20Fable%20of%20the%20Dragon.md) — ext-3ed3e988cb015eeb2429
+- [Notes on the Mortuum Vivicus](books/Notes%20on%20the%20Mortuum%20Vivicus.md) — ext-046a7975c534126ff31e
+- [Notice to All Research Assistants](books/Notice%20to%20All%20Research%20Assistants.md) — ext-38052c007b62d2940da2
+- [Notice: New Working Conditions](books/Notice%20New%20Working%20Conditions.md) — ext-af1cf31ca7c6d9eb2cbb
+- [Notice: Pledge Duties](books/Notice%20Pledge%20Duties.md) — ext-34df5bc725224094248b
+- [Novice Oscard’s Notes](books/Novice%20Oscard%E2%80%99s%20Notes.md) — ext-9b04cc7996ece3b4243a
+- [O Blessed Spinners](books/O%20Blessed%20Spinners.md) — ext-e645f2997827c3819104
+- [Oath of a Dishonored Clan](books/Oath%20of%20a%20Dishonored%20Clan.md) — ext-9b702d2a6a8e33d0c745
+- [Oblan’s Letter](books/Oblan%E2%80%99s%20Letter.md) — ext-997049a40d964538c3f4
+- [Observation Note 154: Z’Maja’s Capture](books/Observation%20Note%20154%20Z%E2%80%99Maja%E2%80%99s%20Capture.md) — ext-ea3375bb2cc798cd623e
+- [Official Missive from Holgunn](books/Official%20Missive%20from%20Holgunn.md) — ext-7a48382bbe70c34106ca
+- [Ofglog’s Journal](books/Ofglog%E2%80%99s%20Journal.md) — ext-b7c7a429a8eb1ea35c8c
+- [Oiarah’s Journal](books/Oiarah%E2%80%99s%20Journal.md) — ext-1481087f62951a1496fc
+- [Old Drublog Journal](books/Old%20Drublog%20Journal.md) — ext-2d5adf8e514e9384be36
+- [Old Monk’s Diary](books/Old%20Monk%E2%80%99s%20Diary.md) — ext-8e31c5600aca70055db5
+- [Oleen’s Dowry Reminders](books/Oleen%E2%80%99s%20Dowry%20Reminders.md) — ext-1113e4a5a228b12c9c90
+- [On Activation](books/On%20Activation.md) — ext-5b22ba0af03c97b06426
+- [On Calling the Drowned Dead](books/On%20Calling%20the%20Drowned%20Dead.md) — ext-9c8e7d34498a1dafd1c7
+- [On Mirrors and Crows](books/On%20Mirrors%20and%20Crows.md) — ext-855bd9a2f62f22f54aaa
+- [On Valerianus Lentinus](books/On%20Valerianus%20Lentinus.md) — ext-8718e7ec4a3cea4ff89a
+- [On Valkynaz Nokvroz](books/On%20Valkynaz%20Nokvroz.md) — ext-fbed45fab58fa64b4749
+- [On the Chamber of Passage](books/On%20the%20Chamber%20of%20Passage.md) — ext-34bba3608da9d91bbbff
+- [On the Development of Banner Bearer](books/On%20the%20Development%20of%20Banner%20Bearer.md) — ext-df8cfa1766aea75bf18b
+- [On the Discovery of Relic Fiends](books/On%20the%20Discovery%20of%20Relic%20Fiends.md) — ext-b9af9e57aea72995b789
+- [On the Holy Symbol](books/On%20the%20Holy%20Symbol.md) — ext-2dc7c45d7197acd3a253
+- [On the Matter of the Prisoners](books/On%20the%20Matter%20of%20the%20Prisoners.md) — ext-23109b366a6bcad0e07a
+- [On the Purchase of the Alavelis Mine](books/On%20the%20Purchase%20of%20the%20Alavelis%20Mine.md) — ext-287cac80eac3a9e72638
+- [On the Spirits of the Hel Shira](books/On%20the%20Spirits%20of%20the%20Hel%20Shira.md) — ext-a65335db79928d820f36
+- [On the Trail of the Forgotten Mane](books/On%20the%20Trail%20of%20the%20Forgotten%20Mane.md) — ext-e3bc9415416eec268fb7
+- [On the Work at Alavelis](books/On%20the%20Work%20at%20Alavelis.md) — ext-fd637863f0479b0c2236
+- [Ondagore’s Journal](books/Ondagore%E2%80%99s%20Journal.md) — ext-97c711e1d5d3baf5943a
+- [Ongoing Journal of Galur Rithari](books/Ongoing%20Journal%20of%20Galur%20Rithari.md) — ext-f164618d096db3d389f6
+- [Onimiril’s Writings](books/Onimiril%E2%80%99s%20Writings.md) — ext-52d0626dea66208e1b6a
+- [Onri Murien’s Hidden Wishes](books/Onri%20Murien%E2%80%99s%20Hidden%20Wishes.md) — ext-deb27b5a9f9bacc81688
+- [Oodegu’s Journal—Keep Out!](books/Oodegu%E2%80%99s%20Journal%E2%80%94Keep%20Out%21.md) — ext-fa87b61797f459e19e6c
+- [Opening Performance Notes](books/Opening%20Performance%20Notes.md) — ext-8f032a19fd90ec7c6edb
+- [Operations Report: West Narsis Mining Concern](books/Operations%20Report%20West%20Narsis%20Mining%20Concern.md) — ext-b47ae050b81ccd9497dd
+- [Ophelia’s Journal](books/Ophelia%E2%80%99s%20Journal.md) — ext-3915aaf422cc5bca5f0e
+- [Or Else](books/Or%20Else.md) — ext-e9b9998350e52dc7a502
+- [Orchelor’s Diary](books/Orchelor%E2%80%99s%20Diary.md) — ext-1a2c7c4611e815dbd5f7
+- [Order of the Eye Dispatch](books/Order%20of%20the%20Eye%20Dispatch.md) — ext-c585a9904d3902ba2805
+- [Order of the Waking Flame Ritual](books/Order%20of%20the%20Waking%20Flame%20Ritual.md) — ext-225fbfc12df2d9744754
+- [Orders From Vicereeve Pelidil](books/Orders%20From%20Vicereeve%20Pelidil.md) — ext-38439964b79414421b1f
+- [Orders are Orders](books/Orders%20are%20Orders.md) — ext-d652096811f576b01a8b
+- [Orders for Athal](books/Orders%20for%20Athal.md) — ext-1e68a4738ea6f4597443
+- [Orders for Attius](books/Orders%20for%20Attius.md) — ext-cd8a9f7e6db22511d52b
+- [Orders for Falinir](books/Orders%20for%20Falinir.md) — ext-6d66872d859c5f5416f5
+- [Orders for Immediate Retrieval](books/Orders%20for%20Immediate%20Retrieval.md) — ext-a293691d6d66050cb0e9
+- [Orders for the Recruits](books/Orders%20for%20the%20Recruits.md) — ext-c0e16cd40629a3d88e67
+- [Orders from Commander Pyline](books/Orders%20from%20Commander%20Pyline.md) — ext-01ffb89154e0415c1804
+- [Orders from Duke Renchant](books/Orders%20from%20Duke%20Renchant.md) — ext-c112aa00762b94286939
+- [Orders from Fildgor](books/Orders%20from%20Fildgor.md) — ext-099c7551ac22a34d2565
+- [Orders from General Endare](books/Orders%20from%20General%20Endare.md) — ext-b7715b6991119b867cad
+- [Orders from Hegris](books/Orders%20from%20Hegris.md) — ext-e0b088819f980c98b12b
+- [Orders from Lady Anais](books/Orders%20from%20Lady%20Anais.md) — ext-cc60a62b94c071c305b0
+- [Orders from R](books/Orders%20from%20R.md) — ext-b4cfff17f0444b259928
+- [Orders from Regent Elska](books/Orders%20from%20Regent%20Elska.md) — ext-a2a19ddab9c2eae95fb9
+- [Orders from Sealord Nalos](books/Orders%20from%20Sealord%20Nalos.md) — ext-6923f5cfabd157aaa8ae
+- [Orders from a Knightly Order](books/Orders%20from%20a%20Knightly%20Order.md) — ext-a175e139d88f27d28823
+- [Orders from the Chief](books/Orders%20from%20the%20Chief.md) — ext-04849a85ae8a45c0423b
+- [Orders from the Lord](books/Orders%20from%20the%20Lord.md) — ext-12880203ae4b353a7590
+- [Orders of Assassination](books/Orders%20of%20Assassination.md) — ext-49207a18eba4651a4ed8
+- [Orders to Halskar](books/Orders%20to%20Halskar.md) — ext-5776ef0e90d539d7033a
+- [Orders to Kindred Rector Nyleth](books/Orders%20to%20Kindred%20Rector%20Nyleth.md) — ext-83b7e9b2be7071991d35
+- [Orders: Bearclaw Mine](books/Orders%20Bearclaw%20Mine.md) — ext-7ea38e8fea119c211d73
+- [Orders: Farangel’s Delve](books/Orders%20Farangel%E2%80%99s%20Delve.md) — ext-77f1d5eef7b6a429ebc6
+- [Orders: Norvulk Ruins](books/Orders%20Norvulk%20Ruins.md) — ext-233511b021d9f9821a1d
+- [Orders: Steelheart Moorings](books/Orders%20Steelheart%20Moorings.md) — ext-9d15c46f082584dbc560
+- [Orders: Suleck Ruins](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-81f4c521d7c40378689e/Orders%20Suleck%20Ruins.md) — ext-81f4c521d7c40378689e
+- [Orders: Suleck Ruins](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-d08275182b63cffd4571/Orders%20Suleck%20Ruins.md) — ext-d08275182b63cffd4571
+- [Organization Notes](books/Organization%20Notes.md) — ext-f412bf785b8e9b3af98a
+- [Oshgura’s Destruction Journal](books/Oshgura%E2%80%99s%20Destruction%20Journal.md) — ext-b052f5a907d237e9790d
+- [Oshgur’s Destruction Journal](books/Oshgur%E2%80%99s%20Destruction%20Journal.md) — ext-2d41cc08825dafda3435
+- [Ostarand’s Diary](books/Ostarand%E2%80%99s%20Diary.md) — ext-eac58fd299116936f29d
+- [Other Things I Hate](books/Other%20Things%20I%20Hate.md) — ext-3aaaf71063214514de3f
+- [Other Worlds Than These](books/Other%20Worlds%20Than%20These.md) — ext-d47c80c4ac8eeb936996
+- [Our Budding Alliance](books/Our%20Budding%20Alliance.md) — ext-467627745831c2c260bd
+- [Our Continued Labor](books/Our%20Continued%20Labor.md) — ext-57026be449d8acac92bb
+- [Our Dupes, the Sea Elves](books/Our%20Dupes%2C%20the%20Sea%20Elves.md) — ext-bcf520f5e51fcb0b596c
+- [Our Final Act](books/Our%20Final%20Act.md) — ext-7f34cd3c6b5dedfde53f
+- [Overdreamer Chartrand’s Orders](books/Overdreamer%20Chartrand%E2%80%99s%20Orders.md) — ext-df7c344f66bff1a78fb8
+- [Pact Recruitment](books/Pact%20Recruitment.md) — ext-100d0773b2b7dcfb807d
+- [Pact with Khajiiti Mortal Zajukki](books/Pact%20with%20Khajiiti%20Mortal%20Zajukki.md) — ext-39728ed64c7fed58e4a4
+- [Page from Mender’s Journal](books/Page%20from%20Mender%E2%80%99s%20Journal.md) — ext-0871d6441dbb7587f953
+- [Page from Sun-in-Shadow’s Journal](books/Page%20from%20Sun-in-Shadow%E2%80%99s%20Journal.md) — ext-f7fcd0b6e42bab1ca2f0
+- [Pages from Thiirril’s Diary](books/Pages%20from%20Thiirril%E2%80%99s%20Diary.md) — ext-fe03f60027a019a4a352
+- [Pale Creatures with a Taste for Flesh](books/Pale%20Creatures%20with%20a%20Taste%20for%20Flesh.md) — ext-247634edc3a5e3777815
+- [Palith Note](books/Palith%20Note.md) — ext-3abf9f69f757e3d15c9d
+- [Panicked Note](books/Panicked%20Note.md) — ext-3a3e166e5e331d0316bf
+- [Partially Burned Missive](books/Partially%20Burned%20Missive.md) — ext-c179af1e8ec6aeebfe67
+- [Partially Hidden Journal](books/Partially%20Hidden%20Journal.md) — ext-55f736b075baa9e187c3
+- [Partially Legible Letter](books/Partially%20Legible%20Letter.md) — ext-f6e3c844eef27176a960
+- [Party Theme](books/Party%20Theme.md) — ext-c1f46d6e7e79972bd2d0
+- [Passenger’s Log: Disaster at Sea](books/Passenger%E2%80%99s%20Log%20Disaster%20at%20Sea.md) — ext-88ee31d14c7f53536da1
+- [Path of the Ironclad](books/Path%20of%20the%20Ironclad.md) — ext-dbf9543e44ec0266884d
+- [Pay Up, Enak](books/Pay%20Up%2C%20Enak.md) — ext-82943ca9f8faae26b13f
+- [Pending Orders](books/Pending%20Orders.md) — ext-56cc0bb286123222248c
+- [Pentarch’s Orders](books/Pentarch%E2%80%99s%20Orders.md) — ext-490fcf4d17f9d0dc1104
+- [People I Hate](books/People%20I%20Hate.md) — ext-9b9d96f9f6f800b08fa4
+- [Perfumed Letter](books/Perfumed%20Letter.md) — ext-7fbaa7c6331b2dd8d9bd
+- [Pest Mudcrab](books/Pest%20Mudcrab.md) — ext-4a8dadc51f5d32717ae8
+- [Petition for Mining Rights](books/Petition%20for%20Mining%20Rights.md) — ext-d243522419886b6b3b24
+- [Phillip’s Note to Yasmine](books/Phillip%E2%80%99s%20Note%20to%20Yasmine.md) — ext-2f40b1e3d5a7dc73c1cb
+- [Pibiha’s Note](books/Pibiha%E2%80%99s%20Note.md) — ext-d000a66809eab63f9f49
+- [Picking up the Pieces](books/Picking%20up%20the%20Pieces.md) — ext-06a9a02d5380cae8eed4
+- [Picnic Note](books/Picnic%20Note.md) — ext-bb20ffd1c8525b551488
+- [Pilfered Poison](books/Pilfered%20Poison.md) — ext-f25f11ffc42c0f2484f0
+- [Pillagers of the Hist](books/Pillagers%20of%20the%20Hist.md) — ext-86a95bd99a9b3eb5a66b
+- [Pirate’s Treasure Message](books/Pirate%E2%80%99s%20Treasure%20Message.md) — ext-52969e0b16939b822486
+- [Plague Concoctor’s Instructions](books/Plague%20Concoctor%E2%80%99s%20Instructions.md) — ext-310883ae1a9619baf74a
+- [Plan to Escape](books/Plan%20to%20Escape.md) — ext-aa9262327a153e12027c
+- [Plea to Maximinus](books/Plea%20to%20Maximinus.md) — ext-36e7ec9654933b32eeac
+- [Please Respond, Your Beloved Aunt Daiyanni](books/Please%20Respond%2C%20Your%20Beloved%20Aunt%20Daiyanni.md) — ext-fe290be388d7b77f326e
+- [Portal Memorandum](books/Portal%20Memorandum.md) — ext-ea9e054ded906fbd18a7
+- [Prepare Some Entertainment](books/Prepare%20Some%20Entertainment.md) — ext-793d722604299f026be5
+- [Preserve the Secret](books/Preserve%20the%20Secret.md) — ext-04716cb2136bda1b2b6a
+- [Prime Sorcerer Vandorallen’s Journal](books/Prime%20Sorcerer%20Vandorallen%E2%80%99s%20Journal.md) — ext-670a029617cc34b7f035
+- [Prince Aiden’s Report](books/Prince%20Aiden%E2%80%99s%20Report.md) — ext-48aa7859380f22b13d87
+- [Prince Naemon and the Staff of Magnus](books/Prince%20Naemon%20and%20the%20Staff%20of%20Magnus.md) — ext-cdae0461cb99f4ab7cbe
+- [Princess Urenenya’s Letter](books/Princess%20Urenenya%E2%80%99s%20Letter.md) — ext-3847baee3ef4305109ff
+- [Prisoner Manifest](books/Prisoner%20Manifest.md) — ext-80ba49aa9688d394c553
+- [Prisoner Procedure](books/Prisoner%20Procedure.md) — ext-9a2d77a9d5b5315e74ee
+- [Prisoner’s Journal](books/Prisoner%E2%80%99s%20Journal.md) — ext-c8e32a97d1dd53a44ac2
+- [Private Dispatch (Secret!)](books/Private%20Dispatch%20%28Secret%21%29.md) — ext-db79ffe313c03d97c982
+- [Proctor Luciana’s Journal](books/Proctor%20Luciana%E2%80%99s%20Journal.md) — ext-99ba0d8fcb838f9f177b
+- [Progress Inquiry: Cyrodiil](books/Progress%20Inquiry%20Cyrodiil.md) — ext-ca13791aff8db45d1d88
+- [Promissory Note \[ESO\]](books/Promissory%20Note%20%5BESO%5D.md) — ext-3ede7706309fc2c40dbb
+- [Prompt Rescue is Imperative](books/Prompt%20Rescue%20is%20Imperative.md) — ext-dac57f077ad06cd2f259
+- [Proto Research Treasure Map I](books/Proto%20Research%20Treasure%20Map%20I.md) — ext-b2e9b512594fcbf7d2a5
+- [Public Notice of Promotion](books/Public%20Notice%20of%20Promotion.md) — ext-70b4c8b118aa5d4d8349
+- [Quaronaldil’s Letter](books/Quaronaldil%E2%80%99s%20Letter.md) — ext-c9cb96d167725e426675
+- [Quarry Overseer’s Complaint](books/Quarry%20Overseer%E2%80%99s%20Complaint.md) — ext-95b2e04c41b8e78a46f7
+- [Quarry Work Order](books/Quarry%20Work%20Order.md) — ext-e68f4a9b120d47df1a2a
+- [Quartermaster’s Log](books/Quartermaster%E2%80%99s%20Log.md) — ext-9d53d41b54e2f58fa65a
+- [Quartermaster’s Note](books/Quartermaster%E2%80%99s%20Note.md) — ext-b9ef04fd0f875f373362
+- [Queen Ayrenn’s Letter to the Player](books/Queen%20Ayrenn%E2%80%99s%20Letter%20to%20the%20Player.md) — ext-43da67c6864af606daf1
+- [Ralion’s Journal](books/Ralion%E2%80%99s%20Journal.md) — ext-c04dc1f35cf345c37141
+- [Ralos’s Charred Journal](books/Ralos%E2%80%99s%20Charred%20Journal.md) — ext-78e5538679e8ee404df1
+- [Rana’s Log](books/Rana%E2%80%99s%20Log.md) — ext-54d9293b8bdbd4603a51
+- [Ranger’s Correspondence](books/Ranger%E2%80%99s%20Correspondence.md) — ext-9ed1741b3728961997f2
+- [Ransom Note from Shadeya](books/Ransom%20Note%20from%20Shadeya.md) — ext-a987296b59e0bded6d07
+- [Rasaba’s Note](books/Rasaba%E2%80%99s%20Note.md) — ext-301eb613216539a93d72
+- [Rasir’s Journal](books/Rasir%E2%80%99s%20Journal.md) — ext-699c510ea0bd316e5d5f
+- [Rasir’s Journal Page](books/Rasir%E2%80%99s%20Journal%20Page.md) — ext-748a2e7add402d7a6895
+- [Rats in the Crops](books/Rats%20in%20the%20Crops.md) — ext-fdc9c1027fe409989764
+- [Raven-Hair’s Recollections](books/Raven-Hair%E2%80%99s%20Recollections.md) — ext-8f13bc9e7a9d5cfa736b
+- [Ravenwatch Research: Aesar Hatespinner](books/Ravenwatch%20Research%20Aesar%20Hatespinner.md) — ext-79002007d95c3636686d
+- [Raynor’s Bthanual Notes](books/Raynor%E2%80%99s%20Bthanual%20Notes.md) — ext-c5ae52931e54ebf9d453
+- [Raynor’s Journal: Bthanual](books/Raynor%E2%80%99s%20Journal%20Bthanual.md) — ext-5494574f0aaca5e00295
+- [Raynor’s Travel Diary](books/Raynor%E2%80%99s%20Travel%20Diary.md) — ext-7cdc189bb48fb6f1f35f
+- [Rayno’s Scorched Journal](books/Rayno%E2%80%99s%20Scorched%20Journal.md) — ext-49591e70eb5b9e55fddb
+- [Razak’s Secret Mastery](books/Razak%E2%80%99s%20Secret%20Mastery.md) — ext-3ab53ab80077d5bec047
+- [Ra’khajin’s Journal](books/Ra%E2%80%99khajin%E2%80%99s%20Journal.md) — ext-44a663d797eafcd49c6d
+- [Reachman’s Note](books/Reachman%E2%80%99s%20Note.md) — ext-47c78599074a91816ddf
+- [Reanimation Specimen Collection](books/Reanimation%20Specimen%20Collection.md) — ext-5a72654fea1219e81a38
+- [Rebel’s Faded Letter](books/Rebel%E2%80%99s%20Faded%20Letter.md) — ext-f3defe9510c9e5f60ab2
+- [Recall Orders](books/Recall%20Orders.md) — ext-9ee25c905fec61ca4cbb
+- [Receipt for Arcane Tomes](books/Receipt%20for%20Arcane%20Tomes.md) — ext-e648ac2c8bc126abc9b5
+- [Record of Taxation for Year’s End](books/Record%20of%20Taxation%20for%20Year%E2%80%99s%20End.md) — ext-e6b8be2008148a049f3f
+- [Recruiting a Ranger](books/Recruiting%20a%20Ranger.md) — ext-27b7dc74075965597a9a
+- [Red Exile Instructions](books/Red%20Exile%20Instructions.md) — ext-2a618b7c20cb2d0906ee
+- [Red Rook Orders](books/Red%20Rook%20Orders.md) — ext-8f5040f2ed518741b0c9
+- [Red Rook Orders: Cryptwatch](books/Red%20Rook%20Orders%20Cryptwatch.md) — ext-fed6eab975b84a122ffb
+- [Red Rook’s Journal](books/Red%20Rook%E2%80%99s%20Journal.md) — ext-58791bdd9b2aa2123f62
+- [Redfur Corporal’s Log](books/Redfur%20Corporal%E2%80%99s%20Log.md) — ext-89710aefb99b15f27954
+- [Redfur Journal](books/Redfur%20Journal.md) — ext-c17f975516e65f7d8b50
+- [Ree-Nakal’s Orders](books/Ree-Nakal%E2%80%99s%20Orders.md) — ext-c4747f6f8d4a3f28fb6b
+- [Reeve Nardarmor’s Private Journal](books/Reeve%20Nardarmor%E2%80%99s%20Private%20Journal.md) — ext-fde336d0a92af688c784
+- [Reezal-Jul’s Journal](books/Reezal-Jul%E2%80%99s%20Journal.md) — ext-77b5d4b227d737b87b48
+- [Regarding Our Guests](books/Regarding%20Our%20Guests.md) — ext-c90048f1e6d89c52ef20
+- [Regarding Thorn Blackstaff](books/Regarding%20Thorn%20Blackstaff.md) — ext-cef94f79fb91afc57976
+- [Regarding the Hall](books/Regarding%20the%20Hall.md) — ext-06f5a26da68f1a09ec7d
+- [Reminder](books/Reminder.md) — ext-fa19ea880fca1d5f98f9
+- [Reminders for Underweave Watchlings](books/Reminders%20for%20Underweave%20Watchlings.md) — ext-9c5d07b860c3b2743a31
+- [Remnant of Prisoner’s Journal](books/Remnant%20of%20Prisoner%E2%80%99s%20Journal.md) — ext-3d652d2e72a9c4d80123
+- [Rendarion’s Apology](books/Rendarion%E2%80%99s%20Apology.md) — ext-fa6060dcf48b404bf0ab
+- [Reply from Reezal-Jul](books/Reply%20from%20Reezal-Jul.md) — ext-e2771679bfb981c3f014
+- [Report From Captain Brivan](books/Report%20From%20Captain%20Brivan.md) — ext-05e2712f82bff8aced82
+- [Report From the Wendir Dig](books/Report%20From%20the%20Wendir%20Dig.md) — ext-040ef3a705276b85e52c
+- [Report for Bitterblade](books/Report%20for%20Bitterblade.md) — ext-481dc1ec221b1475f107
+- [Report for the Head Jailer](books/Report%20for%20the%20Head%20Jailer.md) — ext-cd0a5ebd262cbae31515
+- [Report from Markynaz Oyx](books/Report%20from%20Markynaz%20Oyx.md) — ext-655726c8529e17eb3908
+- [Report of Carisea](books/Report%20of%20Carisea.md) — ext-71df84770f82d74d1808
+- [Report on Colovian Stratagy](books/Report%20on%20Colovian%20Stratagy.md) — ext-319253d2510ed1d2b1e5
+- [Report on Dominion Activities](books/Report%20on%20Dominion%20Activities.md) — ext-5ff8f5e6781ddcb0aba6
+- [Report on Feldagard Keep](books/Report%20on%20Feldagard%20Keep.md) — ext-60d7746fc8c86afbf91f
+- [Report on Nearby Ruins](books/Report%20on%20Nearby%20Ruins.md) — ext-4a36d46be9579e2802f3
+- [Report on Operation Siphon](books/Report%20on%20Operation%20Siphon.md) — ext-87530126dd57aea2dc84
+- [Report on Training](books/Report%20on%20Training.md) — ext-c56fda2dd19786096673
+- [Report on the Dock Crash](books/Report%20on%20the%20Dock%20Crash.md) — ext-1c03fe2cb6589e03aa56
+- [Report on the Improved Reapers](books/Report%20on%20the%20Improved%20Reapers.md) — ext-9c9712eb5fd9ffdada38
+- [Report: Missing Persons](books/Report%20Missing%20Persons.md) — ext-1b0c9d96d69bcd410c8a
+- [Request Denied](books/Request%20Denied.md) — ext-7377699a8c0718ee89c3
+- [Requisition Order](books/Requisition%20Order.md) — ext-678a65c78d013fa37f21
+- [Resolutes of Stendarr Note](books/Resolutes%20of%20Stendarr%20Note.md) — ext-1bf4626da0f67d1b84b6
+- [Resources for Lukiul](books/Resources%20for%20Lukiul.md) — ext-3a570ba1de180ec412ff
+- [Respectful Greetings from Am-Shadal](books/Respectful%20Greetings%20from%20Am-Shadal.md) — ext-759887b435e15b056436
+- [Response to Vox, First Draft](books/Response%20to%20Vox%2C%20First%20Draft.md) — ext-807113f90536e334fa75
+- [Rest Gently](books/Rest%20Gently.md) — ext-5e6732bac2b664a67a24
+- [Resurrection and Revelation](books/Resurrection%20and%20Revelation.md) — ext-90097515dd3e3c582004
+- [Retching Butterflies dealing log](books/Retching%20Butterflies%20dealing%20log.md) — ext-9a48ca848185eb7e976e
+- [Retreat!](books/Retreat%21.md) — ext-db7ed9b3971a20bcf45d
+- [Reward for Missing Mortals](books/Reward%20for%20Missing%20Mortals.md) — ext-22928c89d424e8ea064e
+- [Reynila’s Journal](books/Reynila%E2%80%99s%20Journal.md) — ext-e74a422622473b079a04
+- [Rhadh’s Instructions](books/Rhadh%E2%80%99s%20Instructions.md) — ext-9c26f7923e4c15164026
+- [Rhanbiq’s Notes](books/Rhanbiq%E2%80%99s%20Notes.md) — ext-383c30dc70e669c47d50
+- [Rhanbiq’s Orders: Fulstrom Homestead](books/Rhanbiq%E2%80%99s%20Orders%20Fulstrom%20Homestead.md) — ext-f4cdab55a4b5bee18f60
+- [Rhanbiq’s Orders: No Shira Prison](books/Rhanbiq%E2%80%99s%20Orders%20No%20Shira%20Prison.md) — ext-5b8ab7d7f4522b759142
+- [Rhanbiq’s Orders: al-Danobia Tomb](books/Rhanbiq%E2%80%99s%20Orders%20al-Danobia%20Tomb.md) — ext-d74db4084dc3ad456a5f
+- [Ridena’s Letter to Drovos](books/Ridena%E2%80%99s%20Letter%20to%20Drovos.md) — ext-b3270b121f4a865f7267
+- [Rigurt’s Journal](books/Rigurt%E2%80%99s%20Journal.md) — ext-b51664b9ca6d3b6c9398
+- [Rilyn’s Journal](books/Rilyn%E2%80%99s%20Journal.md) — ext-3beee4d1e7999b9a1a17
+- [Rinyde’s Journal](books/Rinyde%E2%80%99s%20Journal.md) — ext-4afe674fb166ddb3b292
+- [Ripped and Discarded Page](books/Ripped%20and%20Discarded%20Page.md) — ext-81b0fcf5cb6f5cc00713
+- [Risa’s Journal](books/Risa%E2%80%99s%20Journal.md) — ext-8e5c80b7a5ce93178607
+- [Rituals of Contempt](books/Rituals%20of%20Contempt.md) — ext-2c5c56ccf94412cf9127
+- [River Trolls Exterminator?](books/River%20Trolls%20Exterminator.md) — ext-45aaee3506dbe0e4a6c1
+- [Rkindaleft’s Council of Chiefs](books/Rkindaleft%E2%80%99s%20Council%20of%20Chiefs.md) — ext-8c01708c5779b7a62f6f
+- [Robhir’s Letter](books/Robhir%E2%80%99s%20Letter.md) — ext-eaebfdc7ad726468f712
+- [Rogue Elements](books/Rogue%20Elements.md) — ext-c4fd8d2be6a1554c87e9
+- [Rolea’s Journal](books/Rolea%E2%80%99s%20Journal.md) — ext-c9d9bb5ddba79d893193
+- [Roots of Silvenar](books/Roots%20of%20Silvenar.md) — ext-5114593e0dd9c12173d5
+- [Rosalind’s Orders](books/Rosalind%E2%80%99s%20Orders.md) — ext-3c14bdd5064a60b2a897
+- [Rothondothrin’s Journal](books/Rothondothrin%E2%80%99s%20Journal.md) — ext-a18376af5a9358d9d813
+- [Rotten Bread and Spoiled Meat](books/Rotten%20Bread%20and%20Spoiled%20Meat.md) — ext-80f0e2d1910bd97e82fe
+- [Rotting Journal](books/Rotting%20Journal.md) — ext-0b2d3d0f0612dcc58941
+- [Royal Decree](books/Royal%20Decree.md) — ext-f8bda2031c742d2fde90
+- [Royal Messenger’s Fate](books/Royal%20Messenger%E2%80%99s%20Fate.md) — ext-4689baaae6d8fdc18285
+- [Ruined Watchmaster’s Journal](books/Ruined%20Watchmaster%E2%80%99s%20Journal.md) — ext-461410c23ed2bdfe9b43
+- [Rulantaril’s Notes](books/Rulantaril%E2%80%99s%20Notes.md) — ext-4cbd2dbee40a20e1ab94
+- [Rultari’s Journal](books/Rultari%E2%80%99s%20Journal.md) — ext-6699f7eef9abeba47002
+- [Ruminations by Guard Kleo](books/Ruminations%20by%20Guard%20Kleo.md) — ext-c70531a09ebf6231ffa3
+- [Ruurifin’s Journal, Entry 1](books/Ruurifin%E2%80%99s%20Journal%2C%20Entry%201.md) — ext-be85837daa121d54a210
+- [Ruuvitar’s Journal](books/Ruuvitar%E2%80%99s%20Journal.md) — ext-a2bc2ad8dcc62228d878
+- [Sagabar’s Orders](books/Sagabar%E2%80%99s%20Orders.md) — ext-b360b26ea90992bec686
+- [Sahmazim’s Journal](books/Sahmazim%E2%80%99s%20Journal.md) — ext-441e2f850b95047b6f3d
+- [Sailing Orders](books/Sailing%20Orders.md) — ext-67b9decec052e3fc0597
+- [Salvager’s Torn Journal](books/Salvager%E2%80%99s%20Torn%20Journal.md) — ext-f462ec048d7ce9508ed2
+- [Salvitto’s Invitation](books/Salvitto%E2%80%99s%20Invitation.md) — ext-f6475291f27bc01b35a6
+- [Sanavar’s Research Notes](books/Sanavar%E2%80%99s%20Research%20Notes.md) — ext-2525843881cd215d53da
+- [Sanctuary: Final Assessment](books/Sanctuary%20Final%20Assessment.md) — ext-21375924a5fcb3f5134d
+- [Sanctuary: Weapons Report](books/Sanctuary%20Weapons%20Report.md) — ext-e7541bdfd1ec6c4f40c3
+- [Sanguine’s Revelers Note](books/Sanguine%E2%80%99s%20Revelers%20Note.md) — ext-582fa1b3402b42df688c
+- [Sapiarch’s Recommendation](books/Sapiarch%E2%80%99s%20Recommendation.md) — ext-cc5eda30292a817aac5f
+- [Saradin’s Diary](books/Saradin%E2%80%99s%20Diary.md) — ext-315dfe6107f3112d36a8
+- [Sardok’s Bloodthorn Report](books/Sardok%E2%80%99s%20Bloodthorn%20Report.md) — ext-0d44d81d6924b6036b4f
+- [Saroldo’s Greatest Treasure](books/Saroldo%E2%80%99s%20Greatest%20Treasure.md) — ext-5b2f58efed3993f90d67
+- [Save My Precious](books/Save%20My%20Precious.md) — ext-af24e9f6dc92ce5dce34
+- [Scaled Court Communique](books/Scaled%20Court%20Communique.md) — ext-81bbc403acb6f49cd6f0
+- [Scamp Eyes Hurt](books/Scamp%20Eyes%20Hurt.md) — ext-562fcdbedc67d6da54b1
+- [Scent-Of-Graves’ Report](books/Scent-Of-Graves%E2%80%99%20Report.md) — ext-0b4416bf2ae08fd05347
+- [Scholar Garrique’s Journal](books/Scholar%20Garrique%E2%80%99s%20Journal.md) — ext-f9b07c98e3a2b433ed8a
+- [Scout Meera’s Report](books/Scout%20Meera%E2%80%99s%20Report.md) — ext-c4119011a03706b69e06
+- [Scout Report: Arx Corinium](books/Scout%20Report%20Arx%20Corinium.md) — ext-ac4159f9596bce9db295
+- [Scouting Report for Sergeant Abradun](books/Scouting%20Report%20for%20Sergeant%20Abradun.md) — ext-1c44e3e6fab99fcddc56
+- [Scouting Report for Sergeant Belrud](books/Scouting%20Report%20for%20Sergeant%20Belrud.md) — ext-fbd4bf09e14487ebd152
+- [Scouting Report for Sergeant Shaghila](books/Scouting%20Report%20for%20Sergeant%20Shaghila.md) — ext-2e3c560e5151828e1951
+- [Scouting Report on Gristmung Hold](books/Scouting%20Report%20on%20Gristmung%20Hold.md) — ext-688546a6875238f80744
+- [Scouting Report on Soul Flayers](books/Scouting%20Report%20on%20Soul%20Flayers.md) — ext-0cb0f4a347985850d397
+- [Scouting Report on Worm Cult Activity](books/Scouting%20Report%20on%20Worm%20Cult%20Activity.md) — ext-260a3c58ce09bd5d0794
+- [Scouting Report: Deadhollow Halls](books/Scouting%20Report%20Deadhollow%20Halls.md) — ext-f32b8d1d16a7eeec609f
+- [Scouting Report: Northeast Solstice](books/Scouting%20Report%20Northeast%20Solstice.md) — ext-639406f7cb5208b722a4
+- [Scouting Report: The Hideaway](books/Scouting%20Report%20The%20Hideaway.md) — ext-77e871790fb6158827d9
+- [Scouting Report: Underground Sepulcher](books/Scouting%20Report%20Underground%20Sepulcher.md) — ext-4f84f10048a88522ccf0
+- [Scrap of Adubaer’s Journal](books/Scrap%20of%20Adubaer%E2%80%99s%20Journal.md) — ext-bed26287176847f452e7
+- [Scrap of Paper \[ESO\]](books/Scrap%20of%20Paper%20%5BESO%5D.md) — ext-8d58e40a6fac7f3c2826
+- [Scrap of Storgh’s Journal](books/Scrap%20of%20Storgh%E2%80%99s%20Journal.md) — ext-2275b02d949e733a04a5
+- [Scraper’s Journal](books/Scraper%E2%80%99s%20Journal.md) — ext-3b616ac38c9c26417287
+- [Scrawled Ceythalmor Orders](books/Scrawled%20Ceythalmor%20Orders.md) — ext-202ab91567d697f217f8
+- [Scrawled Note \[Damar Farmstead\]](books/Scrawled%20Note%20%5BDamar%20Farmstead%5D.md) — ext-a1abc41a5401759289ed
+- [Scribbled Note](books/Scribbled%20Note.md) — ext-1b69b1217dbceb634772
+- [Scribbled Notes of the Reveler](books/Scribbled%20Notes%20of%20the%20Reveler.md) — ext-0e609c7be01782da591b
+- [Scribes of Mephala](books/Scribes%20of%20Mephala.md) — ext-e151f1c85a6615bd03cd
+- [Scroll of Banishment](books/Scroll%20of%20Banishment.md) — ext-72708197b419dcfeb92a
+- [Scutwork and Drudgery](books/Scutwork%20and%20Drudgery.md) — ext-a3897b0ae5164bac5ba6
+- [Sea Amri Shipping Manifest](books/Sea%20Amri%20Shipping%20Manifest.md) — ext-88303666cf70a152a31f
+- [Sealed Letter](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-6fa161e58fa82c2122f9/Sealed%20Letter.md) — ext-6fa161e58fa82c2122f9
+- [Sealed Letter](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-b5f56b2c5c85ee94f480/Sealed%20Letter.md) — ext-b5f56b2c5c85ee94f480
+- [Sealed Orders (opened)](books/Sealed%20Orders%20%28opened%29.md) — ext-974e06314f200f916bc1
+- [Search Instructions](books/Search%20Instructions.md) — ext-371240e0e4b6021fb6cc
+- [Second Cohort Orders](books/Second%20Cohort%20Orders.md) — ext-2f260c080aa0af4aba15
+- [Second Invasion: Reports](books/Second%20Invasion%20Reports.md) — ext-1c21f98fd8edd1028f95
+- [Second Khajiiti Journal Page](books/Second%20Khajiiti%20Journal%20Page.md) — ext-d4fa61f8af798a80d687
+- [Second Scrap of Adubaer’s Journal](books/Second%20Scrap%20of%20Adubaer%E2%80%99s%20Journal.md) — ext-69714e897eb8ea3a2445
+- [Secret of the Tormenting Eye](books/Secret%20of%20the%20Tormenting%20Eye.md) — ext-0c0c2038d6db3c45af14
+- [Secure Old Tower](books/Secure%20Old%20Tower.md) — ext-1df0717160b23dd5f44f
+- [Seeker Manadra’s Expedition](books/Seeker%20Manadra%E2%80%99s%20Expedition.md) — ext-b74f58dd33cb367af07b
+- [Seekxilts’ Journal](books/Seekxilts%E2%80%99%20Journal.md) — ext-3f41957fbd5ba8790e25
+- [Sees-All-Colors’ Journal](books/Sees-All-Colors%E2%80%99%20Journal.md) — ext-75828a950e38962069e4
+- [Selene’s Letter](books/Selene%E2%80%99s%20Letter.md) — ext-240d1811bccbc38e8d3b
+- [Selenwe’s Journal](books/Selenwe%E2%80%99s%20Journal.md) — ext-2feb62b0aea3d410e6f2
+- [Senan’s Note](books/Senan%E2%80%99s%20Note.md) — ext-f38c9c1e119a45966131
+- [Serien’s Additional Orders](books/Serien%E2%80%99s%20Additional%20Orders.md) — ext-33212138cfe6ea9a943f
+- [Serien’s Further Orders](books/Serien%E2%80%99s%20Further%20Orders.md) — ext-974ecd03b3def4587041
+- [Serpent Hollow Observations](books/Serpent%20Hollow%20Observations.md) — ext-07f861f1df587873f15a
+- [Set List](books/Set%20List.md) — ext-6e5659aae4c1fa952e51
+- [Seythen’s Journal Page](books/Seythen%E2%80%99s%20Journal%20Page.md) — ext-c75c3a0a697a73a664b6
+- [Shadowscale’s Journal](books/Shadowscale%E2%80%99s%20Journal.md) — ext-65f9dbe59993d9f4d0e5
+- [Shagora’s Journal](books/Shagora%E2%80%99s%20Journal.md) — ext-fcf87fa96288eec21453
+- [Shakra’s Letter](books/Shakra%E2%80%99s%20Letter.md) — ext-a1ae8b7714808788f61c
+- [Shalan’s Note](books/Shalan%E2%80%99s%20Note.md) — ext-a0ac0949f0c8e24966f3
+- [Shaman Moramat’s Orders](books/Shaman%20Moramat%E2%80%99s%20Orders.md) — ext-f22629907c403e4d769e
+- [Sharfum’s Letter](books/Sharfum%E2%80%99s%20Letter.md) — ext-6d88ca0ae6952f289a04
+- [Shazah’s Diary](books/Shazah%E2%80%99s%20Diary.md) — ext-f4bed4bba2abd355e403
+- [She Dared Me](books/She%20Dared%20Me.md) — ext-1c78270af6eda32acbb2
+- [Shipment Manifest](books/Shipment%20Manifest.md) — ext-4e8ba2fff2fe49521943
+- [Shomae’s Journal](books/Shomae%E2%80%99s%20Journal.md) — ext-4c18f40d169bc7fe520e
+- [Short Note](books/Short%20Note.md) — ext-7639618521d2dc3bbe78
+- [Show Us Your Worth](books/Show%20Us%20Your%20Worth.md) — ext-c57097dd912ff4b1e021
+- [Shrine Scavenging Journal](books/Shrine%20Scavenging%20Journal.md) — ext-ff1db2393c3ea233e0fd
+- [Shul’s Letter](books/Shul%E2%80%99s%20Letter.md) — ext-7e55f0a4e032dd4d5dfa
+- [Signal Tower Orders](books/Signal%20Tower%20Orders.md) — ext-84471f2a2919d0084b18
+- [Siluran’s Journal](books/Siluran%E2%80%99s%20Journal.md) — ext-8a46913ebe9529a0bba2
+- [Silver Dawn Contract](books/Silver%20Dawn%20Contract.md) — ext-0c5e44d3b346518b38df
+- [Silver-Claw’s Ledger](books/Silver-Claw%E2%80%99s%20Ledger.md) — ext-cca8a6578fd0fb93d401
+- [Silverslip’s Journal](books/Silverslip%E2%80%99s%20Journal.md) — ext-c5c35d402c896955b857
+- [Singed Lady G Note](books/Singed%20Lady%20G%20Note.md) — ext-988dab02d45fbfb658a4
+- [Sir Edmund’s Letter](books/Sir%20Edmund%E2%80%99s%20Letter.md) — ext-4cfcd6ae375c85637912
+- [Sir Hughes’ Journal](books/Sir%20Hughes%E2%80%99%20Journal.md) — ext-21f68ea06d22d2770fd9
+- [Sirdor’s Journal](books/Sirdor%E2%80%99s%20Journal.md) — ext-5db165d1e5428df20e10
+- [Sister Celdina’s Orders](books/Sister%20Celdina%E2%80%99s%20Orders.md) — ext-71cbdffbf0f5536b2d12
+- [Situation Becoming Urgent](books/Situation%20Becoming%20Urgent.md) — ext-50f67227e65d4bcc0469
+- [Skalg’s Journal](books/Skalg%E2%80%99s%20Journal.md) — ext-231b910b489f649ded63
+- [Skeevers](books/Skeevers.md) — ext-824d988265f5a3e51738
+- [Skin-Stealers in Shadowfen](books/Skin-Stealers%20in%20Shadowfen.md) — ext-694e2143d271c31ed201
+- [Skooma Runner Logs](books/Skooma%20Runner%20Logs.md) — ext-e8b57e6214f4a7c5d556
+- [Skorkhif’s Conundrum](books/Skorkhif%E2%80%99s%20Conundrum.md) — ext-beb88cefc2480a625187
+- [Skuldafn Orders](books/Skuldafn%20Orders.md) — ext-d389a4cab1ed4aba4fb6
+- [Skyshard in Sight!](books/Skyshard%20in%20Sight%21.md) — ext-5fa104d2046ead9fd15b
+- [Skywatch Guard Report](books/Skywatch%20Guard%20Report.md) — ext-19b26292c5d99b4daa78
+- [Slashed and Blood-Stained Note](books/Slashed%20and%20Blood-Stained%20Note.md) — ext-a315430bd7ea0424bdfd
+- [Slave’s Diary](books/Slave%E2%80%99s%20Diary.md) — ext-6005ff5e5e804fb047b1
+- [Slayer’s Note](books/Slayer%E2%80%99s%20Note.md) — ext-2bb0d425eceff14adcbb
+- [Smuggler’s Note \[Crypts\]](books/Smuggler%E2%80%99s%20Note%20%5BCrypts%5D.md) — ext-7e52ec638de72efc490e
+- [Smuggler’s Note \[Eggs\]](books/Smuggler%E2%80%99s%20Note%20%5BEggs%5D.md) — ext-8054dc76310fcd0aadce
+- [Smuggler’s Note \[Veiled Queen\]](books/Smuggler%E2%80%99s%20Note%20%5BVeiled%20Queen%5D.md) — ext-f0ca217b1120d29c8b88
+- [Snapdragon’s Research Journal](books/Snapdragon%E2%80%99s%20Research%20Journal.md) — ext-3ebdc4a7eaa2e95d28d6
+- [Snapdragon’s Revealed Notes](books/Snapdragon%E2%80%99s%20Revealed%20Notes.md) — ext-3ae626a68a776714912d
+- [Snorfin’s Notes: Arkngthunch-Sturdumz](books/Snorfin%E2%80%99s%20Notes%20Arkngthunch-Sturdumz.md) — ext-c3fcba0a03131a820a2e
+- [Snowmead’s Missive](books/Snowmead%E2%80%99s%20Missive.md) — ext-f63a5bb1e2650fc9795a
+- [Snushularg’s Promise](books/Snushularg%E2%80%99s%20Promise.md) — ext-c380d3cbb3fae332f652
+- [So Much Wasted Potential](books/So%20Much%20Wasted%20Potential.md) — ext-e41085b894d5e181e37f
+- [Soggy Note](books/Soggy%20Note.md) — ext-91e49ab526b5242bc5d4
+- [Solitude: A Charred Journal](books/Solitude%20A%20Charred%20Journal.md) — ext-9282ca3d53ce7be53b50
+- [Someday It’ll Be Just You](books/Someday%20It%E2%80%99ll%20Be%20Just%20You.md) — ext-ca6fda0f9d063be70770
+- [Sondivel’s Journal](books/Sondivel%E2%80%99s%20Journal.md) — ext-92f517a3fd6742cab0c6
+- [Sophus’s Sealed Scroll](books/Sophus%E2%80%99s%20Sealed%20Scroll.md) — ext-56277828a768ef073884
+- [Soul Flayer Perimeter Plan](books/Soul%20Flayer%20Perimeter%20Plan.md) — ext-c64ec8861d515e9b38e7
+- [Southern Elsweyr Needs You!](books/Southern%20Elsweyr%20Needs%20You%21.md) — ext-7ca8b713c036873e50cc
+- [Special Advisors](books/Special%20Advisors.md) — ext-ae12d0ef71653c8037d1
+- [Spectral Assassins](books/Spectral%20Assassins.md) — ext-3626c33056d1e4db4475
+- [Speech Notes](books/Speech%20Notes.md) — ext-96e30386079de47ad789
+- [Spellwright’s Notes](books/Spellwright%E2%80%99s%20Notes.md) — ext-7c5573b620dbda0381c5
+- [Sphinxmoth Bandit Leader’s Notes](books/Sphinxmoth%20Bandit%20Leader%E2%80%99s%20Notes.md) — ext-e06c9ffae078171c9a34
+- [Spotted a Cave](books/Spotted%20a%20Cave.md) — ext-c3f2c0a7f96b3f69e2bc
+- [Spymaster Ramorgol’s Orders](books/Spymaster%20Ramorgol%E2%80%99s%20Orders.md) — ext-6d116623edd23ca9fbdd
+- [Star-Gazer Merith’s Journal](books/Star-Gazer%20Merith%E2%80%99s%20Journal.md) — ext-8d6ff38e379494f949e1
+- [Statuary Complications](books/Statuary%20Complications.md) — ext-4722a679f1af13858fdc
+- [Stay Far from the Roots](books/Stay%20Far%20from%20the%20Roots.md) — ext-53380f862a36b82cf652
+- [Stealing the Stars](books/Stealing%20the%20Stars.md) — ext-dc21c42611ed22443a00
+- [Stibbons’ Qharroa Checklist](books/Stibbons%E2%80%99%20Qharroa%20Checklist.md) — ext-9684e4de568322817477
+- [Stibbons’s To-Do List](books/Stibbons%E2%80%99s%20To-Do%20List.md) — ext-6d0ff80ae37730867a11
+- [Still-Water’s Journal](books/Still-Water%E2%80%99s%20Journal.md) — ext-b8ca8295682a85266cac
+- [Stitching Flesh](books/Stitching%20Flesh.md) — ext-85b5c2afd77e717eb90d
+- [Stonefire Ritual Tome](books/Stonefire%20Ritual%20Tome.md) — ext-d0d9af85dc6b494d9492
+- [Storm Coming In](books/Storm%20Coming%20In.md) — ext-f32da48a31d82902a812
+- [Storm Getting Closer](books/Storm%20Getting%20Closer.md) — ext-8dd902fc39e04cd05e6d
+- [Stormfist Scout Orders](books/Stormfist%20Scout%20Orders.md) — ext-58cd303446f0810d4eb1
+- [Stormhaven Bluster Rejection Notice](books/Stormhaven%20Bluster%20Rejection%20Notice.md) — ext-ac4902012058cce0e137
+- [Stormreeve Neidir’s Orders](books/Stormreeve%20Neidir%E2%80%99s%20Orders.md) — ext-9f6fa05801f4c143a9d3
+- [Strange Rambling Notes](books/Strange%20Rambling%20Notes.md) — ext-b8c0af6834313833201d
+- [Sul-Xan Note](books/Sul-Xan%20Note.md) — ext-b5a79b9f9aa8e701a18d
+- [Sul-Xan Ritual Site](books/Sul-Xan%20Ritual%20Site.md) — ext-726d273941120cda5122
+- [Summons of the Inquisition](books/Summons%20of%20the%20Inquisition.md) — ext-b3d9e43fe3b5d21a9c1c
+- [Summons to Deadlight](books/Summons%20to%20Deadlight.md) — ext-faf76192a6121c490fae
+- [Summons to the Remnant](books/Summons%20to%20the%20Remnant.md) — ext-6fe7153e385647f077a1
+- [Sun-in-Shadow’s To Do List](books/Sun-in-Shadow%E2%80%99s%20To%20Do%20List.md) — ext-1ef599dc0319cd95e2d5
+- [Supplementary Orders](books/Supplementary%20Orders.md) — ext-7f8d10ded6dc8ada5ba9
+- [Supplies and Sundries](books/Supplies%20and%20Sundries.md) — ext-510da716af6df9861f8e
+- [Supplies for the Delve](books/Supplies%20for%20the%20Delve.md) — ext-63c190128428ac1b2015
+- [Supply Request: Stronger Sleep Potions](books/Supply%20Request%20Stronger%20Sleep%20Potions.md) — ext-bd255d07078668ba2e2c
+- [Suril’s Journal](books/Suril%E2%80%99s%20Journal.md) — ext-f61591043a5e61fbc9f9
+- [Survey of the Alavelis Mine](books/Survey%20of%20the%20Alavelis%20Mine.md) — ext-82d0f36a5e4667503012
+- [Survivor’s Guilt](books/Survivor%E2%80%99s%20Guilt.md) — ext-213450fe29a981d308ba
+- [Susceptibility to Corruption](books/Susceptibility%20to%20Corruption.md) — ext-ea47a5bbd576d7b9b097
+- [Suspicious Message](books/Suspicious%20Message.md) — ext-d95681cdfd01d9991934
+- [Sweetness in the Air](books/Sweetness%20in%20the%20Air.md) — ext-15c7ac166cc4fae825e5
+- [Tahnisa’s Journal](books/Tahnisa%E2%80%99s%20Journal.md) — ext-9361dcec3257b392cbf1
+- [Tainted Egg Mine Report](books/Tainted%20Egg%20Mine%20Report.md) — ext-e9afeaa5c985301c7be2
+- [Tajirri’s Journal](books/Tajirri%E2%80%99s%20Journal.md) — ext-bc159358602960cf1e88
+- [Tajirri’s Note](books/Tajirri%E2%80%99s%20Note.md) — ext-cd120125eec0cd78946c
+- [Taking Tolls!](books/Taking%20Tolls%21.md) — ext-6ec07a9f4b48c13c05cd
+- [Talvini Radus’ Last Wish](books/Talvini%20Radus%E2%80%99%20Last%20Wish.md) — ext-93f1c4bf8603a0ec7ec5
+- [Tancano the Elder’s Journal](books/Tancano%20the%20Elder%E2%80%99s%20Journal.md) — ext-52450b212d79baea9808
+- [Tancano’s Journal](books/Tancano%E2%80%99s%20Journal.md) — ext-b0711a94e0fa7552b689
+- [Tanval’s Directive](books/Tanval%E2%80%99s%20Directive.md) — ext-4493999b8f520544a5bb
+- [Targa’s Note](books/Targa%E2%80%99s%20Note.md) — ext-b6c40680f9f66b4604ee
+- [Tarnur Mine Report](books/Tarnur%20Mine%20Report.md) — ext-19ad7b98168c41638edd
+- [Tattered Journal \[Imperial City\]](books/Tattered%20Journal%20%5BImperial%20City%5D.md) — ext-fa9b69b38cb829c9297e
+- [Tattered Letter](books/Tattered%20Letter.md) — ext-653e1871874269e45eb0
+- [Tattered Note \[Elita’s Folly\]](books/Tattered%20Note%20%5BElita%E2%80%99s%20Folly%5D.md) — ext-8d97d546f7fad3799cf1
+- [Tattered Note \[Zendrinn\]](books/Tattered%20Note%20%5BZendrinn%5D.md) — ext-c855bf5e86f74ed68410
+- [Tattered Trader’s Log](books/Tattered%20Trader%E2%80%99s%20Log.md) — ext-b3bbb9ee22268bb60abd
+- [Tattered, faded scrap](books/Tattered%2C%20faded%20scrap.md) — ext-d64fd22a209ef89ef224
+- [Tel Fyr, Additional Specifications](books/Tel%20Fyr%2C%20Additional%20Specifications.md) — ext-1f33a17d79a6ce181e7d
+- [Teldur’s Journal](books/Teldur%E2%80%99s%20Journal.md) — ext-e123d0c3e1fd09a04115
+- [Telofasa’s Diary](books/Telofasa%E2%80%99s%20Diary.md) — ext-b7efdd3d23c173c28ce3
+- [Telvanni Journal](books/Telvanni%20Journal.md) — ext-f71bc2e813f40b002ed2
+- [Telvanni Requirements](books/Telvanni%20Requirements.md) — ext-b0b4a8411699a3752104
+- [Tempest Island Briefing](books/Tempest%20Island%20Briefing.md) — ext-3bf599e2a527973394bd
+- [Tenarei’s Contract](books/Tenarei%E2%80%99s%20Contract.md) — ext-b81676ca5b6eb529ee9d
+- [Terari’s Notes](books/Terari%E2%80%99s%20Notes.md) — ext-c51fd0c55d2c5d57ac22
+- [Terinvel’s Lost Note](books/Terinvel%E2%80%99s%20Lost%20Note.md) — ext-8cac0089c0325b10bf26
+- [Terinvel’s Notebook](books/Terinvel%E2%80%99s%20Notebook.md) — ext-845da80adcaf99b53d27
+- [Terror of the Death Hopper](books/Terror%20of%20the%20Death%20Hopper.md) — ext-de120f15191580a2c800
+- [Testament of Dandera Helas](books/Testament%20of%20Dandera%20Helas.md) — ext-96101c0f3020b2b996f0
+- [Thadriax’s Instructions](books/Thadriax%E2%80%99s%20Instructions.md) — ext-1fa399ab7bf138997d1b
+- [Thallik’s Orders](books/Thallik%E2%80%99s%20Orders.md) — ext-00672e042a24b1761919
+- [Tham’s Note](books/Tham%E2%80%99s%20Note.md) — ext-bf7022b2bcbea4478585
+- [Thank You for Your Patience](books/Thank%20You%20for%20Your%20Patience.md) — ext-fd4c45fbf4fdea11ed63
+- [Tharayya’s Journal](books/Tharayya%E2%80%99s%20Journal.md) — ext-29b4605dbc44ffd2fa9a
+- [The Amplification Crystals](books/The%20Amplification%20Crystals.md) — ext-11eb7cd6f5511a116f48
+- [The Arena!](books/The%20Arena%21.md) — ext-37e2bb7fe71724b31f13
+- [The Artisan’s Letters](books/The%20Artisan%E2%80%99s%20Letters.md) — ext-74bb59ebe3d1ecc4c289
+- [The Ascendant Magus’s Commission](books/The%20Ascendant%20Magus%E2%80%99s%20Commission.md) — ext-47d3c511edfc872ae1fb
+- [The Astronomer’s Power](books/The%20Astronomer%E2%80%99s%20Power.md) — ext-cfbd5fc5c45870042027
+- [The Benefits of Alliance](books/The%20Benefits%20of%20Alliance.md) — ext-9a132f003cc027cafaed
+- [The Bird Totem](books/The%20Bird%20Totem.md) — ext-b5ff66b4db795fac5700
+- [The Black Dragon](books/The%20Black%20Dragon.md) — ext-51e3c7105bb7b6c083ba
+- [The Black Dragon’s Journal](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-2e63fd3103ace38e22ea/The%20Black%20Dragon%E2%80%99s%20Journal.md) — ext-2e63fd3103ace38e22ea
+- [The Black Dragon’s Journal](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-aa25d50f0ca108d0d43c/The%20Black%20Dragon%E2%80%99s%20Journal.md) — ext-aa25d50f0ca108d0d43c
+- [The Blessings of Jone and Jode](books/The%20Blessings%20of%20Jone%20and%20Jode.md) — ext-4e5ac70271fe69c0f48a
+- [The Book of No-Name](books/The%20Book%20of%20No-Name.md) — ext-2825ee4678624bca6daa
+- [The Bounty and the Shields](books/The%20Bounty%20and%20the%20Shields.md) — ext-f9abbb33eb93ea3f2bbd
+- [The Danger of Defiance](books/The%20Danger%20of%20Defiance.md) — ext-39ab127a637ea5a767e4
+- [The Day of Remembering](books/The%20Day%20of%20Remembering.md) — ext-6fdf0a67bf79bebd8cfd
+- [The Duchess of Anguish](books/The%20Duchess%20of%20Anguish.md) — ext-bb50f47e75037062c8f6
+- [The Empty Room](books/The%20Empty%20Room.md) — ext-d957aa4ed1bb8ca8446f
+- [The Experiment](books/The%20Experiment.md) — ext-1a716b518736101fedc4
+- [The Faceless](books/The%20Faceless.md) — ext-0f0a10353e13b2d7e75a
+- [The Falconer’s Log](books/The%20Falconer%E2%80%99s%20Log.md) — ext-c38c9eb848fc0bfb3d98
+- [The Fires Guide the Way](books/The%20Fires%20Guide%20the%20Way.md) — ext-fb29c6e5d1c0d5b51b39
+- [The Fires of Truth](books/The%20Fires%20of%20Truth.md) — ext-9f7776b496ca7e6db680
+- [The First Day](books/The%20First%20Day.md) — ext-fd2145e29c57c9f2f702
+- [The First Gleaner](books/The%20First%20Gleaner.md) — ext-3e781aef79a9d5946023
+- [The First of the Letters](books/The%20First%20of%20the%20Letters.md) — ext-ba63d906784b5b8b46d7
+- [The Font Aequiius](books/The%20Font%20Aequiius.md) — ext-67e975ac90d9b54e9d04
+- [The Founding of Bloodtoil](books/The%20Founding%20of%20Bloodtoil.md) — ext-7a274f41b4040a02e72a
+- [The Gift of Arson](books/The%20Gift%20of%20Arson.md) — ext-564051741dbcfa661098
+- [The Grand Sermonizer’s Journal](books/The%20Grand%20Sermonizer%E2%80%99s%20Journal.md) — ext-93bc3b0b433eeadca57a
+- [The Grandeya is in Custody](books/The%20Grandeya%20is%20in%20Custody.md) — ext-19eac37742584fff06c1
+- [The Great Stain](books/The%20Great%20Stain.md) — ext-2b0099fda4c42ff90a73
+- [The Guise of Woodcutter](books/The%20Guise%20of%20Woodcutter.md) — ext-3e5d68f8fb79d971822a
+- [The Handfast Song List](books/The%20Handfast%20Song%20List.md) — ext-3604806267f4fa3a395c
+- [The Hedge Maze](books/The%20Hedge%20Maze.md) — ext-fc02277c811179f1e032
+- [The Hidden Key](books/The%20Hidden%20Key.md) — ext-b00e22bd1004ee2e80b3
+- [The Hidden Trials](books/The%20Hidden%20Trials.md) — ext-0c97006da8cc13af8313
+- [The History of Yawning and Proper Technique](books/The%20History%20of%20Yawning%20and%20Proper%20Technique.md) — ext-918d4abbeffaa1ee8972
+- [The Hoarvor Pit](books/The%20Hoarvor%20Pit.md) — ext-5c7c85a94f493568de51
+- [The Holy Vessel](books/The%20Holy%20Vessel.md) — ext-367a913cf2bbc3987934
+- [The Illustrious Azashig’s Letter](books/The%20Illustrious%20Azashig%E2%80%99s%20Letter.md) — ext-4582d5361e88a51c95e2
+- [The Impresario’s Catalogue](books/The%20Impresario%E2%80%99s%20Catalogue.md) — ext-3886ee258ba9b34ff8c5
+- [The Indrik’s Glade](books/The%20Indrik%E2%80%99s%20Glade.md) — ext-f7e1331b9029cc82b19f
+- [The Journal of Cato Albus](books/The%20Journal%20of%20Cato%20Albus.md) — ext-2125b8a954953a019bc5
+- [The Journal of Darien Gautier](books/The%20Journal%20of%20Darien%20Gautier.md) — ext-05848c5ed3be51226d79
+- [The Journal of Emperor Leovic](books/The%20Journal%20of%20Emperor%20Leovic.md) — ext-40755c29968b3c6d3880
+- [The Journal of Indring the Patient](books/The%20Journal%20of%20Indring%20the%20Patient.md) — ext-13f5a1acf70681c46146
+- [The Journal of Vivien Armene](books/The%20Journal%20of%20Vivien%20Armene.md) — ext-adcb5cadbcf9da3c7784
+- [The Key to Projection](books/The%20Key%20to%20Projection.md) — ext-0b6cd04d116d3f0c7def
+- [The King’s Orders](books/The%20King%E2%80%99s%20Orders.md) — ext-eca530576d30c04383ce
+- [The Knighting Ceremony](books/The%20Knighting%20Ceremony.md) — ext-d0a036c049294e45f157
+- [The Lamia Threat](books/The%20Lamia%20Threat.md) — ext-e7691b1a91984121d3dc
+- [The Last Will of Roland Volcy](books/The%20Last%20Will%20of%20Roland%20Volcy.md) — ext-92ab87df8c70776e1ab1
+- [The Last of the Letters](books/The%20Last%20of%20the%20Letters.md) — ext-f761bd08eeddbc82d379
+- [The Library of Arkthzand](books/The%20Library%20of%20Arkthzand.md) — ext-8aaca496fe46d3c67fc7
+- [The Lie We Tell Ourselves](books/The%20Lie%20We%20Tell%20Ourselves.md) — ext-1ec5f36b445591e00679
+- [The Little Alkosh’s Log](books/The%20Little%20Alkosh%E2%80%99s%20Log.md) — ext-fc97c80df3e30a8f115a
+- [The Living Flesh](books/The%20Living%20Flesh.md) — ext-8877b97a32507494424b
+- [The Llodos Plague](books/The%20Llodos%20Plague.md) — ext-463f4c9968dea4062e16
+- [The Lurching Dead](books/The%20Lurching%20Dead.md) — ext-f58f9da5021f57b4380f
+- [The Never-Woven](books/The%20Never-Woven.md) — ext-3c30939191d352e5b553
+- [The New Lord](books/The%20New%20Lord.md) — ext-88a10fb6ded6754c66d1
+- [The Night Mother Watches](books/The%20Night%20Mother%20Watches.md) — ext-4baaade8d07bc9c901c8
+- [The Notebook of Mage Gadris](books/The%20Notebook%20of%20Mage%20Gadris.md) — ext-51c17117b24af5923258
+- [The Only Record of Our Plan](books/The%20Only%20Record%20of%20Our%20Plan.md) — ext-abd59b4b5d6dbd004571
+- [The Pack of Archon’s Grove](books/The%20Pack%20of%20Archon%E2%80%99s%20Grove.md) — ext-5d971549e530a2c48b51
+- [The Penitent’s Tale](books/The%20Penitent%E2%80%99s%20Tale.md) — ext-91e46ab624787668810c
+- [The Perfect Batch](books/The%20Perfect%20Batch.md) — ext-b3af7201c386b273a0cc
+- [The Perfect Hiding Spot](books/The%20Perfect%20Hiding%20Spot.md) — ext-cfef050ba371bd22dc14
+- [The Perfection of Fearfangs Cavern](books/The%20Perfection%20of%20Fearfangs%20Cavern.md) — ext-db5721afd2442b2b1c4c
+- [The Prison Must Fall](books/The%20Prison%20Must%20Fall.md) — ext-36b50ca6a4392bcc7fe4
+- [The Proving Festival](books/The%20Proving%20Festival.md) — ext-f3ad728cb8b2a1e28bc9
+- [The Prowler’s Log](books/The%20Prowler%E2%80%99s%20Log.md) — ext-2f7005c5e4d67eb3a641
+- [The Purities of Mania](books/The%20Purities%20of%20Mania.md) — ext-ff5ddf6bcdf295643a5e
+- [The Reachmen are Coming!](books/The%20Reachmen%20are%20Coming%21.md) — ext-30b890c8a4f956286016
+- [The Reach’s Progress](books/The%20Reach%E2%80%99s%20Progress.md) — ext-87fc033db4738f0c929e
+- [The Realm as we Know It](books/The%20Realm%20as%20we%20Know%20It.md) — ext-03891379b5d818425cab
+- [The Realm of Shadows](books/The%20Realm%20of%20Shadows.md) — ext-83b0c7d9e4aa9be0aeeb
+- [The Root Sunder Market](books/The%20Root%20Sunder%20Market.md) — ext-e678a8d951d53c1d99f0
+- [The Root Sunder Roots](books/The%20Root%20Sunder%20Roots.md) — ext-436ae9f2f64213557eef
+- [The Scent’s the Thing](books/The%20Scent%E2%80%99s%20the%20Thing.md) — ext-c370ba676bf80c351b92
+- [The Second of the Letters](books/The%20Second%20of%20the%20Letters.md) — ext-839619026be8bb37660e
+- [The Serpent’s Blade](books/The%20Serpent%E2%80%99s%20Blade.md) — ext-8412eed442670964c50d
+- [The Sharpest Blade](books/The%20Sharpest%20Blade.md) — ext-d810433ff9f479eb9227
+- [The Ship Won’t Last](books/The%20Ship%20Won%E2%80%99t%20Last.md) — ext-899413114bc5a65fe534
+- [The Source of Power](books/The%20Source%20of%20Power.md) — ext-2c270fa773e5da6489b8
+- [The Source of the Formula](books/The%20Source%20of%20the%20Formula.md) — ext-c68f3179ebfbc40979b5
+- [The Spectral Beings](books/The%20Spectral%20Beings.md) — ext-27aabaa77e80d9fcf274
+- [The Spindleclutch Expedition](books/The%20Spindleclutch%20Expedition.md) — ext-71dd2d172d87ea27e8c2
+- [The Stars Have Eyes](books/The%20Stars%20Have%20Eyes.md) — ext-2cf6f24985d2cb96905a
+- [The Tava’s Bounty Ledger](books/The%20Tava%E2%80%99s%20Bounty%20Ledger.md) — ext-36b1e1746fa6fff7b2a0
+- [The Tenets of Destruction](books/The%20Tenets%20of%20Destruction.md) — ext-0103e41e248649491397
+- [The Terror’s Orders](books/The%20Terror%E2%80%99s%20Orders.md) — ext-c91caafcad6d95d8c277
+- [The Three’s Petition to the King](books/The%20Three%E2%80%99s%20Petition%20to%20the%20King.md) — ext-5db9160086c1eb85607b
+- [The Toothmaul Contract](books/The%20Toothmaul%20Contract.md) — ext-995a647c345f5923333e
+- [The Treasure of Stillrise Village](books/The%20Treasure%20of%20Stillrise%20Village.md) — ext-141ec8b044ce23269233
+- [The Tree Is On Fire!](books/The%20Tree%20Is%20On%20Fire%21.md) — ext-39d9d2373006af8d5c09
+- [The Trial of Air](books/The%20Trial%20of%20Air.md) — ext-4ac3712443d1346cbc32
+- [The Trial of Constitution](books/The%20Trial%20of%20Constitution.md) — ext-bb5b298bf05d30ac7be5
+- [The Trial of Fire](books/The%20Trial%20of%20Fire.md) — ext-97ac817aebf94de8d121
+- [The Trial of Martial Knowledge](books/The%20Trial%20of%20Martial%20Knowledge.md) — ext-063ec63083c73bcbee3c
+- [The Trial of Perseverance](books/The%20Trial%20of%20Perseverance.md) — ext-e06018c2fdfd9005d110
+- [The Trial of Wits](books/The%20Trial%20of%20Wits.md) — ext-0debfde1f7797627971d
+- [The Trial of the Arena](books/The%20Trial%20of%20the%20Arena.md) — ext-907dee0f7b5db5f4297b
+- [The Trial of the True Path.](books/The%20Trial%20of%20the%20True%20Path.md) — ext-61ee6bcc6a6166e9f730
+- [The Unbreakable Redguard](books/The%20Unbreakable%20Redguard.md) — ext-9f40494f768164908d66
+- [The Unholy Temple](books/The%20Unholy%20Temple.md) — ext-d346f0adbbb3053618aa
+- [The Will of Drulshasa](books/The%20Will%20of%20Drulshasa.md) — ext-ede3103a2307173bdce1
+- [The Will of Our Mistress](books/The%20Will%20of%20Our%20Mistress.md) — ext-7c8ab985e92fef54aa8c
+- [The Wolf in the Sky](books/The%20Wolf%20in%20the%20Sky.md) — ext-e8915a62f9983322a8ad
+- [The Wonders of Craglorn](books/The%20Wonders%20of%20Craglorn.md) — ext-d98c8b5617b5e002dfd0
+- [The Words of the Rodent](books/The%20Words%20of%20the%20Rodent.md) — ext-259a6f50f7c140476d88
+- [There Are Ways](books/There%20Are%20Ways.md) — ext-6d77118c8513ac6f7ac8
+- [There Is No Going Back](books/There%20Is%20No%20Going%20Back.md) — ext-d0408021a520da998c55
+- [There is No Waterside Curse](books/There%20is%20No%20Waterside%20Curse.md) — ext-7d9e73dc984ca71f9817
+- [These Damned Cats](books/These%20Damned%20Cats.md) — ext-84c05cb6af65261733f3
+- [They Should Grovel](books/They%20Should%20Grovel.md) — ext-6b8cbc4bde73d82eb697
+- [Theyo Bezon’s Natural Observations](books/Theyo%20Bezon%E2%80%99s%20Natural%20Observations.md) — ext-a47b6701028c4f29ffb9
+- [Third Khajiiti Journal Page](books/Third%20Khajiiti%20Journal%20Page.md) — ext-b7415d3ec596e2fc4ec3
+- [This is the End](books/This%20is%20the%20End.md) — ext-72e62a7bc017bd10829a
+- [Thorzhul’s Letter](books/Thorzhul%E2%80%99s%20Letter.md) — ext-cf5e54521d28164963cc
+- [Thozor’s Diary](books/Thozor%E2%80%99s%20Diary.md) — ext-f98504fb9e308886cd50
+- [Threat of the Dreadsails](books/Threat%20of%20the%20Dreadsails.md) — ext-5d2cd14b2661a709923c
+- [Threatening Letter](books/Threatening%20Letter.md) — ext-a3ed1d316db22bddfc93
+- [Threatening Letter to Paheiza](books/Threatening%20Letter%20to%20Paheiza.md) — ext-02e2e6a7a0eb8b9bf112
+- [Three-of-Claws’ Note](books/Three-of-Claws%E2%80%99%20Note.md) — ext-87fd705a2095186874bd
+- [Through the Weeping Scar](books/Through%20the%20Weeping%20Scar.md) — ext-15dea7154c02dc0bb3a4
+- [Thunderbug Repellent](books/Thunderbug%20Repellent.md) — ext-0a6a6053ffe8c33acd17
+- [Tidefall Cantos I](books/Tidefall%20Cantos%20I.md) — ext-7bfd65795e54ea9422c2
+- [Timberscar Frustration](books/Timberscar%20Frustration.md) — ext-736e36064d80e0e85571
+- [Time is of the Essence](books/Time%20is%20of%20the%20Essence.md) — ext-badf284f699611dd33d1
+- [Time to Face Reality](books/Time%20to%20Face%20Reality.md) — ext-6978ecd044dae153b976
+- [Time to Strike!](books/Time%20to%20Strike%21.md) — ext-1eefe4173a6335402e6d
+- [Tinkerer Tobin’s Big Book of Crafting Recipes](books/Tinkerer%20Tobin%E2%80%99s%20Big%20Book%20of%20Crafting%20Recipes.md) — ext-2f26e64253c8ddebed78
+- [To All Who Pass Through](books/To%20All%20Who%20Pass%20Through.md) — ext-2c6b382984580c5ff421
+- [To Amberrie](books/To%20Amberrie.md) — ext-f3497f6716ad570bbc48
+- [To Anchorite Gaius](books/To%20Anchorite%20Gaius.md) — ext-6121b6dc4fd040f203d0
+- [To Anchorite Odska, From Black Mage Tacitus.](books/To%20Anchorite%20Odska%2C%20From%20Black%20Mage%20Tacitus.md) — ext-7cd8991ccdbaa87a11d4
+- [To Captain Marck](books/To%20Captain%20Marck.md) — ext-2961f4d78efd11cd3c9b
+- [To Chief Justiciar Carawen](books/To%20Chief%20Justiciar%20Carawen.md) — ext-5700e4b4fc389722614a
+- [To Colundore](books/To%20Colundore.md) — ext-2faa7a3ea153cb565f73
+- [To Delay Means Death](books/To%20Delay%20Means%20Death.md) — ext-5b94a8af32aaeb66cc7f
+- [To Grandmaster Sees-All-Colors](books/To%20Grandmaster%20Sees-All-Colors.md) — ext-35761da5d619c13cb07c
+- [To Investigator Mizzik](books/To%20Investigator%20Mizzik.md) — ext-59ceec4daadf0a0ed36d
+- [To Jalal](books/To%20Jalal.md) — ext-bd5667b02a3a28a748b5
+- [To Jun-Jo the Empty Fang](books/To%20Jun-Jo%20the%20Empty%20Fang.md) — ext-0c2585a12d039906cf14
+- [To My Azeez-Eix](books/To%20My%20Azeez-Eix.md) — ext-924e3ce842fef8589bd5
+- [To My Brother, Entrepreneur of Orsinium](books/To%20My%20Brother%2C%20Entrepreneur%20of%20Orsinium.md) — ext-27c22f3182453121ac70
+- [To My Dear Friend](books/To%20My%20Dear%20Friend.md) — ext-0ad6cf02758602b95e68
+- [To My Love](books/To%20My%20Love.md) — ext-e45a9f4c2b5f21428e06
+- [To My Pash-Riha](books/To%20My%20Pash-Riha.md) — ext-2df7c7277b5685624772
+- [To My Reviewer](books/To%20My%20Reviewer.md) — ext-a1f04b10f16447158e54
+- [To My Unknown Benefactor](books/To%20My%20Unknown%20Benefactor.md) — ext-556b800ddb5a14daf696
+- [To Sai Sahan](books/To%20Sai%20Sahan.md) — ext-584b150002da6abea859
+- [To Scarius](books/To%20Scarius.md) — ext-20977c8ea47124a61532
+- [To Tribune Alea Idolus](books/To%20Tribune%20Alea%20Idolus.md) — ext-236a051a9216db521408
+- [To Warlord Ice-Heart](books/To%20Warlord%20Ice-Heart.md) — ext-cd89ec238d669b751b86
+- [To Whom It May Concern](books/To%20Whom%20It%20May%20Concern.md) — ext-2fcace74534c16db3e98
+- [To Zelguma the Strong](books/To%20Zelguma%20the%20Strong.md) — ext-521f5cd7b86d57ddfe19
+- [To the Captain](books/To%20the%20Captain.md) — ext-20d790b4159a166332c8
+- [To the Captain of the Guard](books/To%20the%20Captain%20of%20the%20Guard.md) — ext-4dd0f61aadc12cb02ba6
+- [To the Kind Stranger Who Finds This](books/To%20the%20Kind%20Stranger%20Who%20Finds%20This.md) — ext-1bfd4a4a3beba6a80d67
+- [To the Owner](books/To%20the%20Owner.md) — ext-b4a96a5a31d254c1f51a
+- [To the Veiled Masters](books/To%20the%20Veiled%20Masters.md) — ext-ef73bcb15a9d1f19b660
+- [To the Veiled Queen](books/To%20the%20Veiled%20Queen.md) — ext-ab60b03005afd20358da
+- [To the Villainous Manacar](books/To%20the%20Villainous%20Manacar.md) — ext-8830b26f1065f77ec937
+- [Toadstool Hollow Journal](books/Toadstool%20Hollow%20Journal.md) — ext-2debd8d683ea95a82411
+- [Today’s Instructions](books/Today%E2%80%99s%20Instructions.md) — ext-7f7fa3e136f5377cf924
+- [Tommy Bones’s Journal](books/Tommy%20Bones%E2%80%99s%20Journal.md) — ext-13ebbe1fafde68a7a0f0
+- [Tonight He Confessed](books/Tonight%20He%20Confessed.md) — ext-67b3bfde7f81eb8ce2b9
+- [Tonight Was the Night](books/Tonight%20Was%20the%20Night.md) — ext-2f6b0f74cf8e94758f2b
+- [Torchbugs](books/Torchbugs.md) — ext-5c64fa5a6b3b227d5f36
+- [Torn Journal Page](books/Torn%20Journal%20Page.md) — ext-33e4bb75672fee6ccf95
+- [Torn Note From Brahgas](books/Torn%20Note%20From%20Brahgas.md) — ext-82593a3164185ed6e4ca
+- [Torn Note \[Ethian\]](books/Torn%20Note%20%5BEthian%5D.md) — ext-6d9d42c3606058f61582
+- [Torn Note from Jessen](books/Torn%20Note%20from%20Jessen.md) — ext-9fab13160576f6a63cb7
+- [Torn Out Journal Entry](books/Torn%20Out%20Journal%20Entry.md) — ext-f970b77e0f9438589ede
+- [Torn Page \[Basins\]](books/Torn%20Page%20%5BBasins%5D.md) — ext-fdee23561e494a99a183
+- [Torn Page \[Fiends\]](books/Torn%20Page%20%5BFiends%5D.md) — ext-64337127efbd89208eb2
+- [Torn Page \[Hel-Ra Citadel\]](books/Torn%20Page%20%5BHel-Ra%20Citadel%5D.md) — ext-ee5957549dce4da36ae2
+- [Torn Page \[Jenedusil\]](books/Torn%20Page%20%5BJenedusil%5D.md) — ext-1aac1cbb37dc7984c16c
+- [Torturer’s Note: Hammer’s Bypass](books/Torturer%E2%80%99s%20Note%20Hammer%E2%80%99s%20Bypass.md) — ext-ae1ab0ccf869b5e44282
+- [Torturer’s Note: Temper’s Fork](books/Torturer%E2%80%99s%20Note%20Temper%E2%80%99s%20Fork.md) — ext-85f3d826e05ebe2d2d5d
+- [Torvesard’s Journal](books/Torvesard%E2%80%99s%20Journal.md) — ext-94959ad0aea61c7df964
+- [Tracking the Butcher](books/Tracking%20the%20Butcher.md) — ext-1045a79b4b583e03bd59
+- [Traitor’s Vault Temporal Tome](books/Traitor%E2%80%99s%20Vault%20Temporal%20Tome.md) — ext-cd83f096935f7c02252b
+- [Transport Plans](books/Transport%20Plans.md) — ext-8ce35ea111e648d07db6
+- [Trapped in Ebon Stadmont](books/Trapped%20in%20Ebon%20Stadmont.md) — ext-a672c255966fc2a747b9
+- [Travel Itinerary](books/Travel%20Itinerary.md) — ext-98fc4642e18a7926f7cb
+- [Treasure Hunter’s Journal \[Chill Hollow\]](books/Treasure%20Hunter%E2%80%99s%20Journal%20%5BChill%20Hollow%5D.md) — ext-ecb2a9106040b2f42e79
+- [Treasure Hunter’s Journal \[Craglorn\]](books/Treasure%20Hunter%E2%80%99s%20Journal%20%5BCraglorn%5D.md) — ext-d388fd3219f1b16a0551
+- [Treasure Hunter’s Note](books/Treasure%20Hunter%E2%80%99s%20Note.md) — ext-1bf1061c9a3db5caa4e6
+- [Tree-Minder’s Journal](books/Tree-Minder%E2%80%99s%20Journal.md) — ext-93c8748ed955acc44a52
+- [Triigi’s Journal](books/Triigi%E2%80%99s%20Journal.md) — ext-9e7b0c7d6c315adfe925
+- [Trumbull’s Note](books/Trumbull%E2%80%99s%20Note.md) — ext-e1a40d575ec85243103b
+- [Tryn’s Smithing Notes](books/Tryn%E2%80%99s%20Smithing%20Notes.md) — ext-eb0d7eaa0edd2cf984e4
+- [Tsoxolza’s Letter](books/Tsoxolza%E2%80%99s%20Letter.md) — ext-a0da4ad839ceb4f06b08
+- [Tumma-Maxath’s Diary](books/Tumma-Maxath%E2%80%99s%20Diary.md) — ext-bfa4de4f3f03c39a8c3e
+- [Turn Back!](books/Turn%20Back%21.md) — ext-dd9bb3b1b9b826ba63ee
+- [Tutor Riparius’s List](books/Tutor%20Riparius%E2%80%99s%20List.md) — ext-1c892aaad981677a25bb
+- [Tu’whacca’s Mine](books/Tu%E2%80%99whacca%E2%80%99s%20Mine.md) — ext-01f5b7fd46af14bb912a
+- [Uchuiran’s Journal](books/Uchuiran%E2%80%99s%20Journal.md) — ext-9e86839bc4cd868045d6
+- [Uggamog’s Letter](books/Uggamog%E2%80%99s%20Letter.md) — ext-ccc23d1701b13eb75dd8
+- [Uggissar’s Diary](books/Uggissar%E2%80%99s%20Diary.md) — ext-c2febf2dc8c008bee334
+- [Uldazaan’s Letter](books/Uldazaan%E2%80%99s%20Letter.md) — ext-ecf06f99e4e9ff7fd441
+- [Ulfsild’s Logs](books/Ulfsild%E2%80%99s%20Logs.md) — ext-fbbef3c20b87e57ba5da
+- [Ulfsild’s Note](books/Ulfsild%E2%80%99s%20Note.md) — ext-31c9e175c96cda4d72bf
+- [Ulfsild’s Notes](books/Ulfsild%E2%80%99s%20Notes.md) — ext-11afc0ef0f308d898cca
+- [Ulf’s Torn Journal](books/Ulf%E2%80%99s%20Torn%20Journal.md) — ext-bd549ff0f6678ffd0c17
+- [Ulrich’s Complete Journal](books/Ulrich%E2%80%99s%20Complete%20Journal.md) — ext-63e05a6e2b9d37eadc02
+- [Uluscant’s Manifesto](books/Uluscant%E2%80%99s%20Manifesto.md) — ext-51776e9b880962a978bd
+- [Unavoidable Delays](books/Unavoidable%20Delays.md) — ext-676f0eab712b300e429f
+- [Unfinished Letter](books/Unfinished%20Letter.md) — ext-f4569f7dcfca79e35a75
+- [Unfinished Letter \[To Marika\]](books/Unfinished%20Letter%20%5BTo%20Marika%5D.md) — ext-f37ccf1eced3df191330
+- [Unfinished Letter \[To Mother\]](books/Unfinished%20Letter%20%5BTo%20Mother%5D.md) — ext-5ae0bfe26dacf3b49872
+- [Unfinished Letter to Marika](books/Unfinished%20Letter%20to%20Marika.md) — ext-dcbc25bf4dd44ce8f99e
+- [Unfinished Letter to Pronobius](books/Unfinished%20Letter%20to%20Pronobius.md) — ext-0bfc456ce7a3ed4d7def
+- [Unfinished Letter to Summerset](books/Unfinished%20Letter%20to%20Summerset.md) — ext-aa553252a3b6375445f9
+- [Unfinished Report](books/Unfinished%20Report.md) — ext-c52846989ee5c623425e
+- [Unfinished Scroll](books/Unfinished%20Scroll.md) — ext-360dd8d612cbccbcc534
+- [Unmarked Pages](books/Unmarked%20Pages.md) — ext-3af72a56bc538ccbd273
+- [Unnamed Mining Journal](books/Unnamed%20Mining%20Journal.md) — ext-90b2e6ea02d476521835
+- [Unsent Letter](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-b32c569c8d8b49260083/Unsent%20Letter.md) — ext-b32c569c8d8b49260083
+- [Unsent Letter](books/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%84%9C%EC%A0%81/game/ext-b74d9546136e75243028/Unsent%20Letter.md) — ext-b74d9546136e75243028
+- [Unsent Letter From Qumih at-Tamina](books/Unsent%20Letter%20From%20Qumih%20at-Tamina.md) — ext-97f4b35ab5445cd3cdac
+- [Unsent Letter to Zazazrala](books/Unsent%20Letter%20to%20Zazazrala.md) — ext-86612e0d5ae65d11de9a
+- [Unwelcome Visitors](books/Unwelcome%20Visitors.md) — ext-99bbdcd188fe989248b2
+- [Updated Instructions from Dortene](books/Updated%20Instructions%20from%20Dortene.md) — ext-100732d129cf70b94ae4
+- [Urcelmo’s Supplemental Orders](books/Urcelmo%E2%80%99s%20Supplemental%20Orders.md) — ext-0350819d6e8d67600804
+- [Urgarlag’s Expeditionary Order](books/Urgarlag%E2%80%99s%20Expeditionary%20Order.md) — ext-ae507d850d8b61225847
+- [Urgdosh’s Unsent Letter](books/Urgdosh%E2%80%99s%20Unsent%20Letter.md) — ext-019a2e9762db44e790ee
+- [Urgent Letter \[Amber Plasm\]](books/Urgent%20Letter%20%5BAmber%20Plasm%5D.md) — ext-39f6355a68e89d5612ef
+- [Urgent Letter \[From Junal\]](books/Urgent%20Letter%20%5BFrom%20Junal%5D.md) — ext-065d845ce6bd57169557
+- [Urgent Message from Walks-Softly](books/Urgent%20Message%20from%20Walks-Softly.md) — ext-3f7a73eed9a75a6396bc
+- [Urgent Message from the Kinlady](books/Urgent%20Message%20from%20the%20Kinlady.md) — ext-b7dc74c189fc4b95fbce
+- [Urgent Missive](books/Urgent%20Missive.md) — ext-4d30ad3539ba5fbf0e3d
+- [Urgent! Food Needed](books/Urgent%21%20Food%20Needed.md) — ext-d6640528346a602428ed
+- [Uricantar’s Journal](books/Uricantar%E2%80%99s%20Journal.md) — ext-7b8a392e9550f89e86e7
+- [Uryaamo’s Journal](books/Uryaamo%E2%80%99s%20Journal.md) — ext-e0650eaa4136a0bb1693
+- [Ushutha’s Journal](books/Ushutha%E2%80%99s%20Journal.md) — ext-ee56cda0d4c8efc675bc
+- [Vahath Hunter’s Journal](books/Vahath%20Hunter%E2%80%99s%20Journal.md) — ext-5fa51bde617e707608c2
+- [Valamuur’s Notes](books/Valamuur%E2%80%99s%20Notes.md) — ext-347b240b33f291ee4ea6
+- [Valasha’s Journal](books/Valasha%E2%80%99s%20Journal.md) — ext-32a941d54c32adff75bb
+- [Valeric’s Journal](books/Valeric%E2%80%99s%20Journal.md) — ext-bbbb82e44dc22c415b8d
+- [Vanishing Crew](books/Vanishing%20Crew.md) — ext-b30966770eab5190d65c
+- [Vanthongar’s Letter](books/Vanthongar%E2%80%99s%20Letter.md) — ext-b80b95dbb0f61245744f
+- [Vantir’s Journal](books/Vantir%E2%80%99s%20Journal.md) — ext-312466ea1ebf5639fc73
+- [Vardan’s Diary](books/Vardan%E2%80%99s%20Diary.md) — ext-ff9872d1cc315aa3ffc5
+- [Vareldur’s Journal](books/Vareldur%E2%80%99s%20Journal.md) — ext-62b92a7bc5a996537210
+- [Vastarie’s Journal](books/Vastarie%E2%80%99s%20Journal.md) — ext-5962da665c1ca3eb9d31
+- [Vath’ira’s Note](books/Vath%E2%80%99ira%E2%80%99s%20Note.md) — ext-c78d3258977ae01077c7
+- [Vaults of Madness Diaries](books/Vaults%20of%20Madness%20Diaries.md) — ext-e5c0879a10801d298604
+- [Vazshara’s Journal](books/Vazshara%E2%80%99s%20Journal.md) — ext-625bfba42d457c3bc8f6
+- [Veiled Heritant’s Letter](books/Veiled%20Heritant%E2%80%99s%20Letter.md) — ext-3ce37b7eb28729d4fb8e
+- [Venom’s Sanctuary Marginalia](books/Venom%E2%80%99s%20Sanctuary%20Marginalia.md) — ext-ef96a3798971ffdd8f39
+- [Verandis’s Journal](books/Verandis%E2%80%99s%20Journal.md) — ext-37dc9e8fd4a5c11ce585
+- [Verrik’s Note](books/Verrik%E2%80%99s%20Note.md) — ext-98f05484ef5eac252bce
+- [Very Old Note](books/Very%20Old%20Note.md) — ext-a5dfa2c91a8d1e809617
+- [Veya’s Private Thoughts](books/Veya%E2%80%99s%20Private%20Thoughts.md) — ext-06bc14d9447459a426b3
+- [Vicente’s Note to Ocheeva](books/Vicente%E2%80%99s%20Note%20to%20Ocheeva.md) — ext-c752e3b0b411e2e2e56d
+- [Vicereeve Pelidil’s Orders](books/Vicereeve%20Pelidil%E2%80%99s%20Orders.md) — ext-d0ded6c2d0fd0ea428d5
+- [Vijari is Unwell](books/Vijari%20is%20Unwell.md) — ext-b14c5243e0942ceacfd7
+- [Village Record, Recent Entry](books/Village%20Record%2C%20Recent%20Entry.md) — ext-27b2972858266321d8a3
+- [Village Report](books/Village%20Report.md) — ext-4919d6430dcb39e3eea8
+- [Vim’s Diary](books/Vim%E2%80%99s%20Diary.md) — ext-dbef1a7ed95987ef0d43
+- [Vinnus’s Note](books/Vinnus%E2%80%99s%20Note.md) — ext-1f552bb154a383ff83e5
+- [Virmaril’s Journal](books/Virmaril%E2%80%99s%20Journal.md) — ext-75aa31624428368e8f53
+- [Vitrified Souls Ritual Status Report](books/Vitrified%20Souls%20Ritual%20Status%20Report.md) — ext-d1ab4665b994ea6ee1ea
+- [Vlindrel Hall Bill of Lading](books/Vlindrel%20Hall%20Bill%20of%20Lading.md) — ext-a1a9144a96cfdf0a4553
+- [Voidprowler Journal](books/Voidprowler%20Journal.md) — ext-6fba25fcbade73cc4423
+- [Volrina’s Notes](books/Volrina%E2%80%99s%20Notes.md) — ext-69b45cd85986ee4d1020
+- [Vol’s Journal](books/Vol%E2%80%99s%20Journal.md) — ext-7acb33a1f5f248b5a79e
+- [Vosh Rakh Orders](books/Vosh%20Rakh%20Orders.md) — ext-2b48948ea1ca31bff011
+- [Vow of Consumption](books/Vow%20of%20Consumption.md) — ext-33472466f3cc0ea98ba0
+- [Vox’s Final Reply](books/Vox%E2%80%99s%20Final%20Reply.md) — ext-fbd1405cf422d7b07689
+- [Voyage of the Seajoy](books/Voyage%20of%20the%20Seajoy.md) — ext-5977e2e5eb98e779b0d3
+- [WHERE ARE THE PEOPLE](books/WHERE%20ARE%20THE%20PEOPLE.md) — ext-d6eaf6d5dfb990912d4e
+- [Wait Till Next Time](books/Wait%20Till%20Next%20Time.md) — ext-0eb1df261f149b84508c
+- [Waited as Long as We Could](books/Waited%20as%20Long%20as%20We%20Could.md) — ext-c23cc5822e10c67655cd
+- [Wake Walkers’ Orders](books/Wake%20Walkers%E2%80%99%20Orders.md) — ext-da5dcdaba92d0b5f2cb0
+- [Wakener’s Sermon](books/Wakener%E2%80%99s%20Sermon.md) — ext-48d6fd554da25eb0c408
+- [Waking Flame Correspondence](books/Waking%20Flame%20Correspondence.md) — ext-a38b3a64c22b7bea51ae
+- [Waking Flame Journal](books/Waking%20Flame%20Journal.md) — ext-c4942330a7ca0fd1338f
+- [Waking Flame Letter](books/Waking%20Flame%20Letter.md) — ext-dd3543256dbe088d7436
+- [Wansalen Tunnels](books/Wansalen%20Tunnels.md) — ext-e55c7a7dbc4ae5e6fa05
+- [War Efforts—Covenant](books/War%20Efforts%E2%80%94Covenant.md) — ext-f1a4234e6dd1ba74c880
+- [War Reports for Queen and Thalmor](books/War%20Reports%20for%20Queen%20and%20Thalmor.md) — ext-c9e3e4ef3bf3a87a1b3f
+- [Warehouse Under New Ownership](books/Warehouse%20Under%20New%20Ownership.md) — ext-0a5fc4344fddb8baae98
+- [Warlock Vanton’s Research Proposal](books/Warlock%20Vanton%E2%80%99s%20Research%20Proposal.md) — ext-fdc9b08fe0dc206f9017
+- [Warning at the Falls](books/Warning%20at%20the%20Falls.md) — ext-4f4578aec8ffe8c9b60c
+- [Wasp Wrangling](books/Wasp%20Wrangling.md) — ext-ea66d445de6e96783ac7
+- [Watch Your Back](books/Watch%20Your%20Back.md) — ext-d67296a3361584d4dd7d
+- [Watcher Shavmar’s Journal](books/Watcher%20Shavmar%E2%80%99s%20Journal.md) — ext-fefa12711b5a043f825a
+- [Watcher’s Report](books/Watcher%E2%80%99s%20Report.md) — ext-03114fec52f0625b7c06
+- [Watchtower Ledger](books/Watchtower%20Ledger.md) — ext-5482c00ad9180932dfae
+- [Water-Damaged Journal](books/Water-Damaged%20Journal.md) — ext-bae14659c18dd9692459
+- [Waterlogged Journal](books/Waterlogged%20Journal.md) — ext-8bb0f3fb355d82d8c9ad
+- [Waterlogged Journal of Vanisande Maul](books/Waterlogged%20Journal%20of%20Vanisande%20Maul.md) — ext-4151fe6f8423d6c1070a
+- [Waylaid Traveler’s Journal](books/Waylaid%20Traveler%E2%80%99s%20Journal.md) — ext-2b080a2a57bc5200be0d
+- [We Can’t Leave](books/We%20Can%E2%80%99t%20Leave.md) — ext-02fdb546dd78456a5c4f
+- [We Expect Absolute Discretion](books/We%20Expect%20Absolute%20Discretion.md) — ext-a1a4e3f0ebc506de069f
+- [We Have Control](books/We%20Have%20Control.md) — ext-849235e03bef26ed469e
+- [We Know, Many-Rocks](books/We%20Know%2C%20Many-Rocks.md) — ext-f06add7d2f6269c86039
+- [We Were Undaunted](books/We%20Were%20Undaunted.md) — ext-0b8a30e5af8618256ad4
+- [We Who Are About To Die](books/We%20Who%20Are%20About%20To%20Die.md) — ext-20b4dfc0b638210c34e3
+- [We Will Be Spared](books/We%20Will%20Be%20Spared.md) — ext-24fd4c6101a497c90266
+- [Weapon Activation](books/Weapon%20Activation.md) — ext-83c4ac2b5dfe0226e70d
+- [Wear Them Down](books/Wear%20Them%20Down.md) — ext-818423a69b2418d2680b
+- [Weathered Journal](books/Weathered%20Journal.md) — ext-52f11ff4642d798fa0ad
+- [Web-Covered Diary](books/Web-Covered%20Diary.md) — ext-7779c7b155d811c815d0
+- [Wenridil’s Logbook](books/Wenridil%E2%80%99s%20Logbook.md) — ext-63494ab9408ad9bccab9
+- [We’re Even](books/We%E2%80%99re%20Even.md) — ext-91c28ab1a86e5ab1d7b7
+- [What Comes Next](books/What%20Comes%20Next.md) — ext-7f619b0f23f6937ffa3a
+- [What Eats Birds?](books/What%20Eats%20Birds.md) — ext-2be18fba18d8aed6895c
+- [What Flows Downstream](books/What%20Flows%20Downstream.md) — ext-da1fdc70ebc9bdb0ca15
+- [Where I’ll Be](books/Where%20I%E2%80%99ll%20Be.md) — ext-32823d572a4f256d6a9e
+- [White Rose Guard’s Journal](books/White%20Rose%20Guard%E2%80%99s%20Journal.md) — ext-0a4d79a8ba0755b0dccd
+- [Who Are the Sea Elves?](books/Who%20Are%20the%20Sea%20Elves.md) — ext-b7aaf4a700c7e0eb626a
+- [Who Asked Them Here?](books/Who%20Asked%20Them%20Here.md) — ext-685713a4570ec0d76237
+- [Why the Projections?](books/Why%20the%20Projections.md) — ext-d418168ac96ba2533b15
+- [Will of Otrovor Knifeborn](books/Will%20of%20Otrovor%20Knifeborn.md) — ext-36820a11583b061f0613
+- [Wind-Ripped Page](books/Wind-Ripped%20Page.md) — ext-66f3b67893f51181d6bb
+- [Winterborn’s Note](books/Winterborn%E2%80%99s%20Note.md) — ext-32edebaeaee467b48e94
+- [Wise-woman’s Journal Page](books/Wise-woman%E2%80%99s%20Journal%20Page.md) — ext-fd8cf3d95abb9fa1ad61
+- [Wish Me Good Fortune](books/Wish%20Me%20Good%20Fortune.md) — ext-14fd150ac04671df0312
+- [Wolfpack Initiate’s Notes](books/Wolfpack%20Initiate%E2%80%99s%20Notes.md) — ext-5c5fa40fe3f04058b012
+- [Word of Khiruna](books/Word%20of%20Khiruna.md) — ext-c95f69b73c0a5493de97
+- [Words of Entry](books/Words%20of%20Entry.md) — ext-e6d27928c1d339c80478
+- [Words of the Fallen](books/Words%20of%20the%20Fallen.md) — ext-c06109676a737e036534
+- [Work Order: Spider Deterrent Devices](books/Work%20Order%20Spider%20Deterrent%20Devices.md) — ext-dbf22ad7463054a3fba7
+- [Worm Cult Correspondence](books/Worm%20Cult%20Correspondence.md) — ext-593d741c92eddd9d0aa2
+- [Worm Cult Mine Orders](books/Worm%20Cult%20Mine%20Orders.md) — ext-c963a36c207a2b26609b
+- [Worm Cultist Musings](books/Worm%20Cultist%20Musings.md) — ext-a689ab31fa8ab0997091
+- [Wormblood’s Journal](books/Wormblood%E2%80%99s%20Journal.md) — ext-d00220f960dc2cff98b7
+- [Wormblood’s Orders](books/Wormblood%E2%80%99s%20Orders.md) — ext-9b952ae6d8615f0e82ce
+- [Worn and Torn Page](books/Worn%20and%20Torn%20Page.md) — ext-5b50a96a3ccf0cfbc01e
+- [Worship in Fanacas](books/Worship%20in%20Fanacas.md) — ext-24a869f02ccad34ad10b
+- [Wounded Lion](books/Wounded%20Lion.md) — ext-ecc8357cc311de40d14e
+- [Wrongly Incarcerated!](books/Wrongly%20Incarcerated%21.md) — ext-c7b64011cd463f901091
+- [Xul-Thuxis](books/Xul-Thuxis.md) — ext-a01b9b8bd867cd192640
+- [Xynaa’s Book of Contracts](books/Xynaa%E2%80%99s%20Book%20of%20Contracts.md) — ext-4357efc355c2a0653cc3
+- [Yamanu-ko’s Letter to Her Apprentice](books/Yamanu-ko%E2%80%99s%20Letter%20to%20Her%20Apprentice.md) — ext-517c984041aa27213db4
+- [Yenadar’s Journal](books/Yenadar%E2%80%99s%20Journal.md) — ext-a1daa01130c4d09bac9b
+- [Yngling’s Letter](books/Yngling%E2%80%99s%20Letter.md) — ext-93dc7be95f5abb4fdaba
+- [Yngrel’s To Do List](books/Yngrel%E2%80%99s%20To%20Do%20List.md) — ext-29840c8ffef3381eb2ec
+- [You Are What You Eat](books/You%20Are%20What%20You%20Eat.md) — ext-7d145ef82cbfeaeaa189
+- [Your Assistance Is Appreciated](books/Your%20Assistance%20Is%20Appreciated.md) — ext-0aa25f80a39f160e4ad8
+- [Your Final Chance](books/Your%20Final%20Chance.md) — ext-106e4bdd77bd3c2dc00c
+- [Your Final Opportunity](books/Your%20Final%20Opportunity.md) — ext-da474a2be1e8a5cd3680
+- [Your Final Warning](books/Your%20Final%20Warning.md) — ext-b00e81de8e07a1fd094a
+- [Your Little Friend, Edu](books/Your%20Little%20Friend%2C%20Edu.md) — ext-f4734aa4e795f260be8d
+- [Your New Target](books/Your%20New%20Target.md) — ext-349c39dd0c5f23c25b1f
+- [Your Services Are Required](books/Your%20Services%20Are%20Required.md) — ext-6b4d2f7f6ecc637d92ab
+- [Your Silver Fur](books/Your%20Silver%20Fur.md) — ext-d084bc9a3e0799c37338
+- [Yves Grandvache Ledger](books/Yves%20Grandvache%20Ledger.md) — ext-762da58463d949982d66
+- [Zaban-ma’s Journal](books/Zaban-ma%E2%80%99s%20Journal.md) — ext-c09ecf30b6172ddf6f82
+- [Zaban’s Letter](books/Zaban%E2%80%99s%20Letter.md) — ext-66ebf0f0251fb1cad4c7
+- [Zagrugh’s Journal](books/Zagrugh%E2%80%99s%20Journal.md) — ext-99aa3c1f88b6331f974b
+- [Zayshara’s First Note](books/Zayshara%E2%80%99s%20First%20Note.md) — ext-b83200e5af33d75a5eb2
+- [Zayshara’s Second Note](books/Zayshara%E2%80%99s%20Second%20Note.md) — ext-542da40a506b7136815e
+- [Zayshara’s Third Note](books/Zayshara%E2%80%99s%20Third%20Note.md) — ext-a772812e7b8800af20a7
+- [Zeirinia’s Silent Admission](books/Zeirinia%E2%80%99s%20Silent%20Admission.md) — ext-4ba9e69e878795bc5e5f
+- [Zurka’s Orders](books/Zurka%E2%80%99s%20Orders.md) — ext-e4c25cad9250b78b2c07
+- […ine Commands of the Eight Divines](books/%E2%80%A6ine%20Commands%20of%20the%20Eight%20Divines.md) — ext-5ac82645acf5f7d2b187
+
+### 40권 단위 분할 열람
+
+- [1~40권](part-01.md)
+- [41~80권](part-02.md)
+- [81~120권](part-03.md)
+- [121~160권](part-04.md)
+- [161~200권](part-05.md)
+- [201~240권](part-06.md)
+- [241~280권](part-07.md)
+- [281~320권](part-08.md)
+- [321~360권](part-09.md)
+- [361~400권](part-10.md)
+- [401~440권](part-11.md)
+- [441~480권](part-12.md)
+- [481~520권](part-13.md)
+- [521~560권](part-14.md)
+- [561~600권](part-15.md)
+- [601~640권](part-16.md)
+- [641~680권](part-17.md)
+- [681~720권](part-18.md)
+- [721~760권](part-19.md)
+- [761~800권](part-20.md)
+- [801~840권](part-21.md)
+- [841~880권](part-22.md)
+- [881~920권](part-23.md)
+- [921~960권](part-24.md)
+- [961~1000권](part-25.md)
+- [1001~1040권](part-26.md)
+- [1041~1080권](part-27.md)
+- [1081~1120권](part-28.md)
+- [1121~1160권](part-29.md)
+- [1161~1200권](part-30.md)
+- [1201~1240권](part-31.md)
+- [1241~1280권](part-32.md)
+- [1281~1320권](part-33.md)
+- [1321~1360권](part-34.md)
+- [1361~1400권](part-35.md)
+- [1401~1440권](part-36.md)
+- [1441~1480권](part-37.md)
+- [1481~1520권](part-38.md)
+- [1521~1560권](part-39.md)
+- [1561~1600권](part-40.md)
+- [1601~1640권](part-41.md)
+- [1641~1680권](part-42.md)
+- [1681~1720권](part-43.md)
+- [1721~1760권](part-44.md)
+- [1761~1800권](part-45.md)
+- [1801~1840권](part-46.md)
+- [1841~1880권](part-47.md)
+- [1881~1920권](part-48.md)
+- [1921~1960권](part-49.md)
+- [1961~2000권](part-50.md)
+- [2001~2040권](part-51.md)
+- [2041~2080권](part-52.md)
+- [2081~2120권](part-53.md)
+- [2121~2160권](part-54.md)
+- [2161~2200권](part-55.md)
+- [2201~2231권](part-56.md)

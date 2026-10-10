@@ -183,3 +183,5 @@ if __name__ == '__main__':
     parser.add_argument('--root', type=Path, default=Path(__file__).resolve().parents[1])
     args = parser.parse_args()
     print(json.dumps(run(args.mirror, args.root), ensure_ascii=False, indent=2))
+    from build_external_book_collection import build
+    print(json.dumps(build(args.root), ensure_ascii=False))

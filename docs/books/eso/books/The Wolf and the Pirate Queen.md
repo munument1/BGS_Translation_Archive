@@ -1,0 +1,15 @@
+# The Wolf and the Pirate Queen
+
+ID: ext-f33ca9d572881051fea4
+
+By Midara Salviticus, Historian, University of Gwylim  
+  
+Thanks to the actions of Carolus Aquilarios, the Wolf of Kvatch, Anvil’s defenses were practically nonexistent when Captain Fortunata – the Pirate Queen – sailed into port. After numerous attempts by the Imperial soldiers stationed at the port city to invade Kvatch, the barracks in Anvil were practically empty due to defeat after defeat at the Wolf’s hands. Captain Fortunata’s loyal pirates and buccaneers quickly took control of the city and she claimed the title of Provincial Governor for herself. That might have been the end of things, as far as Count Carolus was concerned, except for what the Pirate Queen decided to do next. She declared that the Gold Coast was now an independent state, free and separate from Cyrodiil and the Empire. When she requested that Kvatch join Anvil as part of the new order, the count refused, preferring to continue to owe fealty to Emperor Varen. Not feeling totally confident at the time, Fortunata didn’t press the demand. But she wouldn’t forget the count’s lack of support. When the Soulburst occurred and Varen disappeared, she took advantage of Kvatch’s sudden isolation to make her demands more forceful.  
+  
+Anvil began pressing Kvatch to join the Gold Coast, both diplomatically and by increasingly underhanded means. Marauders and bandit gangs began to appear along the Gold Road around Kvatch, disrupting trade and harassing travelers. Kvatch’s elite guards, the Warders, were dispatched to deal with the bandits, but each time the bandits were able to escape to the Strid River. They returned in greater numbers, amplifying their attacks by raiding outlying farms and sending frightened refugees into the city for protection.  
+  
+Despite these acts of aggression, Carolus remained staunch and refused to negotiate with the Pirate Queen. Infuriated, Fortunata announced that Kvatch would be formally annexed into the Gold Coast. She sent the Anvil Guard to take command of the city. The Count of Kvatch responded by putting the Warders upon the walls and sending the cohort out to confront the invaders. The opposing forces met on the Gold Road, near the Gottshaw Inn. The more disciplined and highly trained cohort scattered the motley guards from Anvil, but the situation wasn’t as it appeared. It was a trap. An army of pirates exploded out of hiding and surrounded the cohort. While ragged and undisciplined, the pirates outnumbered the legionaries six to one. The cohort was wiped out in what has come to be known as the Gottshaw Massacre.  
+  
+Carolus Aquilarios had no choice. Without the support of the cohort, he had no option other than to swear fealty to the Gold Coast. Now, caught between the Pirate Queen and the Primate of Akatosh, the Count seethes at his powerlessness, all the while doing everything he can to honor his vow and protect Kvatch and its people.
+
+[출처](https://www.imperial-library.info/content/wolf-and-pirate-queen)

@@ -1,0 +1,29 @@
+# The Five Far Stars
+
+ID: ext-aafa5a01d6101a2f3cbf
+
+[This is a volume of verse collected from wise women of the Urshilaku Ashlanders. It consists of verses composed by Ashlander warriors, champions, and ashkhans, committed to memory by the wise women and transmitted down the generations. ‘May I shrink to dust’ is attributed to the long-dead poet and warrior Zershishi Mus-Manul.]  
+  
+Rise from darkness, Red Mountain!  
+  
+Spread your dark clouds and green vapors!  
+  
+Birth earthquakes, shatter stones!  
+  
+Feed the winds with fire!  
+  
+Flay the tents of the tribes from the land!  
+  
+Feed the burned earth with our souls!  
+  
+Yet never shall you have your rule over me.  
+  
+Never shall I tremble or flinch from your power.  
+  
+Never shall I yield my home and hearth.  
+  
+And from my tears shall spring forth  
+  
+The flowers of grassland springs.
+
+[출처](https://www.imperial-library.info/content/five-far-stars)

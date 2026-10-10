@@ -1,0 +1,19 @@
+# Oath-Bound: An Outlander’s Rise Vol. 1
+
+ID: ext-5c4c28c81bb5a5d51dd0
+
+I remember the first test of my sword arm vividly. I was eight and the blade unfamiliar. A dark, barbed thing that I pried from the ashen hand of a dying Dark Elf at my feet as he struggled to keep his eyes open and his fist closed. I did not understand the curse that rattled from his lips as the sword slipped from his grasp. Nearly as long as I was tall, I struggled more to heft that sword than to wrestle it from the slaver who had raised it to my throat moments before.  
+  
+He had been surprised by our resistance. They all were. We were three forgettable souls on a simple barge of sundries. Easy prey for the dozen armed thugs who overtook our tiny ship, or so they thought. My mother and father were not warriors by trade, but they carried with them the sword-arts of our ancestors. A proud tradition I was meant to carry on, though not this early in my youth. Before that day I had only crossed blunt driftwood spars with my parents. Whether it was eagerness to test myself or fear for the lives of my parents that drove me to take up the sword, I found myself undeterred by my unwieldy grip as I leapt into the fray with the immortal confidence of ignorance. Like a log on the tide, I was swept away with the melee, invisible and underfoot.  
+  
+First blood was drawn by a chop that was more stumble than swing. I brought the ugly Dark Elf blade down on the nearest slaver, struck him squarely in the back, and split his spine like a log. His body went slack in an instant and nearly pulled me overboard as he pitched over the lip of our barge. It felt to me as if time had stopped as the blade came free, wet with the blood of my enemy and glistening like the fang of a great spider, its dark metal robbing the gore of its vivid color. As I pried my gaze from the ghastly weapon, I caught my mother’s eye from across the deck. The look she gave me was a mix of pride and remorse. I could have spent an eternity hanging on that moment, but the crash of my victim’s corpse into the sea shook me from my grim reverie just in time to realize my attack had not gone unnoticed  
+  
+I had thought myself brave, but when faced with a pair of vicious slavers without the benefit of surprise, my resolve crumbled. I clamored over crates and sundries to keep out of reach of their prodding blades, I swatted at them with clumsy sweeps of my sword to their great amusement, and I called out to my parents like a mewling calf. My greatest regret is not that I had been a child who had succumbed to fear, but that I had been fool enough to think I was a warrior. I would not be the one to pay for my impetuousness.  
+  
+My mother and father gave a worthy account of themselves as they fought to reach me. Less than half the slavers who had boarded us still stood by the time my parents succumbed to their wounds and fatigue. My tormentors must have thought this loss had taken the fight out of me, mistaking tears of anger for those of fear. When one of the pair who harried me reached up to grasp my leg, I lashed out with an unexpected ferocity and split her face wide along the bridge of her nose. I bellowed and screamed like an unholy monster, keeping the three remaining slavers at bay with erratic slashes and unpredictable rage.  
+  
+That is how the Redoran soldiers found us, when their patrol arrived to butcher the monsters who robbed me of my peace and innocence. I was so clouded by rage and exhaustion that I could see no difference between the ash-faced slavers and my dusky saviors. The Redoran captain caught my reckless swing in his gauntlet with ease and pulled me to the deck.  
+  
+“Get up, boy,” he barked without malice or pity. “Try it again.”
+
+[출처](https://www.imperial-library.info/content/oath-bound-outlanders-rise-vol-1)

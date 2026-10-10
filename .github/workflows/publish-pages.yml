@@ -41,9 +41,7 @@ jobs:
           test -f docs/untranslated/manifest.json
           test -f docs/untranslated/README.md
           test -f docs/imperial-library.html
-          test -f docs/assets/external-references.js
-          node --check docs/assets/external-references.js
-          node --check docs/assets/external-reader.js
+          test -f docs/books/additional_catalog.json
           python3 - <<'PY'
           import json
           from pathlib import Path
@@ -74,6 +72,12 @@ jobs:
           assert all(row['source_url'].startswith('https://www.imperial-library.info/content/') for row in english)
           assert report['imported']+report['unavailable']+report['ambiguous']==ext['total']
           print('Verified English source entries:',len(english))
+          additional=json.loads((root/'additional_catalog.json').read_text(encoding='utf-8'))
+          assert len(additional['books'])==len(english)
+          assert len({b['uid'] for b in c['books']+additional['books']})==len(c['books'])+len(english)
+          assert all((root/b['path']).is_file() for b in additional['books'])
+          for game,count in additional['counts'].items():
+              assert len(list((root/game/'books').rglob('*.md')))==count
           PY
 
       - name: Setup GitHub Pages

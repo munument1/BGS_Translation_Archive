@@ -1,0 +1,21 @@
+# Daedra Worship: The Chimer
+
+ID: ext-856cf67880227c1de103
+
+The history of Daedra worship by the Elves once known as the Chimer provides a valuable object lesson in the dangers of traffic with the so-called Lords of Oblivion. It’s a tale of peril that modern-day apologists for Daedric worship, such as Lady Cinnabar, would do well to heed.  
+  
+Let’s begin with a few facts that not even the Shrew of Taneth could deny. The Aedra (the Gods, the Divines) created Nirn out of the chaos of Oblivion. They assumed physical form within the mortal plane—the Mundus—and according to Elven myth were the direct ancestors of the Aldmeri. The Aedra were the natural objects of holy reverence for the Elves of the Dawn Era, and the first organized religions venerated these Divines.  
+  
+However, after Nirn was born the Aedra withdrew from their creation, becoming distant, aloof, and disinterested in the affairs of mortals. But beyond the Mundus, in the infinite variation of Oblivion, there were other godlike entities of great power known as the Daedra (literally the “not-Aedra”), who began to take a malign interest in the realm the Aedra had created. Some of the more powerful of these entities, the so-called Daedric Princes, who ruled entire Oblivion planes of their own, were nonetheless jealous of the mortals of Nirn—for they had inherited the Aedric capacity of creation. This ability was beyond the Daedra who, though masters of change and metamorphosis, create nothing new that has not been before.  
+  
+However, one quality the Daedric Princes shared with the young mortals of Nirn was a lust for power in all its forms. This corrupting desire is the foundation of all mortal worship of the Daedra: the Princes offer power in return for service and worship. Most often this power comes in the form of knowledge, the most seductive and least perilous-seeming of the Daedric temptations.  
+  
+To show how seductive this temptation can be, reflect upon the early Aldmer of Summerset. Though in their arrogance they considered themselves the lineal descendants of the Aedra, nonetheless the first large-scale religious sect espousing Daedra-worship was born in the heart of Summerset itself. There, in the rainbow shadow of the Crystal Tower, the so-called Prophet Veloth communed with the Daedric Prince Boethiah and agreed to accept her gifts. He inscribed the Velothi Prophecies, which expounded the doctrine of worship of the “Good Daedra” (Boethiah, Azura, and Mephala), along with ways to propitiate and negotiate with the “Bad Daedra” (Molag Bal, Malacath, Sheogorath, and Mehrunes Dagon).  
+  
+To the more foolish of the Summerset Aldmeri, the arts and skills the Good Daedra offered to teach them seemed more useful than the maxims and platitudes of the priests of the Aedra, and a number of Elven clans accepted Veloth as their prophet and guide. When the Sapiarchs of Alinor rightfully prohibited this schism, Veloth led the clans loyal to him out of the Isles and across the seas to the far side of Tamriel, where they colonized the domain now known as Morrowind. The followers of Saint Veloth, who became known as the Chimer, were willing to trade the paradise of golden Summerset for the purgatory of ashen Morrowind, all in return for the illusory “gifts” of the Daedra. The Chimer built mighty temples to Boethiah, Azura, and Mephala, and established the traditions of worship in Morrowind that were later co-opted by the Tribunal.  
+  
+As even the beginning student of history knows, this large-scale dabbling with Daedra led inevitably to warfare and catastrophe. Chimer civilization fell at the Battle of Red Mountain, and the curse of Azura, their erstwhile mistress, transformed the brilliant Chimer into the sullen and haunted Dunmer. After that time Morrowind, under the Tribunal, turned its back on worship of the Daedra — but by then the damage had been done.  
+  
+Today, the Daedra are feared and abhorred across the length and breadth of Tamriel — and rightly so. Yet, despite the clear lessons of history, some misguided souls still insist that traffic with Daedra Lords can be tolerated, even accepted. To those such as you, Lady Cinnabar, I say: beware. What pact with the Daedra ever ended well?
+
+[출처](https://www.imperial-library.info/content/daedra-worship-chimer)

@@ -1,0 +1,17 @@
+# The Black Fin: Foreign Adventures, Part 3
+
+ID: ext-61f113329299aa4d1df9
+
+It was well into the second year after the formation of the Ebonheart Pact, and Keshu and the Black Fin Legion (minus the troops we left behind as part of the Pact army in Morrowind) were now touring the Nords’ lands of Skyrim. Our first stop after crossing into Nord territory was the town of Riften, where we were treated to a typical Nord celebration that included lots of food, lots of mead, and a number of good-natured brawls that seem to be a common pastime in the colder climes. While there, we helped fortify some of the town’s defenses, which Keshu insisted we do wherever we went to show our willingness to provide whatever assistance we could during our visits.  
+  
+After more than a week in Riften, we began our trek north through Eastmarch toward the city of Windhelm for Keshu’s reunion with Jorunn—who was now Jorunn the Skald-King, if you can believe that! Apparently, the big Nord was a prince or some such, and was now the leader of the entire Nord nation! And Windhelm, what a city! It was as large and as impressive in its own way as Mournhold, but where the Dark Elf metropolis was a reflection of its people, Windhelm was clearly and undeniably a reflection of the Nords. Repairs were still underway to deal with the damage inflicted by the Akaviri siege, but that did nothing to detract from the sheer grandeur of the Nord city.  
+  
+Jorunn met us at the gates, grabbed Keshu up in an enormous hug, and then invited us all to enjoy the hospitality of his home and city. The celebration lasted for a week and a day! The Nords certainly love to throw a good party, and they seem to look for any excuse to have one. During the celebration, we were treated to the best mead and ale the Nords produced, exquisite delicacies such as rabbit meatballs, and some of the most ribald drinking songs I had ever heard—all sung extremely loudly and with a lot of clinking of mugs and goblets.  
+  
+When the mead casks were finally empty and the rabbit meatballs had run out, the celebration came to an abrupt end. Then the work began. We stayed in Windhelm for the better part of a month, helping repair the outer walls of the city and providing whatever other aid the Nords were comfortable allowing us to assist with. And whenever they could both spare the time, Keshu and the Skald-King huddled in a corner and spoke at length about a variety of topics. No one was allowed to join them during these discussions, but I always got the sense that they were sharing their thoughts on leadership, the alliance, and the future of our nations.  
+  
+The Black Fin Legion, as we had come to know it, came to an end in Skyrim, as well. Our soldiers were divided into small teams and sent to serve with Pact troops of mixed nationality, fighting alongside Nords and Dark Elves in the same cohorts. I stayed with Keshu, of course, and I was there when the Skald-King offered her a unique honor. “I want you to command the Pact forces in Skyrim, Black Fin,” Jorunn proclaimed. “Will you accept this charge?” To no one’s surprise, Keshu agreed. And through her efforts over the next seven years, the tactics and strategies of the Pact’s military might were developed and set in place.  
+  
+Which is why the Pact was prepared when the War of the Three Banners began.
+
+[출처](https://www.imperial-library.info/content/the-black-fin-foreign-adventures-part-3)

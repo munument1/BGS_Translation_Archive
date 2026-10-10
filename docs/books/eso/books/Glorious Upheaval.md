@@ -1,0 +1,17 @@
+# Glorious Upheaval
+
+ID: ext-44f423b3f73fb893abf8
+
+Listen, you who would renounce the Eight and their lies, you who spurn their mindless doctrines, and know:  
+  
+Boethiah waits to receive the worthy. He pays no heed to mewling praise and prayers or cries for aid and mercy from his faithful. He delights in the blood of the overthrown, the betrayed and conquered and murdered—those too weak to survive and receive his gifts. Only rebellion and violence, only treachery and aggression and the power you seize can prove you, a mere speck of dust, deserving of notice.  
+  
+Your prize waits between his dripping fangs, if you dare to claim it. The tested, who stand drenched by the viscera of the pitiful, glimpse secrets held only by the Prince of Plots, who proved the weakness of gods when Trinimac suffered in his stomach. Every power can be dismantled. Demonstrate your will to the Deceiver. Do what you must to sever the grip of all rulers and place the crown on your own brow. In this way, you carve the path to illumination; you recognize your potential.  
+  
+Turn away from an atrophied life of complacency. Take everything from the undeserving, take what you can and know it always belonged to you. Corrupt what lies within your grasp and turn it to your own purpose, then extend your arm further. Reject the Eyeless Aedra, rotting in Aetherius, that prison realm where flaccid souls languish, useless and drained. Deny their commands and revel in combat, speak heresies as black as the Void, and laugh in the face of the Dragon Ghost Akatosh and his crumbling kin.  
+  
+Boethiah watches these deeds. She relishes each victory, shivers with euphoria at each moment of resolution, and grants her favor to the strong. If you would be among her champions, if you would destroy everything in your own true path, you will join the endless struggle and bring strife and discord where you tread. Only in this way will you prepare for the greater battle that waits beyond.  
+  
+Know, you on the path of perpetual conflict, you who refuse to bend the knee: Boethiah waits to receive the worthy.
+
+[출처](https://www.imperial-library.info/content/glorious-upheaval)

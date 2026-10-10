@@ -30,14 +30,14 @@
       <div class="hero-text">
         <p class="eyebrow"><span class="eyebrow-dot"></span> THE ELDER SCROLLS · KOREAN LIBRARY</p>
         <h1 id="hero-title">세월이 지나도<br><em>이야기는 남는다.</em></h1>
-        <p class="hero-subtitle">탐리엘 곳곳에 흩어진 서적을 한국어로 읽는 작은 도서관. 네 시대의 이야기와 오래된 기록을 한자리에서 만나보세요.</p>
+        <p class="hero-subtitle">탐리엘 곳곳에 흩어진 서적과 오래된 기록을 한자리에서 만나보세요. 한국어 번역과 번역을 기다리는 원문을 함께 모았습니다.</p>
         <a class="hero-cta" href="#library">서고 둘러보기 <span aria-hidden="true">↗</span></a>
         <div class="hero-stats">
           <span><strong id="heroTotal">—</strong><small>수록 서적</small></span>
           <span class="stats-divider"></span>
           <span><strong id="heroGames">—</strong><small>작품</small></span>
           <span class="stats-divider"></span>
-          <span><strong>한국어</strong><small>서적 본문</small></span>
+          <span><strong>한국어 · 영어</strong><small>서적 본문</small></span>
         </div>
       </div>
       <div class="hero-art" aria-hidden="true">
@@ -69,34 +69,34 @@
       <div class="untranslated-series-header">
         <div>
           <p class="eyebrow">01-B / MORE STORIES TO COLLECT</p>
-          <h2 id="untranslatedSeriesTitle">미번역 시리즈 서가 <span class="heading-ornament" aria-hidden="true">✧</span></h2>
-          <p>우선 서적 제목과 출처부터 수록했어. 본문 전문은 배포 허용 여부를 확인한 뒤 채워집니다.</p>
+          <h2 id="untranslatedSeriesTitle">외전과 온라인 서가 <span class="heading-ornament" aria-hidden="true">✧</span></h2>
+          <p>다른 시리즈와 같은 서가에서 읽을 수 있습니다. 아직 번역하지 않은 서적은 영문 본문을 수록했습니다.</p>
         </div>
-        <a class="untranslated-series-all" href="./imperial-library.html">전체 미번역 목록 보기 <span aria-hidden="true">↗</span></a>
+        <a class="untranslated-series-all" href="#library">전체 서적 목록 보기 <span aria-hidden="true">↗</span></a>
       </div>
       <div class="game-overview untranslated-overview" aria-label="미번역 게임 및 기록 분류">
-        <a class="game-tile game-tile--pending" href="./imperial-library.html?game=battlespire">
-          <span class="tile-count">미번역 · 50건</span><span class="tile-number" aria-hidden="true">BS</span>
+        <button class="game-tile" data-select-game="battlespire" type="button">
+          <span class="tile-count" id="count-battlespire">—권</span><span class="tile-number" aria-hidden="true">BS</span>
           <span class="tile-details"><small>AN ELDER SCROLLS LEGEND</small><strong>Battlespire</strong><span>배틀스파이어</span></span><span class="tile-arrow">↗</span>
-        </a>
-        <a class="game-tile game-tile--pending" href="./imperial-library.html?game=redguard">
-          <span class="tile-count">미번역 · 16건</span><span class="tile-number" aria-hidden="true">RG</span>
+        </button>
+        <button class="game-tile" data-select-game="redguard" type="button">
+          <span class="tile-count" id="count-redguard">—권</span><span class="tile-number" aria-hidden="true">RG</span>
           <span class="tile-details"><small>THE ELDER SCROLLS ADVENTURES</small><strong>Redguard</strong><span>레드가드</span></span><span class="tile-arrow">↗</span>
-        </a>
-        <a class="game-tile game-tile--pending" href="./imperial-library.html?game=shadowkey">
-          <span class="tile-count">미번역 · 5건</span><span class="tile-number" aria-hidden="true">SK</span>
+        </button>
+        <button class="game-tile" data-select-game="shadowkey" type="button">
+          <span class="tile-count" id="count-shadowkey">—권</span><span class="tile-number" aria-hidden="true">SK</span>
           <span class="tile-details"><small>THE ELDER SCROLLS TRAVELS</small><strong>Shadowkey</strong><span>섀도키</span></span><span class="tile-arrow">↗</span>
-        </a>
-        <a class="game-tile game-tile--pending" href="./imperial-library.html?game=eso">
-          <span class="tile-count">미번역 · 2,533건</span><span class="tile-number" aria-hidden="true">O</span>
+        </button>
+        <button class="game-tile" data-select-game="eso" type="button">
+          <span class="tile-count" id="count-eso">—권</span><span class="tile-number" aria-hidden="true">O</span>
           <span class="tile-details"><small>THE ELDER SCROLLS</small><strong>Online</strong><span>ESO 일반 서적</span></span><span class="tile-arrow">↗</span>
-        </a>
-        <a class="game-tile game-tile--pending" href="./imperial-library.html?game=eso_journals">
-          <span class="tile-count">미번역 · 2,233건</span><span class="tile-number" aria-hidden="true">✎</span>
+        </button>
+        <button class="game-tile" data-select-game="eso_journals" type="button">
+          <span class="tile-count" id="count-eso_journals">—권</span><span class="tile-number" aria-hidden="true">✎</span>
           <span class="tile-details"><small>ELDER SCROLLS ONLINE</small><strong>Journals</strong><span>ESO 일지·쪽지·편지</span></span><span class="tile-arrow">↗</span>
-        </a>
+        </button>
       </div>
-      <p class="untranslated-disclaimer">현재 수치는 확보된 <strong>서지 색인</strong> 기준이야. ESO 일지·편지 2,233건과 외전 71건은 Imperial Library의 해당 공개 목록에서 직접 확인한 서지 자료야. 원문 전문이나 번역문은 아직 수록하지 않았어.</p>
+      <p class="untranslated-disclaimer">수치는 본문을 확보한 서적 기준입니다. 추가 서적 4,782권을 수록했으며, 나머지 55건은 제목 대조 또는 원문 복원이 필요합니다. 미번역 서적의 판본과 발췌 여부는 번역 전에 확인합니다.</p>
     </section>
 
     <main class="library" id="library">
@@ -117,6 +117,11 @@
           <button type="button" class="filter-tab" data-filter="morrowind" aria-pressed="false">모로윈드</button>
           <button type="button" class="filter-tab" data-filter="oblivion" aria-pressed="false">오블리비언</button>
           <button type="button" class="filter-tab" data-filter="skyrim" aria-pressed="false">스카이림</button>
+          <button type="button" class="filter-tab" data-filter="battlespire" aria-pressed="false">배틀스파이어</button>
+          <button type="button" class="filter-tab" data-filter="redguard" aria-pressed="false">레드가드</button>
+          <button type="button" class="filter-tab" data-filter="shadowkey" aria-pressed="false">섀도키</button>
+          <button type="button" class="filter-tab" data-filter="eso" aria-pressed="false">ESO</button>
+          <button type="button" class="filter-tab" data-filter="eso_journals" aria-pressed="false">ESO 일지·쪽지</button>
         </div>
         <div class="sort-actions">
           <button type="button" class="favorites-button" id="favoritesToggle" aria-pressed="false" title="저장한 서적만 보기">☆ 내 서재</button>
@@ -135,10 +140,10 @@
       <div class="explore-heading" style="padding-top:0"><span>03 / BEYOND THE LIBRARY</span><span class="explore-caption">외부 서적 발굴</span></div>
       <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:26px;flex-wrap:wrap;padding:15px 0">
         <div style="max-width:720px">
-          <h2 id="external-heading" style="font-family:var(--display);font-size:clamp(27px,3vw,37px);font-weight:600;letter-spacing:-.05em;margin:0 0 14px">아직 서가에 없는 이야기들 <span style="color:var(--gold)">✧</span></h2>
-          <p style="font-size:13px;color:var(--muted);line-height:1.95;margin:0;word-break:keep-all">The Imperial Library의 Game Books를 참고해 엘더 스크롤 온라인 등의 새로운 서적 출처를 탐색합니다. 기존 한국어 합본과 구별해, 출처와 서지 정보부터 제공합니다.</p>
+          <h2 id="external-heading" style="font-family:var(--display);font-size:clamp(27px,3vw,37px);font-weight:600;letter-spacing:-.05em;margin:0 0 14px">서적 원자료와 수록 현황 <span style="color:var(--gold)">✧</span></h2>
+          <p style="font-size:13px;color:var(--muted);line-height:1.95;margin:0;word-break:keep-all">작품별 개별 서적, 전체 합본, 40권 분할본과 JSONL 자료를 제공합니다. 추가 서적의 원문 확보 현황과 확인이 필요한 항목도 함께 정리했습니다.</p>
         </div>
-        <a class="hero-cta" href="./imperial-library.html" style="margin-top:12px">외부 서적 찾아보기 <span aria-hidden="true">↗</span></a>
+        <a class="hero-cta" href="./books/ENGLISH_SOURCES.md" style="margin-top:12px">추가 서적 수록 현황 <span aria-hidden="true">↗</span></a>
       </div>
     </section>
 

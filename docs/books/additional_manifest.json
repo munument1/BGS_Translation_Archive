@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "games": [
+    {
+      "game": "battlespire",
+      "books": 50,
+      "individual_files": 50,
+      "duplicate_titles": 0,
+      "available": true,
+      "sha256": "9c8e6f3780294963b46c4b8e994d1668aec79734b31c36c0ca2d727a6e4724e5"
+    },
+    {
+      "game": "redguard",
+      "books": 14,
+      "individual_files": 14,
+      "duplicate_titles": 0,
+      "available": true,
+      "sha256": "ffa1a602fdb9486379889b14fae50af694a1ce7dda327a8637c56a3d804e781e"
+    },
+    {
+      "game": "shadowkey",
+      "books": 5,
+      "individual_files": 5,
+      "duplicate_titles": 0,
+      "available": true,
+      "sha256": "69fecf00a4849264357dc58ca5b1ec02f056b8f7944aa8b425389e3b82aaf393"
+    },
+    {
+      "game": "eso",
+      "books": 2482,
+      "individual_files": 2482,
+      "duplicate_titles": 2,
+      "available": true,
+      "sha256": "2b3ce04216d21d4a1f2a19b01d95a150428ba0b3d6acbb711b878d7987db7add"
+    },
+    {
+      "game": "eso_journals",
+      "books": 2231,
+      "individual_files": 2231,
+      "duplicate_titles": 20,
+      "available": true,
+      "sha256": "19a328d9f3427ad6566a3fefaacac5d6511813985af228ca9743d5fd18ac475f"
+    }
+  ]
+}

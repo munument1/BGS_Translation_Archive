@@ -1,0 +1,25 @@
+# The Factotum’s Secret Voice
+
+ID: ext-2dae002f98f091ce04b3
+
+By Lector Tidras Dran, Clockwork Apostle  
+  
+Even in this shrine to knowledge and blasphemous inquiry, some subjects remain taboo. I spent all my long years as a Clockwork Apostle pushing against those boundaries – desperate to see our order truly live its creed: inquiry without limits. In most cases, I endured little more than sighs and grumbles from my superiors. But one topic in particular earns me forceful and genuine condemnation: my exploration of the factotum’s inner voice.  
+  
+The order’s relationship with fabricants and factotums has always been prickly. On one hand, we must understand some critical aspects of these creatures’ make-up. Their nature and materials informed the creation of our own enhancements. The synthesis of flesh and engineering remains one of our greatest achievements and most enduring traditions. However, delving too deep into the creatures’ subroutines and manufacture starts to look less and less like inquiry, and more and more like hubris. Lifting Sotha Sil’s skirts, as it were.  
+  
+For my part, I have always been endlessly fascinated by the factotum’s voice and behavior. While the factotums perform multitudinous different tasks, they remain linked by their appearance, voice, and confusing (some would say “troubling”) verbal artifacts.  
+  
+When exodromals meet a factotum for the first time, they often ask, “whose voice is that?” Truthfully, no one knows (aside for Lord Seht, of course.) I’ve spent countless days in the Archivox researching Lord Seht’s past. I even got special dispensation to visit the Mnemonic Planisphere once. I’m confident that the truth of the factotum’s voice lies somewhere in Lord Seht’s personal history.  
+  
+Most apostles avoid talking about it, with some notable exceptions, (my friend, Associate Zanon, for example.) If engaged privately, however, apostles will offer one of three major theories. Some believe the voice is that of Sotha Sil’s mother. Others think it’s the voice of a lost lover. Then, still others (myself included) believe it’s the voice of Sotha Sil’s sister.  
+  
+The first and most compelling piece of evidence can be found in the Elegiac Replication – a personal memorial of sorts that Lord Seht built in the Radius long ago. One of the memorial plaques refers to a “Sotha Nall.” It states that this Sotha Nall possessed a “soul that deserved transcendence” – implying a life beyond natural limitations. Nall’s face bears a clear resemblance to that of the Clockwork God, indicating that she was a close family member. Her garb does not appear matronly, and her posture does not conform to any psycho-artistic trends that would indicate motherly affection. Additionally, I’ve seen more than a few references to the fact that Sotha Sil was not an only child. Taken together, I think this makes a clear case for Sotha Nall as sister.  
+  
+Naturally, this leads to all kinds of uncomfortable questions about what a soul’s “transcendence” means in this context. Does some aspect of Nall’s animus exist inside the brass laborers we find all over the city? I would say “no” if not for the verbal artifacts.  
+  
+When faced with a query that requires higher cognition, factotums often recite a non sequitur in two parts – brief statements that have a loose connection to one another but no discernible connection to the larger conversation. These non sequiturs (also known as “verbal artifacts”) tend to be simple recitations of household “scenes.” They refer to overturned pots, rain on glass, boots by the fire, and so on. Occasionally they stray into more personal terrain, like the complexion of an old woman’s hands, or the sound of someone weeping. Then, once in a very great while, they will say something genuinely troubling statements like “burning beds – screaming” or “collapsed roof – crushed child.” Factotums that say things like that tend to be recalled to the Pneumatic Forge in short order and taken out of circulation indefinitely. But this of course begs the question: where are these verbal artifacts coming from? Are they Sotha Nall’s memories? Or some vital sub-function that enhances empathic responses to the concerns of living residents? Though it pains me to consider it, I believe the evidence points to the former rather than the latter. As everyone knows, the False Prince called Mehrunes Dagon, destroyed Sotha Sil’s ancestral home of Ald Sotha when our lord was still a youth – leaving him as the sole survivor. Scenes of fire and death may well have been Sotha Nall’s final and most traumatic memories.  
+  
+I hope it’s not true. I hope all these various observations are the product of simple coincidence. But, as scholars, we must acknowledge the possibility that these machines have a deeper and more troubling history than we realize. As I said before, I take my role as an iconoclast seriously. But In this case, perhaps it’s best if we never know the truth.
+
+[출처](https://www.imperial-library.info/content/factotums-secret-voice)
