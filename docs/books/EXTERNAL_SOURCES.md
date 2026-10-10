@@ -7,6 +7,8 @@
 - 현재 수록: ESO 일반 서적 **2,533개 제목**(공개 EPUB의 NCX 목차 추출), Battlespire **50개**, Redguard **16개**, Shadowkey **5개**, ESO 일지·쪽지·편지 **2,233개**(이 네 범주는 Imperial Library 원문 색인에서 직접 추출한 제목·개별 URL). 총 **4,837개** 참조 항목이며 **번역 전문 0건**
 - 웹 색인: [외부 서적 찾아보기](../imperial-library.html)
 - 통합 색인 데이터: [imperial_game_books_catalog.json](imperial_game_books_catalog.json)
+- 한국어 제목 1차 작업(2026-10-10): 외전 3종 **71건 전부 제목 번역**, 이 중 **5건 한국어 내용 소개**를 [external_korean_previews.json](external_korean_previews.json)으로 추가함. 한국어 전문 공개는 0건이며, 검수·권리 검토 완료 전까지 원문·본문을 공개 색인에 병합하지 않음.
+- 개인 원문 참조 보관소의 `metadata/side_games_ko_drafts_20261010.md`에는 **본문 전체 2건과 본문 발췌·설명 3건**의 한국어 작업 초안을 저장함(공개 저장소에는 포함하지 않음).
 - 한국어 제목을 시범 검토한 ESO 7종: [external_candidates.json](external_candidates.json)
 - 출처 및 재생성: [build_external_game_book_index.py](../../tools/build_external_game_book_index.py), [build-external-book-index.yml](../../.github/workflows/build-external-book-index.yml)
 
