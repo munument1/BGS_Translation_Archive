@@ -18,6 +18,9 @@ def build(root):
     titles = {x['uid']:x['title_ko'] for x in previews['entries'] if x.get('uid') and x.get('title_ko')}
     translations = {x['uid']:x for x in korean['entries'] if x.get('coverage')=='full' and x.get('body_ko')}
     new_korean = json.loads((folder/'external_korean_translations.json').read_text(encoding='utf-8'))
+    review = new_korean.get('review', {})
+    reviewed_uids = set(review.get('reviewed_uids', []))
+    unresolved = review.get('unresolved', {})
     for item in new_korean['entries']:
         if item['uid'] in translations:
             raise ValueError('Existing full Korean translation must be preserved: '+item['uid'])
@@ -43,6 +46,9 @@ def build(root):
                 row.update(translation_coverage=translated['coverage'],
                            needs_translation_review=translated.get('needs_translation_review',True),
                            translation_notes=translated.get('translation_notes',''))
+                if item['uid'] in reviewed_uids:
+                    row.update(translation_review='needs_source_check' if item['uid'] in unresolved else 'source_compared',
+                               review_method=review['method'],review_notes=unresolved.get(item['uid'],''))
         groups[item['game']].append(row)
     catalog, fulltext, results = [], [], []
     for game,label in LABELS.items():
@@ -62,6 +68,9 @@ def build(root):
             if row.get('translation_coverage')=='available_source_text':
                 catalog[-1].update(translation_coverage=row['translation_coverage'],
                                    needs_translation_review=row['needs_translation_review'])
+                if row.get('translation_review'):
+                    catalog[-1].update(translation_review=row['translation_review'],
+                                       review_method=row['review_method'],review_notes=row['review_notes'])
             fulltext.append(dict(uid=row['book_id'],text=body))
     (folder/'additional_catalog.json').write_text(json.dumps(dict(schema_version=1,books=catalog,
         counts={g:len(groups[g]) for g in LABELS}),ensure_ascii=False,separators=(',',':')),encoding='utf-8')

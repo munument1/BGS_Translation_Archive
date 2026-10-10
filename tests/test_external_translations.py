@@ -72,6 +72,30 @@ class TranslationTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "Translation source has changed"):
             build(self.root)
 
+    def test_review_distinguishes_source_comparison_from_unresolved_text(self):
+        self.write("external_korean_translations.json", {
+            "review": {"method": "ai_source_comparison", "reviewed_uids": ["new"],
+                       "unresolved": {"new": "원본 이미지 확인 필요"}},
+            "entries": [self.translation]
+        })
+        build(self.root)
+        books = json.loads((self.folder / "additional_catalog.json").read_text(encoding="utf-8"))["books"]
+        book = next(b for b in books if b["uid"] == "new")
+        self.assertEqual(book["translation_review"], "needs_source_check")
+        self.assertEqual(book["review_method"], "ai_source_comparison")
+        self.assertEqual(book["review_notes"], "원본 이미지 확인 필요")
+        self.assertTrue(book["needs_translation_review"])
+        self.write("external_korean_translations.json", {
+            "review": {"method": "ai_source_comparison", "reviewed_uids": ["new"], "unresolved": {}},
+            "entries": [self.translation]
+        })
+        build(self.root)
+        books = json.loads((self.folder / "additional_catalog.json").read_text(encoding="utf-8"))["books"]
+        book = next(b for b in books if b["uid"] == "new")
+        self.assertEqual(book["translation_review"], "source_compared")
+        self.assertEqual(book["review_notes"], "")
+        self.assertTrue(book["needs_translation_review"], "AI comparison does not claim human review")
+
     def test_existing_full_translation_cannot_be_replaced(self):
         self.translation["uid"] = "legacy"
         self.write("external_korean_translations.json", {"entries": [self.translation]})
@@ -149,3 +173,42 @@ class PublishedTranslationTests(unittest.TestCase):
         for name in names:
             with self.subTest(name=name):
                 self.assertEqual(translated.count("(" + name + ")"), 1)
+
+    def test_review_covers_exactly_the_available_translations(self):
+        data = json.loads((self.folder / "external_korean_translations.json").read_text(encoding="utf-8"))
+        review = data["review"]
+        ids = {row["uid"] for row in self.translations}
+        self.assertEqual(set(review["reviewed_uids"]), ids)
+        self.assertEqual(len(review["reviewed_uids"]), len(ids))
+        self.assertTrue(set(review["unresolved"]) <= ids)
+        self.assertEqual(review["method"], "ai_source_comparison")
+        books = {
+            x["uid"]: x for x in json.loads(
+                (self.folder / "additional_catalog.json").read_text(encoding="utf-8")
+            )["books"]
+        }
+        for row in self.translations:
+            with self.subTest(uid=row["uid"]):
+                self.assertNotIn("\ufffd", row["body_ko"])
+                self.assertNotIn("\ufffd", row["title_ko"])
+                expected = "needs_source_check" if row["uid"] in review["unresolved"] else "source_compared"
+                self.assertEqual(books[row["uid"]]["translation_review"], expected)
+                self.assertTrue(books[row["uid"]]["needs_translation_review"])
+                self.assertEqual(books[row["uid"]]["review_notes"], review["unresolved"].get(row["uid"], ""))
+
+    def test_cipher_and_numeric_clues_are_preserved_from_the_source(self):
+        import re
+        translations = {x["uid"]: x["body_ko"] for x in self.translations}
+        for uid in (
+            "ext-624381df414cf9d33dcf", "ext-9cb02ea71d6096f40a0b",
+            "ext-1c57abb1320abd00eff4", "ext-6da2228c392847c44ec1"
+        ):
+            source = self.sources[uid]["body_en"]
+            quoted = re.findall(r"\b[A-Z]{2,}(?:-[A-Z]+)*\b|\b\d+(?:-\d+)+\b", source)
+            for literal in quoted:
+                with self.subTest(uid=uid, literal=literal):
+                    self.assertIn(literal, translations[uid])
+        for uid in ("ext-f8fc052fab5bdd6b3dd4", "ext-fded7edea602adab5128"):
+            for literal in re.findall(r"\d+(?:\.\d+)?", self.sources[uid]["body_en"]):
+                with self.subTest(uid=uid, literal=literal):
+                    self.assertIn(literal, translations[uid])

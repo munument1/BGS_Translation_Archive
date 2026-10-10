@@ -87,12 +87,19 @@
     else filtered.sort((a,b)=>collator.compare(a.title,b.title)||collator.compare(a.game,b.game));
     state.filtered=filtered;
   }
+  function translationReviewLabel(book) {
+    if(book.content_language==="en")return "미번역";
+    if(book.translation_review==="needs_source_check")return "원문 확인 필요";
+    if(book.translation_review==="source_compared")return "원문 대조 검수(AI)";
+    return book.needs_translation_review?"번역 검수 필요":"";
+  }
   function makeCard(book) {
     const article=document.createElement("article");
     article.className="book-card";
     const top=document.createElement("div"); top.className="book-card-top";
     const category=document.createElement("span"); category.className="book-category";
-    category.textContent="THE ELDER SCROLLS "+GAME[book.game].roman+" · "+GAME[book.game].ko+(book.content_language==="en"?" · 미번역":book.needs_translation_review?" · 번역 검수 필요":"");
+    const reviewLabel=translationReviewLabel(book);
+    category.textContent="THE ELDER SCROLLS "+GAME[book.game].roman+" · "+GAME[book.game].ko+(reviewLabel?" · "+reviewLabel:"");
     const favorite=document.createElement("button");favorite.type="button";
     favorite.className="book-mark";favorite.dataset.uid=book.uid;
     favorite.addEventListener("click",e=>{e.stopPropagation();setFavorite(book.uid);if(state.savedOnly)render();});
@@ -178,7 +185,8 @@
     $("readerTitle").textContent=book.title;
     $("readerGame").textContent="THE ELDER SCROLLS "+GAME[book.game].roman+" · "+GAME[book.game].en;
     $("readerMetadata").replaceChildren();
-    [book.author, GAME[book.game].ko,book.content_language==="en"?"영문 · 미번역":book.needs_translation_review?"한국어 · 번역 검수 필요":null,book.record_id].filter(Boolean).forEach(value=>{
+    const reviewLabel=translationReviewLabel(book);
+    [book.author, GAME[book.game].ko,reviewLabel?(book.content_language==="en"?"영문":"한국어")+" · "+reviewLabel:null,book.translation_review?"인게임 미검수":null,book.review_notes,book.record_id].filter(Boolean).forEach(value=>{
       const span=document.createElement("span");span.textContent=value;$("readerMetadata").append(span);
     });
     $("readerContent").textContent="서적을 펼치는 중…";
@@ -186,6 +194,7 @@
     $("readerScroller").scrollTop=0;
     $("readerContent").style.setProperty("--reader-size",state.readerSize+"px");
     const source=$("readerSource");
+    source.textContent=book.source?.startsWith("https://www.imperial-library.info/content/")?"영문 원문 출처 ↗":"원본 번역 출처 ↗";
     const validSource=book.source?.startsWith("https://github.com/")||book.source?.startsWith("https://www.imperial-library.info/content/");
     source.hidden=!validSource;
     if(validSource)source.href=book.source;else source.removeAttribute("href");
