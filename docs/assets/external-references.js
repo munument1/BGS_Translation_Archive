@@ -10,7 +10,17 @@
     battlespire:"배틀스파이어",redguard:"레드가드",shadowkey:"섀도키",
     eso:"엘더 스크롤 온라인",eso_journals:"ESO 일지·편지"
   };
-  let all=[],game="all",visible=48,filtered=[],lookup={};
+  let all=[],game="all",visible=48,filtered=[],lookup={},reader=null;
+  try {
+    reader=await new Promise(resolve=>{
+      const script=document.createElement("script");
+      script.src="./assets/external-reader.js";
+      script.onload=()=>resolve(window.TamrielExternalReader||null);
+      script.onerror=()=>resolve(null);
+      document.head.appendChild(script);
+    });
+  }catch(error){console.warn("Korean reader unavailable",error);}
+
   function card(x){
     const node=document.createElement("article");
     node.className="reference-card";
@@ -23,7 +33,11 @@
     const desc=document.createElement("p");
     desc.textContent=x.source_description||"참고용 서적 제목 · 게임별 출처";
     const note=document.createElement("div");note.className="review-note";
-    note.textContent=x.korean_summary?
+    const translated=reader?.get(x.uid);
+    note.textContent=translated?
+      (translated.coverage==="full"?"한국어 본문 번역 수록":
+       translated.coverage==="fragment"?"한국어 발췌 번역 수록":"한국어 도서 설명 수록"):
+      x.korean_summary?
       "한국어 제목·내용 소개 제공 · 번역 전문 미수록 · 개별 출처 링크":
       (x.korean_title?
         "한국어 제목 1차 번역 · 본문 미번역 · 출처 링크":
@@ -36,7 +50,16 @@
     if(!url || !url.startsWith("https://www.imperial-library.info/"))throw Error("Invalid source URL");
     link.href=url;
     link.textContent=x.direct_link?"원문 서적 페이지 ↗":"게임별 원문 목록 ↗";
-    node.append(tag,title,english,desc,note,link);
+    node.append(tag,title,english,desc,note);
+    if(translated){
+      const read=document.createElement("button");
+      read.type="button";
+      read.className="til-book-button";
+      read.textContent=translated.coverage==="description_only"?"한국어 설명 읽기":translated.coverage==="fragment"?"한국어 발췌문 읽기":"한국어 본문 읽기";
+      read.addEventListener("click",()=>reader.open(x.uid));
+      node.append(read);
+    }
+    node.append(link);
     const path=lookup[x.uid];
     if(path) {
       const work=document.createElement("a");
@@ -52,7 +75,8 @@
     const term=search.value.trim().toLocaleLowerCase();
     filtered=all.filter(x=>(game==="all"||x.game===game)&&
       (x.title_en+" "+(x.title_ko||"")+" "+(x.source_description||"")).toLocaleLowerCase().includes(term));
-    count.textContent=filtered.length.toLocaleString("ko-KR")+"종의 서지 항목 (번역 전문 제외)";
+    const readable=filtered.filter(x=>reader?.has(x.uid)).length;
+    count.textContent=filtered.length.toLocaleString("ko-KR")+"종의 서적 · 한국어 읽기 "+readable.toLocaleString("ko-KR")+"건";
     root.replaceChildren(...filtered.slice(0,visible).map(card));
     more.hidden=visible>=filtered.length;
     more.textContent="다음 "+Math.min(48,filtered.length-visible).toLocaleString("ko-KR")+"건 보기 ↓";
@@ -112,9 +136,22 @@
         if(mapping.workbooks&&typeof mapping.workbooks==="object")lookup=mapping.workbooks;
       }
     }catch(error){console.warn("Workbook links unavailable",error);}
+    try {
+      const bodyResponse=await fetch("./books/external_korean_texts.json");
+      if(bodyResponse.ok && reader){
+        const bodies=await bodyResponse.json();
+        reader.setBooks(bodies.entries||[]);
+      }
+    }catch(error){console.warn("Korean book texts unavailable",error);}
+    const intro=document.querySelector(".reference-intro");
+    if(intro)intro.textContent="배틀스파이어, 레드가드, 섀도키, 엘더 스크롤 온라인(ESO)의 서적을 탐색합니다. 외전 3종의 한국어 제목과 확보된 한국어 본문·발췌 번역을 읽을 수 있습니다.";
+    const notice=document.querySelector(".reference-notice");
+    if(notice && notice.lastChild?.nodeType===3)notice.lastChild.textContent=" — 외전 3종 71건의 제목을 번역했습니다. 한국어 읽기 버튼이 표시된 서적은 본문 또는 확보된 발췌문을 제공하며, 자료가 없는 책은 원문 출처로 연결합니다.";
     render();
     const params=new URLSearchParams(location.search);
     if(params.has("game")&&params.get("game") in LABELS)setGame(params.get("game"));
+    const bookUid=params.get("book");
+    if(bookUid&&reader?.has(bookUid))reader.open(bookUid,false);
   }catch(e){
     console.warn(e);count.textContent="목록을 읽지 못했습니다.";
     error.hidden=false;
