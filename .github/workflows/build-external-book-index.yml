@@ -55,7 +55,9 @@ jobs:
           from pathlib import Path
           data=json.loads(Path('docs/books/imperial_game_books_catalog.json').read_text(encoding='utf-8'))
           assert len(data['entries']) == data['total']
-          assert data['counts']['eso'] >= 2000
+          assert data['counts']['eso'] == 2533
+          assert data['counts']['eso_journals'] >= 2200
+          assert data['total'] >= 4800
           assert len(set(row['uid'] for row in data['entries'])) == data['total']
           assert all(row['status']=='bibliography_only' and not row['full_text_included'] for row in data['entries'])
           assert all(row['translation_status']=='untranslated' and row['body_en'] is None and row['body_ko'] is None for row in data['entries'])

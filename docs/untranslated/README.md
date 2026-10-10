@@ -2,13 +2,13 @@
 
 외전 및 ESO 서적의 **작품별·책별 번역 작업 파일**을 모아 두었습니다.
 
-- [배틀스파이어](battlespire/index.md): 54건
-- [레드가드](redguard/index.md): 13건
-- [섀도키](shadowkey/index.md): 8건
+- [배틀스파이어](battlespire/index.md): 50건
+- [레드가드](redguard/index.md): 16건
+- [섀도키](shadowkey/index.md): 5건
 - [ESO 일반 서적](eso/index.md): 2,533건
-- [ESO 일지·편지·쪽지](eso_journals/index.md): 11건 (전체가 아닌 확인된 일부)
+- [ESO 일지·편지·쪽지](eso_journals/index.md): 2,233건 (공개 목록 확인)
 
-총 **2,619개의 개별 Markdown 작업 파일**이 있습니다. 기존 한국어 번역 완료 서적 2,629건과는 별개입니다.
+총 **4,837개의 개별 Markdown 작업 파일**이 있습니다. 기존 한국어 번역 완료 서적 2,629건과는 별개입니다.
 
 ## 파일 구성
 

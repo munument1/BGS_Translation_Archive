@@ -4,13 +4,13 @@
 
 - 기존 한국어 서고: 대거폴 93건, 모로윈드 632건, 오블리비언 927건, 스카이림 977건, 총 2,629건
 - 외부 원문 색인: [The Imperial Library · Game Books](https://www.imperial-library.info/game-books)
-- 현재 수록: ESO 일반 서적 **2,533개 제목**(공개 EPUB의 NCX 목차 추출), Battlespire **54개**, Redguard **13개**, Shadowkey **8개**, ESO 일지·쪽지·편지 **11개**(후자의 네 범주는 외부 서지 자료 기반 선별 목록). 총 **2,619개** 참조 항목이며 **번역 전문 0건**
+- 현재 수록: ESO 일반 서적 **2,533개 제목**(공개 EPUB의 NCX 목차 추출), Battlespire **50개**, Redguard **16개**, Shadowkey **5개**, ESO 일지·쪽지·편지 **2,233개**(이 네 범주는 Imperial Library 원문 색인에서 직접 추출한 제목·개별 URL). 총 **4,837개** 참조 항목이며 **번역 전문 0건**
 - 웹 색인: [외부 서적 찾아보기](../imperial-library.html)
 - 통합 색인 데이터: [imperial_game_books_catalog.json](imperial_game_books_catalog.json)
 - 한국어 제목을 시범 검토한 ESO 7종: [external_candidates.json](external_candidates.json)
 - 출처 및 재생성: [build_external_game_book_index.py](../../tools/build_external_game_book_index.py), [build-external-book-index.yml](../../.github/workflows/build-external-book-index.yml)
 
-**이 문서는 아직 네 작품의 전체 영문 서적명을 전수 대조한 결과가 아닙니다.** 원문 사이트 Game Books 목록에 대한 자동 접근이 403으로 제한됩니다. 대량 ESO 항목은 [HorrorPills/epub-imperial-library](https://github.com/HorrorPills/epub-imperial-library)의 EPUB 목차(NCX)에 기재된 **제목만** 추출했습니다. 나머지 항목은 공개 위키 목록 등을 참고하여 선별했습니다. ESO 일지·편지 전체를 전수 확보한 것은 아닙니다.
+**이 문서는 아직 네 작품의 전체 영문 서적명을 전수 대조한 결과가 아닙니다.** 원문 사이트 Game Books 목록에 대한 자동 접근이 403으로 제한됩니다. 대량 ESO 항목은 [HorrorPills/epub-imperial-library](https://github.com/HorrorPills/epub-imperial-library)의 EPUB 목차(NCX)에 기재된 **제목만** 추출했습니다. PC에서 해당 페이지가 정상 열려 외전 3종 및 ESO 일지 페이지의 전체 목록과 개별 링크를 직접 추출했습니다. 다만 원문 전체 사이트를 망라한 결과는 아닙니다.
 
 ## 원문 게임별 카탈로그
 
@@ -84,8 +84,8 @@ The Imperial Library의 원문 페이지 공개 자체는 번역 전문을 복�
 ## 추가 가능한 다음 범위
 
 - ESO 전용 문헌: EPUB 기반 참고 색인 **2,533종** 확보. 본문·개별 URL·한국어 제목은 검수 및 권리 확인 필요
-- ESO 일지·편지: 선별 11종만 확보. 지정 목록의 전체 수록 건수는 확인되지 않았습니다.
-- TES: Battlespire, Redguard 등 외전 자료: Imperial Library 원문 목록 및 데이터 확보 후 별도 분류
+- ESO 일지·편지: 원문 페이지 2,233건의 제목·개별 URL을 확보. 일부 서적은 시험적으로 로컬 작업 폴더에만 원문을 추출했습니다.
+- TES: Battlespire(50건), Redguard(16건), Shadowkey(5건) — 실제 원문 색인 및 개별 서적 URL 확보. 개별 본문 일부만 로컬 검증.
 - 네 작품의 누락: 외부 영어 제목을 원본 게임 BOOK 레코드와 식별자 기준으로 비교
 
 원본의 **권리 조건 확인 및 사람 검수 없이 '번역 완료'로 표시하지 않습니다.**

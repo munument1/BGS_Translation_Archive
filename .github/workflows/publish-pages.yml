@@ -53,7 +53,7 @@ jobs:
           print('Verified catalog entries: '+str(len(c['books']))+', missing files: '+str(len(missing)))
           assert not missing, missing[:10]
           ext=json.loads((root/'imperial_game_books_catalog.json').read_text(encoding='utf-8'))
-          assert ext['total'] >= 2600
+          assert ext['total'] >= 4800
           assert ext['counts']['eso'] >= 2500
           assert len(ext['entries']) == ext['total']
           look=json.loads(Path('docs/untranslated/lookup.json').read_text(encoding='utf-8'))['workbooks']

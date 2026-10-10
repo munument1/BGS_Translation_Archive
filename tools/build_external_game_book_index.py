@@ -71,19 +71,25 @@ def build(epub,curated,known_refs):
             title_ko=k.get("title_ko",""),direct_url=k.get("url")))
     counts={"eso":len(rows)}
     for game,collection in refs["groups"].items():
-        titles=collection["titles"]
-        seen=set()
-        for i,title in enumerate(titles,1):
-            if key(title) in seen:
-                raise ValueError(f"Repeated source title in {game}: {title}")
-            seen.add(key(title))
-            rows.append(make_record(game,title,i,collection["url"],
-                "Manually cross-referenced public book indexes"))
-        counts[game]=len(titles)
+        listing=collection.get("items",[])
+        if not listing:
+            listing=[{"title_en":title} for title in collection.get("titles",[])]
+        source_url=collection.get("source_url") or collection.get("url")
+        seen_urls=set()
+        for i,item in enumerate(listing,1):
+            title=item.get("title_en") or item.get("title")
+            url=item.get("url")
+            if url and url in seen_urls:
+                raise ValueError(f"Repeated source URL in {game}: {url}")
+            if url: seen_urls.add(url)
+            rows.append(make_record(game,title,i,source_url,
+                "The Imperial Library Game Books public category index",
+                direct_url=url))
+        counts[game]=len(listing)
     return {
         "schema_version":1,
         "title":"The Imperial Library — additional game books bibliography",
-        "notice_ko":"서지 제목 색인입니다. 원문 전문·번역 전문을 포함하지 않으며, 전체 Imperial Library 페이지 전수 수집도 아닙니다.",
+        "notice_ko":"서지 색인입니다. ESO 일반 서적은 공개 EPUB 목차, 나머지 네 게임/문서 분류는 The Imperial Library 원문 목록 페이지의 제목과 개별 링크입니다. 본문은 포함하지 않습니다.",
         "original_sources":{
             "battlespire":ROOT_URL+"tesl-battlespire-books",
             "redguard":ROOT_URL+"tesa-redguard-books",
@@ -97,7 +103,7 @@ def build(epub,curated,known_refs):
 def main():
     ap=argparse.ArgumentParser()
     ap.add_argument("--eso-epub",type=Path,required=True)
-    ap.add_argument("--curated",type=Path,default=Path("sources/imperial_library/curated_indexes.json"))
+    ap.add_argument("--curated",type=Path,default=Path("sources/imperial_library/live_indexes.json"))
     ap.add_argument("--known",type=Path,default=Path("docs/books/external_candidates.json"))
     ap.add_argument("--output",type=Path,default=Path("docs/books/imperial_game_books_catalog.json"))
     args=ap.parse_args()
