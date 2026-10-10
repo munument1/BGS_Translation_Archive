@@ -1,8 +1,8 @@
 "use strict";
 (() => {
   let books = new Map();
-  let layer = null, ui = null, returnFocus = null, openUid = null;
-  const labels = {battlespire:"배틀스파이어",redguard:"레드가드",shadowkey:"섀도키"};
+  let layer = null, ui = null, returnFocus = null, openUid = null, language = "en";
+  const labels = {battlespire:"배틀스파이어",redguard:"레드가드",shadowkey:"섀도키",eso:"엘더 스크롤 온라인",eso_journals:"ESO 일지·편지"};
   const coverage = {
     full:"한국어 번역 본문",
     fragment:"현재 확보된 원문에 대한 한국어 번역 · 일부 발췌",
@@ -52,6 +52,9 @@
     title.id="tilReaderTitle";
     const english=add(scroll,"div","til-reader-eng","");
     const status=add(scroll,"div","til-reader-status","");
+    const switchLanguage=add(scroll,"button","til-book-button","");
+    switchLanguage.type="button";
+    switchLanguage.addEventListener("click",()=>{language=language==="en"?"ko":"en";showBody();});
     const body=add(scroll,"article","til-reader-body","");
     body.setAttribute("aria-label","한국어 번역 내용");
     const source=add(scroll,"a","til-reader-source","원문 출처 보기 ↗");
@@ -64,7 +67,7 @@
       if(!layer.hidden && event.key==="Escape"){event.preventDefault();close();}
       if(!layer.hidden && event.key==="Tab"){
         // Keep keyboard focus inside the open reader.
-        const focusable=[closeButton,source].filter(el=>el.offsetParent!==null);
+        const focusable=[closeButton,switchLanguage,source].filter(el=>el.offsetParent!==null);
         if(focusable.length && event.shiftKey && document.activeElement===focusable[0]){
           event.preventDefault();focusable[focusable.length-1].focus();
         }else if(focusable.length && !event.shiftKey && document.activeElement===focusable[focusable.length-1]){
@@ -72,23 +75,33 @@
         }
       }
     });
-    ui={game,closeButton,scroll,title,english,status,body,source};
+    ui={game,closeButton,scroll,title,english,status,body,source,switchLanguage};
   }
   function setBooks(entries){
-    books=new Map((Array.isArray(entries)?entries:[]).filter(entry=>entry.uid&&entry.body_ko).map(entry=>[entry.uid,entry]));
+    books=new Map((Array.isArray(entries)?entries:[]).filter(entry=>entry.uid&&(entry.body_ko||entry.body_en)).map(entry=>[entry.uid,{...books.get(entry.uid),...entry}]));
+  }
+  function showBody(){
+    const book=books.get(openUid);
+    const english=language==="en";
+    ui.title.textContent=english?book.title_en:(book.title_ko||book.title_en);
+    ui.status.textContent=english?"영문 원문 · 내려받은 페이지 기준 (판본·발췌 여부 검수 전)":coverage[book.coverage]||"한국어 번역";
+    ui.body.textContent=english?book.body_en:book.body_ko;
+    ui.body.lang=english?"en":"ko";
+    ui.body.setAttribute("aria-label",english?"영문 원문":"한국어 번역 내용");
+    ui.switchLanguage.hidden=!(book.body_en&&book.body_ko);
+    ui.switchLanguage.textContent=english?"한국어 번역 보기":"영문 원문 보기";
   }
   function has(uid){return books.has(uid);}
   function get(uid){return books.get(uid)||null;}
-  function open(uid,changeHistory=true){
+  function open(uid,changeHistory=true,preferredLanguage=null){
     const book=books.get(uid);if(!book)return false;
     if(!layer)build();
     returnFocus=document.activeElement;
     openUid=uid;
+    language=preferredLanguage||(book.body_en?"en":"ko");
     ui.game.textContent="THE ELDER SCROLLS · "+(labels[book.game]||book.game);
-    ui.title.textContent=book.title_ko;
     ui.english.textContent=book.title_en;
-    ui.status.textContent=coverage[book.coverage]||"한국어 번역";
-    ui.body.textContent=book.body_ko;
+    showBody();
     if(/^https:\/\/www\.imperial-library\.info\//.test(book.source_url)){
       ui.source.href=book.source_url;
       ui.source.hidden=false;

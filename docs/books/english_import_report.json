@@ -1,0 +1,490 @@
+{
+  "schema_version": 1,
+  "indexed_total": 4837,
+  "imported": 4782,
+  "unavailable": 33,
+  "ambiguous": 22,
+  "source_pages": 5303,
+  "games": {
+    "battlespire": {
+      "total": 50,
+      "imported": 50
+    },
+    "redguard": {
+      "total": 16,
+      "source_page_without_extractable_text": 2,
+      "imported": 14
+    },
+    "shadowkey": {
+      "total": 5,
+      "imported": 5
+    },
+    "eso": {
+      "total": 2533,
+      "imported": 2482,
+      "no_individual_link": 26,
+      "ambiguous_title": 22,
+      "source_page_without_extractable_text": 3
+    },
+    "eso_journals": {
+      "total": 2233,
+      "imported": 2231,
+      "source_page_without_extractable_text": 2
+    }
+  },
+  "missing": [
+    {
+      "uid": "ext-a1b1ed55c2ed1489fa85",
+      "game": "eso",
+      "title_en": "Arnoit and Lisette: The True Story",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-606dfc3486972dabe27f",
+      "game": "eso",
+      "title_en": "Druid Fables: Butterfly and Faun Lord",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-5881bbc07b21cc3aa626",
+      "game": "eso",
+      "title_en": "A Travel Guide to Tamriel Castles",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-ff92cb3afb930ef8d355",
+      "game": "eso",
+      "title_en": "The Flora and Fauna of Galen",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-cc21eb680c8f1fcc8ec4",
+      "game": "eso",
+      "title_en": "Argument Between Priest and Druid Number 12",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-3bf87f40b9fadd57e52a",
+      "game": "eso",
+      "title_en": "Ansei’s Victory Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-104eb0b2bfd6ea721006",
+      "game": "eso",
+      "title_en": "Blackfeather Knave Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-af571f75b825c98a8061",
+      "game": "eso",
+      "title_en": "Blood Sacrifice Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-e82201c780f0a726197c",
+      "game": "eso",
+      "title_en": "Ceporah’s Insight Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-daa5d25e795ee7c37120",
+      "game": "eso",
+      "title_en": "Grand Larceny Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-831a82d119b9ae81e976",
+      "game": "eso",
+      "title_en": "Grand Oratory Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-48e96fcae3a2e8925695",
+      "game": "eso",
+      "title_en": "Gryphon Fable (Annotated)",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-79750336abc93dffe73a",
+      "game": "eso",
+      "title_en": "Hagraven Matron Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-ab40de71252736c5319a",
+      "game": "eso",
+      "title_en": "Hand of Almalexia Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-d09283299bf17588b169",
+      "game": "eso",
+      "title_en": "Hlaalu Councilor Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-8139df303c9bea7198cd",
+      "game": "eso",
+      "title_en": "House Embassy Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-87abd2f4a3226f68c7c7",
+      "game": "eso",
+      "title_en": "Knight Commander Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-44cc7751539ac05e2f81",
+      "game": "eso",
+      "title_en": "Knights of Saint Pelin Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-3a8b77d1963dc49567b9",
+      "game": "eso",
+      "title_en": "Murder of Crows Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-220a750c10374e403315",
+      "game": "eso",
+      "title_en": "Psijic Relicmaster Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-72e0b60df0fe2ba17fcd",
+      "game": "eso",
+      "title_en": "Ring’s Guile Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-63232a1cc8b894e5aec0",
+      "game": "eso",
+      "title_en": "Serpentguard Rider Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-8594fc8a61b0042e78c5",
+      "game": "eso",
+      "title_en": "Summerset Raid Clue",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-c670c84485e6f955c102",
+      "game": "eso",
+      "title_en": "Daedric Text",
+      "source_url": "https://www.imperial-library.info/content/daedric-text",
+      "status": "source_page_without_extractable_text"
+    },
+    {
+      "uid": "ext-12a03253216c0fb14a29",
+      "game": "eso",
+      "title_en": "Snapdragon’s Burnt Notes",
+      "source_url": "https://www.imperial-library.info/content/snapdragons-burnt-notes",
+      "status": "source_page_without_extractable_text"
+    },
+    {
+      "uid": "ext-2fb0681aba7111114022",
+      "game": "eso",
+      "title_en": "Summoning Rituals of the Arch-Mage",
+      "source_url": "https://www.imperial-library.info/content/summoning-rituals-arch-mage",
+      "status": "source_page_without_extractable_text"
+    },
+    {
+      "uid": "ext-6c837e99205dc1a72b4d",
+      "game": "eso",
+      "title_en": "Seeking New Members!",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-86f9d6c65b5046f96237",
+      "game": "eso",
+      "title_en": "Tales of Tribute: Series One",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-208d396b166aef6810b6",
+      "game": "eso",
+      "title_en": "Bazaar Directory Rubbing",
+      "status": "no_individual_link",
+      "candidate_paths": []
+    },
+    {
+      "uid": "ext-6d7209dc7e6ce13f7b31",
+      "game": "redguard",
+      "title_en": "Book of Dwarven Lore",
+      "source_url": "https://www.imperial-library.info/content/book-dwarven-lore",
+      "status": "source_page_without_extractable_text"
+    },
+    {
+      "uid": "ext-1ed6eefbb311935fe465",
+      "game": "redguard",
+      "title_en": "Restless League Insignia",
+      "source_url": "https://www.imperial-library.info/content/restless-league-insignia",
+      "status": "source_page_without_extractable_text"
+    },
+    {
+      "uid": "ext-959e742b70be37133947",
+      "game": "eso_journals",
+      "title_en": "Dalaneth’s Journal",
+      "source_url": "https://www.imperial-library.info/content/dalaneths-journal",
+      "status": "source_page_without_extractable_text"
+    },
+    {
+      "uid": "ext-3ac104bc2478d57079db",
+      "game": "eso_journals",
+      "title_en": "Blood Pit Prisoner Roll",
+      "source_url": "https://www.imperial-library.info/content/blood-pit-prisoner-roll",
+      "status": "source_page_without_extractable_text"
+    }
+  ],
+  "ambiguous_matches": [
+    {
+      "uid": "ext-fcbe910b23f64d256049",
+      "game": "eso",
+      "title_en": "The Tempest and the Sunflower",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/tempest-and-sunflower",
+        "/content/tempest-and-sunflower-2"
+      ]
+    },
+    {
+      "uid": "ext-055de5bd77b8ccc3072a",
+      "game": "eso",
+      "title_en": "The Apprentice’s Assistant",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/apprentices-assistant",
+        "/content/apprentices-assistant-0"
+      ]
+    },
+    {
+      "uid": "ext-064d45bd416e7e39cc6d",
+      "game": "eso",
+      "title_en": "The Apprentice’s Assistant",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/apprentices-assistant",
+        "/content/apprentices-assistant-0"
+      ]
+    },
+    {
+      "uid": "ext-ceec31f0131d4d23fbf2",
+      "game": "eso",
+      "title_en": "The Gorge",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/gorge",
+        "/content/gorge-0"
+      ]
+    },
+    {
+      "uid": "ext-3aa2c1e41aa52cfbe25d",
+      "game": "eso",
+      "title_en": "Orc Clans and Symbology",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/orc-clans-and-symbology",
+        "/content/orc-clans-and-symbology-2"
+      ]
+    },
+    {
+      "uid": "ext-8820f49dd291cccd7645",
+      "game": "eso",
+      "title_en": "Orc Clans and Symbology",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/orc-clans-and-symbology",
+        "/content/orc-clans-and-symbology-2"
+      ]
+    },
+    {
+      "uid": "ext-2b8ed770591a5722f5b1",
+      "game": "eso",
+      "title_en": "On Those Who Know Baan Dar",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/on-those-who-know-baan-dar",
+        "/content/those-who-know-baan-dar"
+      ]
+    },
+    {
+      "uid": "ext-fa941500ce1536d3ece9",
+      "game": "eso",
+      "title_en": "On Those Who Know Baan Dar",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/on-those-who-know-baan-dar",
+        "/content/those-who-know-baan-dar"
+      ]
+    },
+    {
+      "uid": "ext-c1ab3502d2a560ee1aa0",
+      "game": "eso",
+      "title_en": "The Tempest and the Sunflower",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/tempest-and-sunflower",
+        "/content/tempest-and-sunflower-2"
+      ]
+    },
+    {
+      "uid": "ext-6a8265aa9df82346c6c6",
+      "game": "eso",
+      "title_en": "The Gorge",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/gorge",
+        "/content/gorge-0"
+      ]
+    },
+    {
+      "uid": "ext-5f19259d1e6b12243c8c",
+      "game": "eso",
+      "title_en": "Words and Power",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/words-and-power",
+        "/content/words-and-power-2"
+      ]
+    },
+    {
+      "uid": "ext-979f810b6243e59c3b4f",
+      "game": "eso",
+      "title_en": "Words and Power",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/words-and-power",
+        "/content/words-and-power-2"
+      ]
+    },
+    {
+      "uid": "ext-5019a3e53bcc7da2f620",
+      "game": "eso",
+      "title_en": "The Great Warmth",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/great-warmth",
+        "/content/great-warmth-2"
+      ]
+    },
+    {
+      "uid": "ext-d20b0aa9bcece48e4980",
+      "game": "eso",
+      "title_en": "The Great Warmth",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/great-warmth",
+        "/content/great-warmth-2"
+      ]
+    },
+    {
+      "uid": "ext-3d6823d90521396fbcad",
+      "game": "eso",
+      "title_en": "The Hidden Trials",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/hidden-trials-2",
+        "/content/hidden-trials-3"
+      ]
+    },
+    {
+      "uid": "ext-016eedc1788e3bffbcd2",
+      "game": "eso",
+      "title_en": "Tome of the Anka-Ra Guardians",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/tome-anka-ra-guardians",
+        "/content/tome-anka-ra-guardians-0"
+      ]
+    },
+    {
+      "uid": "ext-0edc14b34beae9b538b9",
+      "game": "eso",
+      "title_en": "The Hidden Trials",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/hidden-trials-2",
+        "/content/hidden-trials-3"
+      ]
+    },
+    {
+      "uid": "ext-88db6ecbfd3daf98452f",
+      "game": "eso",
+      "title_en": "Bhosek’s Punishments",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/bhoseks-punishments",
+        "/content/bhoseks-punishments-2"
+      ]
+    },
+    {
+      "uid": "ext-0ff0c9397fd0bbca576f",
+      "game": "eso",
+      "title_en": "Warning from Fildgor",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/warning-fildgor",
+        "/content/warning-fildgor-2"
+      ]
+    },
+    {
+      "uid": "ext-ff896e126ae2c6527fcb",
+      "game": "eso",
+      "title_en": "Warning from Fildgor",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/warning-fildgor",
+        "/content/warning-fildgor-2"
+      ]
+    },
+    {
+      "uid": "ext-9ec9284e8b34ca3439e0",
+      "game": "eso",
+      "title_en": "Tome of the Anka-Ra Guardians",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/tome-anka-ra-guardians",
+        "/content/tome-anka-ra-guardians-0"
+      ]
+    },
+    {
+      "uid": "ext-6ec758151fc780c0781e",
+      "game": "eso",
+      "title_en": "Bhosek’s Punishments",
+      "status": "ambiguous_title",
+      "candidate_paths": [
+        "/content/bhoseks-punishments",
+        "/content/bhoseks-punishments-2"
+      ]
+    }
+  ]
+}

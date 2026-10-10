@@ -43,6 +43,7 @@ jobs:
           test -f docs/imperial-library.html
           test -f docs/assets/external-references.js
           node --check docs/assets/external-references.js
+          node --check docs/assets/external-reader.js
           python3 - <<'PY'
           import json
           from pathlib import Path
@@ -64,6 +65,15 @@ jobs:
           assert len(references['items']) >= 7
           assert all(row['url'].startswith('https://www.imperial-library.info/content/') for row in references['items'])
           assert all(row['status']=='external_reference_only' and not row['text_republished'] for row in references['items'])
+          english=json.loads((root/'external_english_texts.json').read_text(encoding='utf-8'))['entries']
+          report=json.loads((root/'english_import_report.json').read_text(encoding='utf-8'))
+          ids={row['uid'] for row in ext['entries']}
+          assert len(english)==report['imported']
+          assert len({row['uid'] for row in english})==len(english)
+          assert all(row['uid'] in ids and row['body_en'].strip() for row in english)
+          assert all(row['source_url'].startswith('https://www.imperial-library.info/content/') for row in english)
+          assert report['imported']+report['unavailable']+report['ambiguous']==ext['total']
+          print('Verified English source entries:',len(english))
           PY
 
       - name: Setup GitHub Pages

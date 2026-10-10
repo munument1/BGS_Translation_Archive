@@ -18,3 +18,5 @@ Thumbs.db
 # Local working directories
 work/
 tmp/
+.playwright-cli/
+output/playwright/

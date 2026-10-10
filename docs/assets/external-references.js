@@ -34,7 +34,7 @@
     desc.textContent=x.source_description||"참고용 서적 제목 · 게임별 출처";
     const note=document.createElement("div");note.className="review-note";
     const translated=reader?.get(x.uid);
-    note.textContent=translated?
+    note.textContent=translated?.body_en?(translated.body_ko?"영문 원문 및 한국어 읽기 자료 수록":"영문 원문 수록 · 한국어 번역 대기"):translated?
       (translated.coverage==="full"?"한국어 본문 번역 수록":
        translated.coverage==="fragment"?"한국어 발췌 번역 수록":"한국어 도서 설명 수록"):
       x.korean_summary?
@@ -51,12 +51,18 @@
     link.href=url;
     link.textContent=x.direct_link?"원문 서적 페이지 ↗":"게임별 원문 목록 ↗";
     node.append(tag,title,english,desc,note);
-    if(translated){
+    if(translated?.body_en){
+      const read=document.createElement("button");
+      read.type="button";read.className="til-book-button";read.textContent="영문 원문 읽기";
+      read.addEventListener("click",()=>reader.open(x.uid,true,"en"));
+      node.append(read);
+    }
+    if(translated?.body_ko){
       const read=document.createElement("button");
       read.type="button";
       read.className="til-book-button";
       read.textContent=translated.coverage==="description_only"?"한국어 설명 읽기":translated.coverage==="fragment"?"한국어 발췌문 읽기":"한국어 본문 읽기";
-      read.addEventListener("click",()=>reader.open(x.uid));
+      read.addEventListener("click",()=>reader.open(x.uid,true,"ko"));
       node.append(read);
     }
     node.append(link);
@@ -75,8 +81,9 @@
     const term=search.value.trim().toLocaleLowerCase();
     filtered=all.filter(x=>(game==="all"||x.game===game)&&
       (x.title_en+" "+(x.title_ko||"")+" "+(x.source_description||"")).toLocaleLowerCase().includes(term));
-    const readable=filtered.filter(x=>reader?.has(x.uid)).length;
-    count.textContent=filtered.length.toLocaleString("ko-KR")+"종의 서적 · 한국어 읽기 "+readable.toLocaleString("ko-KR")+"건";
+    const readable=filtered.filter(x=>reader?.get(x.uid)?.body_en).length;
+    const korean=filtered.filter(x=>reader?.get(x.uid)?.body_ko).length;
+    count.textContent=filtered.length.toLocaleString("ko-KR")+"종의 서적 · 영문 원문 "+readable.toLocaleString("ko-KR")+"건 · 한국어 읽기 "+korean.toLocaleString("ko-KR")+"건";
     root.replaceChildren(...filtered.slice(0,visible).map(card));
     more.hidden=visible>=filtered.length;
     more.textContent="다음 "+Math.min(48,filtered.length-visible).toLocaleString("ko-KR")+"건 보기 ↓";
@@ -143,10 +150,24 @@
         reader.setBooks(bodies.entries||[]);
       }
     }catch(error){console.warn("Korean book texts unavailable",error);}
+    try {
+      const englishResponse=await fetch("./books/external_english_texts.json");
+      if(englishResponse.ok && reader){
+        const english=await englishResponse.json();
+        const combined=new Map(all.filter(x=>reader.has(x.uid)).map(x=>[x.uid,reader.get(x.uid)]));
+        for(const book of english.entries||[]){
+          const korean=combined.get(book.uid);
+          combined.set(book.uid,{...book,...korean,body_en:book.body_en});
+        }
+        const byUid=new Map((english.entries||[]).map(book=>[book.uid,book]));
+        all=all.map(book=>byUid.has(book.uid)?{...book,source_url:byUid.get(book.uid).source_url,direct_link:true}:book);
+        reader.setBooks([...combined.values()]);
+      }
+    }catch(error){console.warn("English book texts unavailable",error);}
     const intro=document.querySelector(".reference-intro");
-    if(intro)intro.textContent="배틀스파이어, 레드가드, 섀도키, 엘더 스크롤 온라인(ESO)의 서적을 탐색합니다. 외전 3종의 한국어 제목과 확보된 한국어 본문·발췌 번역을 읽을 수 있습니다.";
+    if(intro)intro.textContent="배틀스파이어, 레드가드, 섀도키, 엘더 스크롤 온라인(ESO)의 서적을 탐색합니다. 확보한 영문 원문과 기존 한국어 본문·발췌 번역을 읽을 수 있습니다.";
     const notice=document.querySelector(".reference-notice");
-    if(notice && notice.lastChild?.nodeType===3)notice.lastChild.textContent=" — 외전 3종 71건의 제목을 번역했습니다. 한국어 읽기 버튼이 표시된 서적은 본문 또는 확보된 발췌문을 제공하며, 자료가 없는 책은 원문 출처로 연결합니다.";
+    if(notice && notice.lastChild?.nodeType===3)notice.lastChild.textContent=" — 영문 원문 읽기 버튼이 표시된 서적은 내려받은 페이지의 본문을 제공합니다. 한국어 번역과 판본 검수는 순차적으로 진행하며, 미확보 자료는 출처 링크에서 확인할 수 있습니다.";
     render();
     const params=new URLSearchParams(location.search);
     if(params.has("game")&&params.get("game") in LABELS)setGame(params.get("game"));

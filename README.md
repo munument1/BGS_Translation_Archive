@@ -7,6 +7,8 @@
 
 ## 엘더 스크롤 서적 합본
 
+- [추가 게임 영문 원문](docs/books/ENGLISH_SOURCES.md) — 로컬 Imperial Library 다운로드와 HTTrack 캐시에서 4,782건의 본문을 확보했습니다. 웹에서 영문을 읽을 수 있고, 로컬 `work/imperial_library_translation/`에 서적별 번역 작업 자료를 생성합니다.
+
 - [탐리엘의 서고 — GitHub Pages 웹 도서관](https://munument1.github.io/BGS_Translation_Archive/) — 웹 검색, 가나다 색인, 작품별 탐색, 읽기 화면
 - [대거폴·모로윈드·오블리비언·스카이림 서적 원자료](docs/books/README.md) — 작품별 합본, 40권 분할본, 제목만 남긴 개별 서적 Markdown, JSONL 데이터
 - 네 작품에서 한국어 본문이 확인된 서적 2,629권을 아카이브했습니다. GitHub Pages 배포 워크플로를 사용합니다.

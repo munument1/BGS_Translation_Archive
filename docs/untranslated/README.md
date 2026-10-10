@@ -1,5 +1,7 @@
 # 미번역 서적 번역 작업실
 
+추가로 [영문 원문 4,782건](../books/ENGLISH_SOURCES.md)을 확보했습니다. [웹 읽기 화면](../imperial-library.html)의 ‘영문 원문 읽기’에서 확인하거나, 로컬 `work/imperial_library_translation/`의 원문·번역 입력란을 사용하세요. 아래의 기존 작업실 Markdown은 번역 보호를 위해 그대로 유지합니다.
+
 외전 및 ESO 서적의 **작품별·책별 번역 작업 파일**을 모아 두었습니다.
 
 - [배틀스파이어](battlespire/index.md): 50건
