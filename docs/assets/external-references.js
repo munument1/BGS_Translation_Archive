@@ -23,11 +23,13 @@
     const desc=document.createElement("p");
     desc.textContent=x.source_description||"참고용 서적 제목 · 게임별 출처";
     const note=document.createElement("div");note.className="review-note";
-    note.textContent=x.korean_preview?
+    note.textContent=x.korean_summary?
       "한국어 제목·내용 소개 제공 · 번역 전문 미수록 · 개별 출처 링크":
-      (x.direct_link?
-        "미번역 · 원문/번역 전문 미수록 · 개별 출처 링크":
-        "미번역 · 원문/번역 전문 미수록 · 게임별 출처 링크");
+      (x.korean_title?
+        "한국어 제목 1차 번역 · 본문 미번역 · 출처 링크":
+        (x.direct_link?
+          "미번역 · 원문/번역 전문 미수록 · 개별 출처 링크":
+          "미번역 · 원문/번역 전문 미수록 · 게임별 출처 링크"));
     const link=document.createElement("a");
     link.target="_blank";link.rel="noopener noreferrer";
     const url=x.source_url;
@@ -89,12 +91,17 @@
       if(previewResponse.ok){
         const previews=await previewResponse.json();
         const norm=text=>String(text||"").toLocaleLowerCase().normalize("NFKC").replace(/\s+/g," ").trim();
+        const byUid=new Map((previews.entries||[]).filter(x=>x.uid).map(x=>[x.uid,x]));
         const byUrl=new Map((previews.entries||[]).map(x=>[String(x.source_url).replace(/\/$/,"").toLowerCase(),x]));
         const byTitle=new Map((previews.entries||[]).map(x=>[x.game+"|"+norm(x.title_en).replace(/\s*\[tesa:\s*redguard\]$/,""),x]));
         all=all.map(x=>{
-          const preview=byUrl.get(String(x.source_url||"").replace(/\/$/,"").toLowerCase())||
+          const preview=byUid.get(x.uid)||
+            byUrl.get(String(x.source_url||"").replace(/\/$/,"").toLowerCase())||
             byTitle.get(x.game+"|"+norm(x.title_en).replace(/\s*\[tesa:\s*redguard\]$/,""));
-          return preview ? {...x,title_ko:preview.title_ko,source_description:preview.summary_ko,korean_preview:true} : x;
+          return preview ? {
+            ...x,title_ko:preview.title_ko,source_description:preview.summary_ko||x.source_description,
+            korean_title:true,korean_summary:!!preview.summary_ko
+          } : x;
         });
       }
     }catch(error){console.warn("Korean book previews unavailable",error);}
