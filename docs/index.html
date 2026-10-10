@@ -4,13 +4,15 @@
   <meta charset="utf-8">
   <meta name="robots" content="noindex, nofollow">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#111719">
+  <meta name="theme-color" content="#241e1b">
   <meta name="description" content="대거폴, 모로윈드, 오블리비언, 스카이림의 한국어 서적을 탐색하고 읽는 비공식 엘더 스크롤 도서관.">
   <meta property="og:title" content="The Elder Scrolls · 한국어 서적 도서관">
   <meta property="og:description" content="탐리엘의 이야기를 한곳에서. 한국어 책 제목 색인과 본문 검색, 작품별 서적 합본.">
   <title>탐리엘의 서고 | The Elder Scrolls 한국어 서적 아카이브</title>
   <link rel="stylesheet" href="./assets/library.css">
+  <link rel="stylesheet" href="./assets/hearth.css">
   <script src="./assets/library.js" defer></script>
+  <script src="./assets/hearth.js" defer></script>
 </head>
 <body data-theme="dark">
   <a class="skip-link" href="#library">도서 목록으로 건너뛰기</a>
@@ -32,6 +34,14 @@
         <h1 id="hero-title">세월이 지나도<br><em>이야기는 남는다.</em></h1>
         <p class="hero-subtitle">탐리엘 곳곳에 흩어진 서적과 오래된 기록을 한자리에서 만나보세요. 한국어 번역과 번역을 기다리는 원문을 함께 모았습니다.</p>
         <a class="hero-cta" href="#library">서고 둘러보기 <span aria-hidden="true">↗</span></a>
+        <div class="hearth-controls" role="group" aria-label="모닥불 배경음">
+          <button type="button" id="hearthToggle" aria-pressed="false" aria-describedby="hearthStatus">
+            <span class="hearth-flame" aria-hidden="true">♨</span><span id="hearthLabel">모닥불 켜기</span>
+          </button>
+          <label for="hearthVolume">음량</label>
+          <input id="hearthVolume" type="range" min="0" max="100" value="30" aria-label="모닥불 음량" aria-valuetext="30%">
+          <span id="hearthStatus" role="status">장작 소리와 함께 쉬어가세요.</span>
+        </div>
         <div class="hero-stats">
           <span><strong id="heroTotal">—</strong><small>수록 서적</small></span>
           <span class="stats-divider"></span>
@@ -45,8 +55,25 @@
         <div class="star star-one">✦</div><div class="star star-two">✧</div><div class="star star-three">✦</div>
         <div class="cover-back"><span>THE ELDER<br>SCROLLS</span></div>
         <div class="cover-front"><div class="cover-rule"></div><span class="cover-symbol">✺</span><span class="cover-kicker">A COLLECTION OF</span><strong>TAMRIEL<br>CHRONICLES</strong><span class="cover-flourish">❦</span><span class="cover-foot">VOLUMES · II — V</span></div>
-        <div class="hero-art-caption">WORDS FROM ANOTHER AGE / 02—05</div>
+        <div class="hero-art-caption">A QUIET CORNER OF TAMRIEL / BY THE HEARTH</div>
       </div>
+    </section>
+
+    <section class="ost-corner" aria-labelledby="ostTitle">
+      <div class="ost-description">
+        <p class="eyebrow">MUSIC BY THE HEARTH</p>
+        <h2 id="ostTitle">모닥불 곁의 선율</h2>
+        <p>엘더스크롤의 선율과 함께 서고에 머물러 보세요. 영상의 재생 버튼을 누르고, 위의 모닥불도 켜면 두 소리를 함께 들을 수 있습니다.</p>
+        <p class="ost-help">음악은 YouTube 플레이어에서, 장작 소리는 모닥불 음량으로 따로 조절합니다. 모바일에서는 음악 음량이 기기의 소리 설정을 따를 수 있습니다.</p>
+        <a href="https://www.youtube.com/watch?v=Sw6__j_qb84" target="_blank" rel="noopener noreferrer">영상이 재생되지 않으면 YouTube에서 듣기 ↗</a>
+      </div>
+      <iframe class="ost-player"
+        src="https://www.youtube-nocookie.com/embed/Sw6__j_qb84?playsinline=1&amp;autoplay=0&amp;loop=1&amp;playlist=Sw6__j_qb84"
+        title="사용자가 선택한 엘더스크롤 OST · YouTube 플레이어"
+        width="480" height="270" loading="lazy"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen></iframe>
     </section>
 
     <div class="explore-heading"><span>01 / THE COLLECTION</span><span class="explore-caption">시리즈별 서고</span></div>
