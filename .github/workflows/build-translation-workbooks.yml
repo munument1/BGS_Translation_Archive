@@ -32,18 +32,21 @@ jobs:
           source=json.loads(Path('docs/books/imperial_game_books_catalog.json').read_text(encoding='utf-8'))
           m=json.loads((root/'manifest.json').read_text(encoding='utf-8'))
           assert m['total']==source['total'] and m['total']>=4800
+          lookup=json.loads((root/'lookup.json').read_text(encoding='utf-8'))['workbooks']
+          assert len(lookup)==m['total']
           for game,d in m['games'].items():
-              paths=list((root/game/'books').rglob('*.md'))
-              assert len(paths)>=d['books'], (game,len(paths),d)
-              names={p.as_posix().casefold() for p in paths}
-              assert len(names)==len(paths)
+              expected=[root/p for p in lookup.values() if p.startswith(game+'/')]
+              assert len(expected)==d['books'], (game,len(expected),d)
+              names={p.as_posix().casefold() for p in expected}
+              assert len(names)==len(expected), game
               index=(root/game/'index.md').read_text(encoding='utf-8')
               assert index.count('](') >= d['books']
-              for p in paths:
+              for p in expected:
+                  assert p.is_file(), str(p)
                   content=p.read_text(encoding='utf-8')
                   assert '**원문 본문:** 미수록' in content
                   assert '## 한국어 번역' in content
-              print(game,len(paths),'workbooks')
+              print(game,len(expected),'indexed workbooks')
           PY
       - name: Commit only new templates and updated indexes
         run: |
