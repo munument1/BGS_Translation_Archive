@@ -5,6 +5,12 @@
 이 저장소는 ESP/ESM 플러그인이나 완성형 한글패치를 직접 배포하는 것을 주목적으로 하지 않습니다.  
 게임 및 플러그인 버전이 바뀌어도 기존 번역을 다시 적용·검수·이식할 수 있도록, 번역 데이터를 정규화된 형태로 보관하는 것이 목적입니다.
 
+## 폴아웃 기록 아카이브
+
+- [황무지의 기록 — GitHub Pages](https://munument1.github.io/BGS_Translation_Archive/fallout/) — 폴아웃 1·2·3·뉴 베가스·4·76의 터미널 기록·홀로테이프·홀로디스크·메모 색인
+- [Fallout 아카이브 데이터와 편집 원칙](docs/fallout/README.md) — 1차 외부 출처 목록, 자료 구조, 저작권/검수 기준
+- 1차 데이터는 **16개 검증된 외부 자료 목록**입니다. 게임 원문의 전문을 재게시하지 않았습니다.
+
 ## 엘더 스크롤 서적 합본
 
 - [추가 게임 영문 원문](docs/books/ENGLISH_SOURCES.md) — 로컬 Imperial Library 다운로드와 HTTrack 캐시에서 4,782건의 본문을 확보했습니다. 웹에서 영문을 읽을 수 있고, 로컬 `work/imperial_library_translation/`에 서적별 번역 작업 자료를 생성합니다.

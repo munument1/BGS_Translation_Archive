@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#111c16">
+  <meta name="description" content="폴아웃 시리즈의 터미널 기록, 홀로테이프, 메모, 홀로디스크를 한국어로 찾아보는 비공식 기록 보관소.">
+  <title>황무지의 기록 | Fallout 한국어 아카이브</title>
+  <style>
+    :root{color-scheme:dark;--bg:#0b130f;--panel:#122118;--panel2:#16291c;--line:#345a3b;--text:#d7edc0;--sub:#91b790;--green:#bbf28e;--amber:#e7b85f;--font:"Pretendard","Noto Sans KR",system-ui,-apple-system,sans-serif}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(ellipse at 90% 0%,#1c3324 0,transparent 42%),var(--bg);color:var(--text);font-family:var(--font);line-height:1.6}
+    body:before{content:"";pointer-events:none;position:fixed;inset:0;z-index:10;background:repeating-linear-gradient(to bottom,transparent 0,transparent 3px,#07130b1c 4px);opacity:.32}
+    a{color:inherit}button,input,select{font:inherit}button{cursor:pointer}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--amber);outline-offset:4px}
+    .shell{max-width:1250px;margin:auto;padding:0 26px}.top{height:78px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;gap:16px}
+    .brand{text-decoration:none;display:flex;gap:14px;align-items:center;color:var(--green)}.brand-icon{font-family:monospace;border:1px solid var(--green);display:grid;place-items:center;width:43px;height:43px;font-size:24px;box-shadow:inset 0 0 20px #9be98117}
+    .brand strong{display:block;font-size:14px;letter-spacing:.19em}.brand small{display:block;color:var(--sub);font-size:12px}.toplinks{display:flex;align-items:center;gap:22px;font-size:13px;color:var(--sub)}.toplinks a{text-decoration:none}.toplinks a:hover{color:var(--green)}
+    .hero{padding:86px 0 64px;display:grid;grid-template-columns:1.25fr .75fr;gap:50px;align-items:center}.overline{font:600 12px ui-monospace,monospace;letter-spacing:.2em;color:var(--amber);text-transform:uppercase}
+    h1{font-size:clamp(39px,5.5vw,69px);line-height:1.13;letter-spacing:-.055em;margin:16px 0 23px;font-weight:800}h1 em{color:var(--green);font-style:normal}.intro{max-width:620px;color:#b3cdb0;font-size:16px;line-height:1.9;margin:0 0 28px}
+    .cta{display:inline-flex;align-items:center;gap:14px;background:var(--green);color:#0b1b0e;text-decoration:none;font-weight:800;padding:13px 19px;border:1px solid var(--green)}.cta:hover{background:#d4ffac}
+    .art{min-height:270px;display:grid;place-items:center;position:relative;overflow:hidden;border:1px solid #456344;background:linear-gradient(160deg,#16291b,#07120d);box-shadow:0 0 70px #0c291e70}
+    .art:after{content:"";position:absolute;inset:10px;border:1px solid #4e704641;pointer-events:none}.art-ring{width:min(58%,230px);aspect-ratio:1;border:2px solid var(--green);border-radius:50%;display:grid;place-items:center;box-shadow:0 0 60px #92ff3f2d,inset 0 0 60px #92ff3f12;transform:rotate(-9deg)}
+    .art-symbol{font:800 clamp(68px,10vw,115px)/1 ui-monospace,monospace;letter-spacing:-.17em;margin-left:-18px;color:var(--green);text-shadow:0 0 35px #9de67773}.art-cap{position:absolute;bottom:22px;text-align:center;width:100%;font:10px ui-monospace,monospace;letter-spacing:.23em;color:var(--sub)}
+    .facts{display:flex;gap:35px;flex-wrap:wrap;margin-top:31px}.fact strong{display:block;color:var(--green);font-size:27px;font-weight:800}.fact small{display:block;font-size:12px;color:var(--sub);letter-spacing:.03em}
+    .section-kicker{display:flex;justify-content:space-between;border-bottom:1px solid var(--line);padding-bottom:12px;margin-bottom:25px;color:var(--sub);font:12px ui-monospace,monospace;letter-spacing:.14em}
+    .filter-head{display:flex;justify-content:space-between;align-items:flex-end;gap:18px;margin:0 0 22px}.filter-head h2{font-size:32px;letter-spacing:-.04em;margin:0}.filter-head p{color:var(--sub);margin:4px 0 0;font-size:13px}
+    .gamebar{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px;margin-bottom:23px}.game-btn{padding:15px 8px;background:var(--panel);border:1px solid var(--line);color:var(--sub);min-width:0}
+    .game-btn strong{font-size:12px;display:block;color:var(--text)}.game-btn small{font-size:10px;display:block;margin-top:3px}.game-btn[aria-pressed="true"]{border-color:var(--green);background:#253c21;color:var(--green);box-shadow:inset 0 0 0 1px #bbf28e35}.game-btn[aria-pressed="true"] strong{color:var(--green)}
+    .toolbar{display:grid;grid-template-columns:1fr minmax(160px,220px) auto;gap:10px;margin-bottom:18px}.search,.type-select,.clear{min-height:47px;background:#102118;border:1px solid #3d6041;color:var(--text);padding:0 16px;border-radius:0}.search::placeholder{color:#81a081}.clear{background:#192a1d;white-space:nowrap}.clear:hover{border-color:var(--green)}
+    .result-line{display:flex;justify-content:space-between;align-items:center;color:var(--sub);font:12px ui-monospace,monospace;letter-spacing:.05em;margin:15px 0 19px}.result-line strong{color:var(--green)}
+    .grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px}.entry{border:1px solid var(--line);background:linear-gradient(150deg,#16261b,#101a14);padding:23px;min-height:212px;display:flex;flex-direction:column;position:relative;transition:border-color .2s,transform .2s}
+    .entry:hover{border-color:var(--green);transform:translateY(-2px)}.entry-top{display:flex;justify-content:space-between;align-items:center;gap:12px}.pill{font:11px ui-monospace,monospace;border:1px solid #47694a;padding:3px 8px;color:var(--green)}.entry-num{font:12px ui-monospace,monospace;color:#829985}
+    .entry h3{font-size:20px;letter-spacing:-.03em;line-height:1.4;margin:19px 0 4px}.entry-en{font-size:12px;color:var(--sub);margin:0;line-height:1.4}.entry-desc{font-size:13px;color:#aec6a6;margin:14px 0 20px}
+    .entry-foot{display:flex;justify-content:space-between;align-items:center;margin-top:auto;gap:8px}.tag{font-size:11px;color:var(--amber)}.open-detail{border:0;background:transparent;color:var(--green);font-weight:700;font-size:13px;padding:4px 0}
+    .empty{padding:54px;text-align:center;color:var(--sub);border:1px dashed var(--line)}.info{margin:66px 0 55px;padding:25px 29px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:#102019}.info h2{margin:0 0 8px;font-size:21px}.info p{color:var(--sub);margin:0;font-size:14px;line-height:1.9}
+    footer{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;border-top:1px solid var(--line);padding:26px 0 35px;color:var(--sub);font-size:12px}footer p{margin:0}footer a{color:var(--green)}
+    dialog{width:min(650px,calc(100vw - 24px));border:1px solid var(--green);padding:0;background:#101c14;color:var(--text);box-shadow:0 20px 100px #000c;max-height:calc(100vh - 32px)}dialog::backdrop{background:#050906e8}.dialog-inner{padding:30px;max-height:calc(100vh - 34px);overflow:auto}.dialog-top{display:flex;justify-content:space-between;align-items:start;gap:18px}.dialog-close{background:none;border:1px solid var(--line);color:var(--green);width:38px;height:38px}.dialog-title{font-size:29px;line-height:1.3;margin:16px 0 5px}.dialog-en{font-size:13px;color:var(--sub);margin:0 0 25px}.dialog-body{white-space:pre-wrap;line-height:2;font-size:15px;padding:24px 0;border-block:1px solid var(--line);color:#c4ddbd}.dialog-meta{margin:23px 0;color:var(--sub);font-size:13px}.dialog-meta dt{display:inline-block;width:84px;color:var(--green)}.dialog-meta dd{display:inline-block;margin:0}.dialog-meta div{margin:8px 0}.outlink{display:inline-flex;align-items:center;gap:10px;padding:11px 18px;border:1px solid var(--green);text-decoration:none;color:var(--green);font-weight:700}.outlink:hover{background:#273d24}
+    @media(max-width:920px){.hero{gap:24px}.gamebar{grid-template-columns:repeat(3,minmax(0,1fr))}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+    @media(max-width:640px){.shell{padding:0 16px}.top{height:65px}.toplinks{gap:12px}.toplinks a{font-size:11px}.brand strong{font-size:11px;letter-spacing:.1em}.brand-icon{width:35px;height:35px}.hero{display:block;padding:53px 0 39px}.intro{font-size:14px}.art{min-height:200px;margin-top:34px}.art-ring{width:165px}.art-symbol{font-size:85px}.facts{gap:24px}.filter-head h2{font-size:27px}.gamebar{grid-template-columns:repeat(3,minmax(0,1fr))}.game-btn{padding:12px 4px}.toolbar{grid-template-columns:1fr 125px}.clear{grid-column:1/-1}.grid{grid-template-columns:1fr}.entry{min-height:195px}.info{margin-top:40px;padding:19px}.dialog-inner{padding:19px}.dialog-title{font-size:23px}}
+    @media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;transition:none!important}}
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header class="top">
+      <a class="brand" href="./index.html" aria-label="황무지의 기록 홈"><span class="brand-icon" aria-hidden="true">⌁</span><span><strong>WASTELAND ARCHIVE</strong><small>황무지의 기록</small></span></a>
+      <nav class="toplinks" aria-label="다른 자료실">
+        <a href="../index.html">탐리엘의 서고 ↗</a>
+        <a href="https://github.com/munument1/BGS_Translation_Archive" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+      </nav>
+    </header>
+    <main>
+      <section class="hero" aria-labelledby="heroTitle">
+        <div>
+          <p class="overline">PIP-BOY DATA / RESTORED RECORDS</p>
+          <h1 id="heroTitle">세상은 무너져도<br><em>기록은 남는다.</em></h1>
+          <p class="intro">핍보이에 남은 메모부터 폐허 속 터미널 로그까지. 폴아웃 세계에 흩어진 이야기와 자료를 하나의 서고에서 찾아보세요.</p>
+          <a class="cta" href="#records">기록 탐색하기 <span aria-hidden="true">↗</span></a>
+          <div class="facts" aria-live="polite">
+            <div class="fact"><strong id="totalCount">—</strong><small>검증된 자료 목록</small></div>
+            <div class="fact"><strong id="gameCount">6</strong><small>작품</small></div>
+            <div class="fact"><strong id="translationCount">0</strong><small>한국어 본문</small></div>
+          </div>
+        </div>
+        <div class="art" aria-hidden="true"><div class="art-ring"><div class="art-symbol">V</div></div><span class="art-cap">VAULT-TEC / INFORMATION RETRIEVAL SYSTEM</span></div>
+      </section>
+      <div class="section-kicker"><span>01 / THE ARCHIVE</span><span>RECORD INDEX · 2077—</span></div>
+      <section id="records" aria-labelledby="recordTitle">
+        <div class="filter-head"><div><h2 id="recordTitle">황무지의 문서함</h2><p>현재는 원문 목록을 연결한 1차 색인입니다. 전문은 추후 확인된 자료부터 수록합니다.</p></div></div>
+        <div class="gamebar" id="games" aria-label="작품 필터"></div>
+        <div class="toolbar">
+          <input id="search" class="search" type="search" placeholder="자료 이름 또는 설명 검색…" aria-label="자료 검색">
+          <select id="type" class="type-select" aria-label="기록 종류">
+            <option value="all">모든 기록</option><option value="terminal">터미널 기록</option><option value="holotape">홀로테이프</option><option value="holodisk">홀로디스크</option><option value="note">메모</option>
+          </select>
+          <button id="reset" class="clear" type="button">필터 초기화</button>
+        </div>
+        <div class="result-line"><span id="resultCount" role="status">목록을 불러오는 중…</span><span>EXTERNAL INDEX / SOURCE VERIFIED</span></div>
+        <div id="cards" class="grid"></div>
+        <p id="empty" class="empty" hidden>일치하는 자료 목록이 없습니다. 필터를 바꿔보세요.</p>
+      </section>
+      <section class="info" aria-labelledby="aboutTitle">
+        <h2 id="aboutTitle">기록 보존 원칙</h2>
+        <p>이 사이트는 비공식·비상업 팬 프로젝트입니다. 현재 수록된 항목은 외부 자료의 제목·분류·출처를 안내하는 색인으로, 원문 전문을 복제하지 않습니다. 외부 링크는 Fallout Wiki로 연결되며 원문의 저작권은 각 권리자에게 있습니다. 향후 게임에서 직접 확보한 한국어 번역문을 추가할 때도 출처와 공개 가능 여부를 따로 확인합니다.</p>
+      </section>
+    </main>
+    <footer><p>WASTELAND ARCHIVE · 비공식 폴아웃 한국어 기록 보관소</p><p><a href="../index.html">탐리엘의 서고</a> · <a href="https://fallout.fandom.com/wiki/Source_text" target="_blank" rel="noopener noreferrer">원문 색인: Fallout Wiki ↗</a></p></footer>
+  </div>
+  <dialog id="reader" aria-labelledby="readerTitle">
+    <div class="dialog-inner">
+      <div class="dialog-top"><span class="overline" id="readerKicker">DATA RECORD</span><button type="button" class="dialog-close" id="readerClose" aria-label="닫기">✕</button></div>
+      <h2 class="dialog-title" id="readerTitle"></h2>
+      <p class="dialog-en" id="readerEn"></p>
+      <div id="readerBody" class="dialog-body"></div>
+      <dl class="dialog-meta" id="readerMeta"></dl>
+      <a class="outlink" id="readerSource" target="_blank" rel="noopener noreferrer">원문 자료 목록 열기 ↗</a>
+    </div>
+  </dialog>
+  <script>
+  (() => {
+    "use strict";
+    const games=[["all","전체 작품","ALL"],["fo1","폴아웃 1","1997"],["fo2","폴아웃 2","1998"],["fo3","폴아웃 3","2008"],["fnv","뉴 베가스","2010"],["fo4","폴아웃 4","2015"],["fo76","폴아웃 76","2018"]];
+    const types={terminal:"터미널",holotape:"홀로테이프",holodisk:"홀로디스크",note:"메모"};
+    const state={game:"all",type:"all",search:"",records:[]};
+    const $=id=>document.getElementById(id);
+    const esc=v=>String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+    const gameName=id=>(games.find(g=>g[0]===id)||[])[1]||id;
+    const wrap=$("cards");
+    $("games").innerHTML=games.map(([id,name,year])=>'<button class="game-btn" type="button" data-game="'+id+'" aria-pressed="'+(id==="all")+'"><strong>'+esc(name)+'</strong><small>'+year+'</small></button>').join("");
+    function render(){
+      document.querySelectorAll("[data-game]").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.game===state.game)));
+      const q=state.search.trim().toLocaleLowerCase();
+      const matches=state.records.filter(r=>(state.game==="all"||r.game===state.game)&&(state.type==="all"||r.type===state.type)&&[r.title_ko,r.title_en,r.description,gameName(r.game),types[r.type]].some(s=>String(s||"").toLocaleLowerCase().includes(q)));
+      $("resultCount").innerHTML='<strong>'+matches.length+'</strong>개 자료 목록 / 총 '+state.records.length+'개';
+      $("empty").hidden=matches.length>0;
+      wrap.innerHTML=matches.map((r,i)=>'<article class="entry"><div class="entry-top"><span class="pill">'+esc(gameName(r.game))+' · '+esc(types[r.type]||r.type)+'</span><span class="entry-num">'+String(i+1).padStart(2,"0")+'</span></div><h3>'+esc(r.title_ko)+'</h3><p class="entry-en">'+esc(r.title_en)+'</p><p class="entry-desc">'+esc(r.description)+'</p><div class="entry-foot"><span class="tag">원문 목차 · 외부 링크</span><button type="button" class="open-detail" data-open="'+esc(r.id)+'" aria-label="'+esc(r.title_ko)+' 상세 보기">상세 보기 →</button></div></article>').join("");
+    }
+    function openRecord(id){
+      const r=state.records.find(x=>x.id===id);if(!r)return;
+      $("readerKicker").textContent=gameName(r.game)+" / "+(types[r.type]||r.type);
+      $("readerTitle").textContent=r.title_ko;$("readerEn").textContent=r.title_en;
+      $("readerBody").textContent=r.body_ko?.trim()||"이 자료는 아직 한국어 본문이 수록되지 않았습니다. 아래 외부 출처에서 개별 기록의 원문을 확인할 수 있습니다. 이 페이지는 현재 원문 목차의 위치를 안내하는 색인입니다.";
+      $("readerMeta").innerHTML='<div><dt>작품</dt><dd>'+esc(gameName(r.game))+'</dd></div><div><dt>종류</dt><dd>'+esc(types[r.type]||r.type)+'</dd></div><div><dt>수록 형태</dt><dd>'+esc(r.body_ko?.trim()?"한국어 본문":"외부 목차 링크")+'</dd></div><div><dt>출처</dt><dd>'+esc(r.source_name||"출처 확인 필요")+'</dd></div>';
+      const link=$("readerSource");const safeUrl=/^https:\/\//.test(r.source_url||"")?r.source_url:"https://fallout.fandom.com/wiki/Source_text";link.href=safeUrl;link.textContent=r.level==="collection"?"원문 자료 목록 열기 ↗":"원문 기록 열기 ↗";
+      $("reader").showModal();history.replaceState(null,"",location.pathname+location.search+"#"+encodeURIComponent(id));
+    }
+    $("games").addEventListener("click",e=>{const b=e.target.closest("[data-game]");if(!b)return;state.game=b.dataset.game;render()});
+    $("type").addEventListener("change",e=>{state.type=e.target.value;render()});
+    $("search").addEventListener("input",e=>{state.search=e.target.value;render()});
+    $("reset").addEventListener("click",()=>{state.game="all";state.type="all";state.search="";$("type").value="all";$("search").value="";render()});
+    wrap.addEventListener("click",e=>{const b=e.target.closest("[data-open]");if(b)openRecord(b.dataset.open)});
+    function close(){if($("reader").open)$("reader").close();if(location.hash)history.replaceState(null,"",location.pathname+location.search)}
+    $("readerClose").addEventListener("click",close);
+    $("reader").addEventListener("click",e=>{if(e.target===$("reader"))close()});
+    $("reader").addEventListener("close",()=>{if(location.hash)history.replaceState(null,"",location.pathname+location.search)});
+    fetch("./catalog.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("목록 수신 실패");return r.json()}).then(data=>{
+      if(!Array.isArray(data.entries))throw new Error("데이터 형식 오류");
+      state.records=data.entries;$("totalCount").textContent=state.records.length;
+      $("translationCount").textContent=state.records.filter(x=>x.body_ko?.trim()).length;
+      render();
+      if(location.hash){try{openRecord(decodeURIComponent(location.hash.slice(1)))}catch(_){}}
+    }).catch(e=>{$("resultCount").textContent="목록을 불러오지 못했습니다";wrap.innerHTML='<p class="empty">자료를 불러올 수 없습니다. 페이지를 새로고침해 주세요.</p>';console.error(e)});
+  })();
+  </script>
+</body>
+</html>
