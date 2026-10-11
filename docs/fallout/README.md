@@ -40,3 +40,17 @@
 - [Fallout Wiki — Copyrights](https://fallout.fandom.com/wiki/Fallout_Wiki:Copyrights)
 
 본 사이트는 비공식 팬 프로젝트이며 Bethesda, Microsoft, Interplay, Obsidian, Fallout Wiki와 공식 관계가 없습니다.
+
+## 2026-10-11 EPUB 수집 진행
+
+Library of Codexes의 공개 다운로드를 실제로 확인하고 EPUB 문서 1,113개를 색인에 추가했습니다. 기존 상위 목차 16개는 유지합니다. 영문 본문과 번역 작업 Markdown은 Git에서 제외되는 `work/fallout_codex/`에 보관합니다.
+
+- 폴아웃 1: 17문서, 2: 23문서, 3: 293문서, 뉴 베가스: 204문서, 4: 573문서, 택틱스: 3문서.
+- 터미널 문서는 여러 개별 기록을 포함할 수 있습니다. 문서 수를 개별 기록 수로 계산하지 않습니다.
+- DLC 구분은 전자책 목차 그대로 보존하며, 홀로디스크·메모 혼합 분류는 추가 대조가 필요합니다.
+- 한국어 본문: 0개. 폴아웃 76: 미수집. 게임 전체 목록과의 일치, 개별 위키 URL, EditorID/FormID, 미사용 여부는 아직 검증하지 않았습니다.
+- `import-report.json`에 작품·DLC별 문서 수와 원본 SHA256을 기록했습니다.
+- 재실행: `python tools/import_fallout_codex.py` (requests, beautifulsoup4 필요). 기존 번역 작업 Markdown은 덮어쓰지 않습니다.
+- 다음 단계: 위키 목차 및 볼트 106/22 구조 확인, 터미널 하위 기록 분리, 혼합 유형 세분화, 출처와 게임 식별자 검증, 폴아웃 76 조사.
+
+공개 색인의 `level=document`는 전자책 문서 단위이며 `verification=epub_member_verified`는 EPUB 내부 파일 확인만을 의미합니다. 원문 링크는 추측한 위키 주소 대신 실제 다운로드 파일을 가리키고, `source_member`에 내부 파일명을 보존합니다.
