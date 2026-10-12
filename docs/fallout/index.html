@@ -33,7 +33,7 @@
     .entry h3{font-size:20px;letter-spacing:-.03em;line-height:1.4;margin:19px 0 4px}.entry-en{font-size:12px;color:var(--sub);margin:0;line-height:1.4}.entry-desc{font-size:13px;color:#aec6a6;margin:14px 0 20px}
     .entry-foot{display:flex;justify-content:space-between;align-items:center;margin-top:auto;gap:8px}.tag{font-size:11px;color:var(--amber)}.open-detail{border:0;background:transparent;color:var(--green);font-weight:700;font-size:13px;padding:4px 0}
     .empty{padding:54px;text-align:center;color:var(--sub);border:1px dashed var(--line)}.info{margin:66px 0 55px;padding:25px 29px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:#102019}.info h2{margin:0 0 8px;font-size:21px}.info p{color:var(--sub);margin:0;font-size:14px;line-height:1.9}
-    footer{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;border-top:1px solid var(--line);padding:26px 0 35px;color:var(--sub);font-size:12px}footer p{margin:0}footer a{color:var(--green)}
+    footer{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;border-top:1px solid var(--line);padding:26px 0 35px;color:var(--sub);font-size:12px}footer p{margin:0}footer a{color:var(--green)}[hidden]{display:none!important}
     dialog{width:min(650px,calc(100vw - 24px));border:1px solid var(--green);padding:0;background:#101c14;color:var(--text);box-shadow:0 20px 100px #000c;max-height:calc(100vh - 32px)}dialog::backdrop{background:#050906e8}.dialog-inner{padding:30px;max-height:calc(100vh - 34px);overflow:auto}.dialog-top{display:flex;justify-content:space-between;align-items:start;gap:18px}.dialog-close{background:none;border:1px solid var(--line);color:var(--green);width:38px;height:38px}.dialog-title{font-size:29px;line-height:1.3;margin:16px 0 5px}.dialog-en{font-size:13px;color:var(--sub);margin:0 0 25px}.dialog-body{white-space:pre-wrap;line-height:2;font-size:15px;padding:24px 0;border-block:1px solid var(--line);color:#c4ddbd}.dialog-meta{margin:23px 0;color:var(--sub);font-size:13px}.dialog-meta dt{display:inline-block;width:84px;color:var(--green)}.dialog-meta dd{display:inline-block;margin:0}.dialog-meta div{margin:8px 0}.outlink{display:inline-flex;align-items:center;gap:10px;padding:11px 18px;border:1px solid var(--green);text-decoration:none;color:var(--green);font-weight:700}.outlink:hover{background:#273d24}
     @media(max-width:920px){.hero{gap:24px}.gamebar{grid-template-columns:repeat(3,minmax(0,1fr))}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
     @media(max-width:640px){.toplinks a:last-child{display:none}.shell{padding:0 16px}.top{height:65px}.toplinks{gap:12px}.toplinks a{font-size:11px}.brand strong{font-size:11px;letter-spacing:.1em}.brand-icon{width:35px;height:35px}.hero{display:block;padding:53px 0 39px}.intro{font-size:14px}.art{min-height:200px;margin-top:34px}.art-ring{width:165px}.art-symbol{font-size:85px}.facts{gap:24px}.filter-head h2{font-size:27px}.gamebar{grid-template-columns:repeat(3,minmax(0,1fr))}.game-btn{padding:12px 4px}.toolbar{grid-template-columns:1fr 125px}.clear{grid-column:1/-1}.grid{grid-template-columns:1fr}.entry{min-height:195px}.info{margin-top:40px;padding:19px}.dialog-inner{padding:19px}.dialog-title{font-size:23px}}
@@ -57,8 +57,8 @@
           <p class="intro">핍보이에 남은 메모부터 폐허 속 터미널 로그까지. 폴아웃 세계에 흩어진 이야기와 자료를 하나의 서고에서 찾아보세요.</p>
           <a class="cta" href="#records">기록 탐색하기 <span aria-hidden="true">↗</span></a>
           <div class="facts" aria-live="polite">
-            <div class="fact"><strong id="totalCount">—</strong><small>검증된 자료 목록</small></div>
-            <div class="fact"><strong id="gameCount">6</strong><small>작품</small></div>
+            <div class="fact"><strong id="totalCount">—</strong><small>등록된 색인 항목</small></div>
+            <div class="fact"><strong id="gameCount">—</strong><small>작품</small></div>
             <div class="fact"><strong id="translationCount">0</strong><small>한국어 본문</small></div>
           </div>
         </div>
@@ -66,22 +66,23 @@
       </section>
       <div class="section-kicker"><span>01 / THE ARCHIVE</span><span>RECORD INDEX · 2077—</span></div>
       <section id="records" aria-labelledby="recordTitle">
-        <div class="filter-head"><div><h2 id="recordTitle">황무지의 문서함</h2><p>현재는 원문 목록을 연결한 1차 색인입니다. 전문은 추후 확인된 자료부터 수록합니다.</p></div></div>
+        <div class="filter-head"><div><h2 id="recordTitle">황무지의 문서함</h2><p>게임 ESM에서 추출한 개별 기록과 기존 외부 목차를 함께 검색할 수 있습니다. 번역 본문은 검수 후 수록합니다.</p></div></div>
         <div class="gamebar" id="games" aria-label="작품 필터"></div>
         <div class="toolbar">
           <input id="search" class="search" type="search" placeholder="자료 이름 또는 설명 검색…" aria-label="자료 검색">
           <select id="type" class="type-select" aria-label="기록 종류">
-            <option value="all">모든 기록</option><option value="terminal">터미널 기록</option><option value="holotape">홀로테이프</option><option value="holodisk">홀로디스크</option><option value="holodisk_note">홀로디스크·메모 (미분류)</option><option value="note">메모</option>
+            <option value="all">모든 기록</option><option value="terminal">터미널 기록</option><option value="holotape">홀로테이프</option><option value="holodisk">홀로디스크</option><option value="holodisk_note">홀로디스크·메모 (미분류)</option><option value="note">메모</option><option value="book">서적·문서</option>
           </select>
           <button id="reset" class="clear" type="button">필터 초기화</button>
         </div>
-        <div class="result-line"><span id="resultCount" role="status">목록을 불러오는 중…</span><span>EXTERNAL INDEX / SOURCE VERIFIED</span></div>
+        <div class="result-line"><span id="resultCount" role="status">목록을 불러오는 중…</span><span>GAME ESM / EXTERNAL INDEX</span></div>
         <div id="cards" class="grid"></div>
+        <button id="more" class="clear" type="button" hidden style="width:100%;margin-top:18px">더 많은 기록 보기 ↓</button>
         <p id="empty" class="empty" hidden>일치하는 자료 목록이 없습니다. 필터를 바꿔보세요.</p>
       </section>
       <section class="info" aria-labelledby="aboutTitle">
         <h2 id="aboutTitle">기록 보존 원칙</h2>
-        <p>이 사이트는 비공식·비상업 팬 프로젝트입니다. 현재 수록된 항목은 외부 자료의 제목·분류·출처를 안내하는 색인으로, 원문 전문을 복제하지 않습니다. 외부 링크는 Fallout Wiki로 연결되며 원문의 저작권은 각 권리자에게 있습니다. 향후 게임에서 직접 확보한 한국어 번역문을 추가할 때도 출처와 공개 가능 여부를 따로 확인합니다.</p>
+        <p>이 사이트는 비공식·비상업 팬 프로젝트입니다. 폴아웃 3·뉴 베가스·4의 원본 게임 ESM에서 문서 식별자를 추출했으며, 기존 외부 목차도 함께 제공합니다. 본문 원문은 로컬 작업 자료로 보관하고 있습니다. 공개 색인에 원문 전문은 포함되지 않습니다. 저작권은 각 권리자에게 있으며, 한국어 번역문은 출처와 검수 상태를 확인한 뒤 수록합니다.</p>
       </section>
     </main>
     <footer><p>WASTELAND ARCHIVE · 비공식 폴아웃 한국어 기록 보관소</p><p><a href="../index.html">탐리엘의 서고</a> · <a href="https://fallout.fandom.com/wiki/Source_text" target="_blank" rel="noopener noreferrer">원문 색인: Fallout Wiki ↗</a></p></footer>
@@ -100,8 +101,9 @@
   (() => {
     "use strict";
     const games=[["all","전체 작품","ALL"],["fo1","폴아웃 1","1997"],["fo2","폴아웃 2","1998"],["fo3","폴아웃 3","2008"],["fnv","뉴 베가스","2010"],["fo4","폴아웃 4","2015"],["fo76","폴아웃 76","2018"],["fot","폴아웃 택틱스","2001"]];
-    const types={terminal:"터미널",holotape:"홀로테이프",holodisk:"홀로디스크",note:"메모",holodisk_note:"홀로디스크·메모 (미분류)"};
-    const state={game:"all",type:"all",search:"",records:[]};
+    const types={terminal:"터미널",holotape:"홀로테이프",holodisk:"홀로디스크",note:"메모",book:"서적·문서",holodisk_note:"홀로디스크·메모 (미분류)"};
+    const PAGE_SIZE=60;
+    const state={game:"all",type:"all",search:"",records:[],limit:PAGE_SIZE};
     const $=id=>document.getElementById(id);
     const esc=v=>String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
     const gameName=id=>(games.find(g=>g[0]===id)||[])[1]||id;
@@ -111,23 +113,26 @@
       document.querySelectorAll("[data-game]").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.game===state.game)));
       const q=state.search.trim().toLocaleLowerCase();
       const matches=state.records.filter(r=>(state.game==="all"||r.game===state.game)&&(state.type==="all"||r.type===state.type)&&[r.title_ko,r.title_en,r.description,r.source_member,r.editor_id,r.form_id,gameName(r.game),types[r.type]].some(s=>String(s||"").toLocaleLowerCase().includes(q)));
-      $("resultCount").innerHTML='<strong>'+matches.length+'</strong>개 문서·목차 / 총 '+state.records.length+'개';
+      $("resultCount").innerHTML='<strong>'+matches.length+'</strong>개 일치 / 총 '+state.records.length+'개 (표시 '+Math.min(matches.length,state.limit)+'개)';
       $("empty").hidden=matches.length>0;
-      wrap.innerHTML=matches.map((r,i)=>'<article class="entry"><div class="entry-top"><span class="pill">'+esc(gameName(r.game))+' · '+esc(types[r.type]||r.type)+'</span><span class="entry-num">'+String(i+1).padStart(2,"0")+'</span></div><h3>'+esc(r.title_ko||r.title_en)+'</h3><p class="entry-en">'+esc(r.title_en)+'</p><p class="entry-desc">'+esc(r.description)+'</p><div class="entry-foot"><span class="tag">'+esc(r.level==='collection'?'원문 목차':'전자책 문서 · 미번역')+'</span><button type="button" class="open-detail" data-open="'+esc(r.id)+'" aria-label="'+esc(r.title_ko||r.title_en)+' 상세 보기">상세 보기 →</button></div></article>').join("");
+      $("more").hidden=matches.length<=state.limit;
+      $("more").style.display=matches.length>state.limit?"block":"none";
+      wrap.innerHTML=matches.slice(0,state.limit).map((r,i)=>'<article class="entry"><div class="entry-top"><span class="pill">'+esc(gameName(r.game))+' · '+esc(types[r.type]||r.type)+'</span><span class="entry-num">'+String(i+1).padStart(2,"0")+'</span></div><h3>'+esc(r.title_ko||r.title_en)+'</h3><p class="entry-en">'+esc(r.title_en||"")+'</p><p class="entry-desc">'+esc(r.description)+'</p><div class="entry-foot"><span class="tag">'+esc(r.level==='collection'?'원문 목차':r.status==='extracted_untranslated'?'ESM 추출 · 본문 검수 전':'전자책 문서 · 미번역')+'</span><button type="button" class="open-detail" data-open="'+esc(r.id)+'" aria-label="'+esc(r.title_ko||r.title_en)+' 상세 보기">상세 보기 →</button></div></article>').join("");
     }
     function openRecord(id){
       const r=state.records.find(x=>x.id===id);if(!r)return;
       $("readerKicker").textContent=gameName(r.game)+" / "+(types[r.type]||r.type);
       $("readerTitle").textContent=r.title_ko||r.title_en;$("readerEn").textContent=r.title_en;
-      $("readerBody").textContent=r.body_ko?.trim()||"이 자료는 아직 한국어 본문이 수록되지 않았습니다. 아래 외부 출처에서 개별 기록의 원문을 확인할 수 있습니다. 전자책 문서는 내려받은 EPUB 안에서 확인할 수 있습니다. 문서 하나에 여러 터미널 기록이 포함될 수 있습니다.";
-      $("readerMeta").innerHTML='<div><dt>작품</dt><dd>'+esc(gameName(r.game))+'</dd></div><div><dt>종류</dt><dd>'+esc(types[r.type]||r.type)+'</dd></div><div><dt>수록 형태</dt><dd>'+esc(r.body_ko?.trim()?"한국어 본문":"외부 목차 링크")+'</dd></div><div><dt>출처</dt><dd>'+esc((r.source_name||"출처 확인 필요")+(r.source_member?" / "+r.source_member:""))+'</dd></div>';
-      const link=$("readerSource");const safeUrl=/^https:\/\//.test(r.source_url||"")?r.source_url:"https://fallout.fandom.com/wiki/Source_text";link.href=safeUrl;link.textContent=r.level==="collection"?"원문 자료 목록 열기 ↗":"원문 기록 열기 ↗";
+      $("readerBody").textContent=r.body_ko?.trim()||(r.status==='extracted_untranslated'?"게임 파일에서 개별 기록의 텍스트를 추출했습니다. 한국어 본문은 현재 검수·정리 중이며, 추출된 원문은 로컬 작업 자료에 보관되어 있습니다.":"이 자료는 아직 한국어 본문이 수록되지 않았습니다. 외부 목차 또는 EPUB 원본에서 확인할 수 있습니다.");
+      $("readerMeta").innerHTML='<div><dt>작품</dt><dd>'+esc(gameName(r.game))+'</dd></div><div><dt>종류</dt><dd>'+esc(types[r.type]||r.type)+'</dd></div><div><dt>수록 형태</dt><dd>'+esc(r.body_ko?.trim()?"한국어 본문":r.status==='extracted_untranslated'?"게임 데이터 색인":"외부 목차 링크")+'</dd></div><div><dt>출처</dt><dd>'+esc((r.source_name||"출처 확인 필요")+(r.source_member?" / "+r.source_member:""))+'</dd></div>'+(r.plugin?'<div><dt>플러그인</dt><dd>'+esc(r.plugin)+'</dd></div><div><dt>FormID</dt><dd>'+esc(r.form_id||"")+'</dd></div><div><dt>EditorID</dt><dd>'+esc(r.editor_id||"—")+'</dd></div>':'');
+      const link=$("readerSource");const safeUrl=/^https:\/\//.test(r.source_url||"")?r.source_url:null;link.hidden=!safeUrl;if(safeUrl)link.href=safeUrl;link.textContent=r.level==="collection"?"원문 자료 목록 열기 ↗":"원문 출처 열기 ↗";
       $("reader").showModal();history.replaceState(null,"",location.pathname+location.search+"#"+encodeURIComponent(id));
     }
-    $("games").addEventListener("click",e=>{const b=e.target.closest("[data-game]");if(!b)return;state.game=b.dataset.game;render()});
-    $("type").addEventListener("change",e=>{state.type=e.target.value;render()});
-    $("search").addEventListener("input",e=>{state.search=e.target.value;render()});
-    $("reset").addEventListener("click",()=>{state.game="all";state.type="all";state.search="";$("type").value="all";$("search").value="";render()});
+    $("games").addEventListener("click",e=>{const b=e.target.closest("[data-game]");if(!b)return;state.game=b.dataset.game;state.limit=PAGE_SIZE;render()});
+    $("type").addEventListener("change",e=>{state.type=e.target.value;state.limit=PAGE_SIZE;render()});
+    $("search").addEventListener("input",e=>{state.search=e.target.value;state.limit=PAGE_SIZE;render()});
+    $("reset").addEventListener("click",()=>{state.game="all";state.type="all";state.search="";state.limit=PAGE_SIZE;$("type").value="all";$("search").value="";render()});
+    $("more").addEventListener("click",()=>{state.limit+=PAGE_SIZE;render()});
     wrap.addEventListener("click",e=>{const b=e.target.closest("[data-open]");if(b)openRecord(b.dataset.open)});
     function close(){if($("reader").open)$("reader").close();if(location.hash)history.replaceState(null,"",location.pathname+location.search)}
     $("readerClose").addEventListener("click",close);
@@ -135,7 +140,8 @@
     $("reader").addEventListener("close",()=>{if(location.hash)history.replaceState(null,"",location.pathname+location.search)});
     fetch("./catalog.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("목록 수신 실패");return r.json()}).then(data=>{
       if(!Array.isArray(data.entries))throw new Error("데이터 형식 오류");
-      state.records=data.entries;$("totalCount").textContent=state.records.length;
+      state.records=data.entries;$("totalCount").textContent=state.records.length.toLocaleString("ko-KR");
+      $("gameCount").textContent=new Set(state.records.map(x=>x.game)).size;
       $("translationCount").textContent=state.records.filter(x=>x.body_ko?.trim()).length;
       render();
       if(location.hash){try{openRecord(decodeURIComponent(location.hash.slice(1)))}catch(_){}}

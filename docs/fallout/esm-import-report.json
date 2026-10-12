@@ -1,0 +1,163 @@
+{
+  "source": "User-supplied local official ESM files",
+  "extracted_at": "2026-10-12",
+  "total_esm_entries": 6179,
+  "by_game": {
+    "fo3": 2334,
+    "fnv": 2680,
+    "fo4": 1165
+  },
+  "files": {
+    "Fallout3.esm": {
+      "record_types": {
+        "TERM": 378,
+        "BOOK": 26,
+        "NOTE": 840
+      },
+      "entries": 1778
+    },
+    "Anchorage.esm": {
+      "record_types": {
+        "TERM": 18,
+        "NOTE": 33
+      },
+      "entries": 66
+    },
+    "ThePitt.esm": {
+      "record_types": {
+        "TERM": 21,
+        "NOTE": 30
+      },
+      "entries": 150
+    },
+    "BrokenSteel.esm": {
+      "record_types": {
+        "TERM": 43,
+        "NOTE": 63
+      },
+      "entries": 183
+    },
+    "PointLookout.esm": {
+      "record_types": {
+        "TERM": 24,
+        "BOOK": 2,
+        "NOTE": 66
+      },
+      "entries": 149
+    },
+    "Zeta.esm": {
+      "record_types": {
+        "TERM": 1,
+        "NOTE": 31
+      },
+      "entries": 8
+    },
+    "FalloutNV.esm": {
+      "record_types": {
+        "TERM": 344,
+        "BOOK": 27,
+        "NOTE": 894
+      },
+      "entries": 1809
+    },
+    "DeadMoney.esm": {
+      "record_types": {
+        "TERM": 95,
+        "NOTE": 148
+      },
+      "entries": 466
+    },
+    "HonestHearts.esm": {
+      "record_types": {
+        "TERM": 9,
+        "NOTE": 21
+      },
+      "entries": 45
+    },
+    "OldWorldBlues.esm": {
+      "record_types": {
+        "TERM": 47,
+        "NOTE": 125
+      },
+      "entries": 274
+    },
+    "LonesomeRoad.esm": {
+      "record_types": {
+        "TERM": 20,
+        "NOTE": 37
+      },
+      "entries": 86
+    },
+    "GunRunnersArsenal.esm": {
+      "record_types": {},
+      "entries": 0
+    },
+    "CaravanPack.esm": {
+      "record_types": {},
+      "entries": 0
+    },
+    "ClassicPack.esm": {
+      "record_types": {},
+      "entries": 0
+    },
+    "MercenaryPack.esm": {
+      "record_types": {},
+      "entries": 0
+    },
+    "TribalPack.esm": {
+      "record_types": {},
+      "entries": 0
+    },
+    "Fallout4.esm": {
+      "record_types": {
+        "BOOK": 327,
+        "NOTE": 167,
+        "TERM": 778
+      },
+      "entries": 736
+    },
+    "DLCRobot.esm": {
+      "record_types": {
+        "BOOK": 4,
+        "NOTE": 11,
+        "TERM": 49
+      },
+      "entries": 114
+    },
+    "DLCworkshop01.esm": {
+      "record_types": {},
+      "entries": 0
+    },
+    "DLCworkshop02.esm": {
+      "record_types": {
+        "TERM": 41
+      },
+      "entries": 70
+    },
+    "DLCworkshop03.esm": {
+      "record_types": {
+        "BOOK": 2,
+        "TERM": 29
+      },
+      "entries": 14
+    },
+    "DLCCoast.esm": {
+      "record_types": {
+        "BOOK": 81,
+        "NOTE": 30,
+        "TERM": 55
+      },
+      "entries": 123
+    },
+    "DLCNukaWorld.esm": {
+      "record_types": {
+        "BOOK": 56,
+        "NOTE": 44,
+        "TERM": 122
+      },
+      "entries": 108
+    }
+  },
+  "local_body_file": "work/fallout_esm/records.jsonl",
+  "note": "English text remains local; no translation or completeness claim. Audio-only holotapes and script-generated text are excluded."
+}
