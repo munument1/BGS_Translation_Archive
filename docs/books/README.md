@@ -28,7 +28,7 @@ tools/extract_skyrim_books_node.cjs에서 추출한 한국어 서적 레코드�
 | Battlespire | 50권 | [열기](battlespire/index.md) |
 | Redguard | 14권 | [열기](redguard/index.md) |
 | Shadowkey | 5권 | [열기](shadowkey/index.md) |
-| Online | 2,482권 | [열기](eso/index.md) |
-| Online Journals, Notes & Letters | 2,231권 | [열기](eso_journals/index.md) |
+| Online | 2,528권 | [열기](eso/index.md) |
+| Online Journals, Notes & Letters | 2,232권 | [열기](eso_journals/index.md) |
 
 [수록 현황 및 남은 항목](ENGLISH_SOURCES.md) · [웹 서가](../index.html)
