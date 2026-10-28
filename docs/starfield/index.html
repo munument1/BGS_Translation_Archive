@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#111c16">
+  <meta name="description" content="스타필드의 데이터 슬레이트, 서적, 터미널 기록을 한국어로 검색하고 읽는 비공식 서고.">
+  <title>성계의 기록 | Starfield 한국어 아카이브</title>
+  <style>
+    .search,.type-select{min-width:0;width:100%}.entry{min-width:0;overflow-wrap:anywhere}
+    :root{color-scheme:dark;--bg:#0b130f;--panel:#122118;--panel2:#16291c;--line:#345a3b;--text:#d7edc0;--sub:#91b790;--green:#bbf28e;--amber:#e7b85f;--font:"Pretendard","Noto Sans KR",system-ui,-apple-system,sans-serif}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(ellipse at 90% 0%,#1c3324 0,transparent 42%),var(--bg);color:var(--text);font-family:var(--font);line-height:1.6}
+    body:before{content:"";pointer-events:none;position:fixed;inset:0;z-index:10;background:repeating-linear-gradient(to bottom,transparent 0,transparent 3px,#07130b1c 4px);opacity:.32}
+    a{color:inherit}button,input,select{font:inherit}button{cursor:pointer}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--amber);outline-offset:4px}
+    .shell{max-width:1250px;margin:auto;padding:0 26px}.top{height:78px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;gap:16px}
+    .brand{text-decoration:none;display:flex;gap:14px;align-items:center;color:var(--green)}.brand-icon{font-family:monospace;border:1px solid var(--green);display:grid;place-items:center;width:43px;height:43px;font-size:24px;box-shadow:inset 0 0 20px #9be98117}
+    .brand strong{display:block;font-size:14px;letter-spacing:.19em}.brand small{display:block;color:var(--sub);font-size:12px}.toplinks{display:flex;align-items:center;gap:22px;font-size:13px;color:var(--sub)}.toplinks a{text-decoration:none}.toplinks a:hover{color:var(--green)}
+    .hero{padding:86px 0 64px;display:grid;grid-template-columns:1.25fr .75fr;gap:50px;align-items:center}.overline{font:600 12px ui-monospace,monospace;letter-spacing:.2em;color:var(--amber);text-transform:uppercase}
+    h1{font-size:clamp(39px,5.5vw,69px);line-height:1.13;letter-spacing:-.055em;margin:16px 0 23px;font-weight:800}h1 em{color:var(--green);font-style:normal}.intro{max-width:620px;color:#b3cdb0;font-size:16px;line-height:1.9;margin:0 0 28px}
+    .cta{display:inline-flex;align-items:center;gap:14px;background:var(--green);color:#0b1b0e;text-decoration:none;font-weight:800;padding:13px 19px;border:1px solid var(--green)}.cta:hover{background:#d4ffac}
+    .art{min-height:270px;display:grid;place-items:center;position:relative;overflow:hidden;border:1px solid #456344;background:linear-gradient(160deg,#16291b,#07120d);box-shadow:0 0 70px #0c291e70}
+    .art:after{content:"";position:absolute;inset:10px;border:1px solid #4e704641;pointer-events:none}.art-ring{width:min(58%,230px);aspect-ratio:1;border:2px solid var(--green);border-radius:50%;display:grid;place-items:center;box-shadow:0 0 60px #92ff3f2d,inset 0 0 60px #92ff3f12;transform:rotate(-9deg)}
+    .art-symbol{font:800 clamp(68px,10vw,115px)/1 ui-monospace,monospace;letter-spacing:-.17em;margin-left:-18px;color:var(--green);text-shadow:0 0 35px #9de67773}.art-cap{position:absolute;bottom:22px;text-align:center;width:100%;font:10px ui-monospace,monospace;letter-spacing:.23em;color:var(--sub)}
+    .facts{display:flex;gap:35px;flex-wrap:wrap;margin-top:31px}.fact strong{display:block;color:var(--green);font-size:27px;font-weight:800}.fact small{display:block;font-size:12px;color:var(--sub);letter-spacing:.03em}
+    .section-kicker{display:flex;justify-content:space-between;border-bottom:1px solid var(--line);padding-bottom:12px;margin-bottom:25px;color:var(--sub);font:12px ui-monospace,monospace;letter-spacing:.14em}
+    .filter-head{display:flex;justify-content:space-between;align-items:flex-end;gap:18px;margin:0 0 22px}.filter-head h2{font-size:32px;letter-spacing:-.04em;margin:0}.filter-head p{color:var(--sub);margin:4px 0 0;font-size:13px}
+    .gamebar{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px;margin-bottom:23px}.game-btn{padding:15px 8px;background:var(--panel);border:1px solid var(--line);color:var(--sub);min-width:0}
+    .game-btn strong{font-size:12px;display:block;color:var(--text)}.game-btn small{font-size:10px;display:block;margin-top:3px}.game-btn[aria-pressed="true"]{border-color:var(--green);background:#253c21;color:var(--green);box-shadow:inset 0 0 0 1px #bbf28e35}.game-btn[aria-pressed="true"] strong{color:var(--green)}
+    .toolbar{display:grid;grid-template-columns:1fr minmax(160px,220px) auto;gap:10px;margin-bottom:18px}.search,.type-select,.clear{min-height:47px;background:#102118;border:1px solid #3d6041;color:var(--text);padding:0 16px;border-radius:0}.search::placeholder{color:#81a081}.clear{background:#192a1d;white-space:nowrap}.clear:hover{border-color:var(--green)}
+    .result-line{display:flex;justify-content:space-between;align-items:center;color:var(--sub);font:12px ui-monospace,monospace;letter-spacing:.05em;margin:15px 0 19px}.result-line strong{color:var(--green)}
+    .grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px}.entry{border:1px solid var(--line);background:linear-gradient(150deg,#16261b,#101a14);padding:23px;min-height:212px;display:flex;flex-direction:column;position:relative;transition:border-color .2s,transform .2s}
+    .entry:hover{border-color:var(--green);transform:translateY(-2px)}.entry-top{display:flex;justify-content:space-between;align-items:center;gap:12px}.pill{font:11px ui-monospace,monospace;border:1px solid #47694a;padding:3px 8px;color:var(--green)}.entry-num{font:12px ui-monospace,monospace;color:#829985}
+    .entry h3{font-size:20px;letter-spacing:-.03em;line-height:1.4;margin:19px 0 4px}.entry-en{font-size:12px;color:var(--sub);margin:0;line-height:1.4}.entry-desc{font-size:13px;color:#aec6a6;margin:14px 0 20px}
+    .entry-foot{display:flex;justify-content:space-between;align-items:center;margin-top:auto;gap:8px}.tag{font-size:11px;color:var(--amber)}.open-detail{border:0;background:transparent;color:var(--green);font-weight:700;font-size:13px;padding:4px 0}
+    .empty{padding:54px;text-align:center;color:var(--sub);border:1px dashed var(--line)}.info{margin:66px 0 55px;padding:25px 29px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:#102019}.info h2{margin:0 0 8px;font-size:21px}.info p{color:var(--sub);margin:0;font-size:14px;line-height:1.9}
+    footer{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;border-top:1px solid var(--line);padding:26px 0 35px;color:var(--sub);font-size:12px}footer p{margin:0}footer a{color:var(--green)}[hidden]{display:none!important}
+    dialog{width:min(820px,calc(100vw - 24px));border:1px solid var(--green);padding:0;background:#101c14;color:var(--text);box-shadow:0 20px 100px #000c;max-height:calc(100vh - 32px)}dialog::backdrop{background:#050906e8}.dialog-inner{padding:30px;max-height:calc(100vh - 34px);overflow:auto}.dialog-top{display:flex;justify-content:space-between;align-items:start;gap:18px}.dialog-close{background:none;border:1px solid var(--line);color:var(--green);width:38px;height:38px}.dialog-title{font-size:29px;line-height:1.3;margin:16px 0 5px}.dialog-en{font-size:13px;color:var(--sub);margin:0 0 25px}.dialog-body{white-space:pre-wrap;overflow-wrap:anywhere;line-height:2;font-size:17px;padding:24px 0;border-block:1px solid var(--line);color:#c4ddbd}.dialog-meta{margin:23px 0;color:var(--sub);font-size:13px;overflow-wrap:anywhere}.dialog-meta dt{display:inline-block;width:84px;color:var(--green)}.dialog-meta dd{display:inline-block;margin:0}.dialog-meta div{margin:8px 0}.outlink{display:inline-flex;align-items:center;gap:10px;padding:11px 18px;border:1px solid var(--green);text-decoration:none;color:var(--green);font-weight:700}.outlink:hover{background:#273d24}
+    @media(max-width:920px){.hero{gap:24px}.gamebar{grid-template-columns:repeat(3,minmax(0,1fr))}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+    @media(max-width:640px){.toplinks a:last-child{display:none}.shell{padding:0 16px}.top{height:65px}.toplinks{gap:12px}.toplinks a{font-size:11px}.brand strong{font-size:11px;letter-spacing:.1em}.brand-icon{width:35px;height:35px}.hero{display:block;padding:53px 0 39px}.intro{font-size:14px}.art{min-height:200px;margin-top:34px}.art-ring{width:165px}.art-symbol{font-size:85px}.facts{gap:24px}.filter-head h2{font-size:27px}.gamebar{grid-template-columns:repeat(3,minmax(0,1fr))}.game-btn{padding:12px 4px}.toolbar{grid-template-columns:1fr 125px}.clear{grid-column:1/-1}.grid{grid-template-columns:1fr}.entry{min-height:195px}.info{margin-top:40px;padding:19px}.dialog-inner{padding:19px}.dialog-title{font-size:23px}}
+    @media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;transition:none!important}}
+    :root{--bg:#0b121e;--panel:#111f30;--panel2:#18293e;--line:#3b506a;--text:#e1e9ef;--sub:#a6bbcf;--green:#d9e8f3;--amber:#e7a678}
+    body{background:radial-gradient(ellipse at 90% 0%,#223c57 0,transparent 42%),var(--bg)}body:before{background:radial-gradient(circle,#b5c9db 1px,transparent 1px);background-size:67px 71px;opacity:.07}
+    .art{background:radial-gradient(ellipse,#304f70,#0a1525)}.art-ring{transform:rotate(-25deg);border-color:#a9bdce;border-radius:50%;box-shadow:0 0 60px #b6d2f122}.art-ring:after{content:"";position:absolute;width:135%;height:34%;border:1px solid #df986b;border-radius:50%;transform:rotate(30deg)}.art-symbol{letter-spacing:0;margin:0;color:#e9f1f7;font-weight:400}
+    .search,.type-select,.clear{background:#102030;border-color:var(--line)}.entry,dialog{background:#111e2d}.dialog-body{color:#d3e0ea}.intro{color:#b9cad9}.gamebar{display:none}.game-btn[aria-pressed="true"]{background:#263f59}.dialog-body{line-height:2.1}.brand strong{letter-spacing:.12em}.art-cap{letter-spacing:.1em}
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header class="top">
+      <a class="brand" href="./index.html" aria-label="성계의 기록 홈"><span class="brand-icon" aria-hidden="true">⌁</span><span><strong>SETTLED SYSTEMS ARCHIVE</strong><small>성계의 기록</small></span></a>
+      <nav class="toplinks" aria-label="다른 자료실"><a href="../fallout/">황무지의 기록 ↗</a>
+        <a href="../index.html">탐리엘의 서고 ↗</a>
+        <a href="https://github.com/munument1/BGS_Translation_Archive" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+      </nav>
+    </header>
+    <main>
+      <section class="hero" aria-labelledby="heroTitle">
+        <div>
+          <p class="overline">CONSTELLATION / RECOVERED ARCHIVES</p>
+          <h1 id="heroTitle">별들 사이에서<br><em>이야기를 발견하다.</em></h1>
+          <p class="intro">낡은 책의 한 페이지부터 먼 행성에 남겨진 데이터 슬레이트까지. 정착 성계 곳곳의 이야기를 읽고, 터미널에 담긴 기록을 한자리에서 탐색하세요.</p>
+          <a class="cta" href="#records">기록 탐색하기 <span aria-hidden="true">↗</span></a>
+          <div class="facts" aria-live="polite">
+            <div class="fact"><strong id="totalCount">—</strong><small>읽을 수 있는 기록</small></div>
+            <div class="fact"><strong id="gameCount">—</strong><small>연속 기록 묶음</small></div>
+            <div class="fact"><strong id="translationCount">0</strong><small>터미널</small></div>
+          </div>
+        </div>
+        <div class="art" aria-hidden="true"><div class="art-ring"><div class="art-symbol">✦</div></div><span class="art-cap">EXPLORATION / KNOWLEDGE / DISCOVERY</span></div>
+      </section>
+      <div class="section-kicker"><span>01 / THE ARCHIVE</span><span>RECORD INDEX · 2330</span></div>
+      <section id="records" aria-labelledby="recordTitle">
+        <div class="filter-head"><div><h2 id="recordTitle">정착 성계의 문서함</h2><p>데이터 슬레이트·책·터미널 본문을 검색하세요. 터미널의 하위 메뉴와 번호가 이어지는 기록은 하나로 묶었습니다.</p></div></div>
+        <div class="gamebar" id="games" aria-label="작품 필터"></div>
+        <div class="toolbar">
+          <input id="search" class="search" type="search" placeholder="제목·본문·FormID 검색…" aria-label="자료 검색">
+          <select id="type" class="type-select" aria-label="기록 종류">
+            <option value="all">모든 기록</option><option value="terminal">터미널 기록</option><option value="holotape">홀로테이프</option><option value="holodisk">홀로디스크</option><option value="holodisk_note">홀로디스크·메모 (미분류)</option><option value="note">메모</option><option value="book">서적·문서</option>
+          </select>
+          <button id="reset" class="clear" type="button">필터 초기화</button>
+        </div>
+        <p><label><input id="readableOnly" type="checkbox" checked> 한국어 본문이 있는 기록만 보기</label></p>
+        <div class="result-line"><span id="resultCount" role="status">목록을 불러오는 중…</span><span>STARFIELD / KOREAN ARCHIVE</span></div>
+        <div id="cards" class="grid"></div>
+        <button id="more" class="clear" type="button" hidden style="width:100%;margin-top:18px">더 많은 기록 보기 ↓</button>
+        <p id="empty" class="empty" hidden>일치하는 자료 목록이 없습니다. 필터를 바꿔보세요.</p>
+      </section>
+      <section class="info" aria-labelledby="aboutTitle">
+        <h2 id="aboutTitle">기록 보존 원칙</h2>
+        <p>스타필드 본편의 게임 레코드와 기존 한국어 번역 사전을 대조해 수록한 비공식 팬 서고입니다. 각 기록에 번역 출처를 표시합니다. 서로 다른 번역이 충돌하거나 식별자가 일치하지 않는 본문은 연결을 보류했습니다. DLC와 음성만 있는 기록은 현재 범위에 포함되지 않으며, 문장 검수와 게임 내 사용 여부 확인은 진행 전입니다. 원문과 번역의 권리는 각 권리자에게 있습니다.</p>
+      </section>
+    </main>
+    <footer><p>SETTLED SYSTEMS ARCHIVE · 비공식 스타필드 한국어 기록 보관소</p><p><a href="../index.html">탐리엘의 서고</a> · <a href="../fallout/">황무지의 기록 ↗</a></p></footer>
+  </div>
+  <dialog id="reader" aria-labelledby="readerTitle">
+    <div class="dialog-inner">
+      <div class="dialog-top"><span class="overline" id="readerKicker">DATA RECORD</span><button type="button" class="dialog-close" id="readerClose" aria-label="닫기">✕</button></div>
+      <h2 class="dialog-title" id="readerTitle"></h2>
+      <p class="dialog-en" id="readerEn"></p>
+      <label id="readerLanguageLabel">본문 언어 <select id="readerLanguage" class="type-select" style="width:auto"><option value="ko">한국어 번역</option><option value="en">영어 원문</option></select></label>
+      <div id="readerBody" class="dialog-body"></div>
+      <dl class="dialog-meta" id="readerMeta"></dl>
+      <a class="outlink" id="readerSource" target="_blank" rel="noopener noreferrer">원문 자료 목록 열기 ↗</a>
+    </div>
+  </dialog>
+  <script>
+  (() => {
+    "use strict";
+    const games=[["all","전체 기록","ARCHIVE"],["sf","스타필드","2330"]];
+    const types={terminal:"터미널",slate:"데이터 슬레이트",book:"서적·문서"};
+    const PAGE_SIZE=60;
+    const state={game:"all",type:"all",search:"",readableOnly:true,records:[],limit:PAGE_SIZE};
+    const $=id=>document.getElementById(id);
+    const esc=v=>String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+    const gameName=id=>(games.find(g=>g[0]===id)||[])[1]||id;
+    const wrap=$("cards");
+    $("games").innerHTML=games.map(([id,name,year])=>'<button class="game-btn" type="button" data-game="'+id+'" aria-pressed="'+(id==="all")+'"><strong>'+esc(name)+'</strong><small>'+year+'</small></button>').join("");
+    function render(){
+      document.querySelectorAll("[data-game]").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.game===state.game)));
+      const q=state.search.trim().toLocaleLowerCase();
+      const matches=state.records.filter(r=>(state.game==="all"||r.game===state.game)&&(!state.readableOnly||r.body_ko?.trim()||r.body_en?.trim())&&(state.type==="all"||r.type===state.type)&&[r.title_ko,r.title_en,r.body_ko,r.body_en,r.description,r.source_member,r.editor_id,r.form_id,...(r.series_entries||r.terminal_sections||[]).flatMap(x=>[x.title_en,x.title_ko,x.editor_id,x.form_id]),gameName(r.game),types[r.type]].some(s=>String(s||"").toLocaleLowerCase().includes(q)));
+      $("resultCount").innerHTML='<strong>'+matches.length+'</strong>개 일치 / 총 '+state.records.length+'개 (표시 '+Math.min(matches.length,state.limit)+'개)';
+      $("empty").hidden=matches.length>0;
+      $("more").hidden=matches.length<=state.limit;
+      $("more").style.display=matches.length>state.limit?"block":"none";
+      wrap.innerHTML=matches.sort((a,b)=>Number(Boolean(b.body_ko))-Number(Boolean(a.body_ko))||(a.title_ko||a.title_en).localeCompare(b.title_ko||b.title_en,"ko")).slice(0,state.limit).map((r,i)=>'<article class="entry"><div class="entry-top"><span class="pill">'+esc(gameName(r.game))+' · '+esc(types[r.type]||r.type)+'</span><span class="entry-num">'+String(i+1).padStart(2,"0")+'</span></div><h3>'+esc(r.title_ko||r.title_en)+'</h3><p class="entry-en">'+esc(r.title_en||"")+'</p><p class="entry-desc">'+esc(r.description)+'</p><div class="entry-foot"><span class="tag">'+esc(r.body_ko?.trim()?'한국어 본문 · 기존 번역':r.body_en?.trim()?'영어 원문':r.level==='collection'?'원문 목차':r.status==='extracted_untranslated'?'ESM 추출 · 본문 검수 전':'전자책 문서 · 미번역')+'</span><button type="button" class="open-detail" data-open="'+esc(r.id)+'" aria-label="'+esc(r.title_ko||r.title_en)+' 상세 보기">기록 읽기 →</button></div></article>').join("");
+    }
+    let currentRecord=null;
+    function showBody(){
+      if(!currentRecord)return;
+      const lang=$("readerLanguage").value;
+      $("readerBody").textContent=(lang==="ko"?currentRecord.body_ko:currentRecord.body_en)||"이 기록은 본문이 아직 수록되지 않았습니다.";
+    }
+    $("readerLanguage").addEventListener("change",showBody);
+    function openRecord(id){
+      const r=state.records.find(x=>x.id===id||x.aliases?.includes(id));if(!r)return; currentRecord=r;
+      $("readerKicker").textContent=gameName(r.game)+" / "+(types[r.type]||r.type);
+      $("readerTitle").textContent=r.title_ko||r.title_en;$("readerEn").textContent=r.title_en;
+      $("readerLanguage").value=r.body_ko?.trim()?"ko":"en";
+      $("readerLanguage").options[0].disabled=!r.body_ko?.trim();
+      $("readerLanguage").options[1].disabled=!r.body_en?.trim();
+      $("readerLanguageLabel").hidden=!r.body_en;showBody();
+      $("readerMeta").innerHTML='<div><dt>작품</dt><dd>'+esc(gameName(r.game))+'</dd></div><div><dt>종류</dt><dd>'+esc(types[r.type]||r.type)+'</dd></div><div><dt>수록 형태</dt><dd>'+esc(r.body_ko?.trim()?"한국어 본문":r.body_en?.trim()?"영어 원문":r.status==='extracted_untranslated'?"게임 데이터 색인":"외부 목차 링크")+'</dd></div><div><dt>출처</dt><dd>'+esc((r.source_name||"출처 확인 필요")+(r.source_member?" / "+r.source_member:""))+'</dd></div>'+(r.plugin?'<div><dt>플러그인</dt><dd>'+esc(r.plugin)+'</dd></div><div><dt>FormID</dt><dd>'+esc(r.form_id||"")+'</dd></div><div><dt>EditorID</dt><dd>'+esc(r.editor_id||"—")+'</dd></div>':'');
+      const link=$("readerSource");const safeUrl=/^https:\/\//.test(r.source_url||"")?r.source_url:null;link.hidden=!safeUrl;if(safeUrl)link.href=safeUrl;link.textContent=/\.epub(?:$|[?#])/i.test(safeUrl||"")?"원본 EPUB 다운로드 ↗":r.level==="collection"?"원문 자료 목록 열기 ↗":"원문 출처 열기 ↗";
+      if(r.series_entries){
+        $("readerMeta").innerHTML+='<div><dt>연속 기록</dt><dd>'+r.series_entries.length+'편 · 본문에 각 편의 제목과 순서 표시</dd></div>';
+      }
+      if(r.terminal_sections){
+        const sources=[...new Set(r.terminal_sections.map(s=>s.translation_source?.dictionary).filter(Boolean))];
+        $("readerMeta").innerHTML+='<div><dt>하위 기록</dt><dd>'+r.terminal_sections.filter(s=>s.body_ko).length+'개 번역 본문</dd></div><div><dt>번역 출처</dt><dd>'+esc(sources.join(", "))+'</dd></div><div><dt>검수 상태</dt><dd>기존 번역 · 아카이브 검수 전</dd></div>';
+      }
+      if(r.translation_source){const t=r.translation_source;$("readerMeta").innerHTML+='<div><dt>번역 출처</dt><dd>'+esc(t.dictionary)+'</dd></div><div><dt>번역 필드</dt><dd>'+esc(t.field+" / "+t.sub_index)+'</dd></div><div><dt>검수 상태</dt><dd>기존 번역 · 아카이브 검수 전</dd></div>';} if(!$("reader").open)$("reader").showModal();$("readerBody").parentElement.scrollTop=0;history.replaceState(null,"",location.pathname+location.search+"#"+encodeURIComponent(id));
+    }
+    $("games").addEventListener("click",e=>{const b=e.target.closest("[data-game]");if(!b)return;state.game=b.dataset.game;state.limit=PAGE_SIZE;render()});
+    $("readableOnly").addEventListener("change",e=>{state.readableOnly=e.target.checked;state.limit=PAGE_SIZE;render()});
+    $("type").addEventListener("change",e=>{state.type=e.target.value;state.limit=PAGE_SIZE;render()});
+    $("search").addEventListener("input",e=>{state.search=e.target.value;state.limit=PAGE_SIZE;render()});
+    $("reset").addEventListener("click",()=>{state.game="all";state.type="all";state.search="";state.readableOnly=true;$("readableOnly").checked=true;state.limit=PAGE_SIZE;$("type").value="all";$("search").value="";render()});
+    $("more").addEventListener("click",()=>{state.limit+=PAGE_SIZE;render()});
+    wrap.addEventListener("click",e=>{const b=e.target.closest("[data-open]");if(b)openRecord(b.dataset.open)});
+    function close(){if($("reader").open)$("reader").close();if(location.hash)history.replaceState(null,"",location.pathname+location.search)}
+    $("readerClose").addEventListener("click",close);
+    $("reader").addEventListener("click",e=>{if(e.target===$("reader"))close()});
+    $("reader").addEventListener("close",()=>{if(!$("reader").open&&location.hash)history.replaceState(null,"",location.pathname+location.search)});
+    window.addEventListener("hashchange",()=>{if(location.hash){try{openRecord(decodeURIComponent(location.hash.slice(1)))}catch(_){}}else if($("reader").open)$("reader").close()});
+    fetch("./catalog.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("목록 수신 실패");return r.json()}).then(data=>{
+      if(!Array.isArray(data.entries))throw new Error("데이터 형식 오류");
+      state.records=data.entries;$("totalCount").textContent=state.records.length.toLocaleString("ko-KR");
+      $("gameCount").textContent=state.records.filter(x=>x.series_entries).length;
+      $("translationCount").textContent=state.records.filter(x=>x.type==="terminal").length;
+      render();
+      if(location.hash){try{openRecord(decodeURIComponent(location.hash.slice(1)))}catch(_){}}
+    }).catch(e=>{$("resultCount").textContent="목록을 불러오지 못했습니다";wrap.innerHTML='<p class="empty">자료를 불러올 수 없습니다. 페이지를 새로고침해 주세요.</p>';console.error(e)});
+  })();
+  </script>
+</body>
+</html>

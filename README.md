@@ -12,6 +12,11 @@
 - [Fallout 아카이브 데이터와 편집 원칙](docs/fallout/README.md) — 게임 ESM 직접 추출, 외부 목차, 자료 구조, 저작권/검수 기준
 - 터미널은 하나의 레코드로 합치고 번호가 확인된 연속 기록 56묶음을 정리했습니다. 전체 6,144개 항목 중 3,659개에서 한국어를 읽을 수 있습니다. 위의 7,863개는 묶음 내부 본문 필드 수입니다. EPUB의 폴아웃 1·2·택틱스 43문서도 사이트 안에서 영어 원문을 읽을 수 있습니다.
 
+## 스타필드 기록 아카이브
+
+- [성계의 기록 — GitHub Pages](https://munument1.github.io/BGS_Translation_Archive/starfield/) — 데이터 슬레이트·서적·터미널의 한국어 본문 검색과 읽기.
+- 본편 자료 795개 항목: 슬레이트 389개, 서적·문서 115개, 터미널 291개. 터미널 하위 메뉴와 연속 기록 17묶음을 합쳐 제공합니다. [대조 방법과 범위](docs/starfield/README.md).
+
 ## 엘더 스크롤 서적 합본
 
 - [추가 게임 영문 원문](docs/books/ENGLISH_SOURCES.md) — 로컬 Imperial Library 다운로드와 HTTrack 캐시에서 4,782건의 본문을 확보했습니다. 웹에서 영문을 읽을 수 있고, 로컬 `work/imperial_library_translation/`에 서적별 번역 작업 자료를 생성합니다.

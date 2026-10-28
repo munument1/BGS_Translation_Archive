@@ -1,0 +1,120 @@
+{
+  "source_plugin": "Starfield.esm",
+  "source_plugin_bytes": 1457098709,
+  "source_plugin_sha256": "1dabed00c3f4282dd3bb54d2e9601e40b577d8742d078b7ccef203adbfef0da7",
+  "records": 795,
+  "by_type": {
+    "book": 115,
+    "slate": 389,
+    "terminal": 291
+  },
+  "verified_field_matches": {
+    "BOOK:FULL": 984,
+    "BOOK:DESC": 632,
+    "TERM:FULL": 366,
+    "TMLM:FULL": 678,
+    "TMLM:BTXT": 412,
+    "TMLM:ITXT": 2207,
+    "TMLM:UNAM": 1078
+  },
+  "unmatched_fields": {
+    "BOOK:DESC": 360,
+    "BOOK:FULL": 8,
+    "TMLM:UNAM": 611,
+    "TMLM:BTXT": 86,
+    "TMLM:ITXT": 133,
+    "TMLM:FULL": 2,
+    "BOOK:audio_scene_description": 119
+  },
+  "ambiguous_dictionary_keys": 1772,
+  "resolved_by_exact_base_patch_text": 761,
+  "series": [
+    {
+      "id": "sf-series-e193fbe75016",
+      "members": 2,
+      "title": "이토 박사의 일지 - 항목"
+    },
+    {
+      "id": "sf-series-1895cedd4634",
+      "members": 5,
+      "title": "뉴아틀란티안"
+    },
+    {
+      "id": "sf-series-0eb220dce162",
+      "members": 10,
+      "title": "노바 갤럭틱 교범"
+    },
+    {
+      "id": "sf-series-4094df393fb5",
+      "members": 10,
+      "title": "정착지 건설 안내서"
+    },
+    {
+      "id": "sf-series-8790ce818316",
+      "members": 5,
+      "title": "네온의 밤"
+    },
+    {
+      "id": "sf-series-9b4eebc86b41",
+      "members": 5,
+      "title": "자유항성 선장의 일지"
+    },
+    {
+      "id": "sf-series-855b32de598a",
+      "members": 5,
+      "title": "실력 발휘"
+    },
+    {
+      "id": "sf-series-a89a0aa81f21",
+      "members": 5,
+      "title": "솔로몬의 모험"
+    },
+    {
+      "id": "sf-series-6299620ace70",
+      "members": 5,
+      "title": "사이버 러너의 암호문"
+    },
+    {
+      "id": "sf-series-3e86dd9edc8d",
+      "members": 5,
+      "title": "컨스텔레이션 안내서"
+    },
+    {
+      "id": "sf-series-dd48e4e8ea63",
+      "members": 5,
+      "title": "추적자 지침서"
+    },
+    {
+      "id": "sf-series-b34f9d098229",
+      "members": 10,
+      "title": "바룬 경전"
+    },
+    {
+      "id": "sf-series-80628028ca6a",
+      "members": 10,
+      "title": "월간 광업"
+    },
+    {
+      "id": "sf-series-6f07d64cd2d7",
+      "members": 5,
+      "title": "총잡이의 안내서"
+    },
+    {
+      "id": "sf-series-ca331e552946",
+      "members": 5,
+      "title": "컴뱃테크 카탈로그"
+    },
+    {
+      "id": "sf-series-bbf7af55681c",
+      "members": 10,
+      "title": "특전사"
+    },
+    {
+      "id": "sf-series-c196d32566b3",
+      "members": 4,
+      "title": "신도 노트"
+    }
+  ],
+  "scope": "Installed Starfield.esm only; DLC and audio-only recordings not covered",
+  "verification": "Exact ESM record type/FormID/field occurrence/string-ID matched to archived SST; conflicting SST variants accepted only when exactly one matches archived base-patch text. Imported translation, not editorial review"
+}
