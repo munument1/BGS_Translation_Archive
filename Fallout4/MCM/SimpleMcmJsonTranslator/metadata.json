@@ -1,0 +1,1214 @@
+{
+  "format": "NRBF MCMDB 한국어 정규화",
+  "reader": "bounded inert NRBF parser (no binary deserialization or app execution)",
+  "counts": {
+    "files_parsed": 149,
+    "entries_read": 11119,
+    "korean_entries_exported": 10893,
+    "unusable_or_corrupt_translation": 226
+  },
+  "source_files": {
+    "_default_en_ko.mcmdb": {
+      "sha256": "705630ef14b484a66ca0c9cc833a221337800002568908d70f4e7400ce8d3c95",
+      "entries": 5,
+      "status_code_counts": {
+        "1": 5
+      },
+      "status": "parsed_exact_eof"
+    },
+    "_MCMSettingsManager_config_en_ko.mcmdb": {
+      "sha256": "f8fa12a92762b97a61ac7e1c71f67b4109d9d2a5ebeb5f12ea1984a6cec4de98",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "AAF_config_en_ko.mcmdb": {
+      "sha256": "2ed34da8c98bf06ca9464f399d1fcb7d29a8d0dfeb9a6dc14d3c8052bbce8841",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "AAF_Violate_keybinds_en_.mcmdb": {
+      "sha256": "b3a72487b4948c41e9baa3766924176cdbbbf02ad5bf8de1029243d908d5cd4a",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "AAF_Violate_keybinds_en_ko.mcmdb": {
+      "sha256": "2720dd57f628c09c1ba70f6bbd891fd392ee0cf82509b5e587471f664aa12f36",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "AAF_Voices-Violate_config_en_ko.mcmdb": {
+      "sha256": "7fac825cc018779ad4050d8162cdcb8465278833ecb213776bebc88f28fb2a94",
+      "entries": 5,
+      "status_code_counts": {
+        "1": 5
+      },
+      "status": "parsed_exact_eof"
+    },
+    "AFT_config_en_ko.mcmdb": {
+      "sha256": "d0d1cf6790a58d90bd90b723dfa44c43bf7b9cfb016a4a480c845a798d67a1d9",
+      "entries": 71,
+      "status_code_counts": {
+        "1": 71
+      },
+      "status": "parsed_exact_eof"
+    },
+    "AllThingsNatural_config_en_ko.mcmdb": {
+      "sha256": "e417d81a81cf2c7168cfd29008eee00fe6bf04bbdde575ef931ff1a84345043b",
+      "entries": 113,
+      "status_code_counts": {
+        "1": 113
+      },
+      "status": "parsed_exact_eof"
+    },
+    "AllThingsNatural_keybinds_en_ko.mcmdb": {
+      "sha256": "7a10ac5de7e0eddeb1041699c8b4f8dd4c2c5adeb77aa72ecd73eae6062405c9",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Amputator_FO4_Config_en_ko.mcmdb": {
+      "sha256": "eff7fe6c039fbeb4589b406712b4f29f1343696962df0a18e26374ee18b00cb3",
+      "entries": 17,
+      "status_code_counts": {
+        "1": 17
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Animated World_config_en_ko.mcmdb": {
+      "sha256": "0fe689e663f8780cf7bcd8516b350ce69380349a510304eae8532f19f5da9621",
+      "entries": 50,
+      "status_code_counts": {
+        "1": 50
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Animated World_keybinds_en_ko.mcmdb": {
+      "sha256": "9fc2aa67bbcf238166fd57d4465d08c139c012f6e0eee9463147bca37e9d41fc",
+      "entries": 3,
+      "status_code_counts": {
+        "1": 3
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Animationpackbytooun_config_en_ko.mcmdb": {
+      "sha256": "410381083aeb8bb50e4e9d3e61b9620b5ca8b5c9b86238f224280fd051852507",
+      "entries": 31,
+      "status_code_counts": {
+        "1": 31
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Animationpackbytooun_keybinds_en_ko.mcmdb": {
+      "sha256": "666bc81ad007ae43129e32c85d7e91d7fb69514cf82787be7e38cdd74ddf4d20",
+      "entries": 4,
+      "status_code_counts": {
+        "1": 4
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Assimilation_config_en_ko.mcmdb": {
+      "sha256": "3386dc51e10bc83c6b42470d6e792196725744b9f022c6e55f7248b1aee0487c",
+      "entries": 908,
+      "status_code_counts": {
+        "1": 908
+      },
+      "status": "parsed_exact_eof"
+    },
+    "AutoSaveF4SE_config_en_ko.mcmdb": {
+      "sha256": "4633bf0a53bd5af454bfe64189097f8c4c563e445b75e488a15aed0b87c42b40",
+      "entries": 15,
+      "status_code_counts": {
+        "1": 15
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Bastion_config_en_ko.mcmdb": {
+      "sha256": "f3546fc1fcaf96d46dd80909e9be795ca16c89b007295b583b976944b8f5c4b5",
+      "entries": 14,
+      "status_code_counts": {
+        "1": 14
+      },
+      "status": "parsed_exact_eof"
+    },
+    "BlockingOverhaul_config_en_ko.mcmdb": {
+      "sha256": "1c908d845ac41fbf9d3e7d58a2a0116e00839fb5cd432d240baa5b9cd379657e",
+      "entries": 47,
+      "status_code_counts": {
+        "2": 47
+      },
+      "status": "parsed_exact_eof"
+    },
+    "CartographersMapMarkers_config_en_ko.mcmdb": {
+      "sha256": "8b299b211b56129fc85d5e9ac59d743c9bb3bebd7616149942d1232b93e9d62b",
+      "entries": 60,
+      "status_code_counts": {
+        "1": 60
+      },
+      "status": "parsed_exact_eof"
+    },
+    "CCBCL_config_en_ko.mcmdb": {
+      "sha256": "5ae92f503e060b4c2bdb0c369586bd7177ce0d57a5b7a9f4f0e88f3d8f33ec4c",
+      "entries": 84,
+      "status_code_counts": {
+        "1": 84
+      },
+      "status": "parsed_exact_eof"
+    },
+    "CCBSMM_config_en_ko.mcmdb": {
+      "sha256": "95172bc098fa6e98fa61ac4b9cbaa688c62595626f40fb0c75a87f35b5f0c974",
+      "entries": 11,
+      "status_code_counts": {
+        "1": 11
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Chemfluence AI Combat Dynamics_config_en_ko.mcmdb": {
+      "sha256": "e21e212bcb70e1a5fea06756b6e2c8aa1e6b8219f42887420c36e5ddc5621363",
+      "entries": 2,
+      "status_code_counts": {
+        "1": 2
+      },
+      "status": "parsed_exact_eof"
+    },
+    "CMkz_config_en_ko.mcmdb": {
+      "sha256": "f07621099b96608f0001c6b6f6e1fc8affc7e50955d0536f1369ae4846432236",
+      "entries": 129,
+      "status_code_counts": {
+        "1": 129
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Commonwealth Slavers_Config_en_ko.mcmdb": {
+      "sha256": "c7ec4bac6fcb286d01c1b3b57f0937dd9bb43d8c2fae1181cb74532c9abcfe99",
+      "entries": 306,
+      "status_code_counts": {
+        "1": 306
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Commonwealth Slavers_keybinds_en_ko.mcmdb": {
+      "sha256": "e626276d60c423ddbf7d0a0a4106c746f05742c357c43d221127bab780c35cfc",
+      "entries": 2,
+      "status_code_counts": {
+        "1": 2
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Commonwealth_Captives_config_en_ko.mcmdb": {
+      "sha256": "d8f481c2832411d8b08da0da24018c1143508aa025a8343865ecaeb01c9fbc35",
+      "entries": 31,
+      "status_code_counts": {
+        "1": 31
+      },
+      "status": "parsed_exact_eof"
+    },
+    "CompanionStatusEnhanced_config_en_ko.mcmdb": {
+      "sha256": "5aea7d2b81e8bb49dca009f8cdbdb2f15a01fbab4f7e577f4c6bf1a6c13ee4f4",
+      "entries": 65,
+      "status_code_counts": {
+        "1": 65
+      },
+      "status": "parsed_exact_eof"
+    },
+    "CompanionStatusEnhanced_keybinds_en_ko.mcmdb": {
+      "sha256": "bfbcb667bc877fd5084854b37074f72b3c7339e2d3fec0c44efab6cdfce0476f",
+      "entries": 7,
+      "status_code_counts": {
+        "1": 7
+      },
+      "status": "parsed_exact_eof"
+    },
+    "CompanionStatusHUD_config_en_ko.mcmdb": {
+      "sha256": "debed2aa67d4e87d0dccfd12a7a166201464d6662721a3aee990e8013b32b167",
+      "entries": 2,
+      "status_code_counts": {
+        "1": 2
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Complex Vendors_config_en_ko.mcmdb": {
+      "sha256": "12d766ec87c525127cb02e804f5225f4fbd546a9d92f2acd502b2d02b1fedad3",
+      "entries": 16,
+      "status_code_counts": {
+        "1": 16
+      },
+      "status": "parsed_exact_eof"
+    },
+    "ConditionBoy_config_en_ko.mcmdb": {
+      "sha256": "00d4306b96cbd29140f0c7373d65ec7bfb014d661d27a8749823d9de8f088307",
+      "entries": 36,
+      "status_code_counts": {
+        "1": 36
+      },
+      "status": "parsed_exact_eof"
+    },
+    "CraftingHighlightFix_config_en_ko.mcmdb": {
+      "sha256": "2e0102b9d89dba5bf1851f4596dc2569f85619b7165a7fff3d5e26b9b33ab823",
+      "entries": 16,
+      "status_code_counts": {
+        "1": 16
+      },
+      "status": "parsed_exact_eof"
+    },
+    "CRX_config_en_ko.mcmdb": {
+      "sha256": "4ed4415bf30fac4f22c077f1db57a0fe9e622e5dfbf702c0eee1663205d1649a",
+      "entries": 23,
+      "status_code_counts": {
+        "1": 23
+      },
+      "status": "parsed_exact_eof"
+    },
+    "CumOverlays_config_en_ko.mcmdb": {
+      "sha256": "9a0fc8818ec8abceda2ef1bb7983a2777129dff26f2c77ee60e6084d1bb6761b",
+      "entries": 12,
+      "status_code_counts": {
+        "1": 12
+      },
+      "status": "parsed_exact_eof"
+    },
+    "CustomCamera_config_en_ko.mcmdb": {
+      "sha256": "34629f48de2c75c0b28cb34df9ddf67c645488ad692ebef4aa98a076cd7bbe38",
+      "entries": 72,
+      "status_code_counts": {
+        "1": 72
+      },
+      "status": "parsed_exact_eof"
+    },
+    "CustomCamera_keybinds_en_ko.mcmdb": {
+      "sha256": "edb243eb6fb224c9e3e0396d8d8edeced339d0e09f0bfa337bec28c8bffe4094",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "DCL_A_config_en_ko.mcmdb": {
+      "sha256": "d4db1b58aa07634789c4c64570f431cce73faf2c919958c4c8784fcc4f4a4ab8",
+      "entries": 9,
+      "status_code_counts": {
+        "1": 9
+      },
+      "status": "parsed_exact_eof"
+    },
+    "DD_Bench_Unlock_config_en_ko.mcmdb": {
+      "sha256": "b450c7040541da904cbff5a45ee180a865e31ad924bd7f3a887893f696a99478",
+      "entries": 40,
+      "status_code_counts": {
+        "1": 40
+      },
+      "status": "parsed_exact_eof"
+    },
+    "DeviousDevices_config_en_ko.mcmdb": {
+      "sha256": "01bf5511f7685b645c32790cdee6f8f0b633335357accadaf1277992d11a3851",
+      "entries": 99,
+      "status_code_counts": {
+        "1": 99
+      },
+      "status": "parsed_exact_eof"
+    },
+    "DynamicGrass_config_en_ko.mcmdb": {
+      "sha256": "2743b65677a28fb191e0225b914a0716768f7ae3755751b4f3befaaba4840504",
+      "entries": 26,
+      "status_code_counts": {
+        "1": 26
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Enhanced Creatures AI Overhaul Nuka World_config_en_ko.mcmdb": {
+      "sha256": "311cf9f33c20d39a5b4473d21c4f2ce3ab13a8c35d41e9fbae6c10a935c8c295",
+      "entries": 7,
+      "status_code_counts": {
+        "1": 7
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Enhanced Creatures AI Overhaul_config_en_ko.mcmdb": {
+      "sha256": "ef1602c97b87fadee1d17ee444b4ca41f2c1196e1b65ddffc689d94b5c08f62f",
+      "entries": 57,
+      "status_code_counts": {
+        "1": 57
+      },
+      "status": "parsed_exact_eof"
+    },
+    "FasterWorkshop_config_en_ko.mcmdb": {
+      "sha256": "42b134ee8527f3ac988b5cc101369c46d0b880eb40a25d61439e988c3c12a68c",
+      "entries": 6,
+      "status_code_counts": {
+        "1": 6
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Flashy_CrimeAndPunishment_config_en_ko.mcmdb": {
+      "sha256": "925c810c06851767f5a4be7d14d24388a40d9b034ad055e5e3bb2c6f3df8f501",
+      "entries": 507,
+      "status_code_counts": {
+        "1": 507
+      },
+      "status": "parsed_exact_eof"
+    },
+    "FloatingDamage_config_en_ko.mcmdb": {
+      "sha256": "e47c93c7bb2f8e1d57a3a2588735c07afc08f9b4c82f498c7ec4b2f098265327",
+      "entries": 26,
+      "status_code_counts": {
+        "1": 26
+      },
+      "status": "parsed_exact_eof"
+    },
+    "FloozyFurniture_config_en_ko.mcmdb": {
+      "sha256": "a8c019bda74c434e720d044a2c8970b22031db614ce55ee0511f40b622143486",
+      "entries": 4,
+      "status_code_counts": {
+        "1": 4
+      },
+      "status": "parsed_exact_eof"
+    },
+    "FO4HHS_config_en_ko.mcmdb": {
+      "sha256": "3e47b3c64faba77be8cb2d56207d4f7e6f472046c5085b2908e63b991d2b8c30",
+      "entries": 2,
+      "status_code_counts": {
+        "1": 2
+      },
+      "status": "parsed_exact_eof"
+    },
+    "FO4HHS_keybinds_en_ko.mcmdb": {
+      "sha256": "24f9a6d6dc4dfcb2ef3c253f337ad882fa597a41a12d51d4a93ca18baf1e52df",
+      "entries": 2,
+      "status_code_counts": {
+        "1": 2
+      },
+      "status": "parsed_exact_eof"
+    },
+    "fo4vatss01_config_en_ko.mcmdb": {
+      "sha256": "d1b4f2367f23111bbfc4928377ab663d87d4335306ef22027d58ca463fa54f42",
+      "entries": 57,
+      "status_code_counts": {
+        "1": 57
+      },
+      "status": "parsed_exact_eof"
+    },
+    "FP_SexualHarassment_config_en_ko.mcmdb": {
+      "sha256": "352e3b4fe6c8cdac2121d9cc41bcfcea265ff97dee085f9647224b48e7b76d7e",
+      "entries": 428,
+      "status_code_counts": {
+        "1": 428
+      },
+      "status": "parsed_exact_eof"
+    },
+    "FP_SexualHarassment_keybinds_en_ko.mcmdb": {
+      "sha256": "4bb43160f4092b03c00d91fcbe6985e16ba7fcf69c7ad78237f621498fdfa623",
+      "entries": 2,
+      "status_code_counts": {
+        "1": 2
+      },
+      "status": "parsed_exact_eof"
+    },
+    "FPAttributes_config_en_ko.mcmdb": {
+      "sha256": "66eda24a692dd2a1703fced350601ca59b0df55c29914ecd7d980f3bc49c54b0",
+      "entries": 291,
+      "status_code_counts": {
+        "2": 291
+      },
+      "status": "parsed_exact_eof"
+    },
+    "FPAttributes_keybinds_en_ko.mcmdb": {
+      "sha256": "ead31bb4015fcbdeafdb94197f290479a912ffa17fea7adf192b241d415e5901",
+      "entries": 4,
+      "status_code_counts": {
+        "1": 4
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Funtime2_config_en_ko.mcmdb": {
+      "sha256": "f7a086fc6d409ef3024b618a72739d2b0858589cbc96f2720d9d44473feb5a43",
+      "entries": 7,
+      "status_code_counts": {
+        "1": 7
+      },
+      "status": "parsed_exact_eof"
+    },
+    "GCM_config_en_ko.mcmdb": {
+      "sha256": "5f288e81ccbb29f9dd6300d8826ef064a633acb199f35d3d474ed5d659618cc5",
+      "entries": 405,
+      "status_code_counts": {
+        "1": 405
+      },
+      "status": "parsed_exact_eof"
+    },
+    "HiPolyFaces_config_en_ko.mcmdb": {
+      "sha256": "346a8b27545dd1ad85e770ca3ac6db7cf7a47a1e8cadb2b7e5c18a4410f6725f",
+      "entries": 70,
+      "status_code_counts": {
+        "1": 2,
+        "2": 68
+      },
+      "status": "parsed_exact_eof"
+    },
+    "HouseRules_config_en_ko.mcmdb": {
+      "sha256": "4c19b5f162eda9265d6627b57f0de51918b2018415cd20188814d3ec45ce5724",
+      "entries": 545,
+      "status_code_counts": {
+        "1": 545
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Human Cattle_config_en_ko.mcmdb": {
+      "sha256": "2f0607fed260de2fe81c0fd70670790ee957ac634301d763dc0ca8f54f57dfd1",
+      "entries": 90,
+      "status_code_counts": {
+        "1": 90
+      },
+      "status": "parsed_exact_eof"
+    },
+    "HumanResources_config_en_ko.mcmdb": {
+      "sha256": "bd4693075f5f71f7f8fe404d12711ea5c4d2b44f72cb265abcd6d24831ed7f02",
+      "entries": 100,
+      "status_code_counts": {
+        "1": 100
+      },
+      "status": "parsed_exact_eof"
+    },
+    "InCap_config_en_ko.mcmdb": {
+      "sha256": "0355661af7a4c0939c230faea4fb62130eb655bac7c343cc30c6da53171e1218",
+      "entries": 226,
+      "status_code_counts": {
+        "1": 226
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Just Business Addon_config_en_ko.mcmdb": {
+      "sha256": "1e3d33e23f2c90f09ffe510a1f75f4120a919e73a656cc34bfbb4817d239033c",
+      "entries": 71,
+      "status_code_counts": {
+        "1": 71
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Just Business Addon_keybinds_en_ko.mcmdb": {
+      "sha256": "7de4bfdfb6eee7b59370e0f75c2e1f09b7f339bada5b211d794a830c7ee6a828",
+      "entries": 2,
+      "status_code_counts": {
+        "1": 2
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Just Business Hunter_config_en_ko.mcmdb": {
+      "sha256": "00c95e3f0647035c7cc9d8436325a94e4d1aaddd5ab65a8b0e94e6b38b59e404",
+      "entries": 24,
+      "status_code_counts": {
+        "1": 24
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Just Business Hunter_keybinds_en_ko.mcmdb": {
+      "sha256": "6fb6e56607d03615368a0f686effdad0c40598a1ac2e0503d53d06b81b823aa6",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Just Business_config_en_ko.mcmdb": {
+      "sha256": "53da64d097344aa4c1c33cdf32af951d0463ddb6b8a39706b3bb78ad30e2c70a",
+      "entries": 128,
+      "status_code_counts": {
+        "1": 128
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Just Business_keybinds_en_ko.mcmdb": {
+      "sha256": "0fc650bd7081db2dc5588ed14a8e429b26719c90fab3c4443df93b75df221ee2",
+      "entries": 6,
+      "status_code_counts": {
+        "1": 6
+      },
+      "status": "parsed_exact_eof"
+    },
+    "KILLTIPSbytooun_config_en_ko.mcmdb": {
+      "sha256": "d0698956669ad095a41d9e776a47ea1162972fc15fe40b4480b9b7d89b77a05e",
+      "entries": 37,
+      "status_code_counts": {
+        "1": 37
+      },
+      "status": "parsed_exact_eof"
+    },
+    "KILLTIPSbytooun_keybinds_en_ko.mcmdb": {
+      "sha256": "f7c94fd3c93fd5f3b0a07e08a77bc49da232b109e55da3f55d16e3b8541bdbc7",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Kziitd Fetish Toolset_config_en_.mcmdb": {
+      "sha256": "2482f210a64ffb4ee5a133f4da0c3564bbb098be1a2f846a873b4e4d16a43e69",
+      "entries": 2,
+      "status_code_counts": {
+        "1": 2
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Kziitd Fetish Toolset_config_en_ko.mcmdb": {
+      "sha256": "2404b63d0e18b4b6b43cf72bf27bcafbf4bd10f3a389a91a106a10a85f1d21bb",
+      "entries": 56,
+      "status_code_counts": {
+        "1": 56
+      },
+      "status": "parsed_exact_eof"
+    },
+    "LegendariesTheyCanUse_config_en_ko.mcmdb": {
+      "sha256": "6a85555d6e4a950e80a2c6aa9235fb8448e7d89e26c84412e57d5031bed05d74",
+      "entries": 3,
+      "status_code_counts": {
+        "1": 3
+      },
+      "status": "parsed_exact_eof"
+    },
+    "LigaOfMyCompanions_keybinds_en_ko.mcmdb": {
+      "sha256": "a91b8650d22460a7804967bbd50c454e9d0320909a17bba6330e98bbaa224ae1",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "MAIM_config_en_ko.mcmdb": {
+      "sha256": "5614d3f54b46e23f7170188cf306ac0592180a9ec091741977935c2890ca95a3",
+      "entries": 189,
+      "status_code_counts": {
+        "1": 189
+      },
+      "status": "parsed_exact_eof"
+    },
+    "MinutemanWatchtowersSurveyAddon_config_en_ko.mcmdb": {
+      "sha256": "c5868984b01479c7a57061ba36ea92080e1c9d25f77954948731021e09ca1a79",
+      "entries": 12,
+      "status_code_counts": {
+        "1": 12
+      },
+      "status": "parsed_exact_eof"
+    },
+    "MoreHUDInfo_config_en_ko.mcmdb": {
+      "sha256": "768ed5b7ed7339512784ef6997b88a8e4581273386272dc61dc4b52228d0be6a",
+      "entries": 96,
+      "status_code_counts": {
+        "1": 96
+      },
+      "status": "parsed_exact_eof"
+    },
+    "MSMA_HUD_config_en_ko.mcmdb": {
+      "sha256": "713ab4d4e8f63734d2f02ef98a9401ce1835a28f861651ad1b6bc9d10cd76dcd",
+      "entries": 59,
+      "status_code_counts": {
+        "1": 59
+      },
+      "status": "parsed_exact_eof"
+    },
+    "MSMA_Sexual_Journey_config_en_ko.mcmdb": {
+      "sha256": "fad925a60f4a1288b70e6c1090d53a67067a342504c1e22124ddf5a2cd1321a0",
+      "entries": 1142,
+      "status_code_counts": {
+        "1": 1142
+      },
+      "status": "parsed_exact_eof"
+    },
+    "MSMA_Sexual_Journey_keybinds_en_ko.mcmdb": {
+      "sha256": "68cbcabef793dd715a98b317f047ea8e744e48d675097efc46057b1393c183a5",
+      "entries": 32,
+      "status_code_counts": {
+        "1": 32
+      },
+      "status": "parsed_exact_eof"
+    },
+    "MWoW_config_en_ko.mcmdb": {
+      "sha256": "8a3bf989a6e0df75a24e4536247cb907d1f73f7e3cfcf029038c5eb02f374b14",
+      "entries": 21,
+      "status_code_counts": {
+        "1": 21
+      },
+      "status": "parsed_exact_eof"
+    },
+    "MWoW_keybinds_en_ko.mcmdb": {
+      "sha256": "62afbc56ad183a6b68ae0b6e270d7baab2937954d3a1ffaeaa0b2ba91d19e778",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "NAF_config_en_ko.mcmdb": {
+      "sha256": "29099e52fa6c00bcbd4453dd29f6c75327c90faa560034a128529ae675d414d9",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "NAF_keybinds_en_ko.mcmdb": {
+      "sha256": "725870797718baef28f80adc73d24a6753eaaf1f01d84c3977b1f55659139002",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "NPCsChangeClothes_config_en_ko.mcmdb": {
+      "sha256": "1cf5ef5f9f64c02465bba1b281fb2f9644e10f410bc94c638964803db2123e86",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "NpcsDontMoveInDialogue_config_en_ko.mcmdb": {
+      "sha256": "d815b02908fd0f1e50a0fd9253f98ecfe05536bd70a73e5c4d303bf1a68a1ce8",
+      "entries": 11,
+      "status_code_counts": {
+        "1": 11
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Nuka Ride_Config_en_ko.mcmdb": {
+      "sha256": "c2643c4cf21397fe3c2d3e9f12247ea1f2a3af1cb8e5aece0940db59a3db31d6",
+      "entries": 193,
+      "status_code_counts": {
+        "1": 193
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Nuka Ride_keybinds_en_ko.mcmdb": {
+      "sha256": "c4f0424f7c165e5091029d609fe52f7756fefc83f8ee5f3a199a16ae8227d007",
+      "entries": 4,
+      "status_code_counts": {
+        "1": 4
+      },
+      "status": "parsed_exact_eof"
+    },
+    "OCBP_config_en_ko.mcmdb": {
+      "sha256": "88a178954c864c02f5a1e3b840e13766e8c7554690bae8a2d32ac1818ab21e75",
+      "entries": 104,
+      "status_code_counts": {
+        "1": 104
+      },
+      "status": "parsed_exact_eof"
+    },
+    "OCBP_keybinds_en_ko.mcmdb": {
+      "sha256": "3651ffff378b8527fc5375a46d11429a9cc8e32ee3ae865ce01b44e8fd7b5e09",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "PenPos_config_en_ko.mcmdb": {
+      "sha256": "684f4ca9e2ab3fa062e6b10dba853bb3cc56a9dbb2f48042a537d3a678b581a3",
+      "entries": 19,
+      "status_code_counts": {
+        "1": 19
+      },
+      "status": "parsed_exact_eof"
+    },
+    "PRKF_config_en_ko.mcmdb": {
+      "sha256": "ee874feb92e891a6a0f06cabcdf3ede3b68147d9c0f5a264f6b8873cdc89df65",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "PRKF_keybinds_en_ko.mcmdb": {
+      "sha256": "b0b05a6a51cd6cc0c250de5a3d34910328a327ebcd130104c6c8d8b21c930060",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "PSPPI_config_en_ko.mcmdb": {
+      "sha256": "66b5b126ed0542f9de778b9e1a9af4f283cc703894c7eb6ec0c493c520998a0b",
+      "entries": 36,
+      "status_code_counts": {
+        "1": 36
+      },
+      "status": "parsed_exact_eof"
+    },
+    "PureOpulence_config_en_ko.mcmdb": {
+      "sha256": "6f3db16f843acd7f436dddb292605574bbbba446d9d02875477f281a9cf9ed54",
+      "entries": 19,
+      "status_code_counts": {
+        "1": 19
+      },
+      "status": "parsed_exact_eof"
+    },
+    "QMWMenu_config_en_ko.mcmdb": {
+      "sha256": "2b747786f2136645863a6a3b6f7974f1c49c6187dea67575e64f73ddfb78bcee",
+      "entries": 18,
+      "status_code_counts": {
+        "1": 18
+      },
+      "status": "parsed_exact_eof"
+    },
+    "QMWMenu_keybinds_en_ko.mcmdb": {
+      "sha256": "114b9b892ee42d0e8af8aeb0ab38e86dbe33902dc2e57177aa3f9d4e62f3b0e4",
+      "entries": 2,
+      "status_code_counts": {
+        "1": 2
+      },
+      "status": "parsed_exact_eof"
+    },
+    "raider_reform_school_config_en_ko.mcmdb": {
+      "sha256": "ba79aca25bf5f587f1e26a7d1de806200e8ee6b345b17b32480952f66e871fdd",
+      "entries": 8,
+      "status_code_counts": {
+        "1": 8
+      },
+      "status": "parsed_exact_eof"
+    },
+    "RealHandcuffs_config_en_ko.mcmdb": {
+      "sha256": "31d1172a31cab255a04e095d4e9f215b1e48e51f1dd832fd84c890606b36cdc0",
+      "entries": 92,
+      "status_code_counts": {
+        "1": 92
+      },
+      "status": "parsed_exact_eof"
+    },
+    "RedsFrostFixes_config_en_ko.mcmdb": {
+      "sha256": "9569924f5c78247b429367409ff98d83d8931c5b73f57b0ea0bf4627a9fc8c40",
+      "entries": 91,
+      "status_code_counts": {
+        "1": 91
+      },
+      "status": "parsed_exact_eof"
+    },
+    "RedsFrostFixes_keybinds_en_ko.mcmdb": {
+      "sha256": "dffa7af78f2f8516188e48b1712f79d29697605d3830f7b3ecd1fd054f45b1bc",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "REPUTATION_config_en_ko.mcmdb": {
+      "sha256": "0b60574ca05bb2f8670bd6877b13f2abad6bb1710cb61c35d57391c55ab78e35",
+      "entries": 55,
+      "status_code_counts": {
+        "1": 55
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Revive_Player_config_en_ko.mcmdb": {
+      "sha256": "f29026b3a7636085a29c22d5133292ccc0a9d3f87b98bd7354d7bee701e61078",
+      "entries": 73,
+      "status_code_counts": {
+        "1": 73
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Revive_Player_keybinds_en_ko.mcmdb": {
+      "sha256": "22f53a681b8cd2aacb80d540a65b7b12fc2e843f8602a45bb9882c2bb7ea8816",
+      "entries": 2,
+      "status_code_counts": {
+        "1": 2
+      },
+      "status": "parsed_exact_eof"
+    },
+    "RotatingSaves_config_en_ko.mcmdb": {
+      "sha256": "80c5e1eae65f8138a6429e42db66b64797bec3b6129bb6f9ede7412c63eda62c",
+      "entries": 17,
+      "status_code_counts": {
+        "1": 17
+      },
+      "status": "parsed_exact_eof"
+    },
+    "s99_SettlerOutfitter_config_en_ko.mcmdb": {
+      "sha256": "8c825ece957c5ebccceaa73ec78bfd9f30697ace6855ab54766813144869771a",
+      "entries": 42,
+      "status_code_counts": {
+        "1": 42
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SAFR_Config_en_ko.mcmdb": {
+      "sha256": "60d769862603ce499ff6e89da639efae6a878fc55c3d39612de2e88d611ee2fa",
+      "entries": 10,
+      "status_code_counts": {
+        "1": 10
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SCOURGE - DLCCoast_config_en_ko.mcmdb": {
+      "sha256": "cdeae7466eb0c7c10136998f07736038b125ddeb1e7cb12eec9bcbeb163ce8e0",
+      "entries": 83,
+      "status_code_counts": {
+        "1": 83
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SCOURGE - DLCNukaWorld_config_en_ko.mcmdb": {
+      "sha256": "f494c805db8db9ef834e7af4e9a50f06e8e4c1efdb012d14aa3552dc6117cadb",
+      "entries": 85,
+      "status_code_counts": {
+        "1": 85
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SCOURGE - DLCRobot_config_en_ko.mcmdb": {
+      "sha256": "e41facfe21a98053eb6fdd62a1b9dcdc0e8f329937d3fd84e1791a3e36951b1b",
+      "entries": 76,
+      "status_code_counts": {
+        "1": 76
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SCOURGE - Fallout4_config_en_ko.mcmdb": {
+      "sha256": "b16588a0335f5d21fc3f752302a36c473c51e699c651347531d2b2c06a016103",
+      "entries": 115,
+      "status_code_counts": {
+        "1": 115
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SCOURGE_config_en_ko.mcmdb": {
+      "sha256": "5cbcd7a2aca54e246e8bcedcb6a57f3f8d6cb9488c9f3edf22bbf503367fcfd3",
+      "entries": 23,
+      "status_code_counts": {
+        "1": 23
+      },
+      "status": "parsed_exact_eof"
+    },
+    "ScrapZapper2_config_en_ko.mcmdb": {
+      "sha256": "9abd621c1d889e189da45adcea257563715295921b0dd407b5cd70668cffce83",
+      "entries": 43,
+      "status_code_counts": {
+        "1": 43
+      },
+      "status": "parsed_exact_eof"
+    },
+    "ScreenArcherMenu_keybinds_en_ko.mcmdb": {
+      "sha256": "0c82a394e60ada2db477365065f89757d1557fd2439b57737ae9468cc7da1c75",
+      "entries": 5,
+      "status_code_counts": {
+        "1": 5
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SettlementVisitors2_config_en_ko.mcmdb": {
+      "sha256": "4b0fcf76ffae2b0c5639b018cc9b5df27e58b4f8c0fe644eaf11de0984e0dbf8",
+      "entries": 93,
+      "status_code_counts": {
+        "1": 93
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SettlementVisitors_config_en_ko.mcmdb": {
+      "sha256": "23fd817a058f48b1bda80be454dcf779e31bb26595c36d4c5c0963b4339b0eac",
+      "entries": 68,
+      "status_code_counts": {
+        "1": 68
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SexAttributesArousalHelper_config_en_ko.mcmdb": {
+      "sha256": "5b7dbab641a6f48df4da5a57ce2c232b7f46e629a81c8bead0ed6274fdd72505",
+      "entries": 194,
+      "status_code_counts": {
+        "1": 194
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SkimpyArmorKeywordResource_config_en_ko.mcmdb": {
+      "sha256": "39a7ac924a5e80d67a14fafa34402f379d988b9082e5698c1438b00407fa03b5",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SkimpyArmorKeywordResource_keybinds_en_ko.mcmdb": {
+      "sha256": "a8d2a54dd925407cd8beb4644ee77e2bfebf3594e8cb71f9bb02f4ac92560beb",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SlowMotionDismemberment_config_en_ko.mcmdb": {
+      "sha256": "8355c5ac80d0d4daccd3b6b9ddf557fac7739ba0d12aa4d14053efbfd9756fde",
+      "entries": 35,
+      "status_code_counts": {
+        "1": 35
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Snappy_HouseK_config_en_ko.mcmdb": {
+      "sha256": "add775e0446195b9800dbd875bad80e36e346e804bafcfe4459f95791b9b1085",
+      "entries": 47,
+      "status_code_counts": {
+        "1": 47
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SS2 Settlement Management Terminal_config_en_ko.mcmdb": {
+      "sha256": "6c37c12c635d8a73a547214a3ed75507227651d578c2620b62aae7f89133d7c9",
+      "entries": 45,
+      "status_code_counts": {
+        "1": 45
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SS2 Settlement Management Terminal_keybinds_en_ko.mcmdb": {
+      "sha256": "e5b169ca9a05ec56a818803890078ebe09f4b0f23a833e1660187d35eea235b5",
+      "entries": 9,
+      "status_code_counts": {
+        "1": 9
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SS2_config_en_ko.mcmdb": {
+      "sha256": "b8e1e6ce80d06a72b8bf733c189ba8ec1994dfa68e6ada2557b24675f6decfc2",
+      "entries": 496,
+      "status_code_counts": {
+        "1": 496
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SS2_keybinds_en_ko.mcmdb": {
+      "sha256": "5ae90340fde395e031934fd52ce08a82f7351993e2efa557cfce58c96a3e453f",
+      "entries": 22,
+      "status_code_counts": {
+        "1": 22
+      },
+      "status": "parsed_exact_eof"
+    },
+    "SS2AOP_VaultTecTools_config_en_ko.mcmdb": {
+      "sha256": "c11881f33f6bd3386e750101f9498c5d136e092e4dc8b37d523dab38b0fcb10c",
+      "entries": 27,
+      "status_code_counts": {
+        "1": 27
+      },
+      "status": "parsed_exact_eof"
+    },
+    "TacticalReload_config_en_ko.mcmdb": {
+      "sha256": "c55c1568f62f6feb77402999b023ed64ea2fb98268ea6ca1c2b285ce6800e739",
+      "entries": 20,
+      "status_code_counts": {
+        "1": 20
+      },
+      "status": "parsed_exact_eof"
+    },
+    "TatsAfterRape_config_en_ko.mcmdb": {
+      "sha256": "2ee049a1406ab9b0a8eb6683c64aebffaab1ceab2b89b74ab7876bd771fd5fbc",
+      "entries": 32,
+      "status_code_counts": {
+        "1": 32
+      },
+      "status": "parsed_exact_eof"
+    },
+    "TerrainUndersides_config_en_ko.mcmdb": {
+      "sha256": "1eb1b7324c8706695e6d19e34baf9c5b3d407ede6a260381c0332d187b01de6a",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "TheMobileMechanic_config_en_ko.mcmdb": {
+      "sha256": "76217ae9489f424c2c7ef05c6fbf4224b949fecb8ac11de1906dd3b2562b7e48",
+      "entries": 12,
+      "status_code_counts": {
+        "1": 12
+      },
+      "status": "parsed_exact_eof"
+    },
+    "TheMobileMechanic_keybinds_en_ko.mcmdb": {
+      "sha256": "42ae461a886896155f4b457cfae18fed8fb381bb919caab81db5df61bf67bb6c",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "TortureDevices_config_en_ko.mcmdb": {
+      "sha256": "30ede73d2262eecadf043aeeeb2884a37583cb117d645a3bbcf5ac3604a2cd83",
+      "entries": 54,
+      "status_code_counts": {
+        "1": 54
+      },
+      "status": "parsed_exact_eof"
+    },
+    "TortureDevices_keybinds_en_ko.mcmdb": {
+      "sha256": "2c57436627590b9017456bc415bf4fbd687ce8a6499e86f41900e5206827c970",
+      "entries": 1,
+      "status_code_counts": {
+        "1": 1
+      },
+      "status": "parsed_exact_eof"
+    },
+    "True Damage_config_en_ko.mcmdb": {
+      "sha256": "a38d1648106c50a530df7dce05359248e1a67cdc25f844ff448e69d2e6da9c57",
+      "entries": 128,
+      "status_code_counts": {
+        "1": 128
+      },
+      "status": "parsed_exact_eof"
+    },
+    "UnlimitedSurvivalMode_config_en_ko.mcmdb": {
+      "sha256": "edda68193540e287a7b52dbe52200ade0057b2f5a73ad46eea67d9ca88133582",
+      "entries": 27,
+      "status_code_counts": {
+        "1": 27
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Upscaling_config_en_ko.mcmdb": {
+      "sha256": "76c701452dfceb7f8d8fccbf0e9c6638604f7408a8986ca6b7ca43f5191fcbe0",
+      "entries": 17,
+      "status_code_counts": {
+        "1": 17
+      },
+      "status": "parsed_exact_eof"
+    },
+    "VessperiaS_GameVisualsConfigurationMenu_config_en_ko.mcmdb": {
+      "sha256": "7ca28846dc0819133462a54a5f6860bb3e4ec446096559b08bd9cc6dcf8deff1",
+      "entries": 161,
+      "status_code_counts": {
+        "1": 161
+      },
+      "status": "parsed_exact_eof"
+    },
+    "Videos of the Wasteland_config_en_ko.mcmdb": {
+      "sha256": "559290754ed39bc1566d8bfe47a8d21f23b2979b6f474ddbf1dc197435d1417f",
+      "entries": 20,
+      "status_code_counts": {
+        "1": 20
+      },
+      "status": "parsed_exact_eof"
+    },
+    "VulgarVisitors2_config_en_ko.mcmdb": {
+      "sha256": "53899c57ef9aa2021e8bb98e9188a646eca970c036dee30e5172a82c3853e40a",
+      "entries": 16,
+      "status_code_counts": {
+        "1": 16
+      },
+      "status": "parsed_exact_eof"
+    },
+    "VulgarVisitors_config_en_ko.mcmdb": {
+      "sha256": "0d5c82366725ab341bbfbf45aadcb4e70bb69e0f23c25b7c8ee612a841661729",
+      "entries": 13,
+      "status_code_counts": {
+        "1": 13
+      },
+      "status": "parsed_exact_eof"
+    },
+    "WashOutThatCum_config_en_ko.mcmdb": {
+      "sha256": "aaa964574168894ac05d7ed94174bc547b7942f4402b36fc468895e64fae1e34",
+      "entries": 45,
+      "status_code_counts": {
+        "1": 45
+      },
+      "status": "parsed_exact_eof"
+    },
+    "WestTekTacticalOptics_Config_en_ko.mcmdb": {
+      "sha256": "f4cc6a0be5d7ffec19d29a5dd5be2c00334ed1e0c1103b4fb154b002b0078bce",
+      "entries": 26,
+      "status_code_counts": {
+        "1": 26
+      },
+      "status": "parsed_exact_eof"
+    },
+    "WestTekTacticalOptics_Keybinds_en_ko.mcmdb": {
+      "sha256": "aedbbdb66a288e0424b0a7c01199da721b384f26d86ddd2697ced3c9f69f9014",
+      "entries": 6,
+      "status_code_counts": {
+        "1": 6
+      },
+      "status": "parsed_exact_eof"
+    },
+    "WLEGG_WastelandEggspansion_config_en_ko.mcmdb": {
+      "sha256": "5833c811a168afe30c55cfdb7ee0b4e9b541ac48f1088769d3a767eee27aee1e",
+      "entries": 301,
+      "status_code_counts": {
+        "1": 301
+      },
+      "status": "parsed_exact_eof"
+    },
+    "WLEGG_WastelandEggspansion_keybinds_en_ko.mcmdb": {
+      "sha256": "920b2c1d55e1c446aea9f5718955f3c482eacb699db7a866fd9f43bf8d82e324",
+      "entries": 8,
+      "status_code_counts": {
+        "1": 8
+      },
+      "status": "parsed_exact_eof"
+    },
+    "WorkshopFramework_config_en_ko.mcmdb": {
+      "sha256": "fb4a087bc2a752c0fa48fa79e25daec68d1d25cb08a8091fea37adacfcc9166d",
+      "entries": 127,
+      "status_code_counts": {
+        "1": 127
+      },
+      "status": "parsed_exact_eof"
+    },
+    "WorkshopPlus_config_en_ko.mcmdb": {
+      "sha256": "a13e74f5ffc6ad4b2d65117788d1b02cac24c88e4dbf5a94df3109aa4ffabe63",
+      "entries": 163,
+      "status_code_counts": {
+        "1": 163
+      },
+      "status": "parsed_exact_eof"
+    },
+    "WorkshopPlus_keybinds_en_ko.mcmdb": {
+      "sha256": "238733eb45be8dd78f02ba1852cade2a0c214953fd4a656f0353c081c2006557",
+      "entries": 31,
+      "status_code_counts": {
+        "1": 31
+      },
+      "status": "parsed_exact_eof"
+    },
+    "XDI_config_en_ko.mcmdb": {
+      "sha256": "2b7bee75ffd96274ced7fab21bd56ffa956f3644baa4855e17210cfae63b3c6c",
+      "entries": 29,
+      "status_code_counts": {
+        "1": 29
+      },
+      "status": "parsed_exact_eof"
+    },
+    "YAE_config_en_ko.mcmdb": {
+      "sha256": "0b3d0f7557063bcd80fdf66db03dafb4c807d5fb5f51f9020b19017b943ba797",
+      "entries": 546,
+      "status_code_counts": {
+        "1": 546
+      },
+      "status": "parsed_exact_eof"
+    },
+    "ZZ_MCMBooster_config_en_ko.mcmdb": {
+      "sha256": "9feb1ec4b186a88d9504d9f5daba34c396cd7e18bde1527e2d0f95de6bc7c97b",
+      "entries": 6,
+      "status_code_counts": {
+        "1": 6
+      },
+      "status": "parsed_exact_eof"
+    }
+  },
+  "source_text_included": false,
+  "status": "imported_requires_manual_review",
+  "notes": [
+    "Each MCM source dictionary is preserved independently; duplicate English keys are not merged.",
+    "Original .mcmdb files are read-only.",
+    "Unknown TranslateDB.Status codes preserved as raw numbers.",
+    "U+FFFD source or destination text filtered out, not automatically repaired.",
+    "Public distribution rights must be checked before copying to GitHub."
+  ]
+}

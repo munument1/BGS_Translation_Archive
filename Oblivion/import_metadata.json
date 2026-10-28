@@ -1,0 +1,19 @@
+{
+  "game": "oblivion",
+  "format": "UTF-8 JSONL",
+  "sources": {
+    "canonical_translation_v2.csv": "2e41e4e535d291e5325982ef74cd170fdd236e593e8d64b2189cdafcd8213f89",
+    "canonical_locations_v2.csv": "aa732f074ac1e4782cdcddc304351756ab90d093052113ae56a9df7e013f0724"
+  },
+  "rows": {
+    "basegame": 46225,
+    "dlc": 1734,
+    "mods": 3185
+  },
+  "import_date": "2026-10-28",
+  "status": "imported",
+  "source_text_included": false,
+  "hash_semantics": "source_hash is SHA-256 of the full old English UTF-8 string in local CSV; English text itself is not included",
+  "quality_note": "OBCJK conversion_status=verified, where present, is an encoding check not a blanket editorial or runtime approval.",
+  "copyright_note": "Translation reference archive; keep source ownership and publication permissions under review."
+}

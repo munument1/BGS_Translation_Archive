@@ -1,0 +1,14 @@
+{
+  "game": "morrowind",
+  "mod": "Morrowind Korean Re-Translation",
+  "plugin": "Morrowind_Korean_ReTranslation.esp",
+  "source_plugin_sha256": "4dcbb8fe356db02b27451047cebb88251c97fcce8f62325dd5a96673dde86358",
+  "import_date": "2026-10-28",
+  "format": "UTF-8 JSONL",
+  "korean_translation_rows": 45781,
+  "status": "imported",
+  "source_text_included": false,
+  "hash_semantics": "localized_subrecord_hash is SHA-256 of original Korean ESP subrecord bytes; this is NOT English original hash",
+  "review_status": "source-catalog imported; no independent blanket in-game verification",
+  "copyright_note": "Noncommercial localization-reference data. Original games/mods and third-party translation rights remain with their respective rights holders."
+}

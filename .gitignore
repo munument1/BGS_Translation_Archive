@@ -3,6 +3,11 @@
 *.esm
 *.esl
 
+# These two names denote archive *folders* of JSONL data, not plugin binaries.
+# Never relax the global binary exclusion beyond these exact directories.
+!Morrowind/BaseGame/Morrowind_Korean_ReTranslation.esp/
+!Oblivion/BaseGame/Oblivion.esm/
+
 # Generated archives
 *.zip
 *.7z
