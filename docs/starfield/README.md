@@ -28,3 +28,7 @@ python tools/build_starfield_archive.py --esm 'D:\SteamLibrary\steamapps\common\
 ## ASMR과 BGM
 
 상단 `ASMR·BGM`에서 환경음 켜기·끄기·음량 조절과 YouTube BGM을 이용할 수 있습니다. ASMR은 사용자가 제공한 `freesound_community-spaceship-ambient-27988.mp3`를 재생합니다. 자동 재생하지 않으며 `모두 끄기`로 두 소리를 종료할 수 있습니다. BGM은 YouTube 원본 링크도 제공합니다. [음원·영상 출처](../assets/archive-audio-sources.json).
+
+## 화면 테마
+
+상단의 `다크 모드` / `라이트 모드` 버튼으로 목록, 본문 읽기창, ASMR 패널의 테마를 전환합니다. 첫 방문에는 기기의 테마를 따르며, 직접 선택한 테마는 이 브라우저에 저장합니다.
