@@ -10,20 +10,7 @@
   if(typeof module!=='undefined'&&module.exports)module.exports={embedUrl,volumeValue};
   if(typeof document==='undefined')return;
   const assets=new URL('.',document.currentScript.src);
-  function shipEngine(){
-    const Context=root.AudioContext||root.webkitAudioContext;if(!Context)throw Error('AudioContext unavailable');
-    const context=new Context();const master=context.createGain();master.gain.value=0;master.connect(context.destination);
-    const noise=context.createBuffer(1,context.sampleRate*16,context.sampleRate);const data=noise.getChannelData(0);
-    for(let i=0;i<data.length;i++)data[i]=Math.random()*2-1;
-    const fan=context.createBufferSource();fan.buffer=noise;fan.loop=true;
-    const high=context.createBiquadFilter();high.type='highpass';high.frequency.value=70;
-    const low=context.createBiquadFilter();low.type='lowpass';low.frequency.value=550;low.Q.value=.5;
-    const fanGain=context.createGain();fanGain.gain.value=.2;fan.connect(high);high.connect(low);low.connect(fanGain);fanGain.connect(master);fan.start();
-    for(const [frequency,level] of [[55,.025],[82.4,.012]]){const tone=context.createOscillator();tone.type='sine';tone.frequency.value=frequency;const gain=context.createGain();gain.gain.value=level;tone.connect(gain);gain.connect(master);tone.start();}
-    const drift=context.createOscillator();drift.frequency.value=.075;const depth=context.createGain();depth.gain.value=.025;drift.connect(depth);depth.connect(fanGain.gain);drift.start();
-    let volume=.3;
-    return {async play(){await context.resume();if(context.state!=='running')throw Error('AudioContext did not resume');master.gain.setTargetAtTime(volume,context.currentTime,.1);},async pause(){master.gain.setValueAtTime(0,context.currentTime);await context.suspend();},setVolume(value){volume=value;if(context.state==='running')master.gain.setTargetAtTime(volume,context.currentTime,.08);}};
-  }
+  const ambientFiles={ruins:'ruins-industrial-482892.mp3',ship:'spaceship-ambient-27988.mp3'};
   document.addEventListener('DOMContentLoaded',()=>{
     document.querySelectorAll('[data-sound-open]').forEach(link=>link.addEventListener('click',()=>{const deck=document.getElementById('soundscape');if(deck)deck.open=true;}));
     document.querySelectorAll('.sound-deck').forEach(deck=>{
@@ -45,10 +32,9 @@
             if(state.playing){await state.stop();}
             else{
               if(!state.backend){
-                if(card.dataset.ambientKind==='campfire'){
-                  const audio=document.createElement('audio');audio.src=new URL('campfire-119594.mp3',assets).href;audio.preload='none';audio.loop=true;audio.hidden=true;card.append(audio);
-                  state.backend={play:()=>audio.play(),pause:()=>{audio.pause();},setVolume:value=>{audio.volume=value;}};
-                }else state.backend=shipEngine();
+                const filename=ambientFiles[card.dataset.ambientKind];if(!filename)throw Error('Unknown ambience');
+                const audio=document.createElement('audio');audio.src=new URL(filename,assets).href;audio.preload='none';audio.loop=true;audio.hidden=true;card.append(audio);
+                state.backend={play:()=>audio.play(),pause:()=>{audio.pause();},setVolume:value=>{audio.volume=value;}};
               }
               state.backend.setVolume(volumeValue(slider.value));await state.backend.play();state.playing=true;paint();
             }

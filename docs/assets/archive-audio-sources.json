@@ -1,6 +1,6 @@
 {
   "checked": "2026-10-28",
-  "verification": "BGM: public YouTube watch-page and oEmbed metadata. ASMR: existing attributed local campfire recording and synthesized browser ambience. No video audio extraction.",
+  "verification": "User-supplied MP3 files stored unchanged with SHA256; user-selected BGM videos checked with public YouTube oEmbed metadata. No video audio extraction.",
   "archives": {
     "fallout": {
       "title": "황무지의 소리",
@@ -8,21 +8,21 @@
       "tracks": [
         {
           "kind": "ASMR",
-          "type": "local_audio",
-          "title": "황무지의 모닥불",
-          "asset": "campfire-119594.mp3",
-          "author": "SoundsForYou",
-          "source_url": "https://pixabay.com/sound-effects/campfire-crackling-fireplace-sound-119594/",
-          "license_url": "https://pixabay.com/service/license-summary/"
+          "type": "user_supplied_audio",
+          "title": "폐허의 산업시설 환경음",
+          "asset": "ruins-industrial-482892.mp3",
+          "original_filename": "dragon-studio-creepy-industrial-sounds-ambience-482892.mp3",
+          "sha256": "4433723cd674b094a18a04b7a3770619fb354fd407a506cfb48fb5f748c39828",
+          "credit_from_filename": "dragon-studio"
         },
         {
           "kind": "BGM",
-          "id": "xn8fQMRsaqU",
-          "title": "Fallout 4 테마 · Inon Zur 피아노 연주",
-          "original_title": "Inon Zur Plays Fallout 4 Theme",
-          "author": "Bethesda Softworks",
-          "channel": "https://www.youtube.com/@bethesda",
-          "credit": "Inon Zur 연주 · 공식 영상"
+          "id": "2IJZAKjglZI",
+          "title": "폴아웃 라디오 · Atomic City",
+          "original_title": "Fallout Radio Station | Atomic City Music Mix | 12 HOURS | Study, Relax, Sleep",
+          "author": "Geiger Broadcast",
+          "channel": "https://www.youtube.com/@GeigerBroadcast",
+          "selection": "user_provided_link"
         }
       ]
     },
@@ -32,19 +32,21 @@
       "tracks": [
         {
           "kind": "ASMR",
-          "type": "web_audio",
-          "title": "우주선 엔진·환기음",
-          "source": "Browser-generated filtered noise and low sine tones; not extracted game audio",
-          "user_initiated": true
+          "type": "user_supplied_audio",
+          "title": "우주선 실내 환경음",
+          "asset": "spaceship-ambient-27988.mp3",
+          "original_filename": "freesound_community-spaceship-ambient-27988.mp3",
+          "sha256": "90e720d328cafec74aaed586ce2f5ea486d3615fb778ac51329efe5519608b37",
+          "credit_from_filename": "freesound_community"
         },
         {
           "kind": "BGM",
-          "id": "0REXCITfjI0",
-          "title": "Starfield 공식 사운드트랙",
-          "original_title": "Starfield - Official Soundtrack from Composer Inon Zur",
-          "author": "Bethesda Softworks",
-          "channel": "https://www.youtube.com/@bethesda",
-          "credit": "Inon Zur 작곡 · Bethesda 공식 영상"
+          "id": "k3UevKvP9RU",
+          "title": "스타필드 우주 음악 · 10시간",
+          "original_title": "Starfield - Ambient Space Music for Sleep/Study/Relaxing 10 Hours",
+          "author": "Celestial Ambience",
+          "channel": "https://www.youtube.com/@CelestialAmbienceYT",
+          "selection": "user_provided_link"
         }
       ]
     }

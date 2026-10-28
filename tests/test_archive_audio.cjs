@@ -10,11 +10,11 @@ for(const [game,config] of Object.entries(data.archives)){
  assert.equal(url.searchParams.get('playlist'),music.id);assert.equal(url.searchParams.get('loop'),'1');
  assert.ok(html.includes('data-video-id="'+music.id+'"'));
  assert.equal((html.match(/data-video-id=/g)||[]).length,1,'Only BGM uses a video player');
- assert.ok(html.includes('data-ambient-kind="'+(game==='fallout'?'campfire':'ship')+'"'));
+ assert.ok(html.includes('data-ambient-kind="'+(game==='fallout'?'ruins':'ship')+'"'));
  assert.ok(html.includes('data-ambient-volume'));assert.ok(html.includes('data-sound-stop'));
  assert.ok(!html.includes('<iframe'),'No media iframe before a user request');
 }
 assert.throws(()=>embedUrl('javascript:alert(1)'));
 assert.equal(volumeValue('30'),.3);assert.equal(volumeValue(-20),0);assert.equal(volumeValue(200),1);assert.equal(volumeValue('bad'),0);
-assert.ok(fs.statSync(path.join(__dirname,'../docs/assets/campfire-119594.mp3')).size>0);
+for(const config of Object.values(data.archives)){const item=config.tracks.find(t=>t.kind==='ASMR');const bytes=fs.readFileSync(path.join(__dirname,'../docs/assets',item.asset));assert.equal(require('node:crypto').createHash('sha256').update(bytes).digest('hex'),item.sha256);}
 console.log('PASS: native ASMR, separate manual BGM, volume bounds and existing local audio asset');

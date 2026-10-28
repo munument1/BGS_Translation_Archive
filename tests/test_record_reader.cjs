@@ -1,6 +1,6 @@
 'use strict';
 const assert = require('node:assert/strict');
-const {reflow,sectionize} = require('../docs/assets/record-reader.js');
+const {reflow,sectionize,validatedLayout} = require('../docs/assets/record-reader.js');
 const prose='기록 제목\n\n이 문장은 오래된 게임 화면에 맞춰 짧은 줄로 고정되어 있지만\n태블릿에서는 화면의 넓이에 맞춰 자연스럽게 이어져야 합니다.\n두 번째 문장도 같은 문단 안에서 계속 읽을 수 있어야 합니다.\n\n다음 문단은 분리합니다.';
 const fitted=reflow(prose);
 assert.ok(fitted.includes('있지만 태블릿에서는'));
@@ -40,3 +40,22 @@ for(const record of documents){
   assert.equal(segments.map(p=>p.text).join(''),record.body_ko,record.id);
 }
 console.log('PASS: section parsing preserves all '+documents.length+' archived documents');
+
+const overrides=JSON.parse(fs.readFileSync(require('node:path').join(__dirname,'../docs/fallout/document-layout-overrides.json'),'utf8')).entries;
+for(const [id,layout] of Object.entries(overrides)){
+  const record=documents.find(r=>r.id===id);assert.ok(record,id);
+  assert.equal(require('node:crypto').createHash('sha256').update(record.body_ko).digest('hex'),layout.body_sha256);
+  if(layout.source_english_sha256)assert.ok([record.translation_source,...(record.translation_sources||[])].filter(Boolean).some(s=>s.source_hash===layout.source_english_sha256),id);
+  else assert.ok(layout.sources.length,id);
+  assert.ok(validatedLayout(record.body_ko,layout),id);
+  assert.equal(validatedLayout(record.body_ko+'다른 문장',layout),null);
+}
+const ticket=overrides['sst-fo3-fallout3-note-060758a0-tnam-0'];
+assert.deepEqual(ticket.blocks.filter(p=>p.type==='heading').map(p=>p.title),['오펜하이머의 어리석음?','R.J. 검비 교수의 강의']);
+assert.ok(ticket.blocks[2].text.startsWith('이 강의는'));
+console.log('PASS: all '+Object.keys(overrides).length+' source-backed layouts preserve catalog hashes and characters');
+const newspaper=overrides['codex-5937e024bce27013'];
+assert.ok(newspaper.blocks.some(b=>b.type==='heading'&&b.title==='미래가 두렵습니까?'));
+assert.ok(newspaper.blocks.some(b=>b.type==='text'&&b.text.startsWith('우리는 모두')));
+assert.ok(!overrides['fo76-book-003a10bf'],'uniform handwritten letter must not become headings');
+assert.deepEqual(overrides['fo76-book-003a13be'].blocks.filter(b=>b.type==='heading').map(b=>b.title),['대애팔래치아 조류 관찰자 및 조류 관찰 애호가 협회']);

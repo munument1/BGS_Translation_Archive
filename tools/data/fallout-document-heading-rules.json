@@ -1,0 +1,1888 @@
+{
+  "basis": "Manually reviewed English header/byline boundaries in the exact same localized game record; Korean words are unchanged. Rules require both English header and an exact Korean prefix.",
+  "rules": [
+    {
+      "example_id": "codex-56dd4fda9aa5c8ae",
+      "english_header": "Caravan Merchants",
+      "korean_header_lines": [
+        "캐러밴 상인들"
+      ]
+    },
+    {
+      "example_id": "codex-e0cbbf6bb5fb3c89",
+      "english_header": "Agenda for next council meeting",
+      "korean_header_lines": [
+        "다음 위원회 회의에서 다룰 의제"
+      ]
+    },
+    {
+      "example_id": "codex-7a92850d8b519c64",
+      "english_header": "MP-47/A Medic Power Armor",
+      "korean_header_lines": [
+        "MP-47/A 의무병 파워 아머"
+      ]
+    },
+    {
+      "example_id": "codex-3a71f27b05a8a3c2",
+      "english_header": "Attention: All Museum Security Personnel",
+      "korean_header_lines": [
+        "모든 박물관 경비들에게 알림"
+      ]
+    },
+    {
+      "example_id": "codex-fcd779dad0a1f800",
+      "english_header": "April 25, 2239\nInaugural Meeting of the Rivet City Council",
+      "korean_header_lines": [
+        "2239년 4월 25일",
+        "리벳 시티 위원회 발족 회의"
+      ]
+    },
+    {
+      "example_id": "codex-7e88bbbf419e7430",
+      "english_header": "Artillery Order #562\nTalon Company Support Team Alpha\nLocation: Seward Square",
+      "korean_header_lines": [
+        "포격 명령 #562",
+        "탈론 컴퍼니 지원팀 알파",
+        "위치: 수어드 광장"
+      ]
+    },
+    {
+      "example_id": "codex-9e5ad6e9466a8170",
+      "english_header": "Artillery Order #447\nTalon Company Support Team Bravo\nLocation: Takoma Park",
+      "korean_header_lines": [
+        "포격 명령 #447",
+        "탈론 컴퍼니 지원팀 브라보",
+        "위치: 터코마 공원"
+      ]
+    },
+    {
+      "example_id": "codex-86a1465b0a482944",
+      "english_header": "Cure Development Progress\nResearch by Dr. Sandra Kundanika",
+      "korean_header_lines": [
+        "치료제 개발 진행 상황",
+        "산드라 쿤다니카 박사의 연구"
+      ]
+    },
+    {
+      "example_id": "codex-b793d70514294675",
+      "english_header": "Camp McCarran Weapons Manifest",
+      "korean_header_lines": [
+        "캠프 맥캐런 무기 목록"
+      ]
+    },
+    {
+      "example_id": "codex-e9b703eca010f009",
+      "english_header": "DERMOT'S NEW LEGER",
+      "korean_header_lines": [
+        "더못의 새로운 장부"
+      ]
+    },
+    {
+      "example_id": "codex-998eedf0ddadfe2b",
+      "english_header": "First Sergeant Astor's Log",
+      "korean_header_lines": [
+        "애스터 일등상사의 기록"
+      ]
+    },
+    {
+      "example_id": "codex-ababbc4ff0ff5ab8",
+      "english_header": "DELIVER STATION Camp Forlorn Hope\nFOR Polatli, Joseph (Major) OR HIGHEST RANKING OFFICER",
+      "korean_header_lines": [
+        "캠프 폴론 호프 앞",
+        "조셉 폴라틀리 소령 혹은 최고위 지휘관에게"
+      ]
+    },
+    {
+      "example_id": "codex-2ea4211c614ee1d7",
+      "english_header": "Camp Guardian Daily Log\nSergeant Banner Reporting",
+      "korean_header_lines": [
+        "캠프 가디언 일지",
+        "배너 병장의 보고서"
+      ]
+    },
+    {
+      "example_id": "codex-4dfb3895147b82f1",
+      "english_header": "Project: Quantum Plasma Modulation Matter Injection Rifle",
+      "korean_header_lines": [
+        "프로젝트: 양자 플라즈마 변조 물질 분사 소총"
+      ]
+    },
+    {
+      "example_id": "codex-12d3b0c47f984382",
+      "english_header": "Mission Code: XV-56\nTemporary Password: Lives to fight another day",
+      "korean_header_lines": [
+        "임무 코드: XV-56",
+        "임시 암호: 후일을 도모한다"
+      ]
+    },
+    {
+      "example_id": "codex-d3fc200e67c2fff4",
+      "english_header": "INSTRUCTIONS",
+      "korean_header_lines": [
+        "지시 사항"
+      ]
+    },
+    {
+      "example_id": "codex-0657b9a2f92a3832",
+      "english_header": "Prepared Speech of Gus Olson, Ombudsman, for the Annual Overseer Election",
+      "korean_header_lines": [
+        "행정감찰관 거스 올슨의 연간 오버시어 선거 대비 연설문"
+      ]
+    },
+    {
+      "example_id": "codex-c71df9aabfbf8b66",
+      "english_header": "Hoover Dam Presidential Visit Schedule",
+      "korean_header_lines": [
+        "후버 댐 대통령 방문 일정표"
+      ]
+    },
+    {
+      "example_id": "codex-f3369f078ab0cd73",
+      "english_header": "DELIVER STATION Camp Forlorn Hope\nFOR Polatli, Joseph (Major) OR HIGHEST RANKING OFFICER",
+      "korean_header_lines": [
+        "캠프 폴론 호프 앞",
+        "조셉 폴라틀리 소령 혹은 최고위 지휘관에게"
+      ]
+    },
+    {
+      "example_id": "codex-e569a6c1b049bef5",
+      "english_header": "REPCONN Inter-office Correspondence #3457763",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3457763"
+      ]
+    },
+    {
+      "example_id": "codex-a23c533d6ddae2b3",
+      "english_header": "Data Log #10.44.78",
+      "korean_header_lines": [
+        "데이터 기록 #10. 44. 78"
+      ]
+    },
+    {
+      "example_id": "codex-2ff956c143cb661b",
+      "english_header": "Sierra Madre Vault Security",
+      "korean_header_lines": [
+        "시에라 마드레 볼트 보안"
+      ]
+    },
+    {
+      "example_id": "codex-3d1ee6edd7148065",
+      "english_header": "/Sinclair Access 301\nSubject: Keyes, Vera\nCondition: Terminal",
+      "korean_header_lines": [
+        "/싱클레어 접속 301",
+        "제목: 베라 키예스",
+        "상태: 말기"
+      ]
+    },
+    {
+      "example_id": "codex-35fe88355f7d101d",
+      "english_header": "Einstein-3.14",
+      "korean_header_lines": [
+        "아인슈타인-3. 14"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-00166b31-body",
+      "english_header": "Chief Fire Officer Report No. F1-218",
+      "korean_header_lines": [
+        "소방서장 보고서 No. F1-218"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-00164e1e-body",
+      "english_header": "NCR Strip Gang Report #04-32-B27\nThe Strip - Omerta Activity",
+      "korean_header_lines": [
+        "NCR 스트립 갱단 보고서 #04-32-B27",
+        "스트립 - 오메르타의 움직임"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-0015a7bc-body",
+      "english_header": "Mission Code: KH-792\nTemporary Password: And to dare to do it",
+      "korean_header_lines": [
+        "임무 코드: KH-792",
+        "임시 암호: 용기를 가지고"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-0015a7b9-body",
+      "english_header": "Mission Code: CB-03\nTemporary Password: The better part of valor",
+      "korean_header_lines": [
+        "임무 코드: CB-03",
+        "임시 암호: 진정한 용기"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-00142dcc-body",
+      "english_header": "Engineering Report - Mike Lawson",
+      "korean_header_lines": [
+        "정비 보고서 - 마이크 로슨"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-00142dcb-body",
+      "english_header": "Security Report - Ranger Grant",
+      "korean_header_lines": [
+        "경비 보고서 - 레인저 그랜트"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-00142dca-body",
+      "english_header": "Attn: Security Personnel\nRE: Security Assignments for President's Visit",
+      "korean_header_lines": [
+        "대상: 경호 인력 전원",
+        "Re: 대통령 방문 시 경호 임무"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-0013e5c7-body",
+      "english_header": "Flight Control Software Updated",
+      "korean_header_lines": [
+        "비행 제어 소프트웨어 업데이트 완료"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-0012b97f-body",
+      "english_header": "NCR Embassy Status Report #01-50\nNew Vegas",
+      "korean_header_lines": [
+        "NCR 대사관 상황 보고 #01-50",
+        "뉴 베가스"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-0011dd9b-body",
+      "english_header": "Vault 21 Guest Services:\n----------------------------",
+      "korean_header_lines": [
+        "볼트 21 게스트 서비스:"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000fed5a-body",
+      "english_header": "Incident: Broken Glass",
+      "korean_header_lines": [
+        "사고 사례: 유리 파손"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000fed59-body",
+      "english_header": "Invoice Number: 6682-1542",
+      "korean_header_lines": [
+        "내역서 번호: 6682-1542"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000fed58-body",
+      "english_header": "Invoice Number: 6682-0812",
+      "korean_header_lines": [
+        "내역서 번호: 6682-0812"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000fc208-body",
+      "english_header": "Camp McCarran Control Tower\nAutomated Front Door Activity Log",
+      "korean_header_lines": [
+        "캠프 맥캐런 관제탑",
+        "정문 출입자 자동 기록 시스템"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000eac54-body",
+      "english_header": "REPCONN Inter-office Correspondence #3458503",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3458503"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000e944f-body",
+      "english_header": "REPCONN Inter-office Correspondence #3262105",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3262105"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000e944e-body",
+      "english_header": "REPCONN Inter-office Correspondence #3262099",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3262099"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000e944d-body",
+      "english_header": "REPCONN Inter-office Correspondence #3262091",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3262091"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000e944c-body",
+      "english_header": "REPCONN Inter-office Correspondence #3457785",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3457785"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000e944b-body",
+      "english_header": "REPCONN Inter-office Correspondence #3457477",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3457477"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000e9449-body",
+      "english_header": "REPCONN Inter-office Correspondence #3262725",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3262725"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000e9448-body",
+      "english_header": "REPCONN Inter-office Correspondence #3458648",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3458648"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000e9447-body",
+      "english_header": "REPCONN Inter-office Correspondence #3458642",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3458642"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000e9446-body",
+      "english_header": "REPCONN Inter-office Correspondence #3458631",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3458631"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000e9445-body",
+      "english_header": "REPCONN Inter-office Correspondence #3262719",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3262719"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000e9444-body",
+      "english_header": "REPCONN Inter-office Correspondence #3262178",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3262178"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000e9443-body",
+      "english_header": "REPCONN Inter-office Correspondence #3262173",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3262173"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000e9442-body",
+      "english_header": "REPCONN Inter-office Correspondence #3457593",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3457593"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000e9441-body",
+      "english_header": "REPCONN Inter-office Correspondence #3457762",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3457762"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000e3d7b-body",
+      "english_header": "\"Can I Tell Him?\" A Poseidon Energy Publication for New Employees",
+      "korean_header_lines": [
+        "\"말해도 될까?\" 신입 직원을 위한 포세이돈 에너지 공지 사항"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000cda61-body",
+      "english_header": "Current Simulation: Hidden_Valley_Attack_Watkins",
+      "korean_header_lines": [
+        "현재 시뮬레이션: 히든_밸리_습격_왓킨스"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000cda60-body",
+      "english_header": "Current Simulation: Hidden_Valley_Attack",
+      "korean_header_lines": [
+        "현재 시뮬레이션: 히든_밸리_습격"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000ce705-body",
+      "english_header": "REPCONN Inter-office Correspondence #3458401",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3458401"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000ce704-body",
+      "english_header": "RobCo. Inter-office Correspondence #AG%(V$*",
+      "korean_header_lines": [
+        "롭코 사내 통신망 #AG%(V$*"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000ce703-body",
+      "english_header": "REPCONN Inter-office Correspondence #3458397",
+      "korean_header_lines": [
+        "렙콘 사내 통신 #3458397"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000ce700-body",
+      "english_header": "REPCONN Inter-office Correspondence #3457325",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3457325"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000ce6ff-body",
+      "english_header": "REPCONN Inter-office Correspondence #3457321",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3457321"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000ce6fe-body",
+      "english_header": "REPCONN Inter-office Correspondence #3457304",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3457304"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000ce6fd-body",
+      "english_header": "REPCONN Inter-office Correspondence #3458406",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3458406"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000cd21d-body",
+      "english_header": "REPCONN Inter-office Correspondence #3486209",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3486209"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000ccf84-body",
+      "english_header": "REPCONN Inter-office Correspondence #3458342",
+      "korean_header_lines": [
+        "렙콘 사내 통신망 #3458342"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000cb4d4-body",
+      "english_header": "SatCom Array NN-03d",
+      "korean_header_lines": [
+        "위성 통신 기지 NN-03d"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000cb4d3-body",
+      "english_header": "SatCom Array NW-07c",
+      "korean_header_lines": [
+        "위성 통신 기지 NW-07c"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-000caa31-body",
+      "english_header": "Diary Entry L-2",
+      "korean_header_lines": [
+        "일기 기록 L-2"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-00054e7c-body",
+      "english_header": "What is Atom?",
+      "korean_header_lines": [
+        "원자란 무엇인가 ?"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-00031277-body",
+      "english_header": "DEPARTMENT OF THE ARMY\nPEACEKEEPING AND RECOVERY\nFIELD OPERATIONS SECTOR, 27P",
+      "korean_header_lines": [
+        "육군부",
+        "평화 유지 및 복구",
+        "현장 작전 구역, 27P"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-00095965-body",
+      "english_header": "Inclement Weather Policy #C31",
+      "korean_header_lines": [
+        "나쁜 날씨 관련 방침 #C31"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-0005e63d-body",
+      "english_header": "Internal Memorandum",
+      "korean_header_lines": [
+        "내부 문서"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-deadmoney-note-01011b03-body",
+      "english_header": "Complaint: Mrs. Purvis/Drunk and Disorderly \nSierra Madre Security Log: 11:02PM\nGuard on Call: Morris, Tyler",
+      "korean_header_lines": [
+        "민원: 퍼비스 씨(만취 상태)",
+        "시에라 마드레 보안 기록: 오후 11시 02분",
+        "당시 근무 경비: 타일러 모리스"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-deadmoney-note-01006371-body",
+      "english_header": "Security Memo",
+      "korean_header_lines": [
+        "보안 메모"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-00147d2d-body",
+      "english_header": "Camp Searchlight Quartermaster's Log ",
+      "korean_header_lines": [
+        "캠프 서치라이트 병참장교 기록"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-falloutnv-note-00147d2c-body",
+      "english_header": "Camp Searchlight Quartermaster's Log ",
+      "korean_header_lines": [
+        "캠프 서치라이트 통신장교 기록"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-anchorage-note-0700cba5-tnam-0",
+      "english_header": "Sniper Loadout Package",
+      "korean_header_lines": [
+        "저격수 패키지 장비"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-anchorage-note-0700cba4-tnam-0",
+      "english_header": "Heavy Weapons Loadout Package",
+      "korean_header_lines": [
+        "중화기 패키지 장비"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-anchorage-note-0700cba3-tnam-0",
+      "english_header": "Fire Team Loadout Package",
+      "korean_header_lines": [
+        "화력팀 패키지 장비"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-anchorage-note-0700cba2-tnam-0",
+      "english_header": "Close Assault Loadout Package",
+      "korean_header_lines": [
+        "근접전 패키지 장비"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-anchorage-note-0700c15c-tnam-0",
+      "english_header": "Military Service #54-05C-9301\nClearance Level Gamma\nBegin Transmission",
+      "korean_header_lines": [
+        "군용 서비스 #54-05C-9301",
+        "인가 레벨 감마",
+        "전송 시작"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-anchorage-note-07004ab2-tnam-0",
+      "english_header": "Entry 0527",
+      "korean_header_lines": [
+        "기록 0527"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-anchorage-note-07004ab1-tnam-0",
+      "english_header": "Entry 0540",
+      "korean_header_lines": [
+        "기록 0540"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-09007392-tnam-0",
+      "english_header": "Uplink to \"Bradley-Hercules\" Satellite Established\nRunning Diagnostic",
+      "korean_header_lines": [
+        "브래들리-허큘리즈 위성 업링크 확인",
+        "\"진단 프로그램\" 실행"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-09007393-tnam-0",
+      "english_header": "Uplink to \"Bradley-Hercules\" Satellite Established\nRunning Detailed Payload Check",
+      "korean_header_lines": [
+        "브래들리-허큘리즈 위성 업링크 확인됨",
+        "탄두를 \"자세하게\" 확인 중"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b7fc-tnam-0",
+      "english_header": "Item 908774",
+      "korean_header_lines": [
+        "물품 908774"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b7fd-tnam-0",
+      "english_header": "Item 908775",
+      "korean_header_lines": [
+        "물품 908775"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b7fe-tnam-0",
+      "english_header": "Item 908776",
+      "korean_header_lines": [
+        "물품 908776"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b7ff-tnam-0",
+      "english_header": "Item 908777",
+      "korean_header_lines": [
+        "물품 908777"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b800-tnam-0",
+      "english_header": "Incident Report 08-07-77",
+      "korean_header_lines": [
+        "사고 보고서 77-08-07",
+        "보고 담당자: 해럴드 캘러핸"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b801-tnam-0",
+      "english_header": "Incident Report 08-16-77",
+      "korean_header_lines": [
+        "사고 보고서 77-08-16",
+        "보고 담당자: 해럴드 캘러핸"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b802-tnam-0",
+      "english_header": "Incident Report 08-22-77",
+      "korean_header_lines": [
+        "사고 보고서 77-08-22",
+        "보고 담당자: 해럴드 캘러핸"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b954-tnam-0",
+      "english_header": "Museum Authority Log MA-0089",
+      "korean_header_lines": [
+        "박물관 당국 기록 MA-0089"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b955-tnam-0",
+      "english_header": "Museum Authority Log MA-0086",
+      "korean_header_lines": [
+        "박물관 당국 기록 MA-0086"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900bd6b-tnam-0",
+      "english_header": "ROBOTS ARE FREAKING OUT! - ",
+      "korean_header_lines": [
+        "로봇들이 정신이 나갔어!!!"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0604e158-tnam-0",
+      "english_header": "Name: Butcher\nPosition: Medic\nAge: 31\nTerm of Contract: Ongoing\nMerits/Demerits: 3/0\nPay: 70 caps/mission\nStatus: Active",
+      "korean_header_lines": [
+        "이름: 도살자"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0604e159-tnam-0",
+      "english_header": "Name: Donovan\nPosition: Tech\nAge: 35\nTerm of Contract: Ongoing\nMerits/Demerits: 2/0\nPay: 50 caps/mission\nStatus: Active",
+      "korean_header_lines": [
+        "이름: 다너번"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0604e15b-tnam-0",
+      "english_header": "Contract: Ruins Mapping\nStatus: Ongoing\nProjected Income: Unknown\nAcquired Income: 1765 caps",
+      "korean_header_lines": [
+        "계약: 폐허 지도 제작"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0604e15c-tnam-0",
+      "english_header": "Contract: Super Mutant Cleansing\nStatus: Ongoing\nProjected Income: Unknown\nAcquired Income: 2850 caps",
+      "korean_header_lines": [
+        "계약: 슈퍼 뮤턴트 청소"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060738dc-tnam-0",
+      "english_header": "Vault 106 Personnel Assignments\n*************************",
+      "korean_header_lines": [
+        "볼트 106 인원 할당"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060738dd-tnam-0",
+      "english_header": "Vault 108 Personnel Assignments\n*************************",
+      "korean_header_lines": [
+        "볼트 108 인원 할당"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060738f6-tnam-0",
+      "english_header": "Vault 112 Personnel Assignments\n*************************",
+      "korean_header_lines": [
+        "볼트 112 인원 할당"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-06073937-tnam-0",
+      "english_header": "Vault 101 Goal Summary\n*************************",
+      "korean_header_lines": [
+        "볼트 101의 목표 요약"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060758a0-tnam-0",
+      "english_header": "Oppenheimer's Folly?\nA Lecture by Professor R.J. Gumbie",
+      "korean_header_lines": [
+        "오펜하이머의 어리석음?",
+        "R.J. 검비 교수의 강의"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0607e17a-tnam-0",
+      "english_header": "Brainstorm Military/Cultural Center\n2076 Progress Report",
+      "korean_header_lines": [
+        "브레인스톰 군/문화센터",
+        "2076 경과보고서"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0607e17b-tnam-0",
+      "english_header": "CODENAME: CLOACINA\nDevelopment Report",
+      "korean_header_lines": [
+        "코드네임: 클로아시나",
+        "개발 보고서"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0609194f-tnam-0",
+      "english_header": "Maintenance Code: RL00 Green\nIssue: Lighting on B Level\nEngineer: Carl Maynard",
+      "korean_header_lines": [
+        "유지보수 코드: RL00 그린",
+        "문제: B 레벨 조명",
+        "기술자: 칼 메이너드"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0609a40f-tnam-0",
+      "english_header": "Feeding Grounds",
+      "korean_header_lines": [
+        "식량 공급처"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0609a411-tnam-0",
+      "english_header": "Regarding Arefu",
+      "korean_header_lines": [
+        "아르푸에 관하여"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060a121e-tnam-0",
+      "english_header": "Maintenance Code: RL04 Red\nIssue: Section 4 Security Upgrade\nEngineer: Carl Maynard",
+      "korean_header_lines": [
+        "유지보수 코드: RL04 레드",
+        "문제: 구역 4 보안 업그레이드",
+        "기술자: 칼 메이너드"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060a121f-tnam-0",
+      "english_header": "Maintenance Code: RL01 Yellow\nIssue: Air Conditioning System Odd Smell\nEngineer: Zack Foxworthy",
+      "korean_header_lines": [
+        "유지보수 코드: RL04 옐로",
+        "문제: 에어컨 시스템의 이상한 냄새",
+        "기술자: 잭 팍스월디"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060a1220-tnam-0",
+      "english_header": "Maintenance Code: RL04 Red\nIssue: Wall Deterioration D Level\nEngineer: Carl Maynard",
+      "korean_header_lines": [
+        "유지보수 코드: RL04 레드",
+        "문제: D 레벨에 벽 약화",
+        "기술자: 칼 메이너드"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060a1221-tnam-0",
+      "english_header": "Maintenance Code: RL00 Green\nIssue: Squeaky Office Chair\nEngineer: Carl Maynard",
+      "korean_header_lines": [
+        "유지보수 코드: RL04 그린",
+        "문제: 삐걱거리는 사무실 의자",
+        "기술자: 칼 메이너드"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060aa695-tnam-0",
+      "english_header": "Vault 87 Deceased Individuals",
+      "korean_header_lines": [
+        "볼트87 사망자 명단"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060aa698-tnam-0",
+      "english_header": "Maintenance Code: RL04 Red\nIssue: Reactor Spikes, Sectional Power Outages\nEngineer: Daniel Koster",
+      "korean_header_lines": [
+        "유지보수 코드: RL04 레드",
+        "문제: 원자로 과부하로 국부적인 정전 발생",
+        "기술자: 대니얼 코스터"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060aa699-tnam-0",
+      "english_header": "Maintenance Code: RL01 Yellow\nIssue: G.E.C.K. Chamber Radiation Purging Offline\nEngineer: Daniel Koster",
+      "korean_header_lines": [
+        "유지보수 코드: RL01 옐로",
+        "문제: G.E.C.K.실 방사능 제거 기능 작동 중지",
+        "기술자: 대니얼 코스터"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060aa69a-tnam-0",
+      "english_header": "Maintenance Code: RL00 Green\nIssue: Tapioca Pudding Miscolor\nEngineer: Daniel Koster",
+      "korean_header_lines": [
+        "유지보수 코드: RL00 그린",
+        "문제: 타피오카 푸딩 색깔 문제",
+        "기술자: 대니얼 코스터"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060aa69b-tnam-0",
+      "english_header": "Maintenance Code: RL04 Red\nIssue: EEP Chamber Failure\nEngineer: Daniel Koster",
+      "korean_header_lines": [
+        "정비 코드: RL04 레드",
+        "문제: EEP 체임버 고장",
+        "기술자: 대니얼 코스터"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060aa69c-tnam-0",
+      "english_header": "Maintenance Code: RL04 Red\nIssue: NEED HELP\nEngineer: Daniel Koster",
+      "korean_header_lines": [
+        "유지보수 코드: RL04 레드",
+        "문제: 도움이 필요해",
+        "기술자: 대니얼 코스터"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060aa6a9-tnam-0",
+      "english_header": "Dr. Wayne Merrick",
+      "korean_header_lines": [
+        "웨인 메릭 박사"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060aa6aa-tnam-0",
+      "english_header": "Daniel Koster",
+      "korean_header_lines": [
+        "대니얼 코스터"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060aa6ab-tnam-0",
+      "english_header": "Peter Stevens",
+      "korean_header_lines": [
+        "피터 스티븐스"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060c339e-tnam-0",
+      "english_header": "Version 3.2.0005",
+      "korean_header_lines": [
+        "버전 3.2.0005"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060c858d-tnam-0",
+      "english_header": "Attention: All Museum Security Personnel",
+      "korean_header_lines": [
+        "모든 박물관 경비들에게 알림"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060c858f-tnam-0",
+      "english_header": "Attention: All Museum Security Personnel",
+      "korean_header_lines": [
+        "모든 박물관 경비들에게 알림"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060cade7-tnam-0",
+      "english_header": "Attention all Nuka-Cola Corporation Employees",
+      "korean_header_lines": [
+        "모든 누카-콜라사 직원들에게 알림"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060cb58a-tnam-0",
+      "english_header": "Incident Level: 3 (Minor)\nGuest Name: Harold Worthington III",
+      "korean_header_lines": [
+        "사고 정도: 3 (사소)",
+        "손님 이름: 해럴드 워싱턴 3세"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060cb58b-tnam-0",
+      "english_header": "Incident Level: 1 (Major)\nGuest Name: Seneca Clarkson",
+      "korean_header_lines": [
+        "사고 정도: 1 (중대)",
+        "손님 이름: 세네카 클락슨"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060cb58c-tnam-0",
+      "english_header": "Incident Level: 2 (Intermediate)\nGuest Name: Wanda Kellendyne",
+      "korean_header_lines": [
+        "사고 정도: 2 (중간)",
+        "손님 이름: 완다 켈런다인"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060cb58d-tnam-0",
+      "english_header": "Incident Level: 3 (Minor)\nGuest Name: Harold Worthington III",
+      "korean_header_lines": [
+        "사고 정도: 3 (사소)",
+        "손님 이름: 해럴드 워싱턴 3세"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-thepitt-note-08007d71-tnam-0",
+      "english_header": "Patient: M. Cramer",
+      "korean_header_lines": [
+        "환자: M. 크레이머"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-thepitt-note-08007d72-tnam-0",
+      "english_header": "Patient: R. Jenkins",
+      "korean_header_lines": [
+        "환자: R. 젠킨스"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-zeta-note-0b00ab81-tnam-0",
+      "english_header": "Log Entry 4-11-2063",
+      "korean_header_lines": [
+        "기록 일지 2063-4-11"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-zeta-note-0b00ab82-tnam-0",
+      "english_header": "Log Entry 4-15-2063",
+      "korean_header_lines": [
+        "기록 일지 2063-4-15"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-zeta-note-0b00ab83-tnam-0",
+      "english_header": "Log Entry 4-16-2063",
+      "korean_header_lines": [
+        "기록 일지 2063-4-16"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-zeta-note-0b00ab84-tnam-0",
+      "english_header": "Log Entry 5-01-2063",
+      "korean_header_lines": [
+        "기록 일지 2063-5-01"
+      ]
+    },
+    {
+      "example_id": "codex-4973925ed28403fb",
+      "english_header": "Project Code: AC-PPE-47\nReport: GATS2",
+      "korean_header_lines": [
+        "프로젝트 코드: AC-PPE-47",
+        "보고서: GATS2"
+      ]
+    },
+    {
+      "example_id": "codex-33b78be73ef316eb",
+      "english_header": "Notice to all Regulators seeking Lawful Bounties in the Capital Wastes:",
+      "korean_header_lines": [
+        "수도 황무지에서 합법적인 현상금을 벌고 싶은 모든 규제자에게 공지함."
+      ]
+    },
+    {
+      "example_id": "codex-925d2358e0705bfc",
+      "english_header": "Notice to all Good Men and Women seeking Lawful Bounties in the Capital Wastes:",
+      "korean_header_lines": [
+        "수도 황무지에서 합법적인 현상금을 벌고 싶은 모든 선한 남녀들에게 공지함."
+      ]
+    },
+    {
+      "example_id": "codex-1bec969a063c6106",
+      "english_header": "(CORRUPTION DETECTED)\n(ATTEMPT PARTIAL RECOVERY)",
+      "korean_header_lines": [
+        "(손상 감지됨)",
+        "(부분적인 복구 시도)"
+      ]
+    },
+    {
+      "example_id": "codex-afe869974bd6380d",
+      "english_header": "Contract: ",
+      "korean_header_lines": [
+        "계약:"
+      ]
+    },
+    {
+      "example_id": "codex-65809570b827bc77",
+      "english_header": "USMC Private Contract PRVMIL-3482b",
+      "korean_header_lines": [
+        "미국 해병대 수의계약 PRVMIL-3482b"
+      ]
+    },
+    {
+      "example_id": "codex-38cc74558212a417",
+      "english_header": "CONFIDENTIAL! \nTOP-LEVEL SECURITY ONLY!",
+      "korean_header_lines": [
+        "극비!",
+        "최고 등급 보안 관계자만!"
+      ]
+    },
+    {
+      "example_id": "codex-1db436df3e6bd15a",
+      "english_header": "From: Scribe Elizabeth Jameson\nTo: Elder Lyons",
+      "korean_header_lines": [
+        "보내는 이: 서기 일리저버스 제임슨",
+        "받는 이: 엘더 라이언스"
+      ]
+    },
+    {
+      "example_id": "codex-430597f56798b4e9",
+      "english_header": "Journal Entry: E6/24/3",
+      "korean_header_lines": [
+        "일지: E6/24/3"
+      ]
+    },
+    {
+      "example_id": "codex-f479e608749a9414",
+      "english_header": "Trading Caravan Log",
+      "korean_header_lines": [
+        "행상 캐러밴 기록"
+      ]
+    },
+    {
+      "example_id": "codex-14c35a93b3e1a29d",
+      "english_header": "From Enclave High Command\nArtillery Order #447\nSector 1",
+      "korean_header_lines": [
+        "엔클레이브 상급 사령부로부터",
+        "포격 명령 #447",
+        "구역 1"
+      ]
+    },
+    {
+      "example_id": "codex-14c35a93b3e1a29d",
+      "english_header": "From Enclave High Command\nArtillery Order #553\nSector 2",
+      "korean_header_lines": [
+        "엔클레이브 상급 사령부로부터",
+        "포격 명령 #553",
+        "구역 2"
+      ]
+    },
+    {
+      "example_id": "codex-659cbbfb90b95dc7",
+      "english_header": "The New Plague and YOU\nCopyright and Distributed by Presidential Fitness Program 2059",
+      "korean_header_lines": [
+        "신종 역병과 당신",
+        "대통령 체력 증진 프로그램 2059 저작권 및 배포"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-anchorage-note-0700c153-tnam-0",
+      "english_header": "...//Begin Transcription//...\nBulletin to *7% Noble Chinese Commandants and (Soldier-Warriors). ",
+      "korean_header_lines": [
+        "...//전사 시작//...",
+        "*7 고귀한 중국 사령관과 장병들에게 보내는 긴급전갈"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-anchorage-note-0700c06a-tnam-0",
+      "english_header": "1.1c: Atmospheric Counter-Espionage Action",
+      "korean_header_lines": [
+        "1.1c: 대기권 방첩 활동"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-anchorage-note-0700c069-tnam-0",
+      "english_header": "1.1b: Diversionary tactics in Martial Evacuation",
+      "korean_header_lines": [
+        "1.1b: 피난 상황에서의 교란 전술"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-anchorage-note-0700c068-tnam-0",
+      "english_header": "1.1a: Cooperative Action w/regional NORAD site",
+      "korean_header_lines": [
+        "1.1a: 연합 작전 / 북미 대공 방위 사령부"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-09005326-tnam-0",
+      "english_header": "RRD-HA23-P \nWELCOME:  ",
+      "korean_header_lines": [
+        "RRD-HA23-P",
+        "환영합니다."
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b956-tnam-0",
+      "english_header": "Museum Authority Log MA-0085",
+      "korean_header_lines": [
+        "박물관 당국 기록 MA-0085"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b96f-tnam-0",
+      "english_header": "Big Town Mission Report:",
+      "korean_header_lines": [
+        "빅 타운 임무 보고:"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b970-tnam-0",
+      "english_header": "Megaton Mission Report:",
+      "korean_header_lines": [
+        "메가톤 임무 보고:"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b971-tnam-0",
+      "english_header": "Rivet City Mission Report:",
+      "korean_header_lines": [
+        "리벳 시티 임무 보고:"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b986-tnam-0",
+      "english_header": "Available Assets:",
+      "korean_header_lines": [
+        "가용 자산:"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b9b5-tnam-0",
+      "english_header": "Mechanic: D.T.",
+      "korean_header_lines": [
+        "정비사: D.T."
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b9b6-tnam-0",
+      "english_header": "Mechanic: D.T.",
+      "korean_header_lines": [
+        "정비사: D.T."
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b9b7-tnam-0",
+      "english_header": "Mechanic: D.T.",
+      "korean_header_lines": [
+        "정비사: D.T."
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b9b8-tnam-0",
+      "english_header": "Mechanic: D.T.",
+      "korean_header_lines": [
+        "정비사: D.T."
+      ]
+    },
+    {
+      "example_id": "sst-fo3-brokensteel-note-0900b9b9-tnam-0",
+      "english_header": "Mechanic: D.T.",
+      "korean_header_lines": [
+        "정비사: D.T."
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0601b186-tnam-0",
+      "english_header": "Attention all Packing Line employees!",
+      "korean_header_lines": [
+        "모든 포장라인 직원들에게 알림!"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0602d3a9-tnam-0",
+      "english_header": "Lead Author and Subject Matter Expert: &PCName;\nAssistant Author: Moira Brown",
+      "korean_header_lines": [
+        "주 저자 및 내용 전문가: &PCName;",
+        "공동 저자: 모이라 브라운"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0602d3aa-tnam-0",
+      "english_header": "Author: Moira Brown\nExpert Researcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "전문 연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0602d3ab-tnam-0",
+      "english_header": "Author: Moira Brown\nExpert Researcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "전문 연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0602d3ac-tnam-0",
+      "english_header": "Author: Moira Brown\nExpert Researcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "전문 연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0602d3ad-tnam-0",
+      "english_header": "Author: Moira Brown\nResearcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0602d3ae-tnam-0",
+      "english_header": "Author: Moira Brown\nResearcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0602d3af-tnam-0",
+      "english_header": "Author: Moira Brown\nResearcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0602d3b0-tnam-0",
+      "english_header": "Author: Moira Brown\nResearch Assistant: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구 조교: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331b4-tnam-0",
+      "english_header": "Author: Moira Brown\nResearch Assistant: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구 조교: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331b5-tnam-0",
+      "english_header": "Author: Moira Brown\nResearch Assistant: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구 조교: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331b6-tnam-0",
+      "english_header": "Author: Moira Brown\nResearch Assistant: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구 조교: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331b7-tnam-0",
+      "english_header": "Author: Moira Brown\nResearch Assistant: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구 조교: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331b8-tnam-0",
+      "english_header": "Author: Moira Brown\nResearcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331b9-tnam-0",
+      "english_header": "Author: Moira Brown\nResearcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331ba-tnam-0",
+      "english_header": "Author: Moira Brown\nResearcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331bb-tnam-0",
+      "english_header": "Author: Moira Brown\nResearcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331bc-tnam-0",
+      "english_header": "Author: Moira Brown\nResearcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331bd-tnam-0",
+      "english_header": "Author: Moira Brown\nResearcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331be-tnam-0",
+      "english_header": "Author: Moira Brown\nResearcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331bf-tnam-0",
+      "english_header": "Author: Moira Brown\nResearcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331c0-tnam-0",
+      "english_header": "Author: Moira Brown\nResearcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331c1-tnam-0",
+      "english_header": "Author: Moira Brown\nResearcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331c2-tnam-0",
+      "english_header": "Author: Moira Brown\nResearcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331c3-tnam-0",
+      "english_header": "Author: Moira Brown\nResearcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331c4-tnam-0",
+      "english_header": "Author: Moira Brown\nExpert Researcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "전문 연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331c5-tnam-0",
+      "english_header": "Author: Moira Brown\nExpert Researcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "전문 연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331c6-tnam-0",
+      "english_header": "Author: Moira Brown\nExpert Researcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "전문 연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331c7-tnam-0",
+      "english_header": "Author: Moira Brown\nExpert Researcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "전문 연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331c8-tnam-0",
+      "english_header": "Author: Moira Brown\nExpert Researcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "전문 연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331c9-tnam-0",
+      "english_header": "Author: Moira Brown\nExpert Researcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "전문 연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331ca-tnam-0",
+      "english_header": "Author: Moira Brown\nExpert Researcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "전문 연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331cb-tnam-0",
+      "english_header": "Author: Moira Brown\nExpert Researcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "전문 연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331cc-tnam-0",
+      "english_header": "Author: Moira Brown\nExpert Researcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "전문 연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331cd-tnam-0",
+      "english_header": "Author: Moira Brown\nExpert Researcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "전문 연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331ce-tnam-0",
+      "english_header": "Author: Moira Brown\nExpert Researcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "전문 연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331cf-tnam-0",
+      "english_header": "Author: Moira Brown\nExpert Researcher: &PCName;",
+      "korean_header_lines": [
+        "저자: 모이라 브라운",
+        "전문 연구원: &PCName;"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331d0-tnam-0",
+      "english_header": "Lead Author and Subject Matter Expert: &PCName;\nAssistant Author: Moira Brown",
+      "korean_header_lines": [
+        "주 저자 및 내용 전문가: &PCName;",
+        "공동 저자: 모이라 브라운"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331d1-tnam-0",
+      "english_header": "Lead Author and Subject Matter Expert: &PCName;\nAssistant Author: Moira Brown",
+      "korean_header_lines": [
+        "주 저자 및 내용 전문가: &PCName;",
+        "공동 저자: 모이라 브라운"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331d2-tnam-0",
+      "english_header": "Lead Author and Subject Matter Expert: &PCName;\nAssistant Author: Moira Brown",
+      "korean_header_lines": [
+        "주 저자 및 내용 전문가: &PCName;",
+        "공동 저자: 모이라 브라운"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060331d3-tnam-0",
+      "english_header": "Lead Author and Subject Matter Expert: &PCName;\nAssistant Author: Moira Brown",
+      "korean_header_lines": [
+        "주 저자 및 내용 전문가: &PCName;",
+        "공동 저자: 모이라 브라운"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0604e157-tnam-0",
+      "english_header": "Name: Brick\nPosition: Heavy Weapons\nAge: 24\nTerm of Contract: Ongoing\nMerits/Demerits: 5/1\nPay: 50 caps/mission\nStatus: Active",
+      "korean_header_lines": [
+        "이름: 브릭"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0607589f-tnam-0",
+      "english_header": "Copernicus Planetarium\nSchedule is subject to change without notice. Please inquire at the Information Desk for tickets and ticket prices.",
+      "korean_header_lines": [
+        "코페르니쿠스 천문관"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0608f9ad-tnam-0",
+      "english_header": "Transcript of Holotape:",
+      "korean_header_lines": [
+        "홀로테이프 기록:"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0608f9ae-tnam-0",
+      "english_header": "Transcript of Holotape:",
+      "korean_header_lines": [
+        "홀로테이프 기록:"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0608f9af-tnam-0",
+      "english_header": "Transcript of Holotape:",
+      "korean_header_lines": [
+        "홀로테이프 기록:"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0608f9b0-tnam-0",
+      "english_header": "Transcript of Holotape:",
+      "korean_header_lines": [
+        "홀로테이프 기록:"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0608f9b3-tnam-0",
+      "english_header": "Transcript of Holotape:",
+      "korean_header_lines": [
+        "홀로테이프 기록:"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0608f9b4-tnam-0",
+      "english_header": "Transcript of Holotape:",
+      "korean_header_lines": [
+        "홀로테이프 기록:"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-06091952-tnam-0",
+      "english_header": "To: Hilda Egglebrecht\nFrom: Parker Livingsteen, Studio Supervisor",
+      "korean_header_lines": [
+        "받는 이: 힐다 에글브렉트",
+        "보내는 이: 파커 리빙스틴, 스튜디오 감독관"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-06091953-tnam-0",
+      "english_header": "To: Engineering Staff\nFrom: Parker Livingsteen, Studio Supervisor",
+      "korean_header_lines": [
+        "받는 이: 기술부 직원",
+        "보내는 이: 파커 리빙스틴, 스튜디오 감독관"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-06091956-tnam-0",
+      "english_header": "To: Richard Rubin, Overseer Vault 92\nFrom: Gordie Sumner",
+      "korean_header_lines": [
+        "받는 이: 리처드 루빈, 볼트 92 오버시어",
+        "보내는 이: 고디 섬너"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0609b906-tnam-0",
+      "english_header": "Maintenance Code: RL00 Green\nIssue: Dormitory Water Dispensers outputting water with a foul aftertaste\nEngineer: Daniel Koster",
+      "korean_header_lines": [
+        "유지보수 코드: RL00 그린",
+        "문제: 숙소 식수대에서 뒷맛이 좋지 않은 물이 나옴",
+        "기술자: 대니얼 코스터"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0609b90a-tnam-0",
+      "english_header": "Journal Entry:",
+      "korean_header_lines": [
+        "일지 기록:"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060a120f-tnam-0",
+      "english_header": "To: All Vault Residents\nFrom: Gordie Sumner",
+      "korean_header_lines": [
+        "받는 이: 모든 볼트 주민",
+        "보내는 이: 고디 섬너"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060a1210-tnam-0",
+      "english_header": "To: Dan Kobachesky\nFrom: Gordie Sumner",
+      "korean_header_lines": [
+        "받는 이: 댄 코바차스키",
+        "보내는 이: 고디 섬너"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060a1219-tnam-0",
+      "english_header": "To: Section 4 Lab Assistants\nFrom: Professor John Malleus",
+      "korean_header_lines": [
+        "받는 이: 구역 4 실험실 조수",
+        "보내는 이: 존 말리어스 교수"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060a121a-tnam-0",
+      "english_header": "To: Richard Rubin, Overseer Vault 92\nFrom: Professor John Malleus",
+      "korean_header_lines": [
+        "받는 이: 리처드 루빈, 볼트 92 오버시어",
+        "보내는 이: 존 말리어스 교수"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060a121b-tnam-0",
+      "english_header": "To: Richard Rubin, Overseer Vault 92\nFrom: Professor John Malleus",
+      "korean_header_lines": [
+        "받는 이: 리처드 루빈, 볼트 92 오버시어",
+        "보내는 이: 존 말리어스 교수"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060a121c-tnam-0",
+      "english_header": "To: Richard Rubin, Overseer Vault 92\nFrom: Professor John Malleus",
+      "korean_header_lines": [
+        "받는 이: 리처드 루빈, 볼트 92 오버시어",
+        "보내는 이: 존 말리어스 교수"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060a1222-tnam-0",
+      "english_header": "To: Hilda Egglebrecht\nFrom: Parker Livingsteen, Studio Supervisor",
+      "korean_header_lines": [
+        "받는 이: 힐다 에글브렉트",
+        "보내는 이: 파커 리빙스틴, 스튜디오 감독관"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060a926e-tnam-0",
+      "english_header": "Attention ALL Lab Technicians",
+      "korean_header_lines": [
+        "모든 실험실 기술자들에게 알림"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060a926f-tnam-0",
+      "english_header": "Attention ALL Lab Technicians",
+      "korean_header_lines": [
+        "모든 실험실 기술자들에게 알림"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060a9270-tnam-0",
+      "english_header": "Attention ALL Lab Technicians",
+      "korean_header_lines": [
+        "모든 실험실 기술자들에게 알림"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060aa696-tnam-0",
+      "english_header": "To All Medical Records Staff",
+      "korean_header_lines": [
+        "모든 의료 기록 담당자에게"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060aa697-tnam-0",
+      "english_header": "To All Medical Records Staff",
+      "korean_header_lines": [
+        "모든 의료 기록 담당자에게"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060aa69f-tnam-0",
+      "english_header": "Journal Entry:",
+      "korean_header_lines": [
+        "일지 기록:"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060aa6a0-tnam-0",
+      "english_header": "Journal Entry:",
+      "korean_header_lines": [
+        "일지 기록:"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060aa6a6-tnam-0",
+      "english_header": "A Letter to the Overseer from Dr. Stanislaus Braun:",
+      "korean_header_lines": [
+        "스태니슬라우스 브라운 박사가 오버시어에게 보내는 편지:"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060b60d4-tnam-0",
+      "english_header": "\"Requiem for an Antagonist\"",
+      "korean_header_lines": [
+        "빌런에게 구원을"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060c9a04-tnam-0",
+      "english_header": "For Immediate Release: ",
+      "korean_header_lines": [
+        "곧 출시되는 작품:"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060cb591-tnam-0",
+      "english_header": "Patient Name: Tom Mallone\nInjury: Extreme muscle injury to groin area",
+      "korean_header_lines": [
+        "환자 이름: 톰 말론",
+        "증상: 사타구니 부위에 심한 근육 손상"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060cb592-tnam-0",
+      "english_header": "Patient Name: Harold Worthington III\nInjury: Sharp pain in knees and in left arm from a fall",
+      "korean_header_lines": [
+        "환자 이름: 해럴드 워싱턴 3세",
+        "증상: 낙상으로 인한 무릎과 왼팔에 심한 통증"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-060cb593-tnam-0",
+      "english_header": "Patient Name: Richard Maynard Watson\nInjury: Eyes were splashed with caustic chemicals",
+      "korean_header_lines": [
+        "환자 이름: 리처드 메이너드 왓슨",
+        "증상: 눈에 부식성 화학물질이 튐"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-pointlookout-note-0a00e773-tnam-0",
+      "english_header": "Task Details - Point Lookout Survey Expedition\nRoach, Martin J.\n<For Your Eyes Only>\nDr. Roach - ",
+      "korean_header_lines": [
+        "작업 세부 정보 - 포인트 룩아웃 측량 원정대",
+        "로치, 마틴 J.",
+        "<본인만 읽을 것>"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-pointlookout-note-0a00f319-tnam-0",
+      "english_header": "Memo To All Staff:",
+      "korean_header_lines": [
+        "모든 직원에게 보내는 메모:"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-pointlookout-note-0a00f31a-tnam-0",
+      "english_header": "To: Laura Stewart, Head Researcher\nFrom: Adam Tomco, Archivist",
+      "korean_header_lines": [
+        "받는 이: 로라 스튜어트, 수석 연구원",
+        "보내는 이: 애덤 톰코, 기록 담당자"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-pointlookout-note-0a00f31b-tnam-0",
+      "english_header": "To :Adam Tomco\nFrom: Unknown Sender",
+      "korean_header_lines": [
+        "받는 이: 애덤 톰코",
+        "보내는 이: 알 수 없음"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-pointlookout-note-0a010ac3-tnam-0",
+      "english_header": "Protocol Codes: CONFIRMED",
+      "korean_header_lines": [
+        "프로토콜 코드: 확인됨"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0604e15a-tnam-0",
+      "english_header": "Name: Theo\nPosition: Quartermaster\nAge: 22\nTerm of Contract: Probationary\nMerits/Demerits: 1/0\nPay: 35 caps/mission\nStatus: Active",
+      "korean_header_lines": [
+        "이름: 띠오"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-06075930-tnam-0",
+      "english_header": "GigantoMax Theater\nSchedule is subject to change without notice. Please inquire at the Information Desk for tickets and ticket prices.",
+      "korean_header_lines": [
+        "자이간토맥스 극장"
+      ]
+    },
+    {
+      "example_id": "sst-fo3-fallout3-note-0608f9aa-tnam-0",
+      "english_header": "Transcript of Holotape:",
+      "korean_header_lines": [
+        "홀로테이프 기록:"
+      ]
+    },
+    {
+      "example_id": "codex-4084bdf3d1c30ec5",
+      "english_header": "Betsy Bright's Disciplinary Record",
+      "korean_header_lines": [
+        "벳시 브라이트의 징계 기록"
+      ]
+    },
+    {
+      "example_id": "codex-daaa07f7c9fd4430",
+      "english_header": "Cherie O'Bannon's After-School Schedule",
+      "korean_header_lines": [
+        "체리 오배넌의 방과 후 일정"
+      ]
+    },
+    {
+      "example_id": "codex-e55a99e6cc8e0e7e",
+      "english_header": "Midterm Grade Report:  Richie \"Ball-Lover\" Marcus",
+      "korean_header_lines": [
+        "중간고사 성적표: 리치 \"불알 애호가\" 마커스"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-deadmoney-note-01013b3e-body",
+      "english_header": "Salida Del Sol Ventilation System Status",
+      "korean_header_lines": [
+        "살리다 델 솔 환기 시스템 상태"
+      ]
+    },
+    {
+      "example_id": "esm-fnv-deadmoney-note-01013b3d-body",
+      "english_header": "Salida Del Sol Ventilation System Status",
+      "korean_header_lines": [
+        "살리다 델 솔 환기 시스템 상태"
+      ]
+    }
+  ]
+}

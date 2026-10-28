@@ -116,4 +116,10 @@ python tools/extract_fallout_esm.py --input 'D:\Codex_Trans\그냥 번역\폴아
 
 ## ASMR과 BGM
 
-상단 `ASMR·BGM`에서 환경음 켜기·끄기·음량 조절과 YouTube BGM을 이용할 수 있습니다. ASMR은 탐리엘 서고와 동일한 SoundsForYou / Pixabay의 모닥불 음원을 사용합니다. 자동 재생하지 않으며 `모두 끄기`로 두 소리를 종료할 수 있습니다. BGM은 YouTube 원본 링크도 제공합니다. [음원·영상 출처](../assets/archive-audio-sources.json).
+상단 `ASMR·BGM`에서 환경음 켜기·끄기·음량 조절과 YouTube BGM을 이용할 수 있습니다. ASMR은 사용자가 제공한 `dragon-studio-creepy-industrial-sounds-ambience-482892.mp3`를 재생합니다. 자동 재생하지 않으며 `모두 끄기`로 두 소리를 종료할 수 있습니다. BGM은 YouTube 원본 링크도 제공합니다. [음원·영상 출처](../assets/archive-audio-sources.json).
+
+원래 번역에서 제목·문단 경계가 소실된 문서는 [표시 구획 보정](document-layout-overrides.json)에 원문 레코드 대조 근거와 본문 해시를 보존합니다. 이 보정은 한국어 문구를 바꾸지 않고 제목·문단·목록 경계만 복원합니다.
+
+문서 3,567개를 점검하고 원본 서식·동일 레코드의 영문 머리말을 대조해 696개 문서에 1,306개 구획을 복원했습니다. [점검 결과](document-layout-report.json). 글자 크기만 큰 손글씨 본문, 문장 속 강조, 목록 항목은 제목으로 간주하지 않습니다.
+
+재검사: `python tools/audit_fallout_document_sources.py --dictionary-root <xTranslator UserDictionaries 경로> --fo76-strings <추출한 공식 문자열 폴더>` 후 `python tools/restore_fallout_document_layouts.py`. 원시 대조 자료는 `work/document-layout-audit/`에만 저장됩니다.

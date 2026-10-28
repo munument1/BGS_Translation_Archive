@@ -7,11 +7,11 @@
   <meta name="theme-color" content="#111c16">
   <meta name="description" content="폴아웃 시리즈의 터미널 기록, 홀로테이프, 메모, 홀로디스크를 한국어로 찾아보는 비공식 기록 보관소.">
   <title>황무지의 기록 | Fallout 한국어 아카이브</title>
-  <link rel="stylesheet" href="../assets/record-archive.css?v=20261028-sections-2">
+  <link rel="stylesheet" href="../assets/record-archive.css?v=20261029-headings">
   <link rel="stylesheet" href="../assets/fallout-terminal.css">
-  <link rel="stylesheet" href="../assets/archive-audio.css?v=20261028-native">
-  <script src="../assets/archive-audio.js?v=20261028-native" defer></script>
-  <script src="../assets/record-reader.js?v=20261028-sections-2"></script>
+  <link rel="stylesheet" href="../assets/archive-audio.css?v=20261029-supplied">
+  <script src="../assets/archive-audio.js?v=20261029-supplied" defer></script>
+  <script src="../assets/record-reader.js?v=20261029-headings"></script>
 </head>
 <body data-archive="fallout">
   <div class="shell">
@@ -45,20 +45,20 @@
         <div class="sound-panel">
           <div class="sound-actions"><p data-sound-status role="status">환경음은 켜기 버튼으로, BGM은 YouTube에서 재생합니다.</p><button type="button" class="sound-stop" data-sound-stop disabled>모두 끄기</button></div>
           <div class="sound-grid">
-            <article class="sound-card ambient-card" data-ambient-kind="campfire" data-ambient-label="모닥불">
-              <span class="sound-kind">ASMR / AMBIENCE</span><h3>황무지의 모닥불</h3><p class="sound-credit"><a href="https://pixabay.com/sound-effects/campfire-crackling-fireplace-sound-119594/" target="_blank" rel="noopener noreferrer">SoundsForYou / Pixabay</a> · <a href="https://pixabay.com/service/license-summary/" target="_blank" rel="noopener noreferrer">콘텐츠 라이선스</a></p>
+            <article class="sound-card ambient-card" data-ambient-kind="ruins" data-ambient-label="폐허 환경음">
+              <span class="sound-kind">ASMR / AMBIENCE</span><h3>폐허의 산업시설 환경음</h3><p class="sound-credit">사용자 제공 음원 · dragon-studio</p>
               <div class="ambient-mixer">
-                <div class="ambient-display" aria-hidden="true"><span>♨</span><small>WASTELAND / CAMPFIRE</small></div>
-                <button type="button" class="ambient-toggle" data-ambient-toggle aria-pressed="false"><span data-ambient-label>모닥불 켜기</span></button>
+                <div class="ambient-display" aria-hidden="true"><span>☢</span><small>WASTELAND / INDUSTRIAL AMBIENCE</small></div>
+                <button type="button" class="ambient-toggle" data-ambient-toggle aria-pressed="false"><span data-ambient-label>폐허 환경음 켜기</span></button>
                 <label class="ambient-volume" for="archiveAmbientVolume">음량 <input id="archiveAmbientVolume" data-ambient-volume type="range" min="0" max="100" value="30" aria-label="환경음 음량" aria-valuetext="30%"><output data-ambient-output for="archiveAmbientVolume">30%</output></label>
                 <p data-ambient-status role="status">켜기 버튼을 눌러 배경음을 들어보세요.</p>
               </div>
             </article>
-            <article class="sound-card" data-video-id="xn8fQMRsaqU" data-video-title="Inon Zur Plays Fallout 4 Theme" data-sound-kind="BGM">
-              <span class="sound-kind">BGM / SOUNDTRACK</span><h3>Fallout 4 테마 · Inon Zur 피아노 연주</h3>
-              <p class="sound-credit"><a href="https://www.youtube.com/@bethesda" target="_blank" rel="noopener noreferrer">Bethesda Softworks</a> · Inon Zur 연주 · 공식 영상</p>
+            <article class="sound-card" data-video-id="2IJZAKjglZI" data-video-title="Fallout Radio Station | Atomic City Music Mix | 12 HOURS | Study, Relax, Sleep" data-sound-kind="BGM">
+              <span class="sound-kind">BGM / SOUNDTRACK</span><h3>폴아웃 라디오 · Atomic City</h3>
+              <p class="sound-credit"><a href="https://www.youtube.com/@GeigerBroadcast" target="_blank" rel="noopener noreferrer">Geiger Broadcast</a> · 사용자 선택 BGM</p>
               <div class="sound-player"><button type="button" class="sound-load" data-sound-load><span aria-hidden="true">▷</span><span>BGM 플레이어 열기</span></button></div>
-              <a class="sound-external" href="https://www.youtube.com/watch?v=xn8fQMRsaqU" target="_blank" rel="noopener noreferrer">YouTube에서 듣기 ↗</a>
+              <a class="sound-external" href="https://www.youtube.com/watch?v=2IJZAKjglZI" target="_blank" rel="noopener noreferrer">YouTube에서 듣기 ↗</a>
             </article>
           </div>
           <p class="sound-help">환경음은 이곳의 음량 슬라이더로, 음악은 YouTube 플레이어에서 따로 조절하세요. 모바일에서는 기기의 음량을 따를 수 있습니다. 영상이 열리지 않으면 YouTube 원본 링크를 이용하세요.</p>
@@ -130,7 +130,7 @@
     function showBody(){
       if(!currentRecord)return;
       const lang=$("readerLanguage").value;
-      ArchiveReader.setText((lang==="ko"?currentRecord.body_ko:currentRecord.body_en)||"이 기록은 본문이 아직 수록되지 않았습니다.",{sections:currentRecord.type==="document"&&!currentRecord.language_neutral_payload,preserve:currentRecord.language_neutral_payload||/poem|song|lyrics|prayer|prophecy|hymn|lullaby/i.test(currentRecord.title_en||"")});
+      ArchiveReader.setText((lang==="ko"?currentRecord.body_ko:currentRecord.body_en)||"이 기록은 본문이 아직 수록되지 않았습니다.",{layout:lang==="ko"?state.layouts?.[currentRecord.id]:null,sections:currentRecord.type==="document"&&!currentRecord.language_neutral_payload,preserve:currentRecord.language_neutral_payload||/poem|song|lyrics|prayer|prophecy|hymn|lullaby/i.test(currentRecord.title_en||"")});
     }
     $("readerLanguage").addEventListener("change",showBody);
     function openRecord(id){
@@ -186,7 +186,9 @@
     $("reader").addEventListener("click",e=>{if(e.target===$("reader"))close()});
     $("reader").addEventListener("close",()=>{if(!$("reader").open&&location.hash)history.replaceState(null,"",location.pathname+location.search)});
     window.addEventListener("hashchange",()=>{if(location.hash){try{openRecord(decodeURIComponent(location.hash.slice(1)))}catch(_){}}else if($("reader").open)$("reader").close()});
-    fetch("./catalog.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("목록 수신 실패");return r.json()}).then(data=>{
+    const layoutsPromise=fetch("./document-layout-overrides.json?v=20261029-headings",{cache:"no-store"}).then(r=>r.ok?r.json():{entries:{}}).catch(()=>({entries:{}}));
+    fetch("./catalog.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("목록 수신 실패");return r.json()}).then(async data=>{
+      state.layouts=(await layoutsPromise).entries;
       if(!Array.isArray(data.entries))throw new Error("데이터 형식 오류");
       const requestedGame=new URLSearchParams(location.search).get("game");if(data.entries.some(r=>r.game===requestedGame))state.game=requestedGame;
       state.records=data.entries;$("totalCount").textContent=state.records.length.toLocaleString("ko-KR");

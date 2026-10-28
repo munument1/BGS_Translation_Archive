@@ -31,6 +31,16 @@
       if(pending.length)chunks.push(reflowBlock(pending.join('\n')));
       return chunks.join('\n');
     }
+    const protectedLine=line=>structured.test(line)||/\t| {3,}/.test(line)||/^[\s|+_=\-.*\/\\]+$/.test(line);
+    if(lines.some(protectedLine)&&!lines.every(protectedLine)){
+      const chunks=[];let pending=[];
+      for(const line of lines){
+        if(protectedLine(line)){if(pending.length)chunks.push(reflowBlock(pending.join('\n')));chunks.push(line);pending=[];}
+        else pending.push(line);
+      }
+      if(pending.length)chunks.push(reflowBlock(pending.join('\n')));
+      return chunks.join('\n');
+    }
     const lengths=lines.map(s=>s.trim().length);
     if(lines.some(line=>structured.test(line)||/\t| {3,}/.test(line))||Math.max(...lengths)<22||lengths.reduce((a,b)=>a+b,0)<70)return block;
     // Short verse and table-like rows remain intact, even in fitted mode.
@@ -51,12 +61,17 @@
     if(end<text.length)segments.push({type:'text',text:text.slice(end)});
     return segments;
   }
-  let raw='',preserve=false,sections=false,size=18,mode='fit',wide=false,outlineKey='';
+  function validatedLayout(text,layout){
+    if(!layout||!Array.isArray(layout.blocks)||!layout.blocks.length)return null;
+    if(layout.blocks.some(p=>!['text','heading'].includes(p.type)||typeof p.text!=='string'||p.type==='heading'&&![3,4].includes(p.level)))return null;
+    return layout.blocks.map(p=>p.text).join('').replace(/\s/g,'')===text.replace(/\s/g,'')?layout.blocks:null;
+  }
+  let raw='',preserve=false,sections=false,layout=null,size=18,mode='fit',wide=false,outlineKey='';
   try{const p=JSON.parse(localStorage.getItem('archive-reader-v1')||'{}');if(p.mode==='original')mode=p.mode;if(p.size>=15&&p.size<=24)size=p.size;wide=p.wide===true;}catch(_){}
   const el=id=>document.getElementById(id);
   function save(){try{localStorage.setItem('archive-reader-v1',JSON.stringify({mode,size,wide}));}catch(_){}}
-  function renderSections(text){
-    const body=el('readerBody');const parts=sections?sectionize(text):[];
+  function renderSections(text,layoutParts){
+    const body=el('readerBody');const parts=sections?(layoutParts||sectionize(text)):[];
     const headings=parts.filter(p=>p.type==='heading');
     let contents=el('readerContents');
     if(!contents){
@@ -93,7 +108,9 @@
   }
   function render(){
     if(!el('readerBody'))return;
-    renderSections(mode==='original'||preserve?raw:reflow(raw));
+    const keep=mode==='original'||preserve;
+    const parts=layout?layout.map(p=>({...p,text:keep||p.type==='heading'?p.text:reflow(p.text)})):null;
+    renderSections(keep?raw:reflow(raw),parts);
     el('reader').style.setProperty('--reader-font-size',size+'px');
     el('reader').classList.toggle('reader-wide',wide);
     if(el('readerLineMode'))el('readerLineMode').value=mode;
@@ -102,9 +119,9 @@
     if(el('readerFontDown'))el('readerFontDown').disabled=size<=15;
     if(el('readerFontUp'))el('readerFontUp').disabled=size>=24;
   }
-  function setText(text,options){raw=String(text||'');preserve=Boolean(options&&options.preserve);sections=Boolean(options&&options.sections);render();}
-  root.ArchiveReader={setText,reflow,sectionize};
-  if(typeof module!=='undefined'&&module.exports)module.exports={reflow,sectionize};
+  function setText(text,options){raw=String(text||'');preserve=Boolean(options&&options.preserve);sections=Boolean(options&&options.sections);layout=validatedLayout(raw,options&&options.layout);render();}
+  root.ArchiveReader={setText,reflow,sectionize,validatedLayout};
+  if(typeof module!=='undefined'&&module.exports)module.exports={reflow,sectionize,validatedLayout};
   if(typeof document!=='undefined')document.addEventListener('DOMContentLoaded',()=>{
     if(!el('reader'))return;
     el('readerLineMode').addEventListener('change',e=>{mode=e.target.value;save();render();});
