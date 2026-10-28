@@ -1,0 +1,23 @@
+{
+  "game": "morrowind",
+  "release": "openmw-0.51.0-kr9",
+  "release_url": "https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr9",
+  "official_release_zip": "Morrowind-Korean-OpenMW-0.51.0-KR9-Full.zip",
+  "official_release_zip_sha256": "1b38dc267249d6caf2c59aa487565b7377369d2d4b57bd117030721fad9a1049",
+  "source_esp_sha256": "9ee05221ae099b0a48370b6d79f02e9a1fbf3d9e3c6bad05a695c780aa6f7278",
+  "source_esp_member": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.esp",
+  "source_record_count": 48146,
+  "korean_esp_fields": 45779,
+  "korean_openmw_l10n_fields": 454,
+  "korean_text_map_fields": 7663,
+  "korean_archive_rows_total": 53896,
+  "status": "imported",
+  "editorial_review": "not independently verified",
+  "in_game_verification": "not performed by this import",
+  "source_english_included": false,
+  "english_source_hash_available": false,
+  "hash_semantics": "localized_subrecord_hash is SHA256 of Korean ESP bytes; localized_value_sha256 hashes a localized Korean value; original_key_hash is a source-side map-key hash.",
+  "rights_note": "Confirm all translation contributors' publication permissions where applicable.",
+  "known_release_caveat": "Downloaded ZIP matches official release SHA256, but internal SHA256SUMS.txt lists stale hashes for .cel and openmw.exe.",
+  "version_policy": "KR9 only. No KR6/older fallback Korean text."
+}

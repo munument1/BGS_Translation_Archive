@@ -1,0 +1,23 @@
+{
+  "game": "starfield",
+  "dataset": "Starfield_Koreanpatch_260914 local Korean patch",
+  "scope": "Starfield base game three Bethesda string tables and Interface/translate_en.txt",
+  "source_package_folder": "Starfield_Koreanpatch_260914",
+  "source_data_format": "UTF-8 STRINGS/DLSTRINGS/ILSTRINGS and UTF-16LE UI file",
+  "input_entries_parsed": 190625,
+  "korean_entries_staged_locally": 182448,
+  "excluded_non_korean_entries": 8177,
+  "english_original_present": false,
+  "english_original_sha256_present": false,
+  "source_files": {
+    "starfield_en.strings": "69c7e5ec40d68119e19b1fa1f0d89ede0f3635a9f6f38aaee509071feb864235",
+    "starfield_en.ilstrings": "e7a7d07975707dca5a5523e7eebfef5859b0823464eb481a0c8700ce20095900",
+    "starfield_en.dlstrings": "1894d848b0b0c24154f9bd76e2daf9a7f8ebe08a2d9b14a6625cc95eded6eaaf",
+    "translate_en.txt": "5ad86a22020abb5ea9f20e824bdbc9348651da52da9f3bb46696552c18771438"
+  },
+  "full_korean_text_publicly_uploaded": false,
+  "reason": "The local patch does not establish translation ownership or third-party redistribution permission.",
+  "stage_location_hint": "Local Morrowind mod project / work / dictionaries / starfield_base_staged",
+  "version_and_editorial_status": "unverified local import, not in-game tested; folder date is not authoritative",
+  "notes": "DLC and Creation string tables from this patch are not counted in the base-game stage. Input files have not been changed."
+}

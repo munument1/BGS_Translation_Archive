@@ -9,6 +9,7 @@ import re
 
 ROOT = Path(__file__).resolve().parents[1]
 INPUTS = [
+    ("morrowind", ROOT/"Morrowind/BaseGame/KR9/translation.jsonl", 53896),
     ("oblivion", ROOT/"Oblivion/BaseGame/Oblivion.esm/canonical_v2.jsonl", 46225),
     ("oblivion", ROOT/"Oblivion/DLC/canonical_v2.jsonl", 1734),
     ("oblivion", ROOT/"Oblivion/Mods/canonical_v2.jsonl", 3185),
@@ -37,16 +38,27 @@ def main():
                     raise ValueError(f"{path}:{line_no}: missing Korean")
                 if FORBIDDEN.intersection(row):
                     raise ValueError(f"{path}:{line_no}: full English source field present")
-                key_field = "localized_subrecord_hash" if game=="morrowind" else "source_hash"
-                if not SHA.fullmatch(row.get(key_field,"")):
-                    raise ValueError(f"{path}:{line_no}: invalid SHA")
                 if game=="morrowind":
-                    unique=(row.get("plugin"),row.get("subrecord_data_offset"))
+                    if row.get("mod_version")!="KR9":
+                        raise ValueError(f"{path}:{line_no}: obsolete Morrowind source")
+                    if row.get("record")=="L10N":
+                        key_field="localized_value_sha256"
+                        unique=(row.get("source_archive_member"),row.get("record_id"))
+                    elif row.get("record")=="OPENMW_TEXT_MAP":
+                        key_field="original_key_hash"
+                        unique=(row.get("source_archive_member"),row.get("record_id"))
+                    else:
+                        key_field="localized_subrecord_hash"
+                        unique=(row.get("source_archive_member"),row.get("subrecord_data_offset"))
                 elif game=="oblivion":
+                    key_field="source_hash"
                     unique=(row.get("plugin"),row.get("record"),row.get("form_id"),
                             row.get("field"),row.get("sub_index"))
                 else:
+                    key_field="source_hash"
                     unique=(row.get("source_dictionary"),row.get("dictionary_record_index"))
+                if not SHA.fullmatch(row.get(key_field,"")):
+                    raise ValueError(f"{path}:{line_no}: invalid SHA")
                 # File/record identity scope must be intact even if same English
                 # has different Korean across contexts.
                 identity=(game,*unique)

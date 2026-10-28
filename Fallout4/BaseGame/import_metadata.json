@@ -1,0 +1,21 @@
+{
+  "game": "fallout4",
+  "dataset": "Fallout4_Korean_20260819 Steam Korean patch",
+  "scope": "Base game plus six official DLC; 21 string tables and UI text translation file",
+  "target_game_version_claim": "Steam Fallout4.exe 1.11.240.0",
+  "target_build_claim": "24564252",
+  "source_data_format": "UTF-8 STRINGS/DLSTRINGS/ILSTRINGS and UTF-16LE Translate_en.txt",
+  "input_files_parsed": 22,
+  "input_entries_parsed": 168811,
+  "korean_entries_staged_locally": 164201,
+  "excluded_without_hangul": 4552,
+  "excluded_empty": 58,
+  "english_original_present": false,
+  "english_original_sha256_present": false,
+  "manifest_sha256": "4bb87aea9592fdf35187c40a69305fc311f18da55b9c2aba02fc19e3c9388c41",
+  "full_korean_text_publicly_uploaded": false,
+  "reason": "The local patch README does not establish translator copyright ownership or redistribution permission.",
+  "stage_location_hint": "Local Morrowind mod project / work / dictionaries / fallout4_base_staged",
+  "editorial_status": "extracted_unreviewed; not in-game tested",
+  "notes": "Every Korean string ID, source file fingerprint and its original slot were retained in the local stage. The public archive contains metadata only until rights review."
+}
