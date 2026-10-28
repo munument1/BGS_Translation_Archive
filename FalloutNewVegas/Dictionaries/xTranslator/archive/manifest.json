@@ -1,0 +1,223 @@
+{
+  "compression": "RFC1952 gzip, level 6, mtime=0",
+  "format": "JSONL UTF-8 gzip",
+  "game": "FalloutNewVegas",
+  "lossless": true,
+  "original_jsonl_uncompressed_bytes": 218749991,
+  "original_source_sst_file_count": 314,
+  "rows": 431692,
+  "shards": [
+    {
+      "bytes": 10695865,
+      "file": "tm_0000.jsonl.gz",
+      "rows": 126105,
+      "sha256_compressed": "2abb59cc9e4161135583b0b1415cd6f1542814a997d9d9a1cbb152ac288b1ea4",
+      "sha256_uncompressed": "4956944091c1fa8a482b3cc0600a58f4c4c671c9213a83277624cbc7c7393c42",
+      "source_shards": [
+        {
+          "bytes": 7999549,
+          "name": "dictionary_0000.jsonl",
+          "rows": 15611,
+          "sha256": "f63b40b48db8302f4824b271e1e96c64c68bdf49e3258be557a1b3183e0076d1"
+        },
+        {
+          "bytes": 7999967,
+          "name": "dictionary_0001.jsonl",
+          "rows": 15388,
+          "sha256": "3a0d74a33e3e442341fcf54b6bd5f8d62429a859486beed2093d0f85107971f8"
+        },
+        {
+          "bytes": 7999756,
+          "name": "dictionary_0002.jsonl",
+          "rows": 15635,
+          "sha256": "24feeff475e7ccc86e13c3c845028513f874c8373f671902106afe8a56ab8aa2"
+        },
+        {
+          "bytes": 7999623,
+          "name": "dictionary_0003.jsonl",
+          "rows": 15768,
+          "sha256": "9a55ae181e12391ac709cadc5d06c6824658fd251b8dee7c76fb28dc8f8efca1"
+        },
+        {
+          "bytes": 7999832,
+          "name": "dictionary_0004.jsonl",
+          "rows": 15945,
+          "sha256": "c82420bb74cbb0cd9da255cd8c125566ba12f24c95da785b47f74b454a6bf323"
+        },
+        {
+          "bytes": 7999534,
+          "name": "dictionary_0005.jsonl",
+          "rows": 15920,
+          "sha256": "5a9e42554753267f8c75733e61a4bf17739b519cc20880c1711031753404d670"
+        },
+        {
+          "bytes": 7999624,
+          "name": "dictionary_0006.jsonl",
+          "rows": 15976,
+          "sha256": "8d278bdafaaee3055bc01719a87a49e270a5aab54f6a14b7f2b1b883365e7502"
+        },
+        {
+          "bytes": 7999569,
+          "name": "dictionary_0007.jsonl",
+          "rows": 15862,
+          "sha256": "b823d2117ff86a1de694bc0f3f48bcc7a626e1b4ad09348f8871806de7740ac9"
+        }
+      ]
+    },
+    {
+      "bytes": 9808124,
+      "file": "tm_0001.jsonl.gz",
+      "rows": 127046,
+      "sha256_compressed": "aa560fe5248176ea511604c44028ef3a3239e9ecc1feed491bccaa44ab2e4274",
+      "sha256_uncompressed": "588df4f885d3bdc58a510e9c3f784bb61847becaac54a9b8c11999fc98b3dc89",
+      "source_shards": [
+        {
+          "bytes": 7999809,
+          "name": "dictionary_0008.jsonl",
+          "rows": 15976,
+          "sha256": "b089709ca4fe9635780985562d6768470a991c77a39d5a8dd04daff571c2915c"
+        },
+        {
+          "bytes": 7999552,
+          "name": "dictionary_0009.jsonl",
+          "rows": 16253,
+          "sha256": "7c9cf4bed36ca07bf7a7448a67ad193840930661d1a66fe67f8a5f585d7e319f"
+        },
+        {
+          "bytes": 7999472,
+          "name": "dictionary_0010.jsonl",
+          "rows": 15493,
+          "sha256": "e0c9577bf2bc9e9c0008e31e4d580a911eeaa5567c97528cbdf2050b4a5083c6"
+        },
+        {
+          "bytes": 7999775,
+          "name": "dictionary_0011.jsonl",
+          "rows": 15671,
+          "sha256": "e946937fe0249235a25117485577659885681315112bc7a356877a19f2b39681"
+        },
+        {
+          "bytes": 7999586,
+          "name": "dictionary_0012.jsonl",
+          "rows": 16384,
+          "sha256": "0dfa9baabf8cdf369805a41a5dc0f91dfaff5b628042740684159b3b5fe0f8d1"
+        },
+        {
+          "bytes": 7999859,
+          "name": "dictionary_0013.jsonl",
+          "rows": 16090,
+          "sha256": "0705e6eac87b87397574a0266eab2fc5f205e69b9f15ef617d7476e8309a290b"
+        },
+        {
+          "bytes": 7999615,
+          "name": "dictionary_0014.jsonl",
+          "rows": 15675,
+          "sha256": "b5132952d93761e7263615d68914c74f868fb3ae50406ae3619b320ba136d6a7"
+        },
+        {
+          "bytes": 7999610,
+          "name": "dictionary_0015.jsonl",
+          "rows": 15504,
+          "sha256": "ea4bc5405cf6704db53a6a44922220fcb7bda1e29ca009a7ee6be14e1177c271"
+        }
+      ]
+    },
+    {
+      "bytes": 9816472,
+      "file": "tm_0002.jsonl.gz",
+      "rows": 126059,
+      "sha256_compressed": "7797783a8c38f52e9e9cde14cddb5f7cf66547dbe7d71bdbb6f001e3af5b0274",
+      "sha256_uncompressed": "e67a5e49c67df06b37ac21e456329976a7c20a8fa571d97100fa6e2fe276dbd5",
+      "source_shards": [
+        {
+          "bytes": 7999493,
+          "name": "dictionary_0016.jsonl",
+          "rows": 15854,
+          "sha256": "675ce7c98765c9caa02f292cc4d895be7c70cf7620c8ff74e12a1695d045de8d"
+        },
+        {
+          "bytes": 7999740,
+          "name": "dictionary_0017.jsonl",
+          "rows": 16084,
+          "sha256": "9b4cee5990f858cd122d222f6904afeabea0fe53e2ee76d83eded64c59f3cf20"
+        },
+        {
+          "bytes": 7999632,
+          "name": "dictionary_0018.jsonl",
+          "rows": 15580,
+          "sha256": "105637d464adbbd573d9e9ea51ab35e71c2736550c6deae9a4ba8b61e921dfa0"
+        },
+        {
+          "bytes": 7999796,
+          "name": "dictionary_0019.jsonl",
+          "rows": 15706,
+          "sha256": "f883a8be470673a905da89d514bbde0d3a8ea1363c71a7695939a06ca050b338"
+        },
+        {
+          "bytes": 7999611,
+          "name": "dictionary_0020.jsonl",
+          "rows": 15655,
+          "sha256": "977c788f6cfd46f63efa4978e2da4aa1205f12c8f0008fecaa35539cf2d706fc"
+        },
+        {
+          "bytes": 7999737,
+          "name": "dictionary_0021.jsonl",
+          "rows": 16121,
+          "sha256": "a4ff455ef9ee650c18379ed27e15eb15c64b1cfcd344b9aaeae510af8b38ef59"
+        },
+        {
+          "bytes": 7999540,
+          "name": "dictionary_0022.jsonl",
+          "rows": 15807,
+          "sha256": "e2136470fadd1dc9afaaa97c0763654dcd6a116aecbdc936fdfadaac6866eec3"
+        },
+        {
+          "bytes": 7999820,
+          "name": "dictionary_0023.jsonl",
+          "rows": 15252,
+          "sha256": "792fc66cdca378c73f56db7f258000f9a42c499b421d9c2466f49a4aa6743689"
+        }
+      ]
+    },
+    {
+      "bytes": 4366704,
+      "file": "tm_0003.jsonl.gz",
+      "rows": 52482,
+      "sha256_compressed": "ba0ac7f1a9d380657f215d4158be220ccf67dca66c21d51b959d2a2e51e2e15e",
+      "sha256_uncompressed": "e75a9ebf11125942946d95133a47bff6b1fd754bf895f0a4e99c9b85be296cb8",
+      "source_shards": [
+        {
+          "bytes": 7999818,
+          "name": "dictionary_0024.jsonl",
+          "rows": 15594,
+          "sha256": "6b8e40f1fabb2672d985832682a6bf31a85cf9cc09c24a4ed3424f208169633b"
+        },
+        {
+          "bytes": 7999963,
+          "name": "dictionary_0025.jsonl",
+          "rows": 15684,
+          "sha256": "7b26faa156711c522f3e30c7f9644a8b5fe21a0175cbfe83a64b90ec8a819c17"
+        },
+        {
+          "bytes": 7999967,
+          "name": "dictionary_0026.jsonl",
+          "rows": 15688,
+          "sha256": "c251428e91d1e8a3249895582446ca4e4ed708fb7f0e13336136859a3f92d0cb"
+        },
+        {
+          "bytes": 2758142,
+          "name": "dictionary_0027.jsonl",
+          "rows": 5516,
+          "sha256": "a3392079d22bfbf78f83998855dde0b2f5ed81f04804eb02bb28300f99f036b5"
+        }
+      ]
+    }
+  ],
+  "source_english_included": false,
+  "source_metadata": {
+    "bytes": 28133,
+    "file": "source_metadata.json.gz",
+    "sha256_compressed": "02419d757fb022eed18f93437541c5e7aacafc6f4b1a8ca4c17f73d1d4f0e637",
+    "sha256_uncompressed": "094dcf368f6dfd5ecb00373dec064144401352fa315e0817564630ea47d35c2d"
+  },
+  "total_compressed_bytes": 34715298
+}

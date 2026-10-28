@@ -1,0 +1,154 @@
+{
+  "compression": "RFC1952 gzip, level 6, mtime=0",
+  "format": "JSONL UTF-8 gzip",
+  "game": "Starfield",
+  "lossless": true,
+  "original_jsonl_uncompressed_bytes": 139662735,
+  "original_source_sst_file_count": 143,
+  "rows": 274365,
+  "shards": [
+    {
+      "bytes": 12212952,
+      "file": "tm_0000.jsonl.gz",
+      "rows": 125358,
+      "sha256_compressed": "8d6a31d1f303529c2a5c8c83b1b1511a274188d9de5ef7adb9129106b697f631",
+      "sha256_uncompressed": "db80001ac20cfa12690cb7946f88574457681bad30aa38c998c939aeb6ada60f",
+      "source_shards": [
+        {
+          "bytes": 7999921,
+          "name": "dictionary_0000.jsonl",
+          "rows": 16212,
+          "sha256": "11eea790b43028a7ef319c5f6e053af60cfb93b62ea237608f5273615d2a2088"
+        },
+        {
+          "bytes": 7999831,
+          "name": "dictionary_0001.jsonl",
+          "rows": 15277,
+          "sha256": "88100296f5d8f8b6d1d79842613701d17b12d613ad62129dd7feedb99feca48f"
+        },
+        {
+          "bytes": 7999511,
+          "name": "dictionary_0002.jsonl",
+          "rows": 15794,
+          "sha256": "b022a5bf89a4f8006b6427146b9d9f31b50ffaed75ffb7e9b92ba412f9b6c82b"
+        },
+        {
+          "bytes": 7999524,
+          "name": "dictionary_0003.jsonl",
+          "rows": 15626,
+          "sha256": "407500b2336d3c9b0391e7a76c381dcd3226e5c4fcd04e93109ea2956b2b9f7a"
+        },
+        {
+          "bytes": 7999220,
+          "name": "dictionary_0004.jsonl",
+          "rows": 15612,
+          "sha256": "ca42a5445381015ecdca6097c0fdd637c9c2e0bb87b180b2129d0544ecc338dc"
+        },
+        {
+          "bytes": 7999828,
+          "name": "dictionary_0005.jsonl",
+          "rows": 15645,
+          "sha256": "3c4dccd6cf2ec54601125cc36c4432a7a21298ac720bfaf34be084f1ebc5bb91"
+        },
+        {
+          "bytes": 7999587,
+          "name": "dictionary_0006.jsonl",
+          "rows": 15569,
+          "sha256": "6fb7be0b4a5ff81cb876e80960f6b7cd32f93e21ee8d09841e1a01766f2b3701"
+        },
+        {
+          "bytes": 7999758,
+          "name": "dictionary_0007.jsonl",
+          "rows": 15623,
+          "sha256": "aa904bdda17fb4be19bfdafd4fc0559b324a5465b550ffaed60485eb4a52b9c2"
+        }
+      ]
+    },
+    {
+      "bytes": 12862737,
+      "file": "tm_0001.jsonl.gz",
+      "rows": 124983,
+      "sha256_compressed": "6ff66aa0f070c826cf1e52a0abc39d2353fb6d3f61deccc6168a177226e2c093",
+      "sha256_uncompressed": "6d47a23cb28a2b826a60f0d0b71fa0f737eb68f1813199567a60ef0864d5659f",
+      "source_shards": [
+        {
+          "bytes": 7999879,
+          "name": "dictionary_0008.jsonl",
+          "rows": 15597,
+          "sha256": "61e28a5fa780c4b46c999a388bc4f55215398378cbda9b1027dbabdb72670e08"
+        },
+        {
+          "bytes": 7999955,
+          "name": "dictionary_0009.jsonl",
+          "rows": 15659,
+          "sha256": "510072a96a64d597da7a9fc20e2a9e6f0ffee47946f439190c014848ebedd70b"
+        },
+        {
+          "bytes": 7999918,
+          "name": "dictionary_0010.jsonl",
+          "rows": 15620,
+          "sha256": "f177ea9eae981c07c6547242bb64cac5446d64c961e88852cfb5db19940f211b"
+        },
+        {
+          "bytes": 7999691,
+          "name": "dictionary_0011.jsonl",
+          "rows": 15651,
+          "sha256": "973f89aea667908b72006261ad0b73b3bc27e4268c9bd1e4a1bb957509d5177f"
+        },
+        {
+          "bytes": 7999566,
+          "name": "dictionary_0012.jsonl",
+          "rows": 15553,
+          "sha256": "7d74f3ea05029cadce5d9831699b4aeccb89352b95d68f40dc1151023263bb2d"
+        },
+        {
+          "bytes": 7999806,
+          "name": "dictionary_0013.jsonl",
+          "rows": 15609,
+          "sha256": "732ec57343a93ea5107d739c5cdbe1176be71333c46c9dcd699d1b8cc1835cf6"
+        },
+        {
+          "bytes": 7999846,
+          "name": "dictionary_0014.jsonl",
+          "rows": 15637,
+          "sha256": "4e2d7ddf2e9ece2f073fb6f7e1f748d56854879bee06a3951325c415c6b00a01"
+        },
+        {
+          "bytes": 7999585,
+          "name": "dictionary_0015.jsonl",
+          "rows": 15657,
+          "sha256": "5625e310cff5371697a558b603fef442a17648509e3084f3ed3d21ce3c728471"
+        }
+      ]
+    },
+    {
+      "bytes": 1509592,
+      "file": "tm_0002.jsonl.gz",
+      "rows": 24024,
+      "sha256_compressed": "9c525535c9dae568f1dae3ef66b5b47e97d8469890b6023ee21ab99e0720ff95",
+      "sha256_uncompressed": "c9c5216246e80eb3eab65d781398ab4bf5e17a34e81bf706dd13da85f864d972",
+      "source_shards": [
+        {
+          "bytes": 7999853,
+          "name": "dictionary_0016.jsonl",
+          "rows": 16035,
+          "sha256": "cf5851bca34c3e3d0ad1e3de6915fa8c9bb5fd23ae413d849b9e61e4b4544e11"
+        },
+        {
+          "bytes": 3667456,
+          "name": "dictionary_0017.jsonl",
+          "rows": 7989,
+          "sha256": "028b4bf38e36c413e758f7490300cf513da84545dbb7ff6e35eba403968cdc81"
+        }
+      ]
+    }
+  ],
+  "source_english_included": false,
+  "source_metadata": {
+    "bytes": 12047,
+    "file": "source_metadata.json.gz",
+    "sha256_compressed": "b63f92dd754adbcd813e579999028ad4b8b568ecfece77c63a3bffaf6e2713bc",
+    "sha256_uncompressed": "ea94b0944d01d1fe8f935a838cf61193734147f858c4d21e4899827f80fd38e8"
+  },
+  "total_compressed_bytes": 26597328
+}

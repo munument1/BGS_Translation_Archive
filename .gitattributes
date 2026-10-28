@@ -1,2 +1,4 @@
 *.jsonl text eol=lf
 *.json text eol=lf
+*.jsonl.gz binary
+*.json.gz binary

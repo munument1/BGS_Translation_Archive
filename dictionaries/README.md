@@ -24,6 +24,14 @@ source	translation	scope	status	note
 
 ## xTranslator 사전 데이터 조사 (2026-10-28)
 
+**업데이트:** SST 2,018개에서 확인한 한국어 번역 메모리
+**1,974,796개 엔트리를 무손실 gzip JSONL로 약 148.8MiB에
+압축해 게임별 사전 폴더에 수록했습니다.**
+실제 내용·출처 해시는 `dictionaries/xTranslator/README.md`와
+게임별 `Dictionaries/xTranslator/archive/manifest.json`에 있습니다.
+아래의 이전 로컬 전용 설명은 변환 단계의 기록이며,
+이제 압축 사전이 현재 보존 형식입니다.
+
 기존 개인 `UserDictionaries`를 읽기 전용 분석한 결과,
 Fallout 4 / Fallout: New Vegas / Starfield의 SST 파일은
 `SSU9` (일부 `SSU8`) 바이너리 사전이었습니다.
@@ -45,11 +53,12 @@ SST 일부는 MCM의 `$키`나 `Translations` 텍스트용
 배치 경로를 결정하지 않습니다. 게임별 파일·문맥을
 확인해 plugin/translation_file을 구별해야 합니다.
 
-SST 한국어 JSONL의 로컬 임시 변환본은 총 용량이 매우 크고,
-다른 제작자 번역의 공개 재배포 조건이 일괄 확인되지 않아
-**이번 공개 저장소 반영에서는 제외**했습니다. 원본은
+SST 한국어 JSONL의 로컬 임시 변환본은 용량이 매우 컸지만
+원문을 제외한 한국어 매핑과 레코드 정보를 압축해 보관했습니다.
+다른 제작자의 번역이 포함된 경우 그 재배포 권한은 별도
+확인이 필요합니다. 원본 SST 바이너리는
 `F:\번역\프로그램\xTranslator\UserDictionaries`에
-그대로 있으며, 로컬 정규화 JSONL/해시 인벤토리만 생성한 상태입니다.
+그대로 있으며, 원래 약 936MiB의 비압축 JSONL도 로컬에 보존합니다.
 구형 `SSU8` 6개도 공식 xTranslator 소스 구조와 바이트 단위
 재조립 검증 후 분석했습니다. 결과적으로 **2,018개 SST 전부
 파싱**했으며, 빈 값·동일 영문·한글 없음·손상 문자 등이 있는

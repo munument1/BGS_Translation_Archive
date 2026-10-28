@@ -1,0 +1,29 @@
+{
+  "games": {
+    "Fallout4": {
+      "archive_path": "Fallout4/Dictionaries/xTranslator/archive",
+      "compressed_bytes": 94737782,
+      "rows": 1268739,
+      "source_sst_files": 1561
+    },
+    "FalloutNewVegas": {
+      "archive_path": "FalloutNewVegas/Dictionaries/xTranslator/archive",
+      "compressed_bytes": 34715298,
+      "rows": 431692,
+      "source_sst_files": 314
+    },
+    "Starfield": {
+      "archive_path": "Starfield/Dictionaries/xTranslator/archive",
+      "compressed_bytes": 26597328,
+      "rows": 274365,
+      "source_sst_files": 143
+    }
+  },
+  "no_original_english": true,
+  "rights": "Retain dictionary-level provenance. Publication rights vary by contributor.",
+  "schema": "sst_archive_gzip_lossless_v1",
+  "status": "unreviewed_import",
+  "total_compressed_bytes": 156050408,
+  "total_rows": 1974796,
+  "total_source_sst_files": 2018
+}
