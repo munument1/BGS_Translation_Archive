@@ -1,0 +1,15 @@
+{
+  "removed_no_body": 1402,
+  "merged_duplicate_documents": 248,
+  "records": 4460,
+  "categories": {
+    "holotape": 247,
+    "document": 2140,
+    "terminal": 2073
+  },
+  "korean_records": 4196,
+  "english_only": 264,
+  "epub_fully_translated": 399,
+  "epub_partly_translated": 420,
+  "holotapes_with_korean": 204
+}

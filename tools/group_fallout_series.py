@@ -17,7 +17,7 @@ def flatten_series(entries):
     return [s for r in entries for s in r.get('series_entries',[r])]
 
 def candidate(r):
-    if r.get('type') not in ('holotape','holodisk','holodisk_note','note'):
+    if r.get('type') not in ('holotape','holodisk','holodisk_note','note','document'):
         return None
     title=r.get('title_en') or ''
     diary=re.match(r'^(Diary)\s+(\d{1,3}):\s+.+$',title,re.I)

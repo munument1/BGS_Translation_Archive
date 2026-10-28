@@ -80,7 +80,10 @@ jobs:
               assert len(list((root/game/'books').rglob('*.md')))==count
           PY
 
-      - name: Setup GitHub Pages
+      - name: Verify readable Fallout catalog
+        run: python3 tools/validate_fallout_catalog.py
+
+      - name: Setup GitHub Pages hosting
         uses: actions/configure-pages@v5
 
       - name: Upload docs as a static site

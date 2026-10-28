@@ -58,7 +58,7 @@
           <p class="intro">핍보이에 남은 메모부터 폐허 속 터미널 로그까지. 폴아웃 세계에 흩어진 이야기와 자료를 하나의 서고에서 찾아보세요.</p>
           <a class="cta" href="#records">기록 탐색하기 <span aria-hidden="true">↗</span></a>
           <div class="facts" aria-live="polite">
-            <div class="fact"><strong id="totalCount">—</strong><small>등록된 색인 항목</small></div>
+            <div class="fact"><strong id="totalCount">—</strong><small>읽을 수 있는 기록</small></div>
             <div class="fact"><strong id="gameCount">—</strong><small>작품</small></div>
             <div class="fact"><strong id="translationCount">0</strong><small>한국어 본문</small></div>
           </div>
@@ -67,17 +67,17 @@
       </section>
       <div class="section-kicker"><span>01 / THE ARCHIVE</span><span>RECORD INDEX · 2077—</span></div>
       <section id="records" aria-labelledby="recordTitle">
-        <div class="filter-head"><div><h2 id="recordTitle">황무지의 문서함</h2><p>게임 ESM에서 추출한 개별 기록과 기존 외부 목차를 함께 검색할 수 있습니다. 기존 한글 번역의 본문을 검색하고 읽을 수 있습니다. 각 기록에 출처와 검수 상태를 표시합니다.</p></div></div>
+        <div class="filter-head"><div><h2 id="recordTitle">황무지의 문서함</h2><p>터미널, 홀로테이프·홀로디스크, 메모·문서를 검색하고 읽어보세요. 한국어 번역을 기본으로 표시하며, 일부 번역과 영어 원문도 따로 선택할 수 있습니다.</p></div></div>
         <div class="gamebar" id="games" aria-label="작품 필터"></div>
         <div class="toolbar">
           <input id="search" class="search" type="search" placeholder="제목·본문·FormID 검색…" aria-label="자료 검색">
           <select id="type" class="type-select" aria-label="기록 종류">
-            <option value="all">모든 기록</option><option value="terminal">터미널 기록</option><option value="holotape">홀로테이프</option><option value="holodisk">홀로디스크</option><option value="holodisk_note">홀로디스크·메모 (미분류)</option><option value="note">메모</option><option value="book">서적·문서</option>
+            <option value="all">모든 기록</option><option value="terminal">터미널</option><option value="holotape">홀로테이프·홀로디스크</option><option value="document">메모·문서</option>
           </select>
           <button id="reset" class="clear" type="button">필터 초기화</button>
         </div>
-        <p><label><input id="readableOnly" type="checkbox" checked> 본문이 있는 기록만 보기 (한국어·영어)</label></p>
-        <div class="result-line"><span id="resultCount" role="status">목록을 불러오는 중…</span><span>GAME ESM / EXTERNAL INDEX</span></div>
+        <p><label for="language">번역 상태 </label><select id="language" class="type-select" style="width:auto"><option value="ko">한국어 번역</option><option value="complete">한국어 완역</option><option value="partial">일부 번역</option><option value="en">영어 원문만</option><option value="all">모든 언어</option></select></p>
+        <div class="result-line"><span id="resultCount" role="status">목록을 불러오는 중…</span><span>TERMINALS / HOLOTAPES / DOCUMENTS</span></div>
         <div id="cards" class="grid"></div>
         <button id="more" class="clear" type="button" hidden style="width:100%;margin-top:18px">더 많은 기록 보기 ↓</button>
         <p id="empty" class="empty" hidden>일치하는 자료 목록이 없습니다. 필터를 바꿔보세요.</p>
@@ -104,9 +104,9 @@
   (() => {
     "use strict";
     const games=[["all","전체 작품","ALL"],["fo1","폴아웃 1","1997"],["fo2","폴아웃 2","1998"],["fo3","폴아웃 3","2008"],["fnv","뉴 베가스","2010"],["fo4","폴아웃 4","2015"],["fo76","폴아웃 76","2018"],["fot","폴아웃 택틱스","2001"]];
-    const types={terminal:"터미널",holotape:"홀로테이프",holodisk:"홀로디스크",note:"메모",book:"서적·문서",holodisk_note:"홀로디스크·메모 (미분류)"};
+    const types={terminal:"터미널",holotape:"홀로테이프·홀로디스크",document:"메모·문서"};
     const PAGE_SIZE=60;
-    const state={game:"all",type:"all",search:"",readableOnly:true,records:[],limit:PAGE_SIZE};
+    const state={game:"all",type:"all",search:"",language:"ko",records:[],limit:PAGE_SIZE};
     const $=id=>document.getElementById(id);
     const esc=v=>String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
     const gameName=id=>(games.find(g=>g[0]===id)||[])[1]||id;
@@ -115,12 +115,12 @@
     function render(){
       document.querySelectorAll("[data-game]").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.game===state.game)));
       const q=state.search.trim().toLocaleLowerCase();
-      const matches=state.records.filter(r=>(state.game==="all"||r.game===state.game)&&(!state.readableOnly||r.body_ko?.trim()||r.body_en?.trim())&&(state.type==="all"||r.type===state.type)&&[r.title_ko,r.title_en,r.body_ko,r.body_en,r.description,r.source_member,r.editor_id,r.form_id,...(r.series_entries||r.terminal_sections||[]).flatMap(x=>[x.title_en,x.title_ko,x.editor_id,x.form_id]),gameName(r.game),types[r.type]].some(s=>String(s||"").toLocaleLowerCase().includes(q)));
+      const matches=state.records.filter(r=>(state.game==="all"||r.game===state.game)&&(state.language==="all"||state.language==="ko"&&r.body_ko?.trim()||state.language==="complete"&&r.body_ko?.trim()&&r.status!=="partial_translation"||state.language==="partial"&&r.status==="partial_translation"||state.language==="en"&&!r.body_ko?.trim()&&r.body_en?.trim())&&(state.type==="all"||r.type===state.type)&&[r.title_ko,r.title_en,r.body_ko,r.body_en,r.description,r.source_member,r.editor_id,r.form_id,...(r.series_entries||r.terminal_sections||[]).flatMap(x=>[x.title_en,x.title_ko,x.editor_id,x.form_id]),gameName(r.game),types[r.type]].some(s=>String(s||"").toLocaleLowerCase().includes(q)));
       $("resultCount").innerHTML='<strong>'+matches.length+'</strong>개 일치 / 총 '+state.records.length+'개 (표시 '+Math.min(matches.length,state.limit)+'개)';
       $("empty").hidden=matches.length>0;
       $("more").hidden=matches.length<=state.limit;
       $("more").style.display=matches.length>state.limit?"block":"none";
-      wrap.innerHTML=matches.sort((a,b)=>Number(Boolean(b.body_ko))-Number(Boolean(a.body_ko))||(a.title_ko||a.title_en).localeCompare(b.title_ko||b.title_en,"ko")).slice(0,state.limit).map((r,i)=>'<article class="entry"><div class="entry-top"><span class="pill">'+esc(gameName(r.game))+' · '+esc(types[r.type]||r.type)+'</span><span class="entry-num">'+String(i+1).padStart(2,"0")+'</span></div><h3>'+esc(r.title_ko||r.title_en)+'</h3><p class="entry-en">'+esc(r.title_en||"")+'</p><p class="entry-desc">'+esc(r.description)+'</p><div class="entry-foot"><span class="tag">'+esc(r.body_ko?.trim()?'한국어 본문 · 기존 번역':r.body_en?.trim()?'영어 원문':r.level==='collection'?'원문 목차':r.status==='extracted_untranslated'?'ESM 추출 · 본문 검수 전':'전자책 문서 · 미번역')+'</span><button type="button" class="open-detail" data-open="'+esc(r.id)+'" aria-label="'+esc(r.title_ko||r.title_en)+' 상세 보기">기록 읽기 →</button></div></article>').join("");
+      wrap.innerHTML=matches.sort((a,b)=>Number(Boolean(b.body_ko))-Number(Boolean(a.body_ko))||(a.title_ko||a.title_en).localeCompare(b.title_ko||b.title_en,"ko")).slice(0,state.limit).map((r,i)=>'<article class="entry"><div class="entry-top"><span class="pill">'+esc(gameName(r.game))+' · '+esc(types[r.type]||r.type)+'</span><span class="entry-num">'+String(i+1).padStart(2,"0")+'</span></div><h3>'+esc(r.title_ko||r.title_en)+'</h3><p class="entry-en">'+esc(r.title_en||"")+'</p><p class="entry-desc">'+esc(r.description)+'</p><div class="entry-foot"><span class="tag">'+esc(r.status==='partial_translation'?'일부 번역 · '+Math.round(100*r.translation_coverage.matched_words/Math.max(1,r.translation_coverage.total_words))+'%':r.body_ko?.trim()?'한국어 본문':r.body_en?.trim()?'영어 원문':r.level==='collection'?'원문 목차':r.status==='extracted_untranslated'?'ESM 추출 · 본문 검수 전':'전자책 문서 · 미번역')+'</span><button type="button" class="open-detail" data-open="'+esc(r.id)+'" aria-label="'+esc(r.title_ko||r.title_en)+' 상세 보기">기록 읽기 →</button></div></article>').join("");
     }
     let currentRecord=null;
     function showBody(){
@@ -137,8 +137,14 @@
       $("readerLanguage").options[0].disabled=!r.body_ko?.trim();
       $("readerLanguage").options[1].disabled=!r.body_en?.trim();
       $("readerLanguageLabel").hidden=!(r.body_ko||r.body_en);showBody();
-      $("readerMeta").innerHTML='<div><dt>작품</dt><dd>'+esc(gameName(r.game))+'</dd></div><div><dt>종류</dt><dd>'+esc(types[r.type]||r.type)+'</dd></div><div><dt>수록 형태</dt><dd>'+esc(r.body_ko?.trim()?"한국어 본문":r.body_en?.trim()?"영어 원문":r.status==='extracted_untranslated'?"게임 데이터 색인":"외부 목차 링크")+'</dd></div><div><dt>출처</dt><dd>'+esc((r.source_name||"출처 확인 필요")+(r.source_member?" / "+r.source_member:""))+'</dd></div>'+(r.plugin?'<div><dt>플러그인</dt><dd>'+esc(r.plugin)+'</dd></div><div><dt>FormID</dt><dd>'+esc(r.form_id||"")+'</dd></div><div><dt>EditorID</dt><dd>'+esc(r.editor_id||"—")+'</dd></div>':'');
+      $("readerMeta").innerHTML='<div><dt>작품</dt><dd>'+esc(gameName(r.game))+'</dd></div><div><dt>종류</dt><dd>'+esc(types[r.type]||r.type)+'</dd></div><div><dt>수록 형태</dt><dd>'+esc(r.status==="partial_translation"?"일부 한국어 번역":r.body_ko?.trim()?"한국어 본문":r.body_en?.trim()?"영어 원문":r.status==='extracted_untranslated'?"게임 데이터 색인":"외부 목차 링크")+'</dd></div><div><dt>출처</dt><dd>'+esc((r.source_name||"출처 확인 필요")+(r.source_member?" / "+r.source_member:""))+'</dd></div>'+(r.plugin?'<div><dt>플러그인</dt><dd>'+esc(r.plugin)+'</dd></div><div><dt>FormID</dt><dd>'+esc(r.form_id||"")+'</dd></div><div><dt>EditorID</dt><dd>'+esc(r.editor_id||"—")+'</dd></div>':'');
       const link=$("readerSource");const safeUrl=/^https:\/\//.test(r.source_url||"")?r.source_url:null;link.hidden=!safeUrl;if(safeUrl)link.href=safeUrl;link.textContent=/\.epub(?:$|[?#])/i.test(safeUrl||"")?"원본 EPUB 다운로드 ↗":r.level==="collection"?"원문 자료 목록 열기 ↗":"원문 출처 열기 ↗";
+      if(r.translation_coverage){
+        const cv=r.translation_coverage;
+        $("readerMeta").innerHTML+='<div><dt>번역 상태</dt><dd>'+(cv.complete?'본문 전체 번역 연결':'일부 번역 · 원문 단어 기준 '+Math.round(100*cv.matched_words/Math.max(1,cv.total_words))+'%')+'</dd></div>';
+        const dictionaries=[...new Set((r.translation_sources||[]).map(x=>x.dictionary))];
+        $("readerMeta").innerHTML+='<div><dt>번역 출처</dt><dd>'+esc(dictionaries.join(', '))+'</dd></div>';
+      }
       if(r.series_entries){
         $("readerMeta").innerHTML+='<div><dt>연속 기록</dt><dd>'+r.series_entries.length+'편 · 본문에 각 편의 제목과 순서 표시</dd></div>';
       }
@@ -149,10 +155,10 @@
       if(r.translation_source){const t=r.translation_source;$("readerMeta").innerHTML+='<div><dt>번역 출처</dt><dd>'+esc(t.dictionary)+'</dd></div><div><dt>번역 필드</dt><dd>'+esc(t.field+" / "+t.sub_index)+'</dd></div><div><dt>검수 상태</dt><dd>기존 번역 · 아카이브 검수 전</dd></div>';} if(!$("reader").open)$("reader").showModal();$("readerBody").parentElement.scrollTop=0;history.replaceState(null,"",location.pathname+location.search+"#"+encodeURIComponent(id));
     }
     $("games").addEventListener("click",e=>{const b=e.target.closest("[data-game]");if(!b)return;state.game=b.dataset.game;state.limit=PAGE_SIZE;render()});
-    $("readableOnly").addEventListener("change",e=>{state.readableOnly=e.target.checked;state.limit=PAGE_SIZE;render()});
+    $("language").addEventListener("change",e=>{state.language=e.target.value;state.limit=PAGE_SIZE;render()});
     $("type").addEventListener("change",e=>{state.type=e.target.value;state.limit=PAGE_SIZE;render()});
     $("search").addEventListener("input",e=>{state.search=e.target.value;state.limit=PAGE_SIZE;render()});
-    $("reset").addEventListener("click",()=>{state.game="all";state.type="all";state.search="";state.readableOnly=true;$("readableOnly").checked=true;state.limit=PAGE_SIZE;$("type").value="all";$("search").value="";render()});
+    $("reset").addEventListener("click",()=>{state.game="all";state.type="all";state.search="";state.language="ko";$("language").value="ko";state.limit=PAGE_SIZE;$("type").value="all";$("search").value="";render()});
     $("more").addEventListener("click",()=>{state.limit+=PAGE_SIZE;render()});
     wrap.addEventListener("click",e=>{const b=e.target.closest("[data-open]");if(b)openRecord(b.dataset.open)});
     function close(){if($("reader").open)$("reader").close();if(location.hash)history.replaceState(null,"",location.pathname+location.search)}
