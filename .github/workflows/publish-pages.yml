@@ -83,6 +83,11 @@ jobs:
               assert len(list((root/game/'books').rglob('*.md')))==count
           PY
 
+      - name: Verify archive reading controls
+        run: |
+          node --check docs/assets/record-reader.js
+          node tests/test_record_reader.cjs
+
       - name: Verify ESO Korean game-text imports
         run: python3 -m unittest discover -s tests -p test_eso_lang_import.py
 
