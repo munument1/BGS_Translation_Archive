@@ -32,5 +32,6 @@
     "fo3": 1081,
     "fnv": 1608,
     "fo4": 1552
-  }
+  },
+  "scope": "Original 570 translation-link repair and 4,281 pre-FO76 records; subsequent official FO76 addition is reported separately in fo76-import-report.json"
 }

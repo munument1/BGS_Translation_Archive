@@ -1,15 +1,18 @@
 {
-  "records": 4281,
+  "records": 7238,
   "categories": {
-    "holotape": 256,
-    "document": 1952,
-    "terminal": 2073
+    "holotape": 733,
+    "document": 3567,
+    "terminal": 2938
   },
-  "korean_records": 4281,
+  "korean_records": 7238,
   "english_only": 0,
-  "epub_fully_translated": 1079,
   "epub_partly_translated": 0,
-  "holotapes_with_korean": 256,
-  "audit": "completion-audit-report.json",
+  "holotapes_with_korean": 733,
+  "official_fo76_records": 2957,
+  "audit": [
+    "completion-audit-report.json",
+    "fo76-import-report.json"
+  ],
   "scope": "Current published readable records, not a census of all game records"
 }

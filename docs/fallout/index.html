@@ -120,7 +120,7 @@
       $("empty").hidden=matches.length>0;
       $("more").hidden=matches.length<=state.limit;
       $("more").style.display=matches.length>state.limit?"block":"none";
-      wrap.innerHTML=matches.sort((a,b)=>Number(Boolean(b.body_ko))-Number(Boolean(a.body_ko))||(a.title_ko||a.title_en).localeCompare(b.title_ko||b.title_en,"ko")).slice(0,state.limit).map((r,i)=>'<article class="entry"><div class="entry-top"><span class="pill">'+esc(gameName(r.game))+' · '+esc(types[r.type]||r.type)+'</span><span class="entry-num">'+String(i+1).padStart(2,"0")+'</span></div><h3>'+esc(r.title_ko||r.title_en)+'</h3><p class="entry-en">'+esc(r.title_en||"")+'</p><p class="entry-desc">'+esc(r.description)+'</p><div class="entry-foot"><span class="tag">'+esc(r.status==='partial_translation'?'일부 번역 · '+Math.round(100*r.translation_coverage.matched_words/Math.max(1,r.translation_coverage.total_words))+'%':r.body_ko?.trim()?'한국어 본문':r.body_en?.trim()?'영어 원문':r.level==='collection'?'원문 목차':r.status==='extracted_untranslated'?'ESM 추출 · 본문 검수 전':'전자책 문서 · 미번역')+'</span><button type="button" class="open-detail" data-open="'+esc(r.id)+'" aria-label="'+esc(r.title_ko||r.title_en)+' 상세 보기">기록 읽기 →</button></div></article>').join("");
+      wrap.innerHTML=matches.sort((a,b)=>Number(Boolean(b.body_ko))-Number(Boolean(a.body_ko))||(a.title_ko||a.title_en).localeCompare(b.title_ko||b.title_en,"ko")).slice(0,state.limit).map((r,i)=>'<article class="entry"><div class="entry-top"><span class="pill">'+esc(gameName(r.game))+' · '+esc(types[r.type]||r.type)+'</span><span class="entry-num">'+String(i+1).padStart(2,"0")+'</span></div><h3>'+esc(r.title_ko||r.title_en)+'</h3><p class="entry-en">'+esc(r.title_en||"")+'</p><p class="entry-desc">'+esc(r.description)+'</p><div class="entry-foot"><span class="tag">'+esc(r.status==='partial_translation'?'일부 번역 · '+Math.round(100*r.translation_coverage.matched_words/Math.max(1,r.translation_coverage.total_words))+'%':r.official_localization?'공식 한국어':r.body_ko?.trim()?'한국어 본문':r.body_en?.trim()?'영어 원문':r.level==='collection'?'원문 목차':r.status==='extracted_untranslated'?'ESM 추출 · 본문 검수 전':'전자책 문서 · 미번역')+'</span><button type="button" class="open-detail" data-open="'+esc(r.id)+'" aria-label="'+esc(r.title_ko||r.title_en)+' 상세 보기">기록 읽기 →</button></div></article>').join("");
     }
     let currentRecord=null;
     function showBody(){
@@ -145,6 +145,14 @@
         $("readerMeta").innerHTML+='<div><dt>번역 상태</dt><dd>'+(r.editorial_translation?'서고 번역 수록':r.body_version==='existing_game_translation'?'기존 게임 번역 본문 연결':'한국어 본문 수록')+'</dd></div>';
         const dictionaries=[...new Set((r.translation_sources||[]).map(x=>x.dictionary))];
         if(dictionaries.length)$("readerMeta").innerHTML+='<div><dt>번역 출처</dt><dd>'+esc(dictionaries.join(', '))+'</dd></div>';
+      }
+      if(r.official_localization){
+        $("readerMeta").innerHTML+='<div><dt>번역 출처</dt><dd>Fallout 76 공식 한국어 · SeventySix - Localization.ba2</dd></div>';
+        if(r.terminal_page_count)$("readerMeta").innerHTML+='<div><dt>하위 기록</dt><dd>'+r.terminal_page_count+'개 본문 · 연결된 하위 메뉴 포함</dd></div>';
+        if(r.conditional_variants)$("readerMeta").innerHTML+='<div><dt>조건별 문구</dt><dd>게임 조건에 따른 대체 응답을 함께 수록</dd></div>';
+        if(r.language_neutral_payload)$("readerMeta").innerHTML+='<div><dt>본문 표기</dt><dd>암호·숫자·기호는 게임 원본 그대로 표시</dd></div>';
+        if(r.has_runtime_parameters)$("readerMeta").innerHTML+='<div><dt>동적 문구</dt><dd>인물·장소 등 실행 시 치환 변수는 원본 표기 유지</dd></div>';
+        if(r.has_embedded_art)$("readerMeta").innerHTML+='<div><dt>이미지</dt><dd>게임 내 이미지는 텍스트 안내로 표시</dd></div>';
       }
       if(r.body_version==='existing_game_translation'){
         $("readerMeta").innerHTML+='<div><dt>본문 기준</dt><dd>기존 게임 번역 · EPUB 영문은 참조 자료</dd></div>';
@@ -176,6 +184,7 @@
     window.addEventListener("hashchange",()=>{if(location.hash){try{openRecord(decodeURIComponent(location.hash.slice(1)))}catch(_){}}else if($("reader").open)$("reader").close()});
     fetch("./catalog.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("목록 수신 실패");return r.json()}).then(data=>{
       if(!Array.isArray(data.entries))throw new Error("데이터 형식 오류");
+      const requestedGame=new URLSearchParams(location.search).get("game");if(data.entries.some(r=>r.game===requestedGame))state.game=requestedGame;
       state.records=data.entries;$("totalCount").textContent=state.records.length.toLocaleString("ko-KR");
       $("gameCount").textContent=new Set(state.records.map(x=>x.game)).size;
       $("translationCount").textContent=state.records.filter(x=>x.body_ko?.trim()).length;

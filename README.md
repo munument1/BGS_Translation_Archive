@@ -10,7 +10,8 @@
 - [황무지의 기록 — GitHub Pages](https://munument1.github.io/BGS_Translation_Archive/fallout/) — 폴아웃 1·2·3·뉴 베가스·4·76의 터미널 기록·홀로테이프·홀로디스크·메모 색인
 - 폴아웃 3·뉴 베가스·4 공식 본편/DLC의 기존 한글 번역 **7,863개 본문**을 사전 식별자에 따라 연결했습니다. 본문 검색·작품/종류 필터·직접 읽기 링크를 지원하며, 번역 출처와 미검수 상태를 표시합니다. [연결 결과](docs/fallout/translation-link-report.json).
 - [Fallout 아카이브 데이터와 편집 원칙](docs/fallout/README.md) — 게임 ESM 직접 추출, 외부 목차, 자료 구조, 저작권/검수 기준
-- 황무지의 기록은 터미널 / 홀로테이프·홀로디스크 / 메모·문서 4,281개 모두 한국어 본문을 제공합니다. 기존 게임 번역의 연결 오류를 복원했으며, EPUB 영문은 참조 자료로 구분합니다. [검증 결과](docs/fallout/completion-audit-report.json).
+- 황무지의 기록은 터미널 / 홀로테이프·홀로디스크 / 메모·문서 7,238개 모두 한국어 본문을 제공합니다. 기존 게임 번역의 연결 오류를 복원했으며, EPUB 영문은 참조 자료로 구분합니다. [검증 결과](docs/fallout/completion-audit-report.json).
+- 폴아웃 76 설치본의 공식 한국어 메모·문서 1,615개, 홀로테이프 477개, 터미널 865개를 추가했습니다. 하위 메뉴와 40개 연속 기록 묶음을 포함합니다. [원본과 수록 범위](docs/fallout/FO76_SOURCES.md).
 
 ## 스타필드 기록 아카이브
 

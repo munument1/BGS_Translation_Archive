@@ -20,6 +20,8 @@ def candidate(r):
     if r.get('type') not in ('holotape','holodisk','holodisk_note','note','document'):
         return None
     title=r.get('title_en') or ''
+    if r.get('game')=='fo76' and r.get('series_group_key'):
+        return (r['game'],r.get('plugin'),r['series_group_key']),r['series_group_title'],r['series_group_order']
     diary=re.match(r'^(Diary)\s+(\d{1,3}):\s+.+$',title,re.I)
     if diary:
         scope=r.get('plugin') or r.get('dlc_group') or r.get('source_name')

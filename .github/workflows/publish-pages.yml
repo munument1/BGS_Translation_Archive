@@ -86,6 +86,9 @@ jobs:
       - name: Verify ESO Korean game-text imports
         run: python3 -m unittest discover -s tests -p test_eso_lang_import.py
 
+      - name: Verify Fallout 76 official localization imports
+        run: python3 -m unittest discover -s tests -p test_fallout76_import.py
+
       - name: Verify readable Fallout catalog
         run: python3 tools/validate_fallout_catalog.py
 
