@@ -1,759 +1,693 @@
 # The Elder Scrolls Online Journals, Notes & Letters 원문·번역 서적 합본
 
-수록 서적: 2,231건. 영문 원문을 우선 수록했습니다. 미번역 서적의 판본·발췌 여부는 번역 전에 확인하세요.
+수록 서적: 2,232건. 기존 ESO 한국어 게임 본문을 연결했으며 나머지는 확보된 영문으로 제공합니다. 판본·책 ID 연결 범위는 ESO_KOREAN_IMPORT.md를 확인하세요.
 
 ---
 
-## Sphinxmoth Bandit Leader’s Notes
+## 주르가 그라무르타그에게 보내는 편지
 
-ID: ext-e06c9ffae078171c9a34
+ID: ext-a187e5c3e16ae16fa288 / ESO 책 ID: 3000 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-This new group has proven to be extremely loyal. I cannot say how pleased this makes me. Finding loyal recruits who won’t turn on you or run away at the first sign of danger is hard to do these days.  
+줄가에게,  
   
-We’ve found the perfect location for a base of operations: the ruins of Fort Sphinxmoth. One of my men grew up in the region and told us that he and a friend used to explore some caves in the area. After four days of searching we uncovered a large network of underground chambers. This shall make a fine new home.  
+벨카스 아래 이 구멍에서 날마다 보내는 것도 이젠 질렸어. 다시 싸움판에 뛰어들고 싶어, 나 자신을 좀 시험해보고 싶다고. 드래곤스타의 새 투기장이 딱 그거 같더라고. 근데 빅 보스한테 하겠다고 했으니 그냥 나올 수가 없어 — 자기 사람이 말 뒤집는 걸 그 사람이 얼마나 싫어하는지 알잖아. 하지만 대체자만 구하면 허락해줄 것 같아서, 네 생각이 떠올랐어 — 그냥 퍼뜩 떠오른 거야. 줄가는 항상 요새를 벗어나는 걸 꿈꿔왔잖아, 세상도 보고 싶다고. 지금 뭔 생각 하는지 알아, 근데 있잖아 — 늙은 스나르배시가 내일 매머드한테 짓밟혀도, 고드런은 절대 너를 새 사냥 부인으로 맞이하지 않을 거잖아. 그러니까 자매한테 호의 하나만 베풀어줘, 벨카스로 와. 여기 마음에 들 거야.  
   
-I’ve decided to change the name of our little band of outlaws. Muckwater Bandits no longer suits us seeing as we don’t operate out of the Muckwater anymore. And I never really liked Muckwater anyway … sounds more like a tribe of Goblins than a gang of outlaws. From now on we shall call ourselves the Sphinxmoth Bandits. That has a much better ring to it!  
-  
-I’ve set the men to work refurbishing the old traps to protect our underground dwelling. We’ve found this place has many old traps, both mundane and magical. Octavia, who knows the most about magic, has been poking at some of the more unusual ones and trying to figure out how to make them function again.  
-  
-I’ve discovered an ancient vault deep within the ruins. Unfortunately, someone appears to have cleaned it out long ago, but it will make the perfect location for me to store my personal treasures.  
-  
-The deal I’ve made with the Stonefire Cult to rob the Temple of Mara will give us increadible wealth. I don’t know what they want with the Chalice of Mara and I don’t really care. All I know is that it will make me wealthy beyond my wildest dreams.
+—	그라주베샤 그라-무르타그
 
-[출처](https://www.imperial-library.info/content/sphinxmoth-bandit-leaders-notes)
+[출처](https://www.imperial-library.info/content/letter-zurga-gra-murtag)
 
 ---
 
-## Spotted a Cave
+## 주르카의 명령서
 
-ID: ext-c3f2c0a7f96b3f69e2bc
+ID: ext-e4c25cad9250b78b2c07 / ESO 책 ID: 1555 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-I spotted some unusual activity in a cave beyond the graveyard of lost ships to the southeast. I wanted to find out more, but I felt it was more prudent to report in.  
+사촌 주르카에게,  
   
-If I can avoid the roaming skeletons and make it back to the main force, then I can deliver my report to whoever’s in charge of the Fighters Guild forces when I get there.
-
-[출처](https://www.imperial-library.info/content/spotted-cave)
-
----
-
-## Spymaster Ramorgol’s Orders
-
-ID: ext-6d116623edd23ca9fbdd
-
-Ramorgal,  
+마티센의 그 멍청이들은 계속 감시해 두어야 한다. 지금이야 그들의 계획이 아우리돈 너머에 미치지 못하나, 혹여 섬을 손에 넣는 데 성공한다면 골칫거리가 될 수 있다.  
   
-We need to position ourselves around this encampment Jorunn has set up. Bitterblade’s troops will protect the approach to Skuldafn and keep Jorunn’s forces occupied.  
+이 몸은 그대를 믿고 있다. 발톱을 날카로이 갈고 눈을 부릅뜨고 있으라.  
   
-Your job is to reinforce the other side of Jorunn’s encampment. Keep them on edge and set up the potential to box them in. Start getting troops in place, out of range of any archers within the encampment.  
+새로운 낌새가 보이거든 무엇이든 이 몸에게 즉시 알려라.  
   
-Keep an eye on the approach road as well. Let’s make sure that no reinforcements can reach them.  
-  
-— Fildgor
+— 렌-드로
 
-[출처](https://www.imperial-library.info/content/spymaster-ramorgols-orders)
+[출처](https://www.imperial-library.info/content/zurkas-orders)
 
 ---
 
-## Star-Gazer Merith’s Journal
+## 주목할 만한 거래
 
-ID: ext-8d6ff38e379494f949e1
+ID: ext-d0962e1b2fef58159a08 / ESO 책 ID: 1558 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Another night in the wilderness, searching the sky above for any signs of the missing constellations.  
+크린,  
   
-Wait. What’s this? Oh, what a cute, little fox! So lively and playful! I think it wants me to follow it. What fun! And what a smart little creature.  
+지난 몇 주간 가장 주목할 만한 거래 몇 가지를 정리했다. 여기 적지 않은 것들은 우리가 바라던 대로 착착 진행되고 있다.  
   
-Go on, little fox. Lead on and I shall follow!  
+그리고 잊지 말 것 — 사촌에게 그 아이 얘기를 꼭 해줘. 네 밑에서 살아남을 수 있을 거라 왜 그렇게 생각했는지, 난 죽어도 모르겠다. 그에게 남은 것은 티즈리니에게 보냈다. 트롤은 항상 배가 고프니까.  
   
-Oh no! By the stars above, those are very big—
-
-[출처](https://www.imperial-library.info/content/star-gazer-meriths-journal)
-
----
-
-## Statuary Complications
-
-ID: ext-4722a679f1af13858fdc
-
-To Imperial Importers, Purveyors of Exotica:  
+— 듄과 라울카의 사업체들에서 대금이 꾸준히 들어오고 있다. 듄에서 새로 밀어붙인 건이 상당한 돈을 벌어들였다. 아렌티아에서는 전원 철수시켰다. 거기 상황을 어떻게 봐야 할지 아직 모르겠다.  
   
-I request carts to retrieve the statuary you delivered. The gargoyles are indeed fine representations of that race, too fine perhaps. They have attracted the attention, perhaps amorous, of a live gargoyle. The statues must be returned.  
+— 하드란이 넥타르 빵 두 덩이와 자두 브랜디 한 병을 보내왔다. 대금이 밀렸지만 우리 요원 말로는 낼 능력은 있다고 한다. 1~2주 더 놔두는 것을 제안한다.  
   
-My guards are fending off the creature, but it is becoming increasingly irate. I do not know for how long we
+— 이샬가는 완전히 낚였다. 저런 자를 가신으로 두는 게 이렇게 유용할 줄 몰랐는데, 놀랍도록 정보가 많다는 게 증명됐다. 투기장은 술 마시기 좋은 곳인 모양이다.  
+  
+— 저 빌어먹을 독수리단이 스카이워치에서 우리 작전 하나를 날려버렸다. 말리온은 아직 감방 신세는 아니다. 하지만 그 도시와의 관계를 다시 생각해봐야 할 것 같다.  
+  
+— 붉은 태양 산적 안의 우리 요원과 연락이 끊겼다. 솔직히 무슨 일이 벌어진 건지 모르겠지만, 말라발 토르에서 무언가 심상치 않은 상황이 전개되고 있다. 일단 지켜보면서 그쪽에서 연락 오기를 기다리는 것을 제안한다.  
+  
+밝은 달빛을, 보스.  
+  
+— 린피르-조
 
-[출처](https://www.imperial-library.info/content/statuary-complications)
+[출처](https://www.imperial-library.info/content/notable-transactions)
 
 ---
 
-## Stay Far from the Roots
+## 주술사 모라마트의 명령
 
-ID: ext-53380f862a36b82cf652
+ID: ext-f22629907c403e4d769e / ESO 책 ID: 1288 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Reliviel,  
+모라마트,  
   
-Something’s happening beneath the city of Silvenar. I can’t say more, in case this note goes astray.  
+네 쓸모를 증명할 기회다. 요룬의 병력이 북쪽 라모르골의 포위망을 뚫고 빠져나오거나 남쪽 관문으로 몰래 새어 나가거든, 그놈들을 막는 건 네 몫이다.  
   
-Don’t wander the ravine, and stay far from the roots. You can’t disappear the way our parents did! Keep safe!  
+그리고 저 벌목 야영지에서 무슨 일이 벌어지고 있는지 모르겠지만, 그쪽에서 불시의 변고가 닥치는 건 사양이다. 네 마법사 몇을 그리로 보내, 그 상황을 우리에게 유리하게 써먹을 수 있을지, 아니면 골칫거리가 될지 알아보게 하라. 십중팔구 가만히 내버려 두는 게 상책이겠지만, 그 판단은 네게 맡긴다.  
   
-Your Devoted Sister,  
-  
-Huurenarth
+— 필드고어
 
-[출처](https://www.imperial-library.info/content/stay-far-roots)
+[출처](https://www.imperial-library.info/content/shaman-moramats-orders)
 
 ---
 
-## Stealing the Stars
+## 주의가 흩어진 적
 
-ID: ext-dc21c42611ed22443a00
+ID: ext-1a9275a72632954fe787 / ESO 책 ID: 1870 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Knocking down the stars we need is a delicate process. You’ll have to be careful. These memories are almost impossible to tell apart, and I don’t want us to be running around the halls trying to find the ones we need. It’ll take patience and precision, something I know that many of our members lack.  
+직스는 주인의 군세에 받아들이기에는 너무도 무질서하고 종잡을 수 없는 존재이며, 그대로 풀어두기에는 그 힘이 지나치게 강대하다. 허나 그럼에도 쓸모가 있을지 모른다.   
   
-Remember that She does not tolerate failure well.
-
-[출처](https://www.imperial-library.info/content/stealing-stars)
-
----
-
-## Stibbons’ Qharroa Checklist
-
-ID: ext-9684e4de568322817477
-
-1. Find a shaded pool suitable for chilling Madame’s refreshing libations.  
+직스는 에일리드 마법으로 이 유적에 결박되어 있으며, 그 속박 주문의 초점을 이루는 것은 단 하나의 웰킨드석이다. 나는 인근 고블린 부족 가운데 한 곳의 사제에게, 이 돌의 조각으로 토템을 만드는 법을 일러 보였다. 조각에 깃든 힘만으로도 빛의 향연을 펼치기에는 충분하며, 그 단순한 존재들이 숭배의 대상으로 삼기에는 그것으로 족하다.   
   
-2. Remove the intrusive sand from betwixt the bristles of Madame’s suede brush.  
-  
-3. Read an improving book about Madame’s current endeavors—perhaps that one about the “Mystery of Gargoyles” that was recommended by the haberdasher in Hallin’s Stand.  
-  
-4. Remind Madame when she complains of the desert sun that she has an ample selection of parasols in the miscellany trunk.  
-  
-5. Test the efficacy of the scorpion antivenin purchased in Wayrest by enticing a very small member of the species to sting oneself in a non-vital area.  
-  
-6. Write a chastening letter to the purveyor of Grobart’s Perdurable Expedition Garb expressing Her Ladyship’s extreme disappointment with the visible wear upon her Guaranteed Impervious Wamasu-Hide Tunic-and-Breeches Ensemble.  
-  
-7. Surreptitiously check our guide’s knucklebones for evidence of tampering—his luck at play is truly beyond the credible.
+실상 그 토템들은 속박 주문을 유지하되 서서히 약화시킬 것이다. 직스는 우리를 위협하지 못하면서도, 브레튼의 주의를 흩어 놓기에 꼭 알맞은 힘을 지니게 되리라. 그리고 주의가 흩어진 적은 곧 약해진 적이나 다름없다.
 
-[출처](https://www.imperial-library.info/content/stibbons-qharroa-checklist)
+[출처](https://www.imperial-library.info/content/distracted-enemy-2)
 
 ---
 
-## Stibbons’s To-Do List
+## 주의가 흩어진 적
 
-ID: ext-6d0ff80ae37730867a11
+ID: ext-3370dc2a0126f97c9f62 / ESO 책 ID: 1870 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-– Organize gear in alphabetical order  
-– Categorize foodstuffs according to nutritional value  
-– Prepare breakfast of bread, cheese, and dried fruit  
-– Warm myself by the fire  
-– Wash and dry m’lady’s unmentionables  
-– Make sure there are ample bottles of alcohol  
-– Drink one of the ample bottles of alcohol  
-– Sweep snow out of the camp  
-– Prepare supper of fish stew for the camp  
-– Try to get m’lady to eat some vegetables  
-– Melt the ice from m’lady’s unmentionables  
-– Make sure fires burn hot (it’s so cold here!)  
-– Discuss historical discrepancies with Kharsthun  
-– Proofread m’lady’s report to the museum  
-– Organize m’lady’s combs and brushes, in size order  
-– Fluff m’lady’s travel pillow and turn down her bedroll  
-– Leave a candied nut on m’lady’s fluffed pillow  
-– Write out tomorrow’s list of things to do
+직스는 주인의 군세에 받아들이기에는 너무도 무질서하고 종잡을 수 없는 존재이며, 그대로 풀어두기에는 그 힘이 지나치게 강대하다. 허나 그럼에도 쓸모가 있을지 모른다.   
+  
+직스는 에일리드 마법으로 이 유적에 결박되어 있으며, 그 속박 주문의 초점을 이루는 것은 단 하나의 웰킨드석이다. 나는 인근 고블린 부족 가운데 한 곳의 사제에게, 이 돌의 조각으로 토템을 만드는 법을 일러 보였다. 조각에 깃든 힘만으로도 빛의 향연을 펼치기에는 충분하며, 그 단순한 존재들이 숭배의 대상으로 삼기에는 그것으로 족하다.   
+  
+실상 그 토템들은 속박 주문을 유지하되 서서히 약화시킬 것이다. 직스는 우리를 위협하지 못하면서도, 브레튼의 주의를 흩어 놓기에 꼭 알맞은 힘을 지니게 되리라. 그리고 주의가 흩어진 적은 곧 약해진 적이나 다름없다.
 
-[출처](https://www.imperial-library.info/content/stibbonss-do-list)
+[출처](https://www.imperial-library.info/content/distracted-enemy)
 
 ---
 
-## Still-Water’s Journal
+## 주점주인에게 남기는 쪽지
 
-ID: ext-b8ca8295682a85266cac
+ID: ext-feb625263385377c4c95 / ESO 책 ID: 1878 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Can’t put it off any longer. Drashi’s right. We need to head inland. Deshaan, maybe down into the swamps of my homeland. Too much ash in the air. Sounds of combat on the horizon. The Three Banners have come to Stonefalls, and there’s no place for independents like us. Shame, too. I liked this place.  
+주점주인에게,  
   
-– – – – – – – – – – – – – – – –  
+내 몫은 다 했다. 어젯밤 이 가게는 손님으로 꽉 찼지. 다들 마셔댔고 당신은 한몫 단단히 챙겼으니, 보수도 전액 받아야겠다. 나는 얼마 전 만난 여자네 집에 묵을 참이다. 그녀가 "<<1>>"라는 곳 바로 북쪽에 오두막을 갖고 있거든. 처음엔 그게 당신네 에일 이름인 줄로만 알았지.  
   
-Shuldrashi and I have a good thing going in the Ashlands. Always some nasty piece of work crawling out from behind the mushrooms. Or crawling up from a volcano’s vent. She deals with the House Dunmer. I talk to the Ashlanders. We’re making good coin, and going where we want. Hope this lasts.  
+돈은 산뜻바람 오두막으로 보내라. 안 그러면 당신 가게에선 두 번 다시 연주하지 않을 테니.  
   
-– – – – – – – – – – – – – – – –  
-  
-The wilds suit me just fine. But then, they seem to suit her as well. Never thought I’d take on a Dark Elf as a partner. But she seems to respect me. Shuldrashi doesn’t ask questions. Doesn’t give orders. Just does her job. Some days we go hours without talking. She’s like the wind, in that way.  
-  
-– – – – – – – – – – – – – – – –  
-  
-It’s been years since I escaped from under the yoke of House Dres. And still my scar hurts. That day I learned what I was worth to my master, what I was worth to a Dark Elf. I would listen to the wind at night, hoping against hope it would carry me away.  
-  
-The day I made my escape, I took the dagger. The one he cut me with. As long as I live, it will be my reminder. Can’t allow myself to forget.
+— 재능 있는 소리온
 
-[출처](https://www.imperial-library.info/content/still-waters-journal)
+[출처](https://www.imperial-library.info/content/note-barkeep)
 
 ---
 
-## Stitching Flesh
+## 죽은 검도생의 기록
 
-ID: ext-85b5c2afd77e717eb90d
+ID: ext-458004d57f1fec61f510 / ESO 책 ID: 2383 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Stitching Flesh, Part 1  
+도무지 이해할 수가 없다. 놈은 학생으로서 우리에게 왔다. 마지막 시련까지 통과하더니, 우리 나머지가 손쓸 힘도 없이 지켜보는 가운데 사부를 죽였다.  
   
-3rd of Rain’s Hand  
+놈은 대체 어떻게 우리를 이토록 휘어잡는 것인가? 무슨 술책이 분명하다. 어쩌면 일종의 독이리라. 아무도 모르게 학교 전체에 퍼져, 제자가 제자에게 등을 돌리게 만드는 그런 독.  
   
-“There is no such thing as life and death; there is only flesh and fluid.”  
+사부는 숨을 거두며, 날의 수도원에 있는 카수라에게 소식을 전하라고 우리에게 이르셨다. 나는 달아나려 했으나, 다른 이들이 내 길을 막아섰다. 내가 담장 너머에 이르기도 전에 그들은 나를 죽일 것이다.  
   
-Today we begin our work, dissecting corpses from the Imperial Prisons. My master insists that samples be taken from each. I’m to begin with the eyeballs, and then proceed to cutting off chunks of back-fat for further examination.  
+누구든 이 글을 발견하거든, 부디 발길을 돌리라. 이곳을 떠나 다른 이들에게 경고하라. 할 수 있다면 카수라에게 전하라, 라니'자의 검술 학교가 무너졌다고.  
   
-26th of Rain’s Hand  
-  
-“Day in and day out, the flesh weakens or becomes diseased, and eventually it loses its ability to contain and channel fluids. At this point, it becomes necrotic ….”  
-  
-My master feels we’ve made a landmark discovery. It seems that what we consider to be dead flesh has merely become more porous. The implication is that if we could restore the impermeability of the tissue, the possibilities are endless ….  
-  
-1st of Second Seed  
-  
-“Do you see? This tissue has vascularity. It’s been restored ….”  
-  
-My master has begun dissecting the soggy remains of a Ra-Netu that was shipped here from Sentinel just for her. It looks like a zombie to me. She believes this specimen may give us the answers we seek ….  
-  
-Stitching Flesh, Part 2  
-  
-6th of Second Seed  
-  
-“The study of necrotic flesh has yielded few revelations, but the mechanisms of undeath hold great promise ….”  
-  
-Our efforts to restore the tissue’s vascular integrity have come to naught, but Master Shadakul is unwilling to give up. We’ve been working without sleep for days, but she believes we’re close ….  
-  
-17th of Mid Year  
-  
-“Sacks. Necrotic sacks. The Flesh Colossi have the secrets that we seek.”  
-  
-Hordes of Daedra and undead have descended upon the city, and my master says this is our opportunity. Gods help us, we’re going to the Arboretum District.  
-  
-Apprentice Veriasa
+나로 말하자면, 여기 남아 나를 기다리는 것을 견디느니 차라리 죽음이 낫다….
 
-[출처](https://www.imperial-library.info/content/stitching-flesh)
+[출처](https://www.imperial-library.info/content/dead-sword-disciples-note)
 
 ---
 
-## Stonefire Ritual Tome
+## 죽은 자의 손에 든 쪽지
 
-ID: ext-d0d9af85dc6b494d9492
+ID: ext-87c1dd9a332e58431f06 / ESO 책 ID: 1175 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-The God of Schemes blesses us. The Lord of Brutality strengthens us. The Harvester of Souls grants us everlasting power. Mortal hosts cannot stand against us.  
+날쌘 토믹에게,   
   
-The ritual of summoning shall lend us unlimited servants for our domination. Our faith in Molag Bal gives us control over them. We are his chosen servants; his select among a favored few. Our slaves shall bow down before us. They will make our desires their reality.  
-  
-The Daedra are but vessels for our corruption. We shall fill them to bursting and set them free upon the world.
+발이 가장 가벼운 건 자네지. 오늘 밤, 웅덩이의 둥지에서 드레그 알을 가능한 한 많이 훔쳐다가 드레그사이드의 병영으로 가져오게.
 
-[출처](https://www.imperial-library.info/content/stonefire-ritual-tome)
+[출처](https://www.imperial-library.info/content/note-dead-mans-hand)
 
 ---
 
-## Storm Coming In
+## 죽음은 웃어넘길 일이 아니다
 
-ID: ext-f32da48a31d82902a812
+ID: ext-0adc5cb49bd846578c29 / ESO 책 ID: 4918 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Coxswain Belvild does not approve of this strategy, but what else can we do? If we are to outrun this storm and survive, we must be as light as possible. This crate of dried snow truffles weighs us down. Besides, I studied the charts. If we dump the crate now, the ocean will moor it on the beach not far from our destination.  
-  
-Should anyone find this note, know that this crate belongs to Captain Genevé Delitian and her crew. There’s ale to spare if you save her a trip and bring this lost cargo to the inn at the Nord village on the northwestern side of the island.  
-  
-Of course, you could just take this crate for yourself. But then you wouldn’t know the terrible fate your actions bring about. There will be no end to the suffering caused by your hands. All for some mushrooms from the Throat of the World.
+장난삼아 스키버의 영혼을 센치 호랑이 시신에 옭아매고는 매머드 시신 속을 파고들게 한 작자에게. 네놈을 찾아내면, 바로 이놈을 시켜 너를 갈가리 물어뜯게 해주마.
 
-[출처](https://www.imperial-library.info/content/storm-coming-in)
+[출처](https://www.imperial-library.info/content/death-no-laughing-matter)
 
 ---
 
-## Storm Getting Closer
+## 죽음을 앞둔 우리는
 
-ID: ext-8dd902fc39e04cd05e6d
+ID: ext-20b4dfc0b638210c34e3 / ESO 책 ID: 2743 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-I never saw clouds as dark as these. Or heard the wind howl so loudly. Coxswain Belvild says there’s no avoiding this storm. If we don’t sail fast enough, we’re dead. If this contract falls through, I’m as good as dead. If I make a bad decision, the crew will turn on me and I’ll be dead. Cheery thoughts, I know.  
+"죽음을 앞둔 우리는—"  
   
-I have a plan. A way to make it to shore and fulfill the contract. These volcanic pearls will have more luck staying intact in the sea than they will aboard a rolling ship. Once we make it to the northwestern side of the island and the village of Shor’s Stand, I’ll send my crew after them. If they make it to land, we’ll find them. Or, if someone else finds them first, bring the pearls to us. We know how to strike a bargain that’s worth your while.  
+아니, 너무 직설적이야. 너무 음울해. 그렇다면 이건 어떨까…….  
   
-Captain Genevé Delitian
-
-[출처](https://www.imperial-library.info/content/storm-getting-closer)
-
----
-
-## Stormfist Scout Orders
-
-ID: ext-58cd303446f0810d4eb1
-
-Stormfist Scouts:  
+"전장으로 진군하려는 우리는—"  
   
-The eminent and highborn Fildgor Orcthane has forged this alliance of Stormfist Nords and Eastmarch Orcs. He asks but one thing from you for this mission: watch the giants! Use the trees to spy upon the brutes. When the opportunity presents itself, attempt to ambush a lone giant. Strike quickly from hiding and retreat. Under no circumstances should you engage in an ongoing battle with the big bastards. That’s a fight you can’t win.  
+아니, 아니야. 너무 신파조잖아. 내 회고록의 첫 구절은 입에 착 감기고, 머릿속에 남으며, 절로 다음 장을 넘기고 싶게 만드는 것이어야 해. 어디 보자…….  
   
-You saw what remained of Scout Lagrulk after they hurled him back over the wall. What a mess! Don’t end up like Scout Lagrulk. That’s an order!  
+"리븐스파이어에서 온 한 전사가 있었으니, 불타는 검을 들고 드래곤스타 투기장에 이르렀더라—"  
   
-— Lob the Cleaver
+이거야말로 첫 구절감이지! 게다가 운율까지 맞는다고! 우리가 투기장에 들어설 차례가 되기 전까지 이걸 얼마나 쓸 수 있으려나? 아, 서두를 게 뭐 있나? 이기고 나서 마저 쓰면 그만인 것을.
 
-[출처](https://www.imperial-library.info/content/stormfist-scout-orders)
+[출처](https://www.imperial-library.info/content/we-who-are-about-die)
 
 ---
 
-## Stormhaven Bluster Rejection Notice
+## 죽음의 사냥이 기다린다
 
-ID: ext-ac4902012058cce0e137
+ID: ext-a0c56bd5a3a51d1bad45 / ESO 책 ID: 5299 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Dear Applicant,  
+오젤이여. 이번 계절에는 줄-모타, 곧 죽음의 사냥감이 넘쳐난다. 우리 전사들이 모두 처치하기도 전에 덩굴에서 시들어갈 정도다. 우리 나가-쿠어는 그대들 가운데 용감한 자들에게 우리와 함께할 것을 청한다.  
   
-We at the Stormhaven Bluster regret to inform you that we must reject your recent submission for an advertisement in our widely-distributed broadsheet. Though we respect your desire to promote your organization, we took issue with some of your word choices and felt they were not appropriate for our audience.  
-  
-The headlines “GOLD FOR BLOOD” and “START A CAREER IN KILLING” were simply too extreme for our pages. Additionally, the appeal to individuals who “take any job and don’t ask questions” might compromise our reputation as an upstanding publication.  
-  
-We are happy to either return your fee or accept a new submission that is more appropriate. Please see our recent edition’s notice from The Iron Heels, another group similar to your mercenary organization, for an example of the kind of promotions with which we are more comfortable.  
-  
-Regards,  
-  
-The Stormhaven Bluster Editorial Staff
+죽음이 두렵지 않다면, 릴모스에서 볼루가 그대를 기다리고 있으리라.
 
-[출처](https://www.imperial-library.info/content/stormhaven-bluster-rejection-notice)
+[출처](https://www.imperial-library.info/content/death-hunts-await)
 
 ---
 
-## Stormreeve Neidir’s Orders
+## 죽음의 운반자 명령서
 
-ID: ext-9f6fa05801f4c143a9d3
+ID: ext-95680eeeea52d15bfc7d / ESO 책 ID: 1652 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Commander,  
-  
-Our ritual on Tempest Island is progressing as planned. We need the denizens of Tamriel distracted so that our plan can come to fruition. This task falls to you, for you do it best. Attack, raid, and pillage as you see fit. Scatter our enemies, and leave them in disarray.  
-  
-When our spell is complete, and we’ve crushed the kingdoms of Tamriel, you will be remembered for your sacrifice and your body returned to the sea of eternal slumber.  
-  
-— Stormreeve Neidir
+고뇌의 보석을 지켜라. 그것이 너의 으뜸가는 임무다. 아니, 그것이 너의 유일한 임무다. 마지막 영혼까지 모두 소진되거든, 약탈자의 시타델로 기별을 넣어라. 그리하면 보석을 거두어 갈 자를 보내겠다.
 
-[출처](https://www.imperial-library.info/content/stormreeve-neidirs-orders)
+[출처](https://www.imperial-library.info/content/deathbringer-orders)
 
 ---
 
-## Strange Rambling Notes
+## 준장의 일기
 
-ID: ext-b8c0af6834313833201d
+ID: ext-1e5da52e5770acec5923 / ESO 책 ID: 6946 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-No, no, no! This isn’t working. Must begin again. I will hit on it eventually. I know it.  
+우리는 십 년이 넘도록 아베시안 해를 공포에 떨게 했건만, 이 분별없는 배은망덕한 자들은 우리가 수에서 조금 밀린다고 등뼈가 빠진 듯 굴고 있다. 그들은 "기적이 필요하다"고 말한다. 좋다, 기적을 내려주마. 정녕 그리하겠다. 이 드루이드의 장신구들에는 힘이 깃들어 있다. 나는 그들의 오래되고 잊힌 언어는 말하지 못하나, 이 서적이 그 답을 품고 있음을 깨달을 만큼은 마법의 언어를 알고 있다.  
   
-Too much silver, it seems. Need something less shimmery. The glow is too intense, can’t focus.  
-  
-Aha, yes, I’m brilliant! Not that I didn’t know that already.  
-  
-Yes, yes! Now I can feel them. The creatures’ clever minds. I can sense them as they stalk their prey, as they compete for mates. Soon I will understand them truly and be their master!  
-  
-Trouble. Very serious trouble. All was going well. I had established a pack. I was their leader. They respected me. Then I ran out of steaks. They look to me now, as before, but there is a glint of hunger in their eyes.
+심해의 드루이드들은 비할 데 없는 힘을 불러냈다고 한다. 내가 헤아리건대 그것은 사실이다. 이 서적 안에는 내 함대를 무적으로 만들 의식이 담겨 있다. 주문이 유지되고 우상들이 온전한 한, 우리 선원들은 결코 진정으로 죽지 않으리라. 우리는 저 웨이레스트의 반지나 핥는 아첨꾼들이, 우리가 마땅한 몫을 챙겼다고 우리를 벌할 수 있으리라 여긴 그날을 뼈저리게 후회하게 만들 것이다.
 
-[출처](https://www.imperial-library.info/content/strange-rambling-noises)
+[출처](https://www.imperial-library.info/content/commodores-diary)
 
 ---
 
-## Sul-Xan Note
+## 줄-투시스
 
-ID: ext-b5a79b9f9aa8e701a18d
+ID: ext-a01b9b8bd867cd192640 / ESO 책 ID: 5377 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-The idol thirsts. Its face turns upward with a thousand wanting mouths and it begs.  
+여기서 탈출해야 한다. 이 장소에 남느니 차라리 릴모스에서 배를 밀항해 빠져나가는 위험을 무릅쓰겠어.   
   
-It is from a time long ago, a time forgotten. But it will serve us well. It is ours to take and to feed. It will need many to become full and bring forth the spirit of destruction. The spirit will burn fields and fill the swamps with blood. It will sow chaos wherever it touches, so long as we are able to bring it here. But the idol remains so very hungry. We need more bodies for the rituals.  
+윕테일이 며칠 전에 우리더러 벽을 허물게 했다. 건너편은 아르고니안 시신들로 가득 차 있었어. 그 자는 우리를 안으로 들여보내 시신들 사이를 뒤져 무엇과 함께 묻혀 있는지 확인하게 했다. 전에도 습지에서 무덤을 털어본 적이 있었지만, 이번엔 달랐어. 그 안에서 뭔가 느껴졌다. 시신 하나를 옮기는 순간 이미 알았어—탈출하지 않으면 여기서 죽는다는 걸.  
   
-Does the spirit enjoy their screams? We will make many more.  
+이제는 네 말을 믿어. 뭔가 보인다고 했었잖아. 소리도 들린다고. 나도 그렇게 되기 시작했어.  
   
-The idol will drink and drink until the spirit arrives.
+아르고니안들이 홀을 걸어 다니는 게 보였어. 자기 동족을 제물로 바치는 것도. 제물이 된 자들은 두려워하지 않았어, 기꺼이 따르는 것처럼 보였어. 온통 고요했지. 그게 무서웠어. 사실 그들이 거기 있을 리 없다는 걸 알면서도. 마치 다른 세계의 메아리 같았어.  
+  
+윕테일은 멈출 생각이 없어. 더 원하고 있어. 시디스의 축복을 받은 고대 무기가 여기 숨겨져 있다고 확신하고 있거든. 그 자는 그렇게 말해. 나는 이 장소 전체가 저주받았다고 생각해.  
+  
+나는 도망칠 거야. 너도 나가고 싶다는 거 알아. 함께 갈 생각이라면, 오늘 자정에 우리가 카산드라를 위해 마련해둔 방으로 와. 이 두루마리는 읽은 뒤 불태워. 윕테일한테 들키는 위험은 무릅쓸 수 없어. 우리 둘 다 죽이고 말 거야.  
+  
+M
 
-[출처](https://www.imperial-library.info/content/sul-xan-note)
-
----
-
-## Sul-Xan Ritual Site
-
-ID: ext-726d273941120cda5122
-
-From the journal of Brigadine Salviticus, member of the Ivory Brigade.  
-  
-ENTRY ONE  
-  
-I’ve been tasked with observing the Sul-Xan and reporting on their activities. Despite the threat they pose to Leyawiin and the rest of Blackwood, we know relatively little about this tribe of Argonian Nagas. It is far too dangerous to interact with these Nagas directly, and we are forbidden to try to negotiate with them. Others have attempted and lost their lives just by saying a greeting. nnMy job is to observe a specific group of Sul-Xan. This particular subset is quite mobile, which is different from the behavior we’ve come to expect of this tribe. With this journal, I will transcribe what I discover as I follow them. Hopefully, I can observe enough from a safe distance.  
-  
-ENTRY TWO  
-  
-This group of Sul-Xan have traveled much farther than I expected. They’ve prowled to the north, curiously stopping at small villages and outposts along the way. The Sul-Xan who appear to oversee the others speak extensively after these brief stops, but I’m never close enough to hear what they’re talking about.  
-  
-ENTRY THREE  
-  
-A few of the Sul-Xan split off from the rest of the group. They took victims from a town nearby and headed south with them. I wanted to help, but I am severely outnumbered here. The best I can do is gather more information. If I can find out what exactly it is that they’re doing, perhaps the Ivory Brigade can put a stop to it.  
-  
-ENTRY FOUR  
-  
-This group of Sul-Xan definitely appears to be a hunting party. In addition to hunting animals for food and other uses, they also seem to be ranging far from their territory in the south to acquire more prisoners. I’ve heard they use these captured unfortunates as sacrifices, but I haven’t seen such activity firsthand.  
-  
-I followed one group. led by a swamp mystic by the name of Veesha, to an old ruin on the shore of Lake Blackwood, to the northwest of Gideon. At least four spellcasters from the tribe set about performing some sort of ritual. I have no idea why they have chosen this remote location so far from their own lands, or even any clue as to the purpose of the ritual. All I can tell you is that it seems wrong somehow. Dangerous. Evil, even.  
-  
-For now, I’m going to leave this place and report back to Leyawiin. I believe Captain Rian will be interested in my findings.
-
-[출처](https://www.imperial-library.info/content/sul-xan-ritual-site)
+[출처](https://www.imperial-library.info/content/xul-thuxis)
 
 ---
 
-## Summons of the Inquisition
+## 줄리언의 기록
 
-ID: ext-b3d9e43fe3b5d21a9c1c
+ID: ext-04d6a1439fef798a2dcc / ESO 책 ID: 8202 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-High Cantor Viti,  
+날리아에게,  
   
-The Inquisition of the Torval Curiata has decreed that you shall deliver testimony on the following matters before Grand Inquisitor Arsalan and a council of clergy:  
+메모 목록을 만들어두라고 하셨으니 몇 가지 적어놨어요. 이 스콜라리움에서 내가 도무지 마음에 들지 않는 것들이에요.  
   
-1) The relationship between you and your charge, Krin’ze of the Twilight Cantors, and her connection to the heretics, Zerith-var and [Player Name].  
-  
-2) The failure of Twilight Cantors to mitigate the spread of dark spirits identified as Rajaska, and the death of Inquisitors ordered to assist in this endeavor.  
-  
-An Inquisition escort has been dispatched to ensure your immediate compliance.  
-  
-In the name of the Riddle’Thar.
+- 오래된 책 냄새. 낭만적으로 받아들이는 사람도 있지만 저는 그게 그냥 곰팡이 먼지라는 걸 알아요. 알레르기에 바로 직격탄이거든요. 이 고대 서적들을 분석한다는 건, 내가 사랑하는 것들의 잔존 흔적에 영원히 황폐한 꼴을 당한다는 뜻이에요.  
+- 책을 훼손하는 자들. 아무리 복슬복슬하고 친절하고 귀여워도요. 뭐, 여우는 그렇게 나쁘진 않지만요.  
+- 본인들이 꽤 재미있다고 생각하는 것 같은 고대 마법 존재들의 장난. 재미없어요, 확언하건대.  
+- 쑥 치고 들어와서 새로운 형태의 마법을 발견했다는 영광을 가로채는 침입자들. 나라도 충분히 했을 텐데.  
+- 수수께끼! 우리가 뭐예요, 어린애들인가요? 똑똑. 누구세요? 잠깐, 됐어요. 알 바 아니니 이제 두루마리나 보러 갈게요.
 
-[출처](https://www.imperial-library.info/content/summons-of-the-inquisition)
+[출처](https://www.imperial-library.info/content/julian-notes)
 
 ---
 
-## Summons to Deadlight
+## 중개인 룰루엘레의 보고서
 
-ID: ext-faf76192a6121c490fae
+ID: ext-b5a0a33de5fe193f5f62 / ESO 책 ID: 1103 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Brothers and sisters in the Waking Flame,  
+「속삭이는 굴」호로 센티넬에서 도착:  
   
-The Citadel of Deadlight has served us well as temple, novitiate, and headquarters. Our lord, Mehrunes Dagon, saw fit to visit his blessed destruction upon this unfortunate plane, and he gave Deadlight into our keeping as a sign of his favor.  
+—	석류 와인 통 세 개  
+—	산 육포 나무상자 넷; 한 상자 손상, 부패 심각  
+—	나무상자 둘 —  
   
-The time has come for Deadlight to serve its final purpose as an impregnable retreat where we can prepare for victory. Hidden within this secluded realm, we will bring our lord’s Incarnates to life—not just one living disaster, but an army of them.  
+아, 이게 다 무슨 소용이야? 열흘 만에 들어온 유일한 선적인데, 그걸 팔 수 있는 곳으로 보낼 캐러벌이 있다 해도 골드 드레이크 스무 닢어치도 안 되겠는걸. 뜨는 것이란 죄다 전쟁 때문에 "징발"됐고, 배가 있다 한들 군수품도 못 구해—줄도, 피치도, 목재도, 돛감도 어떤 돈을 줘도 없어. 지금은 온통 "대거폴 동맹을 위한 무기!"야. 솔직히 말하자. 이 전쟁이 곧 끝나지 않으면 우리는 난파된 거나 다름없어.  
   
-We must now make Deadlight a fortress without a door. The portals leading to other bases and realms are to be severed, save one: the Western Gate on the river of lava beyond the Blood Pit. This portal will remain open, secured by key and cipher so that those who can join us in Deadlight can complete the journey.  
+아들 뒤랑이 아직 곁에 있었더라면 좀 나았겠지만, 그 녀석은 도망쳐서 원초 메네비안 척후병대에 입대해 버렸고, 그 없는 집은 텅 비어 있어. 에이, 데이드라나 가져가라—이 통들 중 하나를 열어서 내용물이나 맛볼 거야. 같이하고 싶으면 왼쪽 두 번째 빈 창고에 있을게.  
   
-Until we seal the gate, it will be guarded by a potent ward against Daedric beings. We can no longer trust others who serve our lord, Mehrunes Dagon. They are jealous of our success and will displace us if we allow them to. With or without a portal key, they shall be shut out.  
-  
-Come to Deadlight, my brothers and sisters. Our final task is at hand.  
-  
-Sister Celdina
+—	라셰리
 
-[출처](https://www.imperial-library.info/content/summons-deadlight)
+[출처](https://www.imperial-library.info/content/factor-luluelles-report)
 
 ---
 
-## Summons to the Remnant
+## 중요한 건 사냥이다
 
-ID: ext-6fe7153e385647f077a1
+ID: ext-f5a25cd540eca6864bb0 / ESO 책 ID: 1844 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-To the faithful of the order who still linger in the shadows.  
+수년 사이 벌써 네 번째 희생자다! 더 찾아 나서야겠다. 지금까지는 손쉬운 사냥감뿐이었다. 가진 건 변변찮지만, 그딴 건 상관없다. 중요한 건 사냥이니까.  
   
-Our time rises once more. Events unfold far from here that shall resurrect the glorious Order of the Black Worm. Its power shall grow a hundredfold in the days that follow. We must come together now.  
+기념품 하나만 챙겨 두고, 나머지는 팔아치운 뒤, 다음 희생자에게로.  
   
-Gather all still loyal to our cause and purpose. Join us in the Worm Nest on the northern coast of Rivenspire. You can enter the lair through the cove south of the lighthouse.  
-  
-We will take our well-deserved revenge on the Fighters Guild, the Mages Guild, and all of Tamriel! For the Worm King!
+블라스타루스의 마리투스 블라시오, 브루마의 디비스 도르바인, 코롤의 에니데 게타, 크롭스포드의 바라나 스케바. 명단은 해마다 길어진다.
 
-[출처](https://www.imperial-library.info/content/summons-to-the-remnant)
+[출처](https://www.imperial-library.info/content/its-hunt-counts)
 
 ---
 
-## Sun-in-Shadow’s To Do List
+## 쥘 로르동의 편지
 
-ID: ext-1ef599dc0319cd95e2d5
+ID: ext-3d882b279998c55aff02 / ESO 책 ID: 7105 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-To do:  
+사랑하는 키브에게,  
   
-Send a note to Magister Therana, offer services  
+빨리 다시 보고 싶어. 마지막으로 만났을 때 약속한 대로 네게 딱 어울리는 목걸이를 찾아냈거든. 꽤 우아한 루비야. 붉은색은 정말 네 색깔 같아. 우리의 결속을 굳히기 위해서. 네가 준 골드 펜던트는 매일 심장 가까이 두고 다니고 있어. 네가 말한 대로 단순한 물건이라고 걱정했었지만, 내가 가진 다른 비싼 장신구들보다 훨씬 더 소중히 여기고 있어.  
   
-Distill remaining nightshade and store  
+네가 웨이레스트로 돌아왔을 때 내가 집에 없으면 시장을 찾아봐. 아니면 물론 디바인 신전에 있을 수도 있고.  
   
-Place order at alchemists—do not need scathecraw right now  
+그때 한 말은 진심이야. 우리 사이의 재산 차이는 나한테 아무 상관 없어. 열심히 일하고, 여행하고, 노력하는 네 모습이 눈에 들어오는걸! 그리고 이번에는 시스트레스 군도에서 온 유명한 무역 회사의 첩보원으로 일하게 됐다고? 네가 좋은 사람이라는 건 알아. 내 삶에 너 같은 사람이 얼마나 필요한지는 몰랐었는데. 운명의 날 웨이레스트 사원에서 우리 길이 엇갈린 이후로 매일 밤 에잇 디바인에게 기도하고 있어. 그날 마라가 나에게, 우리에게 손을 뻗어주셨지.  
   
-Query innkeeper at Gateway about rumors around Ralasa —will Magister G. retaliate? (Note: up bribe amount, he has been helpful. Maybe additional gift?)  
+이야기할 것도 많고 계획할 것도 많아. 세이다 닌 여관으로 이 편지를 보낼게, 네가 그게 연락하기 제일 좋은 방법이라고 했으니까. 자긍심 때문에 계속 일해야 한다는 건 알아, 이해해. 그래도 적어도 네 일을 좀 더 수월하게, 어쩌면 훨씬 더 이익도 많이 날 수 있게 도와줄 수 있을 것 같아. 네 새로운 인맥과 내 다양한 사업 방면이 합쳐지면, 우리는 힘을 합쳐 많은 것을 이룰 수 있을 거야.  
   
-Tailor appointment  
+네 살아있는 신들에 대해 더 알아가는 것이 기대돼. 암시비라는 개념은 항상 나를 흥미롭게 했거든. 그들에 관한 책을 읽고 있는데 물어볼 게 정말 많아!  
   
-Send research notes to Magister Firuth (remember to offer salutations to “Gerald” as well).
+너 없으면 못 살겠어,  
+너의 쥘 로르동
 
-[출처](https://www.imperial-library.info/content/sun-shadows-do-list)
-
----
-
-## Supplementary Orders
-
-ID: ext-7f8d10ded6dc8ada5ba9
-
-Investigate the ruin interior here in Wansalen. Evaluate the area as a potential fortified location available for retreat, should the circumstances demand it.  
-  
-Obtain any and all items of value within the ruin and bring them to my personal attention.  
-  
-May the Three guide your steps,  
-  
-— Captain Rela
-
-[출처](https://www.imperial-library.info/content/supplementary-orders)
+[출처](https://www.imperial-library.info/content/letter-julles-laurdon)
 
 ---
 
-## Supplies and Sundries
+## 즈'사드의 쪽지
 
-ID: ext-510da716af6df9861f8e
+ID: ext-1d1cd74acb3a66878be8 / ESO 책 ID: 5709 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Tillrani,  
+사랑하는 아딤바에게  
   
-The hunters and I can’t keep up with demand in the winter months. There are too many open mouths now. (Some of them are wider than others.)  
+미안해. 내가 듣는 이 목소리들이 그저 내 마음속에만 있기를 네가 바랐다는 걸 알아. 내가 지각한 환영들이 상상에 불과하다고 생각했겠지. 하지만 그렇지 않아. 이 환영들, 나에게 말을 거는 이 목소리들은 그 이상의 무언가야.  
   
-The town is well-funded by Windhelm. I’m going to take Rana up on her offer to hire outside help during the next cold snap.  
+신성한 존재가 이 돌을 통해 내게 말하고 있어. 왜 이 말들이 나를 찾아드는지는 알 수 없지만, 목소리는 점점 더 강해지고 있어. 목소리와 함께 눈부신 빛이 찾아와. 기이한 환영들도. 그녀가 말하길, 자신의 빛을 옮겨줄 다른 기사를 찾고 있대. 자신을 배신하지 않을 누군가를. 지난 실수를 바로잡아야 할 사람을.  
   
-A few extra hands from the Guild could mean the difference between eating and hungry bellies.  
+그것이 무슨 의미인지 아직 분명하지 않지만, 나는 그녀의 트라이얼을 반드시 거쳐야 한다고 믿어. 다른 이들이 실패한 곳에서 나는 성공해야 해.  
   
-— Darj
+여정을 마치면 블랙 하이츠에 있는 네게 돌아갈게. 진실을 보여줄게. 너도 빛을 보게 될 거야. 모두가 빛을 보게 될 거야.  
+  
+J'saad
 
-[출처](https://www.imperial-library.info/content/supplies-and-sundries)
+[출처](https://www.imperial-library.info/content/jsaads-note)
 
 ---
 
-## Supplies for the Delve
+## 즉각적인 구출이 절실하다
 
-ID: ext-63c190128428ac1b2015
+ID: ext-dac57f077ad06cd2f259 / ESO 책 ID: 1595 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Zetisha, you mangy housecat. I’ve got the paper here, you signed it, and I’m holding you to it!  
+저는 더없이 분명한 태도로 드라실라에게, 제 마음이 다른 이에게 있음을 알렸습니다. 허나 그녀는 이를 받아들이길 거부하고, 기어이 저를 차지하겠노라 분명히 밝혔습니다. 머지않아 제가 그녀에게 꺾이고 말까 두렵습니다.  
   
-And I quote: “Zetisha and Kuna hereby enter into a contract of supplies for the mine known as Kuna’s Delve due south of Arenthia. Weekly supply runs for the mining concern known as Kuna’s Delve will consist of the following sundry items …” and then, further down the contract, “I hereby sign …” and your name.  
+친애하는 로렌트 여사의 머릿결은 지금쯤 엉망으로 헝클어져 있을 것이 분명합니다. 날씨는 혹독한데 며칠째 손질해 드리지 못했으니 말입니다!  
   
-Don’t make me get your Clanmother involved. If I don’t hear from my miners that supplies have shown up by the end of next week, I’m talking to Kazirra. And after her, I’ll talk to the Dawnmead. I’m sure they’d love another “protection contract,” and your place is just so … flammable.  
-  
-— Kuna
+— 스티번스
 
-[출처](https://www.imperial-library.info/content/supplies-delve)
+[출처](https://www.imperial-library.info/content/prompt-rescue-imperative)
 
 ---
 
-## Supply Request: Stronger Sleep Potions
+## 즉시 회수 명령서
 
-ID: ext-bd255d07078668ba2e2c
+ID: ext-a293691d6d66050cb0e9 / ESO 책 ID: 7867 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Please make sure the next shipment of sleep potions is stronger. The Captain seems to be developing an immunity to the current concotion. Not sure how, a drop would put a Wamasu out.  
+관리자 비르고스의 명에 따라,  
   
-Follow up: The new shipment of sleep potion seems to be sufficent. The smell about puts me out, but it’s working for the Captain. current supplies are low, we will need to order more.
+최초의 야생불 의식이 벌어진 진원지인 만큼, 우리 그린스피커들은 오스투미르 주변에서 새로운 야생불 씨앗이 움틀 것이라 장담했다. 인근의 에일리드 유적을 뒤져 다 자란 야생불 씨앗을 찾아라. 한시바삐 씨앗을 찾아 회수해야 한다. 어떤 대가를 치르더라도, 다음 단계의 대장정을 위해 그러한 씨앗을 손에 넣는 것이 무엇보다 중요하다.  
+  
+오스투미르 아래로 뻗은 유적으로 들어가라. 던우드가 처음 움튼 그 뿌리께에 커다란 씨앗이 있을 것이다. 보면 단번에 알아볼 것이다. 그 씨앗을 회수하여 내게 가져오라.  
+  
+<아래에 다른 필체로 휘갈겨 쓴 전갈이 적혀 있다>  
+  
+베라곤과 그 벗에게—  
+  
+뻔한 이유로 자리를 떴어요. 유적 아래로 내려와 합류하세요. 내가 보여줄 것이 분명 마음에 들 거예요.
 
-[출처](https://www.imperial-library.info/content/supply-request-stronger-sleep-potions)
+[출처](https://www.imperial-library.info/content/orders-for-immediate-retrieval)
 
 ---
 
-## Suril’s Journal
+## 증명 축제
 
-ID: ext-f61591043a5e61fbc9f9
+ID: ext-f3ad728cb8b2a1e28bc9 / ESO 책 ID: 5463 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-— 4th of Sun’s Dawn  
+라이제-팔락 루리시안 지음  
   
-My latest research project involves plants. What destination is better than Shadowfen? There’s something about this place. The moisture hanging in the air encourages so much growth. I’m sure I’ll find a new species to study.  
+화덕불 14일  
   
-— 8th of First Seed  
+하코샤에는 임페리얼 시티의 광휘에 비하면 한낱 창백한 빛에 지나지 않는다. 우리의 집은 소박하고, 우리의 삶은 매일의 고된 노동으로 채워져 있다. 한때 보드라웠던 내 손은 이제 굳은살과 흙으로 뒤덮였다. 그래도 우리는 안전하다.  
   
-I hate rain. It’s rained every day for the past month. The ground is saturated, making it impossible to do any meaningful field studies. Clearly, I chose the wrong time of year to come to Stormhold.  
+총상께서는 머지않아 증명 축제를 열겠노라 선포하기까지 하셨다. 내 평생 처음으로, 조상의 명예를 더럽힐까 근심하지 않아도 되었다. 나는 먼 길을 떠돌고 고되게 일하며 하코샤에를 세우는 데 힘을 보탰다. 나의 행적은 분명 나보다 앞서 떠난 이들을 흡족하게 하였으리라.  
   
-On the bright side, I’ve had time to rearrange the guildhall to suit myself … well, one room of it, at least. I’ve never had this much time or space to myself, especially after the incident at Davon’s Watch. I was so sure. Well, every researcher makes mistakes now and then. It’s part of the process.  
+화덕불 18일  
   
-— 22nd of First Seed  
+증명 축제가 시작되었으나, 거기에는 씁쓸한 뒷맛이 배어 있다. 불과 삼 년 전만 해도 우리 일족의 아름다운 저택에서 똑같은 잔치를 벌였음을 떠올리지 않을 수 없다. 잔치가 있었고, 춤과 음악이 있었으며, 그 밖에도 많은 것이 있었다. 천 가지 이야기가 오갔고, 천 곡의 노래가 울려 퍼졌으며, 아름다운 장식이 우리 집을 뒤덮었다.  
   
-It’s stopped raining at last.  
+하코샤에의 증명 축제는 그보다 훨씬 단출한 행사다. 우리를 먹여 살릴 양식이 거의 없으니, 잔치도 없다. 우리의 노력은 모두 이제 고향이라 부르는 이 마을을 세우는 데 쏟았으니, 장식도 없다. 위대한 모험담은 지칠 대로 지친 장로들의 입으로 전해지는데, 하루의 고역이 그들의 목소리에 무겁게 들러붙어 있다.  
   
-— 1st of Rain’s Hand  
+그래도 나는 총상의 결정에 감사한다. 다시금 아카비리의 정신을 느낄 수 있음은 좋은 일이다.  
   
-I’ve discovered a remarkable lichen specimen. It’s on the spine of my “Lexicon of Black Marsh Flora.”  
+화덕불 20일  
   
-— 3rd of Rain’s Hand  
+여동생이 어젯밤 들었다는 기이한 소리에 관해 이야기했다. 제 창가에서 느릿느릿, 비틀거리며 다가오는 발소리였다고 한다. 동생은 잠에서 깼으나, 너무 두려워 밖을 내다보지 못했다.  
   
-Wrote to the arch-mage. Requested a new assignment, preferably one in the Alik’r.
+나는 동생에게 걱정할 것 없다고 일러두었으나, 이제 내 마음이 무겁다. 축제가 우리 조상을 불러 우리를 심판케 한다는 것은 누구나 아는 사실이다. 우리가 그들을 얼마나 잘 기렸는가에 따라, 그들은 우리에게 행운을 내리기도 하고 불운을 내리기도 한다. 허나 산 자의 영역으로 건너온다 함은, 그들이 크게 노하였음을 뜻한다.   
+  
+어젯밤 하코샤에를 찾아온 이가 나의 조상이 아니기를 그저 빌 뿐이다. 부디 그들이 언제나 우리를 굽어살피고, 사후 세계에 평안히 머물러 주기를.  
+  
+화덕불 22일  
+  
+증명 축제가 끝났으나, 누구도 끔찍한 죽음을 맞지 않았다. 이제 나는 여동생의 이야기가 그저 한낱 꿈이었다고 믿는다. 동생의 악몽을 곧이곧대로 믿다니 내가 어리석었다.  
+  
+허나 폐막식에는 기이한 기운이 감돌았다. 늘 엄숙하고 근엄하던 총상이 오늘은 평소보다 한층 더 침울해 보였다. 그는 축제에 관해, 그리고 우리가 조상을 어떻게 기렸는가에 관해 말했다. 나의 아버지께서도 여러 번 읊으시던, 흔한 연설이었다.  
+  
+허나 그는 이어, 우리가 날마다 행하는 일이야말로 조상께 우리 자신을 증명하는 것이라 말했다. 우리는 그들의 관심을 구걸하거나, 하잘것없는 시험과 무의미한 수수께끼로 우리 자신을 증명할 필요가 없다고 했다. 그저 하코샤에를 세우고 지키는 것만으로도, 우리는 앞서 떠난 이들을 흡족하게 하기에 차고도 넘친다고 했다.  
+  
+이러한 말들이 나를 불안하게 한다. 마치 총상이 내년에는 증명 축제를 열고 싶지 않다고 말하는 듯하다. 물론 나는 그것이 사실이 아니기를 진심으로 바란다. 이번 화덕불에 우리는 아카비리 문화의 중요한 한 부분을 기렸다. 우리는 이미 너무도 많은 것을 내려놓았으니, 그마저 내려놓는 일만은 견디기 어려울 것이다.
 
-[출처](https://www.imperial-library.info/content/surils-journal)
+[출처](https://www.imperial-library.info/content/proving-festival)
 
 ---
 
-## Survey of the Alavelis Mine
+## 증폭 크리스털
 
-ID: ext-82d0f36a5e4667503012
+ID: ext-11eb7cd6f5511a116f48 / ESO 책 ID: 1375 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Guildmaster Puvor,  
+증폭 크리스털만 제자리에 놓이면, 그 일을 시작할 수 있다. 증폭 크리스털이 필요한 것은 오로지 그린힐을 점거하기 위해서다. 드로-마스라가 이곳에 발판을 마련하고 나면, 그 유물이 그들로 하여금 리퍼스 마치 전역에 영향력을 퍼뜨리게 해 줄 것이다.   
   
-Greetings from Alavelis. I completed my survey of the glass mine beneath the village. At this time I cannot recommend an investment in this enterprise. While nowhere near depleted, the remaining deposits are not commercially viable. The work and expense required to obtain significant ore will be prohibitive, especially given the competition from larger and more productive mines in Vvardenfell.  
-  
-There are two business cases that may be worth exploring. First, we might harvest large crystals for ornamental uses. The malachite formations in the mine’s upper passages are truly spectacular, despite being useless for smelting into metallic glass. Alavelis malachite might be too brittle for arms and armor, but it is certainly construction-grade stone.  
-  
-Second, I’ve noticed some unique arcane resonances in the ore. A mage with the right interests (or extravagant tastes) might pay well for what’s here. But how many customers fit this category?  
-  
-In short: Yes, we can purchase the Alavelis mine for next to nothing. But we’ll never be able to turn a profit here. No reason to invest unless we find a customer interested in big malachite crystals for their own sake.  
-  
-I plan to stay a few days before returning to Sailen Vulgate. The inn’s comfortable, and I might as well explore the nearby countryside while I’m in the area.  
-  
-Regards,  
-  
-Surveyor Tenisu Vashon
+그렇다 해도 크리스털은 가능한 한 오래 작동시켜 두도록 애써야 한다. 드로-마스라가 더 많은 마을 주민을 사로잡을수록, 그만큼 더 빠르게 영향력을 넓힐 수 있을 테니.
 
-[출처](https://www.imperial-library.info/content/survey-alavelis-mine)
+[출처](https://www.imperial-library.info/content/amplification-crystals)
 
 ---
 
-## Survivor’s Guilt
+## 지그렌의 쪽지
 
-ID: ext-213450fe29a981d308ba
+ID: ext-0e00b974b3a99a675bfa / ESO 책 ID: 126 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Aken is dead. We grew up together, ran races through the desert, played with sticks that were swords in our minds, and made gold fighting in other people’s wars for years. When we settled on guard duty for the Shields, it was like an early retirement.  
+친구여, 그 동굴은 크라겐무어 북쪽에 있다네. 여러 번 말했듯, 그곳의 균류는 놀라운 크기로 자란다네.   
   
-Until the Dragon came.  
+자네가 날 믿지 않는 건 알아. 날 "거짓말쟁이 늙은 뱃사람"이라 부르는 것도 알지. 허나 분명히 말하건대, 이건 사실일세. 내 말이 거짓이라면 히스트가 내 비늘을 말려 버려도 좋아!  
   
-We were on patrol, just like every other day. The terror birds were in their breeding season, so the beasts were particularly ornery. Aken had this great trick he learned from an Argonian, though. You take a dried gourd and punch a few holes in it, then tie it to a long string. I told him he was crazy, but when he whipped that thing overhead it screamed like a pack of jackals and sent the birds running.  
-  
-I never told him what a good idea it was, damn fool me. Good idea, but…  
-  
-Aken, you damned idiot. There was no way it was going to scare off a Dragon. It ate him in one gulp and all I could do was stand there slack-jawed and pissing down the side of my leg while he screamed.  
-  
-I ran. I’m sorry, Aken. I’m a coward.  
-  
-As it happens, you can’t find absolution in the bottom of a bottle of jagga, or a jug of cheap Shornhelm wine, or even in that skooma crap. You just get a hangover and the sugar-shakes, then your throat feels like it’s covered in hair. If you look to the gods instead, the priests will just give you some garbage sermon on how it is the will of the Divines and you can only find salvation in prayer.  
-  
-It’s all hogwash. They don’t know a damn thing.  
-  
-I’m going to make it right, Aken. You always trusted me to watch your back and when it counted, I froze. I’ve strangled a gods-damned cannibal Wood Elf with my bare hands while he was eating my finger and rode down a rabid werewolf, but that Dragon was the one time my courage failed me.  
-  
-I’ve seen the Dragon flying in the distance for a few hours now. Circling. I think it knows I’m out here. I won’t avenge you, but at least the ghost of our father won’t curse me for a coward the rest of my days.  
-  
-I love you, brother. I won’t be long now.
+— 지그렌
 
-[출처](https://www.imperial-library.info/content/survivors-guilt)
+[출처](https://www.imperial-library.info/content/note-jeegren)
 
 ---
 
-## Susceptibility to Corruption
+## 지달이 보낸 쪽지
 
-ID: ext-ea47a5bbd576d7b9b097
+ID: ext-f44f43f1237ef5186d97 / ESO 책 ID: 1320 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-According to our priestess, some of the ancestral spirits are more susceptible to the corruption stones than others. She’s unsure which will be most affected.  
+우리 계약에는 구속력이 있고, 그래, 나는 당연히 그대가 탐사를 끝까지 완수하기를 기대한다.  
   
-Fortunately, the stones’ destruction will have no effect on those working closest with me. Particularly Colonwe and the spirits of our honored familiar ancestors.  
+내일까지 그대의 조를 이끌고 <<1>>(으)로 향하라. 그러지 않으면 이 일을 나무종사 앞에 가져가겠다. 그녀가 향연에 쓸 물건들에 금화를 죄다 쏟아부은 뒤에 그대가 그 아들을 차 버린 걸 생각하면, 그런 위험은 무릅쓰고 싶지 않을 텐데, 안 그런가?  
   
-— Norion
+그럴 줄 알았다.  
+  
+어서 움직여라.  
+  
+— 지달
 
-[출처](https://www.imperial-library.info/content/susceptibility-corruption)
+[출처](https://www.imperial-library.info/content/note-zidal)
 
 ---
 
-## Suspicious Message
+## 지리크 평의원의 기록
 
-ID: ext-d95681cdfd01d9991934
+ID: ext-91a166cb04d4d05a5330 / ESO 책 ID: 6445 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-The Beautiful Darkness asked that we alter our drop locations for the next stage of research. Deposit the scrolls with your findings at these new locations around Kvatch. An accurate map requires all parts listed below.  
+지리크 평의원에게,  
   
-Place your code at the bottom so the next runner can deliver it.  
+관리인들을 집결시켜 야망을 옮길 때가 되었다. 새로운 금고의 위치라면 나 혹은 대사제가 그것들을 불러들일 때까지 안전을 보장하고 은밀히 숨겨둘 수 있을 것이다. 반역자 바렌에게 충성하는 군세가 점점 더 가까이 다가오고 있으니, 야망이 그들의 손에 떨어지도록 둘 수는 없다.  
   
-– Wolf’s Everlasting Stream  
+이것은 공식 명령이다. 즉시 행동하라.  
   
-– Perch Above the Sport Fighters  
+<이 줄은 복잡한 임페리얼 암호로 적혀 있다.>  
   
-– Eternal Knight  
-  
-– Where We Gaze Down On the Streets
+레오빅 황제
 
-[출처](https://www.imperial-library.info/content/suspicious-message)
+[출처](https://www.imperial-library.info/content/councilor-jirichs-records)
 
 ---
 
-## Sweetness in the Air
+## 지원 요청서
 
-ID: ext-15c7ac166cc4fae825e5
+ID: ext-77904ed97e4166d6f037 / ESO 책 ID: 1019 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-There has been a sweetness in the air since last week. Father says to pay no mind. There is nothing sweet here, has not been for a long time.  
+명예로운 티딘 아르탈렌께,  
   
-I say it is well enough for him to say that since he’s a grumpy old Orc. He remembers this village when it was a mining town. He thinks that every promise is poison, so if the air smells sweet it is a trick, foul magic.  
+먼저, 제 아들을 심판하던 심의회에서 맡아주신 소임에 감사드립니다. 메람을 변함없이 지지해 주시고, 그에게 씌워진 죄에 비추어 죽음은 지나치게 가혹한 형벌이라 굽히지 않고 주장해 주신 일을 결코 잊지 않겠습니다.   
   
-But I smell the sweetness, at night as I dream. A lover comes to me in the night, wrapped in honeysuckle and lavender. He is my wildflower prince. He promises to take me away from this backwater, this dead town.  
+세라 아르탈렌, 위대한 순간이 다가오고 있습니다. 트라이뷰널은 그 권위를 악용해 왔습니다. 아말렉시아는 스스로 우리의 독재자로 군림하였습니다. 맑은 마음과 예리한 정신을 지닌 자라면 누구에게나 명백한 일일 것입니다. 그녀의 죄가 계속되도록 두어서는 안 됩니다. 그 순간이 오거든, 부디 계속 당신의 지지에 기댈 수 있기를 바랍니다. 당신의 지지, 그리고 당신의 사제단과 셀포라 마을의 지지에 말입니다.   
   
-I think tonight I will go with him, if I can. I will go far away from here. But what if he doesn’t appear in my dreams again? I don’t even know his name.
+애도하는 마음을 담아,   
+  
+마기스트릭스 복스
 
-[출처](https://www.imperial-library.info/content/sweetness-air)
+[출처](https://www.imperial-library.info/content/request-your-support)
 
 ---
 
-## Tahnisa’s Journal
+## 지원을 구하는 청원
 
-ID: ext-9361dcec3257b392cbf1
+ID: ext-7ee98709bead4b37eb81 / ESO 책 ID: 7679 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-This is a history of the Pride Mother’s journey from Cicatrice to the Oasis cave. She describes the coming of the Flu and their flight into the valley. They went to the Oasis seeking sanctuary with an Argonian who claimed it may be a cure.  
+들짐승 갤러리가 드림카버의 습격을 받고 있다. 그들이 막대한 피해를 입히고 있어, 우리가 짓밟혀 점령당하지 않을까 두렵다. 이미 울타리 다수가 부서졌고, 우리가 관리하던 짐승들이 마구 날뛰고 있다. 더러는 목숨을 잃기까지 했다.  
   
-It shows how he tried to help but they kept getting sicker. In desperation, the Argonian called on the Neriad for help, only for the disease and misery to corrupt it. He died trying one last desperate plea to help her tribe.  
+그들을 물리치고 전시물을 가둬 둘 만한 인원이 우리에겐 없다. 부디, 그대가 그레이트 아이를 섬기는 종자라면, 구원을 보내 다오.  
   
-She ends by sealing the entrance to the Oasis and the cave itself.
+수석 암호자 프리엘비
 
-[출처](https://www.imperial-library.info/content/tahnisas-journal)
+[출처](https://www.imperial-library.info/content/plea-aid)
 
 ---
 
-## Tainted Egg Mine Report
+## 지체는 곧 죽음
 
-ID: ext-e9afeaa5c985301c7be2
+ID: ext-5b94a8af32aaeb66cc7f / ESO 책 ID: 2209 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-The ichor was far more effective than we imagined. It spread quickly throughout the mine and led to a near total collapse of the colony.  
+페라 소위에게  
   
-We should try to slow down the ichor’s effects. Ideally, the poison would spread further down the production line before it is noticed. A tainted mine can be culled, but a clutch of poisoned eggs sold across Necrom? By the time they realize the eggs are poisoned, it would be too late.  
+공식 명령서는 이미 보았을 것이다. 그 명령은 반드시 병사들에게 읽어 주어야 한다. 자네만 보도록, 이 경고를 덧붙인다.  
   
-Regardless, even at its current stage, the ichor provides us with a potent weapon.  
+임페리얼 시티로의 소환 명령은 병사들에게 결코 환영받지 못할 것이다. 그곳에서 우리가 마주할 것에 관한 소문이 바람보다 빠르게 퍼졌다. 분별 있는 자라면 누구나 두려움에 사로잡힌다. 용감한 자만이 그 두려움을 이겨 내고 진군하는 법이다.  
   
-Peryite be praised.
+자네는 반란에 직면할지도 모른다. 그들에게 결집할 시간을 주지 마라. 즉시 야영지를 거두어라. 저항의 낌새가 느껴지거든, 주모자들을 베어라. 망설임은 자네의 죽음과, 제국에 바칠 병력의 상실로 이어질 수 있다.  
+  
+나는 북서쪽 다리로 진군한다. 그곳에서 합류하라. 지체는 곧 죽음이다.  
+  
+— 버길루스 대장
 
-[출처](https://www.imperial-library.info/content/tainted-egg-mine-report)
+[출처](https://www.imperial-library.info/content/delay-means-death)
 
 ---
 
-## Tajirri’s Journal
+## 진실의 불꽃
 
-ID: ext-bc159358602960cf1e88
+ID: ext-9f7776b496ca7e6db680 / ESO 책 ID: 956 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Riverhold was supposed to be Tajirri’s fresh start. No more drinking, no more gambling, and no more smuggling. A breath of fresh air after all the rot she left behind in Senchel. A chance to finally be free of it all.  
+마라의 방패 혹은 심장의 참회자로서, 생명의 불은 이미 그대 안에서 타오르고 있음을 명심하라. 그 불이 꺼지게 두지 말라.  
   
-And then Mother moved in with her. Mother, with her incessant whining, constant complaining, cutting insults. Is Tajirri really going to wear that today? Is Tajirri sure that she wants another sugar claw?  
-  
-So first, a bit of drinking to help ease Tajirri’s annoyance. And then a bit of gambling, just to get out of the house. Which of course led to quite a bit of debt. Which led to even more drinking, even more gambling, even more debt.  
-  
-And now back to smuggling, because Tajirri has debts to pay and a house to keep. Lucky for this one that Rideza should show up in town, just as Tajirri was getting desperate. Or perhaps it has nothing to do with luck. Perhaps Rideza somehow knew.  
-  
-Just a few jobs, that’s it. Help Rideza squeeze all the gold she can get out of Riverhold, and then Tajirri won’t have to worry about her debts anymore.
+이 경배의 장소에서 그 불을 지펴, 디바인들을 향한 그대의 헌신을 보이라.
 
-[출처](https://www.imperial-library.info/content/tajirris-journal)
+[출처](https://www.imperial-library.info/content/fires-truth)
 
 ---
 
-## Tajirri’s Note
+## 진정한 길의 시련
 
-ID: ext-cd120125eec0cd78946c
+ID: ext-61ee6bcc6a6166e9f730 / ESO 책 ID: 2379 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Seems our old badger friend is napping again. Maybe we should pay him a visit? The trip could prove sweeter than you’d think.  
+다섯 번째 시련은 진정한 길의 시련이니라.  
   
-T
+서고 아래로 내려가 제단 앞에 무릎 꿇으면, 어둠을 가로지르는 진정한 길이 드러나리라.  
+  
+이것이 마지막 시련이다. 앞선 시련들을 모두 통달한 자만이 그 길을 찾으리라.
 
-[출처](https://www.imperial-library.info/content/tajirris-note)
+[출처](https://www.imperial-library.info/content/trial-true-path)
 
 ---
 
-## Taking Tolls!
+## 진척 조사: 시로딜
 
-ID: ext-6ec07a9f4b48c13c05cd
+ID: ext-ca13791aff8db45d1d88 / ESO 책 ID: 2281 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-All those weary, soul-numbing days working for others. How could I have been so blind? I could have been working for myself all this time.  
+대장군 소르칼린에게,  
   
-Taking tolls from fools has to be the easiest job ever! I sit around all day, waiting for the plodding of approaching feet (or the clip-clop of approaching hooves). When I hear them, up I pop and demand they pay a toll for crossing the bridge.  
+시로딜의 전황은 어떠한가? 탈모어는 우리 군대의 진전 소식을 고대하고 있다. 그대에게는 두터운 신뢰가 주어졌고, 강대한 자원이 그대의 지휘 아래 맡겨졌다.  
   
-They always grumble, but when I show them my writ from the Emperor (hiring that scribe was the best gold piece I ever spent), most toss some coins my way. The ones who won’t, I tell them the money’s needed for repairs to the bridge and unless they want to swim next time, they’d better pay.  
+우리는 결과를 더 이상 기다릴 수 없다, 대장군여.  
   
-If they still won’t pay, I pull my sword. Sometimes that works, but if they pull theirs, I run.  
-  
-I hear horses approaching. More fools to be separated from their gold!
+- 아이렌 여왕,  
+알드메리 자치령을 대표하여
 
-[출처](https://www.imperial-library.info/content/taking-tolls)
+[출처](https://www.imperial-library.info/content/progress-inquiry-cyrodiil)
 
 ---
 
-## Talvini Radus’ Last Wish
+## 진홍색 맹세를 건드리지 마라
 
-ID: ext-93f1c4bf8603a0ec7ec5
+ID: ext-17c200fdfaf9593255cb / ESO 책 ID: 6717 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-The Abomination can’t reach me between these rocks, but I can’t leave, either.  
+드레모라 전사들은 그대를 보호하고자 이곳에 있으나, 진홍색 맹세는 이 눅눅한 구덩이에서 보초나 서기보다 탐리엘 전역을 약탈하며 떠도는 편을 훨씬 바란다.  
   
-I’m probably going to die here. I just wish my brother Malvini was here with me.  
+그들을 일꾼처럼 부려 더는 자극하지 말라.  
   
-I hate to think he’ll live on and I’ll be gone.
+그들을 함부로 대하면, 그들이 피를, 그것이 그대의 피라 할지라도 기꺼이 흘리려 한다는 사실을 알게 되리라.
 
-[출처](https://www.imperial-library.info/content/talvini-radus-last-wish)
+[출처](https://www.imperial-library.info/content/leave-crimson-oath-alone)
+
+---
+
+## 진흙으로 뒤덮인 편지
+
+ID: ext-9968b6828b9bb5a0ea5a / ESO 책 ID: 7622 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+트레데심에게,  
+  
+그대가 전한 정보는 꾸준히 결실을 맺고 있으며, 우리의 감사는 더욱 깊어질 따름이다. 침투 올가미 계획에 관한 그대의 근래 전언은 우리 가문의 메이지들을 크게 흥분시켰다. 텔바니 가문이 그토록 무시무시한 무기를 손에 넣는다면, 힘의 균형이 그들에게 너무도 유리하게 기울고 말 것이다. 그대의 노고가 우리 땅의 평화를 지켜 주리라.  
+  
+털등이의 요청대로, 우리는 그 골드를 참새의 계좌로 송금해 두었다. 누군가 냄새를 맡고 다가오더라도, 이것이면 그대에게서 이목을 돌릴 만큼의 의심을 일으키기에 충분할 것이다.  
+  
+털등이에게 그의 모든 협조에 감사한다고 전해 다오. 우리는 길고도 결실 있는 관계를 고대하노라.
+
+[출처](https://www.imperial-library.info/content/mud-covered-letter)
+
+---
+
+## 짐머론의 경고
+
+ID: ext-bb253adaec8026282e7b / ESO 책 ID: 2318 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+예고르드 장군,  
+  
+그대가 전장에서 거둔 성과는 치하하나, 그대는 내가 맡긴 역할에 충실해야 한다. 계속해서 우리 병력이 하나로 뭉치도록 이끌고, 척후병이 찾아낸 적의 허점을 공략하라.  
+  
+정찰 임무는 다-리우르즈의 소관이며, 적이 우리의 약점을 알아채지 못하게 막는 일 또한 그러하다. 그 직무를 수행하는 다르의 솜씨에 나는 만족하고 있다. 이 일에 관한 그대의 생각은 필요 없다. 그대의 의견이 듣고 싶을 때는 내가 묻겠다.  
+  
+- 짐머론
+
+[출처](https://www.imperial-library.info/content/warning-zimmeron)
+
+---
+
+## 짐머론의 질책
+
+ID: ext-6cf56b581aef24256742 / ESO 책 ID: 2317 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+다-리우르즈 장군에게,  
+  
+나는 우리 전사들이 적을 더 많이 찾아내 처치하도록 독려하고자, 자네에게 우리 현상금 계획을 맡겼다. 그러나 예고르드가 여러 차례 지적했듯, 지금까지 자네가 거둔 성과는 미미하다. 더 많은 일이 이루어져야 한다.  
+  
+자네에게는 내건 현상금을 올릴 권한이 있다. 우리 병사들을 내보내, 그들이 찾아낼 수 있는 모든 자치령과 대거폴 동맹의 적을 사냥하게 하라. 우리 요새와 자원을 끊임없이 염탐하는 이 짓을 멈춰야 한다. 자네가 해내지 못한다면, 예고르드가 해낼 것이다.  
+  
+- 짐머론
+
+[출처](https://www.imperial-library.info/content/chastisement-zimmeron)
+
+---
+
+## 집으로 보내는 편지
+
+ID: ext-f51ec1e7fbe4b8eeeeda / ESO 책 ID: 866 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+마더께,  
+  
+내일 머크워터에 상륙합니다. 긴장이 됩니다... 물론 훈련은 받았지요. 하지만 이국 땅에서 치르는 첫 교전이잖아요. 이국의 진흙이라고나 할까요.  
+  
+함께하는 병사들은 참 잡다한 모음이에요. 우리 알트머는 규율이 잡혀 있고 지휘 계통을 따르죠. 하지만 렌리즈라와 서약파괴자들은 이야기가 달라요.  
+  
+렌리즈라는 카짓 사략선이에요. 아주 느긋하죠. 훈련도 없고 점검도 없어요... 하지만 한 명이라도 화나게 했다간, 정말 맹렬하게 싸워요. 보스머를 기다리는 동안 해안에서 같이 있었는데, 함께 쉬기에는 좋은 상대예요. 걱정 마세요, 문슈거는 시도하지 않았으니까요.  
+  
+서약파괴자들은 보스머 야만인들이라고 다들 늘 말하죠. (파몰웬 대장만 빼고요. 계급의 특권이겠지요.) 채소를 먹고 나무를 깎고, 그런 것들이요. 원시적인 관습 없이는 행복할 것 같은데, 냉혹한 무리예요. 그들과 카짓은 서로 피해 다녀요.  
+  
+우리는 와인을 가져오지 못하게 되어 있어서 그들의 고기술을 마셔봤어요. '로트메스'는 처음에는 역했지만, 익숙해지더라고요.  
+  
+실제로 상륙했을 때 어떻게 하나로 뭉칠 수 있을까요? 아르고니안들은 민간인이지만, 수는 엄청날 거예요. 섀도우펜은 낯설고 위험해 보여요. 동물들 중에는 모로윈드에서 온 것 같은 것도 있어요. 그런 크리처들과 사는 자들은 꽤 강할 게 틀림없어요. 만만한 표적부터 시작하는 것이 다행이에요.  
+  
+사촌들에게 안부 전해 주세요.  
+  
+아드님이 사랑을 담아,  
+필피닐
+
+[출처](https://www.imperial-library.info/content/letter-home-0)
+
+---
+
+## 집정관의 숲 무리
+
+ID: ext-5d971549e530a2c48b51 / ESO 책 ID: 5096 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+가시송곳니 무리의 게로드로스 저  
+  
+우리 소굴 어미가 이 섬으로의 이주를 선택한 것에 많은 이들이 의문을 품었다. 서머셋을 우리 같은 존재의 안식처로 여길 자가 과연 있겠는가? 하지만 나는 차츰 그녀의 결정에 담긴 지혜를 깨달아가고 있다.  
+  
+단적으로 말해, 하이엘프는 늑대인간을 어떻게 다뤄야 하는지 모른다. 고립된 섬의 특성상 이 문제가 거론될 일 자체가 드물었기 때문이리라. 영리하게 처신하는 한, 꽤 오랫동안 세상의 눈을 피해 지낼 수 있을 것이다.  
+  
+경쟁 상대가 없다는 점도 있다. 무리란 원래 세력권 다툼으로 악명이 높지 않은가. 과거의 분쟁으로 우리는 많은 동족을 잃었다. 허나 이곳에는 다른 늑대인간이 거의 없고, 무리를 이루고 있는 집단은 더욱 찾아보기 어렵다. 이제는 수를 잃기보다 늘릴 가능성이 크다.  
+  
+수를 늘리는 얘기가 나왔으니 말이지만, 소굴 어미가 마침내 이성의 목소리에 귀를 기울이고 있어 다행이다. 무리를 강화해야 한다. 그 방법은 위력뿐이다. 이곳에서 우리의 축복을 기꺼이 받아들일 자는 거의 없다. 여행자를 붙잡아 전환시키는 것은 위험하지만, 공격에 대비해 수를 확보하지 않으면 안 된다.  
+  
+가장 최근에 손에 넣은 자는 쓸 만할 것이다. 그녀의 우드 엘프 동료가 살아남지 못한 것은 아쉬운 일이나, 어쩌다 그런 일이 생기기도 하는 법이다.
+
+[출처](https://www.imperial-library.info/content/pack-archons-grove)
+
+---
+
+## 징계 조치
+
+ID: ext-ce845220a5d9797b1ac5 / ESO 책 ID: 4899 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+쿠오릴,  
+  
+자네의 그 성가신 보조 관리인 말인데, 제 임무를 거들 기회를 노린답시고 내 레인저들을 끈질기게 들볶아 왔고, 급기야 또 한 번 레인저 부대로 전출을 신청했네. 엘리스가 지금 맡은 일에 파묻혀 윗사람들을 귀찮게 할 틈조차 없도록 단단히 붙잡아 두기를 권하네. 자네 부하를 어찌 다루든 그건 자네 소관이나, 그것이 우리 일에 지장을 주기 시작하면 나로서는 가만있을 수 없네. 그리고 레인저는 침묵에 능한 자들이니 거기서부터 수련을 시작하면 되겠다고 엘리스에게 전해 주게.  
+  
+보존관 바인로어
+
+[출처](https://www.imperial-library.info/content/disciplinary-action)
 
 ---
 

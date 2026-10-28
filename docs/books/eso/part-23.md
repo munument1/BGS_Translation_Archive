@@ -1,1203 +1,925 @@
 # The Elder Scrolls Online 원문·번역 서적 합본
 
-수록 서적: 2,482건. 영문 원문을 우선 수록했습니다. 미번역 서적의 판본·발췌 여부는 번역 전에 확인하세요.
+수록 서적: 2,528건. 기존 ESO 한국어 게임 본문을 연결했으며 나머지는 확보된 영문으로 제공합니다. 판본·책 ID 연결 범위는 ESO_KOREAN_IMPORT.md를 확인하세요.
 
 ---
 
-## Kari’s Hit List
+## 니벤 모래톱을 건너서
 
-ID: ext-8df9c331c25a328fb784
+ID: ext-e42ad76c3384ea56d530 / ESO 책 ID: 6686 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Attention, new bloods! In the past, members of Thieves Guild proved who the best of the bunch was by stealing the rarest, most valuable treasures they could from some of the most powerful people in Tamriel. We REALLY don’t need to attract that kind of attention right now. Seriously.  
+(니벤 강의 노래)  
   
-However, the Guildmaster thinks it’s important for you lot to hone your skills and distinguish yourselves, so I have cataloged an inventory of one of a kind items no one will send an army to retrieve. Find them. Steal them. Put them up in the Den as proof of the deed.  
+시로딜에서 토팔 만까지  
+니벤의 등줄기는 드넓고  
+레이야윈 부두에는 멋진 배들이  
+아침 밀물을 기다린다네.  
   
-This is for bragging rights, not gold, so don’t come to me expecting a king’s bounty for any of this stuff.  
+알레스웰에서 광석을 싣고  
+웨예에서 콜로비안 붉은 포도주를  
+브라빌 항구에서 목재를 실어  
+블랙우드 머리를 향해 항해했다네.  
   
-Abah’s Landing: The great great great- you get the idea –  
+코러스  
+하나, 둘! 하나, 둘! 멀리, 정확히 던져라!  
+어이, 측연수, 표식을 읽어라!  
+짙은 머크 속에 얕은 여울이 도사리나니  
+니벤 강을 가로질러!  
   
-grandnephew of some banker back when Prince Hew was alive still has the poor sap’s repossessed funeral urn sitting out as a flower pot.  
+토르발에서 사탕수수를 사고  
+사우스포인트에서 모피와 염료를  
+대거폴에서 몽땅 팔아 치우고  
+스트로스 므카이에서 술을 마셨다네!  
   
-Greenshade: The Mages Guild is doing restoration work on an old set of weird living books for one of the Treethanes. I guess you’re supposed to water them.  
+골드 코스트에서 실크와 와인을 가득 싣고  
+우리는 다시 고향을 향해 돌아선다네  
+레이야윈 마을에서 내 연인이 기다리나니  
+그 사랑하는 선원을 기다리며!  
   
-Auridon: Prince Naemon had a commemorative decanter commissioned for his coronation, which never happened. Rumor says it’s still on display in Skywatch Manor.  
+코러스  
+하나, 둘! 하나, 둘! 멀리, 정확히 던져라!  
+어이, 측연수, 표식을 읽어라!  
+파도 아래엔 네레이드가 숨어드나니  
+니벤 강을 가로질러!  
   
-Malabal Tor: There’s an old Wood Elf tale about a bard so good he won a contest with a cursed harp. Supposedly the Mages Guild is keeping it from bursting any eardrums in the wrong hands.  
-  
-Reaper’s March: The Mages Guild is caring for the ancient possessions of some Khajiit warrior of old at their holdings in Rawl’kha. You have the misfortune of finding his spittoon. Grahtwood: There’s a mannequin that was supposed to stand in for one of the members of the Camoran dynasty when he died in battle. I guess they found him, because it’s collecting dust in the embassy.  
-  
-Alik’r Desert: A wealthy innkeeper out in the desert has some antique bowl he claims is a family heirloom tracing his line back to some Ra Gada hero. Looks can be deceiving, but I have my doubts.  
-  
-Stormhaven: The first king of Wayrest might have been a good king, but he was a terrible poet. There’s an unpublished book of his work archived in the Mages Guild. We won’t make you recite it.  
-  
-Bangkorai: One of the more organized Yokudan conquerors had to use massive paperweights to wrangle all his inventories. Fair warning, I might keep these.  
-  
-Glenumbra: One of the carpets decorating Daggerfall castle is supposedly magical. I don’t know why they’d just have something like that just sitting out, but use it to your advantage.  
-  
-Rivenspire: The Fighters Guild is supposed to have a bunch of letters the princess of Shornhelm wrote to King Emeric before he dumped her for the princess of Sentinel. Sounds juicy.  
-  
-Eastmarch: The locals out in Eastmarch say that King Jorunn’s commissioned some ancient piece of Dwarven technology he smashed into a centerpiece for his next banquet. The thing’s undergoing repair at their local Mages Guild.  
-  
-Stonefalls: One of the inns has an old coat-of-arms from the Ebonheart Pact’s formation sitting in its basement. Seems they aren’t sentimental about it.  
-  
-Shadowfen: There was some strange tribe that lived out in Black Marsh alongside the Argonians. Unsurprisingly, they’re all dead, but the Argonians still keep some artifacts around. There’s some religious shovel their people prayed to, I guess.  
-  
-Deshaan: Most of the time Dwarven artifacts are highly prized, but I have a lead on some banner that got taken down and thrown in storage around Mournhold. Probably more to the story.  
-  
-The Rift: Ysgramor is basically worshiped by the Fighters Guild. They’d give their sword arms to drink from the same vessel he did, but there’s one of his old wine skins that’s been sitting untouched.
+코러스  
+하나, 둘! 하나, 둘! 멀리, 정확히 던져라!  
+어이, 측연수, 표식을 읽어라!  
+선원들이 물거품 위를 누비나니  
+니벤 강을 가로질러!
 
-[출처](https://www.imperial-library.info/content/karis-hit-list)
-
----
-
-## Karnwasten Temporal Tome
-
-ID: ext-f7b37b5aeabbd8b9a396
-
-To Serve the Sea Sload  
-  
-By Raavarion, Former Sapiarch of Aquatic Malevolence  
-  
-Good mer of Summerset, I understand your reluctance. After all, it was not that long ago I wrote with a vigorous quill about the dangers from the deep. I called the Sea Sloads vile, ambitious, and slug-like. How easy to see, with the clarity given by handsome K’Tora, how wrong I was.  
-  
-As our new masters from Ul’vor Kus position themselves in their roles as governors, I strongly felt the need to set the record straight. In point of fact, our centuries-long civilization has been empty, a shell of what it could be, what it might be. And now that the firm, webbed fingers of our betters have stepped to the fore, I am deeply proud to meet them at the water’s edge. To grasp their dewy limbs in my own. And to convey what we might do to make this moment, this apotheosis of our culture, go smoothly.  
-  
-RESHAPING OF THE MIND  
-  
-I am proud to say my own order has taken up the mantle of mindshapers, as Sapiarchs now don the indigo robes of the Sanitorium. We live to serve you, our fellow souls of Summerset, in all things. We can ease ancient woes from childhood, slip toxic relationships from your mind, and slip stresses from you imagination as easily as a physician works free a splinter from a wound.  
-  
-RESHAPING OF THE FLESH  
-  
-Perhaps your mind is not enough, perhaps you desire a whole new you? From Welenkin Cove vivacious B’Korgen works the fair magic of fleshcrafting. Yaghra apprentices toil alongside every day, learning the art as well. Perhaps a slimmer body is what you desire, or new terrible claws for the front lines in the coming war with the mainland? Their skill is more than up to the challenge.  
-  
-RESHAPING OF THE SHADOW  
-  
-For those with sufficient sorcerous aptitude, might I recommend a pilgrimage to Cloudrest? Beautiful Z’maja has apprenticed a number of powerful mages into the ways of Shadow already, and if you act quickly you might find yourself in her next cadre of students.  
-  
-This is just the first step in a long road to glory and supremacy for our people. Keep your wits about you, out there. The last thing the island needs in these portentous times are anarchists and doom-sayers. Hail to a Summerset reborn! Hail to the Sload!
-
-[출처](https://www.imperial-library.info/content/karnwasten-temporal-tome)
+[출처](https://www.imperial-library.info/content/across-niben-bar)
 
 ---
 
-## Karthi of Rorikstead
+## 니코틱 교단
 
-ID: ext-8efbc4bc9b6e5bc181b1
+ID: ext-52c58f07fbc3ca67cf52 / ESO 책 ID: 4548 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-KARTHI of Rorikstead  
+고위 신성집행관께  
   
-HE Kept Vigil  
+축복받은 우리 백성 중 일부가 신앙을 저버리고 이단의 신들을 따르게 되는 동기가 무엇인지, 누가 감히 단언할 수 있겠습니까. 탐욕, 분노, 질투, 그리고 더 나은 무언가를 향한 갈망이 동인이 되리라 생각합니다. 소수는 진정한 신자이되 잘못 인도된 이들이라 받아들일 수 있습니다. 대다수는 눈앞에 내걸린 약속이라면 무엇이든 쫓는 기만당한 어리석은 자들일 것입니다. 일례로, 최근 발모라 인근에서 활동하기 시작한 니코틱 교단을 보십시오. 이들이야말로 진정 극도의 바보들입니다!  
   
-As a GUARD of the Realm  
+그 위계 내에 데이드릭 문자를 실제로 읽고 이해하는 자가 한 명도 없다는 것은 명백합니다. 창설 멤버 중 하나가 고대 두루마리나 금서를 발견하고, 데이드릭 단어를 탐리엘의 언어에 억지로 끼워 맞춘 것입니다. 그렇지 않다면 어떻게 설명하겠습니까—아무런 뜻도 없는 데이드릭 문자들을 가져다가, 자신들이 충성을 맹세한 프린스를 '니코트'라 부르기로 결정한 것을. 물론, 클라비쿠스 바일의 이름을 데이드릭 문자로 표기하면 처음 다섯 글자가 탐리엘의 스크립트의 n, y, c, o, t와 얼핏 닮아 보이기는 합니다. 그러나 그런 식으로 표기하거나 발음해야 한다는 뜻은 아닙니다—멍청이들 같으니!  
   
-A YOUNG Shield Cut Short  
+게다가, 자신들이 책략과 거래의 프린스를 숭배하고 있다는 사실조차 모르는 것 같습니다. 자신들이 누구에게 충성을 바쳤다고 생각하는지 모르겠으나, 그것이 발모라에서 비터 코스트에 이르기까지 문제를 일으키는 것을 막지는 못했습니다. 교단의 지도자 중 일부는 신비술에서 진정한 재능을 보이고 있습니다. 누가 알겠습니까—바일이 실제로 그들의 어리석은 기도를 듣고 응답하기로 결정한 것인지도! 어찌 됐든, 전쟁 기사단을 소집하여 그들이 숨어 있는 동굴과 균열을 향해 진격하고, 단 한 명도 남기지 않고 쓸어버려야 합니다!  
   
-By an ARROW in the Gut
+비벡의 이름으로, 이를 추천하는 바입니다.  
+  
+교의와 성직 기사단 신성집행관 알루루아
 
-[출처](https://www.imperial-library.info/content/karthi-rorikstead)
-
----
-
-## Kasura’s Notes
-
-ID: ext-a232499c5b34a4a3f08f
-
-Legends of the Dragonguard can be found throughout Tamriel. They reportedly developed Dragon hunting weaponry and techniques, and it was by their blades that Dragons became almost extinct in our lands. Unfortunately, the great Dragonguard order of old has long since been disbanded. If I am to gain their wisdom, it must be from the histories, documents, and artifacts they left behind.  
-  
-I believe I have discovered two Dragonguard tombs, fairly close together. It was common for soldiers to be buried with their personal possessions, which I hope will provide the information we seek. Each journal I find, each relic I uncover, provides another tool to aid us against the Dragons invading Elsweyr.  
-  
-Both tombs seem to be protected by a powerful magic which hides the entrances from sight. Luckily, my former student was able to find a journal describing Dragonguard burial practices. It outlines the custom of placing three glyphs near a tomb’s entrance, which will activate in the presence of a Dragonguard seal.These three glyphs should provide the key to the entrance to the tomb.  
-  
-However, both tombs are located in perilous locations. I worry that visiting both will take up far too much time, and my abbey and students await me back in Hammerfell. For this task, I require the aid of another. This helper must locate the northern, southern, and eastern glyph, then use what they find to open the tomb.  
-  
-I also came across a most curious phrase. I’m certain it’s integral to entering the tomb, though I’m unsure how. It is my hope that once the entrance is revealed, the phrase’s meaning will also become clear.  
-  
-“With our Blades, Honor is sealed. With Bravery, the Way is revealed.”
-
-[출처](https://www.imperial-library.info/content/kasuras-notes)
+[출처](https://www.imperial-library.info/content/nycotic-cult)
 
 ---
 
-## Keema-Ru’s Grave-Stake
+## 니콜바라의 사육장 규칙
 
-ID: ext-adad731ece69bb1a5c81
+ID: ext-ee5adc1d7f3fa6aeed02 / ESO 책 ID: 2760 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Keema-Ru  
+1. 비스트마스터가 없는 자리에서는 듀르조그에게 먹이를 주려 하지 말 것.  
   
-Lived Simply  
+2. 항상 팔과 다리에 방호용 가죽을 착용할 것.  
   
-Worked Diligently  
+3. 듀르조그의 눈을 절대 똑바로 쳐다보지 말 것.  
   
-ndured Hardships
-
-[출처](https://www.imperial-library.info/content/keema-rus-grave-stake)
-
----
-
-## Keeper of Tomes
-
-ID: ext-20527cc564f741c6ab63
-
-In time, we realized we required a guardian—one as ageless as our repository, to ward our histories against Lorkhan’s children’s all-consuming march.  
+4. 허가된 노래: 취한 개, 요새의 겨울, 마법사 면상에 주먹 한 방  
   
-We scoured the planes of Oblivion in search of such a being. Many were found wanting: some the right hands of Daedric Princes, others less-known denizens of its darkest corners. In time, the one for whome we searched found us.  
+5. 금지된 노래: 음란한 아르고니안 메이드, 듀르조그 둘러싸고 강강술래  
   
-Ukaezai was her name. A mighty Dremora of great skill, capable of preserving the most delicate substances against the vitriol of our most destructive conjurations.  
+6. 듀르조그가 우리를 빠져나갔을 경우, 제압하려 들지 말 것. 발견 즉시 죽일 것.  
   
-We summoned Ukaezai and bound her to this space for so long as its stones would last. She would walk its halls and explore our most well guarded secrets in exchange for her stewardship.  
+7. 듀르조그는 개가 아니다. "스팟"이나 "로버" 따위의 별명을 붙이지 말 것.  
   
-We bound her to the foundation and the very ground beneath. So powerful was this binding that she will remain long after the ruins have crumbled to dust. We trust her to keep her task—for what is time, to Daedra?
+8. 방심하면 목숨을 잃는다.  
+  
+9. 휘파람을 불지 말 것.
 
-[출처](https://www.imperial-library.info/content/keeper-tomes)
+[출처](https://www.imperial-library.info/content/rules-nikolvaras-kennel)
 
 ---
 
-## Keepers of the Grove
+## 닉스하운드: 새 주인을 위한 안내서
 
-ID: ext-92afe13c2a20748d6a20
+ID: ext-710827e2749ba88d6c3e / ESO 책 ID: 4000 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-My travels have taken me to many sacred places, but few are as beautiful or as serene as the Shrine of Kynesgrove. The rolling hills, the majestic trees. The lake filled with cool, clear water. The sun seems to paint the area with highlights of brilliant gold.  
+축하합니다! 이제 그대는 바덴펠에서 가장 알아보기 쉽고 충직한 애완동물 중 하나의 자랑스러운 주인이 되었습니다! 닉스를 처음 들이는 것이라면, 잠시 시간을 내어 닉스하운드를 기를 때 해야 할 일과 하지 말아야 할 일을 익혀 두시기 바랍니다. 검증된 확실한 방법을 따른다면, 앞으로 여러 해 동안 행복하고 건강한 동료를 곁에 두게 될 것입니다!  
   
-The shrine is breathtaking, sitting upon a rise and dominated by many standing stones carved with holy runes. The place truly seems to have been kissed by Kyne’s icy breath.  
+먹이 주기:  
+닉스하운드는 게걸스럽게 먹어 댑니다. 번데기에서 갓 나온 새끼 닉스는 하루에 제 몸집만 한 생물을 적어도 넷은 빨아먹을 수 있습니다! 신선한 체액 냄새가 야생 닉스를 끌어들일 수 있으니, 끼니가 끝날 때마다 애완동물의 주둥이를 반드시 헹궈 주세요.  
   
-The Keepers of the Grove are part of a holy order dedicated to the Goddess of Storm. They care for the grounds, offer daily sacraments, and maintain two lodges used as houses for the Keepers and hostels for visiting pilgrims.  
+새끼 구아, 염소, 크와마 번데기, 회분쌓기 모두 훌륭한 영양 공급원입니다. 다 먹고 난 뒤에는 그 성가신 고기 껍데기를 꼭 치워 주세요. 빨려 비워진 짐승은 야생 알릿에게는 더없는 별미라, 이빨투성이 심술덩어리가 제 마당을 어슬렁거리길 바라는 사람은 아무도 없으니까요!  
   
-I’ve never met a more dedicated group. They truly seem to be devoted to their god and to their cause, intent on maintaining the shrine and assisting pilgrims in their prayers.  
+성장의 이 중요한 단계에서 마지막으로 한 가지 일러둡니다. 어린아이들과 다른 애완동물을 새 동료에게서 떼어 놓는 것이 매우 중요합니다. 새끼 닉스는 호기심이 무척 강해서, 먹이를 찾아 저보다 작은 생물을 찌르기를 망설이지 않습니다. 죄 없는 오인 하나가 비극으로 이어질 수 있으니, 어린것들에게서 눈을 떼지 마세요!  
   
-The pilgrims come from all across Skyrim to seek Kyne’s blessing. Soldiers especially seek out the Warrior Goddess before they go into battle. Kyne’s blessing adds power to their weapons and fortifies their armor. It promises to keep them safe and victorious through the rigors of war. To receive this blessing, pilgrims pray for a day and a night in the grove, offering praise and gifts to the goddess while asking for protection and strength in battle.  
+손질하기:  
+닉스하운드는 청결을 무척 중히 여깁니다(대다수 애완동물 주인에게는 반가운 소식이죠!). 보통의 닉스는 몇 시간씩 들여 제 몸을 닦는데, 날쌘 더듬이다리로 얼굴의 키틴질과 더듬이를 긁어내고 윤을 냅니다. 안타깝게도 주둥이 길이와 비교적 굵은 목 탓에, 나머지 배와 가슴 부위에는 닿기가 매우 어렵습니다. 바로 여기서 그대가 나설 차례입니다! 2주에 한 번씩 기름 먹인 헝겊으로 새 친구를 잘 문질러 주어야 합니다. 다만 닉스의 감각모와 복부의 분비샘은 건드리지 않도록 조심하세요. 닉스는 엉뚱한 곳을 건드리면 사납게 날뛰는 것으로 알려져 있습니다. 하지만 걱정 마세요! 며칠과 고깃물 한 다스가량의 양동이만 있으면, 그대의 애완동물은 사랑스러운 기질을 되찾을 테니까요.  
   
-The Keepers offer guidance and counsel to those who need it, a friendly word to those who don’t, and food and lodging to all who seek Kyne’s wisdom and support. This is truly a blessed place.
+가슴 마디와 숨구멍 사이에 화산재 진드기가 있는지도 반드시 살펴 주세요. 이 자그마한 해충은 더없이 다정한 닉스조차 가려움에 미쳐 날뛰게 만들 수 있습니다!  
+  
+운동시키기:  
+닉스하운드는 많은 자극과 운동을 필요로 합니다. 부지런한 사촌 격인 크와마와 마찬가지로, 닉스도 일과 생산성에 푹 빠져 있습니다. 그러니 함께 어울려 주세요! '똥 숨기기'나 '비장은 누구 손에' 같은 놀이는 그대의 닉스를 한 번에 몇 시간씩 바쁘고 흡족하게 해 줄 것입니다!  
+  
+다루기:  
+닉스하운드는 다정하고 세심한 애완동물이지만, 그들을 차분하고 의젓하게 두기 위한 몇 가지 요령을 더 일러둡니다.  
+  
+먹이를 줄 때는 늘 닉스를 마주 보는 것을 잊지 마세요.  
+  
+닉스가 볼일을 보는 동안에는 눈을 똑바로 마주치지 마세요.  
+  
+친구나 이웃이 그대의 닉스 곁에 제 애완동물이나 아이를 내버려 두지 않도록 하세요.  
+  
+절대 닉스에게 소리치지 마세요.  
+  
+절대 닉스에게 속삭이지 마세요.  
+  
+절대 다른 닉스에게 지나친 관심이나 애정을 보이지 마세요.  
+  
+닉스의 침은 부식성이 있어 피부에 영구히 들러붙을 수 있으니 닿지 않도록 하세요.  
+  
+절대 닉스 곁에서 몸이 약하다는 기색을 보이지 마세요.  
+  
+맺음말:  
+이 짧은 안내서가 도움이 되었기를 바랍니다. 닉스하운드를 기르는 일은 그야말로 큰 즐거움이며, 좀처럼 잊지 못할 경험이 될 것입니다! 이 아름다운 생물과 함께하는 시간을 즐기시리라, 저희가 보증합니다!
 
-[출처](https://www.imperial-library.info/content/keepers-grove)
-
----
-
-## Keshu
-
-ID: ext-051fb29d865b5c8c8560
-
-Keshu: Travels Beyond the Village One of the first things Keshu the Black Fin, war hero and founder of the movement for an advanced Saxhleel society, decided after completing her rites of maturity and earning her place as a Saxhleel adult was to undertake a journey to learn more about the world beyond our tiny village. With sly Tee-Wan, mighty Vos-Huruk, crafty Xocin, and myself beside her, Keshu said farewell to the village and our teacher, the raj-deelith, Drameencin, and set off to see the wonders that waited beyond the familiar confines of Tadulpa.  
-  
-We headed north, stopping at each village along the way to visit friends and family members as we made our way toward the legendary city of Stormhold. In the village of Zurook, we were warned to avoid the Dark Elf enclaves in Stormhold, as they were notorious for capturing lone Saxhleel and shipping them off to serve as slaves back in Morrowind. We had heard rumors about Dark Elf slavers as we were growing up, but we never quite believed the tales in our secluded part of the greater marsh.  
-  
-We arrived in Stormhold with the rest of the throng of visitors—traders, mercenaries, crafters, and the most diverse group of people we had ever seen. In addition to the obviously citified Saxhleel (who we learned were called Argonians by the other races), we gaped in wonder at the giant Nords, the fair-skinned High Elves, the flamboyant Bretons, the brooding Dark Elves, and even the few Khajiit and Wood Elves wandering the squares.  
-  
-They were all strange and exotic to us, and we saw first-hand how some of our egg-brothers and egg-sisters were treated by the outsiders. Some, like the powerful and dignified city-dwellers, were bowed down to and venerated. While others, obviously weaker and poorer, were ordered about, denigrated, and even beaten, depending upon the whims of their masters. We were shocked and appalled, but Keshu ordered us to remain calm. “We can’t change the course of this river,” she said. “At least, not this day.”  
-  
-During our exploration of the city, we happened upon a group of young Nords and their charismatic leader, the bard named Jorunn. We listened to Jorunn perform, fascinated by the stories he told and captivated by his clear and expressive voice. He noticed our intense interest, particularly that of Keshu, and invited us to join him and his companions for the evening meal. Keshu and Jorunn became fast friends, speaking of many things long into the night. It turns out, he and his companions weren’t much older than we were and they were also traveling to see the world before the responsibilities of adulthood caught up with them. While we taught Jorunn and his friends how to eat and drink traditional Saxhleel fare, they exposed us to the Nord delicacies that were available at the inn.  
-  
-I didn’t listen to everything that Jorunn and Keshu discussed that night, but I heard some of it. Jorunn spoke of his family, the wonders of Skyrim, and his hope to someday be a famous bard. He explained that his sister was going to be Queen of the Nords, but I assumed that was just another one of his fanciful stories. I’m not sure what Keshu believed. For her part, Keshu told Jorunn about life in the marsh, what it meant to be a Saxhleel, and how our people had once commanded a much more advanced civilization. He appeared to be genuinely fascinated by everything she said. As the fire in the hearth burned down to embers and the tankards of Nord mead and Saxhleel bile beer were finally emptied, Tee-Wan came rushing in. “Xocin,” he said, his voice cracking with fear and sorrow, “he’s been taken by the slavers.”  
-  
-Keshu never hesitated. She rose and ordered us to action. She had no intention of allowing the Dark Elves to take our egg-brother away in chains. Before we could gather our weapons and head out, Jorunn stood. “Friends don’t let friends rush off to battle by themselves,” the big Nord declared. “Besides, we haven’t gotten into a good brawl since last Turdas. My companions get cranky when they go too long without a good brawl.”  
-  
-Our visit to Stormhold had taken a bad turn, like a sudden storm appearing on an otherwise sunny day. Xocin and Tee-Wan had decided to explore the city on their own while Keshu, Vos-Huruk, and I spent the evening with our new Nord friends. When Tee-Wan returned, he was alone. He explained that Dark Elf slavers had taken Xocin captive. Keshu, of course, planned to rescue him. And, much to our surprise, Jorunn the bard, leader of our new Nord friends, wanted to assist us. “Nothing gets the blood running like busting a few Dark Elf heads for a good cause,” he proclaimed in his deep, booming voice.  
-  
-Keshu and Jorunn led the way to the Dark Elf enclave on the edge of the city. “House Dres,” Jorunn said, but it came out more as a curse than a name. “I should have known.” We scouted the enclave, taking note of where guards were positioned and how they moved about the encampment. We determined where the newly acquired slaves were being held and began to formulate a plan for setting them free. Keshu led the discussion on strategy and Jorunn listened carefully, interjecting a suggestion every so often but otherwise agreeing with her plan. Just as the sun began to rise in the sky, four Saxhleel and five Nords went to war with the House Dres slaver’s enclave. And the battle was glorious!  
-  
-Launching a surprise attack on an overconfident and unprepared enemy is easier than you might imagine. Especially when you have a handful of overeager, half-drunk Nords at your side. Keshu and Jorunn fought like whirlwinds, carving a path to the slave pen while the rest of us dealt with arriving reinforcements. It took the Dark Elves more time than we expected to get their defenses together. The late hour and the unexpected assault seemed to have totally flummoxed the slavers’ usual routine. Jorunn explained that they were used to defending their caravans in the wild, but no one had ever had the audacity to strike at the heart of a Dres enclave. “And that’s why your plan is going to succeed,” he said to Keshu.  
-  
-With relative ease, Keshu dispatched the guards trying to protect the gate to the slave pen. Jorunn stepped into the opening she created and smashed off the pen’s lock with a single swipe of his massive battle-axe. Xocin emerged from the pen, leading a band of disheveled Saxhleel out of the confined space. By this time, the Dark Elves had rallied and were advancing on our position. “We’re about to have company, Black Fin,” Vos-Huruk warned. “And they have magic users with them,” I added. Keshu began giving orders, ready to fight to the last of us if that was what was required. But Jorunn had a different idea.  
-  
-“Not every battle needs to be to the death, my Argonian friend,” the big Nord said with a twinkle in his eyes. “Take your people and make your escape. My companion and I will keep the puny Elves occupied while you slip away.” Keshu thanked him and promised to return the favor someday. “I may just hold you to that promise,” Jorunn laughed as he turned to face the oncoming slavers. “Someday.”  
-  
-Keshu led us and the newly released slaves into the marsh as Jorunn and his companions took up our defense. The Nords fought with gusto, and we could hear them laughing and singing battle songs as we disappeared into the swamp. After we had run for nearly as long as it took the sun to reach the top of the sky, Keshu called for us to halt. She asked me to return to the city and make sure the Nords had survived the assault on the slavers’ enclave. Tee-Wan, skilled at stealth and deception, offered to accompany me. We set out immediately while Keshu talked to the now-freed slaves.  
-  
-We slipped back into Stormhold as quietly and unobtrusively as we could. The enclave was sealed up tight and a large contingent of guards had arrived to bolster its defenses. Tee-Wan and I made our way back to the inn. We found Jorunn and his companions there, appearing no worse for the morning’s battle. He thanked us for showing concern and coming to check on him, but he told us not to linger. “The House Dres leader is very upset about losing his slaves,” Jorunn said. “We’re even getting ready to leave this place—after we finish our meal and our mead. Tell Keshu I look forward to our next encounter.”  
-  
-And with that, Tee-Wan and I left the city of Stormhold. We never even glanced back once as we made our way to Keshu and the others.  
-  
-My tale of the younger days of Keshu, war hero and founder of the movement for an advanced Saxhleel society, continues. Our travels beyond the village of Tadulpa, the village where we grew up, proceeded, with Keshu determining every step we took through the greater marsh. Our company had grown from the five of us to a group of more than a dozen. Most of the slaves we freed from the House Dres enclave in Stormhold had departed, seeking to make their way back to homes and families. But not all of them had something to return to. And, it seemed, Keshu was developing into as charismatic and popular a leader as Jorunn the Nord, who we met in Stormhold.  
-  
-Keshu had always been fascinated by the tales of an advanced Saxhleel society that supposedly thrived in the distant past. For this part of our journey, she was determined to visit the site of one of these ancient cities. We followed clues contained in an old book she had borrowed from our teacher, the raj-deelith, Drameencin, and traveled deeper into the marsh. We moved through a portion of the swamp that was as dangerous to Saxhleel as it was to scaleless outsiders. In addition to strange predators and clouds of noxious poison that drifted casually on the breeze, we also had to contend with meat-eating plants, ambulatory mounds of flesh-dissolving mud, and swarms of hungry insects. But we were adult Saxhleel, tested and proven strong (well, except for me, who still had to complete my rites of maturity), and the great and powerful Black Fin was our leader. The swamp never stood a chance.  
-  
-We wandered for a time, trying to locate a specific landmark in the bleakness of the deep marsh. According to Keshu’s book, we were looking for two huge shining cypress trees, their trunks twisted by age and proximity so that they were intertwined like a thick, knotted rope. It was Tee-Wan who eventually found the tangled trees, calling out his discovery with a mix of excitement and dread. For beyond the trees, looming like a mountain from the murky water of the swamp, was the ancient stone ruins of the advanced Saxhleel civilization.The ruins waited before us, consisting of equal parts oppressive stone and dark shadows. Most of us were wary if not outright fearful of approaching the place. How could Saxhleel have tolerated living in such a structure? But Keshu displayed not a hint of the fear the rest of us were feeling. In fact, her face shone with wonder and excitement. Before any of us could stop her, she was racing up the stone steps toward the top of the pyramid, anxious to discover the secrets of the lost civilization. When she saw that the rest of us were hanging back, she returned and addressed our group.  
-  
-“Vos-Huruk,” Keshu said, “lead the group back to Tadulpa. I will follow and meet you there shortly.” We were worried about Keshu remaining among the ruins by herself, but we were also eager to return to our village. “What will you do out here?” I asked. Keshu erected the spine of compassion and simply replied, “Learn whatever I can.”  
-  
-We had been back in the village for almost the entire cycle of the moons when Keshu emerged from the swamp and returned to Tadulpa. She received a hero’s welcome, for the stories of our adventures had grown with each telling, and Keshu was considered to be the greatest of us all. She never encouraged the accolades, never sought glory. She greeted us each in turn, asked about the welfare of the freed slaves who had accompanied us, and then went to seek the counsel of the teacher, Drameencin. She found our old mentor in his mud hut, seeking solace from the heat of the day. “Welcome home, student,” he said, raising the spine of greeting.  
-  
-“Raj-deelith,” Keshu began, “let me tell you what I found in the place of the Old Ones.”  
-  
-Keshu: From Egg to Adolescence By Peek-Ereel, Friend and Confidant to Keshu the Black Fin  
-  
-Keshu the Black Fin, war hero and founder of the movement for an advanced Saxhleel society, started out as just another one of my many egg-brothers and egg-sisters. There wasn’t anything overtly special about her when we were growing up in the village of Tadulpa. Not that I could see, anyway. She played traditional games, ate traditional food, and learned to hunt and track and fight. I guess if Keshu exceled at anything, it was tracking and fighting. She took to these activities like a shap takes to water, out-performing the rest of us with an ease that was almost supernatural.  
-  
-Keshu and I became friends almost from the moment we emerged from our eggs. We were inseparable. We played together, did our chores together, and attended our lessons together, growing up as all Saxhleel do. I suppose I began to notice something different about Keshu during this period. She had a passion about history that went beyond memorizing facts and numbers. She wanted to know everything she could find out about the once-great Saxhleel civilization that existed before Duskfall. In this matter, she was an individual, much more independent and more free-thinking than the rest of her egg-siblings. In some ways, her fiery individualism frightened me.  
-  
-I guess the Hist saw the same things that I noticed, for when she licked the Hist on our Naming Day, she was awarded with the name “Keshu,” which literally means “Stands Apart.” It was a strong name, a good name. The name of a crocodile in a lake of shap. Keshu accepted the name with dignity and honor. It fit her well.  
-  
-To demonstrate that Keshu wasn’t all dull history and fighting, let me tell you about an event from our early childhood. The egg-tender Julan-Nah was forever scolding us and dispelling us from the Xal-Uxith, the Sacred Nest, even though Keshu loved to play among the developing eggs. To teach the egg-tender a lesson, Keshu tracked and captured a young wamasu. She released it into the nest, assuming it would scare the egg-tender and provide us all with a good laugh. It did the trick, all right, but it also cracked three innocent and helpless eggs. Keshu was so mortified by the damage she had caused that she volunteered to assist the egg-tender for the entire cycle of the calendar.  
-  
-Near the end of that cycle, the raj-deelith (literally, the elder teacher), Drameencin, arrived to instruct us in preparation for our rites of maturity. It was during this intensive period of lessons and training that Keshu’s companions gathered around her. In addition to myself, Keshu attracted the attention of the powerful Vos-Huruk, the sly Tee-Wan, and the clever Xocin. Vos-Huruk was a mountain of a woman who was almost Keshu’s equal in battle. Tee-Wan would grow to become a thief and a spy. Xocin, on the other hand, enjoyed mixing alchemical tinctures and would go on to become a powerful mage. All would follow Keshu to war. All except me.  
-  
-Throughout that season, our friendships deepened and Drameencin did everything in his power to prepare us for our maturity rites. But that is another tale entirely.  
-  
-Keshu: The Rites of Maturity I remember our rites of maturity as though we took them yesterday. Keshu the Black Fin, war hero and founder of the movement for an advanced Saxhleel society, earned her sobriquet completing these tests—and she began to build her reputation and solidify her relationship with the companions at this time as well. All of the companions exceled in the tests: Keshu, Vos-Huruk, Tee-Wan, Xocin, and even me (at least until the final test). Yes, we accomplished great things, but much of the credit has to go to our instructor and mentor, the raj-deelith, Drameencin.  
-  
-The elder teacher was ancient. Supposedly, he was old when our egg-parents hatched from the communal nest. But age didn’t seem to slow Drameencin. More like a fine mold or a fermented ooze, he just got better with every passing season. By the time we became his students, he was at the top of his craft and we were poised to become his masterpieces. He followed the usual methods of instructing young Saxhleel, making sure we conformed to the needs and requirements of the community and teaching us advanced techniques for hunting and tracking and crafting. But he took us beyond the source of the river to also enhance our peculiar talents. We weren’t just interchangeable eggs in a basket to Drameencin. We were individuals, and Keshu especially thrived under his tutelage.  
-  
-The Saxhleel rites of maturity consist of multiple tests of skill and bravery over the course of multiple days. Some of the tests are set, used by every Saxhleel community throughout the greater marsh. Others change, depending on location, time of season, or the specific tastes of a community’s raj-nassa (the elder leaders). Our rites included three difficult tests. How Keshu performed at these tests showed what kind of person she was blossoming into.  
-  
-The first of these tests was “The Trial of the Lost Centipede.” We were each directed to reach into a barrel and pull forth a single marsh centipede. If you’ve never seen a marsh centipede, they are excellent specimens of great size and nasty temperament. The average marsh centipede is as long as the span of your outstretched fingers and as thick as your wrist. The centipede selected is decorated with a distinctive mark to identify it. Then they are given to runners who race into the wilderness and release them. Our test was to track our specific marsh centipede, capture it, and return it to the raj-nassa alive and well. Now, tracking a specific centipede through an overgrown marsh is no simple task. It takes skill, patience, and even a bit of luck.  
-  
-Xocin recovered his centipede first, but in doing so he disturbed a haj mota. In order to elude the hidden hunter, he was forced to wade into a deadly patch of quicksand. Keshu, who happened to be passing by at the time, distracted the haj mota and sent it scrambling in the opposite direction. Then she circled back and rescued Xocin from the sucking embrace of the pool of mud and sand.  
-  
-By the time Keshu tracked down her centipede, it had gotten itself into a terrible situation. A trio of hostile nagas was hunting the plump, many-legged creature, hoping to make a meal out of it. To complete this part of the maturity rites, Keshu could not allow that to happen. Without hesitation, she slipped into the dark water and swam toward the trio, submerged and hidden from view as she made her approach. Vos-Huruk, who was returning to the village after collecting her own centipede, happened upon the scene and watched as the event played out. She reported what happened and now I am writing it down for posterity’s sake.  
-  
-As the naga hunters circled and closed in on their prey, Keshu silently rose from the dark water like a black fin on the prowl, a vicious dagger in each hand and a look of determination in her eyes. She dispatched the first two nagas with quick slashes of her blades, advancing toward the third before her initial kills had barely sunk below the surface of the marsh. By the time the last naga realized that death was fast-approaching, it was too late to defend himself. He fell without providing even a token resistance to the single-minded Keshu. She scooped up her centipede and followed Vos-Huruk back to the raj-nassa.  
-  
-The first of our three difficult tests completed, it was now time to begin our second rite of maturity. This was “The Trial of the Perfect Bowl.” It was as much a test of our crafting skill as it was a test of humility and confidence. The goal, we would discover later, was not necessarily to make the most ornate and complicated bowl we could devise, but to demonstrate that simple and utilitarian could also reveal perfection.  
-  
-The test consisted of three parts. First, we had to acquire the components necessary to craft our bowls. Then we had to locate the hidden crafting stations that had been set up in dangerous parts of the marsh for just this specific purpose. Finally, we had to craft our bowls and present them to the raj-nassa for judgment—before the crafting stations succumbed to the dangerous locations they were placed in.  
-  
-Each of us was provided with a specific material our bowls had to be constructed from. For example, Tee-Wan had to secure the shell of a rare three-clawed mudcrab, while I had to acquire the husk of a krona nut and Xocin needed to find the perfect branch from a dragon’s tongue tree. While each of these presented a particular challenge, we were afraid for Keshu when we heard what her primary component had to be. She needed to steal an egg from a haj mota nest! Not only were haj motas extremely protective of their nests, the brittle shells of the haj mota egg were notoriously difficult to work with. More often than not, the shells crack when not worked with the utmost care and expertise.  
-  
-Keshu, now called “the Black Fin” as the tale of her success in the first rite spread throughout the village, headed out to locate a haj mota nest. Since she had met one of the massive creatures during the previous trial, she decided to return to that area to start her quest. She spent an entire day watching the marsh, observing the comings and goings of the haj mota. It soon became evident that the creature was a doe and that it had a full nest somewhere nearby. Of course, there are few creatures as dangerous as a mother haj mota protecting its eggs, and Keshu would have to tread carefully to successfully complete this part of the trial, let alone survive to finish the entire rite.  
-  
-Now, Keshu wanted to steal an egg from the nest, but she didn’t want to harm any of the remaining eggs or injure the haj mota in the process. She believed in making as little mark as possible on the world as she passed through it. So once again she set out to distract the haj mota and lead it away from its nest. In this way, she hoped she could acquire an egg without having to face the creature’s wrath. This time, she gathered a bundle of orange-grass and marsh roots—a combination that few haj motas can resist—and used the intoxicating aroma (at least to the haj mota) to draw the creature away from its nest. Then she tied the bundle to a water lizard and sent it scurrying into the deeper marsh. The haj mota followed after it, leaving Keshu’s path to the nest clear.  
-  
-There were three eggs in the nest. Keshu didn’t select the largest egg, or the egg with the thickest shell. She took the smallest egg, because its mottled shell looked smooth and perfect to her crafter’s eyes. She saw the bowl within it, waiting to emerge. What she hadn’t seen, not until the last possible moment, was the male haj mota stalking out of the marsh and heading for the nest. She barely had enough time to slip away before the male reached the nest and noticed that an egg was missing. She listened to its roar, a mix of anger and loss, as she made her way to her crafting station.  
-  
-Keshu’s crafting station was set atop a log platform above a massive patch of deadly quicksand. She had to craft her bowl before the entire station sank into the marsh. She worked quickly yet carefully, expertly removing the very top of the egg to use as the basis for her bowl. She cleaned it, polished it, and added the reagents that would strengthen the shell and make it suitable for use as a vessel or container. She wrapped up her work and bounded off the platform just as the mud sloshed over the top and began to pull it completely into the marsh.  
-  
-As the raj-nassa examined each of our offerings in turn, we were able to look upon some truly impressive feats of crafting. But it was evident that Keshu had overtaken the field this season. Her bowl, crafted from the simplest haj mota shell, was elegant in its modesty and beautiful in its purity. It needed nothing but to be true to its natural form, and Keshu masterfully let that natural form shine forth—even as she turned it from a brittle shell into a strong, unbreakable bowl.  
-  
-Our third and final trial on the way to complete our rites of maturity was “The Trial of the Stalking Hackwing.” In some ways, this was the most dangerous of the rites we had to participate in to earn a place in adult society. Each of us was placed in a cage with a single, huge hackwing. The predatory bird was a vicious creature, strong and confident, every bit as capable a hunter as any of us—and it had the ability to fly. We had to allow the giant bird to attack us and draw blood. If we knew what we were doing, we let it strike so as to bloody us but not incapacitate us. Then the hackwing was released. Our goal: catch and kill the hackwing that marked us before it could do the same to us.  
-  
-Vos-Huruk and Xocin each took a beak strike to the leg. Both wounds were superficial, drawing blood but not ripping muscle or breaking bone. Tee-Wan allowed the hackwing to pierce his left arm, cutting a long but shallow line from his elbow to his shoulder. Keshu miscalculated a leap back and allowed her bird to cut her across the temple, just above her right eye. But I failed this part of the trial completely. I let the hackwing drive its sharp beak directly into my chest. The healers said it barely missed my heart. Even so, I was injured too badly to continue, and I would have to wait for another season to complete my rites of maturity.  
-  
-Keshu wanted to check on me, make sure I was going to be all right. The raj-nassa wouldn’t hear of it, however, and ordered her to continue with her trial—until either the Black Fin or the hackwing was dead. So with a final glance to make sure the healer was assisting me, Keshu wiped blood out of her eyes and ran into the wilderness. As was traditional, she had no weapon or armor. Just her body and her wits. It was time for the hunter to survive the hunt.  
-  
-Have you ever been stalked by a hungry hackwing? The experience can be disconcerting and more than a little frightening. Often, you only hear the beating of wings and the rush of air overheard. Sometimes you notice a shadow pass by. Rarely, you catch a brief glimpse of a wing or a talon. And, if you show the slightest weakness, the hackwing dives in and attempts to wound you. Then it simply waits and follows until you collapse from loss of blood. In the case of the rite, we were already bloodied by the hunting birds. They were going to come after us—one way or another. The trick was going to be in anticipating the attack and countering it with an attack of our own.  
-  
-(I keep saying “our,” but realize I was effectively out of the test. I was injured and weak and barely conscious for most of the remaining portion of the trial, only learning what happened later, after I was healed and the rites were finished for the season.)  
-  
-Keshu led her hackwing into a portion of the marsh where open sky was at a premium. She wanted to use the tree trunks and canopy to her advantage, cutting off all but the most direct paths between the hackwing and her present location. She moved deeper into the trees, flattening out the approach so that when the hackwing finally attacked, it would have to come for her not from above but from a horizontal direction at more or less ground level.  
-  
-As Keshu waited for her predator and her prey, she broke a sturdy branch from one of the trees at a steep angle, creating a makeshift spear with a ragged yet pointed edge. She braced the spear and her back against the tree trunk behind her and positioned the point so she could raise it quickly when the hackwing appeared. She didn’t have to wait long. Thinking that its prey had finally succumbed to blood loss and stopped to die within the cluster of trees, the hackwing swooped down and flew toward Keshu along the exact path she had planned. At the very last moment, Keshu angled the spear up and let the hackwing’s speed and trajectory do all the work.  
-  
-The hunt was over. Keshu was victorious. She had completed her rites of maturity and was ready to take her place as an adult member of the community. And the first thing she did was rush back to make sure I was still alive.  
-  
-Keshu: Travels Beyond the Village  
-  
-Keshu: From Egg to Adolescence  
-  
-Keshu: The Rites of Maturity  
-  
-Keshu: Travels Beyond the Village Ý
-
-[출처](https://www.imperial-library.info/content/keshu)
+[출처](https://www.imperial-library.info/content/nix-hounds-manual-new-owners)
 
 ---
 
-## Keystones of Loriasel
+## 다락방에 뭔가 있다
 
-ID: ext-75d57a600f073e9ba6c6
+ID: ext-3458e3584fe9ba14fb1d / ESO 책 ID: 2097 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-While one can’t use rumors as a basis for facts, they serve as a conduit to the past.  
+다락방에 무언가 있어, 피와 살점의 악취를 풍기네.  
+다락방에 무언가 있어, 종종거리는 발소리가 들리네.  
+다락방에 무언가 있어, 내게 무어라 속삭이네.  
+다락방에 무언가 있어, 풀어 주어선 안 되네.  
   
-Long ago, my people were powerful and learned. Xanmeers, the pyramids scattered throughout the marshes, were our creations, though details of their construction have long since passed from memory. We now see around us proud structures we once built, filled with our own Magicka.  
-  
-Keystones are found in many of the Barsaebic Ayleid ruins, but only in ruins that touch lands where our ancestors lived. Tales abound of Ayleids gathering power from their captives through torment and fear. They describe a process in which Magicka is infused into stones: artifacts that were Ayleid in nature, but not Ayleid in origin.  
-  
-I theorize these keystones hold Argonian Magicka tied to our history and essential for our protection. Nowhere else in Tamriel have any keystones been found; they are connected with Argonian history and indeed, our future.  
-  
-Three keystones were taken from the ruins of Loriasel in Shadowfen and dispersed for study. Unfortunately, the first to examine the keystones suffered nervous conditions that ended their lives. It appears only certain individuals, such as the Kothringi, can handle them for any length of time without suffering ill effects.  
-  
-Another aspect of the keystones, unique in my experience, is their cl—
+다락방에 무언가 있어, 내겐 정녕 선택이 없네.  
+다락방에 무언가 있어, 저리도 시끄러이 울리네.  
+침실에 무언가 있어, 내 두 눈이 휘둥그레지네.  
+거울 속에 무언가 있어, 안에서 나를 노려보네.
 
-[출처](https://www.imperial-library.info/content/keystones-loriasel)
+[출처](https://www.imperial-library.info/content/somethings-attic)
 
 ---
 
-## Khafdeed’s Journal
+## 다비엔의 쪽지
 
-ID: ext-1a3412242131eda789e9
+ID: ext-0d8671181692ee29819d / ESO 책 ID: 8129 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Silence is a weapon and a shield. This is the lesson taught to every Hel Netu child. Silence sharpens the mind. Knowing when to speak and when to hold your voice. Knowing how much to say and what to keep confined to your thoughts. Knowing the power in letting others guess your intentions. My parents told me to pursue the quiet and learn its shadows. Breaking the silence to utter these lessons itself, was a lesson.  
+동료 연금술사들과 대담한 머리 모양을 흠모하는 분들께,  
   
-Breaking the silence is my greatest weapon. The others of the Hel Netu see our ways as set in stone. They cannot divorce the teachings of our ancestors, before the Ancestor Moth Priests joined us on our island, from the possibility for new lessons. I am not a silent man. As the sea is not constant against the shore, so am I inconsistent in my silence. I am underestimated. I am powerful.  
+제 작품을 그토록 높이 사 주시니 참으로 송구할 따름입니다. 제 대담한 푸른 머리 모양의 바탕에 깔린 복잡한 연금술 공정을 헤아릴 수 있는 이는 오직 진정한 예술가뿐이지요. 하나 저마저도 이 하늘빛 머릿단에 어느덧 익숙해지고 말았으니, 다시 한번 연구에 틀어박혀 매진할 때가 온 것입니다. 머지않아 에메랄드빛(어쩌면 자홍빛마저도!) 머리 모양을 이뤄 내리라 큰 기대를 품고 있답니다!  
   
-Mentor Huzbedad says that I am brash and loud, but he does so with a knowing smile. I suspect he knows what my goal is, to turn the very idea of the shield of silence on those who seek to stifle me. He smiles because we both know how I am deflecting the blows of my parent’s demands with my own voice. Is that not the summit of our ideals? To use our speed, strength, power, and silence to turn the blades of our enemies on themselves? If our art lies within the practices of everyday life, then by not practicing brashness my ancestors have closed themselves off from learning all that Anu has to offer us.  
+그때까지는 부디 이 도시의 다른 연금술사들을 아껴 주시기 바랍니다. 그들의 머릿결이 제 것만큼 눈부시지는 못할지언정, 솜씨만큼은 제법인 이들이니까요.  
   
-I practice my sword forms loudly and quietly. I stomp my feet in the sand and tread carefully on stone. My punches ring out in the training areas and go unnoticed in the dead of night. I refuse to confine myself to the ideal of silence when so much else exists to explore.  
-  
-Perhaps that is really what the ancestors meant when they said to learn silence. The Hel Netu were meant not to live quiet lives of study, but to study life in all ranges of hearing. You cannot truly study silence without learning to make noise.
+대담한게 꿈꾸며,  
+다비엔느 지온테인
 
-[출처](https://www.imperial-library.info/content/khafdeeds-journal)
-
----
-
-## Khajiiti Arms and Armor
-
-ID: ext-01b7cb872b9a19b94f8a
-
-For a race living in the oppressively hot climate of Elsweyr, it is impractical in most cases for them to wear heavy clothing and armor, and the Cat-Folk’s naturally lithe frame and dexterity favors more lightweight protection. The Khajiiti abhor restraint and encumbrance, and their craftsfolk are diligent about providing armor to augment their prowling form. At its lightest, Khajiiti armor is often mistaken for well-appointed (but flamboyant) clothing. Quilted or padded cloth adorns the midriff and vital areas. This is augmented with vivid patterns of color and accented with a loose shawl, ribbons, or trinkets—an outfit that would result in mocking insults if worn by a race less decadent and hedonistic.  
-  
-For battles where the Khajiit expects punishment, they favor cloth and leather greaves, gauntlets, and a light helmet; this allows for supremely agile movement without sacrificing speed (or fashion).  
-  
-For this race of acrobats, even the heaviest Khajiiti armor is loose-fitting but actually has lacquered metal plates laced together with leather, under which is an embroidered tunic, completed with a helmet of fluted silver and durable linen. It is only under the most harrowing of conditions that the Khajiit will don full battle armor.  
-  
-As for weaponry, curved scimitars, sabers and knives, or punch daggers serve as an elongation of their own slashing, clawed hands. Occasionally these claw shapes extend to ritual tridents and the savage points on their longbow arrows or javelins
-
-[출처](https://www.imperial-library.info/content/khajiiti-arms-and-armor)
+[출처](https://www.imperial-library.info/content/dabiennes-note)
 
 ---
 
-## Khajiiti Champions
+## 다섯 충성스러운 시종에 관한 기록
 
-ID: ext-0713652920082a2c2288
+ID: ext-a73e81631e4804bf1280 / ESO 책 ID: 7861 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-…those born under the 3rd moon may one day become the Mane (in the event of the Mane’s death).
+나르시스 드렌 저  
+  
+에일리드 제국은 알레시안 노예 반란 앞에 무너졌고, 소서러 왕들은 부상하는 네딕 반란군의 힘에 짓눌렸다. 그러나 고대 에일리드 통치자들이 모두 축출된 것은 아니었으며, 일부 도시국가들은 자기보존을 위해, 혹은 네딕의 대의가 정당하다 여겨 전 노예들과 손을 잡았다.  
+  
+네날라타도 그러한 국가 중 하나로, 랄로리아란 다이나르 왕의 통치 아래에 있었다. 덕분에 그의 왕국은 화이트골드 파워의 함락에서 살아남아 새로운 알레시안 지배 아래 속국으로 명맥을 이었다. 세월이 흐르면서 이 속국들은 알레시안 제국에 흡수되었다. 결국 아미엘 황제 <여백 주석: "아니면 아미-엘인가?">는 살아남은 에일리드인을 추방하고 그들의 왕국을 접수하라는 최후통첩을 발령하였다. 다이나 왕은 알레시안 군대보다 먼저 달아났고, 혼란 속에서 그의 지위를 상징하는 왕관, 왕홀, 휘장이 사라졌다. <여백 주석: "연도는 엘프베타에게 확인 요망. 1차 사료가 불분명함.">  
+  
+다이나에게는 충직한 가신이 다섯 명 있었다. 그는 이들에게 휘장을 맡겼는데, 이후 최후의 왕의 문장으로 알려지게 되었다. 우리가 아는 충직한 가신들은 다음과 같다:  
+  
+로르-에메로, 왕을 섬기는 고귀한 기사.  
+파르하엘리아, 공포의 주먹이라고도 불리는 자.  
+호방한 발레펠린, 탁월한 유머와 거구로 유명한 모험가.  
+욘드발라, 오라클이라고도 불리는 자.  
+  
+이 넷은 모두 에일리드였다. 마지막 가신은 이름이 역사 속으로 사라져버렸는데 <여백 주석: "이름 없는 자?"> 네딕인이었던 것으로 보이나, 그 출신과 이름 모두 여전히 불명이다. 다이나는 다섯 충성스러운 시종에게 휘장을 맡겼고, 그들은 현재 웬디르 유적이라 불린다고 여겨지는 안식처로 물러났다. 이 유적에는 십 선조 중 하나 — 제국 붕괴 시기의 고대 상 — 가 있다는 소문도 있으나, 아직 확인하지 못하였다. 이 장소가 선택된 이유가 거기에 있을지도 모른다.  
+  
+내가(사실은 엘프베타가) 추적한 전설에 따르면, 이름 없는 자가 마지막으로 도착하였으며, 이 네딕 가신이 웬디르 지하의 지하묘지 문을 봉인하였다고 하는데, 물리적으로 한 것인지 마법으로 한 것인지는 불분명하다. 이름 없는 자는 위대한 주문시전자였을 수도 있으니, 전설에서는 다섯 충성스러운 시종이 오늘날까지도 휘장을 수호하고 있다고 전하기 때문이다.  
+  
+<여백 마지막 주석: "조수를 더 데려오라!">
 
-[출처](https://www.imperial-library.info/content/khajiiti-champions)
-
----
-
-## Khajiiti Honorifics
-
-ID: ext-91d814dd4d9e0ce8e4e2
-
-Southwest Elsweyr Representative to the Thalmor  
-  
-Have you met Headmaster Tanion? A most polite and correct mer, who was horrified when I informed him that he’d applied a most improper suffix to my name, instead of the appropriate “dra.” (To spare him further embarrassment, we shall not go into details—but ask me sometime after I’ve had a couple of glasses of tawny port.)  
-  
-So it seemed like a good idea to this one to compile a list of the most common Khajiiti name-titles—at least the proper ones—for the benefit of the College of Aldmeri Propriety, and all our new allies from Summerset and Valenwood.  
-  
-Feminine Honorifics  
-  
-“-dra” is a title of respect awarded to one known for her wisdom and wit, or as a consolation to one who has achieved a venerable age. I prefer to think that, in my case, it is the former condition that applies.  
-  
-“-daro” is for one who has achieved excellence in the nimble manipulation of loose articles, such as small decorative objects and unattached coinage. It may also be awarded to one who is lithe of tongue.  
-  
-“-do” is for one who has earned renown as a warrior—usually male, but occasionally (too occasionally, in this one’s opinion) a female.  
-  
-“-ko” is an appellation for respected healers, mages, and scholars, and is also sometimes added to the names of learned ancestors. Perhaps, once this one has passed on, her children will refer to her as “Radurra-ko”? …Well, it is a warm thought.  
-  
-“-la” is an oh-so-fleeting title applied to graceful maidens who are unmarried, or behave as if they were. This one remembers fondly when she was “Radurra-la”—just last year, no?  
-  
-“-ma” is for a young child of either gender, a term of endearment, except when it is shouted or snarled.  
-  
-Masculine Honorifics  
-  
-“-dar” is perhaps the most ancient of all Khajiiti titles, an appellation earned by those who are nimble in fingers and wits, and are both inquisitive and acquisitive. I have heard that it is also sometimes applied to politicians, but such usage would surely be jocular (and never employed by me, sweetness!).  
-  
-“-do” is an honorific for one who has earned distinction on the field of battle or in personal duels. Beware of those strutting lions who apply the title to themselves, not waiting for others to award it.  
-  
-“-dro” is a title applied to wise elders, patriarchs, grandfathers, and those who walk too slowly in front of one in the marketplace.  
-  
-“-jo” is an appellation for respected physicians, scholars, and mages, though it is also frequently adopted by charlatans and mountebanks. I remember a handsome, dark panther in Corinthe who wanted to sell me a string of “enchanted” pearls … but that is a story for another moon.  
-  
-“-ra” is for an esteemed leader of soldiers, trade, or governance. A cat-ra often has a harem of kitten-las, sometimes ostentatiously so, especially if he is making up for a deficiency in his short-tail.  
-  
-“-ri” is a title rarely awarded, as it is reserved for great leaders of our people, Speakers, Kings, and Manes—and perhaps for a virile lover whilst wrestling amongst the pillows. Or so I have heard.  
-  
-This one has also heard that among the faddish youth of Alabaster, it is the fashion to place the honorific before the name, rather than after. Radurra-dra likes to be fashionable, but she fears she cannot approve of this practice, as it will tend to make Khajiiti names sound far too alike. That would be boring—and we do not wish to be boring, yes?
-
-[출처](https://www.imperial-library.info/content/khajiiti-honorifics)
+[출처](https://www.imperial-library.info/content/notes-on-the-five-loyal-retainers)
 
 ---
 
-## Khunzar-ri Sayings
+## 다섯 충성스러운 시종을 위한 비문
 
-ID: ext-200382d99f1eb250426f
+ID: ext-3b358ef37874b252b0b5 / ESO 책 ID: 7865 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Khunzar-ri Sayings, Verse One  
+다이나 왕의 다섯 충신은 휘장의 길을 걸은 뒤로도 한결같이 경계를 늦추지 않는다  
   
-Khunzar-ri says  
+로르-에메로가 가장 서쪽 끝에서 시작했다  
   
-War is like the two Moons  
+파르헬리아가 뒤를 이어, 말을 달려 나흘 밤 동안 동쪽으로 향했다  
   
-Always there  
+발레펠린이 그다음으로, 사흘 동안 북쪽으로 나아갔다  
   
-But not always seen  
+욘드바를라가 네 번째로, 이틀 밤 동안 서쪽으로 나아갔다  
   
-Khunzar-ri Sayings, Verse Two  
-  
-Khunzar-ri says  
-  
-In the spring, when  
-  
-Moon-sugar shoots are young and tender,  
-  
-Khajiit must learn to step carefully  
-  
-And leave no trace of their passage  
-  
-This is the way of the Silent Paw  
-  
-Khunzar-ri Sayings, Verse Three  
-  
-Khunzar-ri says  
-  
-If Khajiit has much gold  
-  
-But no claws  
-  
-They have no wealth  
-  
-Only shiny objects  
-  
-Khunzar-ri Sayings, Verse Four  
-  
-Khunzar-ri says  
-Walk silent and unseen  
-To your enemy’s back and  
-Slide a dagger in their ribs  
-Before disappearing in the night  
-That is the Khajiit way
+이름 없는 자가 마지막으로, 북쪽으로 한 걸음 내디딘 뒤 보존의 안개를 풀어놓았다
 
-[출처](https://www.imperial-library.info/content/khunzar-ri-sayings)
+[출처](https://www.imperial-library.info/content/epitaph-for-the-five-loyal-retainers)
 
 ---
 
-## Khunzar-ri and the Dark Moons
+## 다이어프로스트의 화염
 
-ID: ext-491101cd23f543e068d4
+ID: ext-90539c2def1e2fca9eb7 / ESO 책 ID: 896 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Sometimes knowledge can only be found in the dark. The fading moon gives way to the empty sky.
+다이어프로스트의 화염과 후계자의 횃불  
+  
+소르빌드 다이어프로스트 지음  
+  
+아들과는 언제든 저 횃불과 화염을 통해 이야기를 나눌 수 있을 것이다. 허나 그가 세상을 떠나면, 화염이 밝혀질 때 소환되는 자는 바로 그가 될 것이다. 그러므로 이것을 장차 다이어프로스트의 화염과 후계자의 횃불을 물려받을 모든 후손을 위해 적어 두노라. 우리 민족이 스카이림 전역으로 퍼져나가면서 결의가 흔들리는 것을 목격해 왔기에 이 글을 쓴다. 저 횃불과 화염이 진정으로 무엇을 의미하는지 다시금 새기기 위해 이 글을 쓴다.  
+  
+처음부터 이야기하자면, 다이어프로스트 성채는 오랜 세월 우리 가문의 화염을 수호하여 왔으며, 그 덕에 우리는 소븐가르드에 있는 조상들과 교신할 수 있다. 후계자의 횃불에 불을 붙이기만 하면 된다.  
+  
+이 유물들의 기원에 관해서는 수많은 전설이 전해진다. 데이드라를 괴롭히기 위해 메리디아가 만들었다는 설, 또는 죽은 신이 소븐가르드로부터 넌의 노드들과 소통하는 방법으로서 쇼르가 만들었다는 설이 있다(다만 다이어프로스트 가문 중 화염을 통해 그의 목소리를 들은 자는 없다).  
+  
+진실은 세월 속에 묻혀버렸으나, 모든 전설에서 공통적으로 이르는 바가 있다. 다이어프로스트 가문이 마녀와 그 데이드라 주인들에 맞서 싸우는 데 있어 탁월한 능력을 지녔기에, 화염과 횃불을 지키도록 그들에게 주어졌다는 것이다. 화염이 영원히 꺼지더라도, 횃불을 잃어버리거나 오블리비언의 해그레이븐 종자들에 의해 둘로 쪼개지더라도, 이 사실만은 반드시 남아야 한다.  
+  
+다이어프로스트 가문은 어디서든 발견되는 데이드라 숭배자들을 저지하고 섬멸하는 임무에서 결코 흔들려서는 안 된다. 다이어프로스트 가문의 사람이 단 한 명이라도 살아 있는 한, 마녀와 데이드라와 교통하려는 모든 자들에게는 적이 있는 것이다. 마녀 사냥은 다이어프로스트 가문의 직업이 아니라, 신성한 천직이다. 그리고 이 글을 읽는 다이어프로스트 가문의 모든 이에게, 이 싸움을 계속하라 명하노라. 이길 수 없는 싸움이나, 마녀들 역시 결코 이기는 일이 없도록 해야 한다.
 
-[출처](https://www.imperial-library.info/content/khunzar-ri-and-dark-moons)
-
----
-
-## Khunzar-ri and the Demons
-
-ID: ext-233aaf3fce2fc149ebdb
-
-Khunzar-ri and the Demons [Part One]  
-  
-A Moon-Singer Story of the Hero Khunzar-ri.  
-  
-In the time before time, when the sixteen kingdoms were barely more than sixteen tribes, the great hero Khunzar-ri met a demon on the border of Elsweyr.  
-  
-The demon, whose name was Kaalgrontiid, proclaimed in a powerful voice, “My brothers and I shall take this land. Its treasures and even the moons above will be ours!”  
-  
-“I do not think so, foul demon,” Khunzar-ri said. “Elsweyr and all it contains, even the moons above, are under my protection.”  
-  
-The demon laughed. “You cannot stop us, little cat-thing! You are nothing but soft flesh and fur, while we are scales and teeth and claws!”  
-  
-Khunzar-ri thought for a moment. “Perhaps you are right, oh massive demon. You are certainly too much for even my prodigious strength.” Then he thought to himself, “That is why I shall gather a Kra’Jun, a company of heroes. Together, we will find a way to stop you, foul demon!”  
-  
-So, while the demons ravaged Elsweyr and chased the moons through the sky, Khunzar-ri went on a quest to form his Kra’Jun. He gathered the greatest champions of the age and convinced them to do what they had never done before — work together. He called to his side the Altmer, Nurarion the Perfect, who wielded the Subtle Blade. He coerced Flinthild Demon-Hunter to leave her castle in the far north. He used sweet words and flattered Anequina Sharp-Tongue, queen and moon-priest of the Ne Quin-al pride, until she agreed to stand beside him. Finally, Khunzar-ri asked he who would become the Betrayer to lend him his sword, for there was no finer warrior in all the land.  
-  
-With the Kra’Jun assembled, Khunzar-ri and his companions set forth to defeat Kaalgrontiid and his demon brothers. For forty-one days and forty-one nights, great and terrible battles raged across Elsweyr. The Kra’Jun won some of these battles and they lost some of these battles, but they could not find a way to kill or drive off the demons. It was he who would become the Betrayer who eventually made the suggestion. “The demons seek to consume the moons. Why not let them have them? Or, to be more precise, let them think we have surrendered and acquiesced to their plans.”  
-  
-“A brilliant idea!” Khunzar-ri concurred. “But instead of consuming the moons, we let the moons steal the life from them!”  
-  
-Anequina the moon-priest nodded in understanding. “This one can do that. This one can talk to Jone and Jode and ask them to consume the demons.”  
-  
-Then, Khunzar-ri used every bit of guile and charm he possessed to convince the demons that the Kra’Jun was now willing to help them. He told them where to meet, at a moon temple of renown, and waited while Anequina communed with the moons. “It is not in the nature of Jone and Jode to fully consume the demons,” Anequina said, “but Jode will take enough of their life force to weaken them. That should allow us to contain them.”  
-  
-“I know just the place,” proclaimed Nurarion the Perfect. “An ancient place of power, forgotten and long abandoned. We can trap the demons there.”  
-  
-Khunzar-ri was proud of the wisdom of his Kra’Jun, but he needed a way to lure the weakened demons into the trap. They had to enter the place of their own accord, for even weakened demons were too dangerous for the Kra’Jun to deal with. So Anequina and Flinthild put their heads together and devised a plan. They told Khunzar-ri, and he smiled and twitched his tail. “Fragrant!” he said.  
-  
-So the demons arrived at the moon temple and Anequina, acting as moon-priest instead of queen, opened a connection between Nirn and Jode in the form of a shaft of moonlight. The demons, greedy and hungry for lunar power, eagerly stepped into the moonlight, but immediately realized they had been tricked. They roared in pain as a portion of their life force was drawn away by Jode. It took Kaalgrontiid every bit of his remaining strength, but he resisted and rallied his brothers. They broke free of the shaft of treacherous moonlight and fled into the wilderness.  
-  
-Anequina then deposited a sliver of the demon-infused moonlight in an urn and gave it to Flinthild. Flinthild and the Kra’Jun took the urn to the ancient place of power, while Khunzar-ri went to do what he did best: convince the demons to follow the lure and walk into the trap of their own free will. And that is what he did, before the Betrayer earned his name. As you shall hear.  
-  
-These are the words, and the words are true.  
-  
-Khunzar-ri and the Demon: Part Two  
-  
-An ancient Khajiiti myth as recorded by Moon-Singer Mizbina  
-  
-In the time before time, when the sixteen kingdoms were young and like kittens at play, the great hero Khunzar-ri gathered a company of champions to combat the demon and his brothers. They had come to Elsweyr to steal the moons from the sky.  
-  
-With Nurarion already at his side, Khunzar-ri turned his attention to the next champion he planned to recruit. “The power of the moons will be ours, little cat-thing,” taunted the demon. “How can two possibly hope to stop many?  
-  
-Khunzar-ri said, “Because two shall become three, annoying demon. As soon as this one rescues Flinthild Demon-Hunter from the Ayleid lair of creeping ebony plants.”  
-  
-These are the words, and the words are true.  
-  
-Khunzar-ri and the Demon: Part Three  
-  
-An ancient Khajiiti myth as recorded by Moon-Singer Satarri.  
-  
-In the time before time, when the sixteen kingdoms roamed with wild abandon, the hero Khunzar-ri gathered champions to deal with a terrible demon and his horde. With Nurarion the Perfect and Flinthild Demon-Hunter, he sought a third companion.  
-  
-The demon said, “Oh, little cat-thing, you amuse us! How can three tiny morsels ever stand against us?” Khunzar-ri laughed, “We may be tiny, but we are persistent! And tricky, too, as you will see.”  
-  
-Then Khunzar-ri turned to his Kra’Jun. “One more we need, a Khajiiti queen of renown. Anequina Sharp-Tongue, who loves to bask in the glow of the Big Moon when she reflects and thinks deep thoughts.”  
-  
-These are the words and the words are true.
-
-[출처](https://www.imperial-library.info/content/khunzar-ri-and-demons)
+[출처](https://www.imperial-library.info/content/direfrost-flame)
 
 ---
 
-## Khunzar-ri and the Lost Alfiq
+## 다크 앵커에 동력 공급하기
 
-ID: ext-c6174f1268cafc40d584
+ID: ext-681d879394df82306baf / ESO 책 ID: 1664 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Transcribed by Aneshi, Keeper of Legends for the 16 Kingdoms  
+우리의 위대한 프린스 몰라그 발께서 비참한 넌의 영역을 정복할 방법을 찾아내셨다. 검은 대장간에서 제작한 다크 앵커로 세계 사이의 방벽을 약화시키고, 형이상학적 사슬을 통해 넌과 콜드하버를 음모의 신 군주 자신이 통치하는 단일 영역으로 병합할 수 있다.  
   
-One day, when the sun was at its highest, Khunzar-ri heard a weak voice just off the road.  
+오블리비언의 혼돈을 가로지르는 연결을 형성하려면 상당한 힘이 필요하다. 안타깝게도 이 에너지는 차원 갈고리와 사슬을 만드는 원자재만큼 손쉽게 얻을 수 있는 것이 아니다. 강력한 필멸자들, 특히 강력한 마법 사용자들이 가장 순수하고 효율적인 에너지원이 된다. 반면 소울 슈리븐은 이 목적에 있어 사실상 쓸모가 없다. 그들에게서 끌어낼 수 있는 에너지의 양은 병합 과정을 시작하기에도 겨우 차고 넘칠 뿐, 완성을 보기에는 턱없이 부족하다. 강력한 필멸자 마법사들의 무한한 공급원이 갑자기 우리 수중에 들어오지 않는 한, 다른 대안을 모색해야 할 것이다.  
   
-“Why did I ever leave home?”” the voice said.  
+***  
+우리의 다양한 실험이 마침내 결실을 맺었다. (수많은 시행착오 끝에) 아트로나크가 다크 앵커에 충분한 에너지를 공급하는 데 활용될 수 있으며, 심지어 궁극의 다크 앵커인 거대한 족쇄에도 동력을 제공할 수 있다는 사실을 발견하였다. 화염 아트로나크와 서리 아트로나크도 효과적이지만, 단연 가장 강력한 에너지를 공급하는 것은 변덕스러운 폭풍 아트로나크다. 다크 앵커와 거대한 족쇄를 넌으로 내리꽂는 데 필요한 에너지를 마련하려면 이 바람과 번개의 크리처를 대규모로 확보해야 한다.  
   
-“Why would you stay home?” Khunzar-ri asked in return, starting toward the voice.  
-  
-“Oh! I’m found!”  
-  
-And indeed the little Alfiq was found. Khunzar-ri examined the quivering handful, seeing burrs, bits of twig, and more stuck in her matted fur. “You have traveled far?”  
-  
-“Yes. I wanted to see the world before I was sent to the temple.”  
-  
-“This I can respect, little one. But why do you lament leaving your home?”  
-  
-“Well, because I’m lost and hungry.”  
-  
-“Ah, the hunger we can fix right away.”” And Khunzar-ri set some scrumptious fish cakes down in front of the young Alfiq. “As for being lost, consider this. Are you not exactly where you need to be right now?”  
-  
-Between bites, she said, “I don’t think so. Wouldn’t I know where I was if this is where I need to be?”  
-  
-“Not necessarily, my friend. Lost can be a point of view you adopt when fear or confusion overtakes you. If you instead think about how you wanted to see the world… well, here you are seeing it.”  
-  
-“Are you saying that I’m lost only because I think I’m lost? But because I’m doing what I wanted to do, I’m not lost?”  
-  
-“Only if you say so and mean it!”  
-  
-“Then I’m not lost!”  
-  
-Khunzar-ri chuckled. “Good, my not-lost friend. Would you care to join me on my travels for a time? I, too, would love to see the world right now.”  
-  
-And so the young Alfiq joined Khunzar-ri, and the two enjoyed many adventures together.
+현재로서는 이것이 최선의 해법으로 보인다. 적어도 에너지를 안정적으로 뽑아낼 강력한 필멸자 마법사 공급원을 확보할 때까지는. 그 방면의 노력도 계속해 나갈 것이다. 몰라그 발의 영광을 위하여!
 
-[출처](https://www.imperial-library.info/content/khunzar-ri-and-lost-alfiq)
+[출처](https://www.imperial-library.info/content/powering-dark-anchors)
 
 ---
 
-## Khunzar-ri and — — Moons
+## 다크 컴퍼니: 탈영병인가, 용병인가?
 
-ID: ext-4ad7d6ff28a8e49b3305
+ID: ext-7a2dc1550e8ced6e3203 / ESO 책 ID: 8135 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-When Khunzar-ri — — mirrored full —  
+호민관 알레아 이돌루스의 대대 소속 군단병 카에피오가 작성한 보고서입니다.  
   
-— saw — the lions glared — — other —  
+웨스트 윌드 황야에 새로운 위협이 나타났습니다. 세 깃발 전쟁에 참여한 모든 연합의 병사들이 기록적인 숫자로 탈영하고 있습니다. 이 중 다수는 상관의 복수를 피하고자 가능한 한 멀리, 최대한 빨리 도망치지만, 적지 않은 수가 자신들을 다크 컴퍼니라 부르는 용병단을 결성하였습니다.  
   
-Across — — sky
+이 용병들이 윌드 전역의 버려진 건축물을 점거하고 야영지를 세워 주변 농장과 대상무역단을 상대로 도적질과 약탈을 자행하고 있다는 증거를 확보하였습니다. 심지어 고용병으로 취직한 자들도 있는데, 특히 온투스 채석장의 레이디 락살리에게 고용된 이들이 두드러집니다.  
+  
+아직 이 그룹의 지휘 체계를 파악하려 시도 중입니다. 용병단 치고는 분명히 어느 정도의 군기를 유지하고 있습니다. 그 안에 전직 군단병들까지 섞여 있을 뿐 아니라 한때 에본하트 조약, 알드메리 자치령, 대거폴 동맹을 유해 싸웠던 병사들도 있다는 사실이 뼈아프게 느껴집니다. 불구대천의 적들이 이제 한데 뭉쳐 웨스트 윌드의 백성들을 상대로 범죄를 저지르고 있으니 실로 놀라운 일입니다.  
+  
+자원이 여전히 부족하다는 것은 알고 있습니다만, 이 다크 컴퍼니를 조속히 처리하지 않으면 우리가 감당하기 어려울 만큼 강해지고 굳건히 자리 잡을 수 있다는 제 판단은 변함이 없습니다.
 
-[출처](https://www.imperial-library.info/content/khunzar-ri-and-moons)
+[출처](https://www.imperial-library.info/content/dark-company-deserters-or-mercenaries)
 
 ---
 
-## Khunzar-ri: Origin
+## 단검의 환
 
-ID: ext-9b4aade69bdf9502b563
+ID: ext-c904a02127cd88287de8 / ESO 책 ID: 1874 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-By Aneshi, Keeper of Legends for the 16 Kingdoms  
+군단병 관보의 진실 저자, 아에밀리아누스 팔토 저  
   
-Of all the Khajiiti heroes, none invokes such a sense of adventure and wonder as the mighty Khunzar-ri. Like many of our myths and legends, the stories associated with Khunzar-ri often contradict one another and hide important truths behind allegory and allusion. Such is the case when one considers the tales that describe the origin of this beloved hero. Here are three of the most popular stories that tell of Khunzar-ri’s first adventure. Notice how different each one is. Can they all be true? Some Moon-Singers believe so, though at least one revered lore master claims that the truth concerning the origin of Khunzar-ri lies in the intersection of all three.  
+"단검의 환."  
+  
+너희도 그 이름이 속삭여지는 것을 들었을 것이다. 그리고 그 의미도 알 것이다. 변질된 관리들. 원인을 알 수 없는 실종들. 밤중의 살인.  
+  
+단검의 환. 요원들, 잠복자들, 도발자들. 죽음의 상인들. 피에 물든 상인왕 에머릭을 위해 더러운 일을 해주는 자들.  
+  
+바로 여기, 너희가 사는 이 도시에서. 너희 집 바로 옆 동네에서. 아마도 너희가 믿고 잘 안다고 생각하는 사람들 사이에서도.  
+  
+그런데 너희는 과연 이웃을 얼마나 잘 알고 있는가? 사타칼람에 삼촌을 만나러 갔다는 그 사람—정말 거기 간 것이 맞는가? 그녀의 거실에 새로 들어온 수제 깔개—대거폴 동맹의 골드로 치른 것은 아닐까? 선술집에서 그와 함께 술을 마시던 브레튼—그렇게 은밀하게 무슨 얘기를 나눈 것인가?  
+  
+단검의 환이 너희 사는 지역에 잠입해 있는가? 확신할 수 있는 사람은 자신의 이웃을 충분히 파악하고 있는 사람뿐이다. 눈에 보이는 것만 신뢰하고, 설명할 수 있는 것만 믿어라. 기억하라. 단검들은 너희가 그냥 어깨나 으쓱이고 외면해주기를 기다리고 있다. 그들의 전복 행위를 그냥 넘어가면 안 된다. 자칫하면 다음 표적은 바로 너희가 될 수도 있다!  
+  
+의심스러운 것을 보거나 들었다면, 그에 대해 행동하는 것은 너희의 몫이다. 의심스러운 행동은 가장 가까운 제국 점령 당국에 신고하라. 그 다음은 우리가 맡겠다, 시민이여.
+
+[출처](https://www.imperial-library.info/content/ring-daggers)
+
+---
+
+## 단색의 붓
+
+ID: ext-2087791c19ee67d3335b / ESO 책 ID: 4829 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+서머셋 옛 민간 설화, 작자 미상  
+렐릭마스터 글레나디르 채록  
+  
+뛰어난 재능을 지닌 화가가 있었다. 그녀의 눈은 보이지 않는 세계들로 빛났으니, 너무도 장엄하고 찬란하여 아름다운 서머셋조차 빛을 잃을 지경이었다. 그녀는 그 생기로운 광경들을 화폭에 담으려 하였으나, 흔한 색채들로는 부족하였다. 어찌하면 그 환상을 살아 숨 쉬게 할 수 있을까?  
+  
+그토록 절망에 빠진 때에, 한 가난한 상인이 그녀의 문을 두드렸다. 그것은 초라한 행색의 노인으로, 발치의 사냥개 말고는 동료라 할 것이 없었다.  
+  
+"이 붓을 사시겠습니까?" 가난한 상인이 물었다. "댁의 집을 보아하니 화가이신 것 같습니다. 이것이 있으면 작품에 진정한 생명을 불어넣을 수 있을 것입니다."  
+  
+흥미를 느낀 화가는 얼마 되지 않는 금액을 내고 그 붓을 사기로 하였다. 끝이 하얗고 검은 상아 손잡이가를 가진, 제법 큰 붓이었다. 단색 붓이라 불린다고 들었으나, 이름에 현혹되어서는 안 된다는 말도 들었다. 그렇게 노상인은 흡족한 미소를 띠고 떠나갔다.  
+  
+화가는 곧바로 작업에 들어갔고, 눈앞에서 불가능한 일이 펼쳐졌다. 조금 전까지 그저 물감에 불과하던 것이 스파클링하게 빛나며, 알 수 없는 깊이를 드러냈다. 색채와 감정을 초월하여, 이제껏 본 어떤 것도 뛰어넘는 무언가였다. 마침내, 마침내, 그 칼라즈들이 오랫동안 그녀의 머릿속에 있던 이미지들과 일치하였다.  
+  
+그런데 그녀가 그림을 그리는 도중, 기이한 일이 일어났다. 먼저 그녀의 입술과 손가락 끝, 코끝에서 색이 빠지기 시작했다. 머리카락은 황금빛 노란색에서 퇴색된 흰색으로 변하고, 옷은 파란색과 자주색을 잃고 회색 그림자로 변하였다.  
+  
+그녀는 알아채지 못하였다. 그리고 또 그리고, 끝없이 그렸다. 자신이 창조해나가는 광경 속에 길을 잃어, 그녀의 몸은 하얗게, 검게, 회색으로 변해갔다. 눈은 점점 무거워지고, 심장 박동은 간격이 점점 멀어지다가, 어느 순간 그녀는 쓰러지고 말았다.  
+  
+그녀의 몸 앞에는 서머셋 전체에서 가장 아름다운 그림이 놓여 있었다. 오늘날까지도 어딘가에 걸려 있다 전해지나, 넌에서 다시는 목격된 일이 없었다.
+
+[출처](https://www.imperial-library.info/content/monochrome-paintbrush)
+
+---
+
+## 단서: 서머셋 약탈
+
+ID: ext-8594fc8a61b0042e78c5 / ESO 책 ID: 7254 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+그대는 아우리돈으로 날아가리  
+마오머가 배를 대는 그곳으로.  
+  
+빛이 처음 하늘에 닿는 곳  
+모래로 깃을 두른 긴 해안을 따라.  
+  
+거대한 돌 아치 아래  
+다만 싸움을 치러야 할지도 모르리.  
+  
+그곳에 그대의 카드가 놓여 있으니  
+마오머의 횃불이 날아오르는 곳에.
+
+[출처](https://www.imperial-library.info/game-books/elder-scrolls-online-books)
+
+---
+
+## 단서: 세포라의 통찰
+
+ID: ext-e82201c780f0a726197c / ESO 책 ID: 7256 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+아가리가 벌어져 울부짖네  
+그 차디찬 항구에서.  
+  
+광막한 동굴 안에서  
+밝은 창들이 대담히 솟네.  
+  
+드높이 쌓인 소울젬 사이  
+밤보다 더 검게 물든 곳.  
+  
+여기 그대의 카드가 잠드니  
+탑의 통찰이라.
+
+[출처](https://www.imperial-library.info/game-books/elder-scrolls-online-books)
+
+---
+
+## 단서다, 이런 빌어먹을
+
+ID: ext-e1886db98cd981c8541e / ESO 책 ID: 1059 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+네가 이 글을 읽고 있다면, 내 보물을 노리고 있는 게로구나. 내 궤짝 안에서는 찾지 못할 게다, 천만에.  
+  
+전리품은 스트로스 므카이 어딘가에 묻어 두었다. 정확히 어디인지 알아내는 것이 시험이지. 부디 실패하길 바란다.  
+  
+아래 적은 것이 내가 줄 단서의 전부다. 네놈이 충분히 영리하다면, 보물은 네 것이 되겠지.   
+  
+네 그 좁아터진 어깨에 저주가 깃들기를, 이 고블린이 낳은 돼지 같은 놈.  
+  
+— 이자드 선장  
+  
+세인츠포트의 별 위에 올라서서  
+영원한 파수꾼을 살펴보라  
+그 관문을 돌아 성소에 이르라  
+북서쪽에 전사가 서 있나니  
+남쪽으로 마흔다섯 걸음을 옮기라  
+왼편의 야자수가 그 광경을 틀처럼 둘러싸리라  
+쇠 얼굴들의 섬을  
+바위 손가락을 따라가  
+부서진 배를 지나라  
+닻을 내린 돌배를 찾으라  
+그 포구의 잎사귀 아래 보물이 잠들어 있노라
+
+[출처](https://www.imperial-library.info/content/clues-damn-your-eyes)
+
+---
+
+## 단순한 기도
+
+ID: ext-8b2dfa5e89d370f1074e / ESO 책 ID: 2530 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+축복받은 룹트가시여,  
+  
+사자가 덮치지 못하게 하시고, 전갈도 ....
+
+[출처](https://www.imperial-library.info/content/simple-prayer)
+
+---
+
+## 단순한 환영 마법
+
+ID: ext-1d266a7a7d2e39774746 / ESO 책 ID: 1458 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+환영 마법 초보자 안내서, 원초의 눈속임사 니나레온 저!  
+  
+제1장 : 시각  
+  
+제2장 : 청각  
+  
+제3장 : 후각과 미각  
+  
+제4장 : 촉각  
+  
+제5장 : 다중 감각 통달  
+  
+제6장 : 인물 재현  
+  
+제7장 : 싸우는 빛  
+  
+제8장 : 초보자를 위한 의식 (감독 없이 시행하지 말 것)  
+  
+- - - - - - - - - - - -  
+제8장 d: 지속적 환영 투영를 위한 의식적 생명력 결박: 완료  
+  
+의식을 끝내려면 크리스털을 하나씩 차례로 조율하면 된다. 크리스털 양쪽 빛의 색이 합쳐져 내부에 새로운 색을 만들어낸다. 빨간색과 빨간색이 합쳐지면 주황색이 되는 식으로. 올바르게 맞추면 소리도 들릴 것이다.  
+  
+주의하라. 주문 래티스를 유지하지 않으면, 의식주의자는 자신이 만들어낸 환영의 지속 속에서 생명 에너지가 순식간에 소진됨을 깨닫게 될 것이다.
+
+[출처](https://www.imperial-library.info/content/simple-illusion-magic)
+
+---
+
+## 단순함의 서약
+
+ID: ext-7ce4489ecaa5376637fd / ESO 책 ID: 2731 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+순례자여, 별들의 명을 새겨들으라:   
+  
+단순함을 좇고 부정한 쾌락을 멀리하라. 짐승이 그러하듯 오물과 진창에 뒹굴지 말라. 황금과 축복받은 붉은 돌로 지은 집에 머물지도 말라. 매사에 청결함과 검소함을 구하라. 방탕한 자와 잔을 나누지 말며, 점쟁이의 식탁에서 빵을 떼지 말라. 단순한 칼날은 깨끗하고 날카로워야 하느니. 단순한 전사는 짐 지지 않은 전사요, 무엇이 닥쳐오든 맞설 채비가 된 자이니라.  
+  
+별들이 명하는 대로, 단순해질 것을 맹세하라.
+
+[출처](https://www.imperial-library.info/content/pledge-simplicity)
+
+---
+
+## 달과 조수의 혼례
+
+ID: ext-bbb66f7ecec8e89fe99b / ESO 책 ID: 5811 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+일족 어머니 츠라다마 씀  
+  
+참된 카짓이라면 누구나 자-카제이가 하늘을 가로지르며 추는 부드러운 왈츠를 알고 있으나, 니르니 또한 그 춤에 함께한다는 사실을 헤아리는 이는 드물다. 비록 그녀는 자식을 낳도록 로카즈가 마련해 준 자리에 뿌리내려 있으나, 형제자매가 밤새 춤출 때면 그녀도 그들을 따라 흔들거린다.  
+  
+「하지만 츠라다마여,」 그대는 이리 말하리라. 「이 몸은 니르니가 달과 더불어 흔들리는 모습을 한 번도 본 적이 없소.」  
+  
+그대는 필시 보았으되, 다만 본 것을 헤아리지 못했을 뿐이다. 흥겨운 가락에 그대가 꼬리를 흔들어도 털 속에 깃든 벼룩은 그대가 춤추는 줄 알지 못하듯, 우리 또한 니르니의 움직임을 쉬이 알아보지 못한다. 다음번에 존과 조드가 떠오르기를 지켜볼 때, 바다에서 눈을 떼지 말라. 그러면 니르니의 간절한 물결이 그 둘의 길을 따라 해안 위로 점점 더 멀리 밀려드는 것을 보게 되리라. 이것이 바로 니르니가 달들의 음악에 맞추어 흔들리고 있다는 표시이다.
+
+[출처](https://www.imperial-library.info/content/marriage-moon-and-tide)
+
+---
+
+## 달램의 의식
+
+ID: ext-25a22ac19ed7c6e119e8 / ESO 책 ID: 3977 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+데이드라 군주를 불안으로 유혹하지 말지어다. 유리 조상들이 그리하였듯이, 무서운 시선이 부족에게 드리우지 않도록 그들에게 자유로이 바칠지어다. 계절이 잠시나마 호의를 베풀 때 프린스들에게 마땅한 것을 드릴지어다. 그리하지 않으면 그들은 궁핍한 때에 유리를 찾아올 것이니라. 구아가 살찌는 것으로, 내지에서 바다 냄새가 풍기는 것으로, 거짓 신의 길을 따라 길 잃은 자들이 방황하는 것으로 징조를 알아차릴지어다.  
+  
+부족을 위대한 알무르발라람미로 이끌지어다. 그곳은 조상들이 조약을 맺은 장소이니, 그곳에서 다시 조약이 갱신될 것이라. 도착하면 곡물의 화로에 불을 놓으라. 의식이 끝날 때까지 불을 지펴야 하느니라. 프린스들의 배가 채워지기 전까지는 그 누구도 배를 채울 수 없느니라.  
+  
+매일 태양이 먼 파도 너머로 솟아오를 때, 알무르발라람미의 고대 제단에 살아있는 희생물을 모으라. 검은 유리 칼날로 돌 위에서 목을 가르고, 피가 아직 신선할 때 데이드라 군주들을 불러내라. 단 하나라도 소홀히 하면, 유리의 고통은 필연이요 끔찍할 것이니라.  
+  
+태양이 참된 높이에 이르기 전에 제사의 내장을 제단 사방 끝까지 펼쳐놓고, 바칠 것을 프린스들의 자비에 맡겨라. 나미라의 숙주와 페리아이트의 손길이 시신을 더럽혔을 때, 그날의 잔치가 끝났음을 알게 되리라.  
+  
+수행자들은 바침을 거두고 축성유로 제단을 씻을지어다. 황혼이 가장 긴 날, 아주라가 유리의 제물이 데이드라 군주들에게 합당하였음을 알리리라. 오직 그 이후에야 단식을 끊고 간청을 멈출 수 있느니라. 알무르발라람미에 오래 머물지 말지어다. 그곳은 그들의 장소이니라.
+
+[출처](https://www.imperial-library.info/content/ritual-appeasement)
+
+---
+
+## 달렌 포스터
+
+ID: ext-91f638db09a8d40e1b7b / ESO 책 ID: 7936 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+존경받던 목장 일꾼  
+  
+사람보다 짐승을 더 사랑했고  
+  
+돌진하는 황소도   
+눈길 한 번에 멈춰 세웠으나  
+  
+피로열에는   
+끝내 맞서지 못했네
+
+[출처](https://www.imperial-library.info/content/dalenn-forster)
+
+---
+
+## 달빛 속의 춤
+
+ID: ext-4a777ed9567da837177f / ESO 책 ID: 2010 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+<<1>>은(는) 밤하늘을 올려다보았다. 달빛이 그녀의 눈을 가득 채웠고, 그녀는 자신이 해야 할 일을 알았다.  
+  
+몇 달을 그녀는 수련하였다. 언덕을 뛰어넘고, 계곡을 뛰어넘고, 산꼭대기를 뛰어넘었다. 더는 높이 오를 수 없게 되었을 때, 그녀는 거의 날아다니는 경지에 이르렀다. 오블리비언 속으로 굴러 떨어졌을 때 모든 것이 끝난 듯했으나 — 쌍이 그녀를 보고 품에 안아주었다.  
+  
+<<1>>은(는) 존에게서 빛을 뽑아 들고 넌을 향해 다시 한번 도약하였다. 그녀가 무엇을 가져갔는지 본 달들도 뒤를 따랐다 — 하늘을 가로질러 나선형의 춤을 추면서.  
+  
+달들이 거의 잡을 수 있겠다 싶을 무렵, 서로 충돌하며 멈춰 버렸다. 쌍이 이렇듯 엉켜버린 모습을 본 <<1>>은(는) 조드의 빛마저 뽑아냈다.  
+  
+그녀가 떠나려 하자, 달들은 그녀를 품에 붙잡았다. <<1>>은(는) 퀸'롤로 돌려보내 달라고 간청하였다 — 그곳이 그녀가 태어난 땅이었으므로. 다시는 달의 빛을 훔치지 않겠다는 조건으로, 달들은 그녀를 고향으로 돌려보내 주었다.  
+  
+그때 이후로, <<1>>의 이마에는 별가루의 고운 반점이 새겨져 있다 — 두 번 다시 별들 곁으로 돌아가지 않겠다는 맹세의 흔적으로.
+
+[출처](https://www.imperial-library.info/content/a-dance-in-moonlight)
+
+---
+
+## 달의 노래꾼 탈비라를 추모하며
+
+ID: ext-e94f371ab7a3244337af / ESO 책 ID: 8322 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+여기 탈비라 잠들다  
+스승이요, 어머니요, 딸이요, 인도자였던 이  
+그 노래는 라자스카를 물리쳤고  
+그 영혼은 아주라의 빛을 밝히는 등불이었네  
+  
+저승 건널목으로 가는 그 길이 굽지 않고 곧기를  
+그 목소리가 별 너머의 모래밭에서 영원토록 울려 퍼지기를
+
+[출처](https://www.imperial-library.info/content/in-memory-of-moon-singer-talbira)
+
+---
+
+## 달콤한 꿈의 베개
+
+ID: ext-d7bc5e14c1566b17a635 / ESO 책 ID: 4827 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+호노리아 아우러스의 시   
+렐릭마스터 글레나디르가 옮겨 적다  
+  
+베개에 머리를 누이니  
+감은 눈 뒤로 달콤한 꿈이 어린다  
+다시금 잠이 찾아오기를 갈망하노라  
+낮은 그 거짓으로 나를 잠기게 하리니  
+  
+그때 내 연인이 곁에 눕고  
+미소는 환하며 살결은 빛나니  
+그 순간 죽음도 그녀를 붙들지 못하나  
+아침이 오면 그녀는 떠나야 하리  
+  
+나는 다시 잠들어  
+영영 깨지 않으리  
+오늘 밤 내 영혼을  
+거두어 가리라
+
+[출처](https://www.imperial-library.info/content/pillow-sweet-dreams)
+
+---
+
+## 달콤한 문슈거 사탕수수
+
+ID: ext-323e253b1b0e7fc59112 / ESO 책 ID: 5599 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+(카짓 노동가)  
+  
+우드엘프에게는 로트메스가 있다  
+고기와 담즙으로 빚어낸 양조  
+도마뱀들은 벌레와 가지를 먹는다  
+어느 것이나 영 역겹기만 하구나  
+  
+허나 모래 위를 걷는 우리는  
+삶의 가장 큰 즐거움을 알고 있다  
+더없이 달콤하고, 맛있는 음식  
+우리의 보물은 바로 문슈거!  
+  
+코러스  
+달빛에 흠뻑 젖은 밭  
+여름비의 이슬을 머금고  
+찬란한 녹색으로 높이 자란다  
+달콤한 문슈거 사탕수수!  
+달콤한 문슈거 사탕수수!  
+  
+달이 차고 기우는 동안  
+두 달이 내려주신 선물  
+우리의 사발과 영혼을 채워주누나  
+달콤한 문슈거 사탕수수!  
+달콤한 문슈거 사탕수수!  
+  
+고급 스테이크 위에 뿌리면  
+달콤하게 반짝이고  
+연어에 듬뿍 발라  
+남김없이 다 먹어치운다  
+  
+달콤한 과자에 넣어 굽는다  
+한입 맛보고 싶지 않나?  
+어서 다 먹고 쭉 들이켜라  
+남기는 것은 아까운 일이니  
+  
+코러스  
+달빛에 흠뻑 젖은 밭  
+여름비의 이슬을 머금고  
+찬란한 녹색으로 높이 자란다  
+달콤한 문슈거 사탕수수!  
+달콤한 문슈거 사탕수수!  
+  
+달이 차고 기우는 동안  
+두 달이 내려주신 선물  
+우리의 사발과 영혼을 채워주누나  
+달콤한 문슈거 사탕수수!  
+달콤한 문슈거 사탕수수!
+
+[출처](https://www.imperial-library.info/content/sweet-moon-sugar-cane)
+
+---
+
+## 달콤한 삶
+
+ID: ext-b85ab857a3d80830afcb / ESO 책 ID: 787 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+설탕먼지 저  
+  
+한 번, 또 한 번, 모피에 빗질을 하노라니 최고의 광채가 드러난다. 입술은 발톱과 마찬가지로 붉게 물들어 있다. 피와도 같은 주홍빛으로. 방금 잡아 죽인 듯 선연한 빛깔이다. 눈두덩은 검은 빛으로 테를 두르었다.  
+  
+매일 밤 집을 나설 때면 사방이 들썩인다! 그토록 많은 이들이, 그토록 열망하며 몰려드는도다. 내 설탕과자를 한 입만 맛보게 해달라고, 내 크림의 첫 맛을 누릴 기회를 달라고 애원하나니. 그러나 이 몸은 걸음을 멈추지 않는다. 쟁반을 머리 위에 얹고 균형을 잡으며, 좌우를 거의 돌아보지도 않고서.  
+  
+이 몸이 손수 준비한 달콤한 크림을, 이 몸의 과자에 손을 댈 수 있는 것은 오직 하나뿐이다. 오직 그, 그 외에는 누구도 안 된다.  
+  
+그리하여 이 몸은 집에서 광장을 지나 사원까지 걸어가, 모든 것을 알코시께 바친다. 이 몸의 설탕, 타르트, 우유와 달콤한 크림을. 어느 하나 정성을 다해 준비한 공물이니, 그것을 그분의 제단 위에 올려놓는다.  
+  
+원초 고양이시여, 이 몸의 보잘것없는 공물을 받으시어 사랑의 첫 입맞춤이 주는 황홀함으로 이 몸을 가득 채워주시기를.
+
+[출처](https://www.imperial-library.info/content/sweet-life)
+
+---
+
+## 당국에 보내는 공고문
+
+ID: ext-9b620403ead98bac7a62 / ESO 책 ID: 1444 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+그 어떤 통치 기구의 권력자들에게 고하노라.  
+  
+하드란의 대상무역단에 거하는 주민과 그곳을 찾는 방문자들은 '자유민'으로서 너희의 숨 막히는 사회 규율을 거부한다.  
+  
+이 무역단의 시민을 내쫓으려 드는 자는, 그 불법하고 부도덕한 행위에 대하여 '참혹한 대가'를 치르게 되리라.  
+  
+리퍼스 마치는 모든 종족과 모든 생물에게 열린 자유의 땅이다. 우리는 메인의 앞잡이들과, 이른바 신이라 불리는 것들에 마음을 사로잡힌 노예들에게 침을 뱉는다. 우리는 그 어떤 왕과 여왕, 황제와 여제, 연합과 독재자 그 누구의 억압적인 군홧발도 거부한다!  
+  
+이 땅은 소수가 아니라 다수의 것이다!
+
+[출처](https://www.imperial-library.info/content/notice-authorities)
+
+---
+
+## 당신에게 맞는 길드는?
+
+ID: ext-0a89aa0d5b181a623036 / ESO 책 ID: 6108 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+모든 모험가, 용병, 스펠슬링거, 스카운드렐에게 고하노라! 함께 모험할 동료가 필요하다 느낀 적 있는가? 대담한 위업이 빚어내는 그런 전우애를 갈망하는가? 어쩌면 길드에 가입할 때가 온 것인지도 모른다!   
+  
+현재 모집 목록을 살펴보려면, 길드 전령 암사드에게 말을 걸라.
+
+[출처](https://www.imperial-library.info/content/which-guild-you)
+
+---
+
+## 당신의 곰 돌보는 법
+
+ID: ext-440aca4a41ca4a4561f9 / ESO 책 ID: 8128 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+임페리얼 동물 조련사 판테아 마리아 저  
+  
+축하한다! 그대는 이제 꼬마 곰의 자랑스러운 주인이 되었다. 갈색, 검정색, 설원, 소븐가르드, 선백 등 어떤 종류의 곰이든 새 애완동물은 수년간 기쁨과 충성스러운 동반자가 되어줄 것이다. 새 친구를 기르고 훈련하는 데 도움이 될 몇 가지 조언을 소개한다!  
+  
+먹이 주기: 곰은 잡식성이라 식물과 고기를 모두 먹는다. 동면에서 깨어난 야생 곰은 베리를 먹고 겨울에 죽은 엘크, 사슴, 그 밖의 포유류를 먹어가며 살아간다. 물고기도 좋아하는데 말린 물고기도 마찬가지다. 어떤 경우든 먹이를 정기적으로 마련해두는 것이 강하게 권장된다. 곰마다 개인적인 취향이 있으니, 여러 음식을 자유롭게 시도하며 그대의 곰이 무엇을 좋아하는지 알아보도록 하라.  
+  
+배설: 곰은 진짜로 숲 속에서 볼일을 본다. 야외 생활 환경을 마련하든, 이를 처리할 충분한 인력을 두든, 적절한 대비책을 갖춰둘 것을 권한다. 곰에게 집 안 생활을 가르치는 것도 불가능하지는 않으나, 잘해봐야 결과를 알 수 없는 작업이다. 인내심이 필요하다.  
+  
+활동: 곰은 주변 환경과 교감하기를 좋아하며, 시골 환경에서 자유롭게 돌아다니게 하는 주인도 있다. 보다 문명화된 지역에서 애완동물로 기를 경우에는 운동할 수 있는 충분한 공간이 있어야 하고, 상황이 허락한다면 수호자를 두어 곰의 필요를 돌보게 하는 것이 좋다. 곰은 인간보다 빠르게 전력 질주할 수 있으니, 장난을 칠 때는 이 점을 명심하라.  
+  
+동면: 광활한 먹이가 공급되는 사육 상태의 곰은 동면하지 않는다. 그러나 그 결과 평소 겨울잠을 자며 소모되어야 할 체중이 과도하게 쌓일 수 있다. 이에 맞게 곰의 식사를 계획하라.  
+  
+훈련: 곰은 본성적으로 호기심이 많고 탐구적이며, 특히 먹이와 관련될 때 종종 파괴적인 행동을 보인다. 곰의 훈련은 일찍 시작하고, 규칙을 어길 때 그 사실을 분명히 알려주어라. 곰에게 단호하게 대하되, 본질적으로는 야생 크리처임을 인정하고 가정 생활에 잘 적응하지 못할 수도 있음을 받아들여라.  
+  
+성체 곰: 꼬마 곰은 애정이 넘치고 귀엽다. 성숙함에 따라 다루기가 더 어려워질 수 있다. 탈것으로 훈련받아 주인과 함께 수년간(사육 시 최대 50년까지 생존) 함께하는 경우도 있는 반면, 훈련이 불가능한 것으로 드러나 야생으로 돌려보내야 하는 경우도 있다.
+
+[출처](https://www.imperial-library.info/content/taking-care-of-your-bear)
+
+---
+
+## 대거폴 동맹을 위한 서각
+
+ID: ext-88b0dc51bdca15801eaf / ESO 책 ID: 8298 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+대거폴 동맹의 병사들이여, 주목하라!  
+  
+서머셋 군도의 외딴 곳에서 이루어진 발견이 잊혔던 마법의 한 형태를 되찾는 결실로 이어졌다. "서각"이라 알려진 이 마법은, 주문과 기술의 운용에 있어 지금껏 알려진 바 없는 수준의 맞춤과 정밀함을 그 사용자에게 베푼다.  
+  
+이 아름다운 기예가 아직 낯선가? 가까운 메이지 길드를 찾아 자세한 가르침을 구하라.  
+  
+그대가 서각에 능통하다면, 아름답게 빚어낸 이 맞춤 제단을 이제 무료로 사용할 수 있다. 하이 킹 에머릭의 충성스러운 신민들을 위하여, 메이지 길드와 대마도사 바누스 갈레리온이 마련하였노라.  
+  
+이 기예를 향한 그대의 탐구가 결실을 맺고, 전장에서의 승리가 셀 수 없이 잇따르기를!  
+  
+연대기 기록자 피란딜
+
+[출처](https://www.imperial-library.info/content/scribing-for-the-daggerfall-covenant)
+
+---
+
+## 대거폴의 악마와의 맹약
+
+ID: ext-1ad98cefa002201c18fb / ESO 책 ID: 7693 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+필멸자의 셈법으로 2E 455년 마지막 달,  
+그 일곱째 날 세 번째 시각에,  
+인간의 정원사인 심연의 세필리아크는, 대거폴의 악마라 알려진 필멸자와 알고도 자진하여 협약을 맺는다.  
+  
+대거폴의 악마가 무고한 수십 명의 목숨을 앗았으며 그 죄로 인해 대거폴 시에서 처형이 예정되어 있음을 알기에, 헤르메우스 모라는 그에게 성역을 베푼다. 그 대가로, 대거폴의 악마는 필멸자의 햇수로 오백 년 동안 그의 정신을 코러스에, 그의 육신을 렉토리 코포레아에 바치게 된다.  
+  
+그가 받아들인다면, 대거폴의 악마는 신속히 처형을 면하고 추적자들의 손이 닿지 않는 곳에 놓이게 되리라.
+
+[출처](https://www.imperial-library.info/content/pact-daggerfall-devil)
+
+---
+
+## 대마법사의 소환 의식
+
+ID: ext-2fb0681aba7111114022 / ESO 책 ID: 1373 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+<이 책은 비어 있는 것 같다.>
+
+[출처](https://www.imperial-library.info/game-books/elder-scrolls-online-books)
+
+---
+
+## 대마법사의 후의
+
+ID: ext-42524f41135059b179ef / ESO 책 ID: 8206 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+주목하라, 숙련생들이여. 고유물 서고가 재발견되었다는 소문을 필시 들었을 것이다. 사실이로다! 이 계획서는 아직 길드 전 구성원의 전면 분석에 적합한 상태가 아니지만, 아크마기스터 바누스 갈레리온께서는 이 초마법 이론체계에 호기심을 품은 이들이 일차 자료를 살펴볼 광활한 시간을 충분히 갖기를 바라신다.  
+  
+내 시간을 빌린 광활한 시간이로다. 분석에 충분한 원문을 확보하는 데 실로 영원 같은 세월이 걸렸다.  
+  
+이를 위해 탐리엘 전역 메이지 길드에서 총 아홉 편의 스크립트 시리즈를 완전 무료로 공개하고 있다. 이 스크립트들은 아크마기스터 바누스 갈레리온 본인이 직접 꼼꼼히 필사하고 검토한 것으로, 일부는 원본보다 더 나은 참고 자료로 평가받기도 하는도다!  
+  
+어처구니가 없구나! 이 사본을 만드는 일을 한 것은 나, 피란딜이다. 반드시 항의하겠노라!  
+  
+아크마기스터의 선물은 아래 길드 홀에서 찾을 수 있다:  
+- 벌켈 가드  
+- 다본의 감시대  
+- 대거폴  
+- 웨이레스트  
+- 엘든 루트  
+- 모운홀드  
+- 리프튼  
+- 에버모어  
+- 라울카  
+  
+새롭고 흥미로운 이 신비로운 기법을 탐구함에 신중을 기하되, 열정을 가지고 임하라! 아울러 메이지 길드 지도부의 치하도 아울러 전한다.  
+  
+치하라니! 뻔뻔스럽기 그지없구나.
+
+[출처](https://www.imperial-library.info/content/the-largesse-of-the-archmagister)
+
+---
+
+## 대마에스트로 포르테의 연구
+
+ID: ext-097c6defcf597b385817 / ESO 책 ID: 4808 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+에본 스태드몬트 심장부에서 발견된 거대한 돌은 정체 불명의 언어로 뒤덮여 있었다. 고대 언어를 해독하는 열쇠를 마련하는 데 어느 정도 진전을 이루었으나, 돌에 새겨진 문자 외에 참고할 수 있는 것이 너무 없다.  
   
 * * *  
   
-Khunzar-ri and the Divine Moonbeam  
-  
-Before Shazeer Firstclaw became the fierce and powerful Clan Mother of the Barrukit kingdom, she was a brave and curious child who got into a world of trouble. Take, for example, the time she climbed to the top of Shimmering Rise and suddenly found herself surrounded by a pride of hungry senche-lions. She was able to hold them at bay with a sharp stick and a pile of pebbles, but as night fell, weariness and her own hunger began to take their toll on the little cat. She called to Jone and Jode to aid her, and a Moonbeam illuminated the rise. Standing in the Moonbeam was a young male Khajiit, around the same age as Shazeer. “Where did you come from,” Shazeer asked. “Jone and Jode sculpted me out of Moonlight, clouds, and your own courageous heart. I am Khunzar, and I am here to rescue you!” And that’s what Khunzar did!  
+이 언어는 분명 내가 탐리엘에서, 아니 넌 전체에서 연구해 온 그 어떤 것보다 오래되었다. 데이드릭과 어떤 연관이 있으리라 짐작되지만, 믿기 어려운 이야기임에도 불구하고 이 문자는 오블리비언의 언어보다도 앞선 것일지도 모른다.  
   
 * * *  
   
-Khunzar-ri and the Box at the Shrine  
+돌에 새겨진 구절 하나를 번역하는 데 성공하였으나, 그것이 무엇을 뜻하는지는 도무지 알 수가 없다.  
   
-One day, a lowly adept arrived at a shrine to Khenarthi to offer prayers and leave alms. The adept found a small box placed prominently at the head of the shrine. He moved to discard the item when a mewling emerged from inside and the box shifted and rocked. There was something alive in there! The adept quickly threw open the lid and saw a tiny Khajiit babe reaching toward him with outstretched paws. As he lifted the babe from the box, it grew from an infant to a child before it cleared the top. He set the child down and it advanced to the size of a young adult. “Fragrant greetings, lowly adept,” the young Khajiit said with confidence and swagger. “Khenarthi’s breath sent me to bring glory to this shrine and all the land around.” The adept fell to his knees and gasped, “Who … who are you?” The Khajiit grinned, “Today I am simply Khunzar, but tomorrow I will be the hero, Khunzar-ri!” So, never discard a box in Elsweyr without first checking inside.  
-  
-* * *  
-  
-Khunzar-ri and the Tear of Joy  
-  
-Alkosh was grim. Guarding time was hard work, and he was in a foul mood. Mara tried to lighten his attitude, but he wanted none of her kind and loving words. Next Khenarthi attempted to breathe joy into the grumpy Alkosh, but he dispatched her with a roar. “I suppose it is up to me,” said Sheggorath with an insane laugh. “Do you know how much moon-sugar it takes to satisfy Hircine’s endless hunger?” Curious, Alkosh responded, “I do not know the answer, insane one, so please tell me.” Sheggorath snapped his finger and scowled, “Drats, I was hoping you could tell me!” Everyone was silent as a strange look came over Alkosh’s face. Then, all at once, he started to laugh. His laughter shook the sky and made the Moons dance. He laughed for thirty days and thirty nights, until finally a single tear of joy rolled down his cheek and fell upon Elsweyr. The tear landed with a splash and from its depths emerged the hero Khunzar-ri, fully grown and ready for adventure.
-
-[출처](https://www.imperial-library.info/content/khunzar-ri-origin)
-
----
-
-## Khunzar-ri: Tales
-
-ID: ext-e6666224dd0c76e67bd6
-
-Khunzar-ri: Tales, One  
-  
-Khunzar-ri and the Twelve Ogres  
-  
-Transcribed by Aneshi, Keeper of Legends for the 16 Kingdoms  
-  
-One day Khunzar-ri stopped by an adeptorium near Dune hoping to find shelter and sustenance after a long and tiring journey. Unfortunately, the adeptorium was overrun by a dozen drooling ogres.  
-  
-“This isn’t good,” Khunzar-ri said as he watched the gluttonous ogres as they ransacked the premises from a nearby hill. He was particularly concerned when he saw them break into the stores of moon-sugar double rum. He was especially looking forward to the adepts’ potent beverage. Then Khunzar-ri had an idea.  
-  
-“Oh, brave and mighty ogres,” Khunzar-ri called out. “Those barrels you found. Can’t you tell the rum has spoiled? I can smell that the liquid has gone bad from way over here!”  
-  
-“Spoiled?” asked the largest ogre dubiously. “You can’t know that. We haven’t even cracked open a barrel yet!”  
-  
-“Am I not Khajiit?” Khunzar-ri asked with all sincerity. “And aren’t Khajiit known for their most excellent sense of smell?”  
-  
-“That is true,” said another ogre. “Everyone knows about cats and smell.”  
-  
-“But I am thirsty!” complained the largest ogre. “I do not want to drink spoiled rum!”  
-  
-“I have a suggestion,” said Khunzar-ri. “There is a Nedic fort a short distance from here. They have an entire warehouse full of rum and other spirits, and I did not smell a hint of spoilage when I passed by. To the contrary, it all smelled delicious!”  
-  
-Happy to hear it, the largest ogre ran toward the Nedic fort, the adepts’ rum forgotten. With nary a pause, the other eleven ogres followed.  
-  
-“Now,” said Khunzar-ri, “let us open that barrel and have a drink!”  
-  
-“What about the ogres?” asked one of the adepts.  
-  
-“What about them? They are the Nedes problem now.” And with that Khunzar-ri proceeded to drink the entire barrel, one mug at a time.  
-  
-Khunzar-ri: Tales, Two  
-  
-One of the Times Anequina Saved Khunzar-ri  
-  
-Transcribed by Aneshi, Keeper of Legends for the 16 Kingdoms  
-  
-Ne Quin-al Rass-Le, called Anequina Sharp-Tongue in the common language of Cyrodiil, wandered the land for many Moons as Khunzar-ri’s boon companion. Some called them lovers, which they were at times. Others called them heroes, for they certainly accomplished heroic deeds. One such deed involved the Maormer. During their travels together, Khunzar-ri and Anequina visited the island of Khenarthi’s Roost. The Sea Elves and the Cat-folk co-existed on the island, sometimes on friendly terms, sometimes not. This particular event occurred during one of the latter periods.  
-  
-There are several versions of this tale. Some focus on how Khunzar-ri saved the day, but the one I like best paints a picture of a different hero. Here is that version of the story.  
+"까마귀가 길을 이끄리라,  
+우리의 발길이 헤맬 때,  
+우뚝 선 나무들이 길을 막을 때."  
   
 * * *  
   
-One of the Sea Elf captains, a brute by the name of Linvalor, kidnapped the daughter of a Moon-Priest and refused all efforts of negotiation for her release. Anequina said she had an idea, but Khunzar-ri rushed off to save the Moon-Priest’s daughter before she could stop him. As crafty and powerful as Khunzar-ri was, he could also be reckless. This recklessness allowed Linvalor and his crew of Maormer cutthroats to capture the would-be hero without too much fuss or bother.  
+노력은 계속해서 결실을 맺고 있다. 이 구절은 특히나 불가사의하였다.  
   
-Now it fell to Anequina to rescue both the Moon-Priest’s daughter and Khunzar-ri. “How can you succeed when even the great Khunzar-ri failed?” asked the Moon-Priest. “Hrrm,” Anequina purred, “This one will simply do what she does best. The Sea Elf doesn’t stand a chance.”  
+"탐색을 시작하려면 한 쌍의 까마귀가 필요하고,  
+그 다음엔 지표 위에 홀로 앉은 까마귀,  
+그러나 길을 여는 것은 하나도 둘도 아니니,  
+까마귀들이 그 답을 말하리라."  
   
-So Anequina walked bravely into Linvalor’s camp, ignoring the many sword-wielding pirates to stride directly to where the Sea Elf captain was gambling with his officers. They were involved in a close game of Deceiver’s Disks, also called Swords and Shields, and didn’t even notice her until she was right on top of them and said, “Hrrm, that looks like an interesting game. Can anyone play or do you only accept gold from wet-earred Elves?”  
+* * *  
   
-Intrigued and attracted to Anequina’s poise and confidence, Linvalor offered her a seat and dismissed the rest of his crew. “We will play,” Linvalor said, “but not for gold. If I win, then you will sail with me for thirty days and thirty nights as my slave and companion.” Anequina feigned shock at such a proclamation. “And if this one wins?” she asked slyly. Linvalor laughed. “No cat, especially no female cat, has ever bested me in anything! So, name your price, cat, and let us play!”  
+이 신비로운 언어를 연구할수록 불안과 우려가 깊어진다. 그 의미를 파헤치려는 시도만으로도 내가 가까스로 이해하기 시작할 수 있는 어떤 위력의 주의를 끌고 있는 것 같은 느낌이 드는 때가 있다. 한동안 이 연구를 접어 두고 다른 작업에 힘을 쏟아야겠다.   
   
-“Very well,” Anequina said. “If this one wins, then all three of us–the Moon-Priest’s daughter, Khunzar-ri, and me–walk away, free and clear.” Captain Linvalor, confident that his victory was assured and eager to get the beguiling cat-woman into his bed, agreed.  
-  
-The match that followed was intense, with Linvalor bluffing and bellowing his way through every round of play while Anequina pretended ignorance of the rules and fear of every rattle of the disk tumbler. Both were expert players, however, and after many rounds and the consumption of an inordinate amount of wine, it all came down to this. Linvalor had two disks remaining, while Anequina had only one.  
-  
-The opponents rattled their remaining disks in their respective tumblers. Then, with much deliberation, they smacked the tumblers down to set the disks so that either their “sword” side or “shield” side was face up under the container. Linvalor lifted the tumbler slightly and took a quick peek underneath–one each of a sword and shield–before covering his two disks again. Anequina simply smiled, not bothering to look at all. Linvalor knew there were two of one symbol between them. He just had to accurately guess whether it was two swords or two shields. “Two … he started, trying to glean anything from Anequina’s calm expression….shields,” he finished, but it came out more like a question than a statement.  
-  
-“Oh, you are such a deceiver, captain,” Anequina said, lifting her tumbler to reveal her disk. A sword. Linvalor wiped sweat from his brow as he plucked one of his disks and set it aside. “Last toss of the disks, captain,” she said as they each added their single remaining disk to their tumblers and started shaking them. Anequina blew the Sea Elf a kiss as she slammed her tumbler down. With a growl, he did the same.  
-  
-Linvalor lifted his tumbler just enough to check. His disk was shield side up. Once again, Anequina refused to check on her disk, so without bothering to check, she said, “Two shields, since it is obvious that between the two of us, neither of us has a sword.” They each lifted their tumblers to reveal … they each tossed a shield.  
-  
-“Cheater!” Linvalor bellowed as he stood, scattering the game components and spilling what remained of the wine. “Now, now, captain,” Anequina scolded, “this one has heard that, if nothing else, Sea Elves were as good as their word. Let us go and Anequina will return in a year and a day for another game.” Reluctantly, the captain agreed. “Next time, the outcome will be different, cat.” “This one looks forward to it,” she purred.  
-  
-As they departed with the Moon-Priest’s daughter between them, Khunzar-ri asked, “You cheated, yes?” Anequina gave him an innocent look. “And do you really plan to play him again?” Anequina laughed, “Of course! How else will this one get one of those sleek pirate ships?”
+비단 장갑을 잃어버린 세 카짓 이야기를 다룬 그 희극이나 완성해야겠다.
 
-[출처](https://www.imperial-library.info/content/khunzar-ri-tales)
+[출처](https://www.imperial-library.info/content/grand-maestro-fortes-research)
 
 ---
 
-## Kiko’s Final Riddle
+## 대사제에게 보내는 편지
 
-ID: ext-e8ffdf9784ffaea47528
+ID: ext-456a8d8805435093cde1 / ESO 책 ID: 6759 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-The sun-warmed side of Singer’s path is where you’ll find your prize. Hang Gloomlantern upon your ship to shroud her from all eyes.
+제2시대 563년, 비의 손 11일  
+  
+깨어나는 불꽃 교단의 위대한 대사제 전하께,  
+  
+이전에 전하께 숨겨왔던 어떤 진실들을 알려드리기 위해 이 서한을 씁니다. 교단 안에서 소인의 위치를 알고 있음을 믿어주소서. 소인은 오직 메이룬스 데이건의 명령에 직접 따라 행동하였을 뿐입니다.  
+  
+마지막으로 만났을 때, 전하께서는 소인의 자녀의 아버지에 대해 물으셨습니다. 소인은 황제의 명으로 동침하도록 보내진 경비대장이라고 아뢰었습니다. 그것은 거짓말이었습니다. 소인 자녀의 아버지는 시로딜의 황제 모리카입니다.  
+  
+소인은 메이룬스 데이건의 뜻에 따라 모리카의 측실이 되었습니다. 그분께서 꿈에 나타나시어 황제를 위해 자녀를 낳으라 이르셨기 때문입니다. 또한 그분께서는 아이의 혈통에 관한 진실을 아무도 알아서는 안 된다고 명하셨습니다—전하께서도 예외가 아니었습니다.  
+  
+이제 이것을 밝히는 것은 계획의 다음 단계가 소인에게 계시되었기 때문입니다. 소인은 자녀의 양육에 역할을 맡아, 딸아이가 제 운명을 다하는 날이 이를 때까지 그 성장을 돕고 지켜야 합니다.  
+  
+시로딜에서의 소인의 소임은 끝났습니다. 이제 데드라이트로 불려가 그곳의 초심자들을 책임지라는 명을 받았으나, 전하께서 말씀을 전하시면 언제든 달려오겠습니다. 딸아이를 돌보는 일이라면 모든 것을 내려놓을 것입니다.  
+  
+데이건 경과 롱하우스 황제들의 이름으로,  
+디사스트릭스 셀디나
 
-[출처](https://www.imperial-library.info/content/kikos-final-riddle)
-
----
-
-## Kiko’s Riddles
-
-ID: ext-6711213c52495bbad2b5
-
-This half sleeps beneath the shade, in tangled roots of tunneled glade. A stream of fire cuts the trees yet south of home for he who sees.  
-  
-The second piece is within reach, between vaster shores and wind-wracked beach. Craft approach with spade in hand, eye the cauldron and turn the sand.
-
-[출처](https://www.imperial-library.info/content/kikos-riddles)
-
----
-
-## Kindly Contrivers Notes
-
-ID: ext-e36171531d6c2b9ae163
-
-Minutes of the Biweekly Conclave of the Kindly Contrivers of Clavicus Vile, Abanas Smeed reporting.  
-  
-Eight o’clock: Meeting called to order.  
-  
-Eight o’one: Meeting called to disorder.  
-  
-Eight o’five: Shouting subsides. Eight o’six: First point of order brought before the Conclave, devise appropriate response to the village of Sundercliff’s plea for new farming implements before First Seed.  
-  
-Eight Thirty: Discussion interrupted by unruly fidgeting. You know who you are.  
-  
-Eight Forty: Fooligan excused to address embarrassing rash. Breakthrough reached in Sundercliff dilemma.  
-  
-Nine o’clock: Sundercliff proposal brought to vote.  
-  
-Nine o’five: Sundercliff proposal accepted by majority vote.  
-  
-Nine Fifteen: Jeering of opposing voters subsides.  
-  
-Nine Seventeen: Second point of order brought before the Conclave, progress report of cursed soul stone research.  
-  
-Nine Thirty: Opening haranguing concluded.  
-  
-Nine Thirty-One: Report started.  
-  
-Nine Thirty-Two: Report concludes, no significant progress made.  
-  
-Nine Fifty-Five: Disparaging remarks brought to a close.  
-  
-Ten o’clock: Moment of pouting silence concludes.  
-  
-Ten o’one: Third point of order brought before the Conclave, lunch.  
-  
-Ten Thirty: Consensus on food-like items could not be reached.  
-  
-en Thirty-One: Break suggested, libations uncorked.  
-  
-Eleven o’clock: Consensus reached that cask may have been a little off. Bedlim excuses himself to engage in a laughing fit.  
-  
-Eleven o’five: Horrific instance of mass retching takes place.  
-  
-Eleven Thirty: Mallein loudly proclaims that she wishes she had never been born.  
-  
-Eleven Thirty-One: Proclamation passes unanimously.  
-  
-Eleven Fifty: Attendees scrape together five hundred pieces of gold for an offering.  
-  
-Eleven Fifty-Nine: Lunch consensus reached.  
-  
-Noon: Conclave adjourns to prepare offering.
-
-[출처](https://www.imperial-library.info/content/kindly-contrivers-notes)
+[출처](https://www.imperial-library.info/content/letter-to-the-high-priest)
 
 ---
 
-## King Farangel’s Beer Ballad
+## 대상무역단 호휘하면서 배운 거들
 
-ID: ext-05cdffa390d7735bce09
+ID: ext-263f1e25677699f6ff37 / ESO 책 ID: 1893 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Here it was Farangel first  
+빅 도를룬 지음  
   
-Set foot upon High Rock,  
+첫째. 밖은 불처럼 뜨거우니 생각보다 훨씬 마니 마실 거를 챙겨 갈 것.  
   
-Claimed this land for Gardner house  
+둘째. 모자를 써라 안 그러믄 또 어지러워서 술 취한 놈처럼 자빠진다.  
   
-And built Farangel Dock.  
+셋째. 둔리퍼를 건드리지 마라 그놈들 엄청 빠르다!!!  
   
-Sent his ships both far and wide  
+넷째. 깨끗하고 평평한 바위 우에라도 꼬치를 땅바닥에 두지 마라 개미 꼬인다.  
   
-To trade in distant lands,  
-  
-Cleared the woods for Wayrest town  
-  
-Above Stormhaven sands.  
-  
-First Wayrest king, and father of  
-  
-The Breton noble peers.  
-  
-High Rock Bretons, raise this toast:  
-  
-“For Farangel, four beers!”  
-  
-(Drink)
+다섯째. 자칼은 던져 준 거 물어 오기 놀이 안 한다.
 
-[출처](https://www.imperial-library.info/content/king-farangels-beer-ballad)
+[출처](https://www.imperial-library.info/content/lessuns-lerned-garding-caravans)
 
 ---
 
-## King Farangel’s Ode to Wayrest
+## 대설교자의 말씀
 
-ID: ext-e602f90a6bb764f88c5c
+ID: ext-a8a95ff1921ad0dc25fc / ESO 책 ID: 3696 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-This is my first attempt at poetry; history will remember these words.  
+신자들이여, 크바치는 수 세대에 걸쳐 어둠과 그 속에 도사린 자들에 맞선 불워크로서 굳건히 서 있었다. 이 땅의 순수함을 독으로 물들이려는 음흉한 악에 맞서 지칠 줄 모르고 감시하는 그대들의 워든들은, 제국 전역의 도시들이 선망하는 존재이다.  
   
-“Swell the impetuous tides that crash upon your darkened shore.  
+허나 우리는 안주해서는 아니 된다! 지금이야말로 우리가 가장 큰 위기에 맞서야 할 때이기 때문이다. 바로 다크 브라더후드!  
   
-“The lights of your towers rival the stars gleaming in the sky,  
+대주교께서는 그 무한한 지혜로 이 위협이 다가옴을 미리 보셨다. 지금 이 순간에도 그들은 우리 땅에 몰래 숨어들어, 앤빌의 짙은 그림자와 길들여지지 않은 황야의 무성한 덤불 속에 발판을 마련하고 있다. 이러한 부패는 그들이 우리 소중한 골드 코스트를 오염시키도록 허락하였으며, 방치한다면 곪아 터질 것이다.  
   
-“Their light doubled in the shadowed bay.”  
+크바치는 모범을 보이며 이끌어야 한다. 우리는 이 살인자들을, 우리 영역 안에서든 밖에서든, 어디서 발견하든 뿌리 뽑아야 한다. 그대들 또한 워든이 되어야 한다. 그대들 또한 이 시대의 지원자가 되어야 한다. 그대들 또한 소리 높여 외치거나, 이 비뚤어진 악귀들의 역병 나이프에 맞서 정의의 검을 빼들어야 한다. 빛이 드리워지면, 그들이 두려운 크리처가 아님을 알게 될 것이다. 그림자가 걷힌 뒤에 남는 것은 비겁함의 유해뿐이다.  
   
-No, that’s not it. It’s too high-minded. I want this to be something everyone can relate to. Perhaps a song?  
-  
-“If I had a daughter, I tell you what she’d say,  
-  
-“I want a man of Wayrest, to stay with me all day!  
-  
-“And if I had a son, I tell you he’d be right,  
-  
-“To want a girl of Wayrest, to stay with him all night!”  
-  
-Uh-oh. This is heading in the wrong direction, fast. What do you think, scribe? Do you have any ideas?  
-  
-“W is for the city Where I want to be.  
-  
-“A is for the Apple of King Farangel’s eye.  
-  
-“Y is for whY would you go to Daggerfall, that stinking, reeking slum.”  
-  
-All right. We’re getting nowhere. I think we need to turn this over to the bards.  
-  
-Why are you still writing? Scribe, I know I told you to write everything down but … look, I’m ordering you on pain of death, stop—
+심판의 때가 가까워지고 있다, 신자들이여, 그때를 맞이할 준비를 하라.
 
-[출처](https://www.imperial-library.info/content/king-farangels-ode-wayrest)
+[출처](https://www.imperial-library.info/content/words-grand-sermonizer)
 
 ---
 
-## King Hemakar’s Grave
+## 대성당의 위계질서
 
-ID: ext-cf8410384f416ab392f4
+ID: ext-7ad193af0c81670a407f / ESO 책 ID: 3677 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Hemakar  
+수련자를 위한 입문서, 챈터 아미아 지음  
   
-Bringer of Peace,  
+수련자들이여, 시간의 드래곤신 아카토시를 섬기는 그대들의 새로운 역할에 다시 한 번 환영의 인사를 전하노라. 그대들은 더없이 중대하고 영적인 보상이 따르는 여정을 시작하지만, 이 길을 밟는 것은 그대들이 처음도 아니요, 마지막도 아니다. 수많은 이가 이 여정을 함께하며, 그대 앞에 놓인 것과 같은 시련에 맞설 것이다. 그대의 길이 동료 수련자들과 같은 목적지로 이어지지는 않을지라도, 큰 방향만큼은 틀림없이 같다.  
   
-Beloved Father,  
+아카토시 대성당의 소임을 수행하기 시작하면서, 그대들은 시간의 드래곤신을 어떻게 받들고자 하는지 스스로에게 물어야 한다. 기도와 인도로 드래곤신의 말씀을 전파하며, 숭배자들의 신앙을 이끌고 그들의 간구에 귀 기울일 것인가? 아니면 성스러운 경전을 손에 들고 설교단과 거리로 나아가, 신앙의 불씨를 되살리고자 하는 이들에게 디바인들의 진실을 설파할 것인가? 입회 의식을 마치면, 그 선택을 요구받게 되리라. 챈터의 망토를 두를 것인지, 설교자의 망토를 두를 것인지를. 신중히 헤아려 결단하라. 두 갈래 길이 요구하는 바는 사뭇 다르기 때문이다.  
   
-Honored King of Anequina  
+대주교가 대성당 안의 아카토시 신앙 전반을 관장하며, 강대한 챈터와 대설교사가 그를 똑같이 떠받친다는 것을 명심하라. 그러한 까닭에 챈터와 설교자는 어깨를 나란히 하고서, 똑같되 서로 다른 방식으로 아카토시의 빛을 만백성에게 비춘다.  
   
-Now he prowls  
+챈터가 되면, 그대는 강대한 챈터의 인도를 따라, 도움을 구하여 우리 대성당을 찾는 이들에게 자비와 인도를 베풀 것이다. 기도와 지혜로 그들의 몸과 마음과 영혼을 어루만지는 법을 익히고, 그대 또한 스승이 되어 숭배자들의 봉헌과 의식을 이끌어 그들이 아카토시에게 더 가까이 다가서도록 하리라.  
   
-the Sands Behind the Stars  
+설교자가 되면, 그대는 대설교자 뒤에 결집하여, 이단과 불신이라는 강대한 적에 맞서 신념을 무장하고, 길 잃고 믿음을 버린 이들을 드래곤신의 보호하는 날개 아래로 되돌릴 것이다. 마음 깊은 곳을 꿰뚫는 말을 다루는 법을 익혀, 어둠의 영향과 방종의 더러움을 씻어내리라. 악독한 자는 구원받기에 앞서 꾸짖음과 단죄를 받아야 하며, 그들의 어둠을 몰아내는 이가 바로 그대다.  
   
-Until the Next Pounce
+이렇듯 소임이 나뉘었다 하여 목적까지 갈라진 것으로 오해하지 말라. 우리를 인도하시는 대주교께서는 두 길 모두 아카토시를 받드는 데 똑같이 중요하다는 것을 꿰뚫어 보는 지혜를 지니셨다. 대주교는 우리 대성당을 인도하는 빛이시며, 그 찬란한 광채를 우러르는 모든 이의 삶을 드높이신다. 대주교께서는 아카토시와 마찬가지로, 결코 그대들을 그릇된 길로 이끌지 않으시리라.  
+  
+또한 다른 소명이, 곧 병역에 몸담아 신실한 이들을 지켜야 할 소명이 그대를 부른다면, 시간의 기사단에 몸 바칠 것을 헤아려 보라. 대성당 안의 영적인 삶이 시간의 드래곤신을 향한 헌신을 드러내기에는 너무 평범한 길로 느껴진다면, 대성당과 아카토시의 신실한 이들을 세상의 위험으로부터 지키는 것이야말로 고귀한 소명이다.  
+  
+수련자여, 이 길들이 그대 앞에 놓여 있다. 아카토시께서 그대를 궁극의 목적지로 인도하시기를.
 
-[출처](https://www.imperial-library.info/content/king-hemakars-grave)
-
----
-
-## King Ranser’s Tirade
-
-ID: ext-9f049bae8f1e39fd0e12
-
-King Ranser I may have lost Shornhelm, but this war is far from over! The damnable Emeric is overconfident. He will make a mistake, and my brilliance will leap to take advantage of every misstep and stumble along the way.  
-  
-Retreating—no, strike that! King Ranser doesn’t retreat!  
-  
-My strategic occupation of this tor shall be remembered as the most important military victory in Rivenspire’s history. Let them throw all the Orcs they have at me. This tor will stand forever! I shall win this war!
-
-[출처](https://www.imperial-library.info/content/king-ransers-tirade)
+[출처](https://www.imperial-library.info/content/cathedral-hierarchy)
 
 ---
 
-## King Thunder
+## 대장 네레바르
 
-ID: ext-d7727cd21efc760e2205
+ID: ext-c5b684b0ee40d7ca7ff7 / ESO 책 ID: 4800 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-The Orsimer bellowing drum, King Thunder, is renowned for both its bass tone and the sheer volume it produces. The Orcs prize drums for both celebration and war, creating complex rhythms as the foundation for their warlike rituals.  
+대장 네레바르  
   
-This drum was hidden during the Siege of Orsinium and eventually made its way to Yashnag gro-Yazgu’s stronghold in Falkreath. The drum was presented to the college by Jarl Hakkvild to commemorate his victory over Chief Yashnag and his champions.
+대장이자 왕. 벗이요, 제자요, 호르테이터로다. 우리가 영원토록 그의 지혜를 구하기를. 그리고 그의 용서를.
 
-[출처](https://www.imperial-library.info/content/king-thunder)
-
----
-
-## Kingdoms Fall People Wander
-
-ID: ext-e25bbc0af66d54ab9dc7
-
-NOR FA INDVIT KEL USOK  
-  
-NO FAITH OUTSIDE BRETHREN  
-  
-KINGDOMS FALL PEOPLE WANDER  
-  
-OUR VIGIL WITHOUT END  
-  
-LONGER THAN WALLS CAN STAND  
-  
-STRONGER THAN THRONES  
-  
-NOR FA INDVIT KEL USOK
-
-[출처](https://www.imperial-library.info/content/kingdoms-fall-people-wander)
-
----
-
-## Kinlord Rilis and the Mages Guild
-
-ID: ext-77b36d700a162ddfba7d
-
-As a member in high standing, I feel it necessary to explain and extirpate the notion that Kinlord Rilis the XII is somehow a founder of the Mages Guild. The common folk believe that the kinlord, in the days before his cruelty and sadism became well-known, brokered a deal that reigned in “dangerous mages” and somehow put binders in place to keep the commonalty safe. This is simply not the case.  
-  
-Vanus Galerion, student of Iachesis, did indeed flout prevailing thought when it came to magical experimentation in large cities. He drew together numerous students and artificers to the city of Firsthold. For the first time, he sought to prove the benefit of spellcasters working in close proximity. Not for a mighty ritual, but for study, experimentation, and a sense of camaraderie.  
-  
-This simple premise so terrified the people of Firsthold that they turned to their ruler, Kinlord Rilis the XII. Now known by many less polite titles, Rilis was first and foremost a political animal. He saw in “Galerion’s Folly,” as it was known at the time, a chance to play the mages and common folk off against each other.  
-  
-The much-speculated-upon “Charter Conclave” brought together Rilis, Iachesis, Galerion, and other notables from across the Isles and the Psijic Order. By common agreement, it is true, no records were kept of that meeting. But mark my words here, adept: Rilis allowed the meeting, allowed Galerion to do what he did, to further his own ends.  
-  
-In retrospect, of course, the legacy of Artaeum is the proud heritage of the new Mages Guild. We now boldly gather together under the Guild banner, and will no doubt do so for many centuries to come. Just let it be remembered: Rilis the Twelfth was a dangerous mer. Even at the time of the Conclave, he trafficked with dark powers and made pacts with Daedra.  
-  
-The proud order we all now serve is here despite his best intentions. Not because of them.
-
-[출처](https://www.imperial-library.info/content/kinlord-rilis-and-mages-guild)
-
----
-
-## Knights of the Dragon
-
-ID: ext-e7f0663ce3b433498d9e
-
-If you are intent on joining the Knights of the Dragon, you must understand our purpose and our way. Some confuse us with the Dragonguard. We are not devotees to the Empire of Cyrodiil, nor were we created to slay the dragons of old. We were created to serve His Majesty the Dragon, the King of Daggerfall. We are the sword and the shield of Daggerfall’s King. We are his elite soldiers, his honorable sons and daughters, and his most loyal protectors.  
-  
-Say your vows only if you are willing to take on this responsibility. This is our oath:  
-  
-I vow to serve the Dragon. I lay down my life, my gold, and my sacred honor for my King. His word is my order, my sword is his arm. Our lives are one.
-
-[출처](https://www.imperial-library.info/content/knights-dragon)
-
----
-
-## Knights of the Gleaming Blade
-
-ID: ext-79b70771dc95ab99706b
-
-Curano, Exarch and Brightblade, First in the Name of the High King and beloved by the Lady Herself. In her name you are hereby ordered to make haste for the city of Abagarlas. The king has authorized your requested soldiery, and you are permitted to leave Delodiil with the following people of faith:  
-  
-— Lanath, the Former Exarch of Dark Abagarlas and Newborn in Her Service  
-  
-— Endarre, Primarch and Brightblade in Her Lady’s Service  
-  
-— Valasha, High Priestess and Sunwalker in Her Lady’s Service  
-  
-— Ostarand, Paladric Blade and Beholden in Her Lady’s Service  
-  
-You are to escort the Blade Ostarand and safeguard the relic he carries. Every effort has been made to ensure your success in this quest, and all weapons and armors in the city stores are at your disposal. The Vivicus must be destroyed at all costs!  
-  
-In faith, eyes turned toward the Sunburst,  
-  
-— Lateesh
-
-[출처](https://www.imperial-library.info/content/knights-gleaming-blade)
-
----
-
-## Knightsgrave: Legend or Legacy
-
-ID: ext-e790e54687011d6109b2
-
-y Chanter Wobolan, Cathedral Historian  
-  
-What do the ruins of Knightsgrave represent? And why are they important to the Cathedral of Akatosh and the Order of the Hour? Those are questions that the common person never asks, but that every one of the devoted should know the answer.  
-  
-Most consider Knightsgrave to be some sort of ruined graveyard, a memory of a time when the Empire was strong and eternal. Few realize that the graveyard came later. The true meaning of the site waits in the depths below. In the beginning, the massive subterranean structure served as the original headquarters of the Order of the Hour.  
-  
-It was Ennon Decan, founder of the Order, who raised the stones of the headquarters. Legends claim the site was always important to those who worship the Dragon God, but I have located no records that indicate why this may be the case. Know that the Order established chambers for training and meditation, places for prayer and contemplation, and even areas where the members of the Order could rest and relax.  
-  
-With the death of Ennon and his original group of companions, great statues were raised in memory of the founders. The Order would continue, operating out of this location for nearly one hundred years. During this period, more chambers were carved out and more improvements were made to the headquarters. As the first phase of the Order came to a close and the organization disbanded, the place was locked up and turned over to the Cathedral of Akatosh for safekeeping. The Cathedral, however, didn’t know what to do with the facility. So the Chanters and Sermonizers decided to turn the subterranean structure into a crypt of sorts. All of the honored dead of the Order of the Hour were interred within its depths.  
-  
-When Cavor Merula reestablished the Order, one of his first tasks was to dedicate the site that had become known as Knightsgrave to the memory of the Order’s founding members. Blessings and rituals were performed, giving substance to the Exalted Dead that lingered in the place’s shadowy interior. Not wanting to disturb those resting herein, Cavor instead set out to build the Enclave of the Hourglass as the Order’s new home on the Gold Coast.  
-  
-So, forget the legends. Ignore the tales of nixad infestations, minotaur protectors, and Exalted Knights of the Order still patrolling the sealed chambers deep below. Knightsgrave is the proud and vibrant legacy of the Order of the Hour. And as followers of Akatosh, it is our legacy, as well.
-
-[출처](https://www.imperial-library.info/content/knightsgrave-legend-or-legacy)
-
----
-
-## Knowing Satakal
-
-ID: ext-99d2d080f67585c6c35a
-
-Seven Redguard Maxims  
-  
-“To deny that the world must end is to deny that it began.”  
-  
-“Satakal is the making and the unmaking, the birth and the death, love and fear.”  
-  
-“For the world is the egg that Satakal laid, and the egg that in time Satakal shall eat.”  
-  
-“To know Satakal, consider a river. As a snake sheds its skin and lives on, so a river sheds its water into the sea, yet is reborn at the source.”  
-  
-“To be the Worldskin is to be everything, and to be everything is to be nothing.”  
-  
-“Fear not the unbelievers, for believer and unbeliever alike shall be eaten by the Serpent God.”  
-  
-“Does not the serpent made of sky above reflect the serpent made of sea below? Yea, it is so.”
-
-[출처](https://www.imperial-library.info/content/knowing-satakal)
-
----
-
-## Kothringi Leviathan Horn
-
-ID: ext-61e42e4d490c78b00ba7
-
-The extinct Kothringi people of Black Marsh have left very few relics behind, but the Bards College cherishes this mournful instrument as a reminder of their culture and the ravages of the Knahaten Flu.  
-  
-This cheerful bugle was fashioned from the horn of a leviathan, a creature of terrible power that roams Black Marsh, and dyed with silver-blue pigments to match the skin color of the lost Kothringi people.  
-  
-The loud, ringing tones are as joyful and uplifting as the Kothringi people in their prime.
-
-[출처](https://www.imperial-library.info/content/kothringi-leviathan-horn)
-
----
-
-## Ku-Vastei: The Needed Change
-
-ID: ext-a164104646aec38f79c3
-
-By Lights-the-Way, Mystic of the Mages Guild  
-  
-It is hard to describe the culture of my people. Often my tongue stumbles as I try to explain, but it is my hope that ink and quill will give me time enough to gather my thoughts. And perhaps, though such writing, I will finally connect the parts of me that now feel so divided; my homeland of Murkmire and my new life within the Mages Guild.  
-  
-These journals are to become my ku-vastei. And, as I write that, I can think of no better topic to begin with.  
-  
-Ku-vastei roughly translates to “the catalyst of needed change,” though such a direct translation in no way does justice to the original meaning. Another translation could be “that which creates the needed pathway for change to occur” or even “the spark which ignites the flame which must come into being.”  
-  
-Perhaps a more direct analysis should be first presented. Ku-vastei is a noun, a thing or person. Vastei directly translates to change, an important part of my culture. Ku is harder to speak of. It is that which leads to change, though not that which creates change. An important role, as stagnation is a fate worse than death.  
-  
-Take a boulder which sits atop a cliff, teetering in place. It must fall eventually. The ku-vastei does not push the boulder off the cliff; rather, it picks the pebble which holds the rock in place. And so it falls, not by a push, but by a pathway cleared.  
-  
-Ku-vastei is revered, just as change itself is revered, for to look back at what was means to stumble as you move forward. Sometimes, a little push in the right direction is all someone needs to remember such wisdom. Other times, they may need to be shoved.
-
-[출처](https://www.imperial-library.info/content/ku-vastei-needed-change)
-
----
-
-## Kurog’s Betrayal
-
-ID: ext-8e86e3f92ada92848584
-
-You’ve heard grand claims. Orsinium reborn. The Elf-loving Bretons our friends, the traitor Redguards our allies.  
-  
-We are welcome, they claim. We are needed, they claim. All lies.  
-  
-Kurog the False Chief would tell you the Daggerfall Covenant is our future. Kurog, the sellsword who abandoned his tribe, who shed blood for Elves and gold as his people languished and starved. This toothless runt would have us in chains, fighting for the Bretons and Redguards who slaughtered us.  
-  
-Have you forgotten our brothers and sisters at Orsinium? Have you forgotten who launched their crusade to crush “the Pig Children”?  
-  
-The same Bretons and Redguards who now pretend friendship sought to wipe us from the face of Tamriel. Now, with our fields salted and our homes burned, the cowards and liars offer to return the land they stole.  
-  
-Shall we make peace with our enemies? Shall we thank them for returning what they stole from us through foul magic and treachery?  
-  
-Look past Kurog’s silken words. Look to his cowardly deeds, and to the ancestors who gave their lives to keep us free. This Daggerfall Covenant is a chain around our necks.  
-  
-They wish to make us their dogs. Remind them that we are Orcs! We will never bow before their so-called “High King”!  
-  
-Down with Kurog the False Chief!  
-  
-Down with Emeric the Enslaver!
-
-[출처](https://www.imperial-library.info/content/kurogs-betrayal)
-
----
-
-## Kvatch Arena Reopens!
-
-ID: ext-4193503f02298bf68a27
-
-Citizens of Kvatch! With the approval of Count Carolus, we are immediately re-opening the Kvatch Arena!  
-  
-All citizens of Kvatch and beyond are invited to witness our many exciting new events, including contests of martial prowess, clashes between fierce beasts, grand melees, and more! In cooperation with the Order of the Hour, we are also adding a new event: the Circle of Penance!  
-  
-Below is a list of the exciting events our legendary arena will now be hosting on a regular basis.  
-  
-Clashes of Might  
-  
-Come one, come all, as the most dangerous gladiators in the land fight one-on-one, two-on-two, or four-on-four. The only things bigger than the weapons wielded in our bloody battles are the purses handed to the winners! In addition to brave Colovians, you’ll see foreign fighters including fierce Nords, savage Redguards, brutal Orcs, crafty Wood Elves, and even a silent Sea Elf assassin.  
-  
-You won’t want to miss a moment of these thrilling contests. Come cheer on your Colovian heroes, or place your bets on foreign fighters and give them a reason to face our best. We promise a good show!  
-  
-Clashes of Beasts  
-  
-Witness brutal beasts from across Tamriel, gathered by brave handlers, as they fight to prove whose teeth and claws are mightiest! Thrill to the savage ferocity of the Bangkorai lion! Gasp at the stealthy attacks of the Alik’r duneripper! If we manage to raise enough gold from ticket sales, we’ve even had an enterprising merchant promise to bring us a mythical Mantikora from the savage land of Craglorn!  
-  
-The Grand Melee  
-  
-Ten warriors enter, and one warrior leaves! Any combatant may enter the grand melee, using any weapon and any fighting style! You never know what to expect, save that every fight will be brutal and its outcome will be impossible to predict. With our new tiered betting system, you can even win gold if your fighter loses, so long as they are among the last to succumb. Don’t miss this once in a lifetime event!  
-  
-The Circle of Penance  
-  
-Hosted by the brave knights of Kvatch’s own Order of the Hour, heretics and heathens who have sinned against the Divines are given one last chance to repent! Many heretics will face the brave and implacable gladiators of the Order of the Hour and, should their faith prove true and the Divines smile upon them, they may even survive. Even those who do not may find salvation before they achieve death.  
-  
-Come cheer on our brave gladiators of the Order of the Hour as they crush and smite all heretics – those who dabble in dark rituals with Daedric Princes, practice necromancy, and otherwise offend Akatosh.
-
-[출처](https://www.imperial-library.info/content/kvatch-arena-reopens)
-
----
-
-## Kwama Breeding Research Notes (Flora)
-
-ID: ext-7f8cfa1f7d2413f8b72c
-
-Ash Yam: No effect. Kwama will eat it if they are peckish.  
-  
-Bittergreen: No effect. Empty Bittergreen pods are attractive sitting locations for workers and scribs. I’ve seen warriors attempt to enter the pods when they obviously can’t fit. Stupid bugs. Keep these out of the mine.  
-  
-Black Anther: No effect on the kwama, and we have to send operatives near Vivec City to find it, which is risky. Suggested to cease testing.  
-  
-Black Lichen: The kwama hate it. Use it only to keep them out of spaces we don’t want them to be near, like our food stores.  
-  
-Bungler’s Bane: No effect and hard to find in reasonable supply.  
-  
-Chokeweed: No effect.  
-  
-Comberry: No effect and extremely hard to find in the wild. If we need more it’s recommend to steal some from the merchants in Vivec City.  
-  
-Corkbulb Root: Not the effect we are looking for, although it seems useful for treating kwama with any form of paralysis. Continued testing is recommended.  
-  
-Draggle-tail: None in supply and it’s not yet worth sending scouts to the Bitter Coast.  
-  
-Fire Fern: Kwama love this stuff, while at the same time it appears to make them agitated. More research on this is recommended.  
-  
-Gold Kanet: No effect.  
-  
-Green Lichen: Can’t find it anywhere. Every recommended location has so far turned out to be a dead end.  
-  
-Hackle-Lo: No effect.  
-  
-Heather: No effect.  
-  
-Kresh Fiber: Kwama hate it, and not in the way we’re interested in. They defecate on it as soon as it’s discovered. Keep all supply out of Matus-Akin.  
-  
-Luminous Russula: Grows naturally around the area and can be found in the mine as well. Kwama consume it often. No obvious effects on behavior.  
-  
-Marshmerrow: No effect aside from potential feed.  
-  
-Muck: Toxic to Kwama. DO NOT USE!  
-  
-Nirnroot: Do not use on its own anywhere near the kwama. It appears to make them lethargic, yet they crave it once exposed. We had to put a few warriors down after the primary exposure. We don’t want to lose any more, as there are not many of these beasts to begin with.  
-  
-Red Lichen: No effect.  
-  
-Roobrush: No effect.  
-  
-Saltrice: Common kwama feed. We keep a supply of this in the storage area surrounded by a moderate amount of Black Lichen.  
-  
-Scathecraw: No effect.  
-  
-Slough Fern: No effect.  
-  
-Stoneflower: Only found in the West Gash. Too risky to acquire. I speculate it will have no effect regardless.  
-  
-Trama Root: No effect.  
-  
-Violet Coprinus: We have found this growing naturally in Matus-Akin. Potential natural kwama feed. No effect.  
-  
-Wickwheat: Makes kwama even stupider than they already are. More research needed. Willow Flower: No effect.  
-  
-Hypha Facia: Sometimes Found in Matus-Akin, no obvious effect.
-
-[출처](https://www.imperial-library.info/content/kwama-breeding-research-notes-flora)
-
----
-
-## Kwama Egg Omelet
-
-ID: ext-e0db8107817ced09ebaa
-
-With the Kwama gone all crazy back home in Deepcrag, Mama Aralosi can’t get the eggs she needs for her famous omelets. I’m going take this bag and rustle up some eggs. She’ll be so pleased, I just know it.  
-  
-I copied Mama’s recipe below, so I know what I have to get:  
-  
-Step 1: Find a kwama mine — Check!  
-  
-Step 2: Procure a kwama egg — Check!  
-  
-Step 3: Get out of the mine alive  
-  
-Step 4: Crack egg into a large bowl  
-  
-Step 5: Whisk until the white and yolk combine  
-  
-Step 6: Add spices to taste  
-  
-Step 7: Bake and serve
-
-[출처](https://www.imperial-library.info/content/kwama-egg-omelet)
+[출처](https://www.imperial-library.info/content/nerevar-captain)
 
 ---
 

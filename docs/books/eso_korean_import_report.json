@@ -1,0 +1,5581 @@
+{
+  "source": {
+    "file_name": "kr.lang",
+    "file_sha256": "12177e12e789da15f07747d60016b3710f1878110849809ddfb2062724fec9be",
+    "version": 2,
+    "total_strings": 1193400,
+    "title_map_url": "https://github.com/ESOUIMods/LoreBooks/blob/514e66547f72ae48a8da8d7d0f0dce4b0e448fc0/PC/EideticData.lua",
+    "title_map_sha256": "09100b28edb006e34ab6f4af1c040b6687469fd3be14b9b764ab16b462d2e596"
+  },
+  "unique_game_book_ids": 3826,
+  "book_titles": 7490,
+  "book_bodies": 7487,
+  "imported": 3847,
+  "by_shelf": {
+    "eso": 1946,
+    "eso_journals": 1901
+  },
+  "deferred_counts": {
+    "no_unique_original_title_match": 906,
+    "same_title_multiple_distinct_game_bodies": 13
+  },
+  "deferred": [
+    {
+      "uid": "ext-40eb11009c2bd1bdc1b0",
+      "title_en": "A Gift of Sanctuary",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7cf8f6d37679c319993b",
+      "title_en": "A Life Barbaric and Brutal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6d52967eab42aff178ec",
+      "title_en": "A Tale of Greed",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-bc0bebac45d7c3d0d0c6",
+      "title_en": "An Ex-Pirate",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-57021efd49eb7e20f491",
+      "title_en": "Bitter Travels and the Nixad",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-843d601b59d7f6973ba0",
+      "title_en": "Chance’s Folly",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-27fae69f9d4bf74263a1",
+      "title_en": "Chronicles of Ehtelar",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b712f42ad4eb213b362f",
+      "title_en": "Clever Kail-Perwa and the Great Boast",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ea7111782234918f9067",
+      "title_en": "Dust’s Shadow",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4de9495377c9e95eb498",
+      "title_en": "Final Lesson",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-faa560139ac77f649737",
+      "title_en": "Freedom’s Price",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7ab05b64aa292db4f2ad",
+      "title_en": "How The Beetle Got His Cape",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9965b783b0f7dbb501ac",
+      "title_en": "I was Summoned by a Mortal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d1d7d14f2828c11efb9c",
+      "title_en": "Immortal Blood",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-cca5c2f71b1bb3d537f9",
+      "title_en": "Investigator Vale: Retinue of Shambles",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-219c91999298c3abdd40",
+      "title_en": "Lost Tales of the Famed Explorer",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c56c455d99c832a09447",
+      "title_en": "Master Zoaraym’s Tale",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-788a157c91321b56eafe",
+      "title_en": "Pirates of the Abecean",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2c7e5c485de41fa0743d",
+      "title_en": "Remember Me",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-79d67f4327400155d5f8",
+      "title_en": "Robier’s Vegetable Garden",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7c555ce8192688446fe5",
+      "title_en": "Ruins of Kemel-Ze",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-419ae6a886509da1af0b",
+      "title_en": "Scary Tales of the Deep Folk",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4a04838de02c2625d5e6",
+      "title_en": "Scary Tales of the Druadach",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8a36c921ffb99685bb27",
+      "title_en": "The Alik’r [ESO]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7427075ba5c40550c748",
+      "title_en": "The Chronicler’s Travelogue",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ea3d47ded5b3326a84b1",
+      "title_en": "The Death of a Wanderer",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-636304591512950a58a4",
+      "title_en": "The Ghostly Stag",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4676c83571cdaa373a18",
+      "title_en": "The Ivory Lord: A Hero Born",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-aa3ae4157d3557a33bbb",
+      "title_en": "The Locked Room",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1c157bc295d0e6835dc1",
+      "title_en": "The Red Curse",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c6129fd937cd358664d8",
+      "title_en": "The Red Paint",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-18542ba8edd64a8723ac",
+      "title_en": "The Right Mattock for the Job",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-211ff133c304edcec91c",
+      "title_en": "The Ruby Necklace",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-066eeecd65b10db78f9e",
+      "title_en": "The Saga of Captain Wereshark",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-21fbad3a476a21e3325b",
+      "title_en": "The Sorrow of Stone and Tide",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d2558fe1b47c905262db",
+      "title_en": "The Truth of the Hunter",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c969842af37edc619a01",
+      "title_en": "The Turtle and the Sloth [Original]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e787f585a5df4cf2b4b7",
+      "title_en": "The Voyages of Il-Am-Hakim",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-261461f9708bdc7bf28c",
+      "title_en": "Three Thieves",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-36c8de65cd0252cf08c7",
+      "title_en": "Trap",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-aed156f7d850016faf1c",
+      "title_en": "Zakhin’s Many Heroes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3a75336b8927cbe24492",
+      "title_en": "A Werewolf’s Confession",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9850d4d2aa0fdbd27e90",
+      "title_en": "Abah’s Landing Merchant Lords",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-18680abb2a9daf961baa",
+      "title_en": "Alchemy For My Apprentice",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b3ae8e66bf8657843bc7",
+      "title_en": "Bloodfiends of Rivenspire",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a2373be8c45ba439cca1",
+      "title_en": "Cradle of Shadows",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-da0d1c14e800a3019752",
+      "title_en": "Fire and Darkness",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7cb44e1916e4ae4bb878",
+      "title_en": "Founding of the Spirit Wardens",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-bc9466f42a4ef8797e67",
+      "title_en": "Guild Memo on Soul Trapping",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-302ad6deea47bfd2dac9",
+      "title_en": "History of the Fighters Guild, First Edition",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d969be6c2606579b7159",
+      "title_en": "House of Reveries",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6acf91f496059b8c50d6",
+      "title_en": "House Ravenwatch Proclamation",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-34cd3713b9a57247b33f",
+      "title_en": "Iron Wheel Precepts",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ce90d104f259104ffc8c",
+      "title_en": "Mottos of the Dunmeri Great Houses",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-23bda34664ed473baef0",
+      "title_en": "Our Calling, Our Pledge",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-48de9de533db9460e50d",
+      "title_en": "Pension of the Ancestor Moth",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-26751a5866017ff0dd2e",
+      "title_en": "Sacred Witness",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-69443948f12b5c7aa7ca",
+      "title_en": "Sanctioned Murder",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d225275c72030af33efb",
+      "title_en": "Shad Astula Academy Handbook",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d169ec651cd8cfd438c6",
+      "title_en": "Systres Knightly Orders",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5cc8cc915f827108f5b9",
+      "title_en": "The Art of Crafting",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f72ca0527e92efaf0b40",
+      "title_en": "The Five Tenets",
+      "reason": "same_title_multiple_distinct_game_bodies",
+      "candidate_book_ids": [
+        1167,
+        3673
+      ]
+    },
+    {
+      "uid": "ext-91c51e986276776c5eab",
+      "title_en": "The Glenmoril Wyrd",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a8af07fde2b49d953f86",
+      "title_en": "The Great Houses and Their Uses",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2c88a656fde85c641239",
+      "title_en": "The Old Ways",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2cece43e9d36f07fb900",
+      "title_en": "The Order of the Black Worm",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6baa669941013124223f",
+      "title_en": "The True Noble’s Code",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-48a8ddbd134580d31253",
+      "title_en": "The Werewolf’s Hide",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3d80e8f9f520941e985e",
+      "title_en": "Undaunted – A Life of Glory",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e3c6ea887de55077a726",
+      "title_en": "Viti’s Notes: Order of the Hidden Moon",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a49dbc20aafa6107b108",
+      "title_en": "Who are the Arcanists? Skill-Up",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f6c27b8fdf40f9602b6b",
+      "title_en": "Who are the Wardens Truly?",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f56bba4c99775918d476",
+      "title_en": "With Regards to the Ebony Blade",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c1466e94784e07ccea86",
+      "title_en": "2920, Last Year of the First Era",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e748bca5b527fa1658a2",
+      "title_en": "A Life of Strife and Struggle",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-900e3004d8aeaa158d6d",
+      "title_en": "A Memory Book",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d8406e2c28eb802eb863",
+      "title_en": "Antecedents of Dwemer Law",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-89f6a267115ff4263aff",
+      "title_en": "Arx Corinium – First Seed Report",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-412b97db30d27808146f",
+      "title_en": "Ayleid Survivals in Valenwood",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a2800b519bae2b2064d8",
+      "title_en": "Ayrenn — The Unforeseen Queen",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d1b2eeafe6eb7e0caea9",
+      "title_en": "Before the Ages of Man",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d42849c634481c2e8a86",
+      "title_en": "Bonegrinder’s Skull",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e3879648780a42b30301",
+      "title_en": "Burning Vestige, Vol. I",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-95ba800ed3c761edc74b",
+      "title_en": "Chronicles of Kinlord Orlemar, Part IV",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-90befd6f7840bfa3f615",
+      "title_en": "Chronicles of the Five Companions",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ac577f1bcb6f83ee281c",
+      "title_en": "Cleansing of the Fane (The Chronicles of the Holy Brothers of Marukh)",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-92c12c227dff0d123758",
+      "title_en": "Coldharbour’s Conquests",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8024ca7f3f736cc2bae2",
+      "title_en": "Confessions Of A Khajiit Fur Trader",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7a1eb8044da1d311c500",
+      "title_en": "Daughter of the Niben [ESO]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3ce9a1c5861d422be672",
+      "title_en": "Eulogy for Emperor Varen",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5a3ebafb80546c1ab1b9",
+      "title_en": "Father of the Niben",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4d1e10b30a85df810ceb",
+      "title_en": "Fragment: On Artaeum",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-de66c1ae971884d1daa7",
+      "title_en": "From Argonian to Saxhleel",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-df0a44df866a2616d964",
+      "title_en": "Frontier, Conquest, and Accommodation",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4b1f839d226a71626eef",
+      "title_en": "Galerion the Mystic",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-cf0aeb8eebe516c35687",
+      "title_en": "Great Harbingers of the Companions",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0a56475a1ac7d25150d1",
+      "title_en": "Guide to the Daggerfall Covenant",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2a8f7541b38b9d4cbbcc",
+      "title_en": "History of Clan Corelanya",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-245f0c33cf602db7b6c5",
+      "title_en": "History of Zaan the Scalecaller",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0ec897a4a12ff0689d98",
+      "title_en": "House Tamrith: A Recent History",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-20e64add6d0c7c8944bf",
+      "title_en": "House Tharn of the Nibenay",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0faae692565b474fb0e2",
+      "title_en": "Jorunn the Skald-King [In-Game]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c07e1e24f913484ecfbe",
+      "title_en": "Jorunn the Skald-King [Tales of Tamriel]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7da159382d271f2fa727",
+      "title_en": "Josef the Intolerant",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-051fb29d865b5c8c8560",
+      "title_en": "Keshu",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-77b36d700a162ddfba7d",
+      "title_en": "Kinlord Rilis and the Mages Guild",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-bdd7115d3ae320c1d9e7",
+      "title_en": "Legend of Shalug the Shark",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-67270dcf6f0c034aa08b",
+      "title_en": "Mad Baron Densil",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-cb58fd0a91b8698bd7f9",
+      "title_en": "Memory Stone of Makela Leki",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d1b9ca12b20e92ad7b45",
+      "title_en": "Messages from Hews Bane, Part 2",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fadcf5b80f0e660276ea",
+      "title_en": "Monument Island History Plaques",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7638ad8608e59269cda6",
+      "title_en": "Northpoint, An Assessment",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c6e7e1b611905463ac19",
+      "title_en": "On the lineage of the Aswala Thoroughbred",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-cf5a5260320cfefabfb5",
+      "title_en": "Once",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-28be514714197d4e1ff4",
+      "title_en": "Orcs of Skyrim",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-bb5d3f2074c5166ee3fa",
+      "title_en": "Our Story",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-59bf24c75410474295fc",
+      "title_en": "Remanada",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4e8ef1698d1c5c717034",
+      "title_en": "Rislav the Righteous",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-243f3fe627a78cb6dc31",
+      "title_en": "Schemes of the Reachmage",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5a4a616b0126ac2e572b",
+      "title_en": "Sentinel, Jewel of the Alik’r",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8715bc5446085ab4ceda",
+      "title_en": "Sewer Strategy",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-dc4a2b27ad740584c4ff",
+      "title_en": "Shornhelm, Crown City of the North",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-549b3bbf8e11a7e614e4",
+      "title_en": "Systres History",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2ba32995a0e741d9df1a",
+      "title_en": "The All-Beneficent King Fahara’jad",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0822ecf1e19c52aaf080",
+      "title_en": "The Barrows of Westmark Moor",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-890bd63f4666092db1a0",
+      "title_en": "The Battle of Red Mountain",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-57d6278c41aa942b526a",
+      "title_en": "The Black Fin Goes to War",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2bf2257493098cd0a385",
+      "title_en": "The Black Fin: Foreign Adventures",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-51d555d300561acee14f",
+      "title_en": "The Blackwater War",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c83b9a5951daff6c85ff",
+      "title_en": "The Bretons: Mongrels or Paragons?",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0337988eaf05b783d627",
+      "title_en": "The Brothers of Strife",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5f2f62c352482813e1db",
+      "title_en": "The Brothers’ War",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-45a3768dd07f6eb13438",
+      "title_en": "The Chronicles of King Kurog",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-926f99c562a824916d43",
+      "title_en": "The Crown of Freydis",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-609dace9471e441de23a",
+      "title_en": "The Devouring of Gil-Var-Dale",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3de8512c2d587124f41c",
+      "title_en": "The Gray Host: A History",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ee03ae55249ce66321ba",
+      "title_en": "The Guardians of Mor Naril",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a0f3c4d12409f5c0271a",
+      "title_en": "The Horse-Folk of Silverhoof",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-439ee477553adb6ef1bd",
+      "title_en": "The Last King of the Ayleids",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a5375c8cb95199bb58f1",
+      "title_en": "The Legend of Vastarie",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9522368c4f63c3763485",
+      "title_en": "The Living Gods",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6eee5b10f03433e98b1f",
+      "title_en": "The Remnant of Light",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b23c3114a6725751634d",
+      "title_en": "The Salas En Expedition",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8a153e30a522f2ae5b1d",
+      "title_en": "The Second Akaviri Invasion",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-49b2dca8cf548de6511f",
+      "title_en": "The Slave Rebellion – Man’s Triumph",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2d9ea0ac10ba14873bf2",
+      "title_en": "The Song of Pelinal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-922279bfa190f9c64471",
+      "title_en": "The Stormfist Clan",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2a132c361f48cf925495",
+      "title_en": "The True-Told Tale of Hallin",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-948c89d47371f99ac702",
+      "title_en": "The Whithering of Delodiil",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a410fd2aad2510ed22b1",
+      "title_en": "Topal Legionary Academy: A Khajiit’s Summary",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ba7d7b69bb8544aabc4e",
+      "title_en": "Triumphs of a Monarch",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6739b60b04e51fd718d4",
+      "title_en": "Vaedinhill, the Kinlord’s Folly",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2ba8e0a8fd16e64d00dc",
+      "title_en": "War of Two Houses",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f580bb4108e43be3dc04",
+      "title_en": "Water Cuts Stone, A Textual Analysis",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6a67d965dae177337614",
+      "title_en": "Wayrest Sewers: A Short History",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b5786af836424706ca0f",
+      "title_en": "Wayrest, Jewel of the Bay [ESO]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8f60ad3628b97ba98cfe",
+      "title_en": "What is Volendrung?",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7da70d1cb0ce072b81dc",
+      "title_en": "A Clothier’s Primer",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9bacfe068601e29e54b5",
+      "title_en": "A Guide to Fishing Tamriel",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-aac04cd0f70f65ca0be9",
+      "title_en": "ABCs for Barbarians",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8f12d92f36defb90f1c2",
+      "title_en": "Ancient Tome",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4d5352fa9e1fa2229ef7",
+      "title_en": "Arcana Restored",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2a93a3455c70f114a150",
+      "title_en": "Armorer Practicum",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f5dbe75cf94fea49d6a2",
+      "title_en": "Basic Provisioning Guide",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0cd917ecba26f76baa62",
+      "title_en": "Blacksmithing Basics",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-401f9b20f3df712dfb89",
+      "title_en": "Boethiah’s Pillow Book",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-74ef3b41884aac5ce4b3",
+      "title_en": "Civility and Etiquette",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-cf92e039460fc2a70da1",
+      "title_en": "Corelanyan Cuisine",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8856b57168676e9fd729",
+      "title_en": "Crafting Motifs",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b0360ef8fd7ac0fd93ca",
+      "title_en": "Daynila’s Corpse-Kebob",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4d2e60e5fd34ff718895",
+      "title_en": "Directions to Cure",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-45b18185233451ab0455",
+      "title_en": "Enchanter Practicum",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-698847e43d4d402a36cd",
+      "title_en": "Enchanting Made Easy",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f5c82b0da8b6c6bd27dd",
+      "title_en": "Guide: Advancing in a Craft",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e4e36b44bf39c40638ab",
+      "title_en": "Guide: Gathering Materials",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0838f2325c13bb9841e2",
+      "title_en": "Guide: Researching and Learning",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d9d5c9f5f80765cf6915",
+      "title_en": "Handbook for New Homeowners",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3bfa2dd77ae1a2144ca7",
+      "title_en": "How to Behave Around Durzogs",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d8875e29dd60ef529d7e",
+      "title_en": "How to Pronounce Dwemer Names",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-377719cd2f186e2d0fdf",
+      "title_en": "Julianos Firebelly",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-200382d99f1eb250426f",
+      "title_en": "Khunzar-ri Sayings",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-baf5097476c51f91a6f2",
+      "title_en": "Kwama Mining for Fun and Profit",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d182e63ba3ac43521350",
+      "title_en": "Living with Lycanthropy",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-39364f00039315d7de2a",
+      "title_en": "Manual Of Spellcraft",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-65a893851a8d0a57cbb8",
+      "title_en": "Materials for Novice Necromancers",
+      "reason": "same_title_multiple_distinct_game_bodies",
+      "candidate_book_ids": [
+        7821,
+        7871
+      ]
+    },
+    {
+      "uid": "ext-16daa6c23ba376d33edd",
+      "title_en": "Moon-Sugar for Glossy Fur? Yes!",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-468bfcd40e02187028de",
+      "title_en": "Notes on Our Secret Project",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-68d2f579a2444d039152",
+      "title_en": "On Soul Shriven",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8e6612df61e782ccbb2c",
+      "title_en": "On Stepping Lightly",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1e0c5559e3c7927f0be4",
+      "title_en": "On the Tel Var Stones",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-335b43f5a85e8cdcbf37",
+      "title_en": "Proper Torture Techniques",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-55f63b178f9fc478b808",
+      "title_en": "Protocols of the Court of Contempt",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4af59e1d055e150fdcbd",
+      "title_en": "Reality and Other Falsehoods",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0ef9b3a0a643a233b058",
+      "title_en": "Silver Asp Antidote Recipe",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3ad93d1359d20f7a421e",
+      "title_en": "Soul Trapping I: An Introduction",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-00d9a30f2e3249c9ce5c",
+      "title_en": "The Art of Kwama Egg Cooking",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-bce0eeeb0276467dc71c",
+      "title_en": "The Binding Stone",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f375536952063891e391",
+      "title_en": "The Black Forge",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c77fb327dff15f39cf45",
+      "title_en": "The Joys of Jewelry Crafting",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-bcc0c21f2f7fc625bbd8",
+      "title_en": "The Slave Pits of Coldharbour",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9c90b4c7f7efde3c609f",
+      "title_en": "The Treasure of Clickyville",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3799b0bf87a700cc0170",
+      "title_en": "The Wood Elf Gourmet, Ch. 1",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b86528b797ffaf4335f2",
+      "title_en": "Thwarting the Daedra",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-edaef368157d946f9469",
+      "title_en": "Tips for a Khajiit in Summerset",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-024d6778bcf8c900186d",
+      "title_en": "Touch of the Worm’s Tongue",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-967821975e77480e55dc",
+      "title_en": "Vine-Tongues",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-68f7064af072dc7134aa",
+      "title_en": "Weaponsmith Practicum",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-14875bcbbe4d1d18857e",
+      "title_en": "Welcome to the Ice Caves",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d9cb6cf428ef0f9e99c2",
+      "title_en": "Where Magical Paths Meet",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0caa33a5ca9d629ef03e",
+      "title_en": "Woodworking For Simpletons",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a4e48fea3ea4f44f3b37",
+      "title_en": "Wrothgar Instructions",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a2adea6a8fb989de6177",
+      "title_en": "A Culinary Adventure",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ade3ccbf3b6e3ef29904",
+      "title_en": "A Feast Among the Dead",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6d2de17b7af117fff7be",
+      "title_en": "A Pocket Guide to Mournhold",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4a9aab78b52c3c940c92",
+      "title_en": "A Trader’s Eye For Fashion",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e5ab92817751ae7b109b",
+      "title_en": "Auridon Explored",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-582f9cdff8d876c2da9f",
+      "title_en": "Ayleid Cities of Valenwood",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-45c0abbff521c51aa3d0",
+      "title_en": "Carrying the Weight of History",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8a7e5d1237120b5e6154",
+      "title_en": "Cheeses of Skyrim",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7157e472f379c87651de",
+      "title_en": "Clans of the Reach: A Guide",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-21dec25732a4eaa49834",
+      "title_en": "Cohort Briefing: Arenthia",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-218b5c0cda244d0eb175",
+      "title_en": "Common Arms of Valenwood",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ad9f6d622fb3f4a28a2b",
+      "title_en": "Fang of the Sea Vipers",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f893ac71e57d8ab43f25",
+      "title_en": "Gold Coast Guide",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-aaea36fe27b0bd8a152b",
+      "title_en": "Hanging Gardens of Wasten Coridale",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ca4e287baff883c22f6a",
+      "title_en": "Interview with the Merchant of Vastyr",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ac14ca1a1c26db40be1e",
+      "title_en": "On the Nature of Reachmen",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8a55a76dd17295eb9ce1",
+      "title_en": "Outsider Observation Report",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-35dcae9773c1848d63c3",
+      "title_en": "Reigniting Love for Contemporary Audiences",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-696c7bb66171d579e640",
+      "title_en": "Rivers of Profit in Riften",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4de0a2904b8cdece0546",
+      "title_en": "Spirits of Skyrim",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3c5ba2c1e27cf7693071",
+      "title_en": "The Code of Mauloch",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c8fdcf8a478cbe9f147e",
+      "title_en": "The Feast of Saint Coellicia",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2709c2b9da65add45b18",
+      "title_en": "The Knightly Orders of High Rock",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-66cc6a0756a5471d02e7",
+      "title_en": "The March Explored",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-926fbf3ea3ab99a16ce7",
+      "title_en": "The Secret Stone Guardians",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-92bd82872286d65fdf5f",
+      "title_en": "The True Nature of Orcs (Banned Ed.)",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-072a587899617784e5d2",
+      "title_en": "The Wedding Feast: A Memoir",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0de9146e49fa2203d4fb",
+      "title_en": "Thenephan’s Mysteries of Mead",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-86bb3815017abe996275",
+      "title_en": "Tribes of Blackwood",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-06842323bcdd6ef79fbb",
+      "title_en": "Tribes of Murkmire",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b64bf01a71fdbce9f8c5",
+      "title_en": "Triumph of the Darkbinders",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-298977b78538f2e0e0e4",
+      "title_en": "Valenwood: A Study",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b676af338856da89ae17",
+      "title_en": "Visitor’s Guide to Eastern Solstice",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1695aa76cba583fff092",
+      "title_en": "War Customs of the Tribal Bosmer",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1bd1513e7bc444b74b71",
+      "title_en": "Woodhearth: A Pocket Guide",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-44177d1552dae793051b",
+      "title_en": "Zainsubani’s Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-bb8105680012e8812eff",
+      "title_en": "A Warning to the Aldmeri Dominion",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c19834459122e793a78f",
+      "title_en": "Argonians Among Us",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8c586f84f62c816cbb93",
+      "title_en": "Bangkorai, Shield of High Rock",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e6cedaa927c092c07ac9",
+      "title_en": "Call to the Faithful [pamphlet]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2ae462f041a1022ed832",
+      "title_en": "Crimes of the Daggerfall Covenant",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1efb7da546b3eb0c15f1",
+      "title_en": "Daggerfall Covenant – The True Heirs",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-236f828a9f00d521765d",
+      "title_en": "Elven Eyes, Elven Spies",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f2310b983f4fc3070210",
+      "title_en": "Folly of the Northmen",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d903b5d5d492f55dd040",
+      "title_en": "Guide to the Ebonheart Pact",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5b6b99659ac0a7bed744",
+      "title_en": "Investigating Our Allies",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-77d20cdb7143e04b1d1d",
+      "title_en": "Orcs: The Vermin Among Us",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c758f726e46b7c33d855",
+      "title_en": "Peace of Xor-Hist",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-75cdaaf412acf709a400",
+      "title_en": "Regarding the Ebonheart Pact",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e82129cd5b111366c16f",
+      "title_en": "Return to Orsinium",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b8f7767ad88ca6599e17",
+      "title_en": "Sacrilege and Mayhem in the Alik’r",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6c377ee904535edc9ec5",
+      "title_en": "Savior of the Altmer",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7f518892280274a89181",
+      "title_en": "Thalmor Handbill",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c4941ced699991070dda",
+      "title_en": "The All Knowing Hist",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8d946793e845690ec897",
+      "title_en": "The Eagle and the Cat",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b5c21b3d64f234032bdf",
+      "title_en": "The Green Pact and the Dominion",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f67a2d0fa4296f6f1541",
+      "title_en": "The Pig Children",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6ee8b1033a1e8d32349a",
+      "title_en": "The Rise of Queen Ayrenn",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c950cf0ab84f39d5839b",
+      "title_en": "The Story of Princess Eselde",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7c10452cb8899ea9d2f7",
+      "title_en": "Unexpected Allies",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-50ac593417f26de96807",
+      "title_en": "Why Don the Veil?",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-44e332e1294c367a7986",
+      "title_en": "Aedra and Daedra",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f720ade99b8635bd0aaf",
+      "title_en": "An Excerpt from Deities of the Orsimier",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5ac16b9c4bdcf9d06afc",
+      "title_en": "An Overview of Gods and Worship",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-376f66790ea1492415f9",
+      "title_en": "Ancestors and the Dunmer (Abridged)",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-dbdf98ab4daf94ec6be5",
+      "title_en": "Aspects of Lord Hircine",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ef9946159da6105ecd5f",
+      "title_en": "Aurbic Enigma 4: The Elden Tree",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9ff28a9ed7f8e052afcc",
+      "title_en": "Behold Khunzar-ri’s Ambition",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5ce81f9a853336297223",
+      "title_en": "Behold Khunzar-ri’s Betrayal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-55a6826cce29a68a3f74",
+      "title_en": "Behold Khunzar-ri’s Guile",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-52414f70195dc7b0699b",
+      "title_en": "Caecilius’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-eb93423b0abd333a5c27",
+      "title_en": "Chronicles of Juha-ri",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b2d80add0c6c3eb9ca32",
+      "title_en": "Correct Ways of Slaying Ra-Netu",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2253f2f381bd68170582",
+      "title_en": "Death-Dancer Recitations",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ffc5f3ce46aa043c811d",
+      "title_en": "Dire Legends of the Doomcrag",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-08fb5cf4a874323c1413",
+      "title_en": "Elder’s Account",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-eb3b2d578afb35183abe",
+      "title_en": "Epics of Mehrunes Dagon",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7c7930d60db7657863f6",
+      "title_en": "Epistle on the Spirits of Amun-dro",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c70534a0e43420bdeca4",
+      "title_en": "Exegesis of Merid-Nunda",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-19ffed882f4a2f9c439a",
+      "title_en": "Falsehoods and Fallacies of the Eight",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-bda0cd900754674d5b5e",
+      "title_en": "Fragmentae Abyssum Hermaeus Morus",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e67b43cb177d64cbd12f",
+      "title_en": "From Exile to Exodus",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-385e3cbea4e7ceca020b",
+      "title_en": "Gifts of the Nereids",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ec7e67ffe54a4ebc3f91",
+      "title_en": "Glorious Upheavel",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d4513f0573d6d3870ec4",
+      "title_en": "Great Spirits of the Reach",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-13267a7ec271bdbf103b",
+      "title_en": "Inexplicable Patron: Mephala",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-91457574f4fe96f36b57",
+      "title_en": "Invocation of Azura",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0713652920082a2c2288",
+      "title_en": "Khajiiti Champions",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e6666224dd0c76e67bd6",
+      "title_en": "Khunzar-ri: Tales",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d8629599df0aeb43592f",
+      "title_en": "Legend of the Ghost Snake",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e33dde0c366d098c6a6b",
+      "title_en": "Lens of the Golden Eye",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9ff5da83234338ed867b",
+      "title_en": "Litanies of the Dominator",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ca502c59f1a783f1156c",
+      "title_en": "Litanies of the Worm",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f3f76185c435b4487d2a",
+      "title_en": "Litter-Mates of Darkness",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-df2a6976ef1e966dcc44",
+      "title_en": "Myths of Sheogorath",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-86ad8b0e040f1fe8089c",
+      "title_en": "Nerulean’s Guide to Phantoms Vol. II",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-54bceaca9eeab484e08d",
+      "title_en": "Nine Commands of the Eight Divines",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fe65caf78c051ac35e5d",
+      "title_en": "Opusculus Lamae Bal ta Mezzamortie",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a155f190ec2b69d7bb21",
+      "title_en": "Posting of the Hunt [ESO]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7455d8215169f401bd7c",
+      "title_en": "Prayer to the Voskrona Guardians",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-80001f3f9e274640b10e",
+      "title_en": "Rajhin and the Stone Maiden",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3974fa2f09838f8a98e2",
+      "title_en": "Reflections on Cult Worship in the Empire",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fe55b85ece2738b967d1",
+      "title_en": "Ruminations on the Elder Scroll [Online]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-42fc2be3da79787bc23a",
+      "title_en": "Ruminations on the Lunar Vaults",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7ef906f944cf40c7c7d7",
+      "title_en": "Sacred Rites of the Stonechewers",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0491f5deb5c541308e94",
+      "title_en": "Sahmazim’s Vos-Toh Translations",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-65cb65572f03892b66ae",
+      "title_en": "Sithis",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fc13f6abcb775bd452db",
+      "title_en": "Songs of the Return",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e03635b9f08a264587f8",
+      "title_en": "Spirit of the Daedra",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-638014d3d9d6d0d8e822",
+      "title_en": "Stone-Nest Funerary Practices",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2c5eabc5bf1f76100577",
+      "title_en": "Sumiril’s Book",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a3844b89aed6f78e2f04",
+      "title_en": "The Adabal-a",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4843ad261a6bf87dbb22",
+      "title_en": "The Amber Egg and Cerulean Sea",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5be9cfe168274b651739",
+      "title_en": "The Amulet of Kings",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-37af4574762bacd5efcb",
+      "title_en": "The Anuad Paraphrased [ESO]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4c55f2551c6863d7b8c9",
+      "title_en": "The Bladesongs of Boethra",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-658e774212c397d9470d",
+      "title_en": "The Blessings of Hircine",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a1457cb17e4f602a1ceb",
+      "title_en": "The Book of Circles",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-eac7a422e27d28e0ef1c",
+      "title_en": "The Book of Dawn and Dusk",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3bbabfd2663d3bf0be2a",
+      "title_en": "The Book of the Great Tree",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-46fc99eea800bc170314",
+      "title_en": "The Catechism of Alessia",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7ac16965f81a5247a2c3",
+      "title_en": "The Changed Ones",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0edb546eae395854b1fa",
+      "title_en": "The Children of the Stars",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d86c9aa10e9fc6696db9",
+      "title_en": "The Consecrations of Arkay",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-56d229f379289bdf03e6",
+      "title_en": "The Eldest: A Pilgrim’s Tale",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-25eeb2c262246bd5f523",
+      "title_en": "The Exclusionary Mandates",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ae2827a61932a0a0c4d3",
+      "title_en": "The First Scroll of Baan Dar (Exerpt)",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1accdc956a86acf53ce2",
+      "title_en": "The Homilies of Blessed Almalexia",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4d67aaf5cd05792c5bc1",
+      "title_en": "The House of Troubles",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-68a0170da0983d72a406",
+      "title_en": "The Illusion of Death",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-486779b450eb33d17f1c",
+      "title_en": "The Interpreted Soul",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7d92c2c6b71f07d7f2fa",
+      "title_en": "The Judgment of Saint Veloth",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a1e5e916149b95cd0fe8",
+      "title_en": "The Legend of Fallen Grotto",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-01f1f012924c85a18971",
+      "title_en": "The Lunar Lorkhan",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-497e91c4c7941811f1c3",
+      "title_en": "The Master’s Truth",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-98ac126ffc6316481b14",
+      "title_en": "The Monomyth",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c3129cd77bf29c6e09f5",
+      "title_en": "The Moon Cats and their Dance",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-664c5958ec6fc657ac81",
+      "title_en": "The Nine Coruscations",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3ec06036f4afce60c8e1",
+      "title_en": "The Ooze: A Fable",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-09f2f5e3615701859784",
+      "title_en": "The Origins of the Stone-Nest: A Fable",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c793545c1aa08d5742ef",
+      "title_en": "The Pride of Alkosh",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-407f094530702ea99fb0",
+      "title_en": "The Road to Sovngarde",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-04d3cfaa06e5399e37d3",
+      "title_en": "The Spawn of Molag Bal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ed3dc116a0f88b0ae001",
+      "title_en": "The Ternion Monks",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-15adb8d12c1d8ab4f860",
+      "title_en": "The Thief God’s Treasures",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5604da6976633240d384",
+      "title_en": "The Totems of Hircine",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5dc45c23a9b41670a830",
+      "title_en": "The Truth in Sequence",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-197f300c09909bb4d8e4",
+      "title_en": "The Viridian Sentinel",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0c28abf180373f61db89",
+      "title_en": "The Voice of the People",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4b7380e5fcef5f7c0745",
+      "title_en": "The Waiting Door",
+      "reason": "same_title_multiple_distinct_game_bodies",
+      "candidate_book_ids": [
+        4528,
+        7800
+      ]
+    },
+    {
+      "uid": "ext-57f9d8a7b02b0cd23129",
+      "title_en": "The Wilderking Legend",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b0aea879e51e8c01bd08",
+      "title_en": "The Will of the Master",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ea0aad49fbc99c3a1476",
+      "title_en": "The Woodsmer",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-91489bd8b2a9a5fdb41b",
+      "title_en": "Trials of Saint Alessia",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-63862aa13bb778fc649d",
+      "title_en": "Tu’whacca’s Prayer",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-63a945eb0dfd1054389d",
+      "title_en": "Varieties of Faith [Elder Scrolls Online]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-15f39c46c99385c91893",
+      "title_en": "Vivec and Mephala",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2a566ca94d53c6c9fd93",
+      "title_en": "Wabbajack",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-86b658a1eafdfbc9b633",
+      "title_en": "Where were you when the Dragon Broke?",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a9ca62312cd0c426c3ab",
+      "title_en": "Why the Wind Howls",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0e83c431810ec82a8e0d",
+      "title_en": "Words of Clan Mother Ahnissi to her Favored Daughter",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-93a651e87e7865544dd0",
+      "title_en": "Y’ffre’s Beckoning",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b333423b93271ecffcd4",
+      "title_en": "Ysmir the Forefather, Volume IV",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-55de2ca8221a3e64d9ff",
+      "title_en": "Zumog Phoom the Mighty!",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8f0314b345ebece8ebd8",
+      "title_en": "A Bound Dremora",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1d77f9a771702bd72329",
+      "title_en": "All About Giants",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-beb01bc33a546bcfeb3a",
+      "title_en": "An Accounting of the Elder Scrolls",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4913b5b139085f618152",
+      "title_en": "An Orc Weaponsmith In Murkmire",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2721aaa4d1979740e027",
+      "title_en": "Ayleid Reference Text",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-876bb536075ca1c652a1",
+      "title_en": "Bone Orchard Research Logs",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c855ecd77e9964f5c7d3",
+      "title_en": "Book of Bloodfiends",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-cd06e77865d018d18a53",
+      "title_en": "Burnt Deciphered Text",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-54f1ee93ba914c481a0f",
+      "title_en": "Chaotic Creatia: The Azure Plasm",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6b27299f552a5ce22ca9",
+      "title_en": "Creating Flame from the Powers of Aetherius",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-207c4f042d81f24f2beb",
+      "title_en": "Daedric Tome of Portals",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0689e4353f901059cb2e",
+      "title_en": "Dark Ruins",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-68f9db658a99065d4de9",
+      "title_en": "Darkest Darkness",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-313f16c96ff4d9b6c328",
+      "title_en": "Dreamwalkers",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c66c74113453415ffb3c",
+      "title_en": "Dwemer Dungeons: What I Know",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-493ae6c3383f7067cb64",
+      "title_en": "Dwemer Inquiries [ESO]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f683d590992025986d02",
+      "title_en": "Excerpt from The Hidden Tunnels of Orsinium",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d829dfedbb168b8fc5d9",
+      "title_en": "Excerpts from Book of the Warrior God",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fac0833ffde69d93ef2a",
+      "title_en": "Fading Builder’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b8521adfd2332539f389",
+      "title_en": "Guylaine’s Architecture of the Second Empire",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a0a67dabe65480219eef",
+      "title_en": "Herbane’s Bestiary: Automatons",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ff88b7b96cfc1a00f084",
+      "title_en": "In the Company of Wood Orcs",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d881d4eb9365f95d8c14",
+      "title_en": "Lady in the Cistern",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-44ab60fedc34f0affb67",
+      "title_en": "Liminal Bridges",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9f58a02c84f4b0a582c8",
+      "title_en": "Magic from the Sky",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2e91db2ee05f56e35bb0",
+      "title_en": "Mair’s Research Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3328b7cebb23b04b6e51",
+      "title_en": "Maldriths: Correctors of Coldharbour",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-42bc97dfda971cb332b8",
+      "title_en": "Malyn Varen’s Grimoire",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-40df4ad01a1c6aa84681",
+      "title_en": "Mazzatun",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-51cd0069f141cccce15b",
+      "title_en": "My Kwama Journal [Research]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6378d9660600620eb623",
+      "title_en": "Mysteries of the Mundus Stones",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-46ec0d1f2803c0288971",
+      "title_en": "Naril’s Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0f6c90b2be10b05b96cc",
+      "title_en": "Notes on Black Gem Prismatics and Refracted Souls",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-38f19bb3adab2d1addaa",
+      "title_en": "Notes on Racial Phylogeny and Biology",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-21edc69029b6efbd0c25",
+      "title_en": "Noxiphilic Sanguivoria",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-cfc780e59be762855d24",
+      "title_en": "On Oblivion",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b1d59458de4ae4b09e06",
+      "title_en": "On Shackled Titans",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f0f2ebec9e856cffc6ea",
+      "title_en": "On the Detachment of the Sheath from the Integument",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8eaa02cdc39eb27a9d21",
+      "title_en": "On The Knahaten Flu",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c3bbde4b0f188c1eeed2",
+      "title_en": "On the Nature of Coldharbour",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-45161e6dd89aff9e7d66",
+      "title_en": "Re-Forging The Past",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b4b970f4a6a2e6fe9db6",
+      "title_en": "Reaper Construction Logs",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7b38148617abb1d43b9e",
+      "title_en": "Reaper Evolution",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d539419bd28bf9dad8e6",
+      "title_en": "Research of Nathien Mortieu",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f9b41e2db971bbd71c0b",
+      "title_en": "Riekr of Wrothgar: Observations",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b5730260e3d087c4def9",
+      "title_en": "Ruminations on the Elder Scroll",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3eec58a190de93fe4dff",
+      "title_en": "Rurelion’s Observation",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-30913c407a2846631ef5",
+      "title_en": "Secret Dwemer Origins",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-03a7c0963065164d2e8b",
+      "title_en": "Seeksxilt’s Notes on Bar-Sakka",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9debb1e51b5da6ec3024",
+      "title_en": "Shadakul’s Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e9ba01d386afcdbd663a",
+      "title_en": "Skin-Stealers",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-82c0297cc72390cf52f3",
+      "title_en": "Skyreach Explorer",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1e9046ca911678290a36",
+      "title_en": "Songs of the Stars",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b1b59c55a45cab95ca24",
+      "title_en": "The Accursed Temple",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2d4f58ab651972d83aca",
+      "title_en": "The Collected Writings of Tzinik-Muz",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6fdca58f7d6b246e273b",
+      "title_en": "The Doors of Oblivion [ESO]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f3a42f02c61cd9ee10a2",
+      "title_en": "The Dreamstride",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-42ba8b8c20ae5cd52c70",
+      "title_en": "The Firmament",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9e5c93cb47b0dc2d6c5f",
+      "title_en": "The First Dialogue of Mannimarco and Galerion",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e95201eccc71b8c53992",
+      "title_en": "The Lightless Oubliette",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a29f11a9d7a4cc47a2b3",
+      "title_en": "The Mystery of the Factotums",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-79a18f7898c8b98b40f6",
+      "title_en": "The Second Dialogue of Mannimarco and Galerion",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fc240cf650f3cf744d2a",
+      "title_en": "The Sigil Shard",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3181df277a3e53906cb8",
+      "title_en": "Tower of Adamant",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-860e9189434e3817350a",
+      "title_en": "Varieties of Daedra",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3d7d580887fb59bb48bd",
+      "title_en": "Vastarie’s Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e781b29fb252df41545b",
+      "title_en": "Visions of the Green Pact Bosmer",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d665ccbe486c5b5f8b11",
+      "title_en": "War Weather",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f9497f8f12db20a77b55",
+      "title_en": "Wayshrines of Tamriel",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c06d09d4d4ccc87f8bf1",
+      "title_en": "What’s an Arcanist?",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-58c96dec885a9605ec74",
+      "title_en": "A Mother’s Nursery Rhyme",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7eb183656b2b72d1e615",
+      "title_en": "A Nereid Stole My Husband",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-786ea4e63667d716dd14",
+      "title_en": "A Shallow Pool",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-978bfe1559463b058e1d",
+      "title_en": "Book of Gratuitous Sonnets",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b9748bc0c7744a15cc2b",
+      "title_en": "Brave Sir Cadwell",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d8b88003923be86251a6",
+      "title_en": "Cadwell’s Personal Anthem",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6eca87b6da901aaaddba",
+      "title_en": "Fair Argonian Maiden",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-256fa1e15e9b8017ea06",
+      "title_en": "Flesh to Cut from Bone",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fc94a2f574226c8d196b",
+      "title_en": "Green Lady, My Lady",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4683285c4153a89b4a7c",
+      "title_en": "Honor’s Rest",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-cee11f200f26ae357da8",
+      "title_en": "How the Kwama Lost His Shoes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-56833407945dcf423b06",
+      "title_en": "Lord Jornibret’s Last Dance",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0cc5b0b4948a3bcadbd0",
+      "title_en": "Ode to a Torchbug",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6d282917ac0e6d5eae03",
+      "title_en": "Ode to the Tundrastriders",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0134d5ee5c0d157c6571",
+      "title_en": "Ode to Warm Waters",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-890d0dde75dee3db5033",
+      "title_en": "Power of the Elements",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-571d5a7141394e28da48",
+      "title_en": "Proper-Life: Three Chants",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-cb2dc55dba7c421bb976",
+      "title_en": "Rose of Navire",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4ef6014ca58c336a52de",
+      "title_en": "Saga of Varen’s Rebellion",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2b4d0089474b0b2f0d00",
+      "title_en": "Six Are the Walking Ways",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-91117c966b3e2defcb7d",
+      "title_en": "Song of the Askelde Men",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9ca39283b096333c0167",
+      "title_en": "Song of the Diamond Sword",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4c9d6213e44ca61c7184",
+      "title_en": "Songs of the Stone-Nest People",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b2c73873ab9b4a6e6b2b",
+      "title_en": "The Battle of Glenumbria Moors",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7e67888f8d2bddd774ba",
+      "title_en": "The Cantatas of Vivec",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-aafa5a01d6101a2f3cbf",
+      "title_en": "The Five Far Stars",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d31e07a0a58c45053de6",
+      "title_en": "The Lay of Firsthold",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4a235c4e0118e0862611",
+      "title_en": "The Legendary Scourge",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-339989e649b3f954642a",
+      "title_en": "The Naming Song of Clavicus Vile",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-efa1e18e9cbc15e76c16",
+      "title_en": "The Song of the Word",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ae496faea527c0b524d8",
+      "title_en": "The Translated Works of Tosmorn",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6cc19cbd6e1593d72e7d",
+      "title_en": "The Waiting Door [Necrom]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a36fe5ce841265a59dc4",
+      "title_en": "The Wandering Skald",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9bc849d017c9a7859f18",
+      "title_en": "The Warrior’s Charge",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-cdfb1dc59f6b8b7c6994",
+      "title_en": "The Warrior’s Welcome",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a31348f2ad70d4ae86f7",
+      "title_en": "The Whisperer’s Song",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-14fbf29e529e71278cce",
+      "title_en": "Tide Returns You",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8e123f2fcc4a97b70cb6",
+      "title_en": "Words of the Wind",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-cb34ba2a8b2c7edee493",
+      "title_en": "Wyresses: The Name-Daughters",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-48af8b9869fbc682ab38",
+      "title_en": "A Trick to the Doors",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-42edf3b6903e625eb433",
+      "title_en": "Fa-Nuit-Hen’s Lock Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-48e96fcae3a2e8925695",
+      "title_en": "Gryphon Fable (Annotated)",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ab40de71252736c5319a",
+      "title_en": "Hand of Almalexia Clue",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c63fe5a437860e714b48",
+      "title_en": "Lantern of the Endless Clue",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-53d6c2a4e10d1dec0e6e",
+      "title_en": "Mercymother Elite Clue",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-60fff11eeff1d3a186bf",
+      "title_en": "Morihaus, Sacred Bull Clue",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0677d68541491580bbc1",
+      "title_en": "Ragged Letter",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-740de1d2ab732cc988b9",
+      "title_en": "Tanlorin’s Bird Note",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ac974eff133a3544081d",
+      "title_en": "The Humor of Wood Elves",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c368b9eab2f0a28caec1",
+      "title_en": "The Kendhall Book of Riddles",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-369b30fd2e70fef583d6",
+      "title_en": "The Key to Shada",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3d5fd78446142fbed37b",
+      "title_en": "The Path to Shada",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-51a7354d35fa21015ebc",
+      "title_en": "The Red Book of Riddles",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-266566ad15f78e2f33e8",
+      "title_en": "Unfathomable Secrets Clue",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3ee171b1b78659afa245",
+      "title_en": "Vestments of the Druid King Clue",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9d118df0c8f33b619ec4",
+      "title_en": "Whitestrake Ascendant Clue",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c56486bee3da48c8b50d",
+      "title_en": "A Hypothetical Treachery",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-77a252d1c2cb242f4792",
+      "title_en": "Elsweyr My Love",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a72973f6345d0ae9f4e8",
+      "title_en": "Horror of Castle Xyr",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-be508a12dae1978efd07",
+      "title_en": "The Folly of Isolation",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-bf7800670523930433bd",
+      "title_en": "The Lusty Argonian Maid",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-adb4483c5a1572dcc626",
+      "title_en": "[CHARACTER CLASS] BOOK NAME",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6564e4238f4f6221d352",
+      "title_en": "Baar-Jasa’s Enigma Totem Solution",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-704d63c19d52b35b6156",
+      "title_en": "Collected Works of Wee-Zeeus",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c670c84485e6f955c102",
+      "title_en": "Daedric Text",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-357cf1b10dc611833bab",
+      "title_en": "Jubilee Cake Voucher",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2f53e6e1bd3237449501",
+      "title_en": "Lufiya af-Frandar",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3dbed4b1f5821344a08b",
+      "title_en": "Map Fragment [Cave Entrance]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1a17d2af11f9b72f513d",
+      "title_en": "Map Fragment [Northeast Camps]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-edbd2b029d5f94282814",
+      "title_en": "Placeholder Wine-Label",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-80b74630d93376d8692c",
+      "title_en": "Scrawled Tally",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ebbd23477b31df457fdd",
+      "title_en": "Tales of Tribute – Final Rounds",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5fade077398e76158f6c",
+      "title_en": "Unraveling Palimpsest",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-46c24382b431bc7e6448",
+      "title_en": "Adventurers Wanted!",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-dec721f688f235b86c8b",
+      "title_en": "An Excerpt from Mammoth Meat – So Very Delicious",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a18d4ece4f4300f52bc1",
+      "title_en": "Black Horse Courier Handbill",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-122957bd9536dc288501",
+      "title_en": "Bounty: Dragons!",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-79f56f4f760c8db13041",
+      "title_en": "Calling All Daedric Entities",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8940571986d100f24e5e",
+      "title_en": "Card Battles Across Tamriel!",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5d8f633218254740a18a",
+      "title_en": "Constable Seeks Deputy",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-cba6ca4aa35709b0f4cd",
+      "title_en": "Elsweyr Dragon Defense Force Summons",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2345dbf2f0e38057fa2e",
+      "title_en": "On Behalf of the Mages Guild of all Tamriel",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9d801595baef7602ef98",
+      "title_en": "Research Assistant Required!",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9143ad632937da6b5c88",
+      "title_en": "Reward for Dwarven Relics",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6c837e99205dc1a72b4d",
+      "title_en": "Seeking New Members!",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5913456163e53b4e8405",
+      "title_en": "Seeking Tenant! [Home]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-22988cc17fc26902bb54",
+      "title_en": "Seeking Tenant! [Room]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-24afd31f7fa126be19c1",
+      "title_en": "Skingrad Seeks Adventurers!",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-095c91c3c748ad2654d3",
+      "title_en": "Swords Needed for House Mornard",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-aa632c0702e9ad11f4dd",
+      "title_en": "The Everfull Flagon Handbill",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-556aab54086f7459d1d8",
+      "title_en": "The Imperial City Awaits!",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8fa8799fba905c8ee7e7",
+      "title_en": "Yours for the Taking!",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9b37faa59a0364df02fb",
+      "title_en": "Ebony Blade History",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b7d9f21e6a3b4c5f1a59",
+      "title_en": "Ibrula’s Warning",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-547962a1e513ed04d307",
+      "title_en": "Notice to Travelers",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-53c1565d5f450502af2c",
+      "title_en": "Orcthane’s Orders",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c110b4ae8219447d5e47",
+      "title_en": "Ordinator Edicts",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3a9a54e31d7726ed46ee",
+      "title_en": "Tribute Challengers – Intermediate Tournament",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9d41d1bd1a688b3f5087",
+      "title_en": "Tribute Challengers – Novice Tournament",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d95319c9325c24f6c181",
+      "title_en": "Wanted Poster",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3cb4ce3d4c4a8b8955c5",
+      "title_en": "Warning Sign",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6f8ab67ffcd97023846b",
+      "title_en": "Warning: Oozt-Tzel Disappearances",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-86eb4c024de2fa8233d9",
+      "title_en": "You Lazy Workers!",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-083b09067d0844c546ca",
+      "title_en": "Argonian Bloodwine",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-accce7a915cfaacdd29c",
+      "title_en": "Battlehorn Select",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-208d396b166aef6810b6",
+      "title_en": "Bazaar Directory Rubbing",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d173834fea6d7230adef",
+      "title_en": "Behold the Lunar Champion",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-00ae6650350d16163b74",
+      "title_en": "Engraved Pedestal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c8f41bbe7016745cf7c5",
+      "title_en": "Hall of Heroes Texts",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8efbc4bc9b6e5bc181b1",
+      "title_en": "Karthi of Rorikstead",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-be95f018b1bdea84852f",
+      "title_en": "Moawita Memories",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fdaf6068585c9c4db643",
+      "title_en": "Mural Dedication",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8a50eb3e9dcc5dfde9ae",
+      "title_en": "Oozrul the Headstrong",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-10b5918962eac2f98859",
+      "title_en": "PRISONER: CLARISSE LAURENT",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-51277a06f77c7a9ab47e",
+      "title_en": "PRISONER: RAYNOR VANOS",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5691132498c7acaae7c2",
+      "title_en": "PRISONER: TELENGER",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-99843d8f3421ea4692b7",
+      "title_en": "Sinmur’s Grave Marker",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-14a4364e0cabe38b41e7",
+      "title_en": "Statue of Amminus Entius",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-da8791504cc020b936de",
+      "title_en": "Statue of Cavor Merula",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e9d1622f5831ee022982",
+      "title_en": "Statue of Justia Desticus",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-bf234043287f05833206",
+      "title_en": "Statue of Rusio Olo",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-68a2edfca7ec0e3a690c",
+      "title_en": "The Lives of Njabi",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d28be37a951169dc0faa",
+      "title_en": "The Ritual of Zyv-Elehk (Ritual Fires Dormant)",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2d4a995b183bc920bb84",
+      "title_en": "The Ritual of Zyv-Elehk (Ritual Fires Lit)",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-91b8de5c0bdfd2e42870",
+      "title_en": "The Tomb of Ja’darri",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a1fb61e4f2d9b8000540",
+      "title_en": "Wind Scour Temple Epitaphs",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-25825a65e370444f22de",
+      "title_en": "Anchor Status Report",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-109384e7b04eaf2e2b5b",
+      "title_en": "Annexation Note",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b8fb78420c3dcb9ccc6e",
+      "title_en": "Anthology of Abodes Available for Acquisition",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e98b47f2cc0bbf774d0d",
+      "title_en": "Atronach Needs and Allocations",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a16829541c66334d2aa7",
+      "title_en": "Convergence of Maestros",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5c37d4d907b82e946325",
+      "title_en": "Imperial City Death Certificate",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6028d3d00f5ab60553e2",
+      "title_en": "Imperial City Death Certificate",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0acca20dcdb801d5aabb",
+      "title_en": "Indirim’s Report",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-93c59460c71ae0bc87f6",
+      "title_en": "List of Targets",
+      "reason": "same_title_multiple_distinct_game_bodies",
+      "candidate_book_ids": [
+        2146,
+        5872
+      ]
+    },
+    {
+      "uid": "ext-de8436683161366b4f47",
+      "title_en": "Maormer Correspondence",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3fd468d86bb193414c2c",
+      "title_en": "Molag Mar Tax Records",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-04a443e1ac9d270e75fa",
+      "title_en": "Tamrielic Artifacts",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ca962bd654c088d0f66d",
+      "title_en": "The Library of Dusk: Rare Books",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b8318141e75f907ee0c1",
+      "title_en": "To Posterity",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e68f966743b9e2df5670",
+      "title_en": "Tralise’s List of Powerful Relics",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-338426657357a916e60b",
+      "title_en": "Voljar Meadery Deed",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5ac82645acf5f7d2b187",
+      "title_en": "…ine Commands of the Eight Divines",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-46e1749155e0026c4650",
+      "title_en": "A Looter’s Paradise",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f8f19a8d2fc16ae27751",
+      "title_en": "Agolas’ Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0ae991033705d0b7eaf8",
+      "title_en": "Application of Flame for the Uninitiated",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-aa77416a1fff4d8a0e97",
+      "title_en": "Arowende’s Diary",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9f4fcb703333cccdcdde",
+      "title_en": "Astia’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d2a19f1456ac15f8cc9d",
+      "title_en": "Bakhig’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-eefeda3026a5eb8dbfb7",
+      "title_en": "Battleplans",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7f0a5c4529b68b813d48",
+      "title_en": "Bazorgbeg’s Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-57ecc9e4de011d156168",
+      "title_en": "Belarata Parchments",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-943c5e75c3b848b43b68",
+      "title_en": "Beldorr’s Note",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5658566181c8cebd784d",
+      "title_en": "Bonnie Spriggan Logbook",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-03e3cb428aef28000ad3",
+      "title_en": "Burned-By-Fire’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-83bb71493c8e5e2c330d",
+      "title_en": "Cadwell’s Journal: Famous Coldharbourites",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-98c12fa08fd52c6348bf",
+      "title_en": "Caterwaul Logbook",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9d5169267b23f3c78761",
+      "title_en": "Coming of the Learned One",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3124f56f8c04f20850a7",
+      "title_en": "Curative Batch Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-959e742b70be37133947",
+      "title_en": "Dalaneth’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e257209f20c7d5339892",
+      "title_en": "Deet-Loh’s Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f68344be92158c140d1f",
+      "title_en": "Dirty Abandoned Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7e41c82b49be664e09a9",
+      "title_en": "Diviner’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-33ca209f212cca091a3c",
+      "title_en": "Drakeeh the Unchained’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7e9ae156e8f4ed3fd5d1",
+      "title_en": "Dreamsnake Manifest",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a802bf8138847e0eb0b6",
+      "title_en": "Dreynis’s Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ba3fb1db58efc0720cfa",
+      "title_en": "Duttard’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d26375e5d44e21b1451a",
+      "title_en": "Ealcil’s Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8f51e33866a1aafbb54c",
+      "title_en": "Elf Prisoner’s Note",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-429efec299347e27a3cb",
+      "title_en": "Entry 19",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a6ec207261e1f7bb60e8",
+      "title_en": "Everfull Flagon Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fab89de7e1c48365d402",
+      "title_en": "Famia Mercius’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0379802a3ebd1555d011",
+      "title_en": "Fang-Furls’ Dead Drops",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-be0fed971035924adc02",
+      "title_en": "From A Copy For The Archive",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b6dd24961cccdbfb0f1f",
+      "title_en": "Fungal Grotto Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c451e84076fbac3a8f51",
+      "title_en": "Gabrielle’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4988bfb139f08a1a0485",
+      "title_en": "Gabrielle’s Research Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0d37348555ee1499cd5a",
+      "title_en": "Golvyni’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-43832695f8b8c77442a9",
+      "title_en": "Gorlar’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-21a14e166959ad3b9838",
+      "title_en": "Hadmal’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f28bdb023b5692bfafaf",
+      "title_en": "Hammett’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ec3c2bad0e5445bb9970",
+      "title_en": "Hastily Written Observations",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-475cd0eee226d38d9263",
+      "title_en": "Hears-the-Wind’s Note",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a146cc01f88466618c3e",
+      "title_en": "Heetzasi’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e7bbe8a237a6dec678b7",
+      "title_en": "Hubert’s Diary",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ca06de936706b5dedeac",
+      "title_en": "Hurriedly Written Note",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ecb3bd52a4025af82d18",
+      "title_en": "Intiate’s Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0fb8b089253c1d8b1746",
+      "title_en": "Investigation Note",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-74f298558d59fa3d81a5",
+      "title_en": "Ixtaxh Explorer’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2941246d92796a48bc81",
+      "title_en": "Jewelry Crafting Survey",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3a954172b54f77718a25",
+      "title_en": "Jofnir’s Journal",
+      "reason": "same_title_multiple_distinct_game_bodies",
+      "candidate_book_ids": [
+        1752,
+        2007,
+        2560
+      ]
+    },
+    {
+      "uid": "ext-24283f2635eaa3c32d9a",
+      "title_en": "Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-939b1b27773eeb48cff1",
+      "title_en": "Journal [Amarbina]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-435cc00331b6bd2b92f5",
+      "title_en": "Journal of a Telvani Emissary",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-29760b893d1c2e54c90b",
+      "title_en": "Journal of Merethrin",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d70a29444f9f6ef742ff",
+      "title_en": "Journal of the King’s Seneschal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c7cd46f1f05e46653f43",
+      "title_en": "Journal of Tsona-Ei",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-bcc84b5f440b788ce23d",
+      "title_en": "Journal of Ulrich",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d6647efd1cd9e3a5b6d6",
+      "title_en": "Journal’s Final Pages",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5ae04df5bac108d231c4",
+      "title_en": "Kaarat’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-79c193a034269737cad0",
+      "title_en": "Kinlord Orlemar’s Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-797aa90b5a9e0145d742",
+      "title_en": "Kireth’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-908bbb6f65543f7d85ca",
+      "title_en": "Kireth’s Notebook",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-32442c299885c2e7d7f8",
+      "title_en": "Krisandra Edrald’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fe4932a354cbb013d569",
+      "title_en": "Leonce’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-87a7d4709deddcd897c7",
+      "title_en": "Life in the Eagle’s Shadow",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7c81bfde5c59c7549007",
+      "title_en": "Lumber Camp Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7beb3761b20b2287ce4d",
+      "title_en": "Mairead’s Diary",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a221fff9d9e60d05e234",
+      "title_en": "Manifest of Kinlord Rilis XII",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7334ace7b7c4029c4dd3",
+      "title_en": "Manifestos of Kinlord Rilis XII",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-478171e3dfa4fb437353",
+      "title_en": "Mannimarco’s Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-93554051623b0defd6a7",
+      "title_en": "Marifah’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-092cd63992d732d4a8a2",
+      "title_en": "Mezhun’s Field Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6da131b5fb4176837832",
+      "title_en": "Misplaced Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c899c0163a77676deb2b",
+      "title_en": "My Kwama Journal [Metamorphosis]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7c859e83f6bbe698513f",
+      "title_en": "Myshka’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6127bc7ac14c7dc083e8",
+      "title_en": "Mysterious Ore Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-73fed22a6b985c89b8ec",
+      "title_en": "Nahlia’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2e6428e1d426f863b160",
+      "title_en": "Naliara’s Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-dc39789da74122ffd241",
+      "title_en": "Narnolas’ Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-984a608ee3cf257708be",
+      "title_en": "Neramo’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5cd4916ecc6a525c6466",
+      "title_en": "Night Market Report",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3d3eb5e087b647ed2f81",
+      "title_en": "Nikussha’s Research Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ff572d0867850a6daa38",
+      "title_en": "Nolonir’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-467a9b3ab10d994c30c4",
+      "title_en": "Note About Paths",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6d66872d859c5f5416f5",
+      "title_en": "Orders for Falinir",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2d41cc08825dafda3435",
+      "title_en": "Oshgur’s Destruction Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d47c80c4ac8eeb936996",
+      "title_en": "Other Worlds Than These",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3a3e166e5e331d0316bf",
+      "title_en": "Panicked Note",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-99ba0d8fcb838f9f177b",
+      "title_en": "Proctor Luciana’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-44a663d797eafcd49c6d",
+      "title_en": "Ra’khajin’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c04dc1f35cf345c37141",
+      "title_en": "Ralion’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-699c510ea0bd316e5d5f",
+      "title_en": "Rasir’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c17f975516e65f7d8b50",
+      "title_en": "Redfur Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3d652d2e72a9c4d80123",
+      "title_en": "Remnant of Prisoner’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9a48ca848185eb7e976e",
+      "title_en": "Retching Butterflies dealing log",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0b2d3d0f0612dcc58941",
+      "title_en": "Rotting Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-441e2f850b95047b6f3d",
+      "title_en": "Sahmazim’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-562fcdbedc67d6da54b1",
+      "title_en": "Scamp Eyes Hurt",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3b616ac38c9c26417287",
+      "title_en": "Scraper’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a1abc41a5401759289ed",
+      "title_en": "Scrawled Note [Damar Farmstead]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1c21f98fd8edd1028f95",
+      "title_en": "Second Invasion: Reports",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3f41957fbd5ba8790e25",
+      "title_en": "Seekxilts’ Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-75828a950e38962069e4",
+      "title_en": "Sees-All-Colors’ Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7639618521d2dc3bbe78",
+      "title_en": "Short Note",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3ebdc4a7eaa2e95d28d6",
+      "title_en": "Snapdragon’s Research Journal",
+      "reason": "same_title_multiple_distinct_game_bodies",
+      "candidate_book_ids": [
+        8046,
+        8204
+      ]
+    },
+    {
+      "uid": "ext-c3fcba0a03131a820a2e",
+      "title_en": "Snorfin’s Notes: Arkngthunch-Sturdumz",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-91e49ab526b5242bc5d4",
+      "title_en": "Soggy Note",
+      "reason": "same_title_multiple_distinct_game_bodies",
+      "candidate_book_ids": [
+        3665,
+        4578
+      ]
+    },
+    {
+      "uid": "ext-7c5573b620dbda0381c5",
+      "title_en": "Spellwright’s Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-85b5c2afd77e717eb90d",
+      "title_en": "Stitching Flesh",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-bd255d07078668ba2e2c",
+      "title_en": "Supply Request: Stronger Sleep Potions",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f61591043a5e61fbc9f9",
+      "title_en": "Suril’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9361dcec3257b392cbf1",
+      "title_en": "Tahnisa’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fa9b69b38cb829c9297e",
+      "title_en": "Tattered Journal [Imperial City]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8d97d546f7fad3799cf1",
+      "title_en": "Tattered Note [Elita’s Folly]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d64fd22a209ef89ef224",
+      "title_en": "Tattered, faded scrap",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8cac0089c0325b10bf26",
+      "title_en": "Terinvel’s Lost Note",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-845da80adcaf99b53d27",
+      "title_en": "Terinvel’s Notebook",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-29b4605dbc44ffd2fa9a",
+      "title_en": "Tharayya’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b5ff66b4db795fac5700",
+      "title_en": "The Bird Totem",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d957aa4ed1bb8ca8446f",
+      "title_en": "The Empty Room",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-03891379b5d818425cab",
+      "title_en": "The Realm as we Know It",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2c6b382984580c5ff421",
+      "title_en": "To All Who Pass Through",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-85f3d826e05ebe2d2d5d",
+      "title_en": "Torturer’s Note: Temper’s Fork",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ecb2a9106040b2f42e79",
+      "title_en": "Treasure Hunter’s Journal [Chill Hollow]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d388fd3219f1b16a0551",
+      "title_en": "Treasure Hunter’s Journal [Craglorn]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9e7b0c7d6c315adfe925",
+      "title_en": "Triigi’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9e86839bc4cd868045d6",
+      "title_en": "Uchuiran’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fbbef3c20b87e57ba5da",
+      "title_en": "Ulfsild’s Logs",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-11afc0ef0f308d898cca",
+      "title_en": "Ulfsild’s Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-63e05a6e2b9d37eadc02",
+      "title_en": "Ulrich’s Complete Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-90b2e6ea02d476521835",
+      "title_en": "Unnamed Mining Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ee56cda0d4c8efc675bc",
+      "title_en": "Ushutha’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5fa51bde617e707608c2",
+      "title_en": "Vahath Hunter’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-347b240b33f291ee4ea6",
+      "title_en": "Valamuur’s Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e5c0879a10801d298604",
+      "title_en": "Vaults of Madness Diaries",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-06bc14d9447459a426b3",
+      "title_en": "Veya’s Private Thoughts",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c752e3b0b411e2e2e56d",
+      "title_en": "Vicente’s Note to Ocheeva",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5977e2e5eb98e779b0d3",
+      "title_en": "Voyage of the Seajoy",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0b8a30e5af8618256ad4",
+      "title_en": "We Were Undaunted",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d00220f960dc2cff98b7",
+      "title_en": "Wormblood’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fa4e924b99458f9f03d5",
+      "title_en": "5 Things List",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c60025e609634db020fc",
+      "title_en": "A Letter Home",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-bfad8dec57bc36074361",
+      "title_en": "A Note [Desyree Marcelle]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-585969882afaabcfbeb8",
+      "title_en": "A Plea for the Elder Scrolls [Covenant version]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8dd4bce77e50911e00fc",
+      "title_en": "A Plea for the Elder Scrolls [Dominion version]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8814d6800b461373af62",
+      "title_en": "A Plea for the Elder Scrolls [Pact version]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-16393c065a97df880051",
+      "title_en": "Abandoned Requisition Request",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5628fc2c15e5e0525794",
+      "title_en": "Abnur Tharn’s Letter to the Player",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4c660b701d5d69aac80c",
+      "title_en": "Accusation of Falsity",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-eed217e7939e1dd193ec",
+      "title_en": "Acolyte’s Report",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-993fb9b3daac15fc6e83",
+      "title_en": "Add to the Collector’s Villa",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f60cac7b84790b3b3e5f",
+      "title_en": "Alchemy Workshop Instructions",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b6756880744ecfeb1174",
+      "title_en": "An Apology for Missing Jewelry",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7a432d996fc75e7b7236",
+      "title_en": "An Invitation to the Whispered Ball",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-14b1b845691647fed1a6",
+      "title_en": "An Offer of Protection",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2d93446a5c8c10b231ea",
+      "title_en": "Anchor Maintenance Notes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0e64a2928780a2c254a1",
+      "title_en": "Anchorite Odska’s Final Report",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-924da8009a9411f1ab21",
+      "title_en": "Anchorite Odska’s Report, Morndas Eve.",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0170b324083f663ebd4a",
+      "title_en": "Arrius Scouting Order",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1117362f9c43de5f8dee",
+      "title_en": "Bahzahar’s Summons",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-cf22e37aaea8f57281a6",
+      "title_en": "Barely Legible Note",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fdf3060e00f9fbfce498",
+      "title_en": "Barelzar and the Daedra",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-521f5b46e47962d4fee1",
+      "title_en": "Bending to the Flame",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e0b5cc5211f57e095285",
+      "title_en": "Black Soul Gem Manifest",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-26a4261a60a724fcb56b",
+      "title_en": "Blackguard Instructions",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a68765828714857d3fca",
+      "title_en": "Blunt Their Weapons",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-08d1b8411f8df2a02540",
+      "title_en": "Bounty Contract: Wadracki",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fa25c87477820d2b9647",
+      "title_en": "Burial Site Orders",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a6b15efefb16d5786762",
+      "title_en": "Burn the False Propaganda",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7bd1a5ea3dac69da9344",
+      "title_en": "Call to the Faithful [Note]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-72c066ea910b2c4a6d13",
+      "title_en": "Canuldil’s Note",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-68506ceb2ce4ada129f1",
+      "title_en": "Canuldil’s Plea",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6a69ac2c9dfd330701dc",
+      "title_en": "Captain Svadstar’s Announcement",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fde41618d116f85da6d1",
+      "title_en": "Ceythalmor Relocation Orders",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-29e215fe4e151d057e0e",
+      "title_en": "Checklist for Challenging the Opulent",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-50dbcae0f77db683c5e2",
+      "title_en": "Cipher Sabinius’s Apology",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c3fb4964418af9ced733",
+      "title_en": "Clearing the Crypts",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3d62188afe9334d3c57d",
+      "title_en": "Coded Rutter",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-00b6556d48fdda7c9ed8",
+      "title_en": "Concerned Letter",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-469953fe55086b79aca8",
+      "title_en": "Cultist Orders",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-867b253870e98219053e",
+      "title_en": "Curious Manifest",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-78f905b43bc92884c24c",
+      "title_en": "Desperate for the Fantastical",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c958137efb8bd20e1ae9",
+      "title_en": "Directions to Meeting",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a702a64e16abdc2fec27",
+      "title_en": "Directions to the hidden book",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-60eb8e6ac7bde6bb1de4",
+      "title_en": "Dread Lady’s Letter",
+      "reason": "same_title_multiple_distinct_game_bodies",
+      "candidate_book_ids": [
+        6391,
+        6518
+      ]
+    },
+    {
+      "uid": "ext-8570f066185fbdc2292a",
+      "title_en": "Drolora’s Trap Summary",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c61f2bdd750ad22ed7ad",
+      "title_en": "Drop Instructions",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7045f16d2927ee0f6ae7",
+      "title_en": "Excavation Orders",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9f63881df54b53938859",
+      "title_en": "Fell’s Brigade Orders",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-70f77ffa54793882d13e",
+      "title_en": "First Servant’s Letter",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7ebbe7e6f40d27ed1e26",
+      "title_en": "Firuth’s Writ",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0eaa5f0e97de2733a40d",
+      "title_en": "Foreman’s Complaint",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9079bd2669a0881ea9e1",
+      "title_en": "Free the Caged",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8725ffc959b20e90cd5c",
+      "title_en": "Gjarma’s Orders",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8df18e887af4156a7b91",
+      "title_en": "Glademist Scouting Order",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-bfc0ffaa8a59fbda288f",
+      "title_en": "Graverobber’s Note",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-12127d16c0786d94cb9a",
+      "title_en": "Guardian’s Decree",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-06c32254570174464d6d",
+      "title_en": "Hegris’s Orders",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a0f42cd3fe42559f793c",
+      "title_en": "Hezsatari’s Instructions",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0e271735c97b5f40c292",
+      "title_en": "Hezsatari’s Instructions",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1959babc82ea3960eb53",
+      "title_en": "House Dres Order",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3c30dd08dec0ddd9d981",
+      "title_en": "I’ve Had It",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3151b91412f9b10bebd2",
+      "title_en": "In Need of Mortal Implements",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fcaa3cffaa53882512e7",
+      "title_en": "Inventory Letter",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0274f3e967f8d50180b4",
+      "title_en": "Investigator’s Note",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c3c0a5149b6fa2b3f265",
+      "title_en": "Invitation from the Gardener",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0c72f3bd3cf2600a9cc6",
+      "title_en": "IOU Honor Guard Armor",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c5e274c91aecbbf8cae1",
+      "title_en": "Irnard Rirnil Letters to the Mages Guild",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f412a4fb3038b6e97fd7",
+      "title_en": "IT’S NOT A POTION!",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c0c0c4494113ec69276c",
+      "title_en": "Items Needed for Curative",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e8575b2a5f801af81f1e",
+      "title_en": "Jackdaw Fort",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-76470ae279fcb2427209",
+      "title_en": "Journal of the Oculary",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-faf2552483b2141f2568",
+      "title_en": "Keeper’s Farewell Letter",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ef083754a36e080df51e",
+      "title_en": "Khag’s Head Count",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e20d6b953efb35d9b0d8",
+      "title_en": "Khasaad’s Treasure Map",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-95d7f75a0431fb351349",
+      "title_en": "Kurog’s Orders",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2ecdabadbc82b515c7ec",
+      "title_en": "Laughing Moons Ledger",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b4e9fc691a8a7a08c536",
+      "title_en": "Letter Concerning Tredecim",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-798be4d6f3ce0c1e318c",
+      "title_en": "Letter for Dark Adept Vairisse",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ac612c8895b60ed31927",
+      "title_en": "Letter From Agenor",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-831abcb5cadb12a14e01",
+      "title_en": "Letter from Cyrus V. Nasby",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0f9fc27b6e1be54a61da",
+      "title_en": "Letter from Ezhkel",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b82a90ab73665077d8f9",
+      "title_en": "Letter from Faradan",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f32dc903314a20d767d9",
+      "title_en": "Letter from Farvyn’s Mother",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ea8568b8740b5aece139",
+      "title_en": "Letter from Leramil the Wise",
+      "reason": "same_title_multiple_distinct_game_bodies",
+      "candidate_book_ids": [
+        7646,
+        7918
+      ]
+    },
+    {
+      "uid": "ext-9149bfe6ab79e1182bb1",
+      "title_en": "Letter from Leramil the Wise [Torvesard]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3e17aace6115e29f50d8",
+      "title_en": "Letter from Lord Oursin Materre",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2ff4d658ef84971b5bda",
+      "title_en": "Letter from Queen Prolyssa",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-97104c240bb79e2395e7",
+      "title_en": "Letter from Tanlorin",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b99ae4cc7898a8244ea3",
+      "title_en": "Letter from the Fighters Guild",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fd00941bc21024228736",
+      "title_en": "Letter from the Stirk Fellowship",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4118a1ec8c70ad1e32f0",
+      "title_en": "Letter from Zerith-var",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-10332431673002c7b7cb",
+      "title_en": "Letter of Resignation [Aishah]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e5a30f233c5937abf344",
+      "title_en": "Letter of Resignation [Farethi]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c094d4044853d2f9f239",
+      "title_en": "Letter of Resignation [Trilam Farethi]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9c9b8c1acfd42f0a6b32",
+      "title_en": "Letter to King Folbert",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-db862b9a4524363da32a",
+      "title_en": "Letter to Littorn",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-30dbb3da40b6047576fb",
+      "title_en": "Letter to Vicereeve Nirenorwe",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e58a8cea8cc31c5f1163",
+      "title_en": "Letter to Zerith-var",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b43169ab498cfd037709",
+      "title_en": "Love Letter from Adrolir",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0eac7d963e49d4fc9336",
+      "title_en": "Magistrate’s Message",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4ec6ad28f2af3fc29e93",
+      "title_en": "Mannimarco’s Directive",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-221eae59e5532e3dd3e9",
+      "title_en": "Message in a Bottle",
+      "reason": "same_title_multiple_distinct_game_bodies",
+      "candidate_book_ids": [
+        2009,
+        5089,
+        5091,
+        5092
+      ]
+    },
+    {
+      "uid": "ext-d33c66e8d1c7b33e78d7",
+      "title_en": "Messages from Hews Bane",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-442e8a5684aaeb9a7009",
+      "title_en": "Missive to Mor Naril",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a2b183b6397d20e07327",
+      "title_en": "Misura’s Missive to Quarrymaster Saldezaar",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-57510fa2038a3e8ef193",
+      "title_en": "My Little Present",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ef1cc7aa07490897942c",
+      "title_en": "Note [Basins]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-78e6460e795601cfb9c6",
+      "title_en": "Note from Ciridor",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c5c93bae6cdd9f731fa0",
+      "title_en": "Note from Danni",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1a1eca4ef5e23c70228c",
+      "title_en": "Note From H",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c3d1fdef922a443eca97",
+      "title_en": "Note from Maryn",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fd1845e191f9f64953b2",
+      "title_en": "Note to Emabeth",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-74fd9b3ae0d612f3b61c",
+      "title_en": "Note to Gabrielle",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-e67efb3b19740b06a224",
+      "title_en": "Note to Nicolas",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9b702d2a6a8e33d0c745",
+      "title_en": "Oath of a Dishonored Clan",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1113e4a5a228b12c9c90",
+      "title_en": "Oleen’s Dowry Reminders",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8718e7ec4a3cea4ff89a",
+      "title_en": "On Valerianus Lentinus",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-38439964b79414421b1f",
+      "title_en": "Orders From Vicereeve Pelidil",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d08275182b63cffd4571",
+      "title_en": "Orders: Suleck Ruins",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-81f4c521d7c40378689e",
+      "title_en": "Orders: Suleck Ruins",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4a8dadc51f5d32717ae8",
+      "title_en": "Pest Mudcrab",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d243522419886b6b3b24",
+      "title_en": "Petition for Mining Rights",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-36e7ec9654933b32eeac",
+      "title_en": "Plea to Maximinus",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ea9e054ded906fbd18a7",
+      "title_en": "Portal Memorandum",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-cdae0461cb99f4ab7cbe",
+      "title_en": "Prince Naemon and the Staff of Magnus",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c8e32a97d1dd53a44ac2",
+      "title_en": "Prisoner’s Journal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b2e9b512594fcbf7d2a5",
+      "title_en": "Proto Research Treasure Map I",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-43da67c6864af606daf1",
+      "title_en": "Queen Ayrenn’s Letter to the Player",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9ed1741b3728961997f2",
+      "title_en": "Ranger’s Correspondence",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3ab53ab80077d5bec047",
+      "title_en": "Razak’s Secret Mastery",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-47c78599074a91816ddf",
+      "title_en": "Reachman’s Note",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9ee25c905fec61ca4cbb",
+      "title_en": "Recall Orders",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-319253d2510ed1d2b1e5",
+      "title_en": "Report on Colovian Stratagy",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5ff8f5e6781ddcb0aba6",
+      "title_en": "Report on Dominion Activities",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4a36d46be9579e2802f3",
+      "title_en": "Report on Nearby Ruins",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-9c9712eb5fd9ffdada38",
+      "title_en": "Report on the Improved Reapers",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-22928c89d424e8ea064e",
+      "title_en": "Reward for Missing Mortals",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1c44e3e6fab99fcddc56",
+      "title_en": "Scouting Report for Sergeant Abradun",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fbd4bf09e14487ebd152",
+      "title_en": "Scouting Report for Sergeant Belrud",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2e3c560e5151828e1951",
+      "title_en": "Scouting Report for Sergeant Shaghila",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-688546a6875238f80744",
+      "title_en": "Scouting Report on Gristmung Hold",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-0cb0f4a347985850d397",
+      "title_en": "Scouting Report on Soul Flayers",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-260a3c58ce09bd5d0794",
+      "title_en": "Scouting Report on Worm Cult Activity",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-639406f7cb5208b722a4",
+      "title_en": "Scouting Report: Northeast Solstice",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1df0717160b23dd5f44f",
+      "title_en": "Secure Old Tower",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4e8ba2fff2fe49521943",
+      "title_en": "Shipment Manifest",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-694e2143d271c31ed201",
+      "title_en": "Skin-Stealers in Shadowfen",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2bb0d425eceff14adcbb",
+      "title_en": "Slayer’s Note",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7e52ec638de72efc490e",
+      "title_en": "Smuggler’s Note [Crypts]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-8054dc76310fcd0aadce",
+      "title_en": "Smuggler’s Note [Eggs]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f0ca217b1120d29c8b88",
+      "title_en": "Smuggler’s Note [Veiled Queen]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c64ec8861d515e9b38e7",
+      "title_en": "Soul Flayer Perimeter Plan",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7ca8b713c036873e50cc",
+      "title_en": "Southern Elsweyr Needs You!",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b3d9e43fe3b5d21a9c1c",
+      "title_en": "Summons of the Inquisition",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-653e1871874269e45eb0",
+      "title_en": "Tattered Letter",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c855bf5e86f74ed68410",
+      "title_en": "Tattered Note [Zendrinn]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-3bf599e2a527973394bd",
+      "title_en": "Tempest Island Briefing",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2825ee4678624bca6daa",
+      "title_en": "The Book of No-Name",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-67e975ac90d9b54e9d04",
+      "title_en": "The Font Aequiius",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f7e1331b9029cc82b19f",
+      "title_en": "The Indrik’s Glade",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-2cf6f24985d2cb96905a",
+      "title_en": "The Stars Have Eyes",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-39d9d2373006af8d5c09",
+      "title_en": "The Tree Is On Fire!",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-5d2cd14b2661a709923c",
+      "title_en": "Threat of the Dreadsails",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-a3ed1d316db22bddfc93",
+      "title_en": "Threatening Letter",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-7cd8991ccdbaa87a11d4",
+      "title_en": "To Anchorite Odska, From Black Mage Tacitus.",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-27c22f3182453121ac70",
+      "title_en": "To My Brother, Entrepreneur of Orsinium",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b4a96a5a31d254c1f51a",
+      "title_en": "To the Owner",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-6d9d42c3606058f61582",
+      "title_en": "Torn Note [Ethian]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fdee23561e494a99a183",
+      "title_en": "Torn Page [Basins]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-64337127efbd89208eb2",
+      "title_en": "Torn Page [Fiends]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ee5957549dce4da36ae2",
+      "title_en": "Torn Page [Hel-Ra Citadel]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-1aac1cbb37dc7984c16c",
+      "title_en": "Torn Page [Jenedusil]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ae1ab0ccf869b5e44282",
+      "title_en": "Torturer’s Note: Hammer’s Bypass",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-01f5b7fd46af14bb912a",
+      "title_en": "Tu’whacca’s Mine",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-ccc23d1701b13eb75dd8",
+      "title_en": "Uggamog’s Letter",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f4569f7dcfca79e35a75",
+      "title_en": "Unfinished Letter",
+      "reason": "same_title_multiple_distinct_game_bodies",
+      "candidate_book_ids": [
+        1338,
+        8319
+      ]
+    },
+    {
+      "uid": "ext-5ae0bfe26dacf3b49872",
+      "title_en": "Unfinished Letter [To Mother]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-b74d9546136e75243028",
+      "title_en": "Unsent Letter",
+      "reason": "same_title_multiple_distinct_game_bodies",
+      "candidate_book_ids": [
+        5713,
+        8172
+      ]
+    },
+    {
+      "uid": "ext-b32c569c8d8b49260083",
+      "title_en": "Unsent Letter",
+      "reason": "same_title_multiple_distinct_game_bodies",
+      "candidate_book_ids": [
+        5713,
+        8172
+      ]
+    },
+    {
+      "uid": "ext-ae507d850d8b61225847",
+      "title_en": "Urgarlag’s Expeditionary Order",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-39f6355a68e89d5612ef",
+      "title_en": "Urgent Letter [Amber Plasm]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-065d845ce6bd57169557",
+      "title_en": "Urgent Letter [From Junal]",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d6640528346a602428ed",
+      "title_en": "Urgent! Food Needed",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-4919d6430dcb39e3eea8",
+      "title_en": "Village Report",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-d1ab4665b994ea6ee1ea",
+      "title_en": "Vitrified Souls Ritual Status Report",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-f1a4234e6dd1ba74c880",
+      "title_en": "War Efforts—Covenant",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-fdc9b08fe0dc206f9017",
+      "title_en": "Warlock Vanton’s Research Proposal",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-91c28ab1a86e5ab1d7b7",
+      "title_en": "We’re Even",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-dbf22ad7463054a3fba7",
+      "title_en": "Work Order: Spider Deterrent Devices",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-593d741c92eddd9d0aa2",
+      "title_en": "Worm Cult Correspondence",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-c963a36c207a2b26609b",
+      "title_en": "Worm Cult Mine Orders",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    },
+    {
+      "uid": "ext-93dc7be95f5abb4fdaba",
+      "title_en": "Yngling’s Letter",
+      "reason": "no_unique_original_title_match",
+      "candidate_book_ids": []
+    }
+  ],
+  "method": "No fuzzy title matching; different bodies with the same title remain unlinked. Imported Korean is the game record version, not a claim of an exact translation of the editorial English compilation."
+}

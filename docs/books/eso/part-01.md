@@ -1,28 +1,6 @@
 # The Elder Scrolls Online 원문·번역 서적 합본
 
-수록 서적: 2,482건. 영문 원문을 우선 수록했습니다. 미번역 서적의 판본·발췌 여부는 번역 전에 확인하세요.
-
----
-
-## 101 Uses for Troll Fat
-
-ID: ext-b7a793ac82eb2fb31440
-
-Ugh. Another day in Orsinium. Honestly, Clavel, if we don’t return to Auridon soon, I may lose my mind.  
-  
-What shameless merchants operate out of this city! You’ll never believe what one of these Orc vendors tried to sell me. I was minding my own business, examining an assortment of roots and snowberries—they were all shriveled and rancid, by the way—when this toothless merchant shoved a bowl of fat in my face. A huge bowl of fat. Can you imagine? He claimed it was the fat from some legendary troll or some such nonsense. I asked him why anyone would buy such a thing and his rheumy eyes just lit up. Would you like to know more about troll fat? I’m something of an expert now.  
-  
-Did you know that troll fat is the densest fat in Tamriel? Denser even than horker fat? I bet you didn’t. Apparently, it makes an excellent lubricant that’s especially ideal for cold-weather use. And we know all about cold weather here in Wrothgar, don’t we?  
-  
-Armor looking a bit dull? Why not rub some of this repulsive fat on it? I hear that no polish in all of Tamriel does a better job than troll fat! It can be used in poultices and various potions. It can be rubbed on window sills to keep out vermin. It can be dried and eaten as a kind of disgusting jerky. It can be boiled to make a particularly strong glue. It can even cure vampirism! Who knew?  
-  
-When he started talking about the many uses for troll fat in the bedroom, I had to take my leave.  
-  
-He also mentioned that it could be used to talk to Malacath. That was at least a little interesting. Apparently, if you rub troll fat on an idol of Malacath, it allows you to talk to the Prince himself. I may have to try this. I’d love to ask him why his little green children peddle such atrocious wares!  
-  
-I’m giving this place another week. If I’m offered one more wedge of echatere cheese or a stewed mammoth stomach, I’m on the next ship back to Vulkhel Guard—with or without you!
-
-[출처](https://www.imperial-library.info/content/101-uses-troll-fat)
+수록 서적: 2,528건. 기존 ESO 한국어 게임 본문을 연결했으며 나머지는 확보된 영문으로 제공합니다. 판본·책 ID 연결 범위는 ESO_KOREAN_IMPORT.md를 확인하세요.
 
 ---
 
@@ -1294,19 +1272,70 @@ He looked up through a crick in the ceiling into the night sky. It was midnight.
 
 ---
 
-## A Betrayal of Our Heritage
+## 36편의 가르침: 제37 설교
 
-ID: ext-8120e83a3848d66e92a5
+ID: ext-979be3e4abb56b7140c3 / ESO 책 ID: 4496 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-What says Yousebh the Stringent, Red Dervish of Rihad? “A daughter of the House of Akos Kasaz shall not marry an infidel of another house.” Long have we followed the words of Yousebh. And yet now, what do we see, right here in Bergama? A daughter of a respected Crown family—that is to say, one who honors the traditions we brought from lost and lamented Akos Kasaz, Yath, and Kanesh—being married off to a ne’er-do-well son from a Forebear household. Is this to be countenanced? Is she to be allowed to bear children of tainted blood? Will they be taught to turn their backs on Ruptga, Tu’whacca, and Satakal, and mouth false prayers to “Arkay” and “Akatosh”?  
+비벡 지음  
   
-I say, we must raise our voices and cry “No!” Our ancestors came into the deep desert to found Bergama so that we could preserve our heritage from pollution by Tamrielic practices. The sanctity of Yokudan culture is our sacred trust! For two thousand years we have preserved it in the purifying aridity of the Alik’r. Have we maintained our traditions for so many generations, only to see them diluted and disrespected before our very eyes?  
+서른일곱 번째 설교  
   
-It is said that the Magistrate is willing to license this ill-advised marriage, despite all precedent. What, we must ask, has induced her to make such a decision? Should a Magistrate with such poor judgment remain a Magistrate?  
+그대는 비벡의 서른일곱 번째 설교를 발견하였으니, 이는 빛을 휘는 것이라, 한결같지 않은 얼굴을 쓰고 종말에 이르기까지 제멋대로 다스렸던 호르테이터들의 연대기를 아득히 지난 이야기이니라.  
   
-Gather, O my neighbors. For we have weighty decisions to make.
+비벡은 물의 리본에 실려 났으니, 그 리본은 별을 향한 결합을 붉게 적었더라. 이는 빠름의 새로운 자리였느니라. 그의 눈은 탑 위 가시에 부딪혀 깨졌으니, 그곳에서는 공허의 유령이 드레이크 비늘의 북 위에 웅크려 그 박자에 얼이 빠져 있었더라. 그리하여 그가 그것에게 묻기를,  
+  
+'그대는 누구이기에 서명이 도무지 필요치 아니한가?'  
+  
+합하여 셋인 아이옘의 로브는 기억의 밝고 검은 가장자리를 향해 뻗어, 거머쥠의 호를 줄로 동여매었더라. 이는 새로이 내달리는 일이었느니라. 그리고 셋은 제 부푼 배를 그 이름에 매어두었으니, 시계공의 딸이라, 한 세기의 실을 따라 죽은 고해를 헤엄쳐, 먹히지 아니한 그녀를 벨로스와 벨로시의 황금 곳간이라 이름하였더라, 그렇지 않으면 그들이 달리 어디로 갈 줄을 알았으랴?  
+  
+'이곳으로 갈지어다. 바퀴 없는 세상, 죽음을 영으로 헤아리며, 메아리가 노래하는 곳으로.' 셋이 말하니, 마침내 그 모든 것이 이루어졌고, 그 한가운데에는 무엇이든 그 무엇이 있었더라.  
+  
+그리고 그 붉은 순간은 걷잡을 수 없이 크게 울부짖었으니, 임시의 집이 폐허가 되었기 때문이라. 그리고 비벡은 유리처럼, 등불처럼 되었으니, 드래곤의 갈기가 부러지고 붉은 달이 그에게 오라 명하였기 때문이라.  
+  
+'왕가의 표징은 이것이 아니니라.' 푸르게 치우치는 신호 하나가(여성이) 그에게 이르되, '홀로 깨치는 올바른 가르침이란 없느니라.'  
+  
+그는 그녀의 그물에 걸린 노끈을 마더하였으니, 이어지지 못한 백성이 그 헤맴으로도 더 충만해지지 못하면서도 날아오르려는 그 영혼만은 갈가리 찢긴 것을 못마땅히 여겼기 때문이라. 그러나 사내의 신호들이 노여워하니, 비벡은 싸움의 형상을 취하였더라. 그는 제 동방의 빛을 거두며 암시비에게 이르되, 전쟁을 거치며 그들이 유리 속의 신부가 되었으니 그 어떤 힘으로도 살필 수 없으리라 하였느니라.   
+  
+빛이 휘니, 비벡은 붉은 보석 판으로 지은 흉갑을 두르고, 인간의 땅에서 났음을 표하는 가면을 썼더라. 빙그르르 돌며 그는 벌레의 약용유로 퍼져 나갔으니, 이는 도전에 임할 적에 히스트 전구의 목에 걸치는 것이라. 그는 우렁차게 포효하며 제 손가락을 매머드 유령들에게 먹였더라. 신호의 불길들은 이를 항복으로 잘못 본 것이 아닌가 의아해하였으니, 비벡이 공허에게 그 모든 것을 되돌리는 법을 익힐 수 있노라 이른 까닭이라.  
+  
+빛이 휘니, 어딘가에서 마침내 한 역사가 풀렸더라. 그 가운데에서 비벡은 사냥이 좋았던 시절 제 마을 네치잡이들의 웃음소리를 떠올렸더라. 그는 아비와 함께 화산재 속을 걸으며 갈고리와 돛 속에서 굳세게 자라, 정크선을 몰아 진흙을 가르게 되었더라. 열한 살에 그는 애쉬칸에게 노래하였더라. 그는 레드 마운틴 이후 닉스의 피와 열병으로 병들어 일백 년을 앓았더라. 그의 어미는 그보다 오래 살아 그의 시신을 파드홈의 제단에 누이고, 지하 세계에서 두르라며 제 살갗을 그에게 주었더라.  
+  
+빛이 휘니, 비벡은 깨어나 송곳니를 길렀으니, 스스로를 접히는 것으로 만들기를 마더하였더라. 이는 새로운, 달의 약속이었느니라. 그리고 그녀는 깨물며 위로 굴을 뚫고 다시 아래로 내려갔으니, 그 오라비와 누이는 하늘에 흩뿌려져 반목의 가느다란 파열이 되어, 흙벌레와 벌레의 먹이가 되었더라. 그녀는 제 백성을 거두어 안전케 하고, 아주라와 함께 앉아 제 남편의 모습을 흙 위에 그렸더라.   
+  
+'내가 내 왼손과 오른손을 거두었으니, 그가 말하리라.' 그녀가 이르되, '그것이 곧 내가 그들을 이길 방도이니라. 사랑만을 하라, 그러면 그대는 오직 소금의 잘못만을 알게 되리라.'  
+  
+말씀이 세상이 됨은 아마란스이니라.
 
-[출처](https://www.imperial-library.info/content/betrayal-our-heritage)
+[출처](https://www.imperial-library.info/content/36-lessons-sermon-37)
+
+---
+
+## 71쪽: 에렌데트의 외상 장부
+
+ID: ext-d91b97710eace296f6dc / ESO 책 ID: 3324 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+제2의 씨앗 달  
+또 한 명의 흡족한 손님!  
+미납 총액: 15골드  
+  
+중년 달  
+입금: 5골드, 에렌데트가 요청대로 물건을 다시 쌓고 날라 주었다.  
+출금: 22골드. 에는 목마름이 심한 아가씨다!  
+출금: 9골드. 에가 내 재고에 멋대로 손을 댔다!  
+  
+미납 총액: 41골드  
+  
+태양의 절정 달  
+입금: 7골드. 에가 또 도둑질을 하는지 알아낼 것.  
+출금: 31골드. 에는 내 비밀 상품을 어지간히 좋아하는 게 분명하다!  
+  
+미납 총액: 65골드  
+  
+메모: 빚을 갚기 전까지 외상은 중단. 에에게는 더 이상 상품 없음.  
+  
+메모: 지불은 반드시 골드로. 에에게 일을 시켜 빚을 갚게 하면, 축난 재고 탓에 오히려 손해가 더 크다.
+
+[출처](https://www.imperial-library.info/content/page-71-erendettes-account)
 
 ---
 
@@ -1319,276 +1348,6 @@ Once bound, a Dremora’s uses are nearly limitless — with or without its coop
 The sacrifices stand upon each altar as sentries against the Dremora’s power. Take care not to disturb the blood, or the bonds will weaken precipitously.
 
 [출처](https://www.imperial-library.info/content/a-bound-dremora)
-
----
-
-## A Brief History of Ald Sotha
-
-ID: ext-4aead9b291de2e22eb3d
-
-By Varlinsi Arandu, Apostle of Sotha Sil  
-  
-To follow Sotha Sil is to listen to the winding of the gears, to think of the unlimited possibilities of what can be, not simply what is, or what was. I know this, but so too do I know what truths our past may hold. My devotion to the Father of Mysteries has been unyielding, spring-loaded I’ve even been told, but for so long incomplete. I began to ask questions, and was surprised so few knew. Where did our Lord come from? I received a name, but not an answer. Ald Sotha. I was quick to find my own answers, not within the cautious words of others but in the honest pages of books. My first discovery is that all information I would find was of the Ald Sotha that was, for the town was destroyed long ago. It was the homestead of the minor House Sotha, and how strange to write the word minor with any regard to my Lord’s name! But from all my research I can only conclude such, as they are known for no great deeds or any particular skill. An unremarkable town belonging to an unremarkable family, yet somehow the birthplace of the very Father of Mysteries.  
-  
-Ald Sotha was destroyed sometime within the First Era by the Daedric Prince Mehrunes Dagon. There’s very little speculation as to why the Prince of Destruction wished to eradicate this town, and I don’t believe there needs to be. Why try to piece together the reasoning behind a being of chaos? The result is still the same, and that is the death of everyone living within Ald Sotha. Everyone, that is, but Lord Seht, rescued by Lord Vivec before either of them had obtained true godhood.  
-  
-Vivec’s rescue is worth further insight, however. How did Lord Seht survive through the attack? There is no mention of a battle, and from what I have analyzed I can only assume that it was after Dagon’s destruction that our Lord Seht was rescued. I can only speculate in that end. If the Tribunal wished for others to know, they would have shared the tale. And you certainly won’t see me tugging at one of their sleeves, asking such trivial questions!  
-  
-And, once again, the end result is the same. Lord Seht was rescued, raised by Lord Vivec, and eventually ascended to his rightful place as our Clockwork God. Whatever manner he was saved by Dagon’s wrath, it was the fate of the divine gears which move us for him to live, and guide us to reclaim our lost heritage, Tamriel Final.
-
-[출처](https://www.imperial-library.info/content/brief-history-ald-sotha)
-
----
-
-## A Brief History of House Telvanni
-
-ID: ext-c34faf0dad469b79a105
-
-A report created by the scholar Andunririe for the Court of Proxy-Queen Alwinarwe, Alinor.  
-  
-Greetings to the Majesty of the Court,  
-  
-I have been tasked by Penewen, mage and advisor to the Aldmeri Dominion, to help explain and summarize the society of our cousins the Dunmer, also known as the Dark Elves. The Dark Elves are broken into Houses, all of whom have their own internal social organizations. This report will deal primarily with the Telvanni, who are the most magically powerful and the most socially stratified of the Great Houses. What follows is a brief history of House Telvanni.  
-  
-The Telvanni are one of the Great Houses of the Dark Elves, descendants of the Chimer peoples. The Chimer were an offshoot of our ancestral Aldmeri. They fled our lands under the leadership of the Rebel Prophet Veloth* and settled in the northwest of the continent, in lands now called Morrowind. The Telvanni of that age and stood against the Dwarves and House Dreloth as a member of the First Council. It also suffered the transformation that all Dunmer experienced in the Battle of Red Mountain.  
-  
-In the wake of the Battle of Red Mountain, the triumphant Dark Elf households dominated Morrowind, with Telvanni one of the foremost among them. However, this period also marked the rise of the Tribunal—three Dark Elf leaders who claimed they had ascended to divinity and founded their own religion. While these “Living Gods” are respected by all the Dark Elves, House Telvanni is more agnostic than the other houses. None of the upstart Tribunal were members of House Telvanni, and this may account for their reticence to join the other houses in abject veneration of the Three.  
-  
-During the War of the First Council, the Telvanni provided superior wizards and deadly magical attacks to the battlefield, and this is where the true power of the Telvanni lies. The house motto is “The forceful expression of will gives true honor to the Ancestors.” This forceful expression usually means magic: their leaders are powerful spellcasters, and their ruling council consists of the best of their mages. Each mage seeks to prove themself superior to others. They guard their arcane knowledge and creations from their rivals—and they consider all other Telvanni to be their rivals. As a result, Telvanni tend to be reclusive and isolationist to the extreme.  
-  
-The Telvanni veneration of ancestors as opposed to the organized Temple has been a benefit to the city of Necrom, on the eastern coast of their peninsula. Legendarily built on the site of Vivec’s defeat of a great monster, it has become a mazework of underground crypts and columbarians, and their Keepers of the Dead maintain and administer to these tombs. Dark Elves of every house make pilgrimages to the city to inter or to reflect on their predecessors. The Telvanni benefit from these visitors by keeping in contact with the other Great Houses, as Necrom has become a cosmopolitan metropolis.  
-  
-The history of the Telvanni is marked by famous (or infamous) wizards—Vorlys the Immolent, Divayth Fyr, Alnas Tenim, Daroder the Mad, and the current Archmagister Nelos are but a few examples. Their history includes a scattering of internal rivalries and intra-House conflicts. They cooperate with the other Great Houses with reluctance, the more so since refusing to join the Ebonheart Pact. While House Telvanni sent troops and spellcasters to help defeat the Kamal snow demons at the battle of Vivec’s Antlers, they did so grudgingly and in small numbers. When they need military assistance, they tend to hire mercenaries and adventurers.  
-  
-While House Telvanni is powerful in the Vvardenfell region, their isolationist nature has encouraged many of the members to establish households in more remote areas, away from the other houses. Much of their power is centered in Vvardenfell and the eastern reaches of Morrowind. As a result, the peninsula that bears their name is dotted with small estates, usually under the control of a senior member of the house, who in turn is usually a powerful spellcaster. The caste system of the Telvanni demands loyalty and enforces traditional values among the populace.  
-  
-Important among these values is slave-holding, and the primary reason the Telvanni did not join their Dark Elf cousins in the Ebonheart Pact. To do so would mean to recognize the reptilian Argonians as equals, and free those Argonian slaves in their thrall. As a result, the Telvanni have become even more isolated from the other Dark Elves.  
-  
-House Telvanni, for all its magical power, is in my opinion a weak link among the Dark Elves. It lacks the unity of the other houses, its nature is more isolationist, and it has refused to join the Ebonheart Pact. As a result, powerful individuals may be approached and turned away from their traditional loyalties and serve as agents and allies in future confrontations. Individual pride and magical greed can overwhelm even the most stalwart among them, and they could be picked apart one-by-one.
-
-[출처](https://www.imperial-library.info/content/brief-history-house-telvanni)
-
----
-
-## A Call for Common Hair
-
-ID: ext-68074ac2b05cd808b8b4
-
-The nobles of our fair city have gone mad for ornate and over-styled hair. Have they nothing better to do than to ape the witless Prince Hubalajad, who is enamored of elaborate hairstyles?  
-  
-The Highness of the High Hair has appeared in public with numerous elaborate (and to the common man, utterly ridiculous) hairstyles. Whether they are wigs, or his own natural hair tortured into ludicrous designs, matters not. We have people starving in the alleys, or homeless due to the sinking of some sections of our city, while Prince of the Curious Coifs pays his hairdresser a sum of 100 gold pieces for each work of “art.”  
-  
-His most recent follicular follies include:  
-  
-A representation of the White-Gold Tower, adorned with diamonds to represent lighted windows. It is said that he could not pass through the doorway of Lady Michefaba’s main ballroom without ducking during a recent ball.  
-  
-At a recent outing to the docks, to welcome some luminary from Sentinel, our Prince wore his hair styled to represent a Yokudan warship at full sail. The stunningly ridiculous effect was only enhanced with tern excrement, when one of the birds flew over his head, narrowly missing the mainsail.  
-  
-For a recent outing, it was seen that Prince Hew’s Hair was artfully arranged as a haj mota about to charge. Rumor has it that the scales of the “hair-beast” were individual rubies of uniform size. The beast’s eyes were emeralds. One young maiden was so alarmed by the horror on His Hairness’ head that she fainted. Her parents quickly blamed the heat, not the Hair-Mota, so as not to displease Prince Hew. However the young woman was overheard later saying that the emerald eyes kept staring at her until she was quite undone.  
-  
-People of Abah’s Landing, I implore you! Rise up against the Prince’s Hair!  
-  
-(NOTE: This is a reprinting of an actual handbill produced by one of the Abah’s Landing’s original residents. It seems “Prince Hew” is not just a nickname we use for the luckless prince – he was truly called this by his contemporaries.)
-
-[출처](https://www.imperial-library.info/content/call-common-hair)
-
----
-
-## A Call for Recollection
-
-ID: ext-d4577d9b18fc7d4210af
-
-To all my kin, all who share the blood of our forefathers, I speak.  
-  
-I know how you feel. There is an emptiness in your center, the knowledge of something missing in your lives. You have been wronged, but you know not how. Take heart! You are not alone.  
-  
-We are many, and we are united in our loss. Long ago, our rightful lands were taken from us by invaders with no respect for the beauty of our cities or the subtlety of our art. They rose against us with fire and steel, slaughtering our kin without mercy. A great civilization was thrown down and forgotten.  
-  
-It is our duty to recall what was lost. To rise up and reclaim what was taken from us all so long ago. We must put aside our differences and grievances. Stand together against the forgetfulness of history. Only by daring to sacrifice everything can we preserve the legacy of our ancestors and reclaim what was lost.  
-  
-Let us rally to this cause, let us summon our courage and our passion, and let us take up arms against those who seek to destroy us. We will strike back with all the fury of a thunderstorm, with the ferocity of a wildcat, and we will reclaim our stolen heritage!  
-  
-We are the Boiche, the guardians of the forest. But we are also something more, heirs to the Ayleid legacy of power and accomplishment that once spanned Tamriel. Join me, my kin, and together we will take back what is rightfully ours.  
-  
-Let our battle cry be heard across the land!
-
-[출처](https://www.imperial-library.info/content/a-call-for-recollection)
-
----
-
-## A Call to Action!
-
-ID: ext-d7aa9653f260d94e57ea
-
-Goblins infest the caves to our north. They slip into town in the night and steal food, livestock, even people.  
-  
-Turn your blades on the foul Goblins and you will be rewarded!  
-  
-Headman Bhosek will soon offer a bounty for slain Goblins. This is your chance for riches!  
-  
-Addendum: Please do not ask Headman Bhosek about the bounty. When it is ready, we will spread word.  
-  
-— Scribe Nicolard  
-  
-Graffiti is scrawled below the notice Killed Goblins for years, but never been paid. Demand a reward, lose your fingers!
-
-[출처](https://www.imperial-library.info/content/call-action)
-
----
-
-## A Call to the Worthy
-
-ID: ext-e5c6ea6bef032b06aa4a
-
-Urgent matter. Very dangerous. Pays well. You will risk your life performing this job. Only the most skilled adventurers need apply. Come to the inn in Kvatch and look for an Imperial named Reman Mevavius to obtain more details.
-
-[출처](https://www.imperial-library.info/content/call-worthy)
-
----
-
-## A Case for Open Borders
-
-ID: ext-6c747bf92138b026b4d4
-
-My fellow citizens, I was as worried as you were when I read Queen Ayrenn’s proclamation. Opening up our borders was not a decision to take lightly. I too feared the dire implications such an act would have on our beloved homeland. Would our cities be infested with fleas? Would our children be stolen from their beds at night? Fellow citizens, I assure you, I had just as many concerns about the safety of our proud Summerset as you.  
-  
-As a Kinlord, I had the great privilege of voicing these concerns to the very court of Summerset, and often found myself in the middle of the hotly debated topic. It was unprecedented, madness of the wildest kind! I was determined to put a stop to the desecration of our beloved homeland. I too felt as though we were betraying our ancestor’s wishes. Yes, my fellow citizens, I did adamantly oppose the very idea of opening our borders to these outsiders, cats and cannibals that I knew to be unworthy.  
-  
-Then something changed. I changed. Please, allow me to tell you why I now wholeheartedly support the queen’s decree. Allow me to plead the rights of those who are now our allies and neighbors.  
-  
-This change started with the stories I heard of the war effort, of that I am certain. A narrow victory, only assured by the archery support provided by the Wood Elves. Khajiit agents who learned decisive secrets through clever subterfuge. Even looking at simply the numbers of our forces, no matter our military expertise and strength, I knew it was impossible to fight this war alone. Still, I was adamant. Our tentative associates need only serve us on the front line. What need had we for them here in Summerset?  
-  
-I was set in my ways, and I felt that nothing could sway me. It was only when the unimaginable happened that I saw the truth.  
-  
-Andimeril, my shining star and only son, fell upon the battlefield. How often I think back to the night he left. If only perhaps I had been less stubborn. If only I hadn’t bitten my tongue out of spite. If only I could have found the right words to convince him to stay. He was young and foolhardy, and far braver than I have ever been. The very thought that I’ll never see his face again still tightens my chest so painfully I can barely breath.  
-  
-I did not learn of my son’s death through courier or friend. No, I found out when a young Wood Elf stood before me, boots caked in mud and eyes filled with tears. In her hands was a plain, metal box, and I knew before she even spoke that my son’s ashes were inside it. Her name was Grenith.  
-  
-“He never asked me to do this,” she said as her tears began to fall. “In fact, he always said he was never coming back. But I just couldn’t bear the thought, you know? He deserved to come home.”  
-  
-Before that day I had never even spoken to a member of another race, never looked into the eyes of those who I had always believed were so much lower than myself. It was then that I could no longer deny what was happening. That day my eyes were finally opened to the truth, not through debate or decree, but simply from that shared sorrow I felt with Grenith. So painful it had to be real.  
-  
-The allies who we think so little of are dying with our sons and daughters, every day. They share meals, exchange stories, try to find laughter and comfort when they can. They fight side-by-side, entrusting each other with their lives. This is the reality of their daily battle, far from our tranquil shores.  
-  
-Grenith told me about the last weeks of Andimeril’s life. Perhaps it was only to comfort a grieving old mer, but she had nothing but admiration for my son. Her words of his bravery and kindness gave me a solemn comfort. My son died standing up for the ideals he believed in. To me, a letter from our queen herself would not have honored Andimeril more than the kind words of his fellow soldier.  
-  
-How selfish the thought is even now, but this comfort would not have been possible without our open borders. The honor that Grenith showed to my family would never have happened. She would have been treated just as I always believed her kind should be treated, as inferior, as unworthy. Without her, Andimeril would never have found his way back home, but rather remained as an unknown corpse on some distant battlefield. I would never have gotten the honor of putting my son to rest.  
-  
-My fellow citizens, these other races deserve nothing but our respect. If my personal story in no way moves you, please, I implore you to speak to them. Buy them a drink at your local tavern, invite them into your home for a meal. As a culture of scholars, we must open our minds and learn. Do so and I assure you, you’ll find cultures that are vastly different, often shockingly so, but just as rich as our own.  
-  
-Don’t close your minds as we once sealed our borders. Our future depends on the ability to move forward. Take that first step with me, my fellow citizens. Soon you’ll find yourself walking toward tomorrow.
-
-[출처](https://www.imperial-library.info/content/case-open-borders)
-
----
-
-## A Cat’s Serenade
-
-ID: ext-71aa582c1fb4593d78cb
-
-(A Khajiiti Love Song)  
-  
-CHORUS  
-  
-This one weaves a song  
-  
-He’ll sing it to you all day long  
-  
-Will you love him? Will you love him?  
-  
-He’ll steal a thousand jewels  
-  
-He’ll even play the fool  
-  
-Say you love him. Say you love him.  
-  
-Well, your mother will never give her blessing, true  
-  
-But let’s be honest dear  
-  
-That’s what you want to hear  
-  
-No, this one will never buy you Mara’s ring  
-  
-But under the starlight  
-  
-You can grasp him tight  
-  
-CHORUS  
-  
-This one weaves a song  
-  
-He’ll sing it to you all day long  
-  
-Will you love him? Will you love him?  
-  
-o many sweetmeats this one could woo  
-  
-But it’s you that he needs  
-  
-Oh, he begs and pleads  
-  
-In the moonlight he will worship you  
-  
-But come the morning sun  
-  
-He will most definitely run!  
-  
-CHORUS  
-  
-This one weaves a song  
-  
-He’ll sing it to you all day long  
-  
-Will you love him? Will you love him?
-
-[출처](https://www.imperial-library.info/content/cats-serenade)
-
----
-
-## A Change in the Chimer
-
-ID: ext-cb661b308afe2a875cc8
-
-By Carlotta Maro, Alessia’s Chosen  
-  
-Strange events continue to plague our time. First, the Battle at Red Mountain, followed by the Dwemer’s disappearance, and now the sudden physical change in the Chimer.  
-  
-Naturally, exaggerated writings about this meant solely for a quick grab of gold alone have already circulated across Cyrodiil. “Their change signals the end times!” “Stare into their eyes and you will fall into Oblivion itself!”  
-  
-Some of this fodder will be claimed as facts and taught to the young minds of tomorrow. Thus, as a scholar, I believed it was my duty to document what I’ve seen of these so-called Dark Elves first hand. Their skin is ashen and their eyes pools of red like lava. I see now why some are calling it a curse from Red Mountain. But who they were, their nature, remains unchanged. So, tell me, does their change in appearance really deserve this much hysteria?  
-  
-Dunmer or Chimer, they continue to live their lives, still a people with a proud tradition. And no doubt, a bright and unmarred future. This I know for a fact, dear reader.
-
-[출처](https://www.imperial-library.info/content/a-change-in-the-chimer)
-
----
-
-## A Child’s Play
-
-ID: ext-9fb8b4572bfcc0c9f4b9
-
-Excerpt from an unofficial biography of the Green Lady, Gwaering.  
-  
-Where she stepped, a circle of flowers grew, filling the outline of her footsteps. Sometimes, she walked backwards to watch the green tendrils unfurl, their tips blossoming into pale blue, yellow, or red.  
-  
-“Stop that,” Nautte said crossly. “Don’t waste your energy on such trifles.”  
-  
-Gwaering paused in mid-stride, her head tilted to one side.  
-  
-“It costs me nothing to think of flowers,” she replied. And she stepped carefully again, defiantly creating one more circle.  
-  
-“Your aunt foretold a great future for you,” said her mother severely. “But all I foresee is a good whipping!”  
-  
-With a laugh, Gwaering danced toward her mother and kissed her repentantly. Then she caught sight of Ulthorn peering through the window, and forgot all else.  
-  
-“May I play with Ulthorn?”  
-  
-“Go, child.”  
-  
-Gwaering was gone almost before the words left her mother’s lips. With a sigh, Nautte added softly, “Play while you still can.”
-
-[출처](https://www.imperial-library.info/content/childs-play)
 
 ---
 
@@ -1639,20 +1398,6 @@ Researching Traits
 By now you’re thinking. “I’ll need an edge if I’m going dare to fight the Shattered Masque.” You could always research unique traits of items made by better clothiers than you by taking their clothing apart and studying their techniques. Anything to boost your confidence long enough for me to stomp it into dust.
 
 [출처](https://www.imperial-library.info/content/clothiers-primer)
-
----
-
-## A Constant Hunger
-
-ID: ext-7827e3a8d0b3c57a485f
-
-Never shall I cease  
-  
-Hunting creation’s secrets  
-  
-Til all is but Void
-
-[출처](https://www.imperial-library.info/content/constant-hunger)
 
 ---
 
@@ -1722,128 +1467,6 @@ Have a good life! We hope you come eat with us, too! But not the Aojee-Sakka.
 
 ---
 
-## A Daedric Proposal
-
-ID: ext-d858dba66618eacac42b
-
-The belief that someone could fully resurrect a dead creature should be disregarded as pointless. Especially when considering what we know about the souls of vampires, such an endeavor may be even considered dangerous. Attempting to thwart the desires of Molag Bal could bring his wrath down upon you, my lady, which would be ruinous for our clan. I hear word of plans for such a project and I firmly warn you to avoid collaboration.  
-  
-Instead, I propose an alternative. A certain ritual I learned while studying soulworking deep in some ancient catacombs beneath Morrowind. Once performed, we can force Daedric spirits to reside within the cadavers of our fallen brethren. This reanimates the flesh so that they may execute basic martial functions, such as wielding a sword. If bound correctly, they will follow our commands to the letter. These shall be the perfect heavy shock troops for your new legion.  
-  
-This ritual requires a great deal of soul energy to power it, and a practitioner who could easily communicate with the wild Daedra. I know of just the entity (or should I say entities) that could be pressed into such service.  
-  
-With my lady’s permission, I shall begin preparations.  
-  
-Galdrus Salobar, Sanguimancer Supreme
-
-[출처](https://www.imperial-library.info/content/daedric-proposal)
-
----
-
-## A Dance Along the Webs
-
-ID: ext-1f32a643d460aba352ff
-
-My sisters,  
-  
-As I write, an intangible future descends upon Resdayn. False light obscures the conviction we once shared. I pray this missive finds you cocooned in the shell of will and spirit, despite the news it carries.  
-  
-Our fate, once an intricately woven tapestry of divine and mortal existence, is being unraveled by a new force as inexorable as the march of the Make Way gods. The Concurrent Three, ALMSIVI, a mere cult once but a flicker in our collective consciousness, has ignited in a blaze of glory and zeal. They are a consuming fire upon our world. And, my sisters, I fear they are inevitable.  
-  
-These zealots hail not one, not two, but three newly ascended entities, a triumvirate cloaked in robes of divinity. Their rise is fueled not by the fateful dance of faith and love, but by the mechanistic gears of manipulation and force. They hope we shall remain blind to it.  
-  
-Their will exerts itself like a black void, an inescapable pull towards a future where our goddesses are mere Anticipations. Their adherents are systematically snuffing out the shapes of our kin, obliterating our ephemeral signatures from the grand tapestry of existence. This insidious drama is played out behind the sheen of politicking and deceit, their actions obscured from the eye of Boet-hi-Ah. They are false, and yet they prove difficult to deny.  
-  
-These so-called Anticipations, our spiritual anchors unfailing, have guided our voyages for as long as memory exists. The thought of a Resdayn devoid of their foundational virtues is inconceivable. A thing unable to pass, for the sake of what is and will be.  
-  
-I beseech you, Resdaynia: The fate-bound hymns of the Three Sisters must not be forgotten. We must rally our kin and stand against this faith-invasive force. We must preserve the ancestral harmonies for the sake of our children yet to be born.  
-  
-I implore you to cloak yourself in cherished nostalgia. Share these revelations only with those whose loyalty is certain. This dance must remain a secret kept under a shroud of silence, since those who dare to raise their voices are swiftly consumed by the black hole of As Yet Oblivion.  
-  
-In these interminable times, we must channel the cunning of Mephala, the ferocity of Boethiah, and the wisdom of Azura. Let their blessed teachings be our guiding star, our protective shell, and our eternal sustenance.  
-  
-May the Sisters guide your journey and cast their darkened light upon your path during these falsified cycles. Stay strong, my kin, until the threads converge upon us once more. There we will meet again as ourselves, no longer in need of false skins and shadows.
-
-[출처](https://www.imperial-library.info/content/a-dance-along-the-webs)
-
----
-
-## A Dance in Moonlight
-
-ID: ext-4a777ed9567da837177f
-
-Anahbi looked up into the night. Moonlight filled her eyes, and she knew what she must do.  
-  
-Many months she trained, jumping over hill, then dale, then mountaintop. When she could jump no higher, she nearly flew. Tumbling out into Oblivion, all seemed lost—but the twins saw and caught her in their embrace.  
-  
-Anahbi picked the light from Jone and leapt once more for Nirn. Seeing what she had taken, the moons followed suit—dancing a spiral across the sky.  
-  
-When it seemed they might catch her, they collided and moved no more. Seeing the twins entangled so, Anahbi plucked the light from Jode, as well.  
-  
-As she made to leave, they caught her in their embrace. Anahbi begged them to return her to Quin’rawl—for that was the land of her birth. Under the condition that she never again try to steal their light, they returned her to her homeland.  
-  
-Since that time, Anahbi’s brow has borne fine speckles of stardust—a reminder of her vow never to return to the stars.
-
-[출처](https://www.imperial-library.info/content/a-dance-in-moonlight)
-
----
-
-## A Diet of Eyes
-
-ID: ext-cae17e3c9078877e2abd
-
-While Hagravens have long been associated with certain Reachman tribes, the relationship between the Reachmen and these monsters is still unclear.  
-  
-With the face of an old crone and a misshapen body that combines human and raven, Hagravens are horrific sights. (Though they are far worse to smell.)  
-  
-It is the remnants of their meals that induce the greatest horror, however. For Hagravens consume people, preferably while still alive. They are said to be especially fond of eyeballs. A sated Hagraven will sometimes merely suck out a victim’s eyes, then cast out the unfortunate to wander sightless through the wilds.
-
-[출처](https://www.imperial-library.info/content/diet-eyes)
-
----
-
-## A Dragonhorn! Oh, Dragonhorn!
-
-ID: ext-ad1a4e9d63325311709e
-
-Translated by Adept Izjadi, Star Haven Record Keeper  
-  
-The Akavir came one day  
-  
-To our Starry Haven  
-  
-Warriors proud were they  
-  
-And not a one unshaven!  
-  
-They said that Dragons were about  
-  
-And that we should be wary  
-  
-“We cannot stay, we cannot fight,  
-  
-We’ll give you what we carry.”  
-  
-A Dragonhorn! Oh, Dragonhorn!  
-  
-With just one many call  
-  
-Any Dragon high above  
-  
-Will have a mighty fall.  
-  
-A Dragonhorn! Oh, Dragonhorn!  
-  
-You’ll stay in tower high  
-  
-And if the Dragons do attack  
-  
-They’ll hear your mighty cry!
-
-[출처](https://www.imperial-library.info/content/dragonhorn-oh-dragonhorn)
-
----
-
 ## A Feast Among the Dead
 
 ID: ext-ade3ccbf3b6e3ef29904
@@ -1908,118 +1531,6 @@ What transpired the rest of that evening was almost beyond recollection, for we 
 
 ---
 
-## A Foe Most Porcine
-
-ID: ext-733cc57a31fbe729ac8c
-
-Hear ye, hear ye!  
-  
-Whosoever holds this PRESTIGIOUS INVITATION is cordially invited to the games at Hammerdeath Arena in the realm of STORMHAVEN, for a trial of PROWESS, PRESTIGE, and PORCINE PUGILISM.  
-  
-Bring this invitation to Rozette the Rapscallion for an official bout with King Boar! Or just take the ham-fisted approach and crash the festivities. That’s sure to be entertaining!  
-  
-By decree of Jester King Emeric—and his beauteous queen—let the games begin!
-
-[출처](https://www.imperial-library.info/content/foe-most-porcine)
-
----
-
-## A Folk Tale
-
-ID: ext-2415952b1147f752e7f8
-
-Lanalda danced through Valenwood, willing the leaves to change colors. Nothing happened, as she had no power over them.  
-  
-She stomped her foot like an angry child, and saw the earth dimple beneath her. Enchanted, Lanalda stomped again and again, each time deepening the vale. When rain fell, she danced wildly within the dip she’d created.  
-  
-Slowly, it filled with water. Lanalda danced gleefully, though the waters covered her. They say her unseen dance creates the ripples on the lake.
-
-[출처](https://www.imperial-library.info/content/folk-tale)
-
----
-
-## A Forebear Warrior’s Song
-
-ID: ext-de340f5c7c59ba8728d3
-
-Akatosh, my strength comes from your hands,  
-  
-My enemies fall before my sword.  
-  
-Can you hear their cries?  
-  
-Death, they cry.  
-  
-Death, I sing.  
-  
-But death is theirs, not mine.  
-  
-Wipe the blade of their color.  
-  
-Wipe the shield of their color.  
-  
-Victory is ours!  
-  
-Stendarr, grant my weapon fall only thus:  
-  
-For justice, for the right ways.  
-  
-Can you hear my plea?  
-  
-Justice, they pray.  
-  
-Justice, I sing.  
-  
-Justice is mine, and also theirs.  
-  
-Wipe the blade of their color.  
-  
-Wipe the shield of their color.  
-  
-Victory is ours!  
-  
-For the way of the righteous is mercy,  
-  
-And compassion for the weak.  
-  
-Can I wield your sword and shield?  
-  
-Mercy, they beg.  
-  
-Mercy, I give.  
-  
-Swift death to the unjust!  
-  
-Slow death to the merciless!  
-  
-Wipe the blade of their color.  
-  
-Wipe the shield of their color.  
-  
-Victory is ours!
-
-[출처](https://www.imperial-library.info/content/forebear-warriors-song)
-
----
-
-## A Free Argonian’s Manifesto
-
-ID: ext-ca871339a6798bd4fa83
-
-It is the right and duty of all sentient beings to be masters of their own fate, to live or die according to their own wishes. Slavery is a foul practice that takes this choice from those bound under its terrible yoke, transferring their decision-making capacity to the owner.  
-  
-This is neither fair nor right, and should be resisted as violently as possible, everywhere and at all times. Anyone who stands idly by and lets another be enslaved is no better than the one who cracks the whip.  
-  
-For generations, the Dark Elves enslaved my people, some suffering from hatching to grave under Elven control. During this time, the Nords did nothing to help us. The so-called Pact has not redressed these past offenses. Instead, we’ve been told to be happy we are no longer slaves.  
-  
-We’ve been told recompense is out of the question. But even a guar will bite if kicked long enough.  
-  
-If the Pact will not help us get what we deserve for our generations of suffering, others will help us. The Varakun seek power for their master, but also grant power to those who serve them. Through their auspices, I will avenge those who died as slaves. I will raise their tormentors as my undead vassals, and they will serve me forever in death.
-
-[출처](https://www.imperial-library.info/content/free-argonians-manifesto)
-
----
-
 ## A Gift of Sanctuary
 
 ID: ext-40eb11009c2bd1bdc1b0
@@ -2037,128 +1548,6 @@ Back he went, again and again, to collect the drunken folk to show them the magn
 When the boy’s parents came to collect him, he took them to see his magnificent palace out on the lake. They screamed and screamed and ran, leaving the boy alone with the duck. He was not sad! Together they made merry on the island until the mists closed in around it and spirited it away to a land of cheer and mirth for all time.
 
 [출처](https://www.imperial-library.info/content/gift-sanctuary)
-
----
-
-## A Gold Coast Children’s Bestiary
-
-ID: ext-718f0f7a834aaa5fb11a
-
-Goblin  
-  
-Goblins from beyond the heath,  
-  
-Wear necklaces of children’s teeth!  
-  
-Their arrows with the poison laced,  
-  
-From nixad guts—ground into paste.  
-  
-Minotaur  
-  
-The minotaur are warriors born.  
-  
-They hang dead children from their horns!  
-  
-Don’t think them cows; they never “moo.”  
-  
-The meat they most prefer is you!  
-  
-Nixad  
-  
-The nixad flit about like flies.  
-  
-Their favorite meal is children’s eyes!  
-  
-These sugar fiends are cruel and vain.  
-  
-They take delight in children’s pain.  
-  
-River Troll  
-  
-Every child with half a mind,  
-  
-Knows river trolls are most unkind.  
-  
-Those who don’t will soon endure,  
-  
-Their childish minds in troll manure!
-
-[출처](https://www.imperial-library.info/content/gold-coast-childrens-bestiary)
-
----
-
-## A Grand Time Awaits!
-
-ID: ext-b6947b158114745fc326
-
-Our good Lady of Riot cordially invites you to find everlasting fun at her new and improved Everlasting Fair! A place where wonders never cease and revels never end! Where up is down and wrong is right!  
-  
-Leave your old self behind and step into the magic of the fair. Once you enter, you’ll be amazed and delighted at the myriad games and diverting distractions that abound. Thrilling attractions will leave you buzzing, and decadent delicacies will only feed your appetite. There’s no better place to indulge, after all, than with the Lady of Riot.  
-  
-That’s the true power of our revels—a party that never ends. No wish is too secret, no desire too unseemly, to be made real at our good lady’s behest. Tell her your innermost dreams, and you’ll see them come true. Then you’ll truly be part of her fair forever. And that’s only the beginning.  
-  
-Admission is free!
-
-[출처](https://www.imperial-library.info/content/a-grand-time-awaits)
-
----
-
-## A Grand Transformation
-
-ID: ext-6c64bf9b557b9627da9c
-
-We cannot fear change, cannot turn our heads from it. This we know, and always must know deep within our heart-roots. Sometimes, the change comes from outside forces; the passing of a season, or the death of a loved one. Other times, this change comes from within ourselves. A need to shake away an old identity, and embrace a new one.  
-  
-There are many ways to change oneself, of course. Some travel to far off land, taking in a new culture and lifestyle. Others choose to practice a new craft, woodworkers turned warriors, tailors turned egg-tenders. But others feel they need an even deeper change in their life, and so require the aid of the Hist. They are those who have chosen to change their gender.  
-  
-Something deep within these individuals calls for them to undergo this change. I do not know if it is the Hist’s will, or simply their own. But always I listen with open mind and open palms, ready to help them in this time of transformation. Together we commune with the Hist, and prepare to receive its aid.  
-  
-The ceremony always leaves me breathless. Though the Hist watches over the tribe and guides us along our needed paths, rarely does it take direct action. But during this time, Hist and spirit combine, a loving embrace followed by a great change.  
-  
-Afterwords, I reintroduce the newly transformed soul to the tribe. They are greeted by all, and a great celebration will follow; for someone beloved has left us, and someone beloved has arrived.
-
-[출처](https://www.imperial-library.info/content/grand-transformation)
-
----
-
-## A Grifter’s Apology
-
-ID: ext-ac81e7ae383050bba0ec
-
-Ever put down a tidy sum on a sword only to have the blade fly off as soon as you got it home and gave it a swing? Bet you were mad! You probably stormed back to the market to find the silver-tongued bastard who convinced you it was magical, only to find his stall vacant.  
-  
-I know this because you bought that weapon from someone just like me.  
-  
-That’s right, I used to pass off the shoddiest merchandise I could get my hands on to folk like you. I’d buy apprentices’ failures, find rusted heirlooms at the pawnbroker, and make a profit off people who didn’t have much more than big dreams about becoming a hero. Those days are behind me. I’ve done wrong and want to make amends, so I’m going to arm you with a little knowledge.  
-  
-The best advice is to buy your weapon from a trusted smith. It may not look like much, but you don’t need fancy. I passed off cartloads of giant two-handers on youths with starry eyes, but you’ll want to start out with something reasonable—a simple, solid one-hander. A warrior’s only as good as his weapon, and you won’t learn anything with one that’s going to fall apart.  
-  
-If you insist on visiting market stalls, your first goal is to get a weapon in-hand. Never purchase anything without giving a nearby post a few good hacks with it first. If the merchant won’t let you handle it and keeps coming up with excuses, he’s up to something.  
-  
-I got good at distracting customers with fancy moves or a sappy yarn. You’d be surprised how easy it is to con someone into a purchase with a tale about how the noble knight’s poor widow is just having such a hard time getting by these days, and how, being such a kind-hearted trader, I’m going to take all the profits from his old sword to her anyway—doing an honest deed for a sweet old lady who can’t travel to the market on her own.  
-  
-Don’t let this happen to you. Ignore the chatter, get hold of the weapon, and check it for signs of painted-over rust. Examine the hilt or haft with care; look for traces of adhesives where metal contacts other materials. Avoid flashy weapons studded with gems, since you probably can’t tell real jewels from glass fakes. The best cons know just a little bit of illusion magic, too, so be skeptical about supposed magical properties, and make sure you examine the item for more than a few minutes.  
-  
-You should know enough now about what to look for in a good one-hander, and I hope you won’t fall for any of these tricks. I’m sorry to anyone I pulled them on in the past, and I wish you the best of luck out in the market and in your training.
-
-[출처](https://www.imperial-library.info/content/grifters-apology)
-
----
-
-## A Guide to Dwemer Mega-Structures
-
-ID: ext-ff0d31ecf3c0842fc853
-
-By Vorinara Kleeve, Dwemer Scholar  
-  
-While we know a great deal about the various forms of Dwemer animunculi, many of the larger Dwemer marvels remain a mystery. Legends of Dwemer orreries and fabrication chambers abound, but direct, first-hand scholarship remains scant. I have spent my life in search of these Dwarven mega-structures. While I’ve met with considerable success, there is one mechanism in particular that I am keen to find: the Dwemer Tonal Resonator.  
-  
-At the height of their power, the Dwemer exhibited near total mastery of tonal forces. Even now, countless centuries later, they remain peerless in this respect. Sound, not magic, facilitated their rise to power. I am continually astounded by tonal forces’ wide range of uses. The Dwemer used sound in mining, medicine, architecture – even psychology. It’s the latter use that I find most intriguing. According to ancient Chimeri scholarship, the Dwemer could employ tonal forces to bend weaker minds to their will – a form of complex aural hypnosis. Luckily, the Dwarves never managed to mobilize this technology on the battlefield against our august ancestors. The scale and complexity of the devices likely made transportation nearly impossible. But they still managed to employ it on a limited scale using massive devices called Tonal Resonators.  
-  
-If the legends are true, these resonators were incredibly complex architectural wonders. They stood taller than the most imposing giants, and filled cavernous chambers with pipes, dials, and pistons. When enabled, the resonators released a series of powerful tones that could alter the brainwaves of lesser mer and men – inducing deep calm and profound pleasure, or even paranoia and terror. The uses for such a device are virtually limitless. Alas, I fear that I will never see one with my own eyes. If such a power could be replicated and perfected, the children of the Tribunal could very well reign supreme in Tamriel and continents beyond.
-
-[출처](https://www.imperial-library.info/content/guide-dwemer-mega-structures)
 
 ---
 
@@ -2194,171 +1583,1301 @@ I hope that this helps you when you next decide to go out and fish, my son. At l
 
 ---
 
-## A Guide to Gathering Frogs
+## A Hypothetical Treachery
 
-ID: ext-1fa7245b87bf0e4210f0
+ID: ext-c56486bee3da48c8b50d
 
-Friend-Beeko!  
+A One Act Play  
+by  
+Anthil Morvir  
   
-You need to gather the following frogs so I can complete construction of a vossa-satl to present to Captain Jimila.  
+Dramatis Personae  
   
-We need moss-foot croakers, ruby hoppers, indigo tree frogs, and sun-blessed toads. Those are the ones that produce the widest range of sounds.  
+Malvasian: A High Elf battlemage  
+Inzoliah: A Dark Elf battlemage  
+Dolcettus: A Cyrodiil healer  
+Schiavas: An Argonian barbarian  
+A Ghost  
+Some bandits  
   
-First, find a few of the green moss-foot croakers in the bushes that grow in the marsh east of Lilmoth. They are quite docile and easy to catch.  
+Scene: Eldenwood  
   
-Second, look for the ruby hoppers. These rare, red frogs, like to sun themselves on stones near water around Lilmoth. You have to sneak up on them, though, or they get frightened and hop away. If that happens, the scared hoppers often hide by the big tree at the center of town.  
+As the curtain rises, we see the misty labyrinthian landscape of the legendary Eldengrove of Valenwood. All around we hear wolves howling. A bloodied reptilian figure, SCHIAVAS, breaks through the branches of one of the trees and surveys the area.  
   
-Catching indigo tree frogs is a little more complicated. After you locate the trees where they nest, you need to gather some fleshflies. The blue frogs love them! Release the fleshflies beneath the tree. When the frogs hop down to feast, just grab them.  
+SCHIAVAS: It’s clear.  
   
-Finally, sun-blessed toads will prove to be the most difficult of the frogs to catch. To lure them out of their mud pit, you need to trick them into thinking it’s time to mate. To do that, you first need to gather the ingredients to make a scent that will attract the frogs and draw them out of hiding.  
+INZOLIAH, a beautiful Dark Elf mage, climbs down from the tree, helped by the barbarian. There is the sound of footsteps nearby. Schiavas readies his sword and Inzoliah prepares to cast a spell. Nothing comes out.  
   
-To make the scent, you need to gather the following plants: stench sedge, salt rush, and joymallow. Then combine them to create toad musk. Once you have the musk, locate a toad mud pit. Then pour the toad musk onto yourself and use the croak-wheel. Between the scent of the musk and the croaks emerging from the wheel, you are sure to attract sun-blessed toads that you can catch.  
+INZOLIAH: You’re bleeding. You should have Dolcettus heal that for you.  
   
-Good luck!
+SCHIAVAS: He’s still drained from all the spells he had to cast down in the caves. I’m fine. If we get out of this and no one needs it more, I’ll take the last potion of healing. Where’s Malvasian?  
+  
+MALVASIAN, a High Elf battlemage, and DOLCETTUS, a Cyrodiil healer, emerge from the tree, carrying a heavy chest between the two of them. They awkwardly try to get down from the tree, carrying their loot. MALVASIAN: Here I am, though why I’m carrying the heavy load is beyond me. I always thought that the advantage of dungeon delving with a great barbarian was that he carried all the loot.  
+  
+SCHIAVAS: If I carried that, my hands would be too full to fight. And tell me if I’m wrong, but not one of the three of you has enough magicka reserved to make it out of here alive. Not after you electrified and blasted all those homunculuses down below ground.  
+  
+DOLCETTUS: Homunculi.  
+  
+SCHIAVAS: Don’t worry, I’m not going to do what you think I’m going to do.  
+  
+INZOLIAH (innocently): What’s that?  
+  
+SCHIAVAS: Kill you all and take the Ebony Mail for myself. Admit it — you thought I had that in mind.  
+  
+DOLCETTUS: What a perfectly horrible thought. I never thought anyone, no matter how vile and degenerate —  
+  
+INZOLIAH: Why not?  
+  
+MALVASIAN: He needs porters, like he said. He can’t carry the chest and fight off the inhabitants of Eldengrove both.  
+  
+DOLCETTUS: By Stendarr, of all the mean, conniving, typically Argonian —  
+  
+INZOLIAH: And why do you need me alive?  
+  
+SCHIAVAS: I don’t necessarily. Except that you’re prettier than the other two, for a smoothskin that is. And if something comes after us, it might go for you first.  
+  
+There is a noise in some bushes nearby.  
+  
+SCHIAVAS: Go check that out.  
+  
+INZOLIAH: It’s probably a wolf. These woods are filled with them. You check it out.  
+  
+SCHIAVAS: You have a choice, Inzoliah. Go and you might live. Stay here, and you definitely won’t.  
+  
+Inzoliah considers and then goes to the bushes.  
+  
+SCHIAVAS (to Malvasian and Dolcettus): The king of Silvenar will pay good money for the Mail, and we can divide it more nicely between three than four.  
+  
+INZOLIAH: You’re so right.  
+  
+Inzoliah suddenly levitates up to the top of the stage. A semi-transparent Ghost appears from the bush and rushes at the next person, who happens to be Schiavas. As the barbarian screams and thrashes at it with his sword, it levels blasts of whirling gas at him. He crumbles to the ground. It turns next to Dolcettus, the healer, and as the Ghost focuses its feasting chill on the hapless Dolcettus, Malvasian casts a ball of flame at it that causes it to vaporize into the misty air.  
+  
+Inzoliah floats back down to the ground as Malvasian examines the bodies of Dolcettus and Schiavas, who are both white-faced from the draining power of the ghost.  
+  
+MALVASIAN: You had some magicka reserved after all.  
+  
+INZOLIAH: So did you. Are they dead?  
+  
+Malvasian takes the potion of healing from Dolcettus’s pack.  
+  
+MALVASIAN: Yes. Fortunately, the potion of healing wasn’t broken when he fell. Well, I guess this leaves just the two of us to collect the reward.  
+  
+INZOLIAH: We can’t get out of this place without each other. Like it or not.  
+  
+The two battlemages pick up the chest and begin plodding carefully through the undergrowth, pausing from time to time at the sound of footsteps or other eerie noises.  
+  
+MALVASIAN: Let me make sure I understand. You have a little bit of magicka left, so you elected to use it to make Schiavas the ghost’s target, forcing me to use most of my limited reserve to destroy the creature so I wouldn’t be more powerful than you. That’s first-rate thinking.  
+  
+INZOLIAH: Thank you. It’s only logical. Do you have enough power to cast any other spells?  
+  
+MALVASIAN: Naturally. An experienced battlemage always knows a few minor but highly effective spells for just such a trial. I take it you, too, have a few tricks up your sleeve?  
+  
+INZOLIAH: Of course, like you said.  
+  
+They pause for a moment before continuing as a fearful wail pierces the air. When it dies away, they slowly trudge on.  
+  
+INZOLIAH: Just as an intellectual exercise, I wonder what spell you would cast at me if we made it out of here without any more combat.  
+  
+MALVASIAN: I hope you’re not implying that I would dream of killing you so I would keep the treasure all to myself.  
+  
+INZOLIAH: Of course not, nor would I do that to you. It is merely an intellectual exercise.  
+  
+MALVASIAN: Well, in that case, purely as an intellectual exercise, I would probably cast a leech spell on you, to take away your life force and heal myself. After all, there are brigands on the road between here and Silvenar, and a wounded battlemage with a valuable artifact would make a tempting target. I’d hate to survive Eldengrove merely to die in the open.  
+  
+INZOLIAH: That’s a well-reasoned response. As for myself, again, not saying I would ever do this, but I think a simple, sudden electrical bolt would serve my purposes admirably. I agree about the danger of brigands, but don’t forget, we also have a potion of healing. I could easily slay you and heal myself to full capacity.  
+  
+MALVASIAN: Very true. It would end up a question then of whose spell was more effective at that instant. If our spells counteracted one another and I leeched your life energy only to be crippled by your lightning bolt, then we could both be killed. Or so near death that a mere potion of healing would scarcely help either one of us, let alone both. How ironic it would be if two scheming battlemages, not saying we are scheming but for the purpose of this intellectual exercise, were left on the brink of death, completely drained of magicka, with one healing potion to choose from. Who would get it then?  
+  
+INZOLIAH: Logically, whoever drank it first, which in this case would be you since you’re holding it. Now, what if one of us were injured, but not killed?  
+  
+MALVASIAN: Logic would dictate that a scheming battlemage would take the potion, leaving the injured party to the mercy of the elements, I suppose.  
+  
+INZOLIAH: That does seem most sensible. But suppose that the battlemages, while certainly scheming types, had a certain respect for one another. Perhaps in that case, the victorious one might, for instance, put the potion up a tree near his or her gravely wounded victim. Then when the wounded party had enough magicka replenished, he or she would be able to levitate to the tree branches and recover the potion. By that time, the victorious battlemage would have already collected the reward.  
+  
+They pause for a moment at the sound of something in the bushes nearby. Carefully, they climb across the branches of a tree to bypass it.  
+  
+MALVASIAN: I understand what you’re saying, but it seems out of character for our hypothetic scheming battlemage to allow his or her victim to live.  
+  
+INZOLIAH: Perhaps. But it’s been my observation that most scheming battlemages enjoy the feeling of having bested someone in combat, and having that person alive to live with the humiliation.  
+  
+MALVASIAN: These hypothetical scheming battlemages sound … (excitedly) Daylight! Do you see it?  
+  
+The two scurry across the branch dropping behind a bush, so we can no longer see them. We can, however, see the shimmering halo of sunlight.  
+  
+MALVASIAN (behind the tall bush): We made it.  
+  
+INZOLIAH (likewise, behind the tall bush): Indeed.  
+  
+There is a sudden explosion of electrical energy and a wild howling aura of red light, and then silence. After a few moment’s pause, we hear someone climbing up the tree. It is Malvasian, putting the potion high up in the bough. He chuckles as he climbs back down and the curtain drops.  
+  
+Epilogue.  
+  
+The curtain rises on a road to Silvenar. A gang of bandits have surrounded Malvasian, who is propped up on his staff, barely able to stand. They pull his chest away from him with ease.  
+  
+BANDIT #1: What have we got here? Don’t you know it ain’t safe to be out on the road, all sick like you are? Why don’t we help you with your load?  
+  
+MALVASIAN (weakly): Please … Let me be …  
+  
+BANDIT #2: Go on, spellcaster, fight us for it!  
+  
+MALVASIAN: I can’t … too weak …  
+  
+Suddenly, Inzoliah flies in, casting lightning bolts from her fingers at the bandits, who quickly scramble away. She lands on the ground and picks up the chest. Malvasian collapses, dying.  
+  
+MALVASIAN: Hypothetically, what if … a battlemage cast a spell on another which didn’t harm him at once, but … drained his life force and his magicka, bit by bit, so he wouldn’t know at the time, but … feel confident enough to leave the potion of healing behind?  
+  
+INZOLIAH: A most treacherous battlemage she’d be.  
+  
+MALVASIAN: And … hypothetically … would she be likely to help her fallen foe … so that she could enjoy the humiliation of him continuing … to live?  
+  
+INZOLIAH: From my experience, hypothetically, no. She doesn’t sound like a fool.  
+  
+As Inzoliah lugs the chest off toward Silvenar, and Malvasian expires on the stage, we drop the curtain.
 
-[출처](https://www.imperial-library.info/content/guide-gathering-frogs)
+[출처](https://www.imperial-library.info/content/hypothetical-treachery)
 
 ---
 
-## A Guide to Liturgical Vestments
+## A Life Barbaric and Brutal
 
-ID: ext-8e5a3765e29198ada846
+ID: ext-7cf8f6d37679c319993b
 
-An Ordinator’s every action must reflect the divinity of the Tribunal. Every thought, word, and gesture, no matter how trivial, must glorify the Three. Our appearance, too, must bring honor to ALMSIVI. Herein you shall find a guide to liturgical vestment.  
+Chapter One: Abducted by the Reachmen  
   
-At the beginning of the vesting, an Ordinator must wash herself thoroughly, using mineral water from one of Red Mountain’s sacred hot springs and a volcanic pumice. This act has profound spiritual significance. In washing the body, the Ordinator also washes the soul – removing residual sin and any nagging doubts that might interfere with the merciless application of Tribunal law.  
+I was born in Murcien’s Hamlet, just north across the Bjoulsae from Evermore. My mother was a weaver, and my father was a boat-builder who made small fishing smacks and coracles for the river trade. I remember my youth as a happy one, playing around the docks where Father worked, or hunting through the near woods for entoloma caps and hickory nuts.  
   
-Once the washing is complete, the proper vesting can begin. The Ordinator begins with the rathith – triangular linen small clothes, dyed a deep blue and fastened with brass pins. The rathith is further secured by the arnith, the golden “underbelt” which is also secured using brass pins. Daughters of ALMSIVI are also permitted to wear the alrathith, a second garment tailored to support the breasts.  
+It was while doing the latter one day that I strayed a bit farther from the hamlet than usual, pushed my way through a briar thicket … and suddenly found myself staring at a pair of human skulls. Startled, I shrieked and dropped my basket of nuts. By the time I realized that what I’d seen was a skull on a staff next to a woman’s face painted like a skull, I’d been knocked down, bound, and thrown over her shoulder.  
   
-With the rathith and alrathith secured, the Ordinator is free to move on to the llananor, or “second garment.” This long shirt must be washed in sacred mineral water before the sun rises, and pressed thrice over a hot stone. When donning the llananor, the Ordinator must also recite the Litany of Three Virtues. If the Ordinator completes the litany before the shirt is fully donned, they are obliged to repeat the litany twice more before moving on to the next step of the vesting.  
+I was being borne away to the north, away from my home and into the mountains. I began to kick and scream, at which the woman threw me down, bound me tighter, and gagged me into the bargain. Then she resumed carrying me off into the wild. Eventually I passed out from sheer exhaustion.  
   
-The Ordinator’s pants, or felassani, must also be washed and thrice pressed before wearing. Ordinators should put on these trousers starting with the left foot and must fasten them using a blue, rope-like belt called a nosa. The slippers must likewise be worn starting with the left foot, and laced with gold ribbon.  
+When I awoke it was dark, but I could see forms in the dance of firelight, silhouettes sporting horns, bones, spikes, feathers. Reachmen. I closed my eyes and tried to wake up, but it was no nightmare: when I opened my eyes they were still there.  
   
-Finally, the Ordinator must drape a crimson wool stole, or duleso, about the neck and shoulders thrice, and fasten it with a triangular golden reliquary clasp – a neleviso. This ends the first vesting, or llanathro’lani, and prepares the Ordinator for armor-suiting.  
+My gag was gone, so I cried out for water. The skull-faced woman, whom I later learned was named Voanche, brought me a cup. She checked my bonds, and where I winced in pain, she actually loosened them a little. This surprised me, as I’d always heard that the Reach Clans were barbarians, wicked Daedra-worshipers who reveled in cruelty. Maybe, once they realized how distressed I was, they would set me free and send me home.  
   
-Before the holy armor can be donned, the Ordinator must recite the Forty-Six Canticles of Supplication, and appeal to St. Nerevar the Captain, patron of warriors and defender of Dunmeri society, for protection. After receiving Nerevar’s blessing, the Ordinator begins armor inspection.  
+It was a false hope: I was to be the captive of the Crow-Wife Clan for the next eight years. The Reachmen were far more complex than I had been led to believe in my Breton home, but in one thing we were right: barbarism and cruelty are everyday facts of life in the Reach. Voanche was a horse-breeder who had abducted me because she needed a slave to tend to her livestock, since her former thrall had died of a kick to the head. She had given me water and loosened my bonds solely out of concern for the condition of her new possession.  
   
-The Armor of Triune Faith must be free of any nicks, dents, stains, corrosion, or other aesthetic imperfections. Even minor blemishes are affronts to ALMSIVI’s divine persons. Ordinators found wearing imperfect armor shall be subject to severe sanction. The polish should be thorough and uniform, but not garish. The chitinous undervest must be rubbed with an oiled cloth and flexed to prevent aging and distress. Furthermore, the Ordinator should oil all joints, and treat all leather with a firm brushing and a liberal application of kwama-wax armor dressing. At this point, the Ordinator should signal an initiate to prepare for armor fitting.  
+Voanche’s clan was ruled by a hagraven named Kloavdra, a claw-fingered crone who was a witch-shaman of considerable power. She was a priestess of Namira the Spirit Daedra, the lady of ancient darkness who commands repulsive vermin such as spiders, insects, slugs, and serpents. Because Namira is the mistress of small pests, the Reachmen call her “the Children’s God” (they are not without humor, though their jests are always malicious). At every two-moons’-dark Kloavdra would draw lots at random from the children of the clan, both Reach and slave, to select a sacrifice to the Goddess of the Dark. The chosen child would end up on the Ever-Oozing Altar where Kloavdra would cut out its heart as an offering to Namira. Every time I was sure it would be me, but the name-feather drawn was always of another.  
   
-The initiate begins with the sabatons and greaves (starting with the left) while reciting a prayer to St. Rilms, patron of pilgrims. Once this devotional is complete, the initiate proceeds to the cuisses, reciting another prayer to St. Meris, patron of laborers. At this point, the Ordinator must anoint the breastplate with sacred mineral oil and recite another prayer of supplication to blessed St. Nerevar before handing it over to the initiate. After fastening the cuirass, the initiate moves on to the rerebraces and couters, reciting another devotional to St. Aralor the Penitent. After securing and lacing the pauldrons, the inititate should glove the Ordinator, starting with the left gauntlet, all the while reciting a prayer to St. Delyn the Wise. Finally, the initiate must drape the blue prayer stole, or retheles, over the warrior’s shoulders, reciting a final prayer to St. Felms the Bold. This accomplished, the assistant is permitted to retreat to the chapel for post-vesting prayer.  
+Kloavdra’s hag-husband was a crude and vicious man named Cointthac. He was a gravesinger, a witchman shaman who could command the dead—in our land we’d call him a necromancer. He was always looking sidewise at Voanche and licking his lips, as at a savory roast fowl. Though he had power in the clan and was feared by all, Voanche treated him with disdain, which would sometimes provoke him into sending hoot-haunts into her tent at night, or hexing the horses’ oats with writheworm. Voanche never turned a hair, just threatened to complain about Cointthac to his hag-wife Kloavdra, which always sent him packing.  
   
-Final armor preparations are left to the Ordinator herself. Using the left hand, the Ordinator must tuck a sprig of bittergreen beneath her right pauldron. Using the right hand, the Ordinator must trace the sign of the Tribunal on her chest – gnashing her teeth and hissing thrice, at each point of the triune to summon up the wrath of the Tribunal. The tinder of faith thus kindled, the Ordinator anoints the Golden Mask of Devotion with mineral oil, presses her forehead to the helm to likewise anoint herself, then dons the helm. Ordinators may now arm themselves with any weapon, so long as it is thoroughly cleaned, and thrice blessed before use. At this point, any action of the Ordinator is protected by divine mandate. So long as she wears the mask, the Ordinator is considered a faultless hand of the Three, and is authorized to commit any martial action deemed necessary to protect the True Faith. Hands of Almalexia and other specialized members of the order may have additional vestments to wear, but any servant of the Three thus vested is considered a full Ordinator.  
+Life was hard in the Reach. Crow-Wife was a hunting clan, so our life was following the herds across the wastes. It was a rugged and perilous existence, where life could be snuffed out in a heartbeat by the antlers of an elk buck or the fangs of a sabre cat. But what I feared most were the semi-annual crossings of the Karth River in the wake of the tundra herds. It was my job to help Voanche and her useless daughter swim the horses across the ice-cold, swirling current, and every time I was certain would be my last. How I wished I had learned to swim in the Bjoulsae, like my two brothers, whenever the Karth had me in its grip!  
   
-Keep to this guide, stay earnest in your prayers, and you will bring naught but glory to ALMSIVI.  
+Occasionally during a crossing one of the horses would panic and break free of us, which usually meant drowning and death for it. Then Voanche and I would search far downstream until we found where its body had washed up, so we could skin and unmake the dead horse for its valuable fat, flesh, and bones. Nothing was wasted among the Reachmen.  
   
-Victory for the Three.
+It was during my sixth summer as a slave of the Crow-Wives—I had crossed the hated Karth eleven times!—that I began to attract the unwanted attentions of Aiocnuall, the loutish son of Kloavdra and Cointthach. He expressed his attraction by pushing me into mud puddles or putting dead voles in my stew. He was a year younger than me, but soon I knew he would want me to the object of more than just practical jokes. As the son of the hagraven he could do pretty much whatever he wanted with impunity, and Voanche couldn’t protect me by complaining to Kloavdra—the old virago would just cackle and wave her away.  
+  
+So at night, when I should have been sleeping in my pile of furs, I started making a spear.
 
-[출처](https://www.imperial-library.info/content/guide-liturgical-vestments)
-
----
-
-## A Guide to the Deadlands
-
-ID: ext-b0aebc709c4364b9922c
-
-Of all the planes in Oblivion, it would be difficult to find one less welcoming to travelers than the Deadlands. The legions of Mehrunes Dagon stand guard, watching for spies, invaders, or escaped prisoners. Deadly monsters roam the landscape in search of prey. The climate varies between deadly volcanic eruptions and bitter, howling windstorms that scour the barrens. And the terrain itself forms a torment of razor-sharp rock, knife-edged ridges, and sheer chasms. Yet here the traveler may see sights that few mortals ever get to witness—provided they can survive.  
-  
-Preparation is the key to surviving a journey into Dagon’s realm. First, pack all the food you will need for your visit. The Deadlands have earned that name for a reason. You will find little to eat there, and what you can find presents poor fare indeed. Bring as much water as you can carry. A desert of lava occupies half the realm, while the other half consists of a desert of stone. Even if you stumble across a spring or a pool, it is likely to be tainted or unfit for mortal consumption.  
-  
-Most important, make sure you know how you intend to leave Dagon’s realm when you are done with your visit. Many of the portals that lead into the Deadlands are fickle or untrustworthy. They often permit a traveler to enter, but do not function as exits. If you do not have at least three means of egress, you are not prepared to visit the Deadlands.  
-  
-The easiest way to reach the Deadlands is to first make your way to Fargrave, the Celestial Palanquin. A plaza on the outskirts of the city harbors two permanent portals leading to different parts of the Deadlands. These are reliable, and lead to deserted regions that Mehrunes Dagon’s forces rarely patrol. Be wary of portals you find in Nirn or on other planes, since they often deposit you in the middle of fortresses or dungeons (and often do not function in both directions).  
-  
-Now, as for the Deadlands proper. Mehrunes Dagon’s realm is divided into regions. Two prominent regions well known to travelers from Fargrave are the Burn and the Sever. The Burn is a volcanic wasteland, dominated by rivers of lava and the iron citadels full of Dagon’s legions. The Sever is a cold, windswept desert of stone. In the vast distances between the great citadels, fierce monsters and desperate scavengers abound. Between these two regions stands a nameless range of jagged mountains with few passes.  
-  
-As a suggested itinerary for the intrepid traveler, begin by taking the Fargrave portal leading to the Burn. Turn west on the road that passes close by the portal platform. This leads to the brooding fortress known as Burning Gyre Keep. Look upon its ancient towers, and move on—you will find no welcome here. Continuing to the north, you will pass the terrible prison-mine known as the Blood Pit. Here, many who displease the Prince of Destruction toil in misery for the duration of their miserable lives. You do not want to join them.  
-  
-A high, tortuous pass winds through the hills north of the Blood Pit and turns eastward toward the great citadel of Ardent Hope, foremost of the seven hundred and seventy-seven that house Mehrunes Dagon’s legions. This area is heavily patrolled, so the citadel is best viewed from a distance. Continue east into the hills above Ardent Hope, and you will find a tunnel that leads to the Sever. This brings you to the doorstep of Destruction’s Solace.  
-  
-Here, you must not linger. This seemingly dead city is Mehrunes Dagon’s seat of power. If you find the gates standing open, do not enter!  
-  
-Follow the path descending eastward through the dreary plains of the Sever until it meets a north-south road. Your way lies south, but take care. A terrible Havocrel is doomed to tread this path for eternity, challenging anyone he meets. But soon you come to a region of broken badlands, where a path to the south leads to what may be the one safe refuge in this region of the Deadlands: Wretched Spire.  
-  
-Wretched Spire is built around the wreckage of a great temple that Mehrunes Dagon long ago pulled into the Deadlands from some section of Nirn. It is a haven for outcasts and scavengers—those who seek to elude Dagon’s sight. For some reason, Dagon’s servants never venture near the place, and a small number of dishonored Daedra and lost (or escaped) mortals have made a settlement of sorts here. It is a hard existence, but here at least a traveler can find rest and provisions of a sort.  
-  
-From Wretched Spire, your road continues eastward to the highlands marking the eastern extent of the Sever. Here you can find the portal leading back to the safety of Fargrave. But if you wish to behold one last sight of Mehrunes Dagon’s realm, continue north just a little farther and you will come to the False Martyrs’s Folly. A dead forest that clings to the dreadful vales of the Sever’s mountains, the Folly is said to imprison the spirits of those who defied Mehrunes Dagon. Decaying insects of horrible size and pestilential imps lurk in these woods. Again, it is not wise to linger. Look upon the petrified remains of Dagon’s foes, then depart while you can.  
-  
-Good luck to you, traveler!
-
-[출처](https://www.imperial-library.info/content/guide-deadlands)
+[출처](https://www.imperial-library.info/content/life-barbaric-and-brutal)
 
 ---
 
-## A Harrowing Sea Voyage
+## A Life of Strife and Struggle
 
-ID: ext-e442d1dfe10aaec804c9
+ID: ext-e748bca5b527fa1658a2
 
-An Account by Brean Dufort  
+Notes for the personal memoirs of King Laloriaran Dynar, “Last King of the Ayleids”  
   
-On the eve we set sail for High Isle, an old sailor told me to heed this warning. A creature so massive it dwarfed even the largest islands, with a maw so large that it could swallow ships whole, and a presence so mighty it brought forth a stillness that could shake a sailor’s very soul was prowling the depths between the mainland and the archipelago. He said they barely escaped this dark monstrosity on the voyage to High Rock, and it was sure to be the end of us all on the return journey.  
+Structure: ten chapters as traditional, one for each of the Ten Ancestors  
   
-At first, I was shaken by his tale. After a few ales, however, I laughed it off, thinking this crusty mariner’s tall tale was just that—a yarn to scare inexperienced travelers.  
+Chapter One: Struggles of the Late Ayleid Period (263-331)  
   
-As we sailed for the jewel of the Systres and could no longer see the shore, the sky met the water ahead of us. Then, without warning all went still. The wind fled from our sails and the ship came to rest on the flat, unmoving sea.  
+— My father humiliated by the Empress  
   
-The uncommon silence clawed at our ears. It was so unbearable that every soul upon our vessel stood paralyzed. The sky darkened, yet there wasn’t a cloud in the sky. Rather, a vast darkness, unimaginably large, rose from the depths for what seemed an eternity before once again slipping below the surface.  
+— Nenalata as a vassal-state to the Empire of Cyrodiil  
   
-The shadow now loomed below us, turning the water so black that it seemed to come from the realm of Nocturnal herself. The leviathan beneath loomed ever nearer. Our vessel bobbed in this silent void as the darkness spread to color the sea around us.  
+— Wrenching transition to a slave-less economy  
   
-A glow from beneath, something bright green, suddenly appeared in that abyss. It took me a moment to recognize it for what it was—an eye so vast, it dwarfed any structure built by man or mer. It peered up, penetrating my very soul. It blinked only once, the pupil a monstrous slit.  
+— Forced adoption of Alessia’s Eight Divines  
   
-Just as quickly as it appeared, the eye vanished. The waters began to shift from inky black to a more natural sapphire blue once more. The darkness receded and this leviathan disappeared into the depths without a trace. The wind returned to fill our sails, and we continued on.  
+— I don the Crown of Nenalata  
   
-Until the day I perish, I will swear to what I saw. A creature larger than anything you could ever imagine, lurking just beneath the waves.  
+— Rising sense of futility and doom  
   
-Waiting.
+Chapter Two: Alessian Order, Ayleid Disorder (332-371)  
+  
+— Coup d’Etat in the Imperial City  
+  
+— I swear fealty to the Emperor  
+  
+— Theocracy in Cyrodiil  
+  
+— The Ayleid Pogrom  
+  
+— The vassal-states dwindle  
+  
+— Nenalata stands alone  
+  
+Chapter Three: Tears for Lost Nenalata (372-374)  
+  
+— Ultimatum from the Emperor  
+  
+— Debate with the Intransigents  
+  
+— Last hours in Nenalata  
+  
+— The turbulent trek from Cyrodiil  
+  
+— News of the massacre of the Intransigents  
+  
+— Nibbled to death by Goblins  
+  
+Chapter Four: Refugees on the Bjoulsae (375-452)  
+  
+— Welcomed by the Direnni  
+  
+— Displacing the Orcs, founding a city  
+  
+— Bisnensel-by-the-Lake  
+  
+— Detente with the Bretons, armistice with the Orcs  
+  
+— Disturbing news from Cyrodiil  
+  
+Chapter Five: Menace of the Primeval Seekers (453-460)  
+  
+— The pernicious cult of Hermaeus Mora  
+  
+— Strange rites, persistent visions  
+  
+— High Priest Uluscant asserts his authority  
+  
+— Murder in the night  
+  
+— Flight of the royal family  
+  
+Chapter Six: Sanctuary Among the Direnni (461-477)  
+  
+— Balfiera Island  
+  
+— Ryain, Aiden, and Raven  
+  
+— At War with Skyrim  
+  
+— Tactician and Strategist: I find my true calling  
+  
+— Hoag Merkiller defeated  
+  
+Chapter Seven: Approach of the Alessian Horde (478-479)  
+  
+— Rumbles from the Heartland  
+  
+— We find Breton converts to Alessianism  
+  
+— Scourging of the missionaries  
+  
+— The Alessian Horde marches west  
+  
+— The fall of Craglorn  
+  
+Chapter Eight: The Mustering of High Rock (480-481)  
+  
+— Envoy to the Vassal Kings  
+  
+— Aiden reluctantly signs the Rights Charter  
+  
+— Making legionaries out of farmhands  
+  
+— The Horde swarms into High Rock  
+  
+— Atrocities of the Alessians  
+  
+Chapter Nine: The Battle of Glenumbria Moors (482)  
+  
+— Opening skirmishes  
+  
+— We present the lure  
+  
+— Faolchu takes the bait  
+  
+— Charge of the hidden knights  
+  
+— Conjured creatures of Corvus and Calani  
+  
+— Rout of the Alessians  
+  
+Chapter Ten: Return to Nenalata (482-484)  
+  
+— Pursuit of the Alessian Horde  
+  
+— Extermination in Craglorn  
+  
+— The Maruhkati Martyrs  
+  
+— Return to the Heartland  
+  
+— Lured to Nenalata  
+  
+— Molag Bal’s Insidious Trap  
+  
+— Prisoner in Coldharbour  
+  
+Plenty of time in here. Just hope they don’t take away my writing materials. Could even Dremora be that cruel?
 
-[출처](https://www.imperial-library.info/content/harrowing-sea-voyage)
+[출처](https://www.imperial-library.info/content/life-strife-and-struggle)
 
 ---
 
-## A Helpful, Steadfast Hand
+## A Memory Book
 
-ID: ext-d73637299bb099460e63
+ID: ext-900e3004d8aeaa158d6d
 
-By Adandora, Chronicler-at-Large  
+A Memory Book, Part 1  
   
-The Society of the Steadfast forged its reputation on the battlefields of Cyrodiil and at sites of natural disasters across Tamriel. Founded by Lord Bacaro Volorus, the society consists of healers, caregivers, and a small contingent of knights that send teams loaded with supplies from one location to the next as the need arises.  
+Ah, my Baron Who Moves Like Light Glittering Through Crystal. What can I recall about him before his memory slips away?  
   
-“We do what we can,” Lord Bacaro has said on numerous occasions. “I wish we had the numbers and resources to do more.”  
+He was tall—but they’re all tall to one who adopts the stature of a Bosmer. I had good reasons for doing that, and I can almost remember them … something about being nimble and making a smaller target.  
   
-Near the town of Bravil, in the wake of a fierce battle between the forces of the Ebonheart Pact and the Aldmeri Dominion, the society quickly swooped in to provide relief to those wounded and displaced by the conflict. This chronicler spoke to a soldier and a civilian who were both recovering from injuries sustained in the battle in the society’s healing pavilion.  
+But remembering Light-Through-Crystal—you see how it goes, Tutor, I’m so easily distracted. I need your cool words to flow through me, a rippling current, to bring me back to focus.  
   
-“I’ve no doubt that the timely intervention of these good healers saved my leg. I thought for sure I was going to lose it after it was pierced by that High Elf lance,” explained Heibritt, a Nord soldier from the far north.  
+Focus! That’s the word, exactly! Light-Through-Crystal was all about focus, it was his reason for being. In battle, he moved from point to point almost instantaneously, scintillating from front to flank to other flank, his attacks flashing out like malondo-rays. I remember him when we fought the Five Recalcitrants, how he glowed with varliance and ferocity! Shields shattered like glass, and the ground was littered with fangs and antlers.  
   
-“And I got caught in a blast from some sort of spell” said Lurius, a resident of Bravil. “Destroyed my home, too. If not for the society, I’d have no shelter and my family would be starving. Thank the gods for Lord Bacaro and his generosity!”  
+And we were triumphant! I never want to lose that day, Tutor. Place it carefully in the Reservoir of Recollection, that I may relive it whenever I need to.  
   
-“This damn war,” said Mender Pulor, “I long for the day when I’m not holding some young man or woman’s insides in my hands. Until then, I’ll keep doing whatever I can to help. How could I do any less?”  
+A Memory Book, Part 2  
   
-Later, I visited the Steadfast headquarters on High Isle, where they also house a healing center for the wounded who require more care and longer periods of recovery than can be handled in the portable pavilions. Lord Bacaro has given over a substantial portion of his family estate for the society’s use.  
+The Baron Who Moves Like Heat Lightning! Can you not picture him in your mind? He arcs from one cloud to another, following no predictable path, going where he will at a speed no eye can follow! There! Like that!  
   
-“I believe everyone who has the means should do whatever is in their power to help their fellows,” Lord Bacaro said. “How can anyone of good conscience do less?”  
+But no: I’m fooling myself. Those are only words, a recollection of a description of a vision. The vision itself … is lost to me. Intellectually, I know where and how we fought, who we defeated and when, but the memory of the actual events is foggy, slipping away into the dusk of the forgotten past.  
   
-While all three alliances honor and accept the neutrality and good work of the Society of the Steadfast, that doesn’t mean they can ignore their own defense. I spoke about this with Captain Marguerite, the society’s second-in-command and leader of their contingent of knights.  
+I know, for example, that Heat Lightning fought beside Seht and me when we battled the Borers from Within. I know that Seht and I dueled The Hinged Ones while Heat Lightning overcharged the Null Pistons until they cracked and burst. I know it happened. I just can’t remember the event itself. Or my baron, who won the day for us all.  
   
-“Our pavilions and caravans, full of food, medicine, and other supplies, are tempting targets for bandits and wandering monsters,” the captain explained. “So, while we usually don’t have to worry about the combatants engaged in the ongoing war, we still need to protect ourselves. We don’t have many knights, but the ones in our service are well-trained and brave to a fault. I’m proud to serve as their commander.”  
+Help me, my Tutor. Teach me to remember the Baron Who Moves Like Heat Lightning. I am lonely for that part of me, and want to see it again. At least, that’s how it feels.  
   
-If you are ever in need of assistance, whether due to war or famine or disease, look for the distinctive banners of the Steadfast healing pavilions. “We never turn away anyone who needs help,” said Captain Marguerite.
+A Memory Book, Part 3  
+  
+As Dictated to Tutor Riparius by Fa-Nuit-Hen  
+  
+I have an idea, my Tutor! We shall try something different to remember the Baron who Moves like Wind in the Reeds: we shall reconstruct him by pure logic!  
+  
+Wind: air movement, amorphous but persistent, varying in vector, pressing from every point of the compass, strong, then soft, then strong again.  
+  
+Reeds: tall drying grass stalks, foundations of literature, rattling and swaying, bending before pressure, or vibrating in tones if constrained.  
+  
+Baron: a figure of mastery, a person made for warfare, an aspect of myself that concentrates a body of skill into a skilled body, an incarnation of artistry.  
+  
+Therefore: the Baron who Moves like Wind in the Reeds! We know his components, thus we must remember him complete, in totality, and see him clearly before us! We must ….  
+  
+No. No. It doesn’t work like that.  
+  
+What shall I do, my Tutor? What was it you said about being reminded of what is within, by someone who is without? What was that, Riparius? Say it again.
 
-[출처](https://www.imperial-library.info/content/helpful-steadfast-hand)
+[출처](https://www.imperial-library.info/content/memory-book)
 
 ---
 
-## A Hero’s Weapon
+## A Mother’s Nursery Rhyme
 
-ID: ext-54e0c737d2905069fddc
+ID: ext-58c96dec885a9605ec74
 
-What do you think of when you hear the phrase “A hero’s weapon”? My guess is you don’t think of a dagger or call to mind an image of a soldier huddling behind his shield. No, you think of a fine greatsword, gleaming in the sun, slicing through enemies just as easily as it cuts the air and singing against armored foes sent staggering by the force of its strikes. That is a hero’s weapon.  
+Do you have five children, Mother?  
   
-I have spent long hours observing the soldiers training in the courtyard below my chambers. It is quite clear to me that the strongest, bravest, smartest, and most handsome of the warriors always choose the greatsword (trust me). It balances brute force with skillful maneuvers, and it is neither as clumsy as a hammer or axe nor as easily broken as a smaller sword or bow. The wielder must have immense strength, but he must also have great agility and insight, knowing when to dodge and how to parry blows.  
+I’ve heard that you do.  
   
-Of course there are legendary figures who used other weapons, but you’ll certainly agree that none inspire the same kind of wonder and awe. When you see someone striding into town covered in heavy armor with a greatsword in tow, you know you’re looking at the very face of daring. A greatsword wielder doesn’t fear injury; he charges into battle knowing that foes will flee or suffer grave consequences. You might feel a bit faint as they walk by, overwhelmed by such a valiant sight!  
+Five children? No, tonight I have four!  
   
-One who wields such a sword shows they embody the hero’s approach: to master all aspects of combat. I watch them train their endurance and strength by lifting and running, see them practice moving and dodging. Greatsword wielders train harder than all the other soldiers and are much stronger—that is quite clear.  
+Four children, sweet and pure.  
   
-Not everyone is cut out for heroism, and not every soldier or adventurer will have legends crafted from their deeds. If you aspire to more than just your duty or daily work, and feel the call of battle, then I advise you to set your sights high; aspire to master the greatsword!
+Four and no more!  
+  
+Do you have four children, Mother?  
+  
+I’ve heard that you do.  
+  
+Four children? No, tonight I have three!  
+  
+Three children abed late today.  
+  
+Three and no more!  
+  
+Do you have three children, Mother?  
+  
+I’ve heard that you do.  
+  
+Three children? No, tonight I have two!  
+  
+Two children, quiet and shy.  
+  
+Two and no more!  
+  
+Do you have two children, Mother?  
+  
+I’ve heard that you do.  
+  
+Two children? No, tonight I have one!  
+  
+One child, singing a song.  
+  
+One and no more!  
+  
+Do you have one child, Mother?  
+  
+I’ve heard that you do.  
+  
+One child? Please, I have none!  
+  
+They’re with their father now  
+  
+And live here no more.
 
-[출처](https://www.imperial-library.info/content/heros-weapon)
+[출처](https://www.imperial-library.info/content/mothers-nursery-rhyme)
+
+---
+
+## A Nereid Stole My Husband
+
+ID: ext-7eb183656b2b72d1e615
+
+A Nereid stole my husband  
+  
+My husband a Nereid stole  
+  
+Beware the maids of the seastrand  
+  
+Lest you be the next we console.  
+  
+We strolled blithely along the shore  
+  
+Gathering shells and turning stones  
+  
+When came the voice I now deplore  
+  
+A voice, a song, such soaring tones!  
+  
+At once, my husband quickly sped  
+  
+“Wait!” I cried, “‘Tis a Nereid!”  
+  
+But faster still he pressed ahead  
+  
+Her sweet call could not be gainsaid.  
+  
+Too late, alas, alas, too late  
+  
+I found him swaying, deep in thrall  
+  
+My worst fear sent to me by fate  
+  
+He followed the Nereid’s call.  
+  
+And she, beautiful, cruel, and vain  
+  
+Swam to her sisters, calling this back,  
+  
+“Your husband was no prize to gain;  
+  
+He’s yours once more, Lady Crookback!”  
+  
+A Nereid stole my husband  
+  
+Returning him without delay  
+  
+Poor me, near free from his demands  
+  
+Stuck instead with him since that day!
+
+[출처](https://www.imperial-library.info/content/nereid-stole-my-husband)
+
+---
+
+## A Pocket Guide to Mournhold
+
+ID: ext-6d2de17b7af117fff7be
+
+Welcome, traveler! Welcome to Mournhold, the City of Light and Magic! This pocket guide was prepared with great care for you in the year 2E 481, and as such you can rest assured that it is current and up to date enough to provide for your every need.  
+  
+As the capital of Morrowind, Mournhold is the greatest city in Tamriel. Travelers bring prayers and commerce to our streets, and we are ecstatic to receive you.  
+  
+Please understand that with so many pilgrims gathering every day, you may occasionally encounter outlanders who seem lost, overwhelmed, or even frustrated by the bustle and the layout of the city.  
+  
+To accommodate all visitors, the city registrars have compiled a few useful instructions on places and activities you may enjoy, as well as mandates from the Tribunal you must adhere to. Observe, learn, and enjoy your stay!  
+  
+Reverence: Dunmer from the farthest reaches of Morrowind and beyond arrive each day to pray and show reverence for the Living Gods of the Tribunal. If you are one of our Dunmeri brothers or sisters, you already know the proper ways to show obeisance to the Three Tribunes: Almalexia, Vivec, and Sotha Sil. Sacred shrines throughout the city, including the Tribunal Temple, are ready to receive your donations.  
+  
+If you are a non-Dunmer visiting our city, no doubt by observing our citizens you will pick up the proper modes of obeisance. The safest course of action remains the simplest. Do as the Dunmer do. Say what the Dunmer say. And be mindful of where you walk.  
+  
+Remember, do not panic when you see heretics submitting to the justice of the Tribunal. The registrar would like to assure you that we are well-practiced in dealing with heretics. Your safety remains one of our greatest concerns.  
+  
+The Great Bazaar: Mournhold stands as the mercantile heart of Morrowind. We welcome your business! If this is your first visit to our great city, feel free to ask the city watch for the most direct and safest route to one of our merchant districts.  
+  
+The Great Bazaar, the largest and most heavily patrolled of our markets, should serve as a destination spot during your stay. Make sure to see a seasonal event at one of our outdoor theaters, catch a wandering passion play in a town square, or listen to a public choir in one of our well-groomed parks. And know that every purchase you make grants you a little piece of Mournhold to take with you when you depart.  
+  
+Please, however, be sure to make purchases only from registered and licensed merchants. That is the only way to ensure that proper fees and excises are collected.  
+  
+Plaza Brindisi Dorom: Troubled souls can find peace wandering through the statuary and gardens of Brindisi Dorom. Just as trees and flowers reach toward the sky to seek the nourishment of the sun, the citizens of Mournhold raise their arms in prayer to the wisdom of the Tribunal. May you find solace here!  
+  
+The Tribunal Palace: Many travelers cannot wait to visit the Tribunal Palace, where the Living Gods of Morrowind reside. Please understand that while we welcome your zealous enthusiasm, the Ordinators may take issue with displays of excessive zeal. As always, everything in moderation. If your enthusiasm gets the better of you, Tribunal shrines located throughout the city are available to collect donations to atone for your transgressions.  
+  
+Whatever you seek, you can find it in Mournhold. Our priests, registrars, and city guards will make sure of that. Enjoy your stay!
+
+[출처](https://www.imperial-library.info/content/pocket-guide-mournhold)
+
+---
+
+## A Shallow Pool
+
+ID: ext-786ea4e63667d716dd14
+
+A shallow pool is all I ask  
+  
+Water for roots  
+  
+Mist and shadow  
+  
+Leaves lifting toward the sky  
+  
+Gentle rain is all I need  
+  
+Cloak of night  
+  
+Warmth and rain  
+  
+Murmurs in the darkness  
+  
+A shallow pool is all I want  
+  
+Memories held  
+  
+Old stories told  
+  
+Surrounded by children  
+  
+Who call me their Hist
+
+[출처](https://www.imperial-library.info/content/shallow-pool)
+
+---
+
+## A Tale of Greed
+
+ID: ext-6d52967eab42aff178ec
+
+Let it be known that while my tail twitched and was guided by greed, I was still the one who entertained it. I write this story so that you, dear reader, don’t follow the same sad course. Hopefully, a higher and more noble calling led you to this side of Solstice.  
+  
+I used to run a simple merchant stall in western Solstice, in the village called Shell-Tide. It was quaint and peaceful, a stark contrast to eastern Solstice and its surrounding waters. My problem began when Bar-Thul, another Shell-Tide merchant, somehow acquired a strange, big shell to flaunt at his shop. In a mere tide’s passing, he had the entire village scurrying to him like hatchlings drawn to a warm pool.  
+  
+It was then I desired countless special oddities to attract customers of my own, and what better than something from beyond our usual territory? Only after writing this down do I realize how utterly wrong I was!  
+  
+Escaping Solstice’s tides was quite simple. At first, there’s a calm to them, almost as if they’re beckoning you to reconsider and turn back. However, the farther you sail, the more treacherous the torrents become, and they eventually spit you out into the wider sea. I acquired many special wares and trinkets in my travels across the strange, vast mainland. One was a blue shard buried deep in a ruin. I nearly lost my life retrieving that one! However, sailing back to Solstice would be the closest I came to death thus far.  
+  
+It was as if the island was rejecting me and I was at war with the currents. Fierce winds nearly swept me off the deck and led my ship to constantly graze uncharted reefs and protruding boulders. In hindsight, I should have hired a navigator like other merchants on Solstice, but my selfish desire to boast how I had conquered this journey alone silenced any rational thought.  
+  
+Soon, steering was meaningless. My ship was at the mercy of the tides, which thrust it toward an outcropping that towered over my tiny, battered vessel. In one final effort, I grabbed the rudder, wrapped my tail around it, and pulled, finally managing to free my ship from the current’s grasp and sail to Solstice’s shore. However, during my battle with the sea, I had not noticed I was now on the complete opposite side of the island—in eastern Solstice. No ports existed here, for the waters were even fiercer on this side. I had no choice but to brace for impact and hope I survived.  
+  
+I remember awakening days later, draped in sand beside my wrecked ship. Solstice’s waters had swallowed my riches, almost as if requiring payment for my safe return. Hopelessly, I started for the west, when a strange, blue wall in the middle of the island stopped me. It almost seemed ethereal, yet a sense of dread emitted from it that petrified me.  
+  
+Much has changed since then. Western Solstice almost seems unrecognizable now, like a punishment. Oh, how I wish I could even see that Bar-Thul flaunt his damned shell just one more time!
+
+[출처](https://www.imperial-library.info/content/a-tale-of-greed)
+
+---
+
+## A Trader’s Eye For Fashion
+
+ID: ext-4a9aab78b52c3c940c92
+
+When you’ve traveled all over Tamriel, especially if you’re an established trader like me, you learn more than you might want to know about clothing. Every province—even every city—has its own tastes, styles, and unspoken rules. Since you’ve wisely chosen to purchase this book, you know fashion is more than just a pastime of the idle rich. Understanding which colors and styles mean what and who wears them can help you blend in, get better deals, or even save your life.  
+  
+First, the obvious: if you’re traveling in Cyrodiil during the tumultuous time of this writing, be careful what you wear! Only don the colors of one of the warring alliances if you know for sure the status of your destination—towns and keeps change hands so frequently. Why, once I was porting a cart of fine casks of Dream Madeira from Castle Alessia to Sejanus Outpost, knowing the Dominion forces there would appreciate (and pay well for) a good drink, but by the time I arrived, they’d been driven out by the Pact. Already in view of the outpost, I knew I’d been spotted in my brilliant yellow tabard, so I made no move to flee when a band of Pact soldiers began to approach. Luckily for me, the rowdy Nords who led the assault were in a festive mood, and though they commandeered the wine, they let me leave with my life.  
+  
+You can tell quite a bit about someone by what they wear, of course. The more you know about a potential customer, the better, so pay close attention and you’ll get better deals and have an idea of what someone might be looking for. Did you know that master anglers favor pinkish-purple tones? I’ve been told they wear them because the fish are unable to see that particular shade, making the fishers practically invisible to poor, tasty creatures. Prominent alchemists wear an earthy grey tone supposedly made of a secret Nirnroot concoction that protects the cloth from stains, and high-ranking Mages Guild members wear an unmistakable dusky blue. If you know who you’re dealing with, you know what to sell them!  
+  
+Another good tip is to keep your eyes open for colors and styles you haven’t seen before. If you find someone wearing a bold, iridescent color and ornate armor or dress, find an excuse to talk to them. Anyone who stands out has a great story to tell at the very least, so buy them a drink or entice them with your rarest goods. I once met a dangerous-looking Khajiit clothed head to toe in a shining bronze color I’d never seen. After some friendly banter and a few mugs of aged sweetmilk, he gave up the locations of several dangerous ruins chock-full of Dwarven relics he couldn’t carry out. Quite profitable, if you have the right connections.  
+  
+So there you have it: fashion matters. Pay attention to local customs and dress as you travel, learn who wears what, and profit! There’s much more to learn beyond my advice here, but you’ve got a good start now. Keep your eyes open, wear the right thing, and seek out the bold and you’ll improve your margins substantially!
+
+[출처](https://www.imperial-library.info/content/traders-eye-fashion)
+
+---
+
+## A Trick to the Doors
+
+ID: ext-48af8b9869fbc682ab38
+
+These stupid sealed doors. They have rules to them and you need the tokens. I found an Aspect of Brutality, the essence of Molag Bal. Like I haven’t figured that out after two centuries stuck in this place. Now I have to memorize some riddle or prayer. That vile woman who torments us has three Aspects and seems to go where she pleases. Maybe I can kill her and take them from her. Maybe that’s their purpose. Like everything in here, cruelty and chaos reigns.  
+  
+BRUTALITY is the core of all he is and all he does. He grinds all under his heel.  
+  
+DOMINATION is the left hand of brutality; all is taken until there is no hope, no souls.  
+  
+CONQUEST is the right hand of brutality; no peace is offered nor gentleness considered.  
+  
+CORRUPTION moving in darkness, spreading and weakening those who will be conquered and dominated.  
+  
+DREAD sown by the seeds of his brutality, darken the skies and destroy any light, until there is nothing at the end but darkness.
+
+[출처](https://www.imperial-library.info/content/a-trick-to-the-doors)
+
+---
+
+## A Warning to the Aldmeri Dominion
+
+ID: ext-bb8105680012e8812eff
+
+The overlords of the Aldmeri Dominion are hereby put on notice: renounce your ambitions of aggression and return to your islands and jungles, or the wrath of the Daggerfall Covenant shall fall upon you like a hammer of the Divines.  
+  
+We are well aware that the Aldmeri plan nothing less than a return to the Elven domination of the other races, particularly Men and Orcs. They wish to overturn the legacies of the First and Second Empires and wipe them from history. This we shall not allow. Never again will free Men and Orcs submit to the tyranny of Elven oppression!  
+  
+The arrogant High Elves of Summerset are clearly the driving force behind the Dominion. We of the Covenant have shown, through our acceptance of the Direnni, that we can live with the Elves in peace, but Queen Ayrenn insists on war. Her invasion of the continent of Tamriel is nothing but naked aggression. The Dominion has no territorial rights in Cyrodiil. If the Altmer do not return to Summerset, their invading armies will be destroyed.  
+  
+The Wood Elves and the Khajiit have traded with our Iliac Bay kingdoms for ages, but they’ve made a mistake in allying themselves with the perfidious Altmer of Summerset. Though we of the Covenant wish them no ill will, if they maintain their alliance with the Dominion, they will suffer the same fate at our hands as the High Elves. They must reconsider, or they must face our wrath.
+
+[출처](https://www.imperial-library.info/content/covenant-warning-aldmeri-dominion)
+
+---
+
+## A Werewolf’s Confession
+
+ID: ext-3a75336b8927cbe24492
+
+By Captain Philmont of the Oldgate Lancers, Daggerfall Covenant Army  
+  
+The prisoner called for me today, and I had the dubious privilege of listening to his confession. Separated from him by narrow iron bars that I knew would be insufficient to protect me, I took down his words with a trembling hand.  
+  
+What follows is my best rendering, although he was so soft-spoken that at times I had to guess at the precise words. Nevertheless, I am confident that what follows accurately represents the substance of our conversation:  
+  
+“I accepted this curse at a young age. I was impressionable. My packleader was a family friend and elder in our village. I wanted to be strong, and I relished the strength the curse gave me. I would not have called it a curse, then.  
+  
+“But with youth comes recklessness, and I was not good at disguising what I was. Eventually they discovered my true nature, and I was driven from the village.  
+  
+“My packleader failed me. He did not protect me. He cared too much about his own status to risk it for my sake. I was alone.  
+  
+“Everywhere I went I heard the shouts of crowds, saw the bright torches of the angry mob. I never lingered long in one place before my secret was discovered.  
+  
+“I came to hate them. The superstitious villagers. I came to resent what I couldn’t have. I blamed them for my own recklessness. It was not the curse that plagued me, but the narrow-mindedness of these provincial men and women.  
+  
+“I was afraid to hunt, so I was always hungry, and the hunger turned me feral. It was in this state that I came across them. A family of innocent farmers, just like the innocent farmers that had hounded me from village after village. My vision turned red and I flew into a fury.  
+  
+“At last my hunger was satisfied.  
+  
+“But when the rage subsided and I looked on what I’d done, my stomach turned. This was what all those villagers were afraid of, when they tormented me with their torches and sickles.  
+  
+“That’s when I acknowledged my curse for what it was. I have hunted many years since, afraid to turn myself in, but disgusted with my base impulses.  
+  
+“You don’t realize what a great favor you have done, capturing me.”  
+  
+And then having told his story, the creature, looking very much like a man, begged me to put him out of his misery.
+
+[출처](https://www.imperial-library.info/content/werewolfs-confession)
+
+---
+
+## ABCs for Barbarians
+
+ID: ext-aac04cd0f70f65ca0be9
+
+A is for Atronach.  
+  
+B is for Bungler’s Bane.  
+  
+C is for Comberry.
+
+[출처](https://www.imperial-library.info/content/abcs-barbarians)
+
+---
+
+## Abah’s Landing Merchant Lords
+
+ID: ext-9850d4d2aa0fdbd27e90
+
+Prepared by Tamonir, Master of Secrets for the Queen of Taneth  
+  
+Abah’s Landing Merchant Lords, V. 1  
+  
+Grandiose. Arrogant. Self-important. All these words and more can be used to describe the self-styled merchant lords of Abah’s Landing. The four mercantile houses began to take shape about one-hundred-and-sixty years ago. They began as legitimate businesses, working to elevate Abah’s Landing and create a center for trade and commerce between High Rock and Valenwood. But Hew’s Bane has never been cooperative to those who tried to carve civilization out of the wilderness and, despite their best efforts, each mercantile house slowly became more corrupt as the pursuit of illegal profits quickly outdistanced more above-board enterprises.  
+  
+The four houses emerged as the at-Addin Syndicate, House Vien, the Thazahrr Cartel, and Gurges and Associates. In time, the lords of these four houses controlled almost all of the commerce and gold flowing through the port city – both legitimate trade and illicit activities. Most of their profits came from smuggling, slavery, and other unlawful transactions. The merchant lords supplied Abah’s Landing with goods and services while also establishing lucrative (if modest) trading partnerships in distant lands. As fortunes grew in Abah’s Landing, it wasn’t long before other groups began to take an interest in the area. This began a long and tumultuous relationship between the merchant lords and local criminals and crime bosses. Indeed, rumors of a “hidden” merchant house even began to circulate, and evidence abounds of a covert war being fought among the houses and the so-called “hidden house.” While I have not been able to uncover any details concerning this conflict, the outcome can clearly be seen. Gurges and Associates was shattered and the other three houses were reduced to pale shadows of their former glory as a clandestine power emerged as the controlling interest in the port city.  
+  
+For the last fifteen years or so, the merchant houses took a step back. Oh, they continued to engage in business and provide funds to support city services, including guards and infrastructure, but they no longer showed the swagger and bravado that exemplified their behavior for the decades prior to that time. Though no mayor or merchant house or secret guild took center stage, it appears evident to me that someone or something has influenced Abah’s Landing from the deepest shadows. For this reason, I urge caution when dealing with Hew’s Bane.  
+  
+In my next report, I’ll begin to provide background on each of the prominent merchant houses operating in the area.  
+  
+(NOTE: These dispatches were “recovered” from a Taneth vessel and delivered to an interested party in Abah’s Landing. I have published them so we may all know what our cousins across the bay think of us. -Anonymous)  
+  
+Abah’s Landing Merchant Lords, V. 2  
+  
+The first and, according to the scions of the house, the greatest of the merchant houses of Abah’s Landing is the at-Addin Syndicate. Founded by Afshuur at-Addin, a Redguard male known for both his physical prowess and his disarming charm, the Syndicate grew and flourished for almost one-hundred-and-twenty years. The enterprising Afshuur started out as a simple arms dealer, buying, selling, and trading Redguard swords, Orc axes, and Wood Elf bows. His first customers were the pirates and privateers that used Abah’s Landing as a port of call on their trips to more prominent locations, but it wasn’t long before he was making shipping deals with those very same vessels and their crews.  
+  
+As time passed, the Syndicate added armor and shields to its inventory, seeking to provide a one-stop shopping destination for anyone in need of protection or those interested in sailing into battle. Pirate crews, mercenary bands, and even privateers in service to one flag or another were clamoring for armor and weapons with the Syndicate seal of quality and assurance. These connections led to another lucrative profit line – the Syndicate began serving as a broker for mercenary contracts.  
+  
+The current leader of the Syndicate, Orahan at-Addin, rules the business with an iron fist. Ruthless and brilliant, the Redguard male treats every negotiation as a battle, every competition as a war. In fact, war has become at-Addin’s primary avenue of trade, which allows him to keep the family enterprise profitable even in the wake of the unrevealed calamity that befell each of the merchant houses recently. As my queen is well aware, the machinations of the unknown party I have dubbed “the hidden house” continue to be evident while also continuing to elude me. I will have answers, I just don’t know when I will have them.  
+  
+Orahan at-Addin deals in arms and armaments, mercenary contracts, and smuggling supplies to all sides of any given conflict. He has no trouble selling weapons to the Covenant, armor to the Pact, and vital supplies to the Dominion – as long as each side has the gold to pay for his services. With the sudden absence of the power that had held the merchant houses in check and had even weakened them with a masterful yet secret attack, the Syndicate has begun to make moves to put it back into a position of power in Abah’s Landing.  
+  
+Regardless of other concerns, I recommend caution when dealing with Orahan and his family. But make no mistake, you will have to deal with them if you plan to make a move on Hew’s Bane and Abah’s Landing.  
+  
+(NOTE: These dispatches were “recovered” from a Taneth vessel and delivered to an interested party in Abah’s Landing. I have published them so we may all know what our cousins across the bay think of us. â€”Anonymous)  
+  
+Abah’s Landing Merchant Lords, V. 3  
+  
+It was inevitable. A den of vice and corruption such as Abah’s Landing requires a master to feed its needs. Or, in this case, a mistress. Enter Lady Felice Vien, who arrived in Abah’s Landing from Wayrest with her dignity, a cask full of gold, and the intention to make a place for herself amid the debauchery and depravity of the port city. Very little information concerning the circumstances of her arrival still exists, but I was able to determine it had something to do with her late husband, a prominent noble in Wayrest, and her alleged role in his death.  
+  
+Whatever the situation that sent her to Abah’s Landing, Lady Felice wasted no time purchasing property and establishing the Winsome Welwa, a tavern and inn that soon became the talk of the port. What started as a humble eatery and fest hall began offering other entertainments, entertainments of the less than legal kind. Lady Felice saw that the people moving through Abah’s Landing had particular vices, and she knew that there was gold to be made if she could satisfy their needs.  
+  
+Today, House Vien handles the more intimate and discreet demands of Abah’s Landing, including illicit substances, prostitution, and other vices. The Winsome Welwa, modeled after the infamous Chaste Harpy in Highrock, serves as a brothel and the base of operations for the current head of the house, Lady Ylanie Montaine. Despite the calamity that befell all of the merchant houses, she continues to make a modest profit administering to the illicit needs of pirates, merchant crews, and visiting nobles looking for a bit of adventure. All of the house’s trade is focused on Abah’s Landing, all under the Lady’s discerning eye. She presents a proper, genteel countenance when she strolls the city streets and meets with clients and vacationing dignitaries, but she has a violent, even murderous, temper – though few who have the misfortune to see that side of her live to tell the tale.  
+  
+Secrets are as much Lady Ylanie’s stock and trade as are sex and drugs. She might prove to be a powerful ally in your ambitions, provided you never turn your back on her or partake in any of her tempting pleasures.  
+  
+(NOTE: These dispatches were “recovered” from a Taneth vessel and delivered to an interested party in Abah’s Landing. I have published them so we may all know what our cousins across the bay think of us. â€”Anonymous)  
+  
+Abah’s Landing Merchant Lords, V. 4  
+  
+When the merchant houses of Abah’s Landing were first established, one stood out from the rest. Significant not only for its unusual leader, but for the type of business she decided to trade in. The Khajiit who called herself Thazahrr-ra formed the Thazahrr Cartel to handle the despicable but necessary slave trade moving through the port city. The powerful Thazahrr-ra, one of only a few women in Khajiit history to take the male honorific “ra” as her own, formed a cartel that included Imperials, Bretons, Redguards, and a few Khajiit.  
+  
+How could a Khajiit run a slavery cartel? Quite handily, it turns out. The legend of Thazahrr-ra grew as fast as the fortunes of the Cartel, describing a woman who would sell her own children if the profit was high enough. In addition to processing Argonian and Khajiit slaves on their way to distant lands, the Cartel expanded into the areas of smuggling and buying and selling information. Make no mistake: Being willing to sell your own people makes the Cartel extremely dangerous, as many of their competitors discovered over the years.  
+  
+Today, Thazahrr Goldfang, the sixth Khajiit woman to take the name and title of merchant lord of the Thazahrr Cartel, oversees the house’s businesses. She appears restless and unhappy with the state of the houses in Abah’s Landing, and with the state of her business in general. Whatever occurred to hinder all of the merchant houses seems to have hit the Cartel harder than most. She longs to return her organization to the position of power and prestige it enjoyed in the days before the activities of the “hidden house” so that she can claim the same honorific as her esteemed ancestor.  
+  
+Thazahrr Goldfang bubbles over with anger and ambition. She feels that Abah’s Landing owes her a level of wealth and respect that, frankly, it has no intention of awarding her with. For this reason, she remains frustrated, anxious, and more than a little dangerous. My recommendation? Do not approach the Khajiit slave trader. Not even with a ten-foot pole.  
+  
+(NOTE: These dispatches were “recovered” from a Taneth vessel and delivered to an interested party in Abah’s Landing. I have published them so we may all know what our cousins across the bay think of us. -Anonymous)  
+  
+Abah’s Landing Merchant Lords, V. 5  
+  
+Prepared by Tamonir, Master of Secrets for the Queen of Taneth  
+  
+Now I want to tell you about the sad and unfortunate fate of the fourth major merchant house of Abah’s Landing, an organization I like to call, “the Fallen House.” Gurges and Associates dates back to a powerful and important Imperial family that has all but disappeared from the Cyrodiil records. It came to prominence during the rise of the merchant lords of Hew’s Bane, when Isobel Gurges – known as the Regal Pirate of the Abecean – retired from raiding and pillaging to form a more or less legitimate business.  
+  
+Of course, legitimate business means something very different in a place like Abah’s Landing. Isobel began by making loans with exorbitant interest rates, but it wasn’t long before she took Gurges and Associates into gambling, fencing, laundering, and highjacking (where she had her crews steal cargo from merchant vessels so they could sell it back to those same merchants for an immediate profit).  
+  
+When the merchant house crisis rocked Abah’s Landing fifteen years prior, Gurges and Associates was nearly bankrupted. The tumult since, as well as events leading up to the Three Banners War, all but spelled the doom of the merchant house. Today, the Gurges family has only a handful of blood members and vassals, leaving its current patriarch, Martinus Gurges, a bitter and jealous man. He has plans, however. Plans to rebuild his company, reclaim his fortune and holdings, and once again make the Gurges name something to be honored and respected, if not feared, in Abah’s Landing. He has a long way to go to make his dream come true.  
+  
+(NOTE: These dispatches were “recovered” from a Taneth vessel and delivered to an interested party in Abah’s Landing. I have published them so we may all know what our cousins across the bay think of us. -Anonymous)”  
+  
+Abah’s Landing Merchant Lords, V. 6  
+  
+I wasn’t sure I was ever going to send this to you. Everything it contains is little more than theory and conjecture. I have no proof, you see. No facts to hang before you. All that said, I decided that you had a right to know my thinking on this subject. Better safe than sorry, as the Dark Elves are wont to say.  
+  
+I’ve suggested in my previous reports that there was another group or organization hindering and even actively attacking the merchant houses of Abah’s Landing. I’ve referred to this as the “hidden house,” but I have a better name: The Shadow Conglomerate. Like the vast chasm in front of you in the middle of the night, you can feel the Shadow Conglomerate’s presence looming in the darkness, even though you can’t see it.  
+  
+What is the Shadow Conglomerate? I really don’t know. Every avenue I approach that promises to reveal the truth of the organization instead sends me running in a dozen different directions, searching for the next clue that always seemed to be at least one step out of reach. Here’s what I do know. I believe that the Shadow Conglomerate was formed about forty years ago, suddenly coming on the scene to challenge the merchant lords after a century of only having to deal with themselves. Within twenty-five years, the Shadow Conglomerate had risen to a place of prominence that allowed it to actually cause the merchant houses to step back and concede a portion of their power and influence to this new and secret organization.  
+  
+I believe a battle of some sort took place in the deepest shadows. In this battle, the hidden house emerged victorious while the public-facing merchant houses were grievously wounded and forced off the pedestals they had raised themselves upon. The worse casualty was Gurges and Associates, which stopped being an active concern almost overnight and has since become known as “the Fallen House.”  
+  
+Is the Shadow Conglomerate the true power of Abah’s Landing? I cannot say for certain, and that is what troubles me the most.  
+  
+(NOTE: These dispatches were “recovered” from a Taneth vessel and delivered to an interested party in Abah’s Landing. I have published them so we may all know what our cousins across the bay think of us. -Anonymous)
+
+[출처](https://www.imperial-library.info/content/abahs-landing-merchant-lords)
+
+---
+
+## Adventurers Wanted!
+
+ID: ext-46c24382b431bc7e6448
+
+Due to the volume of requests for aid from our loyal citizens, a system of brokering jobs between those in need and those willing to help has been established. See Unel Darano in the Hall of Justice for more information.
+
+[출처](https://www.imperial-library.info/content/adventurers-wanted)
+
+---
+
+## Aedra and Daedra
+
+ID: ext-44e332e1294c367a7986
+
+The designations of Gods, Demons, Aedra, and Daedra, are universally confusing to the layman. They are often used interchangeably.  
+  
+“Aedra” and “Daedra” are not relative terms. They are Elvish and exact. Azura is a Daedra both in Skyrim and Morrowind. “Aedra” is usually translated as “ancestor,” which is as close as Cyrodilic can come to this Elven concept. “Daedra” means, roughly, “not our ancestors.” This distinction was crucial to the Dunmer, whose fundamental split in ideology is represented in their mythical genealogy.  
+  
+Aedra are associated with stasis. Daedra represent change.  
+  
+Aedra created the mortal world and are bound to the Earth Bones. Daedra, who cannot create, have the power to change.  
+  
+As part of the divine contract of creation, the Aedra can be killed. Witness Lorkhan and the moons.  
+  
+The protean Daedra, for whom the rules do not apply, can only be banished.
+
+[출처](https://www.imperial-library.info/content/aedra-and-daedra)
+
+---
+
+## Alchemy For My Apprentice
+
+ID: ext-18680abb2a9daf961baa
+
+My dear apprentice, you have destroyed far too many of my alchemical stocks to go unpunished. My own master would never abide such abject incompetence! “Can’t take instruction,” she’d say. “Nose in a book,” she’d say. Luckily for your prospects, it is far less costly to write this simple manual than replace yet another cask of rare solvent.  
+  
+If you lose this manual, as I know you will, don’t despair. I have invested your annual stipend toward printing multiple copies of this book and distributing them far and wide. In time, every alchemy station in Tamriel shall have one.  
+  
+Step One: Acquire Solvents  
+  
+You already know that every potion requires a solvent to serve as the potion’s base. If you ever paid attention to my lessons, you’d know the best solvent is clean water from a natural source. The purity of the water determines the quality of the potion, so the best sources are natural springs.  
+  
+I must once again emphasize the need for fresh sources of water. Remember that incident with the healing draught? You cannot simply dip a flask into a stagnant pond, an ocean cove, or downstream from a tannery. I suppose you could find bottles of clean water about town, but it is best to do the work yourself.  
+  
+Incidentally, your “rain barrel solvent” will never work. You are to cease your experiments immediately.  
+  
+Step Two: Acquire Reagents  
+  
+Alchemy is a study of combinations. Where solvents are a potion’s base, reagents are the active ingredients. Each reagent bears four unique traits. I’m disinclined to explain the principles of quadratic amalgamation to you—again—but do try to remember the basics: match like with like.  
+  
+Henceforth, you are to find all reagents in the wilds—not in my laboratory! Remember to look for plants and mushrooms. Plants and mushrooms, only! Under no circumstances should you deviate from this. “Squirrel powder” was an abomination against the Eight.  
+  
+Furthermore, I must remind you to thoroughly clean both mortar and pestle after their use.  
+  
+Step Three: Craft Potions  
+  
+Bring a solvent and two reagents to any alchemy station. Different reagents are required, a fact I must stress once again. Combining bugloss with bugloss gets you nothing but foul-tasting water.  
+  
+When you have what you need, put them together and craft your potion. Reagents with positive trait combinations will produce helpful potions, while those with negative trait combinations can cause harm to whoever is foolish enough to imbibe them. If none of your reagents’ traits match, you lose both solvent and reagents.  
+  
+Experiment with different reagents to see what you can produce. I leave it to you to determine their traits, but will remind you that ingesting a reagent can teach you its most basic trait. Just one—don’t gorge yourself!  
+  
+While I recall of it, did you expect I wouldn’t know you’d finished off the nirnroot? I could hear your teeth singing, and there’s no way to hide a glowing chamberpot.  
+  
+Advanced Alchemical Principles  
+  
+Only when you master the basics of alchemy should you think to complicate the process. Through careful study you can learn to suppress negative traits when crafting potions, craft multiple potions from the simple set of reagents, or even combine additional reagents to produce more powerful potions!  
+  
+But for now, “not poisoning yourself” is the goal I’d most like you to achieve.
+
+[출처](https://www.imperial-library.info/content/alchemy-my-apprentice)
+
+---
+
+## All About Giants
+
+ID: ext-1d77f9a771702bd72329
+
+Observations on the Giantish Peoples of Skyrim from the journals of Bonorion the Wanderer, 2E 569  
+  
+Having explored the snowy reaches of Eastmarch and the Rift, I have had opportunities to observe the strange and rather large people the Skyrim natives call “giants.” The natives of Skyrim are rather large themselves, but the giants that roam the wilderness are twice the size (or more!) of your average thick-necked, broad-shouldered Nord. Here are some observations, recorded for future travelers to this chilly clime:  
+  
+Giants are tall.  
+  
+Giants seem peaceful enough. Until you threaten them. Then they swing huge clubs and launch even a burly Nord over field and stream. The trip probably kills the Nord. That would be my guess, as I’ve never been able to interview a survivor of a giant’s swing.  
+  
+Things that seem to threaten giants include, but are not limited to:  
+  
+Going near them.  
+  
+Threatening their mammoths.  
+  
+Shooting arrows at them.  
+  
+No one that I have spoken to has ever seen a female giant or a young giant. Are giant children taller than Bosmer? Are female giants painfully shy? This calls for additional observation.  
+  
+Giants paint rocks and trees near their encampments. This primitive art probably entices the rare female giantess who might wander by. Or the decorations mark territory. Or the giants simply like to paint. This calls for further study.  
+  
+How does a giant milk a mammoth? VERY carefully. (Note: Nords found this joke to be very amusing. Especially after several mugs of mead.)  
+  
+No Nord I spoke to has ever tasted mammoth cheese. They seem to have no interest in doing so.  
+  
+I shall have to find a way to befriend one of these large creatures. That’s the only way I can think of to get a sample of that wonderful smelling cheese.  
+  
+Note from Jeggord the Learned, 2E 571  
+  
+The Wood Elf Bonorion was found at the base of large hill near the area known as Cradlecrush. Given the condition of his body, that is, every bone broken, it appears that he ignored his own advice. Even the dimmest Nord children know better than to approach a giant. As the nearest giant camp was nearly a league from where his body was found, I would say that Wood Elves can travel great distances when launched by a giant’s club.  
+  
+I have preserved his journal as a cautionary tale for future explorers of Eastmarch, the Rift, and other regions where giants make their homes. Heed its advice, even if its author did not: don’t try to befriend a giant.
+
+[출처](https://www.imperial-library.info/content/all-about-giants)
+
+---
+
+## An Accounting of the Elder Scrolls
+
+ID: ext-beb01bc33a546bcfeb3a
+
+By Quintus Nerevelus  
+  
+Former Imperial Librarian  
+  
+After the supposed theft of an Elder Scroll from our Imperial Library, I endeavored to find any sort of index or catalogue of the Scrolls in our possession so that such situations may be avoided (or at least properly verified) in the future. To my dismay, I discovered that the Moth Priests are notoriously inexact when it comes to the actual physical manifestations of the Scrolls, and had no idea how many they held, or how they were organized. Merely asking the question evoked chuckles, as if a child was asking why dogs cannot talk.  
+  
+I will confess, my jealousy of the ones who can read the Scrolls grows, but I am not yet willing to sacrifice my sight to alleged knowledge. The older Moth Priests I attempt to engage in conversation seem as batty as any other elder who has lost their mind, so I fail to see what wisdom is imparted from the reading.  
+  
+In any case, I set out to create my own index of the Elder Scrolls, in cooperation with the monks. Day by day, we went through the tower halls, with them telling me the general nature of each Elder Scroll so that I might record its location. Always careful never to glimpse the writings myself, I had only their word to go on. I meticulously drew out a map of the chambers, where Scrolls relating to various specific prophecies were located, where particular periods of history were housed. In all, it took nearly a year of plodding, but at last I had rough notes on the entirety of the library to begin my collation.  
+  
+It was here that things began to go amiss. In studying my notes, I found many areas of overlap and outright contradiction. In some cases different monks would claim the same scroll to be at opposite ends of the tower. I know they have no taste for jesting, or else I would suspect I was being made the fool in some game of theirs.  
+  
+I spoke to one of the older monks to relate my concerns, and he hung his head in sorrow for my wasted time. “Did I not tell you,” he coughed, “when you started this that all efforts would be futile? The Scrolls do not exist in countable form.”  
+  
+“I had thought you meant there were too many to be counted.”  
+  
+“There are, but that is not the least of their complexities. Turn to the repository behind you, and tell me how many Scrolls are locked therein.”  
+  
+I ran my fingers over the metal casings, tallying each rounded edge that they encountered. I turned back — “Fourteen,” I said.  
+  
+“Hand me the eighth one,” he said, reaching out his hand.  
+  
+I guided the cylinder into his palm, and he gave a slight nod to acknowledge it. “Now, count again.”  
+  
+Humoring him, I again passed my hands over the Scrolls, but could not believe what I was feeling.  
+  
+“Now… now there are eighteen!” I gasped.  
+  
+The old monk chuckled, his cheeks pushing up his blindfold until it folded over itself. “And in fact,” he said, “there always were.”  
+  
+It was then that I enrolled as the oldest novice ever accepted into the Cult of the Ancestor Moth.
+
+[출처](https://www.imperial-library.info/content/accounting-elder-scrolls)
+
+---
+
+## An Ex-Pirate
+
+ID: ext-bc0bebac45d7c3d0d0c6
+
+Long ago, when Solstice’s people were still figuring out their footing, a fish merchant found an injured pirate floating in the water. He was ragged and bruised, and had bloodstains all over. This was a man unlike any the merchant had ever seen in all his days of sailing.  
+  
+But he believed every sail had its purpose. And the moment bubbles surfaced near the pirate’s nose, the merchant scooped him up and rowed back to his quarters on the island.  
+  
+When the pirate eventually came to, he found his wounds dressed, as was his entire body. He didn’t say much after he had learned what happened to him. It was almost as if he looked disappointed. But for saving him, the pirate said he’d be the merchant’s helper to pay the debt he owed him, and he need only tell him when it’s been fully paid.  
+  
+The pirate was a marvel on a ship. With him, the merchant could travel uncharted waters and gather exotic produce never found on Solstice. How could such a person have been drifting out at sea, the merchant thought? Many had even started flocking to his market stall for the merchant’s produce.  
+  
+And while the pirate never spoke about himself, the merchant never asked. All he wanted was a meal and a bed. What did his past matter to him then? He secretly enjoyed the company, too.  
+  
+One day, the merchant fell terribly ill. A sickness caught from one of their travels and only treatable with foreign medicine. Hope was grim. Most everyone on Solstice had gathered to pay their respects and expected the mysterious pirate to take over his shop now. It’s even what the merchant had wanted.  
+  
+Instead, the man called for an audience with the kinlady of Solstice. He kneeled down and spoke.  
+  
+“One crew that can sail. I’ll teach them the rest. We make for mainland Tamriel and will be back before the month’s end,” he said to her.  
+  
+“I’ve heard of the goodwill you and the merchant have brought to Solstice,” she said. “But you’re asking me to give you Elves who’ve never endured journeys like the one you’re about to embark upon. How can I trust that you’ll return?”  
+  
+Faced with no other choice, the man stood up and met the kinlady’s eye with a sharp yet soft gaze that made her lean forward.  
+  
+“Because I’m the sole survivor of one of the most feared pirate gangs to sail Tamriel’s waters, and I murdered my entire crew. I realized the ruffians that we were and had decided to die with them. But the merchant saved me. Didn’t ask for nothing, and yet I sailed him everywhere. I did this to him.”  
+  
+“The sea runs in my veins. And the island’s given me more than I deserve. Let me save him.”  
+  
+The kinlady asked him to rise and sent her guards to escort him out of her chambers. One pulled out a rope and started to tie his hands together.  
+  
+“Did I ask you to bind him?” the kinlady said with a polite, fierce tone. Squirming, the guard retracted the rope.  
+  
+“Escort the pirate to one of our ships and give him a crew from the College of Sea and Sword. When you return, alive, pirate, I’ll have your judgment decided.”  
+  
+The pirate met her gaze and nodded.  
+  
+While it had been ages since he had commanded a ship and crew, the waves felt smoother than normal. Not because he was back to his old ways, no. Something stronger pushed his sails now.  
+  
+But even time held no mercy for the righteous. While quick, by their return, the merchant had already passed.  
+  
+Defeated, the pirate met with the kinlady for his punishment, but she had other plans. More so, the islanders did, who were asked by her to decide his fate. The crew who sailed with the pirate was also consulted.  
+  
+It was decided the pirate would take charge of the merchant’s shop and lead a crew to expand Solstice’s trading routes. And, in his spare time, he would consult and instruct Elves in the College of Sea and Sword.  
+  
+Astonished and confused, the pirate could only muster one word, “Why?”  
+  
+“You’ve proven to the island not to judge someone for their past. I don’t see why I should, then. You’re not a pirate anymore, are you?”  
+  
+And that is how the Island of Solstice came to welcome travelers from all walks of life. Even ex-pirates.
+
+[출처](https://www.imperial-library.info/content/an-ex-pirate)
+
+---
+
+## An Excerpt from Deities of the Orsimier
+
+ID: ext-f720ade99b8635bd0aaf
+
+The debate rages on though – who is the proper deity of our people? In ancient days, the people would claim Trinimac – the warrior god. Our people are battle-hardened and strong, so it would only make sense, would it not? Trinimac is also considered an Aedra and not a mere prince. Surely one such as the great Trinimac would be the one our people look up to?  
+  
+But debate between the clans has raged on for many years. The popular belief now is that Malacath, a mere Daedric Prince, is truly the father of our people. This side would not be wrong either, in my opinion. Malacath too represents many of the same traits that Trinimac does. Strength, trials of self-worth.  
+  
+So I bring the idea to you – what if these two entities are one in the same? There have been some claims that this is the case, and if you look deep enough, we find evidence that this might actually be the case. See my references notes in the next chapter, and how these two entities line up side by side-.”
+
+[출처](https://www.imperial-library.info/content/excerpt-deities-orsimier)
+
+---
+
+## An Excerpt from Mammoth Meat – So Very Delicious
+
+ID: ext-dec721f688f235b86c8b
+
+And some people wonder if taking down a beast the size of a mammoth would be worth it?  
+  
+Let me tell you, my friends, the deliciousness and elegant taste of Mammoth meat is worth putting your life on the line.  
+  
+The meat is great in multiple ways. Camp fire, stone ovens, or my favorite method — jerky. Nothing can sustain a long adventure and make your fellow companions jealous like taking out and munching on some delicious, spicy, Mammoth jerky.
+
+[출처](https://www.imperial-library.info/content/excerpt-mammoth-meat-so-very-delicious)
+
+---
+
+## An Orc Weaponsmith In Murkmire
+
+ID: ext-4913b5b139085f618152
+
+An Orc Weaponsmith In Murkmire, Part 1  
+  
+I’m just an old Orc weaponsmith, and weapons are my life. When I was just a nub-tusked whelp, I would sneak into the great forges of Orsinium to watch the masters at work. In time I became an apprentice, dragging slag from one end of the forge to the other. Then a journeyman, coated head to toe in soot and sweat. Eventually, I took my place as one of the great forge masters. In all my years of folding iron and hammering steel, I never once considered the possibility that we could use something other than metal to craft our weapons. Sure, we used mammoth leather and the like for binding and lacing. Sometimes the silk-born dandies would demand an inlaid gem or two. But metal was the heart of my craft. Imagine my surprise when I encountered the weaponsmiths here in Gideon.  
+  
+I decided to make the trip when I heard that some Argonian chieftain had opened his borders to outsiders. I figured, why not? I had one last adventure in me, and I had never been to Black Marsh before. What’s the worst that could happen to an old goat like me? Something will kill me? Well, that’s going to happen eventually, so why try to hide?  
+  
+I’d heard tales of these lizard-folk wielding wooden clubs and such in battle. I imagined hissing savages with turtle-shell helmets and crude leather greaves. I don’t mind admitting that I was dead wrong. These Argonians use methods and materials that I never could have imagined, and the results are extraordinary. I’ve been taking notes, but I doubt they’ll do me any good. Half the materials are only found in Black Marsh, and after decades of pounding metal, I doubt these old mitts would be worth a damn on the finer details. Still, a crafter who refuses to study isn’t worth spit in a snow-storm. So here I am. I thought I was coming to teach, but I’ve got a lot to learn.  
+  
+An Orc Weaponsmith In Murkmire, Part 2  
+  
+Another day in Gideon. The local weaponsmith, a wily old Argonian named Shukesh, is a girl after my own heart. She’s stoic, dedicated, and a little ornery. I told her she must be half-orc. She gave me one of those forced Argonian smiles that could either mean genuine amusement or total lack of approval. It’s damn near impossible for me to tell the difference. When I first met her, she was working on a “tsojei” sword, and I use the word “sword” loosely. I honestly couldn’t tell you what kind of weapon it actually is. It’s like a club and a sword had a pup, then kicked half its teeth out and shaved down the others into fangs. I should probably be a little more specific, eh?  
+  
+The Argonian smith starts with a length of wood—anywhere from the length of her arm to the length of her tail. She spends a week or so shaving down the wood until she achieves a paddle shape. (I saw a few works-in-progress and mistook them for boat oars.) A lot of Argonians might be content to just stain the wood and move on to the next step, but old Shukesh is a master. I can tell you, what she lacks in personality, she makes up for in patience. She uses bones and fine-cut obsidian chisels to carve ornate patterns into the face of the paddle. Most of these patterns form abstract animal shapes, alligators and such. But a few of the patterns were kind of disturbing. One pattern in particular set my skin to crawl. It appeared to be a dark-stained skull with a series of ridges and spines. She said it was for a “special customer.” Whoever wants that pattern, I don’t want to meet them!  
+  
+Once the wood is cured, stained, and polished, Shukesh sets it aside and begins to work on the next step in the task: stone-carving. According to Shukesh, all kinds of stones are suitable for use in the process, but she prefers to work with obsidian. Raw stones are chipped down into sharpened, knife-blade shapes, from crude squares to evenly shaved fangs. Once these “teeth” are hewn, she sets them into the paddle using wood or bone pegs and boiled depassa gum.  
+  
+Depassa gum is a strange gunk, let me tell you. It smells like an echatare’s armpit, but adheres like a paste to wood and stone. Once it hardens, it’s damn near impossible to break, but it stays light and flexible like an ironwood sapling. I told Shukesh that it reminded me of a mammoth gesso that I sometimes use when fixing leather. She just gave me one of her characteristic croaks and said, “Easier to hunt a tree than a mammoth, yes?” It’s hard to argue with that logic.  
+  
+Once the teeth are set in place, the smith wraps the handle in strips of leather or bark, creating a grip that won’t slip no matter how slick it gets with rain or blood. Now the weapon is complete, without the use of any metal. All told, it took her the better part of three weeks to finish the piece.  
+  
+The most remarkable thing about the tsojei isn’t even the weapon (which is marvelous in its own right.) It’s all the skills that go with it. Shukesh isn’t just a smith. She’s a woodcarver, an alchemist, a stonecutter, and a weaver. Any one of those trades can take a lifetime to master and she demonstrates proficiency in all four. Almost makes me ashamed. Maybe I should take up woodcarving in my spare time. Ha! Like that’ll happen. Can’t teach an old tusker new tricks, after all.  
+  
+An Orc Weaponsmith In Murkmire, Part 3  
+  
+An Argonian “forge” is a strange place, let me tell you. I guess it’s more of a workshop than a forge. None of the familiar sounds or smells of my forge back home greeted me when I entered the place. No ringing anvils, no coal-smoke, no hissing quench troughs. They’re just eerily quiet and packed with chisels, axes, wooden buckets full of weird liquids, piles of rocks, dead birds, live slugs …. On and on it goes. For the first week or so, I felt very uneasy in Shukesh’s workshop. She’s not exactly a big talker. The only sounds she made for the first few days were sudden and irritated hisses when something didn’t go exactly as she had planned. She also sang a few old Jel folksongs, although I use the term “sang” in the loosest manner possible. The first time I heard it, I thought she was murdering one of the multitude of lizards crawling all over everything. The place is infested with them!  
+  
+Eventually Shukesh started talking to me. At first, her comments were mostly about my disgusting lack of scales or my round, beady eyes. Once she started making fun of me, I knew we had become fast friends.  
+  
+One of the first secrets Shukesh shared with me was the art of “slug shaping.” Apparently Black Marsh is chock full of slugs. Back home we don’t see a lot of the slimy little creatures, but when we do, we tend to squash them and then wipe them off our boots in disgust. Here in Gideon, however, everything has a purpose. Most slugs aren’t good for anything but eating. (Or so I’ve heard. I won’t eat anything that doesn’t stand on four legs.) But apparently some slugs have surprising applications. One of these special slugs, called a “jassa red,” has an unusual defense mechanism. When threatened, it secretes acidic mucous from various orifices. I’m not sure what good that does when something tries to eat it, but the acidic mucous is useful for Argonian weaponsmiths.  
+  
+When Shukesh wants to incorporate a natural motif into her work, she places the slugs onto the wood or stone and repeatedly flashes a piece of flint directly behind them. Adjusting the position of the flint pushes the slugs in different directions. As the slugs move across the wood or stone, they leave behind a thin layer of the acidic mucous, creating long, smooth channels in the surface of the wood or stone. Moreover, the mucous interacts with different materials in different ways. Depending on the material, the mucous changes the pigmentation it touches, ranging from a muted umber to a phosphorescent yellow.  
+  
+Shukesh let me try my hand at it (on a piece of worthless broken lumber). Not surprisingly, I was all thumbs. I created a tangled mess of grooves—all dyed a sickly, mottled green. When I threw the flint down in disgust, I think Shukesh laughed at me. She insisted it was just a cough, and then told me my slug shaping was utter “rajpu.” I didn’t try to argue, as I wasn’t sure what rajpu was exactly, although I could hazard a good guess. Anyway, I’ll take a hammer and tongs over a slimy ball of burning snot any day.
+
+[출처](https://www.imperial-library.info/content/orc-weaponsmith-murkmire)
+
+---
+
+## An Overview of Gods and Worship
+
+ID: ext-5ac16b9c4bdcf9d06afc
+
+Editor’s Note:  
+Brother Hetchfeld is an Associate Scribe at the Imperial University, Office of Introductory Studies  
+  
+Gods are commonly judged upon the evidence of their interest in worldly matters. A central belief in the active participation of Deities in mundane matters can be challenged by the reference to apparent apathy and indifference on the part of Gods during times of plague or famine.  
+  
+From intervention in legendary quests to manifestations in common daily life, no pattern for the Gods of Tamriel activities is readily perceived. The concerns of Gods in many ways may seem unrelated or at best unconcerned with the daily trials of the mortal realm. The exceptions do exist, however.  
+  
+Many historical records and legends point to the direct intervention of one or more gods at times of great need. Many heroic tales recount blessings of the divinity bestowed upon heroic figures who worked or quested for the good of a Deity or the Deity’s temple. Some of the more powerful artifacts in the known world were originally bestowed upon their owners through such reward. It has also been reported that priests of high ranking in their temples may on occasion call upon their Deity for blessings or help in time of need. The exact nature of such contact and the blessings bestowed is given to much speculation, as the temples hold such associations secret and holy. This direct contact gives weight to the belief that the Gods are aware of the mortal realm. In many circumstances, however, these same Gods will do nothing in the face of suffering and death, seeming to feel no need to interfere. It is thus possible to conclude that we, as mortals, may not be capable of understanding more than a small fraction of the reasoning and logic such beings use.  
+  
+One defining characteristic of all Gods and Goddesses is their interest in worship and deeds. Deeds in the form of holy quests are just one of the many things that bring the attention of a Deity. Deeds in everyday life, by conforming to the statutes and obligations of individual temples are commonly supposed to please a Deity. Performance of ceremony in a temple may also bring a Deity’s attention. Ceremonies vary according to the individual Deity. The results are not always apparent but sacrifice and offerings are usually required to have any hope of gaining a Deity’s attention.  
+  
+While direct intervention in daily temple life has been recorded, the exact nature of the presence of a God in daily mundane life is a subject of controversy. A traditional saying of the Wood Elves is that “One man’s miracle is another man’s accident.” While some gods are believed to take an active part of daily life, others are well known for their lack of interest in temporal affairs.  
+  
+It has been theorized that gods do in fact gain strength from such things as worship through praise, sacrifice and deed. It may even be theorized that the number of worshippers a given Deity has may reflect on His overall position among the other Gods. This my own conjecture, garnered from the apparent ability of the larger temples to attain blessings and assistance from their God with greater ease than smaller religious institutions.  
+  
+There are reports of the existence of spirits in our world that have the same capacity to use the actions and deeds of mortals to strengthen themselves as do the Gods. The understanding of the exact nature of such creatures would allow us to understand with more clarity the connection between a Deity and the Deity’s worshipers.  
+  
+The implication of the existence of such spirits leads to the speculation that these spirits may even be capable of raising themselves to the level of a God or Goddess. Motusuo of the Imperial Seminary has suggested that these spirits may be the remains of Gods and Goddesses who through time lost all or most of their following, reverting to their earliest most basic form. Practioners of the Old Ways say that there are no Gods, just greater and lesser spirits. Perhaps it is possible for all three theories to be true.
+
+[출처](https://www.imperial-library.info/content/overview-gods-and-worship)
+
+---
+
+## Ancestors and the Dunmer (Abridged)
+
+ID: ext-376f66790ea1492415f9
+
+Ghosts Walk Among Them  
+  
+The departed spirits of the Dunmeri, and perhaps those of all races, persist after death. The knowledge and power of departed ancestors benefit the bloodlines of Dunmeri Houses. The bond that forms between living family members and their immortal ancestors is partly blood, partly ritual, partly volitional. Anyone brought into a house through marriage is bound through ritual and oath into the clan, gaining communication and benefits from the clan’s ancestors; however, his access to the ancestors is less than that of his offspring, and he still retains some access to the ancestors of his own bloodline.  
+  
+The Family Shrine  
+  
+Each residence has a family shrine. In poorer homes, it may be no more than a hearth or alcove where family relics are displayed and venerated. In wealthy homes, a room is set aside for the use of the ancestors. This shrine is called the Waiting Door, and represents the door to Oblivion.  
+  
+Here the family members pay their respects to their ancestors through sacrifice and prayer, through oaths sworn upon duties, and through reports on the affairs of the family. In return, the family may receive information, training, and blessings from the family’s ancestors. The ancestors are thus the protectors of the home, and especially the precincts of the Waiting Door.  
+  
+The Mortal Chill  
+  
+Spirits do not like to visit the mortal world, and they do so only out of duty and obligation. Spirits tell us that the otherworld is more pleasant, or at least more comfortable for spirits than our real world, which is cold, bitter, and full of pain and loss.  
+  
+Mad Spirits  
+  
+Spirits that are forced to remain in our world against their will may become mad spirits, or ghosts. Some spirits are bound to this world because of some terrible circumstances of their death, or because of some powerful emotional bond to a person, place, or thing. These are called hauntings.  
+  
+Some spirits are captured and bound to enchanted items by wizards. If the binding is involuntary, the spirit usually goes mad. A willing spirit may or may not retain its sanity, depending on the strength of the spirit and the wisdom of the enchanter.  
+  
+Some spirits are bound against their wills to protect family shrines. This unpleasant fate is reserved for those who have not served the family faithfully in life. Dutiful and honorable ancestral spirits often aid in the capture and binding of wayward spirits.  
+  
+These spirits usually go mad, and make terrifying guardians. They are ritually prevented from harming mortals of their clans, but that does not necessary discourage them from mischievous or peevish behavior. They are exceedingly dangerous for intruders. At the same time, if an intruder can penetrate the spirit’s madness and play upon the spirit’s resentment of his own clan, the angry spirits may be manipulated.  
+  
+Oblivion  
+  
+The existence of Oblivion is acknowledged by all Tamriel cultures, but there is little agreement on the nature of that otherworld, other than it is the place where the Daedra live, and that communication and travel are possible between this world and Oblivion through magic and ritual.  
+  
+The Dunmer do not emphasize the distinction between this world and Oblivion as do the human cultures of Tamriel. They regard our world and the otherworld as a whole with many paths from one end to the other rather than two separate worlds of different natures with distinct borders. This philosophical viewpoint may account for the greater affinity of Elves for magic and its practices.  
+  
+Foreign Views of Dunmeri Ancestor Worship and Spirit Magic  
+  
+The Altmeri and Bosmeri cultures also venerate their ancestors, but only by respecting the orderly and blissful passage of these spirits from this world to the next. That is, Wood Elves and High Elves believe it is cruel and unnatural to encourage the spirits of the dead to linger in our world. Even more grotesque and repugnant is the display of the bodily remains of ancestors in ghost fences and ash pits. The presentation of fingerbones in a family shrine, for example, is sacrilegious to the Bosmer (who eat their dead) and barbaric to the Altmer (who inter the ashes of their dead).  
+  
+The human cultures of Tamriel are ignorant and fearful of Dark Elves and their culture, considering them to be inhuman and evil, like Orcs and Argonians, but more sophisticated. The human populations of Tamriel associate Dunmeri ancestor worship and spirit magic with necromancy; in fact, this association of the Dark Elves with necromancy is at least partly responsible for the dark reputation of Dunmer throughout Tamriel. This is generally an ignorant misconception, for necromancy outside the acceptable clan rituals is a most abhorrent abomination in the eyes of the Dunmer.  
+  
+The Dark Elves would never think of practicing sorcerous necromancy upon any Dark Elf or upon the remains of any Elf. However, Dark Elves consider the human and Orcish races to be little more than animals. There is no injunction against necromancy upon such remains, or on the remains of any animal, bird, or insect.
+
+[출처](https://www.imperial-library.info/content/ancestors-and-dunmer-abridged)
+
+---
+
+## Anchor Status Report
+
+ID: ext-25825a65e370444f22de
+
+Arboretum:  
+  
+The Anchor has been emitting a low creak. Possible causes include weaking of primary chain rivet. Recommend aggressive sacrifice regimen at the site to reinforce mundus viability.  
+  
+Nobles District:  
+  
+Anchor connecting strong and holding. Reports of portal flicker remain. Inspection of Coldharbour egress strongly advised.  
+  
+Market District:  
+  
+Mortal tampering continues. Received multiple reports of men and mer weilding the power of Molag Bal’s blessing. Humbly suggest additional Daedra be deployed to protect the Unholy Seal.  
+  
+-Chief Enginer Gelagoth
+
+[출처](https://www.imperial-library.info/content/anchor-status-report)
+
+---
+
+## Ancient Tome
+
+ID: ext-8f12d92f36defb90f1c2
+
+<This ancient tome details a method of creating Daedric anchors that draw Daedra to a given area. It also mentions a method of keying anchors to a runestone.>  
+  
+<Runestones keyed in this manner can be used to detect and destroy the anchors.>
+
+[출처](https://www.imperial-library.info/content/ancient-tome)
+
+---
+
+## Annexation Note
+
+ID: ext-109384e7b04eaf2e2b5b
+
+The time for planning has ended. The creatures have grown strong, our people thirst for change, and the trees have reached the Strid Vale. It’s time to act.  
+  
+The forest shall be called the Dawnwood, and let this new movement be called the Dawnway.  
+  
+“The roots of the Dawnway are all around us.” I want those words on everyone’s lips before week’s end.
+
+[출처](https://www.imperial-library.info/content/annexation-note)
+
+---
+
+## Antecedents of Dwemer Law
+
+ID: ext-d8406e2c28eb802eb863
+
+(This book is a historical account of the development of Dwemer law and custom from its roots in High Elven culture.)  
+  
+In short, so far as I am able to trace the order of development in the customs of the Bosmeri tribes, I believe it to have been in all ways comparable to the growth of Altmeri law. The earlier liability for slaves and animals was mainly confined to surrender. As in the Sumerset Isles, this later became compensation.  
+  
+What does this matter for a study of our laws today? So far as concerns the influence of the Altmeri law upon our own, especially the Altmeri law of master and servant, the evidence of this is to be found in every judgment which has been recorded for the last five hundred years. It has been stated already that we still repeat the reasoning of the Altmeri magistrates, empty as it is, to the present day. I will quickly show how Altmeri custom can be followed into the courts of the Dwemer.  
+  
+In the laws of Karndar Watch (P.D. 1180) it is said, “If one who is owned by another slays one who owns himself, the first owner must pay the associates of the slain three fine instruments and the body of the one who his owned.” There are many other similar citations. The same principle is extended even to the case of a centurion by which a man is killed. “If at the common workbench, one is slain by an Animunculi, the associates of the slain may disassemble the Animunculi and take its parts within thirty days.”  
+  
+Consider what Dhark has mentioned concerning the rude beasts of the Tenmar forests. “If a marsh cat was killed by an Argonian, his family were in disgrace till they retaliated by killing the Argonian or another like it. Furthermore, if a marsh cat was killed by a fall from a tree, his relatives would take their revenge by toppling the tree, shattering its branches, and casting them to every part of the forest.”
+
+[출처](https://www.imperial-library.info/content/antecedents-dwemer-law)
+
+---
+
+## Anthology of Abodes Available for Acquisition
+
+ID: ext-b8fb78420c3dcb9ccc6e
+
+(note to ed., This is my final draft! If another house comes on market, you will have to request a new edition!)  
+  
+I have detailed the general location and property worth of most of the saleable homes and rooms in Tamriel. To seek out property without such a guide is a firm misstep. But fear not, for I have done the heavy lifting for you!  
+  
+For the thrifty, one can seek out a modest inn room. These three were recently seen for sale, and as their owners are frequently poor, may be for sale again.  
+  
+Mara’s Kiss Public House in Vulkhel Guard, Auridon  
+  
+The Rosy Lion in Daggerfall, Glenumbra  
+  
+The Ebony Flask Inn Room in Ebonheart, Stonefalls  
+  
+If one has more than a few coins to rub together, these apartments are more than suitable for the vagrant turned respectable citizen.  
+  
+Barbed Hook Private Room in Skywatch, Auridon  
+  
+Sisters of the Sands Apartment in Sentinel, Alik’r Desert  
+  
+Flaming Nix Deluxe Garret in Mournhold, Deshaan  
+  
+The following properties are for serious buyers only. Letters of credit will not be accepted for their sale, no matter whose cousin you know.  
+  
+Black Vine Villa  
+  
+Humblemud  
+  
+Snugpod  
+  
+Captain Margaux’s Place  
+  
+Kragenhome  
+  
+Cyrodilic Jungle House  
+  
+Moonmirth House  
+  
+Autumn’s-Gate  
+  
+Hammerdeck End  
+  
+Twin Arches  
+  
+If you’ve gathered more than a table and chair, you may wish to examine these properties.  
+  
+Cliffshade  
+  
+The Ample Domicile  
+  
+Bouldertree Refuge  
+  
+Ravenhurst  
+  
+Velothi Reverie  
+  
+Domus Phrasticus  
+  
+Sleek Creek House  
+  
+Grymharth’s Woe  
+  
+Mournoth Keep  
+  
+House of the Silent Magnifico  
+  
+Nobility and the like would find these properties the most acceptable, as they usually provide quarters for servants or livestock.  
+  
+Mathiisen Manor  
+  
+Stay-Moist Mansion  
+  
+The Gorinir Estate  
+  
+Gardner House  
+  
+Quondam Indorilia  
+  
+Strident Springs Demesne  
+  
+Dawnshadow  
+  
+Old Mistveil Manor  
+  
+Forsaken Stronghold  
+  
+Hunding’s Palatial Hall  
+  
+I have only seen these properties from the outer gates, as most of their owners are of a private disposition. A purchaser would find themselves within a new echelon of society in a fortnight.  
+  
+Serenity Falls Estate  
+  
+Daggerfall Overlook  
+  
+Ebonheart Chateau
+
+[출처](https://www.imperial-library.info/content/anthology-abodes-available-acquisition)
 
 ---
 

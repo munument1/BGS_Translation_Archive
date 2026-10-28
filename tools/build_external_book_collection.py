@@ -27,8 +27,21 @@ def build(root):
         if item.get('coverage')!='available_source_text' or not item.get('body_ko'):
             raise ValueError('Expected a translation of available source text: '+item['uid'])
         translations[item['uid']] = item
+    eso_path=folder/'eso_korean_imports.json'
+    eso_imports=json.loads(eso_path.read_text(encoding='utf-8')) if eso_path.exists() else {'entries':[]}
+    for item in eso_imports['entries']:
+        if item['uid'] in translations:
+            raise ValueError('Existing Korean translation must be preserved: '+item['uid'])
+        if item['game'] not in ('eso','eso_journals') or item.get('coverage')!='existing_game_record' or not item.get('body_ko'):
+            raise ValueError('Invalid ESO game text import: '+item['uid'])
+        translations[item['uid']]=item
     groups = defaultdict(list)
-    for item in data['entries']:
+    source_entries=list(data['entries'])
+    existing_ids={r['uid'] for r in source_entries}
+    for item in eso_imports['entries']:
+        if item['uid'] not in existing_ids:
+            source_entries.append(dict(uid=item['uid'],game=item['game'],title_en=item['title_en'],body_en='',source_url=item['source_url'],source_sha256=None))
+    for item in source_entries:
         if item['game'] not in LABELS:
             raise ValueError('Unexpected game: '+item['game'])
         translated = translations.get(item['uid'])
@@ -40,6 +53,15 @@ def build(root):
                    needs_source_review=True)
         if translated:
             row.update(title_ko=translated['title_ko'],ko=translated['body_ko'],content_language='ko',status='translated')
+            if translated.get('coverage')=='existing_game_record':
+                if translated['source_sha256']!=item['source_sha256']:
+                    raise ValueError('ESO reference source has changed: '+item['uid'])
+                row.update(translation_coverage='existing_game_record',needs_translation_review=True,
+                           eso_book_id=translated['eso_book_id'],translation_source=translated['translation_source'],
+                           translation_source_url=translated['translation_source_url'],
+                           translation_source_sha256=eso_imports['source']['file_sha256'],
+                           translation_notes='기존 ESO 한국어 게임 본문. 영문 서고 편집본과 판본·구성 차이가 있을 수 있습니다.',
+                           has_runtime_parameters=translated['has_runtime_parameters'],has_embedded_art=translated['has_embedded_art'])
             if translated.get('coverage')=='available_source_text':
                 if translated.get('source_sha256')!=item['source_sha256']:
                     raise ValueError('Translation source has changed: '+item['uid'])
@@ -57,7 +79,7 @@ def build(root):
         if not target.is_relative_to(folder.resolve()):
             raise ValueError('Export outside docs/books')
         results.append(export(folder,game,groups[game],language_label='원문·번역',game_label=label,
-                              source_note='영문 원문을 우선 수록했습니다. 미번역 서적의 판본·발췌 여부는 번역 전에 확인하세요.'))
+                              source_note='기존 ESO 한국어 게임 본문을 연결했으며 나머지는 확보된 영문으로 제공합니다. 판본·책 ID 연결 범위는 ESO_KOREAN_IMPORT.md를 확인하세요.' if game in ('eso','eso_journals') else '영문 원문을 우선 수록했습니다. 미번역 서적의 판본·발췌 여부는 번역 전에 확인하세요.'))
         for row in groups[game]:
             body = row.get('ko') or row['en']
             catalog.append(dict(uid=row['book_id'],game=game,title=row['title_ko'] or row['title_en'],
@@ -65,6 +87,9 @@ def build(root):
                                 path=game+'/'+row['file_path'],source=row['source_ref'],
                                 preview=' '.join(body.split())[:185],length=len(body),
                                 content_language=row['content_language'],translation_status=row['status']))
+            if row.get('translation_coverage')=='existing_game_record':
+                for key in ('translation_coverage','needs_translation_review','eso_book_id','translation_source','translation_source_url','translation_notes','has_runtime_parameters','has_embedded_art'):
+                    catalog[-1][key]=row[key]
             if row.get('translation_coverage')=='available_source_text':
                 catalog[-1].update(translation_coverage=row['translation_coverage'],
                                    needs_translation_review=row['needs_translation_review'])

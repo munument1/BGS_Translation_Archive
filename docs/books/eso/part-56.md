@@ -1,1256 +1,1147 @@
 # The Elder Scrolls Online 원문·번역 서적 합본
 
-수록 서적: 2,482건. 영문 원문을 우선 수록했습니다. 미번역 서적의 판본·발췌 여부는 번역 전에 확인하세요.
+수록 서적: 2,528건. 기존 ESO 한국어 게임 본문을 연결했으며 나머지는 확보된 영문으로 제공합니다. 판본·책 ID 연결 범위는 ESO_KOREAN_IMPORT.md를 확인하세요.
 
 ---
 
-## The Worthy Ar-Azal, His Deeds
+## 카른와스텐 시간의 서
 
-ID: ext-7c011f99f74d1ca6628e
+ID: ext-f7b37b5aeabbd8b9a396 / ESO 책 ID: 8412 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-From “The History of Histories, As Told to Young Prince Fahara’jad”  
+바다 슬로드를 섬기며  
+라바리온 저, 전 수중 악의 새피아크  
   
-Know then, O Prince, that the Phyllocid Dynasty did rule in Hammerfell while e’er the province was incorporate in the Second Empire, and of this line of kings, though some were wise and some were foolish, all were noble. And the last of the line, High King Ar-Azal, was most noble of all, for he it was who, for a time, brought an end to the strife of brother against brother, of Crown against Forebear.  
+서머셋의 선량한 머들이여, 그대들의 망설임을 나는 이해한다. 얼마 전까지만 해도 나는 힘찬 퀼을 들어 심해의 위험에 대해 썼노라. 바다 슬로드를 불결하고, 야심 넘치며, 슬러그 같다 불렀거니와. 잘생긴 크'토라가 가져다준 명확함으로 내가 얼마나 틀렸는지 깨닫기란 이 얼마나 쉬운 일인가.  
   
-How did this come to be? Hearken, and I shall tell the tale.  
+울'보르 쿠스에서 온 우리의 새 주인들이 총독으로서 자리를 잡은 지금, 나는 기록을 바로잡아야 한다는 강한 필요성을 느꼈노라. 실로 말하건대, 수 세기에 걸친 우리 문명은 텅 비어 있었으니 — 될 수 있었던 것, 이루어질 수 있었던 것의 껍데기에 불과하였다. 이제 우리보다 위에 선 자들의 단단하고 물갈퀴 달린 손가락이 앞으로 나선 지금, 나는 워터스 엣지에서 그들을 맞이하고, 그들의 촉촉한 팔다리를 내 손으로 움켜쥐며, 이 순간 — 우리 문화의 정점 — 을 원활히 나아가게 하기 위해 우리가 할 수 있는 바를 전할 수 있음을 깊이 자랑스럽게 여긴다.  
   
-Upon the passing of Ja-Fr, the estimable father of the estimable Ar-Azal, the Prince of Hegathe thereupon assumed the Throne of Hegathe, and wore the Diadem of Diagna, and bore the title High King of Hammerfell. And all the nobles of Hammerfell sojourned to Hegathe to pay him obeisance. But the new High King, though so youthful as to be barely bearded, was in no wise a fool, and knew full well that his nobles’ show of faithfulness was like unto a cloud, apparent but bereft of substance. For the Forebear nobles liked him not insomuch as Ar-Azal was a Crown, and the Crown nobles mistrusted him insomuch as his father had not crushed the Forebears. And Ar-Azal was in a quandary, for he must needs rule Hammerfell as High King, and yet his support was as weak as a woman who has just given birth.  
+정신의 재형성  
   
-So the Worthy Ar-Azal gazed from his High Tower upon the azure Abecean, and prayed many prayers, and thought many thoughts. And presently he thought of the Admirable Zaqeeb, his tutor and mentor, a Priestess of Satakal and a sage of renown. And he went to the Temple and spake unto the Admirable Zaqeeb, saying that he could not solve the riddle of how to reconcile the Crowns and the Forebears. And the Admirable Zaqeeb gave him a libation, saying, “Drink this tonight, O King, and dream.” And taking the libation, the Worthy Ar-Azal retired in gratitude, and did as he was bade.  
+이제 새피아크가 사니토리움의 남색 로브를 걸치고, 우리 교단이 정신을 빚는 자의 망토를 이어받았음을 자랑스럽게 선언하노라. 우리는 서머셋의 동료 영혼들인 그대들 모든 것을 섬기기 위해 살아간다. 의사가 상처에서 파편을 뽑아내듯, 어린 시절부터 쌓인 묵은 비탄을 걷어내고, 독이 되는 관계를 마음에서 지워내며, 상상 속 스트레스를 손쉽게 걷어낼 수 있노라.  
   
-And that night the Worthy Ar-Azal dreamed a dream of Satakal the World-Snake, who came to him in the guise of a Snakehead Potentate. And the Potentate did homage unto the High King, for he said it was given only to the Worthy Ar-Azal to solve this riddle. And the answer, he said twice, speaking once with each tongue, was to be found at the Shrine of Tava, he being a Divine who received the veneration of both Forebears and Crowns.  
+육체의 재형성  
   
-Then Ar-Azal heard the cry of a Goshawk, which bird is sacred to Tava, and he awoke, and it was the dawn of the day. And he made haste to the Shrine of Tava in Hegathe, wherein is the Fresco of the Goshawk, which depicts Tava in his nest with his mate. And lo, where once there was one mate depicted in the nest, now there were two, the second mate agleam in the morning light. And Ar-Azal said, “Truly the Divines have shown me the answer. For has not the greatest Forebear Grandee, Ebrahim of Sentinel, a fair and lissome daughter, Fereshtah? And has not the greatest Crown Grandee, Murahd of Rihad, a fierce and clever daughter, Arlimahera?”  
+어쩌면 정신만으로는 부족할지도 모른다. 어쩌면 완전히 새로운 그대 자신을 원할지도 모른다. 웨렌킨 만에서 활기 넘치는 비'코르겐이 육체 조형의 훌륭한 마법을 부린다. 야그라 견습생들도 날마다 그 곁에서 함께 수련하며 그 기술을 익혀 나간다. 더 날씬한 몸매를 원하는가? 아니면 본토와의 다가오는 전쟁 전선에서 쓸 새로운 무시무시한 발톱을? 그들의 솜씨라면 어떤 도전이든 거뜬히 해낼 수 있다.  
   
-And that concludes, O Prince, my tale of Ar-Azal, your Worthy Great-Grand-Uncle. For I know that you are quick of wit, and will work out for yourself how the High King solved his riddle.
+그림자의 재형성  
+  
+충분한 마법적 소양을 갖춘 자라면, 클라우드레스트로의 순례를 권하고 싶노라. 아름다운 즈마자는 이미 상당수의 강력한 마법사들을 그림자의 길로 이끌었으며, 서둘러 행동한다면 다음 제자 집단에 합류할 수 있을 것이다.  
+  
+이것은 우리 민족의 영광과 패권을 향한 긴 여정의 첫걸음에 불과하다. 그 길 위에서 기지를 잃지 말라. 이 예사롭지 않은 시대에 섬에게 가장 불필요한 것은 무정부주의자와 멸망을 떠들어대는 자들이니. 새로 태어난 서머셋에 경배를! 슬로드에 경배를!
 
-[출처](https://www.imperial-library.info/content/worthy-ar-azal-his-deeds)
-
----
-
-## Thenephan’s Mysteries of Mead
-
-ID: ext-0de9146e49fa2203d4fb
-
-There’s a reason I was kicked out of Daggerfall, chased out of Elden Root, and banned from Mournhold. I’ve tried every variety of intoxicant, wine, ale, and Argonian swill this world has to offer. I’ve sampled skooma with Khajiit, licked an Argonian Hist Tree, and hunted “magical” toads with the Bosmer.  
-  
-None of that compares to Nord mead. There’s nothing like it.  
-  
-The purest stuff is made in Nord villages, but we’re at war with the Nords, and a Breton has no guarantee of surviving a trip like that. Leave that sort of thing to the professionals. There is still hope, however. If you’re ever at a tavern, and there’s a cask of Nord mead, you’d be a fool to pass it up.  
-  
-Mead is made by fermenting honey and water (though a few recipes call for molasses). Sometimes, you add grain mash and strain it, but that isn’t necessary. Some of the High Elves call it “honey wine,” but mead needs more than good honey. Every meadery has its own recipes. After you drink enough mead, you learn the names of the brewmasters who create them. A drunk Nord will gladly punch another in the face over the honor of a good brewmaster. Then again, a drunk Nord will punch anyone for just about anything.  
-  
-Every brewmaster has a distinct blend of spices, fruit, and sometimes hops (which makes a mead bitter, which makes some Nords bitter, too.) I’ve even heard tales of mead mixed with the blood of heroes, allegedly granting them the words of a poet or skald. I’d like a mead named after me, but I’m not going to bleed for it.  
-  
-An Altmer once told me that brewing is the basis of all culture. It’s why our ancestors started farming and forming cities. It’s what we do when we’ve got too much wheat and barley and hops and we’re sick of farming. The culture of drinking seems to be what keeps Nords together.  
-  
-Nords must be really sick of farming, because they brew and drink prodigious amounts of mead. Whenever a cask of really good mead is opened, Nords gather round because they know that cask won’t last long. But if you don’t know how to behave in the Nord drinking culture, you’ll end up broke, broken, hungover, and helpless. I found out the hard way.  
-  
-Nords love to drink. But more than that. Nords respect those who can endure adversity. I know that sounds flowery for explaining why two drunk Nords would have a “hit-me-hard-in-the-face” contest, but really, that’s why their culture celebrates getting drunk.  
-  
-A Nord can gain respect by consuming more mead than anyone else, just as he’s respected for surviving a blizzard or killing a bear with a sharp stick. “Nord honor” is something they talk about endlessly when they’re drunk, and even more when they’re sober. So the first thing you learn about Nords is if you want their respect, never turn down a drink. It’s a test. If you can’t handle that next drink, leave. Otherwise you’ll wake up somewhere they find hilarious, but you won’t be laughing.  
-  
-Nords also love their skalds. Songs and stories go over well with a drunk audience, once they’ve had enough of brawling, boasting, and throwing axes at each other. Their songs are all about how they’re better than everyone else at everything. They’ve all heard these over and over again, so bring some of your own. They’re desperate to hear something new.  
-  
-Anywhere you go, drinking is also a good way to redress a mistake or make an apology, and it’s the same with Nords. If you lose a contest, you need to buy a drink. If you make a mistake or offend someone, you need to buy a drink. If you’re insulted, stand there and take it, then you need to buy a drink.  
-  
-You don’t have to be the best brawler around to survive a room full of drunken Nords. You can also impress them by being clever or by being talented, but you better be really good. When it’s time to take a punch in the face, you better be ready for a punch in the face. If you don’t like getting punched, there are some things you should never talk about, like politics, who’s the best brewmaster, and who punches the hardest. And never demand to know why someone just punched you in the face.  
-  
-If you want to hear more, buy me a drink the next time I’m in Daggerfall. I’ll tell you a story.
-
-[출처](https://www.imperial-library.info/content/thenepans-mysteries-mead)
+[출처](https://www.imperial-library.info/content/karnwasten-temporal-tome)
 
 ---
 
-## Theories: Soulrazer Knights
+## 카리나의 일지
 
-ID: ext-5b12ffd75bc0974c4690
+ID: ext-158dd50ebea3d9674048 / ESO 책 ID: 139 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-By Kaladiran, Arcane Naturalist  
+위대한 발명가의 메모와 수수께끼들은 사람을 미치게 만든다. 그럼에도, 왜 내 상관들이 이 구조체들을 손에 넣으려 하는지 이제는 이해가 되기 시작한다. 그것들에게는 인간이 흔히 가진 결함이 없다. 두려움도, 굶주림도, 갈증도. 거의 완벽한 병사라 할 수 있다.  
   
-Soulrazer knights have always intrigued me. Where do these self-possessed suits of hollow armor come from? Who or what made them? How do they manifest themselves? Are rituals needed to keep them functioning? If so, who performs these rituals? Who created them? Are they constructs or spirits or some unholy combination of the two? And why in the name of arcane inquiry do they even exist at all? All these questions and more spring to mind when I gaze upon these nightmarish marvels.  
+물론 결함이 없지는 않다. 생각하거나, 결정을 내리거나, 본능적으로 행동하는 것이 불가능하다. 명령을 따르는 것은 훌륭하지만, 판단력 없는 병사는 그 쓸모가 한정적일 뿐이다.  
   
-Soulrazer knights do not need much of an explanation. They appear as oversized and animated suits of armor, hollow, unworn by any physical or obviously spectral entity. By that I mean the armor lacks an identifiable spirit. Obviously, the armor is occupied by some spectral force. What else could cause it to move and act? It should also be noted that the armor consists of real metal, crafted by hands—not some spectral or arcane material.  
+이런 생각이 든다. 드워프들이 이곳에서 무언가를 발견한 것은 아닐까? 우리가 조우한 구조체들은 내 예상보다 훨씬 강인하였다. 제국 서고의 문서들은 그 실체를 제대로 전달하지 못하고 있었다.  
   
-As to the matter of the nature of this armor, what is it? Is it a manifestation of the instincts and creeds of past knights? Does the armor contain the willpower of knights somehow imbued into the metal itself so as to give it form and mobility? I see no evidence to suggest that either of these theories are totally correct.  
+라작은 분명 발명술의 영역에서 천재였을 것이다. 봉인된 금고의 깊은 곳에서 그는 더 위대한 무언가를 만들고 있었던 것은 아닐까? 반드시 알아야 한다!   
   
-Without such evidence, I am forced to examine another theory. Soulrazer knights were created by a powerful druid in times past. Such armor has been seen to be guardians at sacred grottos and beaches, but is this just a coincidence with no connection to druids whatsoever? I suspect that to be the case, as druids normally call upon nature spirits and creatures for such purposes. They do not craft knightly armor in the manner of their more secular Breton cousins.  
-  
-I suspect some mage’s hand in the creation of these constructs. But was the creation performed with ill intent, as many of my colleagues suggest? I refuse to believe it! Look at the armor, how it moves with such graceful precision. The care with which it was crafted. No vile force could create such beauty! These feats of magic or manifestations of spectral energy are too pure to be evil. I just need to determine what their true purpose is and why they attack when anyone draws close. There must be a viable explanation!
+제국은 이 힘을 가져야 한다. 어떠한 대가를 치르더라도.
 
-[출처](https://www.imperial-library.info/content/theories-soulrazer-knights)
+[출처](https://www.imperial-library.info/content/carinas-journal)
 
 ---
 
-## Thibaut’s Cairn and its History
+## 카리의 훔칠 물건 명단
 
-ID: ext-cf23df1284c26d2c8043
+ID: ext-8df9c331c25a328fb784 / ESO 책 ID: 3449 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Reaper’s March has a long and bloody history. Its denizens have had ample need for a place to bury their dead. For the most respected, the rich, the powerful, that final resting place has often been the crypt known as Thibaut’s Cairn.  
+신참들은 주목! 옛적에 도둑 골드 단원들은 탐리엘에서 가장 막강한 인물들에게서 가장 희귀하고 값나가는 보물을 훔쳐내, 누가 그중 으뜸인지를 증명하곤 했지. 한데 지금 우리는 그런 류의 이목을 끌 필요가 전혀 없어. 진심이야.  
   
-Located southwest of the village now called Greenhill, the old Colovian crypt and the nearby village once shared a name. But … we’re getting ahead of ourselves.  
+그렇다고는 해도, 너희가 솜씨를 갈고닦아 두각을 드러내는 게 중요하다고 골드마스터께서 여기시니, 아무도 되찾겠다고 군대까지 보내지는 않을 진귀한 물건들의 목록을 정리해 두었다. 그것들을 찾아라. 훔쳐라. 그리고 소행의 증거로 소굴에 갖다 걸어 둬라.  
   
-The Cairn is named for its most noted “guest,” the famed Thibault of Kvatch. Thibault was a general of Colovia, and in his time some hundreds of years ago he was one of the anchor points for the Hastrel Cohort.  
+이건 돈이 아니라 자랑거리를 위한 거야. 그러니 이 물건들로 한밑천 두둑이 받을 셈으로 나한테 오지는 마.  
   
-Those brave souls rode forth at the vanguard south, beside their comrades in the Linchal and Ontus cohorts. The purpose of their ride has been forgotten, just one of the numerous sorties into the March the Colovian kingdoms have attempted over the years.  
+아바스 랜딩: 휴 왕자가 살아 있던 시절의 어느 은행가, 그 사람의 고손자의—무슨 말인지 알겠지—고손자뻘 되는 자가, 그 가엾은 얼간이에게서 압류한 유골 항아리를 아직도 화분 삼아 바깥에 내놓고 있어.  
   
-Their ride would have been lost forever to the mists of time, if not for the unique relationship Thibault had with his cohort. Riding at his side south from the Kingdom of Kvatch was his wife Tertcia. Below Thibault in the command structure of his cohort were his children, though the number he had in place has now been lost to time. The members of his cohort owed him personal allegiance to a degree not often seen in modern Colovian cohorts. It’s said when Thibault rode, even the nightsoil men of his township rode with him.  
+그린셰이드: 메이지 길드가 어느 나무종사를 위해, 기이하게 살아 있는 오래된 책 한 질을 복원하는 작업을 하고 있어. 아마 물을 줘야 하는 모양이지.  
   
-The details of Thibault’s death, too, have been lost to us … but the impact of his death is still easy to see if you travel south of Arenthia in the Northern Woods. While the Linchal and Ontus cohorts rode back north, returning to home soil, the men and women of Hastrel cohort stayed and put down roots.  
+오리돈: 나에몬 왕자가 자신의 즉위식을 위해 기념 디캔터를 주문 제작했는데, 정작 즉위식은 열리지 못했어. 소문으로는 아직도 스카이워치 저택에 전시돼 있다더군.  
   
-Tertcia’s need to see her husband’s legacy built was the motive for staying. The tales of her manipulations can be found in numerous other tomes, no doubt. Suffice it to say that she played the Wood Elves against the Khajiit and the Khajiit against the Wood Elves in a masterful dance. The result? A complex of crypts and an entire village, once known simply as “Thibault’s Rest”.  
+말라발 토르: 어찌나 뛰어났던지 저주받은 하프로 경연에서 우승했다는 늙은 우드 엘프 음유시인 이야기가 전해져. 그게 엉뚱한 손에 들어가 누군가의 고막을 터뜨리지 않도록 메이지 길드가 보관하고 있다더군.  
   
-Now, the history of that little town is an interesting tale as well …
+리퍼스 마치: 메이지 길드가 라울카에 있는 그들의 소유지에서, 어느 옛 카짓 전사의 고대 유품들을 보살피고 있어. 안된 일이지만, 네가 찾아낼 건 그자의 가래침 단지야.  
+  
+그랏우드: 카모란 왕조의 한 사람이 전투에서 죽었을 때 그를 대신해 세워 둘 마네킹이 있었어. 시신을 찾기는 했나 봐. 그 마네킹이 대사관에서 먼지만 뒤집어쓰고 있는 걸 보면 말이야.  
+  
+알리키어 사막: 사막에 사는 어느 부유한 여관 주인이 골동품 사발 하나를 가지고 있는데, 자기 혈통을 어느 라 가다 영웅까지 거슬러 올리는 가보라고 주장하지. 겉만 봐선 모르는 법이라지만, 난 영 미심쩍어.  
+  
+스톰헤이븐: 웨이레스트의 초대 왕은 훌륭한 왕이었을진 몰라도, 형편없는 시인이었어. 메이지 길드에 그가 쓴 작품을 묶은 미간행 시집 한 권이 보관돼 있어. 그걸 낭송하라고 시키진 않을게.  
+  
+뱅코라이: 요쿠다 정복자들 가운데서도 꽤 꼼꼼했던 자 하나는, 제 재산 목록을 다 추스르느라 거대한 문진들을 써야 했지. 미리 일러두는데, 이것들은 내가 챙길지도 몰라.  
+  
+글렌움브라: 대거폴 성을 장식하는 카펫 중 하나에 마법이 깃들어 있다더군. 어째서 그런 걸 그냥 깔아 두는지는 모르겠지만, 잘 이용해 보라고.  
+  
+리븐스파이어: 파이터 길드가 숀헬름의 공주가 에머릭 왕에게 써 보낸 편지 한 뭉치를 가지고 있다더군. 왕이 센티넬의 공주를 택하느라 그녀를 차 버리기 전에 쓴 거야. 흥미진진할 것 같지.  
+  
+이스트마치: 이스트마치 토박이들 말로는, 요룬 왕이 박살 내 버린 고대 드워프 기계 장치를 다음 연회의 중심 장식으로 쓰려고 했다더군. 지금은 그 지역 메이지 길드에서 수리 중이래.  
+  
+스톤폴스: 어느 여관 지하실에 에본하트 조약 결성 당시의 오래된 문장이 처박혀 있다더군. 그걸 딱히 애틋하게 여기지는 않는 모양이야.  
+  
+섀도우펜: 블랙마쉬에서 아르고니안들과 더불어 살던 기이한 부족이 하나 있었대. 놀랄 것도 없이 그들은 모조리 죽었지만, 아르고니안들은 그 유물 몇 가지를 아직 간직하고 있어. 그 부족이 받들어 기도하던 종교적인 삽 같은 게 있다나 봐.  
+  
+데샨: 드워프 유물이야 대개 값을 후하게 쳐주지만, 난 모운홀드 어딘가에서 내려져 창고에 처박힌 깃발 하나에 대한 단서를 쥐고 있어. 아마 더 깊은 사연이 있겠지.  
+  
+더 리프트: 파이터 길드는 사실상 이스그라모르를 떠받들다시피 해. 그가 마셨던 바로 그 잔으로 술을 마실 수만 있다면 검 쥔 팔이라도 내놓을 자들이지. 한데 그가 쓰던 낡은 가죽 술자루 하나가 손도 안 댄 채 놓여 있다더군.
 
-[출처](https://www.imperial-library.info/content/thibauts-cairn-and-its-history)
-
----
-
-## Thibeaut’s Cairn Temporal Tome
-
-ID: ext-d56cc34ce0babb260863
-
-I am empathetic to the allure of necromancy. It seems like a brave, new and unexplored territory. An area of magic where an enterprising mage might accomplish great things and leave a lasting mark on the world. Necromancy may not be well documented in polite circles of magic tutelage. Presuming no such work exists, however, is folly. I always encourage prospective mages to also be students of history as well.  
-  
-From my readings, however, Necromancy breeds atrocity by nature. If there were acts of heroism or sacrifice committed in the name of necromancy, it stands to reason that they would be just as validated by historical study. The dearth of evidence is damning. There are none of note. The few accounts that say otherwise are either anecdotal or far lost to time.  
-  
-Suppose that the dead risen in Thibaut’s Cairn were done so to serve and protect the nearby Greenhill township from invading forces. That the bones of the dead found new purpose in aiding the living. It’s a nice fantasy, but this is not the case, and it will never be the case. Necromancers serve no purpose but their own, and their purpose is to hold dominion over others.  
-  
-In the case of Thibaut’s Carin, not even leadership can be afforded to these shambling, restless undead. They remain masterless, their forms undoubtedly in agony. Forbidden from rest, forced to serve an absent master forever.  
-  
-Perhaps, through some careless mishap, he walks among them now. Nonetheless, I can find no good faith argument which posits that the undead have aims beyond an increase to their numbers, to find company in their misery, as they now do in the once-honored tomb of Thibaut’s Cairn.  
-  
-The wave of undeath sweeping through Cyrodiil as a result of the planemeld goes as far as we allow it. I implore you, mages: let us stop it here.
-
-[출처](https://www.imperial-library.info/content/thibeauts-cairn-temporal-tome)
-
----
-
-## Thief of Virtue
-
-ID: ext-59a6c1b1b694f29a78e0
-
-Let me tell the tale of the Thief of Virtue. In the land of Hammerfell in the city of Sutch there lived a Baron who was quite wealthy. He was a noted collector of rare coins. The Baroness Veronique found the whole thing quite tedious. However, she did appreciate the lifestyle that the Baron’s wealth provided.  
-  
-Ravius Terinus was a noted thief. He claimed to be a master thief in the mythical guild of thieves. However, that was most likely just braggadocio. The only known Thieves Guild was wiped out over 450 years ago.  
-  
-Ravius decided that the Baron should share his wealth. Specifically he should share it with Ravius. The wily thief crept into the Baron’s castle one night intending to do just that.  
-  
-The walls of the castle were noted for their height and unscalability. Ravius cleverly used an Arrow of Penetration to affix a rope to the top of the battlements. Once on the battlements, he had to evade the Baron’s guards. By hiding in the shadows of the crenelations, he was able to work his way to the keep undetected.  
-  
-Entering the keep was child’s play for a thief of his caliber. However, a cunning lock with no less than 13 pins protected the private quarters of the Baron. Ravius broke only 9 lockpicks to open it. Using only a fork, a bit of string, and a wineskin, he disabled the seven traps guarding the Baron’s coin collection. Truly Ravius was a master among thieves.  
-  
-With the coins safely in his grasp, Ravius began his escape only to find the way blocked. The Baron had found the opened door and was raising the guard to scour the castle. Ravius fled deeper into the castle, one step ahead of the questing guards.  
-  
-His only way out led through the boudoir of Baroness Veronique. He entered to find the lady preparing for bed. Now it should be said at this point that Ravius was noted for his handsome looks, while the Baroness was noted for her plainness. Both of these facts were immediately recognized by each of the pair.  
-  
-“Doest thou come to plunder my virtue?” asked the lady, all a tremble.  
-  
-“Nay, fair lady,” Ravius said, thinking quickly. “Plunder be a harsh term to ply upon such a delicate flower as your virtue.”  
-  
-“I see thou hast made off with mine husbands precious coins.”  
-  
-Ravius looked deeply into her eyes and saw the only path by which he would escape this night with his life. It would require a double sacrifice.  
-  
-“Though these coins are of rarest value, I have now found a treasure that is beyond all value,” Ravius said smoothly. “Tell me, oh beauteous one, why doest thy husband set seven deadly traps around these tawdry coins, but only a simple lock upon the door of his virtuous wife?”  
-  
-“Ignace protects those things that are dearest to him,” Veronique replied with ire.  
-  
-“I would give all the gold in my possession to spend but a moment basking in your radiance.”  
-  
-With that Ravius set down the coins he had worked so hard to steal. The Baroness swooned into his arms. When the captain of the guard asked to search her quarters, she hid Ravius most skillfully. She turned over the coins, claiming the thief dropped them when he fled out the window.  
-  
-With that sacrifice made, Ravius steeled himself for the second. He robbed the lady Veronique of her virtue that night. He robbed her of it several times, lasting well into the wee hours of the morning. Exhausted, yet sated, he stole away in the pre-dawn hours.
-
-[출처](https://www.imperial-library.info/content/thief-virtue)
+[출처](https://www.imperial-library.info/content/karis-hit-list)
 
 ---
 
-## Things My Great-Gran Said
+## 카모나 통의 삶
 
-ID: ext-d0c76d650ae417d4e5d0
+ID: ext-f3a55742c053441895d1 / ESO 책 ID: 7433 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-My great-gran, who lived to a hundred and two, always had advice or offered a bit of lore for just about every occasion, every season, and every event in life—hers or someone else’s! Someone lost a leg in a battle? She said it was because he wed his wife during the first half of Sun’s Dusk. A family made a bad investment and lost a lot of gold? That was because they had eleven cows, because everyone knows the number eleven is unlucky.  
+고발 사드리온 씀  
   
-Some of her other words of “wisdom” included:  
+고발 사드리온에 대해 가장 먼저 알아 둬야 할 건, 내가 밀수꾼이 아니라 술집 싸움꾼이라는 거다. 내가 아는 건 누가 가르쳐 준 게 아니다. 피와 멍이 주는 교훈을 통해 혼자 깨친 거지. 주먹을 입으로 막는 짓을 그만두는 법을 알아내기까지, 이빨도 꽤나 잃었다. 빨리 깨친 교훈도 있고, 훨씬 오래 걸린 것도 몇 있다.  
   
-A lone mammoth on a hillside means a change is coming.  
+자라면서 우리는 가진 게 별로 없었다. 흙바닥 깔린 작은 오두막 하나. 부모님이 그 형편없는 땅뙈기에서 온종일 일했는데도, 식구들 돌아갈 만큼은 도무지 모이지 않았다. 우리는 제 집에서조차 느'와처럼 살았다. 진흙 위에서 자고, 진흙 속에서 일하고, 먹을 게 모자랄 땐 그걸 먹기까지 했다. 그래도 부모님은 자부심이 있었다. 고마운 줄 모르는 흙덩이밖에 없는 데서 보금자리 하나를 일궈 냈으니까.   
   
-Two mammoths in the distance indicates that someone has a gift for you.  
+그러니 서약자가 내 아버지를 비아냥거리고, 한낱 고용인이 감히 내 어머니를 깔볼 때, 내가 어찌해야 했겠나? 그 모욕을 그냥 흘려보내야 했나? 천만에. 소위 위대한 가문이란 것들의 도움 없이 한 가족을, 한 보금자리를 일구는 데 얼마나 많은 품이 드는지 나는 안다. 방석에 퍼질러 앉아 살만 디룩디룩 찌운 저것들 중 단 하나도 우리를 깔볼 자격이 없다!  
   
-Three mammoths in a line means an imminent death. (Not necessarily the viewer’s. Unless, perhaps they decide to stand in front of the line of mammoths.)  
+젊었을 적 나는 적잖이 치고받았다. 셀 엄두도 안 날 만큼 여러 번 흠씬 두들겨 맞았지. 하지만 그 잘난 척하는 s'위트들이 우리더러 느'와라고 부르는 한, 나는 계속 맞받아쳤다. 어머니는 말이 주먹보다 더 아프다고 했다. 나도 나를 아프게 하는 말을 숱하게 들었지만, 내 주먹이 더 큰 고통을 안겼다는 건 장담할 수 있다.   
   
-Never drink new mead on Morndas. (I think my great-gran may have made this one up to make sure her husband and sons sobered up in time for work.)  
+흉년이 들자 아버지는 수자마에 빠졌다. 큼지막한 술잔으로 들이부었지. 너무 마신 뒤엔 게운 냄새로 오두막을 온통 진동시켰다. 어머니는 꼭 써야 하는 것보다 동전 한 닢이라도 더 쓰는 걸 끔찍이 싫어했다. 어머니는 밖에 나가 쓰라린 초록을 한 다발이나 뜯어 와 날로 먹었다. 우리가 어머니를 찾았을 땐, 이미 온몸이 싸늘하게 서리로 뒤덮인 뒤였다.  
   
-If sizzling horker grease splashes on your face, you will get in a fight within three days. If it lands on your left hand, a visitor will soon appear.  
+그 모든 수고로 우리가 얻은 게 뭐였지? 제 농장 흙바닥에서 얼어 죽은 어머니와, 제 뱃속에 든 것으로 땅을 적시는 아버지였다. 두 분은 느'와보다 더 모질게 일했고 우리 모두를 그렇게 살게 했는데, 다 무엇 때문이었나? 아마 그게 어머니가 내게 남긴 마지막 교훈이었지 싶다. 제 인생의 처지를 받아들이면, 이 세상은 네가 죽을 때까지 너를 걷어차고 비웃으리라는 것.   
   
-Slaying a bristleback boar when both moons are full leads to bad luck for the rest of the year. (My gran would never go hunting, nor would she let her husband and sons hunt, if the moons were full.)  
+그러고 나서 내가 곧장 털고 일어나 스스로 뭔가 이뤘다고 말하고 싶다. 하지만 그러지 못했다. 내가 술집 싸움꾼이었다고 한 거 기억하나? 그게, 나는 위대한 가문의 끄트머리 것들과 예전에 치고받았던 일을, 또 나를 업신여긴 그 나쁜 것들에게 앙갚음하는 게 얼마나 통쾌했는지를 떠올렸다. 그래서 더 많은 싸움거리를 찾아다녔다. 오랜 세월 싸움질로 보냈지. 내 주먹이 달라졌다. 내게 말대꾸하는 멍청이들을 두들겨 정신 차리게 하는 솜씨가 늘었다. 나보다 주먹이 매운 나쁜 것들도 꽤 만났지만, 그것들 대부분은 이런저런 통에 속해 있었으니, 사사로운 감정으로 받아들이진 않았다.  
   
-If the shadow of a hawk touches you during the month of Morning Star, it means winter will last longer.  
+슬슬 눈에 띄기 시작한 모양이었다. 나 자신이 만만찮은 놈이라는 평판을 얻었고, 그게 어느 날 밤 코너클럽에서 내게 다가온 자객 몇몇의 마음에 들었나 보다. 그자들이 술을 한잔 사겠다고 했지만 나는 거절했다. 웬만한 술은 아버지 토사물 냄새가 나서 도무지 넘길 수가 없거든. 그러자 그자들은 더더욱 흡족해했다. 자기들이 찾던 게 바로 나 같은 자라고 했다. 나는 뇌물에 안 넘어갈 만큼 영리하다는 뜻인 줄 알았는데, 이제 와 보니 내가 벌인 그 숱한 싸움질을 두고 한 말이었다. 그자들은 꾸준한 일거리와 여기저기 다닐 기회, 그리고 어머니를 네크롬으로 모셔 제대로 장례를 치러 드릴 만큼의 골드를 약속했다. 또 우리를 망쳐 놓은 느'와들에게 되갚아 줄 기회도 주겠다고 했다.   
   
-A white fox running east in the western hills at sunrise is a harbinger of a coming pestilence.  
+느'와들은 고운 예복을 차려입고 진짜 침대에서 자는데, 어째서 나는 늘 살아온 대로만 살아야 하나? 어째서 나는 땅을 갈며 흙과 진창을 뒤집어써야 하나? 나는 그것보다 나은 사람이다. 나는 그것보다 나은 대접을 받아 마땅하다.   
   
-If you do not settle a grievance with a relative or loved one during the first seven days of First Seed, a poor harvest will result.  
+그래서 나는 카모나 통에 들어갔다. 그자들 말이 옳았다. 보수가 좋다. 일거리는 늘 있고, 제대로 된 사람들에게 눈도장을 찍을 길도 있다. 끼어들 싸움도, 두들겨 줄 느'와도 아직 얼마든지 있고, 요즘은 그걸 실제로 할 수 있다. 피를 봐야 할 코가, 또 뜯어고쳐야 할 못된 태도가 그토록 많은 건 처음 봤다. 결국 그것들 모두가 나를 두려워하게 된다. 적어도, 내 주먹이 안길 수 있는 고통만큼은 두려워하지.   
   
-Finding a blue bead on the ground signals that a hagraven has just been created. Smashing the blue bead to dust with a rock and throwing the powder into still (not flowing) water will grant that hagraven a short life.
+나는 여기서 존중받는다. 지난 철엔 트롤 한 마리를 잡았다. 그 덕에 골드 한 자루를 덤으로 받고, 짧은 휴가를 내어 네크롬에 계신 어머니를 뵈러 갔다. 어머니는 나를 자랑스러워하신다. 보기 좋아졌다고 하셨다. 드디어 제대로 먹고 다닌다고. 위험한 건 마뜩잖아 하셨지만, 우리 부모님은 끝내 맞서 싸울 용기가 없었다. 두 분은 인생에서 주어진 것보다 더 많은 것을 거머쥐는 법을 끝내 몰랐다. 나는 안다.   
+  
+어머니는 말이 주먹보다 더 아프다고 했다. 나는 주먹도 맞아 봤고 말도 들어 봤다. 이제는 둘 다 나를 아프게 하지 못한다. 나는 고통을 받아들여 그것으로 나를 더 강하게 만드는 법을 스스로 익혔다. 카모나룬으로 돌아오는 길에 닐레라가 그 트롤에게 죽임을 당했듯 설령 무언가가 나를 죽인다 해도, 적어도 나는 처음 시작했을 때보다 나은 사람이 되었음을 안다. 나는 죽는 날까지, 이 인생에서 내가 마땅히 받아야 할 것을 계속 거머쥘 것이다. 그것이 바로 카모나 통의 방식이다.
 
-[출처](https://www.imperial-library.info/content/things-my-great-gran-said)
-
----
-
-## Things to Do
-
-ID: ext-29c73d9eb99d7c68dead
-
-1. Study Destruction spells.  
-  
-2. Clean up remains from last week’s experiment  
-  
-3. Write letter of apology and get well soon card to Instructor Sanaldurdil. Also, write letter of apology to Hall Steward.  
-  
-4. Study Destruction spells.  
-  
-5. Inquire about repairs for alchemy and enchanting tables.  
-  
-6. Ask for loan on repair estimates.  
-  
-7. Double check ingredients for next week’s lessons.  
-  
-8. Study Destruction spells!
-
-[출처](https://www.imperial-library.info/content/things-do-0)
+[출처](https://www.imperial-library.info/content/life-camonna-tong)
 
 ---
 
-## Things to Salvage
+## 카모나 통의 유혹
 
-ID: ext-74ba8b25a544c62d48a8
+ID: ext-a2982f1a7355712a85e0 / ESO 책 ID: 4530 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Dwarven jug  
+보라르 벤두, 한때 카모나 통의 일원이었던 자 지음  
   
-Dwarven spider leg  
+그대도 카모나 통의 이름쯤은 들어보았으리라. 자갈 위로 핏물이 고이는 어두운 골목에서 나직이 속삭여지는 이름이요, 이웃의 침대에 놓인 몸값 요구서에 적힌 서명이다. 하나의 그림자요, 저주요, 우리 사회의 엉덩이에 돋은 종기다. 자랑스레 인정할 일은 아니나, 그것은 내 과거의 한 조각이기도 하다.  
   
-Centurion helmet (or a piece of one)  
+자, 나는 이미 법을 따르는 올바른 편에 선 자들을 위해 이 글을 쓰는 것이 아니다. 나는 이미 그 도덕의 길에서 벗어난 자들, 옳고 그름 사이의 가느다란 경계를 걷는 자들을 위해 쓴다. 배도 곳간도 텅 빈 채, 카모나 통을 그럴듯한 선택지로 여길지 모를 자들을 위해. 그런 그대에게 이르노니, 계속 읽으라.  
   
-Shiny glowing bit from Dwarven sentry  
+물론 카모나 통에는 안정이 있다. 끊이지 않는 수입의 흐름이란 거절하기 어려운 법이요, 게다가 그들에게는 체계까지 갖춰져 있다. 영광이며 지휘권이며 계급을 타고 오를 가능성을 미끼 삼아 그대를 꾈 것이다. 그래, 그들이 하는 일이 합법과는 거리가 멀다는 것도 사실이다. 허나 그대가 이미 그쪽으로 기울어 있다면, 차라리 좋은 동무들과 함께하는 편이 낫지 않겠는가?  
   
-Gears  
+달콤한 말 몇 마디에 나는 곧장 이름을 올렸고, 처음에는 삶이 좋았다. 평생 내 위에 군림하던 부유한 납작머리들을 등쳐먹는 일이라니? 기꺼이! 강도질 몇 번, 빈집털이 몇 번? 익숙하지 않은 것이라곤 없었다. 그래, 우리는 외지인들을 몰아내고 바덴펠을 던머의 손에 되찾아 오겠노라 큰소리를 쳤다. 허나 솔직히 말하건대, 내가 무슨 짓을 하고 있는지 스스로 의심하게 만든 것은 아무것도 없었다.  
   
-Broken lengths of pipe
+그런 일은 없었다 — 어느 아르고니안 재봉사가 조금 우쭐대기 전까지는.  
+  
+오, 그것은 온 마을의 화젯거리였다. 어느 비늘 달린 느'와가 뻔뻔스럽게도 제 가게를 차렸고 — 게다가 그것으로 재미까지 보았으니! 그 여자는 던머에게서 좋은 장사를 앗아가고 있었다. 우리네 어머니와 누이들에게서 골드를 빼앗고 있었던 것이다. 그리하여 우리는 카모나 통이 가장 잘하는 일을 했다. 그 여자에게 대가를 치르게 한 것이다.  
+  
+납치는 쉬웠다. 그래, 그 여자의 가게는 잘 굴러갔으나, 어차피 아르고니안이었다. 그 여자의 집으로 숨어들 적에 경비병이라곤 단 하나도 본 기억이 없다, 마을의 그런 동네에서야. 그 여자가 도움을 청해 비명을 지를 틈도 주지 않고 우리는 그를 묶고 입에 재갈을 물렸다, 무슨 거창한 농지거리라도 되는 양 깔깔대면서. 술이 과한 혈기 어린 젊은것들이었다. 나는 그저 그 여자를 겁주어 정신 차리게 하고, 제가 남보다 잘났다 여겨선 안 된다는 것을 깨우쳐 줄 뿐이라 생각했다.  
+  
+구타가 시작되자 나는 술이 깨기 시작했다. 처음엔 뺨을 한 대 후려치는 정도였으나, 이내 주먹질과 발길질로 바뀌었다. 그들은 그 여자가 어찌 그리 잘 버티는지, 아르고니안의 살갗이 어찌나 두꺼운지 멍 하나 눈에 띄지 않는다며 농을 지껄였다. 그들의 웃음소리에 뒤섞이던, 재갈에 막힌 그 여자의 울음소리가 아직도 귓가에 들린다.  
+  
+나는 그저 지켜보기만 했다, 매질이 점점 모질어지고, 재갈 물린 입에서 피가 배어 흐르기 시작하는 것을. 폭력이 낯선 이자도 아니었고, 내 일의 성격상 진정으로 그것에 반대하는 자도 아니었다. 허나 이 늙은 아르고니안을 묶어 놓고 피투성이가 되도록 패고, 바닥에 쓰러진 그를 발로 차는 데에는 어딘가 다른 무언가가 있었다. 나는 꼼짝없이 지켜보며 목이 조여 오는 것을 느꼈다. 아무도 내가 흥이 식었음을 눈치채지 못하는 듯했다, 저들이 신나게 베푸는 그 의로운 정의에 흠뻑 취해 있었으니.  
+  
+누군가 단검을 빼 들고는 아무렇지 않게 한마디 던졌다. "알다시피, 손가락이 없으면 바느질하기가 꽤나 어렵지."  
+  
+그 순간 나는 정신이 번쩍 들었다.  
+  
+내가 그들을 막았노라 말할 수 있다면 좋으련만. 무언가 영리한 말을 했다거나, 용감한 일을 했다고. 허나 진실은, 나는 그저 걸어 나갔다는 것이다. 나는 그 방을, 그 마을을, 그 삶을 떠났다. 고개를 꼿꼿이 든 채가 아니라, 부서지고 패배한 채, 공포로 가득 찬 그 가엾은 아르고니안의 눈을 떠올리면서. 내 눈과는 그토록 달랐으나, 또 그토록 닮았던 그 눈을. 그들이 끝내 일을 저질렀는지, 어딘가에 제 악몽 속에서 내 얼굴을 보는 손가락 없는 거지가 있는지 나는 알지 못한다. 앞으로도 결코 알아보려 하지 않으리라.  
+  
+그러니 다음번에 그대가 카모나 통을, 그 화려함과 골드를 떠올리거든? 그대의 비뚤어진 도덕이 얼마나 손쉽게 송두리째 미끄러져 사라지는지를 떠올리라. 큰소리와 약간의 술이 어떻게 그대를, 스스로 그럴 수 있으리라곤 생각조차 못 했던 더 어두운 길로 이끄는지를. 아무 말도 하지 않기란 얼마나 쉬운지, 그리고 그저 한패가 되어 따라가기란 또 얼마나 더 쉬운지를.
 
-[출처](https://www.imperial-library.info/content/things-salvage)
-
----
-
-## Things to do before the baby comes:
-
-ID: ext-2ecf3eda798f9cb8654c
-
-— Buy a new lamp for the house.  
-  
-— Visit Aunt Abia in Sentinel.  
-  
-— Finish reading “The Lusty Argonian Maid”.  
-  
-— Weave a new carpet for the wall in the baby’s corner.  
-  
-— Ask mother for the orange vases she has in the storeroom.  
-  
-— Ask father to finally give us the chickens he promised as part of my dowry.  
-  
-— Burn all my Forebear clothes and buy new Crown clothes.
-
-[출처](https://www.imperial-library.info/content/things-do-baby-comes)
+[출처](https://www.imperial-library.info/content/lure-camonna-tong)
 
 ---
 
-## Third Gravestone
+## 카소레인의 꿈
 
-ID: ext-095f215aa9d2a76408a1
+ID: ext-50d8cea85350bfc484aa / ESO 책 ID: 7361 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-In this ground lie the remains of … Moret, whose life was testament to the fact that brains and brawn are not the only path to success.  
+한 그루 나무 위에서 세 알의 씨앗을 보았노라  
+마가목과 물푸레나무와 참나무의 씨앗을.  
+나는 정성껏 그 씨앗을 흙먼지 속에 심었노라  
+우리 백성을 이끌고 가르치게 하기 위하여.  
   
-2695—2732
-
-[출처](https://www.imperial-library.info/content/third-gravestone)
-
----
-
-## This Text Property of Leki’s Blade
-
-ID: ext-d7a6b43dee100d092bfc
-
-The Four  
+세 그루 나무, 아홉 갈래 가지, 오백 장의 잎사귀  
+뿌리마다 한 계절씩 깃들리라.  
+씨앗마다 깊은 잠에 들게 하라  
+그리하면 왕좌가 다시 새로워지리니.  
   
-There are few warriors, even in legend, who match the Sword Saints of old Yokuda. But among that elite cadre, the Four—Mamireh, Akamon, Roshadon, and Rok’dun the Flame, rise above the rest.  
-  
-They were among the most prominent Yokudan warriors of the first invasion of Nedic homelands.  
-  
-Legend has it, the three were inestimably powerful, wielding sword movements lesser Sword Saints only saw in dreams. They single-handedly captured Nedic fortifications, breached Nedic walls as easily as hopping streams, cut whole armies to ribbons with a swing of their spirit swords.  
-  
-That’s what the myths claim, anyway. The greatest Redguard warriors of today seem like elderly statesmen in comparison.  
-  
-The legends elaborate further that, among all the formidable Ansei serving the Yokudan effort, the Four had special favor from the Warrior Stars. They had meditated so fully on that constellation that they could reach through those windows, to whatever lay beyond. Thus, they grasped greater skill.  
-  
-One must assume they eventually perished, of course. If not at the pikes and axes of Nedic defenders, then from natural causes. But the graves of these Yokudan elite have never been found. This old scholar has searched the entirety of Craglorn, looked in every corner of every Yokudan crypt, and found no sign of the Four. Unless they returned to a sinking Yokuda, perhaps they never existed at all,
+산이 진동하고 씨 뿌리는 자가 깨어날 때  
+왕좌는 또다시 꽃을 피우리라.  
+하나의 선택, 하나의 의지, 하나의 결박하는 언약이  
+온 대지를 축복하거나 저주하리라.
 
-[출처](https://www.imperial-library.info/content/text-property-lekis-blade)
+[출처](https://www.imperial-library.info/content/dream-kasorayn)
 
 ---
 
-## Those Who Stood at Chalman Keep
+## 카소레인의 꿈(주석본)
 
-ID: ext-4bed00865ee4bd76b0ec
+ID: ext-20512387a4382641b668 / ESO 책 ID: 7356 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Gather ’round, proud warriors all,  
-Silent now and standing tall.  
-Bow your heads to those who sleep,  
-Beneath the ground of Chalman Keep.  
+구윌림 대학교 민속학 조교수 잠시크 아프할라즈 저  
   
-The flames of war seared the land,  
-Crushing all with brutal hand.  
-Dominion soldiers sought the throne,  
-Chalman, undaunted, stood alone.  
+시스트레스 군도의 드루이드는 탐리엘의 다른 지역에는 거의 알려지지 않은 방대한 민간전승의 수호자다. 그들의 이야기에는 제1기 초기 수백 년 전까지 거슬러 올라가는 우화와 노래, 설화가 담겨 있다. 그중에서도 가장 중요한 것은 아마 '카소레인의 꿈'이라 불리는 예언의 세부 내용일 것이다. 갈렌의 드루이드라면 누구나 이를 통째로 외우고 있지만, 그 예언의 말이 진정 무엇을 뜻하는가? 이 보잘것없는 필자가 다음 쪽들에서 그 물음을 탐구해 보고자 한다.  
   
-Hooves thundered o’er the sward,  
-Death neared for all, swift and hard.  
-Defenders stood upon Chalman’s wall,  
-Warriors brave, Covenant heroes all.  
+먼저, 갈렌의 들려주는 돌에 새겨진 그대로의 예언을 살펴보자.  
   
-Forward came the Dominion hordes,  
-With arcane spells and gleaming swords.  
-Walls shook to siege engines’ roars,  
-Rams thundered upon keep doors.  
+한 그루 나무 위에 세 알의 씨앗을 보았네  
+마가목과 물푸레와 참나무의 씨앗을.  
+정성껏 그것들을 흙 속에 심었네  
+우리 백성을 이끌고 가르치고자.  
   
-The outer doors fell to the invaders’ barrage,  
-Into the courtyard Elves and Khajiit charged.  
-The inner door too gave when assaulted,  
-O’er bodies and rubble the attackers vaulted.  
+세 그루 나무, 아홉 가지, 오백 잎사귀  
+뿌리마다 한 철씩.  
+씨앗마다 깊은 잠에 들게 하라  
+그리하면 왕좌가 새로워지리.  
   
-The defenders made their might felt,  
-Spells flared forth, death was dealt.  
-Fury rained upon invaders’ heads,  
-’til Khajiit and Elves all were dead.  
+산이 흔들리고 씨 뿌리는 자가 깨어날 때  
+왕좌는 다시 꽃피우리.  
+하나의 선택, 하나의 의지, 하나의 결박하는 말이  
+모든 땅을 축복하거나 재앙으로 휩쓸리라.  
   
-No time to rest, no time to heal,  
-Doors and breaches they must seal.  
-All was repaired, the damage undone,  
-As another deadly assault was begun.  
+흥미로운 심상으로 가득한 아름다운 시처럼 보이지만, 각 행에는 숨은 인용과 암시가 빼곡히 담겨 있다. 이 깊은 의미들을 파헤쳐 보자.  
   
-Once again, fierce battle was fought,  
-Death was granted where it was sought.  
-Entropy rose inside the keep,  
-Swept over all, piled the bodies deep.  
+'한 그루 나무 위에 세 알의 씨앗'은 시스트레스의 세 드루이드 서클을 가리킨다. 마가목은 지혜와 겸손한 봉사를 뜻하니, 곧 스톤로어 드루이드의 길이다. 물푸레는 신비로운 힘과 재탄생을 상징하며, 은둔하는 파이어송 드루이드의 표상이다. 그리고 참나무는 물론 강인함과 용기의 상징으로, 엘더타이드 서클을 나타낸다. 여기서 마지막 드루이드 왕 카소레인은 세 드루이드 서클의 창립을 넌지시 일컫고 있다.  
   
-Again the bloody tide receded,  
-Dominion foes once more defeated.  
-Orc and Redguard and Breton remained,  
-Proud survivors of Chalman Keep again.  
+이제 매우 기이한 숫자들이 독자에게 한꺼번에 던져진다. 가지와 잎사귀와 뿌리는 중요하지 않다. 오히려 이 꿈은 우리에게 어떤 숫자를 찾으라 청한다. 3 곱하기 9 곱하기 500, 곧 13,500이다. 그리고 '저마다 한 철씩'이라 했으니, 우리는 3,375년이라는 기간을 얻는다. 만약 이 꿈이 제1기 4세기 어느 무렵에 기록된 것이라면, 이 햇수는 제2기 6세기 말엽에 이르러 그 종착에 다다른다. 우리는 확신할 수 없다. 꿈이 정확히 언제 적혔는지 알지 못하기 때문이다. 그리고 물론 드래곤 브레이크가 사정을 한층 더 복잡하게 만든다. 그럼에도, 이 예언이 약속하는 사건이 무엇이든 그리 멀지 않은 듯하다.  
   
-Dominion warriors attacked once more,  
-In numbers far greater than ever before.  
-They battered aside weary defenders,  
-Stopped only in the innermost chambers.  
+세 번째 연은 예언이 성취에 가까워질 때 주시해야 할 또 다른 징조들로 시작된다. 여기서 언급된 '산'은 이펠론의 거대한 화산, 파이어송 화산이다. 짐작하다시피, 시스트레스의 드루이드들은 이 산을 매우 면밀히 살핀다. 카소레인이 말한 '씨 뿌리는 자'가 무엇을 가리키는지는 그 누구도 확실히 알지 못하나, 일부 학자들은 첫 연에 언급된 씨앗과 무언가 관련이 있으리라 믿는다. 그러나 이 보잘것없는 필자는 동의하지 않는다. '씨 뿌리는 자'는 그저 또 하나의 심상에 불과할지도 모른다.  
   
-Into the apse the heroes were hounded,  
-Dominion victory cries loudly sounded.  
-Then chaos erupted as the Pact swept in,  
-Seeing their enemies’ forces worn thin.  
+하지만 우리가 카소레인의 꿈에서 정확히 무엇을 기대하고 있단 말인가? 여기서 우리는 예언의 핵심에 다다른다. 두 번째 연과 세 번째 연 양쪽에서 언급된 왕좌는, 사실 담쟁이 왕좌다. 드루이드의 전설에 따르면 드루이드 왕은 갈렌에 있는 의식의 권좌에서 다스렸으며, 살아 있는 나무와 담쟁이로 엮인 왕좌 위에 앉았다고 한다. 이 예언은 사실 새로운 드루이드 왕의 즉위, 곧 귀환을 다루고 있다. 삼천 년이 넘는 세월 만에 처음으로 그 칭호를 지니게 될 자에 관한 것이다.  
   
-Caught between fierce anvil and hammer,  
-Elf and Khajiit died in brave manner.  
-Only Pact and Covenant soon remained,  
-Then the defenders cleared the field again.  
-  
-A breath, a pause, a brief respite,  
-The Covenant cause now truly desperate.  
-A final assault the Dominion did mount,  
-A massive wave, too many to count.  
-  
-Determined to conquer, refusing to desist,  
-The Dominion force impossible to resist.  
-The defenders resolved to fight to the last,  
-No blow was wasted, no spell shoddily cast.  
-  
-One by one the gallant warriors fell,  
-Breton, Redguard, and Orc died well.  
-Their lives given up for Chalman Keep,  
-They rest forever in honored sleep.  
-  
-The Dominion banner rose over the hall,  
-A Dominion Emperor then ruled over all.  
-Peace came to Chalman, damage repaired,  
-Attackers dispersed, to other sites they fared.  
-  
-That emperor is gone, his reign long past.  
-What remains of this day, what of it lasts?  
-Just the display of courage, in that final stand,  
-Of those who stood, and died, at Chalman.
+짐작건대 마지막 연 끝의 '하나의 선택'은 새로워진 담쟁이 왕좌를 차지할 자가 누구인가에 대한 결단을 가리킨다. 그리고 '결박하는 말'은 자연의 정령 그 자체를 결박하고 부린다고 전해지는 드루이드 왕의 권능을 인정하는 것이리라. '모든 땅을 축복하거나 재앙으로 휩쓴다'는 대목은, 필자가 그 뜻을 밝힐 단서를 거의 찾지 못했다. 내가 이야기를 나눈 드루이드들은 이를 논하기를 거부했으나, 내가 보기에 이 예언은 길한 결말로도 흉한 결말로도 끝날 수 있는 듯하다. 허나 시스트레스의 드루이드들조차 카소레인의 꿈이 지닌 참뜻에는 의견을 같이하지 못하고 있다.
 
-[출처](https://www.imperial-library.info/content/those-who-stood-chalman-keep)
+[출처](https://www.imperial-library.info/content/annotated-dream-kasorayn)
 
 ---
 
-## Thoughts of the Honored Assistant
+## 카소레인의 마지막 꿈
 
-ID: ext-b78fb811e4f0d895952d
+ID: ext-3b5a6730eb30a4b7f67b / ESO 책 ID: 7365 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-To best ascertain and determine the needs of the residents of the Clockwork City, Lord Sotha Sil commanded me to create a series of factotums for the express purpose of collecting, analyzing, and interpreting social and environmental information in order to accurately predict trends and demands of the populace.  
+한 그루 나무 위에서 세 알의 씨앗을 보았네  
+로완과 물푸레와 참나무의 씨앗을.  
+정성껏 그것들을 흙 속에 심었네  
+우리 백성을 인도하고 가르치고자.  
   
-As the first model created, the Clockwork Analyst was designed for the primarily menial task of collecting and analyzing data relevant to the citizens of the Brass Fortress. This first generation analysis model factotum specializes in counting births and deaths, tracking residents and registered visitors, and recording illnesses, wealth, and social factors necessary to predict trends in the settlement. Once the concept is fully tested and vetted, we shall expand the project to the rest of the Clockwork City.  
+세 그루 나무, 아홉 가지, 오백 잎  
+뿌리마다 한 계절씩.  
+씨앗마다 깊은 잠에 들게 하라  
+그러면 왕좌가 새로워지리니.  
   
-The pass phrase for interacting with this factotum’s memory core is “Magus commands you.”  
+산이 흔들리고 씨 뿌리는 자가 깨어나면  
+왕좌는 다시 꽃피우리라.  
+하나의 선택, 하나의 의지, 하나의 묶는 말이  
+모든 땅을 축복하거나 짓벌하리라.  
   
-Taking everything we learned with the first generation factotum, we next created the second generation prognostication model. This factotum could take the data collected by the analyst and use that information to make accurate predictions concerning the wants and needs of the citizens. In this way, Sotha Sil could anticipate the needs of his guests and satisfy them before they ever realized they had any outstanding wants to gratify.  
-  
-During the process, however, a flaw developed in the prognostication model’s sequential analytical processor assembly. The predictions it provided regarding certain individuals went far beyond mere statistical analysis and ventured into the realm of actual prophecy. This flaw was first noticed after the Magus himself tinkered with the mechanism, so we cannot be certain that this was not what Sotha Sil intended. But the Master has vanished again. I shall store the prognostication factotum in the valley outside the Brass Fortress and lock this prophetic mode with the pass phrase:  
-  
-“Prime sequence eleven, thirteen, seventeen.”  
-  
-That should keep unauthorized prophesying to a minimum until the Master returns and I can ask for guidance regarding his intentions.
+머나먼 계절의 끝에 날이 오리니  
+씨 뿌리는 자를 또렷이 깨우는 날이.  
+기꺼이 바치면 만사가 좋으나  
+빼앗으면 재앙이 찾아오리라.
 
-[출처](https://www.imperial-library.info/content/thoughts-honored-assistant)
-
----
-
-## Thoughts on the Sacred Numbers
-
-ID: ext-7d20dcebba0288c7820a
-
-As I sit here in the perfection of this garden, I contemplate the Sacred Numbers that we recognize as Auspicious and critical to the existence of the universe.  
-  
-Three is the Number of the Prime Celestials, as embodied in the sun and the two moons. It is also the number of my perfect daughters, which is why we shall produce no other heirs.  
-  
-Five is the Number of the Elements, for reality consists of Earth, Air, Water, Fire, and Aether. It is also the number of books I have open upon my desk at any given time.  
-  
-Eight is the Number of the Planets, as well as the sum of three plus five. Eight is also the limit I impose when drinking glasses of Gossamer Tawny Port with the members of my philosophical society—no more and no less.  
-  
-These are the Good Numbers. And the sum of the Good Numbers, which we call Sixteen, is a very powerful number indeed.  
-  
-We must beware the Bad Number, though, for Two lacks vision and attempts to display duality, which we all know is impossible.
-
-[출처](https://www.imperial-library.info/content/thoughts-sacred-numbers)
+[출처](https://www.imperial-library.info/content/final-dream-kasorayn)
 
 ---
 
-## Threat of the Baandari Pedlars
+## 카수라의 쪽지
 
-ID: ext-ba055bc1ce3dad8d0031
+ID: ext-a232499c5b34a4a3f08f / ESO 책 ID: 5634 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-By Zuladr, High Priest of Satakalaam  
+드래곤가드의 전설은 탐리엘 전역에서 찾아볼 수 있다. 그들은 드래곤 사냥을 위한 무기와 기술을 개발하였으며, 우리 땅에서 드래곤이 거의 멸종에 이르게 된 것도 그들의 검 덕분이라 전해진다. 안타깝게도, 옛날의 위대한 드래곤가드 기사단은 오래전에 해산되었다. 그들의 지혜를 얻으려면 그들이 남긴 역사 기록과 문서, 그리고 유물에서 찾는 수밖에 없다.  
   
-This week, O faithful ones, my sermon is not a homily or a parable, but a warning: a warning to all true Redguards to beware the wiles of the devilish cat-people, those thieves and heretics who infest the fields outside our gates and call themselves Baandari Pedlars.  
+나는 두 곳의 드래곤가드 무덤을 발견했다고 생각하는데, 서로 꽤 가까운 거리에 있었다. 병사들은 개인 유품과 함께 매장되는 것이 일반적이었으니, 거기서 우리가 찾는 정보를 얻을 수 있기를 바란다. 내가 발견하는 일지 하나하나, 내가 발굴하는 유물 하나하나가 엘스웨어를 침략하는 드래곤에 맞서는 데 도움이 될 도구를 더해준다.  
   
-Long have we known that these itinerant beast-people use the mask of merchant to hide their true trades of theft, fraud, and chicanery. Why, then, do the magistrates continue to allow them to set up camp before the gates of our towns? Why are they not driven from our lands and never allowed to return?  
+두 무덤 모두 강력한 마법으로 보호받고 있는 듯하여, 입구가 눈에 보이지 않았다. 다행히도, 내 옛 제자가 드래곤가드의 매장 관행을 기술한 일지를 찾아냈다. 그 일지에는 무덤 입구 근처에 세 개의 글리프를 배치하는 관습이 적혀 있었는데, 드래곤가드의 인장이 있을 때 활성화된다고 하였다. 이 세 글리프가 무덤 입구를 여는 열쇠가 될 것이다.  
   
-Clearly other powers are at work here, infidel powers of sacrilege and evil. How else to explain the folly of those who patronize these creatures, and the blindness of those in authority who tolerate their open pandering and vice?  
+다만 두 무덤 모두 위험한 장소에 있다. 두 곳 모두를 찾아가기에는 시간이 지나치게 많이 걸릴 것 같고, 해머펠에서는 수도원과 제자들이 나를 기다리고 있다. 이 임무를 위해서는 다른 이의 도움이 필요하다. 그 협력자는 북쪽, 남쪽, 동쪽의 글리프를 찾아내고, 그것을 이용해 무덤을 열어야 한다.  
   
-“But how do you know this, O Zuladr?” you may ask. “How has this truth been revealed unto you?”  
+또 무척 흥미로운 구절을 하나 발견하였다. 무덤에 들어가는 데 꼭 필요한 것임은 분명하나, 어떻게 연관되는지는 아직 모르겠다. 입구가 드러남 그 구절의 의미도 명확해지기를 바란다.  
   
-And I ask you: what do we say when someone sneezes? We say, “Tu’whacca bless you”—do we not? And why do we say this? Because, as the ancient writings tell us, a sneeze is a sign of the presence of an evil spirit.  
-  
-And what happens to many of the faithful, myself very much included, when in the presence of one of these cat-people? We sneeze. We sneeze, our very eyes water, and we sneeze again.  
-  
-Heed, I say hearken to the warning of Tu’whacca. These Baandari are evil spirits incarnate. Abjure their company, avoid their camp, suffer not their tainted wares to be brought into your abode.
+"우리의 드레이크로, 명예가 봉인되었노라. 용기로써, 길이 드러나리라."
 
-[출처](https://www.imperial-library.info/content/threat-baandari-pedlars)
+[출처](https://www.imperial-library.info/content/kasuras-notes)
 
 ---
 
-## Three Thieves
+## 카스 베드로드의 카타콤베
 
-ID: ext-261461f9708bdc7bf28c
+ID: ext-cad4ed8c5f31ecd80912 / ESO 책 ID: 1270 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-“The problem with thieves today,” said Lledos, “Is the lack of technique. I know there’s no honor among thieves, and there never was, but there used to be some pride, some skill, some basic creativity. It really makes those of us with a sense of history despair.”  
+빅터 크로켈 지음  
   
-Imalyn sneered, slamming down his flagon of greef violently on the rough-hewn table. “B’vek, what do you want us to say? You asks us ‘What do you do when you see a guard?’ and I says, ‘Stab the fetcher in the back.’ What d’you prefer? We challenge ’em to a game of chits?”  
+카스 베드로드의 묘지는 하이락을 지키기 위해 수많은 전투에서 싸우고 강과 대지에 피를 흘린 가장 위대한 영웅들의 마지막 안식처이다. 그들은 바로 이 땅을 지키고자 자신의 모든 것을 바쳤다.  
   
-“So much ambition, so little education,” said Lledos with a sigh. “My dear friends, we aren’t mugging some Nord tourist fresh off the ferry. The Cobblers Guildhall may not sound intimidating but tonight, when the dues collection is housed there before being sent to the bank, the security’s going to be tighter than a kwama’s ass. You can’t just stab at every back you encounter and expect to make it into the vaults.”  
+"영웅"이란 단어의 의미는 보는 이의 관점에 따라 달라진다. 누군가의 영웅이 다른 이에게는 악당이 될 수 있고, 누군가의 왕이 다른 이에게는 폭군이 될 수 있다. 그러나 카스 베드로드에 묻힌 이들은 한 명도 빠짐없이 이 땅을 위해 싸우다 쓰러졌다. 그들은 저마다의 방식으로, 오늘날 우리가 이렇게 살아갈 수 있도록 해주었다.  
   
-“Why don’t you explain specifically what you’d like us to do?” asked Galsiah calmly, trying to keep the tone of the group down. Most locals at the Plot and Plaster cornerclub in Tel Aruhn knew enough not to listen in, but she knew better than to take any chances.  
+그리고 이 영웅들의 무덤 아래에는 카타콤베가 있다. 나는 그곳에 과거의 왕들과 여왕들, 그리고 왕족들이 안치되어 있다고 확신한다. 주변 전원 지대를 조사한 결과 카타콤베가 실존한다는 사실을 알 수 있었다. 그러나 이 은밀한 지하묘지로 통하는 입구는 아직 찾지 못하였다. 기존 기록이 불완전하거나 아예 존재하지 않는 몇 가지 주제에 대해 추론을 펼쳐보고자 한다.  
   
-“The common thief,” said Lledos, pouring himself more greef, warming to his subject. “Sticks his dagger in his opponent’s back. This may slay the target, but more often gives him time to scream and drenches the attacker with blood. Not good. Now a good throat-slashing, properly executed, can both slay and silence a guard and leave the thief relatively bloodfree. And after all, after the robbery, we don’t want people seeing a bunch of blood-soaked butchers running through the streets. Even in Tel Aruhn, that’s likely to warrant suspicion.”  
+우리 시대 이전, 알레시아와 디레니 간의 수많은 전투 중 가장 치열한 싸움이 바로 이 땅에서 벌어졌다. 이곳에서 일어난 대전투에서 수천 명이 목숨을 잃었다. 그 전쟁들이 끝난 뒤, 마지막 에일리드 왕이 서거하고 디레니 혈통도 점차 가늘어졌다.  
   
-“If you can catch your victim lying down asleep or resting, you are in an excellent position. You place one hand over the mouth with your thumb under the chin, then you use your other hand to slit the throat, and quickly turn the head to one side so the body bleeds out away from you. There is a risk here of becoming blood stained if you don’t move the head quickly enough. If you’re unsure, strangle the victim first to avoid the blood that tends to spurt out in three foot jets when someone is stabbed while alive.”  
+그러나 디레니는 가장 강력한 마법을 자유자재로 구사하였다. 디레니 이전에도, 이후에도 볼 수 없었던 종류의 마법이었다는 이야기도 전해진다. 바로 그 마법이 있었기에 디레니는 알레시아의 압제를 무너뜨리고 그 군대를 저지할 수 있었다.  
   
-“A very good friend of mine, a thief in Gnisis whose name I won’t mention, swears by the strangle-and-slash technique. Simply put, you grab your victim’s throat from behind and while throttling him, you batter his face against the opposite wall. When the victim is thus rendered unconscious, you slash his throat while still holding him from behind, and the risk of staining one’s clothes with blood is practically nonexistant.”  
+내가 내릴 수 있는 결론은 하나뿐이다. 카스 베드로드 아래에 잠들어 있는 이들은 오랜 세월 전 전투에서 쓰러진 영웅들이라는 것. 디레니는 동족을 그곳에 묻고 안식처가 결코 침범되지 않도록 지하묘지를 봉인하였다.  
   
-“The classic technique, which requires less grappling than my friend’s variation, is to place one hand over the victim’s mouth, and then saw through the throat in three or four stroke rather like playing a violin. It requires little effort, and while there’s quite a bit of blood, it all jets forward away from you.”  
+이 가설을 뒷받침하는 새로운 증거를 찾아 계속 연구해나갈 것이다. 그리고 이 카타콤베로 통하는 입구를 발견하기를 희망하며 카스 베드로드 탐사를 멈추지 않으리라.  
   
-“There’s no reason when one knows one is going to be slitting some throats not to take some precautions and bring some extra equipment. The best neck-hackers I know generally carry a bit of wadded cloth on the aft-side of their knives to keep blood from getting on their cuffs. It’s impractical for this sort of assignment, but when you’re only anticipating one or two victims, nothing beats throwing a sack over the targets head, drawing the string tight, and then supplying the killing blow or blows.”  
-  
-Imalyn laughed loudly, “Can I see a demonstration sometime?”  
-  
-“Very soon,” said Lledos. “If Galsiah has done her job.”  
-  
-Galsiah brought out the map of the guildhouse, freshly stolen, and they began to detail out the strategy.  
-  
-The last several hours had been a whirlwind to all. In less than a day, the three had met, formulated a plan, bought or stolen the necessary ingredients, and were about to execute it. Not one of the three were sure whether confidence or stupidity were driving the other two, but the fates were aligned. The guildhouse was going to be robbed.  
-  
-When the sun set, Lledos, Galsiah, and Imalyn approached the Cobblers Guildhouse on the east end of town. Galsiah used her cachous of stoneflower to mask their scent from the guard wolves as the three passed over the parapets. She also acted as lead scout, and Lledos was impressed. For someone of relative inexperience, she knew her way through shadows.  
-  
-Lledos’s expertise was demonstrated a dozen times, and the guards were of such a diverse variety, he was able to demonstrate all the means of silent assassination he had developed over the years.  
-  
-Imalyn opened the vault in his unique and systematic method. As the tumblers fell beneath his fingers, he softly sang an old dirty tavern song about the Ninety-Nine Loves of Boethiah. He said it helped him focus and organize difficult combinations. Within seconds, the vault was open and the gold was in hand.  
-  
-They left the guildhouse an hour after they entered. No alarm had been raised, the gold was gone, and corpses lay pooling blood on the stone floors within.  
-  
-“Well done, my friends, well done. You learned well.” Lledos said as he poured the gold pieces into the specially designed compartments in his tunic’s sleeves, where they held fast with no jingling or unusual bulges. “We’ll meet back at the Plot and Plaster tomorrow morning and split up the bounty.”  
-  
-The group parted ways. The only person who knew the most covert route through the city’s sewer system, Lledos, slipped in through a duct and vanished below. Galsiah threw on her shawl, muddied her face to resemble an old f’lah fortune-teller, and headed north. Imalyn headed east into the park, trusting his unnatural senses to keep him away from the citywatch.  
-  
-Now I teach them the greatest lesson of all, thought Lledos as he sloshed through the labyrinthine tunnels of sludge. His guar was waiting where he left it at the city gates, making a laconic lunch of the chokeweed shrub to which it had been leashed.  
-  
-On the road to Vivec, he thought of Galsiah and Imalyn. Perhaps they had been caught and brought in for questioning already. It was a pity he couldn’t see them undergoing interrogation. Who would break under pressure first? Imalyn was certainly the tougher of the two, but Galsiah doubtless had hidden reserves. It was merely intellectual curiousity: they thought his name was Lledos and he was meeting them at the Plot and Plaster. The authorities wouldn’t therefore be looking for a Dunmer named Sathis celebrating his wealth miles and miles away in Vivec.  
-  
-As he prodded his mount forward and the sun began rising, Sathis pictured Galsiah and Imalyn not undergoing interrogation, but sleeping the good deep sleep of the wicked, dreaming of how they would spend their share of the gold. Both would wake up early and rush to the Plot and Plaster. He could see them now, Imalyn laughing and carrying on, Galsiah hushing him to avoid bringing undue attention. They would take a couple flagons of greef, perhaps order a meal — a big one — and wait. Hours would pass, and so would their moods. The chain of reactions that every betrayed person exhibits: nervousness, doubt, bewilderment, anger.  
-  
-The sun was fully risen when Sathis reached the stables of his house on the outskirts of Vivec. He reigned in his guar and filled its feed. The rest of the stalls were empty. It wouldn’t be until that afternoon when his servants returned from the feast of St Rilms in Gnisis. They were good people, and he treated them well, but from past experience he knew that servants talked. If they began to connect his absences with thefts in other towns, it was only a matter of time before they would go to the authorities or blackmail him. After all, they were human. It was best in the long run to give them a week off with pay whenever he was out of town on business.  
-  
-He slipped the gold into the vault in his study, and went upstairs. The schedule had been tight, but Sathis had given himself a few hours to rest before his household returned. His own bed was wonderfully soft and warm compared to the dreadful mattress he had to use at the canton in Tel Aruhn.  
-  
-Sathis woke up some time later from a nightmare. For a second after he opened his eyes, he thought he could still hear Imalyn’s voice nearby, singing The Ninety-Nine Loves of Boethiah. He lay still in his bed, waiting, but there was no sound except the usual creaks and groans of his old house. Afternoon sunlight came through his bedroom window in ribbons, catching dust. He closed his eyes.  
-  
-The song returned, and Sathis heard the vault door in his study swing open. The smell of stoneflower filled his nose and he opened his eyes. Only a little of the afternoon sunlight could pierce the inside of the burlap sack.  
-  
-A strong, feminine hand clamped over the mouth and a thumb jabbed under his chin. Just as his throat opened and his head was shoved to the side, he heard Galsiah in her typical calm voice, “Thank you for the lesson, Sathis.”
+이 무덤들을 수호하는 디레니의 마법을 건드리지 않기를 바랄 뿐이다.
 
-[출처](https://www.imperial-library.info/content/three-thieves)
+[출처](https://www.imperial-library.info/content/catacombs-cath-bedraud)
 
 ---
 
-## Through Doom and Darkness
+## 카스타브 황제의 묘비명
 
-ID: ext-4706cbce5646d5aa0dc1
+ID: ext-b966eae5e05e684a0e70 / ESO 책 ID: 5384 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-The Chosen Warrior must be fearless even in the face of certain death.  
+여기, 폐위되었으나 신성불가침한 카스타브 황제의 필멸자 유해가 잠들다. 서기 2812년에 서거하셨노라. 그분의 매장을 끝마쳤으니, 나는 숙소로 돌아가 스스로 목숨을 끊으리라.   
   
-They must not allow darkness into their heart.  
-  
-To have no fear of death because one does not value life is easy.  
-  
-This is the deception of the Dark.  
-  
-The Chosen Warrior fans the flames that burn in their breast,  
-  
-Their heart alight with life and love.  
-  
-They fight because they must,  
-  
-To protect their life and the lives of others.  
-  
-Know this, or you will not don the mask.
+—명예근위대장 사디네라스-코르
 
-[출처](https://www.imperial-library.info/content/through-doom-and-darkness)
+[출처](https://www.imperial-library.info/content/emperor-kastavs-epitaph)
 
 ---
 
-## Thukhozod’s Bracer
+## 카스파이어 초원 전투
 
-ID: ext-6c8e4546b2b9a5c28841
+ID: ext-29ebee9de20acdf67622 / ESO 책 ID: 6384 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Few legends among the Orsimer inspire more respect and fear than the legend of the great Thukhozod. This great and powerful necromancer has been around for generations, apparently ageless and undying. Of course, for every story where an Orc has seen or interacted with the great Thukhozod, there are five more who claim to have explored his lair and seen no sign of the mysterious figure.  
+리치는 대부분의 학자들이 익숙한 방식으로 자신들의 이야기를 쓰지 않는다. 이야기를 한 사람에서 다른 사람에게 전하는 그들의 전통은 아름다우며, 나는 그에 깊은 경의를 품고 있다. 그러나 내 안의 학자는 이야기를 글로 적어 두지 않고는 가슴에 품기가 힘들다. 내게 글로 적는 것은 이야기를 소중히 여기는 또 다른 방식이다. 전하는 내용은 달라지지 않으나, 양피지에 단어를 써 내려가는 행위는 이야기를 내 마음 깊이 새기는 친밀한 방법이 된다. 물론 이야기를 전하는 단 하나의 올바른 방식 같은 것은 없다. 다만 나는 리치의 바테슈란에게서 이 이야기를 들었고, 그것은 내 안에 발톱을 박아 종이에 옮겨 적을 때까지 나를 놓아주지 않았다. 이 사본을 바테슈란 본인에게 바치고 싶다. 그가 이것을 읽는 법을 익히기를 기대하지 않으며, 그럴 것을 요청하지도 않을 것이다. 이것은 그에게 드리는 나의 표장이자, 그가 이야기를 나와 나누어 준 것에 대해 내 나름의 방식으로 감사를 전하는 방법이다.  
   
-Whatever the truth of the legendary necromancer, multiple tales talk about the unique bracer he wears upon his left arm. While not magical, it is said to be beautiful and striking. It would make a great addition to the exhibits in the House of Orsimer Glories.
+어쩌면 그는 이것을 외부자의 어리석음으로 여기며 버려 버릴지도 모른다. 그래도 괜찮다. 이 이야기를 들을 수 있었던 것만으로도 감사하다.  
+  
+* * *  
+카스파이어 초원의 전투  
+바테슈란 바스가 들려준 이야기  
+  
+그것은 전투라기보다 피의 바다였다. 식스포드와 이글시어는 싸운 것이 아니라 그저 피를 흘렸을 뿐이다. 초원의 풀은 빨갛게 흠뻑 물들어 멀리서 보면 검정색으로 보였다 한다.  
+  
+뚜렷한 승자는 없었다. 리치포크 사이의 분쟁치고는 드문 일이었다. 많은 전투가 이 전투만큼이나 격렬한 분노와 기세로 치러졌으나, 역사적으로 한 위력은 결국 굴복하기 마련이다. 이것이 전투의 본질이다. 어느 쪽이든, 아무리 격분해 있어도 압박을 받으면 기세가 꺾인다. 그러나 이 전투는 달랐다. 어느 쪽도 기세가 꺾이지 않았다. 그들은 서로를 향해 몸을 내던지며, 절벽에 부딪히는 파도처럼 쉼 없이 충돌을 계속하였다.  
+  
+각 일족의 남녀는 죽을 작정이라도 한 듯 싸우는 것 같았다. 승리 따위는 안중에도 없고, 오직 약탈만이 있었다.  
+  
+이글시어의 지도자 마도르파는 전투 초반에 치명상을 입었다. 창이 그의 다리에 박혀 걸을 수 없게 된 것이다. 그는 계속 싸우기 위해 서 있을 필요가 없도록 곁에 있는 이들에게 자신을 인근 기둥에 묶으라고 고집하였다. 전투는 승패보다 더 어둑한 무언가가 되어 가고 있었다. 억제할 수도, 막을 수도 없는 분노, 오직 적을 최대한 많이 쓰러뜨리는 것만을 목적으로 하는 분노였다.  
+  
+그날 카스파이어 초원에서 살아 걸어 나온 리치포크는 얼마 되지 않았다.
 
-[출처](https://www.imperial-library.info/content/thukhozods-bracer)
-
----
-
-## Thulgeg’s March
-
-ID: ext-89c5b505732638935115
-
-For many years, the Orcs of the Hollow Wastes held strong against the Ra Gada. But year after year the Redguard kingdoms of the coast grew stronger, while the holds of the desert Orcs fell one by one.  
-  
-In that time, the warrior-chief Thulgeg came of age. He looked to the north, the west, and the south, and said to his people, “Our enemies surround us, and still our clans bicker with each other. We must stand together under one banner, or be defeated alone.”  
-  
-The desert clans heard Thulgeg, and gathered their strength. When a host from Hegathe marched against the hold of Clan Korkhugg, Thulgeg brought all the desert clans to Korkhugg’s defense. He dealt the Redguards of Hegathe a sharp defeat, driving them back to their stone-walled city. In token of his victory, the assembled chiefs named him Warlord and swore to follow wherever he led.  
-  
-Thulgeg, however, perceived the seeds of defeat in victory. Even united, the clans lacked the strength to overwhelm Hegathe’s walls. The Warlord stood upon a hill looking down at the city, and thought long before he came down again.  
-  
-“Our homeland is a house with three open doors,” Thulgeg said to the desert chiefs. “The sea rings our desert on three sides. We cannot win a war against enemies who can come against us from all directions at once. But in the east, we can put our backs to the mountains. We must win our survival with our feet, not our spears.”  
-  
-Heavy were the hearts of those who heard Thulgeg speak, but they knew he was right. While the Redguards mustered their strength, the desert clans took apart their forges and gathered all that could be carried. Then Thulgeg led them east. Many Goblin tribes joined their ranks, swelling their numbers.  
-  
-Through the canyons of Tigonus Thulgeg marched, a journey filled with thirst and suffering equal to any battle. In the Fallen Wastes, the Redguards of Hel Ra sought to stop him. But Thulgeg led a vanguard of a thousand warriors against the foes in their way, and cleaved a path for the desert clans following him.  
-  
-Turning north, Thulgeg came to the gates of Bangkorai, hoping to cross the mountains before the pass could be held against him. Alas, word of Thulgeg’s march had run ahead of his clans, and the men of High Rock stood ready to defend the pass. Once again, Thulgeg hurled his warriors against his foes, but after a long day of battle the defenses still held.  
-  
-With a great Redguard host gathering at his heels, Thulgeg knew he was caught between the hammer and anvil. He called his chiefs together. “We cannot stay, but we cannot leave foes behind us,” he told them. “Let our clans march on to the mountains under cover of darkness, but leave our campfires burning. I will remain behind with five hundred warriors so that our foes believe we are still here.”  
-  
-The clans did as the Warlord commanded. For three days, Thulgeg feigned assault after assault, keeping the men of High Rock behind their walls and drawing the Redguard host north to Bangkorai while the desert clans retreated into the mountains. Only then did Thulgeg and those few who survived make their own escape.  
-  
-When the Redguard host came to the deserted camp before the walls of Bangkorai, they saw the dead and they saw the abandoned tents. There they stopped, believing they had destroyed the desert clans to the last Orc. But the Warlord’s people survived, and in time Thulgeg led them to Wrothgar where they helped lay the foundations of Orsinium.
-
-[출처](https://www.imperial-library.info/content/thulgegs-march)
+[출처](https://www.imperial-library.info/content/battle-karthspire-lea)
 
 ---
 
-## Thwarting the Daedra
+## 카시피아 섭정을 기리며
 
-ID: ext-b86528b797ffaf4335f2
+ID: ext-24c30a3330413c3fb074 / ESO 책 ID: 2652 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Even in peaceful times, Daedric Princes doggedly prod at Tamriel, building power and working toward their vile goals. Now, as war erupts across the provinces, it is certain they’ve doubled their malevolent efforts, and every citizen must be on the lookout for evidence of Daedric activities. As Cyrodiil’s Province General for the Fighters Guild, I take my responsibility to educate and protect seriously. Knowledge, which I offer you here, is a mighty weapon—a population that knows what to look for can stop a cult before it manages any large-scale atrocities.  
+용뱀 계략의 섭정 집사장, 리틀 리프 저  
   
-Mehrunes Dagon is a particularly nasty character among the gallery of horrors from Oblivion. He revels in destruction on a grand scale, from deaths caused by floods or earthquakes to mass murders, and enjoys making a show of any influence he can exert on Nirn. His penchant for flagrant displays of power makes it no surprise that his cults draw more membership than those of the less conspicuous Princes.  
+나와 뜻을 같이하는 일부 이들에게 이 글은 몰취미하다 여겨질 수도 있다. 다른 이들에게는 차라리 신성 모독이나 다름없을 것이다. 그러나 이 생각을 더 이상 혼자 품고 있을 수는 없다. 그러다가는 머리가 산산조각 터져버릴 것 같다! 그런 경험은 사양하고 싶다.  
   
-What can a regular citizen do, though, in the face of such evil? More than you might think! Everyone can learn to recognize the early signs that a cult might be nearby. Dismantling a cult before it grows to an appreciable size is the most effective way to stamp out Daedric influence and prevent massive summonings, wanton destruction, and other disasters from coming to fruition. This guide will help you recognize the stirrings of Daedric cults, especially those of Mehrunes Dagon:  
+먼저, 내가 누구인지, 그리고 왜 용뱀 계략의 섭정이자 상부 크라그론 비늘 궁정 부대의 지도자, 아름다운 카시피아의 미덕에 대해 쓸 자격이 있는지를 밝혀야겠다.  
   
-First, be aware of your neighbors. Watch for unexplained changes in their routines or behavior, strange flashing lights in their fields or homes late at night, eerie chanting, and disappearances of farm animals (or, worse, other neighbors). These can all be signs of a budding cult. Be wary of strangers in town who take special interest in outcasts, criminals, or unruly teenagers—all of these are common recruitment targets.  
+내 이름은 리틀 리프. 비늘 궁정에 합류하기 전부터 여주인을 모셔 왔다. 카시피아를 처음 만난 것은 아우리돈에서였는데, 그때 그녀는 메이지 길드의 고위 인사였다. 그녀는 멀리서 자신의 힘과 우아함에 감탄하는 나를 알아보고, 직접 나를 곁에서 시중들도록 선택해 주셨다. 그때부터 나는 그녀의 가장 내밀한 생각과 사색을 털어놓을 수 있는 상대가 되어, 그녀의 복심이자 고해를 받아 주는 자가 되었다. 카시피아를 나보다 더 잘 아는 자는 없다. 나처럼 온 마음과 영혼을 다해 그녀를 믿는 자도 없다.  
   
-Cults of Mehrunes Dagon have some unique characteristics. We in the Fighters Guild have identified the end of Sun’s Dusk as a particularly active time for these organizations. If a cult of Dagon operates in your area, you may notice changes in your environment as they attempt to incite disasters—more rain, no rain, or unusual tremors in the ground can all be signs. Dagon cultists also exhibit a sick fascination with setting buildings, animals, and people ablaze and often bear the symbol of a fiery, rising sun.  
+뱀이 우리의 주인이자 통치자인데 어찌 이런 말을 할 수 있느냐 하겠지. 물론 나는 뱀을 믿고 우러른다. 진심으로! 그야말로 우리가 비늘 궁정에 가담한 이유 자체다. 그러나 뱀이 비늘 궁정에 시시각각 명령을 내리는 것은 아니다. 낮에도 밤에도 내 곁에 있어 주지는 않는다. 그리고 감히 말하건대, 내가 사랑하는 카시피아의 아름다운 용모와 빼어난 자태에 근처도 오지 못한다.  
   
-If you suspect someone you know of cult involvement, proceed with caution. Even someone close to you can be corrupted, and it is difficult to remove the black roots of Daedric filth once they take hold. Do not hesitate to report your suspicions—if they can be reached early enough, it may be possible to reverse the influence of the cult. For your own safety, do not act alone or attempt to confront a possible cult member. Even a once-trustworthy friend involved with a cult may mean you harm. Report immediately to the Fighters Guild, where professionals can assist you!  
+뱀의 뜻을 따라 철갑 오크를 우리 편으로 끌어들인 것은 누구인가? 말할 것도 없이 카시피아다. 그녀는 뱀의 명령에 따르면서도, 언제나 자신과 추종자들을 위한 기회와 행운을 만들어 낼 방도를 찾는다.  
   
-Armed with this knowledge, you can aid all of Tamriel in preventing Daedric cults from growing and spreading. Pass this book along to a friend or neighbor and we will stop the Daedric threat together.
+그러나 내가 그녀에게 흠뻑 빠진 몽상가라 여기기 전에, 왜 카시피아가 우리 안에서 이토록 높이 올라섰는지를 이야기해 두겠다. 카시피아는 무자비하다. 강하고 카리스마가 넘친다. 그리고 비늘 궁정에 무엇이 최선인지를 안다—하부 크라그론에서 우리에게 불운한 좌절을 안겨 준 그 멍청한 작자들과는 달리! 뱀의 '선택받은 자들'이 지역 남부를 잃어 가는 동안, 카시피아 섭정은 상부 크라그론에서 분주히 활약하였다.  
+  
+그러하니, 카시피아 섭정을 기리라! 그녀가 오래도록 뱀을 섬기고 비늘 궁정을 이끌기를!
 
-[출처](https://www.imperial-library.info/content/thwarting-daedra)
-
----
-
-## Thwarting the Daedra: Dagon’s Cult
-
-ID: ext-a800423d4d6a6e3497e4
-
-By Flaminius Auctor, Province General  
-  
-Even in peaceful times, Daedric Princes doggedly prod at Tamriel, building power and working toward their vile goals. Now, as war erupts across the provinces, it is certain they’ve doubled their malevolent efforts, and every citizen must be on the lookout for evidence of Daedric activities. As Cyrodiil’s Province General for the Fighters Guild, I take my responsibility to educate and protect seriously. Knowledge, which I offer you here, is a mighty weapon—a population that knows what to look for can stop a cult before it manages any large-scale atrocities.  
-  
-Mehrunes Dagon is a particularly nasty character among the gallery of horrors from Oblivion. He revels in destruction on a grand scale, from deaths caused by floods or earthquakes to mass murders, and enjoys making a show of any influence he can exert on Nirn. His penchant for flagrant displays of power makes it no surprise that his cults draw more membership than those of the less conspicuous Princes.  
-  
-What can a regular citizen do, though, in the face of such evil? More than you might think! Everyone can learn to recognize the early signs that a cult might be nearby. Dismantling a cult before it grows to an appreciable size is the most effective way to stamp out Daedric influence and prevent massive summonings, wanton destruction, and other disasters from coming to fruition. This guide will help you recognize the stirrings of Daedric cults, especially those of Mehrunes Dagon:  
-  
-First, be aware of your neighbors. Watch for unexplained changes in their routines or behavior, strange flashing lights in their fields or homes late at night, eerie chanting, and disappearances of farm animals (or, worse, other neighbors). These can all be signs of a budding cult. Be wary of strangers in town who take special interest in outcasts, criminals, or unruly teenagers—all of these are common recruitment targets.  
-  
-Cults of Mehrunes Dagon have some unique characteristics. We in the Fighters Guild have identified the end of Sun’s Dusk as a particularly active time for these organizations. If a cult of Dagon operates in your area, you may notice changes in your environment as they attempt to incite disasters—more rain, no rain, or unusual tremors in the ground can all be signs. Dagon cultists also exhibit a sick fascination with setting buildings, animals, and people ablaze and often bear the symbol of a fiery, rising sun.  
-  
-If you suspect someone you know of cult involvement, proceed with caution. Even someone close to you can be corrupted, and it is difficult to remove the black roots of Daedric filth once they take hold. Do not hesitate to report your suspicions—if they can be reached early enough, it may be possible to reverse the influence of the cult. For your own safety, do not act alone or attempt to confront a possible cult member. Even a once-trustworthy friend involved with a cult may mean you harm. Report immediately to the Fighters Guild, where professionals can assist you!  
-  
-Armed with this knowledge, you can aid all of Tamriel in preventing Daedric cults from growing and spreading. Pass this book along to a friend or neighbor and we will stop the Daedric threat together.
-
-[출처](https://www.imperial-library.info/content/thwarting-daedra-dagons-cult)
+[출처](https://www.imperial-library.info/content/in-praise-of-regent-cassipia)
 
 ---
 
-## Tide Returns You
+## 카시피아의 심경 변화
 
-ID: ext-14fbf29e529e71278cce
+ID: ext-1fbee1758a62f44248ab / ESO 책 ID: 2654 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-(A folk song of the Tide-Born tribe.)  
+용뱀 책략의 섭정을 모시는 집사장, 리틀 리프 지음  
   
-Bubbling surf and crashing tide  
+비늘 궁정에서 용뱀 책략의 섭정이라는 칭호를 지닌 카시피아는 언제나 열두 수 앞을 내다본다. 전사가 여러 무기를 지니고 다니며 어떤 상황이 닥치든 알맞은 도구를 뽑아 들 채비를 하듯, 그분은 만일의 사태와 대비책을 늘 품고 다닌다. 허나 근래의 행보는 나를 혼란에 빠뜨렸다. 무엇이라 여겨야 할지 모르겠다! 어쩌면 내가 아는 바를 적어 내려가다 보면, 내가 가야 할 길이 한결 또렷해질지도 모른다.  
   
-Listen close to the words they hide  
+카시피아의 복잡한 생각을 그릇되이 그려내고 싶지 않기에 그분의 행적을 낱낱이 종이에 옮기기란 영 내키지 않으나, 내가 보고 들은 것만큼은 반드시 기록해 두어야 한다. 그분의 적들이 진실을 비틀어 그분을 뱀을 증오하는 악당 따위로 그려내게 둘 수는 없다. 세상은 카시피아의 광채를 있는 그대로, 백만 별처럼 밝고 꿰뚫는 그 빛으로 보아야 한다. 그분이 뒤집어쓸 수도 있는 그 초라한 빛이 아니라.  
   
-When River discarded your memories dear  
+우리 연금술사들이 넌크럭스라 부르는 원초의 원소와 에이테리우스의 천상 에너지 사이의 연관을 처음 알아챈 이가 바로 카시피아였다. 그 원소로 철갑 오크의 작업을 끌어올리자는 발상이 카시피아에게 거의 곧바로 떠올랐다. 그리고 그것으로 새로운 생물을 빚어내자는 천재적 착상은, 뱀 그 자신에게나 어울릴 법한 순수한 영감의 순간에 그분께 찾아왔다.  
   
-Our Father of Change willed you back here  
+허나 그 뒤, 그분의 작업이 뱀의 명에 따라 어찌 쓰이는지를 보고서 나의 벗이자 주인이신 그분은 점점 격노에 휩싸였다. 이를테면 그분은 만티코라를 빚어낸 것을 아꼈으나, 그것이 한낱 파괴의 동력으로 변질되는 것을 미워했다. 철갑 오크가 야금술과 연금술로 보여준 솜씨는 높이 샀으나, 그토록 빼어난 장비가 한낱 트롤과 웰와에게 낭비되는 것은 몹시 못마땅해했다.  
   
-Washed to egg by waters warm  
+한마디로 말하면, 카시피아는 뱀에게 등을 돌렸고, 나는 그 사실을 어찌 받아들여야 할지 모르겠다. 그분은 비늘 궁정을 이 세상이 일찍이 본 적 없는 위대함으로 이끌겠다 말씀하시나, 뱀의 축복 없이 어찌 그것을 이루어 내신단 말인가? 나는 그분을 믿고 싶다. 내가 사랑하고 또 아는 그 여인을 믿고 싶다. 허나 나 또한 뱀의 휘감는 품을 등질 수 있을까?  
   
-Returned to Solstice to take new form  
+카시피아는 용뱀 책략의 섭정이요, 나는 그분의 일렁이는 그림자 안에 서는 것조차 겨우 감당할 자에 지나지 않는다. 나는 그분이 무엇을 꾀하시는지 어렴풋이 안다. 안정된 넌크럭스로 어떻게 당신의 힘을 드높이려 하시는지를. 허나 이제는 모든 것이 잘못된 듯 느껴진다. 그리고 그분이 하시려는 일은 내게 너무도 위험하게 들린다. 나는 그분의 안위가 두렵다.   
   
-Born again to a second chance  
-  
-Join your siblings in this Tide-Born dance  
-  
-River hewn and tide reborn  
-  
-You walk the path you could not before  
-  
-River hewn and tide reborn  
-  
-Search for scales you were destined to adorn  
-  
-A new life to reach heights denied  
-  
-This is the truth behind the Tide  
-  
-Do not chase scales worn and old  
-  
-The Tide wishes you scales of gold  
-  
-So cast aside doubt and face your fears  
-  
-Or risk wasting these gifted years  
-  
-Fill your chest with wind like sails  
-  
-And venture forth toward destined scales  
-  
-River hewn and tide reborn  
-  
-You walk the path you could not before  
-  
-River hewn and tide reborn  
-  
-Search for scales you were destined to adorn  
-  
-Search for scales you were destined to adorn
+아, 나는 어찌해야 한단 말인가?
 
-[출처](https://www.imperial-library.info/content/tide-born-song)
+[출처](https://www.imperial-library.info/content/cassipias-change-heart)
 
 ---
 
-## Tide-Born Funerary Practices
+## 카알: 기록관 조수
 
-ID: ext-d0b4f82bf0c7a450ff4c
+ID: ext-7c69b965654cbbc6cc9f / ESO 책 ID: 8207 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-by Curate Farimon, Keeper of the Rites for the Dead  
+상인 피랄딜의 사역마  
   
-I visited Shell-Tide village, the hub of Tide-Born culture, as part of my research and work for the College of Rituals. There I met a young Argonian by the name of Tlali-Haas. He introduced himself as the tide-reader’s assistant, and while I feel the need to note this seemed to be a self-made title, his eagerness was energizing. We spent hours sitting beneath the opalescent roof of a giant seashell and sipping at a hot, thick brew he called saiewin atol, a type of grain drink if I understood correctly.  
+이쪽은 제가 아끼고 사랑하는 사역마, 카알입니다. 여러 해 동안 저와 함께해 왔지요. 부디 판매원이자 기록관 조수이며 메이지 길드의 어엿한 일원인 카알을 더없는 존중과 친절로 대해 주시길 바랍니다.  
   
-Now, in the past, I have found my prodding into Saxhleel funerary practices to be met with suspicion, which I can hardly begrudge, but Tlali-Haas was unfazed. Almost immediately he rattled off a chittering speech about tidal votives and grave-stakes before I could put down my drink and make notes. So, if you find there to be inaccuracies in my depiction of Tide-Born funerary practices, please know they were the result of an old Elf trying to keep up with a young, let us say, cultural ambassador.  
-  
-To best understand how the Tide-Born lay their kin to rest, we must start with their adolescence. At a young age, the Tide-Born are given a tidal votive, a small trinket or talisman that is chosen by those closest to them. This can be a parent, guardian, or even mentor figure, as blood, or rather egg clutch, does not guarantee a deep familial connection.  
-  
-Tlali-Haas, for instance, was gifted a small conch shell by Shoal-Tender Noki. Tlali explained that this conch has a small hole near its tip that added a soft whistle to the ocean sounds contained in the shell. A reminder that every Tide-Born’s connection to the tide is their own, and that no two songs sound the same.  
-  
-Once a Tide-Born has been gifted their votive, they must decide where it will be stored. Often this will not be their residence, but a location on Solstice where they feel closest to the tide’s song. From flower fields and rocky bluffs to the hatchery or giant seashells that litter the shore. The practice allows the Tide-Born to carve out their own places of worship. That the very act of prayer or meditation is itself ephemeral and impermanent. It is likely that you, dear reader, have walked past hidden votives without ever knowing it.  
-  
-Many Tide-Born reach a natural and peaceful end, but others are taken too soon. From accidents, to storms, to the numerous forces who have tried to claim Solstice as their own. These sudden deaths can leave a Tide-Born spirit to wander the island. You see, their votive is meant to accompany the dead in their final moments so that they may return to the tide with the prayers they accumulated over their lifetime.  
-  
-When their time nears, and a death-dancer has been summoned to perform their rites, they entrust a member of the village with the collecting of their votive. But when death claims them suddenly and they had not entrusted their votive’s location to an egg-kin, it is up to the death-dancer to entreat Sithis for the safe passage of the spirit into the Void. Or, in rare cases, the summoning of the departed spirits so they may reveal their votive’s location, though this practice is known by only a few death-dancers and can risk the trapping of these spirits to the land.  
-  
-As I understand it, the Tide-Born believe that they are returned to Nirn so that they may be given another chance to reach their destined scales. Whether a Tide-Born believes they’ve achieved such a thing affects the way in which they are buried.  
-  
-An Argonian who believes they attained their destined scales will be given a burial not dissimilar to mainland Argonians. A grave-stake carved with the Argonian’s story is plunged into their body, rooting them in a revered burial plot near Shell-Tide Village where they will be remembered in song and prayer.  
-  
-An Argonian who fears they fell short of their goal will instead have their bodies pinned along the island’s sand bars. A grave-stake is still used to hold the body in place, but only until the tide, and its myriad of creatures, can reduce the body to nothingness. An expedited return to the Void so that their cycle may begin again.  
-  
-It was at this point, as I looked out across the sea, that I noticed the slivers of wood poking out of a distant sand bar hidden by the tide. Tlali followed my eye, grinned, and said simply, “perhaps when they return, I will be Tide-Reader.” A sentiment that seemed to neatly capture what I’d come to realize about the tide. Its presence is constant on Solstice. A rhythm that had come to inform the evenness of my breath and the pace of our conversation.  
-  
-The tide does not rush. It does not stand still. It merely flows in and out.
+장담컨대, 그녀는 전문가입니다. 그대가 정중히 대하면 그녀 또한 그대를 정중히 대접할 것입니다.
 
-[출처](https://www.imperial-library.info/content/tide-born-funerary-practices)
+[출처](https://www.imperial-library.info/content/caal-assistant-chronicler)
 
 ---
 
-## Tindoria’s List of Needed Supplies
+## 카이머의 변화
 
-ID: ext-a727c933a74b3623dfaf
+ID: ext-cb661b308afe2a875cc8 / ESO 책 ID: 8153 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Rare Dye: Haemelin’s rare dye is the only thing that can produce the most gorgeous shade of teal in Summerset, but she will not part with it easily. You can find the bitter hermit at her cottage at the marked location. Trade her the Yokudan Blue Tea for the dye.  
+알레시아의 선택을 받은 자, 칼로타 마로 저.  
   
-Roach Carcass: The carcass of Brodran’s roaches produce a silvery gray when ground up. This shade is absolutely delightful for rocky landscapes. Find Brodran at his farm at the marked location. He’ll already have his payment in full, and should simply hand you the ingredients when you announce my name.  
+기이한 사건들이 우리 시대를 잇달아 괴롭히고 있다. 먼저 레드 마운틴의 전투, 이어서 드웨머의 실종, 그리고 이제는 카이머의 돌연한 신체적 변화다.  
   
-Aurialis: This flower is located within a quaint seaside garden at the marked location. It can be used to make a most brilliant shade of orange, perfect for a glowing sun! This should be the simplest acquisition, given that you only need to pluck the plant from the ground.
+당연히도 이를 빌미로 손쉽게 골드를 긁어모으려는 과장된 글들이 이미 시로딜 전역에 퍼져 있다. "그들의 변화는 종말의 징조다!" "그들의 눈을 들여다보면 오블리비언 그 자체로 빨려 들어가리라!"  
+  
+이런 허섭한 글들 중 일부는 사실인 양 주장되어 내일의 젊은 세대에게 가르쳐질 것이다. 그리하여 학자로서, 이른바 던머라 불리는 이들에 대해 내가 직접 목격한 바를 기록하는 것이 나의 의무라 여겼다. 그들의 피부는 재색이며, 눈은 용암처럼 붉게 고여 있다. 이를 레드 마운틴의 저주라 부르는 이들의 심정도 유해할 만하다. 하나 그들이 누구였는지, 그 본성은 변하지 않았다. 그렇다면 묻겠다. 외모의 변화가 과연 이토록 큰 소동을 정당화하는가?  
+  
+던머이든 카이머이든, 그들은 여전히 자신의 삶을 살아가고 있으며, 자랑스러운 전통을 지닌 민족임에 변함이 없다. 그리고 의심할 나위 없이 밝고 흠 없는 미래가 그들 앞에 놓여 있다. 친애하는 독자여, 이것이 내가 확신하는 사실이다.
 
-[출처](https://www.imperial-library.info/content/tindorias-list-needed-supplies)
-
----
-
-## Tips for a Khajiit in Summerset
-
-ID: ext-edaef368157d946f9469
-
-By Bezumi, Khajiiti Ambassador to Summerset  
-  
-Tips for a Khajiit in Summerset V. 1  
-  
-The High Elves are a particularly proud people, this we know. Their eyes always seem to hold a look of disgust, as if we are a flea upon their bottom. Normally quick words and quicker claws answer such insults, but we have come upon their land now. Walker, we are outnumbered and overpowered here upon the shores of Summerset. It’s time to adapt.  
-  
-A clever tongue will not do you as much good here as it did in our homeland. These High Elves, well, they hold no laughter in their belly. They ignore their guts and think only with their heads. Foolish, of course, but you can no more change the mind of a High Elf than the turn of the tide. Let us then be the cunning ones, as we always have.  
-  
-We shall start with history. A High Elf expects that a Khajiit know nothing, and this one has found no greater delight than proving those jekosiits wrong. They will think us ignorant of even the most basic knowledge. We shall disappoint them then, yes?  
-  
-The Thrassian Plague seems but a faded scar next to the still bleeding cut of the Knahaten Flu, but it holds a deep importance to the mer of Summerset. Bezumi thinks this has much to do with the involvement of their god-ancestor Syrabane, also known as the Warlock’s God. A mage so powerful that he ascended into godhood, well, is that not the High Elf ideal?  
-  
-The Thrassian Plague was not a natural illness, but rather the work of a vile race known as the Sload. Fat, slow, repugnant, the Sload worked dark magic upon the sea to push this sickness upon much of Tamriel. It spread quickly and fiercely, destroying towns, cities, entire civilizations. But as with most great tragedies, heroes began to emerge. Syrabane is just the one most honored by the High Elves.  
-  
-Though Syrabane was known to be an archmage of great power, he did not work his magic alone, for he possessed a most powerful enchanted ring. With this, he was able to save countless lives from the plague. Many say that it was he alone who stopped this devastating illness from engulfing all of Tamriel. Often Bezumi feels that the archmage is more revered for the power of such a feat, rather than his compassion for those he saved, but she holds her tongue with that one.  
-  
-Archmage Syrabane did not stop there, of course. He joined forces with the Colovian King of Anvil, Baron-Admiral Bendu Olo, and went to stop the plague at its source. Together they banded together the All Flags Navy, composed of ships filled with not only mer but also Colovians, Redguards, Bretons, and even Argonians. These races put aside their differences and sacrificed many in their assault of Thras, the homeland of the Sload. And amazingly, despite heavy losses, they won. They sank the Coral Kingdoms, and put the Sload into their rightful place deep beneath the waves.  
-  
-I find this story particularly useful for a few reasons. I have mentioned before, we must put a swift end to the misconception that we Khajiit are a race ignorant of our allies. Indeed, I hope to publish several more journals on the history and culture of the High Elves. But that is not the only reason. Bezumi chose to start her collection with this particular history because it shows the importance of allies. Of us.  
-  
-Without the military might each race brought to that battle, the victory of the All Flags Navy would have been impossible. Yes, Syrabane was a powerful mage with a useful ring, but he could not have won that fight alone. He had to rely on many others to accomplish such a victory.  
-  
-When a High Elf turns up his nose as you start to speak? When a mother pulls her child close as you walk by? Remember what Bezumi has told you, walker. Remind them that this is not the first time that the all-mighty Summerset was in need of friends. Remind them that they need us, just as much as we need them.  
-  
-Tips for a Khajiit in Summerset V. 2  
-  
-This one need not tell you of High Elf pride and vanity. We have all seen it, no? The disdain in their eyes, shining as bright as a counterfeit coin. You have heard the condescension that drips from their tongue like honeyed venom. Our tall allies think so little of us Khajiit. Time to prove them wrong, walker. Let us beat them at their own game.  
-  
-If you have read my first volume of this series, you’ll already have a good idea of the importance that High Elves place on their history. We know this, yes, but even this pride tends to pale next to the vanity the mer hold for their familial past. Most know the name, occupation, and supposed greatness of their ancestors dating back centuries. And they will be most keen to tell you of them, this one assures you of that.  
-  
-Family is everything to the High Elves, but do not take that to be sentiment. It is chains that they bind themselves with, a title that is set in stone. Only great feats can elevate them, and so they crave each day for that moment of their apotheosis. Many choose to prove themselves through arcane feats, as magic runs strong and often within their veins. Others throw themselves within their art, hoping to paint a masterpiece of produce a melody glorious enough to rise their status.  
-  
-Yes, the High Elves create great walls before themselves. Climb, they say! But the way is often hard. Never have I seen such malice as that between fellow artists here in Summerset. I’ve met thieves and assassins with more curtesy towards their rivals! The mages look down upon all, but quickly grow envious of their peers’ power. Even among each other, the High Elves seek to look from above.  
-  
-They care not for you, walker, nor your family. To them, we have but one title. Khajiit. And thus we are lower, and thus we are useful only to be used. This we know. To elevate yourself in the eyes of a High Elf, well, it is not an easy feat. You must prove your worth, again and again. Exhausting work for even the most diligent, but still, we must try.  
-  
-Bezumi has found many High Elves to be irresistible to challenges of skill. Dangle a chance to prove themselves better, and always they will bite. We know though, the honor that a cunning win still brings. Always make sure to stock the odds within your favor, yes?  
-  
-Winning a challenge against a High Elf has always proven to have … mixed results. Some will demand a rematch, so wounded is their pride. Others will throw a most vivid tantrum and storm off, declaring you a cheat. But there will be an honorable few who shall bow their head and concede defeat. Within them will alight a small flame of respect. Let us fan those flames.  
-  
-Despite this one’s advice and encouragement, she knows that not every High Elf can be won over. Many have become blind and deaf to all but their own opinion. Do not let them dishearten you, walker. Do not let them win. Let them come at us with their venom, with their ignorance. We must be the ones to change, yes, but into something better. Into something greater.
-
-[출처](https://www.imperial-library.info/content/tips-khajiit-summerset)
+[출처](https://www.imperial-library.info/content/a-change-in-the-chimer)
 
 ---
 
-## Tishi’s Research Notes
+## 카인에게 바치는 찬가
 
-ID: ext-7b30bf5c5743656f6066
+ID: ext-09c1862efa7d81c08683 / ESO 책 ID: 151 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Symptoms: Increased strength and constitution, followed by disorientation and eventual madness. Rambling statements characterized by multiple references to someone called “Shada.”  
+어둠 속에서, 그대의 빛이 꿰뚫고 비치니,  
+전사의 여신이여, 그대를 위해 우리의 칼끝은 빗나가지 않으리.  
   
-Cause: The discolored water in the ruin of Shada’s Tear appears to afflict any who drink it.  
+희망이 스러지고 전쟁이 끊임없이 몰아칠 때,  
+전사의 여신이여, 우리의 축복받은 노래를 들으소서!  
   
-Experimental Cure: A concoction of somnalius fern to calm the mind quierts the afflicted for a time, but rambling resumed thereafter.  
+노드 하나가 싸움터에 쓰러져 숨을 거둘 때,  
+전사의 여신이여, 그림자를 헤치고 우리를 인도하소서.  
   
-Experimental Treatment One: Poison introduced to induce vomiting after water consumption, but vomiting did not alleviate symptoms.  
-  
-Experimental Treatment Two: Applied ginko and aloe to forehead to stimulate humors in the brain, but produced no noticeable effect.  
-  
-Experimental Treatment Three: Attempted to purify the water through boiling and adding various neutralizing reagents, but curse remains intact.
+맞서 싸울 용기를 내리시고 우리의 검을 벼리어 주소서,  
+전사의 여신이여, 노드의 어머니여!
 
-[출처](https://www.imperial-library.info/content/tishis-research-notes)
-
----
-
-## To Clarice — Be My Darling!
-
-ID: ext-eecba2393d8faf8b67a9
-
-Where’ere I look, my darling Clarice,  
-  
-I think of you. A flock of geese,  
-  
-A lofty cloud, up in the skies,  
-  
-Reminds me of your brownish eyes.  
-  
-When in the woods I see a fawn,  
-  
-I ponder on your hair of tawn.  
-  
-Across the Iliac I sail  
-  
-In every wave I never fail  
-  
-To see you below, also above—  
-  
-Oh barmaid Clarice, please be my love!  
-  
-Singed,  
-  
-Georges Plouffe, First-Mate (get it?)
-
-[출처](https://www.imperial-library.info/content/clarice-be-my-darling)
+[출처](https://www.imperial-library.info/content/hymn-kyne)
 
 ---
 
-## To Do What is Needed
+## 카인의 교훈, 쇼르의 지혜
 
-ID: ext-71093ea93b0f11670c9f
+ID: ext-1641c1ec8c6be5c514cf / ESO 책 ID: 8496 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Would you stand by while your village or town burned? Then why do you do nothing while Morrowind suffers? The Tribunal may be too busy to do the right thing, but we’re not. The Maulborn, a society of like-minded Dark Elves who want to help the poor and protect the weak, was formed to take care of the problems that are too mundane, too inconsequential, or too difficult to attract the attention of the Tribunal and its agents.  
+용감한 브레베타 지음  
   
-We have a plan for the Llodos plague ravaging our population. We have a plan for the plague husks terrorizing our towns. We have a plan, and that’s more than the Great Houses or the Tribunal can say. But we can’t accomplish our plans without your help. Join the Maulborn and become part of the solution. Our volunteers are already making a difference in such diverse locations as the Serk, the Obsidian Gorge, and the Narsis wilderness. We’d be happy to allow you to help us in our important work.  
+"바람에 귀를 기울이거라, 얘야. 그것은 카인의 경고이자 그분의 선물이니라."  
   
-Who are the Maulborn? We’re your friends and neighbors. Your cousins. Your sons and daughters. We’re the gathering storm and the strong arm of judgment. We’re the cleansing wind that will soon blow across the entirety of Morrowind. We are healers and wizards, warriors and caregivers. We are the Maulborn, and we are you.  
+돛을 올리고 해안으로 향할 때, 아버지의 말씀이 머릿속에 메아리쳤다. 바람이 바뀌었고, 머리 위를 짓누르는 검고 무거운 구름이 폭풍의 도래를 예고하고 있었다. 휘말리고 싶지 않은 폭풍이었다.  
   
-Come make a difference. Come join the Maulborn.  
+아버지는 내가 택한 일을 못마땅해하셨다. 우리 집안은 쇼르의 주둔지에서 대대로 농사를 지어 온 가문이었고, 아버지는 내가 그 가업을 잇기를 바라셨다. 그러나 나는 결코 땅에 매여 살고 싶지 않았다. 바다가 나를 불렀다. 카인께서 나를 택하셨다. 배의 갑판에 발을 디딜 때마다 돌풍이 땋은 머리를 흩뜨리면, 그분의 품을 느낄 수 있었다.  
   
-Our recruitment liaisons are anxious to meet you.
+전통 따위 알 바 아니었다. 아버지의 하나뿐인 딸이 뱃사람이 될 운명이라면, 그리되어야 마땅했다. 나는 그것이 내 숙명임을, 그리고 생을 마칠 때 소븐가르드에서 내게 영광을 안겨 줄 숙명임을 알고 있었다.  
+  
+나는 바다에 몸을 맡겼고, 몸담은 작은 어선 선원들 사이에서 빠르게 지위를 높여 갔다. 머지않아 일등항해사가 되었고, 그 무렵에는 내 배를 사고 선원을 고용할 만큼 돈을 모았다. 나는 솔스티스를 뒤로하고, 더 넓은 바다로 나아가 우리네 보잘것없는 해안 너머에서 영광과 교역을 찾고 싶었다.  
+  
+첫 출항은 하마터면 참사로 끝날 뻔했다. 우리는 피안도니아까지의 첫 항해를 마치고 몇 주째 바다 위에 있었다. 선포트에서 되팔 물건을 잔뜩 실은 탓에 용골이 물속 깊이 잠겨 있었다. 나는 짐을 너무 실은 배에 관한 첫 선장의 경고를 떠올렸다. 그런 배는 해적의 손쉬운 먹잇감이 되고, 카인의 진노에는 더욱 손쉬운 표적이 된다는 것이었다. 나는 내 배를 지휘하게 되었다는 들뜬 마음에 그 경고를 죄다 흘려들었다.  
+  
+잔잔하던 바다에서 거대한 파도가 우리를 덮쳐 나를 갑판 밖으로 내동댕이칠 뻔했을 때, 그 원인은 바로 이 어리석음이었다. 순식간에 우리는 카인의 권능에 휩쓸렸고, 파도가 배를 두들기고 사나운 강풍이 돛을 이리저리 후려쳤다. 그때 나는 마음속으로 조용히 맹세했다. 이 고비를 넘긴다면 다시는 바다의 징조를 무시하지 않고, 카인께서 말씀하실 때 귀를 기울이겠노라고.  
+  
+바다는 계속 들끓었으나, 그때 쇼르의 축복과도 같은 생각이 떠올랐다. 그 위대한 여우께서 내게 당신의 지혜를 조금 빌려주신 게 틀림없었다. 배가 똑바로 서 있기를 버거워하는 까닭이 짐칸의 화물이 형편없이 한쪽으로 쏠린 탓임을 깨달았기 때문이다. 나는 선원들에게 갑판 아래로 내려가라 명했다. 그들은 내가 머릿속에 돌이라도 든 사람인 양 쳐다보았고, 나는 결국 고함을 질렀다. "쇼르께서는 행동하는 자에게 보답하신다, 이 창백한 엉덩이의 멍청이들아! 그러니 소븐가르드에서 그분을 뵐 채비를 하든가, 아니면 당장 내 말에 따르든가!" 그제야 그들이 움직였다. 우리는 정신없이 나무상자와 통들을 다시 쌓아 올렸다.  
+  
+돌연 배가 그토록 격렬하게 흔들리기를 멈추고, 선체가 물 위에서 제 위치를 되찾았다. 비록 그날 그분을 뵙지는 않겠지만, 내 재빠른 기지가 쇼르를 흡족하게 했음을 알 수 있었다.  
+  
+폭풍은 한동안 우리를 가지고 놀았으나, 우리는 용감하게 견뎌 냈다. 마침내 하늘이 개고, 우리를 고향으로 서둘러 데려다줄 힘찬 바람이 일었다.  
+  
+그날 밤, 우리는 짐을 부리고 큰 이문을 남겼다. 우리는 선술집에서 쇼르의 이름으로 잔치를 벌이고 술을 마시며 저녁을 보냈다. 다시 마른 땅을 밟으니 좋았다. 나조차도 그것만은 인정할 수밖에 없었다. 아버지의 현명한 말씀을 기리고자 선물을 들고 쇼르의 주둔지로 돌아갔을 때는 더욱 좋았다.  
+  
+다음번에 카인께서 내게 교훈을 주려 하시거나 쇼르께서 당신의 지혜를 나누려 하실 때, 나는 마음을 다해 귀 기울이고 그 뜻을 잘 새길 작정이다.
 
-[출처](https://www.imperial-library.info/content/do-what-needed)
-
----
-
-## To Dream Beyond Dreams
-
-ID: ext-d773e47f07841f6c077b
-
-Twas in Menevia, dear, green Menevia, there dwelt a young Breton of family and name. He had inherited a patrimony, and thus needed to do nothing, as others were paid to do for him. And so he sat at his mullioned window and gazed out the diamond panes at the colors of the countryside as they changed with the light. And he dreamed away the day, until the colors darkened and he betook himself to bed, where he slumbered and dreamed in truth.  
-  
-Of what did he dream? He dreamed of his own land, but in colors more intense, more true, and more pure than in day. His Menevia of Dreams was more real than his Menevia of Waking, and he felt more alive when asleep than awake. Each day at his mullions, he looked and longed for a way to dream beyond dreams—a way to live in his Reverie-Menevia forever and forever.  
-  
-“Reverie-Menevia,” he said, and it was a prayer. “Reverie-Menevia. Reverie-Menevia.” A thousand, thousand times he uttered this prayer, and it changed like a dream to ” ‘Ver’-Menevia, ‘ver’-Menevia,” and more and more it became less and less, until at last, “Vaermina,” he said, and “Vaermina,” and “Vaermina” again.  
-  
-And to him she came in Dream-Form, Vaermina Herself, and called him Supernal Dreamer, and First Nightcaller, and named him Omen of a Hundred Prophecies. And when he awoke, he yet did dream, and spoke as in a dream, and called other dreamers to him, and to Reverie-Menevia.  
-  
-And soon you shall join him. The Nightcaller has dreamed it. One night you shall dream, and in your dream you will say the Name. And She will come.
-
-[출처](https://www.imperial-library.info/content/dream-beyond-dreams)
+[출처](https://www.imperial-library.info/content/the-lessons-of-kyne-wisdom-of-shor)
 
 ---
 
-## To Posterity
+## 카인의 눈물
 
-ID: ext-b8318141e75f907ee0c1
+ID: ext-e8f05b793407592d1790 / ESO 책 ID: 921 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Witches and witch-hunters are, by nature, uncivil to one another, but the witches of Eastmarch and my clan, the Direfrost witch-hunters, have particularly bad blood between us. I cannot say I blame the witches for their hatred—we have clashed often in these mountainous regions, and we Direfrosts have become very good at slaying them. Eastmarch was once infested with the heathens, the landscape dotted with their covens.  
+먹구름이 머리 위 하늘에 모여드네.  
   
-Everywhere one turned, one found sordid hovels built in honor of some Daedric Prince. Thanks to the efforts of my family over several generations, that number has dwindled to a scant few. They’re there, to be sure—the schemes of Oblivion are myriad—but the witches move in fear, ducking between the narrowing shadows cast by the Flame of Direfrost.  
+카인은 세상의 아름다움에 기쁨의 눈물을 흘리네.  
   
-In the days of their abundance, they abducted innocents, murdered children, desecrated corpses. I will not mourn them when finally, and with great, glorious fanfare, we stamp them from the face of Eastmarch forever.  
+눈물이 대지를 데우니 꽃송이가 피어나네.  
   
-I list below the most infamous leaders of those covens who have committed crimes such that Direfrosts of my generation can never forget them, lest we disrespect the desecrated dead. Daedric Pacts grant these witches long life, and I fear I may not live to see all of this lot rounded up and slain, but when the last of them falls I implore posterity to raise a monument in remembrance of their victims, detailing their crimes and their death at Direfrost hands:  
-  
-Hranvard Frostfinger. Thirteen known victims sacrificed in flames to Mehrunes Dagon. Fled to the Sea of Ghosts where a final standoff with hunters saw a silver bolt pass through a summoned flesh atronach into Frostfinger herself. Confirmed deceased.*  
-  
-Henghild of Wittestadr. Twenty known victims sacrificially bled to death to appease an unidentified Daedra Lord. Captured from the mountain passes to the south of Eastmarch and perished under torture. Confirmed deceased.**  
-  
-Lorgar the Plague. Twenty-seven known victims, causes of death vary, all executed to appease an unidentified Daedra. Search went on in vain for months before Lorgar challenged Odrama, wife of Adegrel Direfrost, and was beheaded on the steps of Direfrost Keep. The stone was clean before supper. Confirmed deceased.***  
-  
-Drodda of Icereach. One hundred and seven known victims, frozen and soul-trapped to appease Molag Bal. Still at large and incredibly dangerous. She is the oldest of the Eastmarch Coven, and only grows in strength with the passage of time.****  
-  
-Notes:  
-  
-*Revised for total victim count and particulars of death by Lord Logangar  
-  
-**Revised as above by Lady Stodrir  
-  
-*** Revised as above by Lord Ogondar  
-  
-**** Revised for current victim count by Lord Agomar
+성스러운 돌은 그녀의 눈물로 피어난 꽃들을 드러내 보이네.
 
-[출처](https://www.imperial-library.info/content/posterity)
+[출처](https://www.imperial-library.info/content/kynes-tears)
 
 ---
 
-## To See My Systres
+## 카짓 무술 전통의 기원
 
-ID: ext-986cabb7931f26cc1a76
+ID: ext-3baa96fb210bb00a9d95 / ESO 책 ID: 5624 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-1.  
+이국의 관습을 다루는 새피아크, 텐드와인 씀  
   
-I hugged the coast on the Sea of Ghosts  
+엘스웨어에서 가장 오래도록 이어진 전통의 하나임에도, 카짓 무술, 곧 '발톱 춤'의 기원은 잘해야 어렴풋하다고밖에 할 수 없다. 제1시대 463년 메룬즈 광신도들이 코린스의 대보관소를 불태우면서 이 지역 머레틱 시대의 기록 대부분이 소실되었으니, 나 같은 문화사가의 작업은 참으로 고단할 수밖에 없다. 다행히도 이름난 정복자이자 '아네퀴나의 황금빛 야수'라 불린 달록 브레가 큰 수고를 들여 남아 있는 사료들을 지켜내, 엘스웨어 곳곳의 지하 보관소와 작은 서고에 나누어 보관해 두었다. 분명히 말해 두지만, 하이 엘프가 이러한 서고에 드나들 권한을 얻기란 결코 만만한 일이 아니다. 그러나 여러 해에 걸친 끈질긴 노력 끝에 변변찮으나마 약간의 결실을 거두었다.  
   
-And jumped at every whisper  
+내가 확인할 수 있었던 바로는, 머레틱 시대 엘스웨어의 삶은 고난의 연속이었다. 그 시절 명성이 자자한 카짓 16왕국은 서로 다투는 영지의 무리에 지나지 않았으며, 잔혹한 사냥꾼 귀족정에 지배되고 있었다. 혹독한 가뭄과 기근의 시기가 무자비하리만치 규칙적으로 아네퀴나를 덮쳤고, 사냥꾼 귀족들의 끊임없는 반목은 광범위한 징집으로 이어져, 농촌 공동체에서 젊은 일손을 앗아가고 지역 전역에 한층 더 큰 기근을 불러왔다. 사냥꾼 영주들을 견제할 유일한 힘은 쌍둥이 달의 춤 사원에 있었다. 카짓 명인들과 그 밖의 토르발 성직자들은 강대한 문화적 영향력을 지녔으며, 때로는 그 힘을 써서 특히 포악한 사냥꾼 영주를 괴롭히거나 심지어 권좌에서 끌어내리기도 했다. 귀족들은 이러한 간섭에 분개했으나, 명인들에게 정면으로 맞설 만큼 어리석지는 않았다.  
   
-May Kyne’s fair kin get kissed ‘t the end,  
+머레틱 시대의 전성기 어느 무렵, '줄무늬 죽음'이라 불린 타칸진이라는 유난히 무자비한 사냥꾼 영주가 무뢰배 무리에게 돈을 주어 라울카 사원에 불을 지르게 했다. 화재로 거처를 잃은 성직자들은 즉각 전사 명인들로 이루어진 소규모 군대를 일으켜 그 책임이 있는 자들을 응징했다. 그 분쟁의 자세한 내막은 세월 속에 묻혀 버렸으나, 그 결말만은 자못 분명했다. 타칸진의 군세가 사제들의 봉기를 진압하고, 살아남은 명인들을 듄 왕국에서 모조리 몰아낸 것이다.  
   
-But I’d rather see my Systres  
+명인들의 간섭을 이참에 영영 끝내 버릴 기회를 붙잡은 지금의 엘스웨어 북부 일대 사냥꾼 영주들은 무기 몰수 정책을 시행했다. 그들은 라울카에서 벌어진 폭력 사태를 성직자들에게 반역의 뜻이 있다는 증거로 내세우며, 이에 따르기를 거부하는 종단은 모조리 잔혹하게 짓밟았다.  
   
-CHORUS:  
+오랜 깊은 절망과 사색의 시기를 거친 끝에, 명인들은 안으로 침잠했다. 시대의 정치와 인연을 끊고, 오로지 자기 완성에만 몰두한 것이다. 종교적 명상은 그 여정의 핵심을 이루는 부분이었다.  
   
-Way-hey, over and down,  
+많은 문화권에서 명상이란 고요하고 움직임 없는 행위다. 그러나 카짓은 그렇지 않았다. 그들의 들끓는 기운과 날것의 육체성에 대한 천착은, 그들로 하여금 노래하듯 춤을 닮은 형태의 명상을 받아들이게 했다. 명인들의 춤이 무술에 가까운 무언가로 탈바꿈하기까지는 그리 오랜 시간이 걸리지 않았을 것이다. 매끄럽고 명상적인 춤은 어느새 날렵한 발톱 일격과 대담한 도약으로 바뀌었다. 카짓의 포식자다운 본능을 생각하면 이는 조금도 놀랄 일이 아니다. 발톱과 송곳니를 지닌 종족이 언제까지나 온순하게 머물러 있으리라 기대할 수는 없는 노릇 아닌가!  
   
-As the sunlight glisters  
+수 세기에 걸친 칩거 끝에, 명인들은 무예와 지혜로 한껏 무장한 채 회랑 밖으로 모습을 드러냈다. 이 무렵 사냥꾼 귀족정은 종말로 치닫고 있었다. 부와 권세의 불균형이 한계점에 다다라, 오래도록 미뤄져 온 민중 봉기의 길을 닦아 놓은 터였다. 명인들은 지체 없이 모진 수련으로 갈고닦은 기술을 시달리던 농민들과 나누었다. 불과 몇 세대 만에 명인들의 무술은 어디에나 두루 퍼졌다. 이제 민중에게 필요한 것은 한 점의 불씨뿐이었다.  
   
-Sailing ‘cross the bright blue sea,  
+머레틱 시대 말기, 서로 반목하던 메이어베일과 헬카르의 사냥꾼 영주들이 수천 명의 농민을 군역에 징집하면서, 엘스웨어 역사상 가장 끔찍한 기근 가운데 하나를 불러왔다. 부질없는 분쟁이 삼 년간 이어진 끝에, 양쪽 영주의 군대가 모두 제 주인에게 칼끝을 돌려, 베어 가르는 발톱과 바람을 일으키는 발차기, 뼈를 으스러뜨리는 주먹을 쏟아부으며 귀족정을 무너뜨렸다.  
   
-Sailing for my Systres  
+오래지 않아 인근의 리버홀드, 오크레스트, 베르카르스, 브룩'카, 네 퀴날에서도 농민 봉기가 잇따라 터져 나왔다. 한 세기가 채 지나기 전에, 수천 년 동안 엘스웨어에 군림해 온 호화로운 사냥꾼 계급은 권좌에서 굴러떨어졌다.  
   
-2.  
+농경 낙원이라는 찬란한 꿈이 끝내 엘스웨어에 뿌리내리지 못했음은 우리도 익히 아는 바다. 수백 년이 흐르자 새로운 부류의 영지 귀족이 16왕국의 옥좌에 올랐다. 그러나 민중은 자신들이 쥔 힘을 결코 잊지 않았다. 문장으로 된 기록은 없을지언정, 카짓 일족 어머니들의 풍성한 구전 전통이 고양이 일족으로 하여금 저들의 고난과 개선을 결코 잊지 않게 해 준다.  
   
-So guide all hands through Dunmer lands  
-  
-And sing Saxhleel tongue twisters  
-  
-Go drink and sin in Morrowind  
-  
-I’d rather see my Systres  
-  
-3.  
-  
-We’ll sail on in to Leyawiin  
-  
-And meet fine maids and misters  
-  
-Let my anchor weigh from Topal Bay  
-  
-And we’ll sail to see my Systres  
-  
-4.  
-  
-Khajiiti lands have warmer sands  
-  
-More kind to tails and whiskers  
-  
-But feline friends purr till the end  
-  
-For the love of my sweet Systres  
-  
-5.  
-  
-My boat was paid by Bosmer maid  
-  
-Who hoped I might assist her  
-  
-I’d sail all night if the price was right  
-  
-And it means I’d see my Systres  
-  
-6.  
-  
-Bedded a bard in Vulkhel Guard  
-  
-Who knew I can’t resist her,  
-  
-If the sun should set on Summerset  
-  
-It’ll rise upon my Systres  
-  
-7.  
-  
-No tale more sad than a land-locked lad  
-  
-Who walks the world in blisters  
-  
-But he’ll sail with cheer from Alik’r  
-  
-And meet my blessed Systres  
-  
-CHORUS:  
-  
-Way-hey, over and down,  
-  
-As the sunlight glisters  
-  
-Sailing ‘cross the bright blue sea,  
-  
-Sailing for my Systres  
-  
-8.  
-  
-Met a clan of Orcs at Stonetooth Fort  
-  
-With tusks and scraggly whiskers  
-  
-We’ll war no more on far-off shores  
-  
-We’ll truce for my dear Systres  
-  
-CHORUS:  
-  
-Way-hey, over and down,  
-  
-As the sunlight glisters  
-  
-Sailing ‘cross the bright blue sea,  
-  
-Sailing for my Systres  
-  
-9.  
-  
-Life’s as long as a sailor’s song,  
-  
-Death’s nothing I’d consider,  
-  
-And I’ll ne’er abate the tides of fate  
-  
-May I drift back to my Systres  
-  
-May we drift back to our Systres
+나는 여전히 이곳의 이방인이지만, 우리가 엘스웨어에서 또 하나의 한계점에 다가서고 있다는 생각을 떨칠 수가 없다. 임페리얼인 유락시아 탄은 수천 년 전의 사냥꾼 영주들과 그리 다르지 않다. 그리고 그녀가 제 그릇된 행보에서 아무것도 배우지 못한다면, 끝내 그들과 같은 운명을 맞이하게 될지도 모른다.
 
-[출처](https://www.imperial-library.info/content/see-my-systres)
+[출처](https://www.imperial-library.info/content/origins-khajiiti-martial-tradition)
 
 ---
 
-## To Smite with Dragon Claws
+## 카짓의 경칭
 
-ID: ext-bd48422c5c504728ebde
+ID: ext-91d814dd4d9e0ce8e4e2 / ESO 책 ID: 2651 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-(Battle Chant of the Intrepid Two Hundred)  
+토르발의 레이디 라두라-드라,   
+남서부 엘스웨어 탈모어 대표 저  
   
-We are dragon knights. We are dragons.  
-If you attack us, you will meet talons.  
-If you strike us, you will eat spikes.  
-If you injure us, our wounds will close.  
-If you anger us, you will burn.  
-If you run from us, we will pounce upon you.  
-You cannot win. We cannot lose.  
-We are dragon knights. We are dragons.
+타니온 교장을 만나본 적이 있으신가? 더없이 정중하고 올바른 메르이건만, 내 이름에 합당한 "드라" 대신 지극히 부적절한 접미사를 붙였노라 일러 주었더니 기겁을 하더이다. (더는 그를 무안하게 하지 않으려 자세한 사정은 늘어놓지 않으련다. 허나 이 몸이 토니 포트 두어 잔을 비운 뒤라면 언제든 물어보시구려.)  
+  
+하여 가장 흔한 카짓의 이름-칭호들을, 적어도 온당한 것들만이라도 추려 정리해 두는 것이 이 몸에게 좋은 생각으로 여겨졌소. 알드메리 교양 대학을 위하여, 그리고 서머셋과 발렌우드에서 온 우리 새 동맹들 모두를 위하여 말이외다.   
+  
+여성형 경칭  
+  
+"-드라"는 지혜와 기지로 이름난 여인에게 존경의 뜻으로 내려지는 칭호이며, 혹은 덕망 높은 연치에 이른 이를 위로하는 뜻으로도 주어진다. 이 몸의 경우에는 전자의 연유가 들어맞는 것이라 여기고 싶구나.   
+  
+"-다로"는 작은 장식품이나 임자 없이 굴러다니는 동전 같은, 풀린 물건을 날렵하게 다루는 데 빼어난 이를 위한 것이다. 또한 혀를 매끄럽게 놀리는 이에게도 내려질 수 있다.  
+  
+"-도"는 전사로서 명성을 떨친 이를 위한 것으로, 대개는 사내이나 이따금(이 몸의 생각으로는 너무도 드물게) 여인에게도 주어진다.   
+  
+"-코"는 존경받는 치유사, 마법사, 학자를 일컫는 명칭이며, 박식한 선조의 이름에 덧붙는 일도 더러 있다. 어쩌면 이 몸이 세상을 떠난 뒤에는 아이들이 그녀를 "라두라-코"라 부르려는가? …글쎄, 마음이 따스해지는 생각이로구나.  
+  
+"-라"는 혼인하지 않았거나 혼인하지 않은 양 처신하는 우아한 처녀에게 붙는, 참으로 덧없는 칭호이다. 이 몸도 "라두라-라"였던 시절을 정겹게 떠올린다. 바로 작년의 일이었으니, 그렇지 않은가?   
+  
+"-마"는 성별을 가리지 않고 어린아이에게 쓰는 애정 어린 호칭이다. 다만 고함치거나 으르렁대며 부를 때는 예외이지만 말이다.   
+  
+남성형 경칭  
+  
+"-다르"는 어쩌면 모든 카짓 칭호 가운데 가장 오래된 것으로, 손끝과 머리가 날래며 호기심과 소유욕을 두루 갖춘 이가 얻는 호칭이다. 정치꾼에게도 더러 붙는다는 말을 들은 적이 있으나, 그런 쓰임이라면 분명 농담조일 터(그리고 이 몸은 결코 그리 쓰지 않으니, 어여쁜 이여!).  
+  
+"-도"는 전장이나 일대일 결투에서 두각을 드러낸 이를 위한 경칭이다. 남들이 내려 주기를 기다리지 않고 제 입으로 그 칭호를 갖다 붙이며 거들먹거리고 다니는 사자들은 경계할지어다.   
+  
+"-드로"는 현명한 어른, 가부장, 할아버지, 그리고 장터에서 사람 앞을 너무도 느릿느릿 걷는 이들에게 붙는 칭호이다.   
+  
+"-조"는 존경받는 의원, 학자, 마법사를 위한 호칭이건만, 돌팔이와 야바위꾼들도 곧잘 갖다 쓴다. 코린스에서 만난 잘생긴 검은 표범 한 마리가 떠오르는구나. 이 몸에게 "마법이 깃든" 진주 한 줄을 팔려 들었지… 허나 그 이야기는 다른 달을 기약하련다.   
+  
+"-라"는 병사나 상단, 혹은 통치를 이끄는 존경받는 지도자를 위한 것이다. 고양이-라는 흔히 새끼고양이-라들로 이루어진 하렘을 거느리며, 때로는 보란 듯이 그러한다. 특히 제 짧은 꼬리의 모자람을 메우려는 경우라면 더욱 그러하다.   
+  
+"-리"는 좀처럼 내려지지 않는 칭호이니, 우리 백성의 위대한 지도자, 대변자, 왕, 그리고 메인을 위해 아껴 두는 까닭이다. 그리고 어쩌면 베개 더미 속에서 뒹구는 정력 넘치는 연인에게도 붙으려나. 그렇게 들은 적이 있을 뿐이다.   
+  
+이 몸은 또한 알라바스터의 유행에 민감한 젊은이들 사이에서는 경칭을 이름 뒤가 아니라 앞에 붙이는 것이 멋이라 들었다. 라두라-드라는 멋을 부리기를 즐기나, 유감스럽게도 이 풍습만은 찬동할 수가 없구나. 카짓의 이름들이 너무도 비슷하게 들리게 만들 터이기 때문이다. 그건 따분한 일일 테고, 우리는 따분해지기를 바라지 않으니, 그렇지 않은가?
 
-[출처](https://www.imperial-library.info/content/smite-dragon-claws)
-
----
-
-## To Solstice We Came
-
-ID: ext-9a3de6df168d359118b9
-
-(A Haefriding sea-shanty, still sung in the halls and tavern of Shor’s Stand.)  
-  
-We sailed along Tamriel’s coast,  
-  
-Searching for new land, new shores,  
-  
-Raiding and pillaging as we saw fit,  
-  
-My, what fun we had filling our stores!  
-  
-Led by a thane named Haefrid,  
-  
-Who knew just how to get plunder,  
-  
-But then the wind changed along with her tune,  
-  
-And she decided we’d all made a blunder!  
-  
-Time to settle down and establish some roots,  
-  
-Find a land we could call all our own,  
-  
-Where trade was brisk and risks were low,  
-  
-And mead could flow after crops were grown!  
-  
-To Solstice we came,  
-  
-On Solstice we landed,  
-  
-We said “curses be damned!”  
-  
-Kyne and Shor guide us, we chanted!  
-  
-Now we have a town all our own,  
-  
-Where the weather is tame,  
-  
-And the mead flows like water,  
-  
-To Solstice we came!  
-  
-To Solstice we came!
-
-[출처](https://www.imperial-library.info/content/to-solstice-we-came)
+[출처](https://www.imperial-library.info/content/khajiiti-honorifics)
 
 ---
 
-## To Wear Dread Mantle
+## 카짓의 무기와 방어구
 
-ID: ext-bf59281900691a833e86
+ID: ext-01b7cb872b9a19b94f8a / ESO 책 ID: 1482 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-VEN IRO DOSEK KAN FUUN  
+엘스웨어의 숨 막히게 뜨거운 기후 속에서 살아가는 종족에게, 무거운 의류와 방어구를 걸치는 것은 대부분의 경주 비실용적이다. 고양이 백성의 타고난 유연한 틀과 민첩함은 보다 가벼운 보호 수단을 선호하게 한다. 카짓은 속박과 부담을 혐오하며, 그들의 장인들은 민첩한 움직임을 보조하는 방어구를 만드는 데 열성이다. 가장 가벼운 경주, 카짓의 방어구는 잘 꾸며진(하나 화려한) 의류로 자주 오인된다. 누빈 포나 쿠션 포가 배 부위와 급소를 감싼다. 여기에 선명한 색의 무늬가 더해지고, 느슨한 숄과 리본, 작은 장식품이 악센트로 곁들여진다. 카짓만큼 퇴폐적이고 쾌락적인 종족이 아닌 자가 입었더라면 조롱을 면하기 어려웠을 의상이다.  
   
-ARMS STRONG, MIND FULL  
+카짓이 강한 공격을 예상하는 전투에서는, 포와 가죽으로 만든 각갑과 건틀렛, 그리고 가벼운 머리보호대를 선호한다. 이를 통해 속도(와 패션)를 희생하지 않고서도 최고의 기동력을 발휘할 수 있다.   
   
-TO WEAR DREAD MANTLE  
+이 곡예사의 종족에게는, 가장 무거운 카짓 방어구조차 헐렁하게 착용된다. 그러나 실상은 가죽으로 엮은 옻칠한 금속 판이 안에 받쳐져 있고, 그 안에는 자수 놓인 튜닉이 받쳐지며, 홈 새겨진 은빛 투구와 튼튼한 리넨으로 마무리된다. 카짓이 완전 전투 방어구를 착용하는 것은 가장 혹독한 상황에서뿐이다.   
   
-THE GODS OF OUR HOMELAND  
-  
-BLED AND QUARTERED  
-  
-TAUGHT US EXCEEDINGLY WELL  
-  
-VEN IRO DOSEK KAN FUUN
+무기에 있어서는, 구부러진 초승달 검과 나이프, 단검, 혹은 펀치 단검이 발톱 달린 그들의 손을 연장하는 역할을 한다. 이따금 이 발톱 형태는 의식용 삼지창과 장궁 화살 또는 투창 끝의 날카로운 촉으로 이어지기도 한다.
 
-[출처](https://www.imperial-library.info/content/wear-dread-mantle)
+[출처](https://www.imperial-library.info/content/khajiiti-arms-and-armor)
 
 ---
 
-## Tobin Moorcroft
+## 카프디드의 일지
 
-ID: ext-27e8f7e965a3bec3a7f1
+ID: ext-1a3412242131eda789e9 / ESO 책 ID: 8178 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Here Lies Tobin Moorcroft  
+침묵은 무기이자 방패이다. 이것이 모든 헬 네투 아이들에게 가르치는 교훈이다. 침묵은 정신을 벼린다. 언제 말하고 언제 목소리를 삼켜야 하는지 아는 것. 얼마나 말하고 무엇을 마음속에 가두어야 하는지 아는 것. 자신의 의도를 남에게 추측하게 하는 힘을 아는 것. 부모님은 내게 고요함을 좇고 그 그림자를 배우라 하셨다. 그 가르침을 입 밖으로 꺼내기 위해 침묵을 깨는 것 자체가, 하나의 가르침이었다.  
   
-Master Builder of the  
+침묵을 깨는 것이 나의 가장 강력한 무기다. 헬 네투의 다른 이들은 우리의 방식이 돌에 새겨진 것처럼 불변한다고 여긴다. 그들은 선조 나방 사제들이 우리 섬에 들어오기 이전 조상들의 가르침과, 새로운 교훈의 가능성을 갈라놓지 못한다. 나는 과묵한 사람이 아니다. 바다가 해안에 늘 한결같지 않듯, 나 또한 침묵에서 한결같지 않다. 나는 얕잡아 보인다. 나는 강하다.  
   
-All Flags Monument  
+후즈베다드 스승은 나를 뻔뻔하고 시끄럽다 하지만, 그것은 알 것 같다는 미소를 지으며 하는 말이다. 나는 그가 내 목표를 알고 있으리라 짐작한다. 바로 나를 억누르려는 자들에게 침묵의 방패라는 개념 자체를 역으로 이용하는 것. 그가 미소 짓는 것은, 내가 부모님의 요구라는 칼날을 내 목소리로 어떻게 막아내고 있는지 우리 둘 다 알기 때문이다. 이것이야말로 우리 이상의 정점이 아니겠는가? 속도와 힘, 권능, 그리고 침묵을 이용하여 적의 드레이크를 적들 자신에게로 돌려놓는 것? 우리의 기예가 일상의 실천 속에 있다면, 거침없음을 실천하지 않음으로써 조상들은 아누가 우리에게 줄 수 있는 모든 것을 배울 기회를 스스로 닫아버린 것이다.  
   
-He Knew How to Use  
+나는 검 형을 크게, 또 조용히 수련한다. 모래 위에서 발을 구르고, 돌 위에서는 조심스럽게 걷는다. 내 주먹 소리는 훈련장을 울리지만, 한밤중에는 아무도 알아채지 못한다. 탐구해야 할 것이 이토록 많은데, 침묵의 이상에만 나를 가두고 싶지 않다.  
   
-A Hammer and Chisel
+어쩌면 그것이 조상들이 침묵을 배우라고 했을 때 진정으로 의미한 바였을 것이다. 헬 네투는 조용히 공부하는 삶이 아니라, 모든 소리의 영역 속에서 삶을 연구하도록 운명 지어진 것이다. 소리를 내는 법을 배우지 않고는 진정한 침묵을 연구할 수 없다.
 
-[출처](https://www.imperial-library.info/content/tobin-moorcroft)
-
----
-
-## Together Stew Recipe
-
-ID: ext-fbd5ab5bbf8ae5df8592
-
-Translated from Old Nord by Tryilva  
-  
-Feasts of nature, feasts of time, forwards and backwards we keep our rhyme  
-  
-While others look to drive us apart, we know the order is fixed in our heart  
-  
-What starts may be the end and the end may be the start  
-  
-So read closely, think carefully, and pick smart.  
-  
-The buzzers’ treasure sweetens our bonds, while swimmer’s scales steep.  
-  
-Flavored with blooms and spuds from the deep.  
-  
-Shelled innards shine to bring the sun ’round once more.  
-  
-Read thoroughly or your feast will be a bore.
-
-[출처](https://www.imperial-library.info/content/together-stew-recipe)
+[출처](https://www.imperial-library.info/content/khafdeeds-journal)
 
 ---
 
-## Tombs of the Kinrulers
+## 칼리소스의 자철석
 
-ID: ext-7e263ec90388b79ade89
+ID: ext-6cf9e2bc12c26fb44f73 / ESO 책 ID: 6105 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Attend, ye who visit these hallowed halls. Herein lie in eternal repose the mortal remains of Corelanya kinladies and kinlords who ruled over this realm of Solstice, our home in exile.  
+대음유시인이자 넌에서 명성을 떨친 음악가 칼리소스가 즐겨 사용한 악기로 숭앙받는 이 리라는 수십 년에 걸쳐 탐리엘을 함께 순회하였다.  
   
-Kinlady Earlenque the Great (reigned 1E 909 – 1E 1017)  
+칼리소스는 어떻게 광기의 신을 꾀어 이 악기를 손에 넣었는지 즐겨 이야기하곤 하였다. 쉐오고라스와 마주쳤을 때 칼리소스는 이미 능숙한 음유시인이었으며, 쉐오고라스가 지금껏 들어본 적 없을 만큼 관능적인 사랑 노래를 연주하였다. 칼리소스는 자신의 평범한 리라에 디벨라의 날 것 그대로의 열정이 주입된 것이라고 광기의 프린스를 설득하였다.  
   
-Matriarch, exile, founder of the realm. Honored be her name.  
+쉐오고라스는 그 리라를 탐내어, 대신 자철석이라 불린 악기를 칼리소스에게 주었다. 그것은 칼리소스의 영혼에 결박한 리라로, 영광과 명성을 안겨주리라 하였다—그리고 실제로 그렇게 되었다.  
   
-Kinlord Orlemar the Builder (reigned 1E 1017 – 1E 1101)  
-  
-Son of Earlenque, liege of Western Solstice. Honored be his memory.  
-  
-Kinlady Psynande the Voyager (reigned 1E 1101 – 1E 1165)  
-  
-Cousin of Orlemar, explorer of the eastern seas. Honored be her memory.  
-  
-Kinlord Kevarian the Defender (reigned 1E 1165 – 1E 1194)  
-  
-Nephew of Psynande, civilizer of the wilds. Slain in honorable battle.
+얼마 후 칼리소스의 위대한 업적과 재능은 바드 대학 졸업생들 사이에서 전설이 되었다. 그러나 어느 날 아침, 자철석이 대학 연습실에서 발견되었고 칼리소스는 그 이후 모습도 소식도 전혀 알 수 없게 되었다. 칼리소스가 쉐오고라스의 분노를 피해 탐리엘 전역을 끊임없이 순회하다 마침내 붙잡힌 것이라는 추측이 오래도록 이어지고 있다.
 
-[출처](https://www.imperial-library.info/content/tombs-of-the-kinrulers)
+[출처](https://www.imperial-library.info/content/callisos-lodestone)
 
 ---
 
-## Tombstone of Naio-Bhefeo
+## 칼우리온의 쪽지
 
-ID: ext-47f7f9e03f3f97dacf2a
+ID: ext-e2c60d3eb792d323ec35 / ESO 책 ID: 4915 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-We honor Dragonguard Naio-Bhefeo  
+그토록 많은 계획, 그토록 많은 준비. 수십 년의 노력이 한순간에 사라졌다. 다시는 되풀이할 수 없는 무익한 실험 속으로 자취를 감추고 말았다. 다른 어떤 상황이었다면 나는 분노에 차면서도 실패의 근원을 밝혀내고자 했으리라.  
   
-Protector of our sacred knowledge  
+나는 헤아릴 수 없는 시행착오를 거쳐 이 영혼 속박을 완성했으며, 그때마다 저마다의 난관을 넘어서야 했다. 그러나 이번에는 그저 무감각할 뿐이다. 동료들의 부서진 몸뚱이와 지나간 시대의 마지막 잔재 사이, 말 그대로 절망의 구렁텅이 속에 홀로 앉아.  
   
-Stalwart guardian of our sanctuaries  
+드래곤은 죽었고 그 귀한 영혼도 함께 떠났다. 제 종족의 마지막 생존자, 아니라 한들 다를 바 없을 만큼 그에 가까운 존재였다. 전리품은 승자에게 돌아간다던가? 오늘만큼은 아니다. 내가 거머쥔 것이라곤 썩어 가는 살덩이와 비늘의 산더미뿐이니.  
   
-May his flame burn eternal
+—  
+  
+이 기회를 헛되이 흘려보내서는 안 된다. 영혼이 없을지언정 이 시신에는 무궁한 잠재력이 깃들어 있다. 해부와 보존이 무엇보다 우선이다. 다가올 며칠간 잠은 거의 못 자게 될 것이다.  
+  
+—  
+  
+이 생물의 멀쩡한 장기들은 보존에 더 알맞은 용기로 옮겨 두었다. 식량과 간단한 시약이야 다시 마련하면 그만이다. 드래곤의 소굴을 뒤지다 드웨머의 보물이 쌓인 것을 발견했는데, 그 대부분이 밀봉된 기계식 잠금 상자에 담겨 있었다.  
+  
+그것들을 비우다 정체 모를 물질을 상당량 찾아냈다. 스스로 빛을 내뿜는, 가공되지 않은 선명한 푸른 크리스털 덩어리였다. 남은 부패하기 쉬운 드래곤 부위를 비운 용기에 봉해 넣고 나면 그것들을 더 면밀히 살펴볼 참이다. 이 보물 상자들이 머잖아 대부분 드래곤 그 자체로 채워지리라는 역설에 나는 묘한 흡족함을 느낀다.  
+  
+—  
+  
+크리스털은 쓸모가 없다. 불활성이라는 말로는 부족하다. 그것들은 정체(停滯) 그 자체의 정수다. 변하지 않고 변형되지도 않는다. 그것에 관한 연구는 무기한 미뤄 두어도 무방하겠다.  
+  
+—  
+  
+남은 식량이 예상보다 빨리 상해 버렸다. 이 유적의 눅눅함 탓인지, 아니면 곳곳에 퍼진 곰팡이 탓인지는 알 수 없으나, 다른 먹을거리를 구할 때까지 나는 드래곤 공기로 끼니를 때워야 할 것이다.  
+  
+구운 드래곤은 그런대로 먹을 만한 한 끼다. 다만 살은 빽빽하고 힘줄이 두껍게 얽혀 있다. 그 맛을 굳이 표현하자면, 음… 새고기 같다고 하겠다.  
+  
+—  
+  
+드래곤의 잔해가 본디 마법적 성질을 지닌다는 주장은 과장이 아니나, 나라면 그것을 무엇보다 촉매에 가깝다고 분류하겠다. 응용의 가능성은 폭넓으나, 대체할 재료를 구하기란 불가능하니 연금술 연구는 삼가려 한다.  
+  
+—  
+  
+이 생물은 제 비밀을 쉽사리 내놓지 않는다. 그것을 풀어내는 데 수백 년이라도 쏟을 수 있겠으나, 내게는 그럴 시간이 없다. 먹을 것이 얼마 남지 않았고, 이미 너무 오래 머문 것은 아닌지 두렵다.  
+  
+산을 내려갈 기력조차 없으니, 이제는 내 처지를 받아들일 때가 되었다. 나는 이곳에서 죽겠으나, 내 방식대로 죽을 작정이다. 문제는, 저 변치 않는 크리스털이 순순히 따라 줄 것인가 하는 점이다.
 
-[출처](https://www.imperial-library.info/content/tombstone-naio-bhefeo)
+[출처](https://www.imperial-library.info/content/caluurions-notes)
 
 ---
 
-## Tome of Daedric Portals
+## 캐스타틸 선장의 찬란한 검: 제6장
 
-ID: ext-2c23e82129658aff3324
+ID: ext-cea40167dd08605724b2 / ESO 책 ID: 4845 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Note to self: Remember, the most important thing is to pay homage to the flames of the Deadlands first.  
+제6장. 공해. 무시무시한 애시 바이퍼호의 갑판. 그 끔찍한 배가 배우들의 발밑에서 서서히 가라앉는다.  
   
-– – – – – – – – – – – – – – – – – – – –  
+오그넘 왕과 황금 가면을 쓴 수수께끼의 캐스타틸 선장 등장  
   
-As discussed in Liminal Bridges, the transpontine circumpenetration of the limen requires the cooperation—implicit or otherwise—of a Daedra Lord.  
+오그넘 왕:  
+캐스타틸! 나의 오랜 숙적이여! 감히 그 굽 얇은 하이 엘프 장화를 신고 내 가장 장엄한 배의 갑판을 더럽히다니!  
   
-Unfortunately for the conjurer of modest means, the process described is costly, highly esoteric, and impossibly dangerous. Fortunately for the practically-minded practitioner of conjurational studies, there is another option.  
+[오그넘이 위협하듯 앞으로 나서며, 비웃음과 함께 독을 바른 칼을 뽑는다.]  
   
-Dregs of the Deadlands have been known to offer the use of existing Sigil Stones in crossing the traverse. Though the purposes of said beings are must be regarded with the wary suspicion, it is frequently possible to engage in transliminal studies with minimal risk to one’s person, especially if one’s go-between is supplied with sufficient motive.  
+캐스타틸 선장:  
+하! 물고기 왕께서 큰소리치시는군. 주위를 둘러보아라, 씨 엘프! 네 함대는 물결 아래로 가라앉고, 네 선원들은 거품과 소금물에 숨 막혀 죽어감 있다! 그들과 함께할 채비나 하시지, 이 배신자 해적 놈아!  
   
-The Deadlands, of course, are filled with searing heat and suffocating ash. But if you find a way to quench these things, their secrets—and those of Oblivion itself—lie at your fingertips.  
+오그넘 왕:  
+죽어 나갈 자는 바로 너다, 금빛 가죽아! 허나 네 몸을 꿰뚫기 전에, 그 가면부터 벗어 던져라. 내 독 묻은 칼에 꿰여 고통에 일그러지는 네 낯짝을 보고 싶으니!  
   
-Take heed, then, and read well of what fates befell those who first attempted contact with these domains.  
+캐스타틸 선장:  
+좋다. 실은 이 순간을 여러 해 기다려 왔지!  
   
-First, there was the scholar Daron, who thought the sheer power of elemental flame would be enough to initiate contact with the Dremora of the Deadlands. Though his attempt was impressive—indeed, the fire instilled in the walls of his hovel would go on to spark one of the worst wildfires in Valenwood history—it ultimately proved futile. His ashes were never recovered.  
+[캐스타틸이 가면을 벗어 진짜 정체를 드러낸다. 분노에 찬 에롤달린의 아들, 마르시벨이었다. 오그넘 왕이 숨을 들이켠다.]  
   
-Believing Daron was on to something, Olpion of Firsthold sought to insulate the flames with compacted earth. By all accounts he nearly succeeded, but when his chambers burst from the walls of the Crystal Tower, his apparatus lost focus, collapsing the gateway upon itself.  
+오그넘 왕:  
+맙소사! 마르시벨? 내 옛 원수 에롤달린의 그 다부진 아들이란 말이냐?  
   
-In the end, it was the Naga, Avumar, whose multifarious approach led to the final revelation. Once the flames were ignited, it was Avumar who thought to use an earthen vessel to convert the immense energy into steam. Once her boiler reached sufficient temperature, she was able to converse with a Dremora of some power on the other side.  
+마르시벨:  
+그렇다! 오래전 네가 내 아버지를 베었을 때, 나는 네 몰락을 깊은 바닷속에 처넣겠노라 맹세했다! 이제야 마침내 복수의 갈증을 풀게 되는구나!  
   
-Relieved, no doubt, at her success in the face of her predecessors’ failure, Avumar quickly agreed to the terms of the Dremora’s contract. An ominous decision, it turns out, that ultimately led to the fall of Thorn.  
+[마르시벨이 번쩍이는 칼을 뽑아 싸울 채비를 한다.]  
   
-Take care, therefore, in your attempts to contact the Deadlands, for good seldom comes out of agreements made in haste with the creatures who call it home.
+오그넘 왕:  
+그럼 와 보아라, 에롤달린의 아들이여! 뱀의 송곳니를 받아 보아라!  
+  
+[두 적수가 무대를 가로지르며 찌르고, 받아넘기고, 베어 댄다. 잠시 마르시벨이 우세를 점한다.]  
+  
+마르시벨:  
+생선 장수 아낙처럼 싸우는구나, 오그넘! 제대로 된 적수가 되어 주지도 않을 셈이냐? 피의 만족이 너무도 쉬이 손에 들어오는구나!  
+  
+오그넘 왕:  
+하! 젊음의 어리석음이여! 그 자만이 곧 네 파멸이 되리라!  
+  
+[오그넘이 헐거운 갑판 널빤지를 장화로 내리찍어 마르시벨을 쓰러뜨린다. 엎어진 마르시벨이 피하며 받아넘기는 사이 오그넘이 덮친다.]  
+  
+오그넘 왕:  
+낚싯바늘에 걸려 꿈틀거리는 꼴을 보아라! 우리의 결투가 잔혹한 절정에 이르렀구나!  
+  
+마르시벨:  
+나를 이겼다고 생각하느냐? 보이지 않는 것은 꿰뚫을 수 없다는 걸 모르느냐?  
+  
+[마르시벨이 가까이 있던 양동이를 집어 들어 그 안의 것을 오그넘의 얼굴에 끼얹는다. 물이 두껍게 칠한 푸른 분장을 씻어 내자, 마르시벨의 아버지 에롤달린의 황금빛 얼굴이 드러난다. 마르시벨이 숨을 들이켠다.]  
+  
+마르시벨:  
+아버지? 저… 저는 이해가 안 됩니다!  
+  
+에롤달린:  
+마침내 그 진실을 보는구나. 그래, 마르시벨, 나다, 에롤달린! 네 아비다! 한때 스타본 함대의 제독이었던 자다!  
+  
+마르시벨:  
+돌아가신 줄로만 알았습니다! 오그넘 왕의 손에 살해당하신 줄로!  
+  
+에롤달린:  
+죽었다고? 하! 그 마오머가 죽인 건 한낱 늙은 바보의 아우리엘에 대한 믿음뿐이었다! 서머셋의 머를 옭아매는 거짓과 허울에 바친 믿음 말이다! 모르겠느냐? 뱀의 진실이야말로 지고하다! 서머셋의 모든 머가 깨우치리라! 모두가 위대한 뱀 마법사에게 경의를 바치리라!  
+  
+[마르시벨이 벌떡 일어나, 에롤달린의 마지막 칼질을 능란하게 받아넘긴다. 마지막 일격으로 아버지의 심장을 꿰뚫는다.]  
+  
+에롤달린:  
+저주받을! 내가 죽다니!  
+  
+[에롤달린이 죽는다.]  
+  
+마르시벨:  
+이제 고요히 잠드소서, 아버지. 진정 꿰뚫린 것은 제 심장입니다! 비탄이여! 참담함이여! 아비의 살인자를 죽이려던 자가 도리어 아비의 살인자가 되었구나! 이제 나는 무엇을 해야 한단 말인가?  
+  
+[마르시벨이 오랜 시간 말없이 서 있다가, 내던졌던 가면을 집어 들어 엄숙히 쓰니, 다시금 캐스타틸 선장이 된다.]  
+  
+캐스타틸 선장:  
+아니다! 나는 자기 연민의 제물이 되지 않으리라! 마르시벨은 죽었다. 그의 기억은, 고리고 그 아버지의 기억은, 산산이 부서진 잔해와 함께 가라앉게 두라. 여기 출렁이는 물결을 두고 맹세하노니, 이 가면을 쓰는 머는 오직 하나뿐이다. 캐스타틸 선장! 알리노어의 영웅! 쉬머린의 방패! 서머셋의 용맹한 검객! 고리고 비열한 오그넘 왕의 한시도 방심하지 않는 적이다!  
+  
+새겨들어라, 뱀의 왕이여! 머지않아 너는 에롤달린과 똑같이 피로 물든 운명에 시달리리라! 캐스타틸 선장의 빛나는 칼에 꿰뚫려서 말이다!  
+  
+[장면 끝]
 
-[출처](https://www.imperial-library.info/content/tome-daedric-portals)
+[출처](https://www.imperial-library.info/content/bright-blade-captain-castatil-scene-vi)
+
+---
+
+## 케나르티의 안식처 조약
+
+ID: ext-7e1035431c6bfa3fa794 / ESO 책 ID: 1786 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+주권을 지닌 <<1>> 섬의 시민과 지도부는 마오머 집행 함대가 지닌 신속한 파괴의 역량을 인정하며, 평화롭고 재정적으로 이로운 협정을 맺기를 바라는바;  
+  
+양측은 상호 이익이 되는 조약의 조건을 마련함이 바람직하고도 필요하다는 것, 그리고 외부 군사 세력 또는 정치 세력의 개입이 마오머의 이익과 미스트랄의 교역 수익 양쪽 모두에 실질적으로 해로우리라는 것을 인정하는바;  
+  
+자유 마오머 인민의 목소리이자, 열두 다스 하고도 한 척에 이르는 막강한 함선의 지휘관이며, 마오머의 위력을 대변하는 충실하고 담대한 대표자, 명망 높고 현명하신 오그넘 왕의 비호 아래 (그리고 <<1>>의 하등한 백성들의 비호 아래), 양측은 이제부터 이 조약의 조항에 합의되고 명시된 조건을 준수하기로 한다.  
+  
+제1조   
+마오머 대사와 그에 딸린 수행단을 머무르게 하기 위하여, 대사관을 <<2>> 항구 도시의 눈에 잘 띄는 곳에 세우기로 한다. 비용은 <<1>>의 백성이 부담하며, 이들은 종복을 열다섯 명 이상 두고, 관대하고 현명한 마오머 백성을 정교하게 짜 넣은 태피스트리와, 개개인에 맞추어 수놓은 면직 침구, 그리고 현지산 및 수입산 주류를 비축하여 공급하기로 동의한다.   
+  
+제2조  
+<<2>> 항구 도시를 통하여 교역하고자 하는 모든 개인과 조직은, 이제부터 반드시 등록을 하고 공식 통행권을 취득해야 한다. 등록 비용은 대사가 선박별로 정한다. 그러한 비용 납부를 거부하는 자는 적의 첩보원으로 취급되며, 마오머 법의 권능 아래 물자 몰수와 투옥의 대상이 된다. 마오머 지도부는 어떠한 이유로든 항구와 주변 해역의 모든 선박을 조사할 권리, 그리고 밀수품으로 간주되는 모든 물품을 몰수할 권리를 보유한다.  
+  
+제3조  
+마오머 집행 함대는 <<2>> 항구 도시 안팎의 상선을 향하여 도발 없는 침략 행위를 저질러서는 아니 되며, 마찬가지로 승인된 교역 업무를 방해해서도 아니 된다. 두 서명 당사자가 현재 억류하고 있는 갇힌 자들은 이 조약의 체결 즉시 석방되어야 한다. 상기 함대는 자기방어 시, 그리고 적 첩보원의 활동이 합당히 의심되는 경우에 한하여 행동하기로 한다. 마오머의 불간섭에 대한 사례로서, 모든 등록 비용과 소비세의 15퍼센트를 매달 15일에 대사관에 바치기로 한다.  
+  
+제4조  
+오늘 이 날의 조인을 기념하기 위하여 공동의 기념일을 제정하기로 한다. 그러한 기념일은 양측 간의 평화와 조약 준수를 드러내고자 <<2>>의 백성이 비용을 부담하기로 한다. 이 경축일은 "서펀트의 영광"이라 이름하며, 이날에는 마오머의 고관과 더불어 선별된 머, 인간, 그 밖의 저명한 인사들을 <<1>> 섬으로 초대하여, 양측의 공동의 성공과 화합을 기리는 잔치와 음악과 향연을 베풀기로 한다.  
+  
+제4조, 부칙 1  
+서펀트의 영광 기간 동안 <<2>> 항구 도시의 주민은 일반 축제 행사에 참석함이 허용되나, 잔치에의 참여는 마오머 측 초대객과 <<1>>의 시장, 그리고 시장이 선별하고 대사가 승인한 손님 셋(3) 이하로 제한하기로 한다. 음식은 마오머 요리사가 마련하고, 음악은 마오머 음유시인이 연주하며, 어떠한 경우에도 "설탕 입힌 갑오징어"라는 역겨운 요리는 내놓아서는 아니 된다.  
+  
+제5조  
+대사와 <<1>>의 백성은 십 년마다 그 조건을 재검토하고, 필요한 부칙을 협의하며, 지속적이고 이로운 평화를 향한 상호 간의 약속을 재확인하기로 한다.
+
+[출처](https://www.imperial-library.info/content/treaty-khenarthis-roost)
+
+---
+
+## 케이란, 룰라닐의 몰락 전쟁군주
+
+ID: ext-8ff5231a66c2304bdca6 / ESO 책 ID: 1178 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+케이란은 제1기 중기의 군소 에일리드 전쟁군주로, 기나긴 생애 동안 세 개의 영토를 일으켰다가 모두 잃은 것으로 가장 잘 알려져 있다. 그가 시로딜의 에일리드 숙청을 피해 달아난 난민이었는지, 아니면 그의 일족이 발렌우드로 도망친 뒤에 태어났는지는 분명하지 않다. 몰라그 발의 열성적인 신봉자였다는 소문이 있으며, 케이란은 끝내 제1기 1102년에 신원 불명의 암살자에게 살해당했다.
+
+[출처](https://www.imperial-library.info/content/ceyran-warlord-rulanyils-fall)
+
+---
+
+## 코넬 장군의 명령서
+
+ID: ext-947af4125e5a330bb2e0 / ESO 책 ID: 125 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+협약의 개들은 잘 맺어진 계약이 무엇인지 알지 못한다. 그들은 평화에서 이득을 보지 못한다. 그들이 이해하는 유일한 것은 힘뿐이다. 압도적인 힘.   
+  
+에본하트를 차지하려면 돌파구와 발판이 필요하다. 척후병에게서 전갈이 왔다. 크라겐무어 인근에서 쓸 만한 버려진 광산을 찾아냈다는군.   
+  
+그곳을 점거하라. 사수하라. 활용하라. 그리고 나를 실망시키지 마라.  
+  
+— 알렉산드라 코넬 장군
+
+[출처](https://www.imperial-library.info/content/general-coneles-orders)
+
+---
+
+## 코랄 에어리 시간의 서
+
+ID: ext-5c4bcdea3068bfda2261 / ESO 책 ID: 8410 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+이제 탐리엘의 영원한 지배자, 어센던트 로드를 찬양하라!  
+  
+모든 나라의 시민들이여, 그대들은 예복으로 온몸을 감싼 어센던트 로드의 영광을 목도하였도다. 불과 브림스톤의 격렬한 위력이 거짓 왕들과 여왕들을 그들의 성채에서 쳐부수었을 때, 카소레인의 꿈이 마침내 현실로 나타났노라.  
+  
+화산들이 계속하여 복수를 뿜어내는 동안, 하늘이 어두워지고 날들이 차가워질지도 모른다는 것을 나는 안다. 그러나 마음속 희망의 불을 지피라. 어센던트 로드께서 이제 승리하여 우뚝 서 계시니. 그대들은 그분의 영광스러운 손에 이끌려 더 나은 내일로 올려질 것이다.  
+  
+지금 이 순간에도 어센던트 오더의 기사들, 갈렌의 충직한 드루이드들, 그리고 불변의 협회의 사절들이 대륙 곳곳으로 퍼져 나가 화염 폭풍에 집을 잃은 이들에게 도움과 구호를 전하고 있다. 어려움에 처한 모든 이들이 이 무리들에게서 도움을 받을 것이다. 그리고 어센던트 로드께서도 곧 그 뒤를 따르실 것이다! 나는 담쟁이 왕좌가 자리한 파이어송 화산 정상, 그분의 새로운 영역에서 그분과 이야기를 나누었다.  
+  
+그대들의 어센던트 로드이자 주군께서는 이 변화와 혼돈의 시대가 탐리엘 시민들에게 얼마나 혹독하였는지 잘 알고 계신다. 그분께서는 분명한 메시지를 널리 전하기를 원하신다. 그대들의 날이 왔노라. 지금은 그렇다, 고난의 때다. 앞으로 다가올 날들의 시련도 분명히 있다. 그러나 이제 더는 폭군이 그대들의 목을 짓누르지 않을 것이다. 이제 더는 군대가 마을들을 쑥대밭으로 만들지 않을 것이다. 이제 더는 멀리서 울리는 나팔 소리가 죽음과 살육을 예고하지 않을 것이다.  
+  
+드루이드의 날이, 어센던트 로드의 날이 도래하였다. 그리하여 그것은 모두에게 영광스러운 날이 될 것이다. 희망을 간직하면 그대들의 어센던트 로드께서 그대들을 일으켜 세우실 것이다. 그리고 나 또한 그분의 곁에 있을 것이다.  
+  
+충심을 담아,  
+바랄리온
+
+[출처](https://www.imperial-library.info/content/coral-aerie-temporal-tome)
+
+---
+
+## 코렐라냐의 사랑 노래
+
+ID: ext-3a9a1dc0abd28b276213 / ESO 책 ID: 8493 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+(솔스티스 체류 시절, 삼여공 신앙이 확립된 이후 코렐라냐 클랜 하이엘프들에게서 비롯된 것으로 전해지는 전통적인 하이엘프 사랑 노래. 음유시인들은 오늘날까지도 이 출몰하는 발라드를 연주하고 있다.)  
+  
+함께한 마지막 밤  
+짚지붕 야자 아래에서 만났지  
+여느 날 밤과 다를 것 없었는데  
+그대 바다를 바라보는 모습을 지켜봤어  
+그 마지막 제비꽃색 순간들 속에서  
+그대도 나를 그렇게 바라봐 주길 바랐지  
+   
+오늘 그대 없이 눈을 떴어  
+슬퍼하지 않겠다고 약속했잖아  
+오늘 그대는 본토를 향해 떠났지  
+방랑벽을 쫓으며, 쉼터를 찾아  
+오늘 그대는 머무르는 고통을  
+떠날 때 찾아오는 아픔과 맞바꿨어  
+   
+언젠가는 그것을 친절로 받아들이게 되겠지  
+평생의 죄책감을 내려놓은 것을  
+언젠가는 그것이 자비였음을 알게 되겠지  
+그대가 시들어가는 모습을 보기 전에 떠난 것을  
+그때까지 그대가 뒤돌아보며 날 그리워했으리라 상상할게  
+그런 사람이 아니란 걸 알면서도  
+   
+내일도 나는 홀로 깨어나겠지  
+어쩌면 바다를 바라볼지도 몰라  
+수평선 바로 앞에 그대의 돛을 그려보며  
+그대가 나를 돌아봤으리라 상상하겠지  
+하지만 그대의 마음은 본토를 향하고, 내 마음은 솔스티스에 묶여 있어  
+다만 전환점에서 그대를 만났던 것이 기뻐  
+저 나무 아래 이 자리를 함께 나눴던 것이
+
+[출처](https://www.imperial-library.info/content/corelanya-love-song)
+
+---
+
+## 코롤 포고관
+
+ID: ext-e710063917fe8eb9258c / ESO 책 ID: 2259 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+코롤 포고관  
+제21호  
+샛별의 달, 579년  
+  
+충실한 애독자 여러분께 인사드립니다. 제20호 이후 마을에서 일어난 소식은 다음과 같습니다.  
+  
+다들 새 생명 축제의 여독에서 회복한 듯합니다만, 베렌느만은 아직도 축하를 이어 가고 있군요.  
+  
+다벨이 또 시작입니다. 이번 달에만 〈참나무와 주교장〉 근처에서 몇 번이나 정신을 잃었지요. 본인은 술을 마신 게 아니라 땅에서 올라온 매연에 당한 것이라 우깁니다. 다벨은 지하에 무언가가 있고, 그것을 오직 자기만이 감지할 수 있다고 고집합니다. 매연이라니, 참. 가엾은 바니!  
+  
+퀵스텝 산적단이 또 들이닥쳐 제골의 창고에서 건초와 밧줄을 훔쳐 갔습니다. 덕분에 늘 화창하기 그지없는 제골의 성미가 한결 나아지겠지요?  
+  
+도란 장관은 작은 참나무 광장 주변 상인들의 소란을 두고 무슨 수든 쓰겠노라 다짐했습니다. 진열 공간을 둘러싼 끝없는 말다툼은 이제 그만 끝나야 합니다. 마을의 상인 수를 줄일 무언가가 필요해요. 포르시아가 도미티우스를 시켜 한 집 건너 한 집씩 내쫓게 하면 좋으련만.  
+  
+*******************************  
+  
+코롤 포고관  
+제23호  
+한낮의 달, 579년  
+  
+독자 여러분께 사죄드립니다. 지난 몇 달간 벌어진 일들 탓에 포고관을 펴내지 못했습니다. 하지만 이제 다시 본분을 다하려 합니다.  
+  
+코롤의 격변은, 개인적인 것이든 물리적인 것이든, 여전히 계속되고 있습니다. 갈라진 틈이 점점 더 넓어지고 희생자 명단이 점점 더 길어지는 동안에도 지진은 멈출 줄을 모릅니다. 이번 대격변으로 잃은 이들의 이름을 차마 다 적을 수가 없습니다. 어느 집 하나 슬픔을 겪지 않은 곳이 없습니다. 마을을 한 바퀴 걷다 보면, 남아 있는 이들보다 사라진 이들이 더 또렷이 떠오릅니다.  
+  
+격변의 원인은 아직도 밝혀지지 않았습니다. 이곳 사람들은 그것을 '대분열'이라 부릅니다. 다벨은 코롤이 두 쪽으로 찢기기 전부터 그 틈의 냄새를 맡았다고 우깁니다. 그게 가능하다면 말이지만, 전보다도 더 기이하게 굴고 있군요.  
+  
+도란 장관이 그 틈에서 나온 괴물에게 끌려간 뒤, 우리는 도미티우스가 지도자가 되어 주기를 바랐으나 그는 거절했습니다. 다른 누군가가 맡겠다고 나설 때까지는 제가 그 소임을 떠맡기로 했습니다. 저는 에시안과 라리안을 임페리얼 시티로 보내, 이 사태에 관해 더 알려진 바가 있는지 알아보게 했습니다. 더불어 폐허가 된 우리 마을에 구원을 청하기 위해서이기도 합니다.  
+  
+*******************************  
+  
+코롤 포고관  
+제24호  
+난롯불의 달, 579년  
+  
+대부분 아시다시피, 에시안과 라리안이 지난주에 여정에서 돌아왔습니다. 좋은 소식은 하나도 없었습니다. 두 사람은 도시에 닿지조차 못했습니다. 다리는 무너졌고 루메어 호수의 둑가를 괴물들이 어슬렁거리고 있었지요. 우리 척후병들이 도시에서 달아나는 피난민들에게 들은 소문에 따르면, 구원은 오지 않습니다. 도시는 폐허가 되어 버렸으니까요.  
+  
+코롤을 반으로 쪼갠 대격변은 임페리얼 시티마저 쑥대밭으로 만들었습니다. 어떤 이들은 그것이 바로 그곳에서 비롯되었다고 말합니다. 라리안의 전언에 따르면, 도시 사람들은 그것을 '소울버스트'라 부른다는군요. 그 까닭은 아무도 모르지만 말입니다.  
+  
+바렌 황제는 행방이 묘연합니다. 격변에 휘말려 목숨을 잃었다는 이도, 그저 중상을 입었을 뿐이라는 이도 있습니다. 어쩌면 터져 버린 것은 바로 그분의 영혼이었을까요? 다섯 동료 역시 모두 종적을 감추었습니다. 사이 사한이 황제를 시해하고 왕의 아뮬렛을 훔쳤다는 이도 있고, 그 짓을 한 건 리리스였다고 주장하는 이도 있습니다. 지금 임페리얼 시티를 지배하는 것은 오직 혼돈뿐입니다.  
+  
+그리고 코롤도 마찬가지입니다. 이제 화염의 괴물들이 그 틈 속에 도사린 채, 가까이 다가오는 자라면 누구든 낚아챕니다. 불타는 심연에서 피어오르는 매연에 정신을 잃고 다리를 건너다 떨어져 죽은 코롤 사람도 여럿입니다. 그나마 매연과 괴물들이 작은 참나무 광장에 들끓던 상인들을 쫓아내 주기는 했군요. 하긴, 앞으로 몇 달이 지나면 그자들이 그리워질 것 같습니다만.  
+  
+*******************************  
+  
+코롤 포고관  
+제25호  
+첫 파종의 달, 580년  
+  
+지난 호를 펴낸 지 여러 달이 흘렀습니다. 이제는 이 일을 할 기력조차 남지 않은 것 같습니다. 더 분발해 보겠습니다.  
+  
+코롤은 벼랑 끝에 위태롭게 서 있습니다. 지진이 거의 매일같이 마을을 뒤흔듭니다. 우리 집들은 우리 곁에서 무너져 내립니다. 이제는 그 틈이 마치 마을의 일부처럼 느껴질 지경입니다. 그것이 없던 시절의 코롤이 어떤 모습이었는지 떠올리기조차 어렵습니다.  
+  
+많은 이들이 떠났습니다. 남은 이들은 달리 갈 곳이 없거나, 포기하기엔 고집이 너무 센 사람들뿐입니다. 우리는 그저 무엇인지도 모를 것을 기다리며 가까스로 버티고 있을 따름입니다.  
+  
+다른 곳이라고 더 나을 것도 없습니다. 소문에 따르면 탄 가문이 제국의 실권을 틀어쥐었다는데, 정작 그들이 다스리는 곳이라곤 도시와 루메어 호수 일대 정도가 고작이랍니다. 클리비아 탄은 이제 섭정 여제가 되었습니다. 그 암늑대가 제 직함에 목이 메어 죽기를 바랍니다.  
+  
+타락한 제국군 탈영병들로 이루어진 무장 패거리가 시골을 휘젓고 다닙니다. 참된 병사들은 제 요새에 틀어박혀 있으니 좀처럼 보이지 않습니다. 시로딜 바깥 야만 국가들과의 전쟁 소문이 날마다 들려옵니다. 그들은 제국이 약해진 냄새를 맡고 탐리엘의 보석을 차지하려 노립니다. 신들이시여, 우리 모두를 굽어살피소서.  
+  
+*******************************  
+  
+코롤 포고관  
+마지막 호  
+땅거미의 달, 580년  
+  
+죄송하지만, 더는 못 하겠습니다. 누군가 이어받지 않는 한, 이것이 포고관의 마지막 호가 될 것입니다.  
+  
+저는 상황이 나아지기를 줄곧 바랐지만, 사정은 나빠지기만 합니다. 지진이 일 때마다 제 집은 한 조각씩 무너져 내리며 그 틈을 향해 조금씩 미끄러져 갑니다. 언제 통째로 떨어져도 이상할 게 없지요. 그날이 오면, 저도 집과 함께 갈 작정입니다. 에시안이 애써 주고 있지만, 이제 집은 성한 데보다 땜질한 데가 더 많습니다.  
+  
+군대가 마을을 지나쳐 행군하고, 때로는 마을 한복판을 곧장 가로지릅니다. 제국군이었던 적은 한 번도 없고, 늘 대거폴 동맹이나 자치령에서 온 병사들이지요. 식량은 모자라고, 작물은 침략자들에게 도둑맞거나 짓밟힙니다. 우리는 이곳에서 서서히 굶어 죽어 가고 있습니다.  
+  
+달리 갈 곳도 없습니다. 사방이 온통 전쟁터입니다. 산적들은 제멋대로 약탈을 일삼습니다. 나그네들은 시골을 떠도는 괴물들 이야기를 전합니다. 간신히 여기까지 흘러든 몇 안 되는 상인들마저 너무 겁에 질려 떠나지 못합니다. 하긴 팔 물건도 변변치 않습니다만.  
+  
+누가 이 사태를 바로잡을 수 있을까요? 바로잡을 수 없습니다. 우리가 죽는 날까지, 세상은 이대로일 것입니다. 신들은 시로딜을 저버렸습니다. 여러분 모두에게 행운이 깃들기를 빕니다. 비록 그 행운을 끝내 만나지는 못하시겠지만.
+
+[출처](https://www.imperial-library.info/content/chorrol-crier)
+
+---
+
+## 코르그라드 상의 비문
+
+ID: ext-d5383646b0eab05a6aa4 / ESO 책 ID: 4977 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+——리온, 우리의 위—— 조상이자 창설——.   
+그—— —혜가 보존하노니 문————— ——화를.
+
+[출처](https://www.imperial-library.info/content/corgrad-statue-inscription)
+
+---
+
+## 코르마운트 학살
+
+ID: ext-187833360102eb3c7dc3 / ESO 책 ID: 2115 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+카모란 고리니르 저  
+  
+비취 도살자는 도둑들처럼 한밤중에 군대를 이끌고 들어왔다. 진정한 왕 카모란 겔시오르에 대한 믿음이 아무리 굳건하더라도, 코르마운트의 선량한 시민들은 하이 엘프의 배신 앞에 맞설 수 없었다.  
+  
+병사들이 나무들에 불을 놓았다. 발렌우드 자체를 불태운 것이다! 가족들이 집을 버리고 도망치자, 기병이 달려들어 짓밟았다. 아이들은 사방이 막혀 거리에서 목이 졸렸다. 비취 도살자의 폭한들은 그 부모들에게 이 광경을 강제로 지켜보게 하였다!  
+  
+나는 직접 검은수액의 반격을 이끌었고, 놈들이 저지른 짓을 눈으로 보았다. 우리의 분노는 신속하고 정의로웠다. 우리는 도살자의 병력을 코르마운트 외곽의 유적으로 몰아냈다. 이 침략자들을 무찌르는 데 녹색의 힘을 불러들였다.  
+  
+허나 비취 도살자의 진짜 배신은 이제 막 시작된 것이었다. 도살자의 마법사들이 녹색에 독을 들인 것이었다! 우리의 진정한 동반자, 발렌우드 자체가 힘을 잃자 도살자의 병력은 다시 결집하여 살육을 재개하였다. 넷 대 하나의 열세에도 불구하고 검은수액은 싸움을 멈추지 않았다 — 발렌우드를 위해, 엘든 루트를 위해, 코르마운트를 위해.  
+  
+이 학살을 기억하라, 형제자매들이여. 비취 도살자와 그를 영웅이라 떠받드는 자치령을 기억하라. 내 아버지, 진정한 왕께서 그날 사라지셨음을 기억하라. 그분이 전사자들 가운데 계실 것이라 여겨지나, 나는 여전히 희망을 놓지 않고 있다.  
+  
+발렌우드 자체가 다시 일어서리라는 희망. 진정한 왕에게 충성하는 이들이 함께 일어서리라는 희망을.
+
+[출처](https://www.imperial-library.info/content/massacre-cormount)
+
+---
+
+## 코르마운트의 융성
+
+ID: ext-10e5c83c8a41471a67a4 / ESO 책 ID: 2116 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+코르마운트는 한때 한적한 교역소로, 안식처에서 리퍼스 마치로 길을 나선 이들이 흔히 들르던 곳이었다. 누가 이 마을을 세웠는지에 대해서는 어떤 학자도 의견이 일치하지 않으나, 장기 휴전이 끝나기 직전에 코르마운트의 인구와 문화적 중요성이 열 배로 불어났다는 사실만은 알려져 있다.  
+  
+코르마운트의 고요한 주변 환경과 우드 엘프 권력의 중심지에서 멀리 떨어진 위치는, 특히 카모란 파벌에게 더없이 알맞은 은신처가 되어 주었다. 세월이 흐르며 보스머 귀족 중에서도 정수라 할 만한 이들이 코르마운트에서 정인을 두었다. 그러나 비밀이란 씨앗과 같아서, 묻어 두려 하면 언젠가는 싹을 틔워 솟아나는 법이다.  
+  
+제2시대 406년, 코르마운트가 수십, 아니 수십수십에 이르는 잠재적 후계자들의 출처일지 모르며, 그 대부분이 혼기에 이르렀다는 사실이 드러남 카모란 파벌이 추문에 흔들렸다. 기회를 노리는 자, 호기심에 찬 자, 그리고 교활함 자들이 모여들면서 코르마운트의 인구는 한 주 만에 거의 두 배로 불어났다. 그 뒤로 여러 달 동안 혼례가 날마다 치러졌다.  
+  
+이 소문은 발렌우드 바깥에 살던 젊은 우드 엘프들도 숱하게 끌어들였다. 그들은 제국에서 쌓은 자신들의 운수를 영적 고향과 잇고자 하는 바람을 품고 그랏우드 왕국으로 떠나왔다. 그랏우드가 마음에 든 이들은 코르마운트 인근에 뉴 조이라 불리는 허름한 마을을 세웠다.  
+  
+코르마운트에 먼저 자리 잡았던 그랏우드 토박이들은 이 정착민들을 "이주민"이라 불렀다. 녹색 조약을 받드는 이 토박이들은 빗나간 친족들의 시로딜의 풍습에 충격을 받았다. 한편 이주민들은 코르마운트를 거쳐 흐르는 교역에서 손쉬운 쾌락을 좇으며, 토박이들의 "촌스러운" 됨됨이를 비웃었다.  
+  
+코르마운트와 뉴 조이 사이의 긴장은 이후 몇 해에 걸쳐 끓는점에 이르렀다. 누가 먼저 횃불을 던졌는지는 알 수 없으나, 제2시대 420년의 어느 어두운 밤, 뉴 조이의 정착지는 잿더미가 되었다. 달아난 자들은 살해당했으니 그중에는 마침 그곳을 찾은 카모란 귀족도 있었다.  
+  
+아무도 이 학살을 제 소행이라 자처하지는 않았으나, 코르마운트의 녹색 조약 신봉자들이 벌인 일이라고 널리 짐작되었다. 장기 휴전이 끝나기까지의 그 짧은 몇 해 동안, 불만을 토로하려는 카모란들은 뉴 조이의 파괴를 정치적 몽둥이로 곧잘 휘둘렀다.  
+  
+그러나 코르마운트가 그 명성에 남은 이 하나의 오점으로만 기억되어서는 안 된다. 제2시대 489년에 창설된 검은수액 운동은 그랏우드 전역에서 인기를 더해 왔다. 코르마운트를 본거지로 삼은 이 문화 단체는, 우드 엘프가 녹색 조약을 대하는 방식을 정식으로 다잡아, 뉴 조이의 비극으로 이어진 바로 그 오해를 막고자 한다. 우리 시대의 다섯 번째 세기로 접어드는 지금, 코르마운트의 융성은 거의 틀림없어 보인다. 부디 검은수액도 그와 더불어 일어서기를, 이 저자는 바랄 따름이다!
+
+[출처](https://www.imperial-library.info/content/rise-cormount)
+
+---
+
+## 코스린기 리바이어던 뿔나팔
+
+ID: ext-61e42e4d490c78b00ba7 / ESO 책 ID: 6104 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+지금은 멸종한 블랙마쉬의 코스린기 사람들은 남긴 유물이 거의 없으나, 바드 대학은 그들의 문화와 나허튼 독감이 남긴 참화를 떠올리게 하는 이 애절한 악기를 소중히 간직하고 있다.  
+  
+이 흥겨운 나팔은 블랙마쉬를 떠도는 무시무시한 위력의 짐승, 리바이어던의 뿔로 만들어졌으며, 사라진 코스린기 사람들의 살갗 빛깔에 맞추어 은청빛 안료로 물들였다.  
+  
+크고 낭랑하게 울리는 음색은 전성기의 코스린기 사람들이 그러했듯 기쁨과 희망으로 가득하다.
+
+[출처](https://www.imperial-library.info/content/kothringi-leviathan-horn)
+
+---
+
+## 콜드윈드의 해골
+
+ID: ext-b1b7524ac54be8c53465 / ESO 책 ID: 3109 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+토러그 왕이 살아 있을 적, 그는 로스가르에서 가장 강대한 설원 곰과 동맹을 맺었다. 그 야수는 수백 번의 전투에서 왕의 탈것이 되어, 빠르고 얼음처럼 용맹한 면모로 "콜드윈드"라는 이름을 얻었다.  
+  
+그러나 여러 해가 지나면서 콜드윈드는 쇠약해졌다. 토러그는 머나먼 북녘에 그녀를 위한 소굴을 마련해 주었다. 그곳에서 설원 곰은 자고, 먹고, 짝을 지어 수많은 강대한 새끼들에게 제 혈통을 물려주었다. 마침내 콜드윈드는 노쇠를 이기지 못하고 숨을 거두었다. 토러그 왕은 소굴의 일부를 충직한 벗을 위한 무덤으로 바꾸어 봉인하였다.  
+  
+언젠가 콜드윈드가 다시 일어나리라 전해진다. 그녀가 되살아나는 징조는 그녀의 해골을 차지하는 일이 되리라. 오직 로스가르의 영웅만이 이 위업을 이룰 수 있다 — 전설은 그리 이른다.
+
+[출처](https://www.imperial-library.info/content/coldwinds-skull)
+
+---
+
+## 콜드하버 협약
+
+ID: ext-62a129a24177982e7915 / ESO 책 ID: 1503 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+가엾은 길-바-델을 우리는 아직도 떠올리네  
+음모의 신이 그 모든 것을 삼켜 버렸지  
+  
+클락워크 신은 콜드하버로 향하였네  
+프린스들의 땅에서 거래를 트려고  
+  
+그들은 작은 호민관을 조롱하러 왔네  
+음모꾼, 굶주림 자, 사냥꾼, 모두가 왔네  
+  
+점복자, 파리아, 파괴자가 왔네  
+광란자와 황혼도 마찬가지로 왔네  
+  
+공포의 데이드라로부터 우리를 구하소서  
+데이드라로부터 우리를 지켜 주소서  
+우리를 만든 자들을 저버리고  
+그릇된 운명에 맞서 싸우게 하소서  
+  
+클락워크가 요구를 내놓자 그들은 비웃었네  
+황혼이 손을 들어 올린기 전까지는  
+  
+"그래 그대는 무엇을 대가로 내놓겠는가  
+ 우리가 넌을 벌하지 않도록 하려면?"  
+  
+그러자 클락워크는 길고 나직이 속삭였네  
+그가 한 말은, 그 어떤 필멸자도 알 수 없다네  
+  
+공포의 데이드라로부터 우리를 구하소서  
+데이드라로부터 우리를 지켜 주소서  
+우리를 만든 자들을 저버리고  
+그릇된 운명에 맞서 싸우게 하소서
+
+[출처](https://www.imperial-library.info/content/coldharbour-compact)
+
+---
+
+## 콜레기움 프락시스
+
+ID: ext-077199e279ea865a7e05 / ESO 책 ID: 8453 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+(레노린웨가 콜레기움 프락시스의 여러 단과대학 중 한 곳에 입회할지를 고민하던 무렵, 할아버지가 그녀에게 보낸 편지들을 후세를 위해 한 권으로 엮은 것이다.)  
+   
+ 레노린웨야, 사랑하는 손녀야. 네 마음을 짓누르는 그 근심을 이 할아비는 잘 안단다. 너는 네프락실로 지낼 만큼 지냈어. 이제 견습으로 몸담을 단과대학을 고를 때가 되었지. 제 목적을 찾는 일이란 주눅 들게 마련이고, 네 아비는 늘 더 돈벌이가 되는 길을 밀어붙이는 사람이었다. 누구보다 내가 잘 알지. 그 아이가 내 가르침의 값어치를 헤아릴 나이가 되었을 때부터 줄곧 그리 생각하도록 가르친 게 바로 나니까. 허나 이제 와 보니 내가 틀렸음을 깨달았구나. 나는 더 잘하고 싶고, 너에게 더 나은 조언을 건네고 싶다.  
+  
+다행히 내 벗들은 내가 가지 않은 길을 걸었지. 그들의 도움을 받아 나는 콜레기움 프락시스 안의 단과대학 목록을 엮어 보았다. 선포트 섭정청이 후원하는, 길드와 단체로 이루어진 으뜸가는 조직이지. 그들이 손수 적어 준 글도 함께 보게 될 거다. 레노린웨야, 만족과 성공으로 가는 길이 하나만 있는 건 아니란다. 단과대학은 저마다 전문 길드이자 비밀 결사의 회관이며 또한 배움의 터전, 그 셋을 똑같이 겸하고 있어. 네 마음이 이끄는 대로 따라가, 네게 가장 깊이 와닿는 곳을 찾아보렴. 사랑하는 손녀야, 이 글이 선포트 사회에서 네 자리를 찾는 데 보탬이 되기를 바란다.  
+  
+바다와 검의 대학  
+선포트의 경계 너머 세상을 탐험할 기회로서, 바다와 검의 대학은 이 섬의 상인과 탐험가, 전사를 위한 으뜸가는 길드 노릇을 한다. 내가 더 젊은 엘프였을 적에 이 무리에서 기회를 알아보았더라면 좋았으련만, 진심으로 그리 아쉽구나. 이들은 자신들의 숙련생과 초심자, 견습생을 단련시켜 섬 곳곳은 물론 바다 멀리까지 이어지는 고된 원정을 견디게 한다. 고위 해병들은 바다나 정글 깊은 곳에 도사린 위협을 물리치고, 그들의 함대는 약탈자와 적대적인 해적선을 멀찍이 막아 낸다. 탐험가들은 솔스티스를 둘러싼 험악한 바다를 가로질러 배들을 인도하고, 섬 곳곳의 미답지를 조사한다. 끝으로, 이 대학의 상인들은 먼 항구로 물자를 실어 나르고 파는 일을 도우며, 우리 작은 섬에서는 쉬이 구할 수 없는 화물을 싣고 돌아온다.  
+  
+레노린웨, 내 이름은 멘둘리아란다. 네 할아버지의 겸손함이 놀랍구나. 우리가 한창 자라던 시절, 그이는 결코 그런 모습을 내비치지 않았거든. 바다와 모험을 맛보고 싶거든, 항구에서 내 이름을 대렴.  
+  
+서적의 대학  
+이곳은 너도 잘 알지. 우리 가문 사람들은 서적의 대학에 몸을 바치는 것이 오랜 전통이었다. 엄정한 학문과 끝없는 수련이 이 마법사와 학자들의 길드가 짊어진 소임이다. 연구와 의식, 그리고 선포트를 지키는 아케인 포커스가 이 비술 결사가 다루는 본령이지.  
+  
+나는 안전과 지식을 위해, 또 몸 쓰는 재간이 모자란 탓에 서적의 대학을 택했다. 허나 우리 가문 거의 모두에게는, 우리보다 앞서 누군가가 이곳에 몸을 맹세했다는 것이 그 까닭이었지. 열정과 노력만 있다면 어떤 길에서든 빼어날 수 있음을 명심하렴.  
+  
+정원의 대학  
+약초 전문가와 농경가, 치유사의 길드라 하면 네게는 그리 신나게 들리지 않을지 모르나, 이 길드는 선포트와 그를 둘러싼 솔스티스 시골의 건강과 안녕에 없어서는 안 될 구실을 한다. 또한 우리의 이웃인 조류족과도 화목한 관계를 유지하고 있지.  
+  
+더러는 이 대학이, 우리 일족이 입힌 상처를 보듬으려는 우리의 바람에서 비롯되었다 믿는다. 솔스티스에 닿기 전과 이곳에 처음 정착했을 무렵에 입힌 상처 말이다. 이곳의 견습 자리를 대뜸 가벼이 여기지는 말거라.  
+  
+할아버님의 말씀이 제게는 놀랍지만, 그분이 마침내 리치를 깨치기 시작하셨다니 기쁩니다. 우리가 농부와 치유사, 약초 전문가의 모임인 것은 사실입니다. 허나 그 이상으로, 우리는 우리 일족이 나아갈 앞날의 길을 가꾸고 있습니다. 필요한 인내와 헌신을 갖추셨다면, 부디 우리와 함께해 주십시오. ―안내인 파이어두르  
+  
+돌의 대학  
+온갖 부류의 건축가와 장인, 공예가가 이 중요한 길드의 일원을 이룬다. 그 뿌리는 우리 일족이 서머셋에 깃들었던 가장 이른 시절, 1시대에 해머펠의 일부를 손에 넣었던 때로까지 거슬러 올라간다. 오늘날 이 길드의 일원들은 선포트의 기반 시설을 넓히고 유지하는 한편, 시장에 내놓을 예술품과 교역품을 만드는 일을 맡고 있다.  
+  
+내가 알기로 이 대학은 오래전에 돌만이 아니라 그 너머로 넓혀 갔다지. 그 이야기는 내 벗에게 맡기마.  
+  
+우리 길드는 석공의 모임으로 시작했지만, 오래전부터 뜻을 품은 장인들이 제 목적에 맞는 어떤 재료로든 만들도록 북돋아 왔습니다. 우리에게 돌이란, 어떤 재료를 골라 쓰든 단단하고 야무지게 지어진 것을 뜻합니다.* ―강사 리닐라  
+  
+의식의 대학  
+레노린웨야, 너도 알다시피 내가 이 목록을 엮은 까닭은 네가 스스로 길을 고르도록 돕기 위함이다. 그래서 빠짐이 없도록 의식의 대학도 넣어 두었지. 솔직히 나는 네가 이 무리 근처에도 가지 않기를 바라지만, 곧 그 까닭을 일러 주마.  
+  
+이 대학은 전통과 법의 수호자 노릇을 하며, 그 일원 대부분은 입법과 법치의 이상에 놀랍도록 헌신적이다. 이들이 섭정의 선포트 통치를 돕기는 하나, 길드 안의 어떤 무리가 일족이 오래전에 버린 전통을 여태 떠받든다는 소문이 무성하다. 그 지도부의 어떤 세력이 우리의 더 어두운 과거, 데이드릭과 강령술의 과거로 되돌아가기를 바란다는 것이지. 이것이 사실일까? 나로서는 알 길이 없다. 허나 나는 네가 영문도 모른 채 독사의 소굴로 걸어 들어가게 두고 싶지 않구나. [그런 음모 따위는 없습니다. ―법의 수호자 베나르웨]  
+  
+레노린웨야, 마침내 무엇을 정했는지 내게 일러 주렴. 더 이야기를 나누고 싶거든 언제든 연락하고.
+
+[출처](https://www.imperial-library.info/content/the-collegium-praxis)
+
+---
+
+## 쿠-바스테이: 필요한 변화
+
+ID: ext-a164104646aec38f79c3 / ESO 책 ID: 5287 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+메이지 길드의 신비술사, 길을-밝히는-자 지음  
+  
+내 민족의 문화를 기술하기란 쉽지 않다. 설명하려 할 때마다 혀가 엉켜 버리기 일쑤지만, 잉크와 퀼이 내게 생각을 가다듬을 시간을 주기를 바란다. 어쩌면 이런 글쓰기를 통해, 지금 이토록 나뉘어진 것처럼 느껴지는 내 안의 두 부분 — 고향 머크마이어와 메이지 길드에서의 새 삶 — 이 마침내 이어질지도 모른다.  
+  
+이 일지들은 나의 쿠-바스테이가 될 것이다. 그리고 이것을 적으면서, 이보다 더 적합한 주제는 떠오르지 않는다.  
+  
+쿠-바스테이는 대략 '필요한 변화의 촉매'로 옮길 수 있으나, 이런 직역으로는 본래 의미를 도저히 담아낼 수 없다. 또 다른 번역으로는 '변화가 일어나기 위해 필요한 길을 만들어 내는 것', 혹은 '반드시 존재하게 될 화염에 불을 붙이는 점화의 불꽃'이라고도 할 수 있다.  
+  
+좀 더 직접적인 분석을 먼저 제시하는 편이 좋을 듯하다. 쿠-바스테이는 명사이며, 사물이나 사람을 가리킨다. '바스테이'는 직역하면 변화로, 내 문화에서 중요한 개념이다. '쿠'는 말하기 더 어렵다. 변화를 이끄는 것이지만, 변화를 만들어 내는 것은 아니다. 정체는 죽음보다도 더 나쁜 운명이기에, 이것은 중요한 역할이다.  
+  
+절벽 꼭대기에서 아슬아슬하게 기우뚱거리는 거대석을 생각해 보라. 언젠가는 반드시 떨어져야 한다. 쿠-바스테이는 그 거대석을 절벽 아래로 떠미는 것이 아니다. 오히려 바위를 제자리에 붙들어 두고 있던 자갈 하나를 골라 들어낸다. 그리하여 바위는 떨어지지만, 밀려서가 아니라 길이 트여서 그리된 것이다.  
+  
+쿠-바스테이는 변화 그 자체가 그러하듯 숭앙받는다. 지나온 것을 되돌아보는 일은 앞으로 나아가다 발을 헛디디게 만들기 때문이다. 때로는 올바른 방향으로 살짝 밀어 주는 것만으로도 누군가가 그런 지혜를 떠올리기에 충분하다. 그렇지 않을 때는, 세게 밀어 넣어야 할 수도 있다.
+
+[출처](https://www.imperial-library.info/content/ku-vastei-needed-change)
 
 ---
 

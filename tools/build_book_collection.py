@@ -169,6 +169,9 @@ def render(book):
     details=["ID: "+book["book_id"]]
     if book.get("author_ko"): details.append("저자: "+book["author_ko"])
     if book.get("plugin"): details.append("플러그인: "+book["plugin"])
+    if book.get("eso_book_id"):
+        details.append("ESO 책 ID: "+str(book['eso_book_id']))
+        details.append("한국어: 사용자 제공 kr.lang · 기존 게임 번역")
     source=book["source_ref"]
     credit="[출처]("+source+")" if source.startswith("https://") else "출처: "+source
     body=book.get("ko") or book.get("en","")

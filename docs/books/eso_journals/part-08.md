@@ -1,972 +1,967 @@
 # The Elder Scrolls Online Journals, Notes & Letters 원문·번역 서적 합본
 
-수록 서적: 2,231건. 영문 원문을 우선 수록했습니다. 미번역 서적의 판본·발췌 여부는 번역 전에 확인하세요.
+수록 서적: 2,232건. 기존 ESO 한국어 게임 본문을 연결했으며 나머지는 확보된 영문으로 제공합니다. 판본·책 ID 연결 범위는 ESO_KOREAN_IMPORT.md를 확인하세요.
 
 ---
 
-## Calis’s Journal
+## The Empty Room
 
-ID: ext-eeeff4c239af1d27974b
+ID: ext-d957aa4ed1bb8ca8446f
 
-Master Pythis instructed me to keep a journal of our research for our records. I have never been much for journaling, but I imagine I will spend most of these pages drawing the various specimens instead of writing about them. I think illustrations are more instructional than mere words. Perhaps because I am not much of a writer.  
-  
-But it seems Master Pythis believes in me. A fact that does not cease to bewilder me every time I encounter it. His work with botany has inspired me for quite some time. When he offered to become my mentor, I was at a loss for words. Why would someone as well-established as he is want to waste time teaching a new recruit like me? I am incredibly grateful, of course. It’s a dream come true.  
-  
-He tends to be quiet. Not unkind, but not overly warm, either. Which is fine for me since I tend to be fairly quiet myself. I merely hope that his propensity for silence is not out of sullenness toward his new apprentice.  
-  
-The master’s been fairly secretive about our newest project. I’ve noticed that many of the other Psijics don’t take botany quite as seriously as he and I do. I don’t mind too much. I find it’s better for any group when their interests and talents are varied. But I think Master Pythis keeps our research mostly between the two of us because we have true passion for it. He hasn’t said outright that the others wouldn’t understand (and I certainly haven’t found that to be the case when talking to them) but I get the sense he would rather they stay out of our affairs.
+Upon excavating the ruins of Rulanyil’s Fall, this room was found to be relatively untouched by the ravages of time, and remains largely as it was found.
 
-[출처](https://www.imperial-library.info/content/caliss-journal)
+[출처](https://www.imperial-library.info/content/empty-room)
 
 ---
 
-## Call to the Cloisters
+## The Font Aequiius
 
-ID: ext-374700d1f5a556870e84
+ID: ext-67e975ac90d9b54e9d04
 
-A lowly cipher by the name of Meenai-Shai has unwittingly aided in our efforts to access the secrets of the Sidereal Cloisters.  
+Aldarch,  
   
-A foothold has been made and Mora’s treasured tomes will soon be gathered in the name of our master. Make haste and converge upon the Cloisters.  
+Water is yours to command with this eldritch chalice. Standing in a pool of water and concentrating can cause the most amazing manipulations of liquid.  
   
-Soon we will have full access to its treasured secrets.
-
-[출처](https://www.imperial-library.info/content/call-cloisters)
-
----
-
-## Call to the Faithful [Note]
-
-ID: ext-7bd1a5ea3dac69da9344
-
-Those who revere the light of the Moons! Take heart and hear the words of the lunar clergy. Our research has confirmed the sites of several ruins dating back to the days of the oldest Manes.  
+Please accept it with my appreciation. In the name of Mara, may the blood of life keep pumping within your breast.  
   
-— Ja’zennji Siir, or “Jode’s Light” in Reaper’s March: north of the modern town of S’ren-ja  
-  
-— Zennrili Keep, near the center of the bend in Topal Bay  
-  
-— Shaasanath Point, at the mouth of the Xylo River  
-  
-It is our hope they may once again sing with moonlight. For those with a stout heart and a strong arm, know of these ruin sites and make of them what you can. Perhaps one day the faithful shall shout your name in the halls of the lunar faith!  
-  
-Bright Moons hang above us all!
+— Kinlord Astanamo the Penitentt
 
-[출처](https://www.imperial-library.info/content/call-faithful)
+[출처](https://www.imperial-library.info/content/font-aequiius)
 
 ---
 
-## Calo’s Journal
+## The Indrik’s Glade
 
-ID: ext-7e3b48e234357a462ba7
+ID: ext-f7e1331b9029cc82b19f
 
-We found a cave today. Looks to be an old, buried ruin. The place is very quiet. No evidence of creatures or beasts that we can see.  
+To all who enter the indrik’s glade  
   
-The ankle I injured when we tried to loot Mzulft still hurts. While I rest here, Jase is going around the long way to see if he can open the gate from the other side. Wish he would hurry. I really hate how quiet this cave is.  
+And hunt this most elusive prey:  
   
-Maybe this time we’ll find some treasure we can sell. I’d love to settle down somewhere. Maybe Riften. I’m tired of exploring holes in the ground and fighting monsters. Too much wear and tear on my aching bones.
+Glory awaits you
 
-[출처](https://www.imperial-library.info/content/calos-journal)
-
----
-
-## Camandar’s Journal
-
-ID: ext-bf6cafff7eddae65bdd2
-
-I can’t get this sea-cursed crystal out of the base! Those dirty High Elves must have set up this arrangement of crystals for a reason.  
-  
-The amount of energy the central crystal absorbed must be substantial. If I could unlock that power I could harness it.  
-  
-And then they’ll see I’m not the fool they think I am! I’m not! I’m not a fool!  
-  
-I can hear everyone whispering about my failure. Drinking is on the rise. If I don’t get this crystal out of here soon….  
-  
-They’ll slit my throat in the night and head out to plunder the countryside.
-
-[출처](https://www.imperial-library.info/content/camandars-journal)
+[출처](https://www.imperial-library.info/content/indriks-glade)
 
 ---
 
-## Camp Update
+## The Realm as we Know It
 
-ID: ext-4830aa262606d4be16e4
+ID: ext-03891379b5d818425cab
 
-We have the usual number of rule breakers and layabouts for a camp of this size.  
-  
-Halver sneaks food to the slaves after dinner.  
-  
-Dedaenc sleeps during her guard shifts.  
-  
-Branos smuggles contraband through some of the hired laborers.  
-  
-Inform me of any judgments and punishments you deem appropriate. I will see them carried out.
+The Maelstrom and all others like it are constructed by the Daedric Princes that inhabit it. I happened to stumble across this realm while climbing the mountains of Orsinium. My host has been gracious enough, but he keeps prodding to help him build his barbaric arenas…
 
-[출처](https://www.imperial-library.info/content/camp-update)
+[출처](https://www.imperial-library.info/content/realm-we-know-it)
 
 ---
 
-## Cantillon’s Correspondence
+## The Stars Have Eyes
 
-ID: ext-1949ce92515508bac530
+ID: ext-2cf6f24985d2cb96905a
 
-(Ed. note: This letter is one of Margaux Cantillon’s earliest recovered correspondences. Her impact on the restoration arts and her unmatched compassion will long be remembered, and this letter grants us insight into the strength of character she displayed even as a young healer.)  
+The stars have eyes. They are watching.  
   
-Journeyman Bachand,  
+The stars have eyes. They are watching.  
   
-I received your gift yesterday, and I am taken aback. It’s clear that you spared no expense; I have never laid eyes on such an ornate staff. The silver and golden symbols of Mara inlaid with pearl are beautiful, and the sculpting of my likeness into the metal at its top is … flattering.  
+The stars have eyes. They are watching.  
   
-Please believe that it is only with the greatest regret that I cannot accept it. I appreciate the spirit of the gift, but I simply cannot use it to tend to my wards. We travel in different magical circles these days. I know such a magnificent staff could be borne proudly in yours, but I have dedicated myself to tending the unfortunate, and to use such a costly implement in my work would be unseemly.  
+The stars have eyes. They are watching.  
   
-You asked about my studies. My instructor says my empathy is strong, and that the outrage I feel at the suffering of others gives my restorative spells potency. I am humbled to have a gift for this noble calling. I only wish healing received more focus during apprenticeship; the emphasis on destruction seems so misplaced to me now.  
+The stars have eyes. They are watching.  
   
-Perhaps we will meet again at the next Guild Symposium in Wayrest.  
-  
-Yours in Mara’s Grace,  
-  
-Margaux Cantillon
+The stars have eyes. They are watching.
 
-[출처](https://www.imperial-library.info/content/cantillons-correspondence)
+[출처](https://www.imperial-library.info/content/stars-have-eyes)
 
 ---
 
-## Cantor Izalgo’s Journal
+## The Tree Is On Fire!
 
-ID: ext-be137e325cff1ec58924
+ID: ext-39d9d2373006af8d5c09
 
-Thank Azurah I thought to stop in Redfur. I asked after reports of an exorcism needed in Goldfolly and was met with narrow eyes. There are no Khajiit in Goldfolly. The locals do not go there anymore.  
-  
-As instructed by High Cantor Viti, I sent word to the Torval Curiata. They replied with a company of Inquisitors! We are now at Goldfolly, and they told me to stay put by the stables while they investigate some Orcish longhouse nearby. They say if there is someone in need of my services, I will be allowed to tend to them.  
-  
-Inquisitors have not been forthcoming with why I might have been lured here under false pretenses. So I did not tell them about the strange dreams I’ve had since I was summoned to Goldfolly. About the Khajiit with fur like lovely midnight who asks me to join her in song to wake her pet, a beast of darkness incarnate, slumbering in the Void.  
-  
-I wake with the melody in my head, but no semblance of the words. Only her name. Ravith-morna.  
-  
-Ravith-morna. Ravith-morna. Ravith-morna. Rhythm almost like a beating heart. Who is she? Did she send the summons to Goldfolly?  
-  
-The suffix implies the darkness has her. But perhaps it’s not too late. She needs me. Needs my help.  
-  
-I hear her song from somewhere beneath my feet. She is near. I must find her! There must be a way down.
+You’ll find water East of here, by the well. You have 30 seconds.
 
-[출처](https://www.imperial-library.info/content/cantor-izalgos-journal)
+[출처](https://www.imperial-library.info/content/tree-fire)
 
 ---
 
-## Canuldil’s Note
+## Threat of the Dreadsails
 
-ID: ext-72c066ea910b2c4a6d13
+ID: ext-5d2cd14b2661a709923c
 
-Stuck in Favonius house, northern Elven Gardens. Plautisanus is dead. Monsters everywhere. Can’t make it home. Hope this bottle makes it through sewers. Please help!  
+To the Commander of the City Guard,  
   
-– Canuldil
-
-[출처](https://www.imperial-library.info/content/canuldils-note)
-
----
-
-## Canuldil’s Plea
-
-ID: ext-68506ceb2ce4ada129f1
-
-To whomever finds this:  
+I didn’t want to write this. I thought we’re all sensible citizens here. Surely, we all know the danger pirates like the Dreadsails pose to our lives and livelihood. I was wrong.  
   
-Please find my wife, Ainenya. I left her hidden in our house in the southwestern section of the Elven Gardens. Tell her my final thoughts were of her.  
+As I was sitting in the Jaded Ornaug Tavern sipping an ale after a hard day of working in the shipyard, I heard Damien Ginise open his great maw and say, “Why don’t we just give the ‘sails what they want? Let them take Vastyr. We can build anywhere.”  
   
-– Canuldil
+Let them take Vastyr? Does he think that their raids will stop just because we give them one city? It’s not the land they want. They don’t attack our ports because they want to live in Vastyr!  
+  
+If we give even one district to the Dreadsails, they’ll see us as weak. They’ll see it as a sign that we’ve given up. If even one of Vastyr’s streets falls under their onslaught, there will be no stopping the attacks. Not until we’re all dead and they can turn Galen into a pirate’s refuge or whatever it is they want.  
+  
+So whatever you do, don’t listen to fools like Damien Ginise. Don’t give in to the pirates’ demands. And don’t lose faith in House Mornard. They’ll protect our city and keep out the ruffians.  
+  
+From a faithful citizen,  
+Christophe Alielle
 
-[출처](https://www.imperial-library.info/content/canuldils-plea)
+[출처](https://www.imperial-library.info/content/threat-dreadsails)
 
 ---
 
-## Captain Abitius’s Orders
+## Threatening Letter
 
-ID: ext-3d2362286092925fd4ad
+ID: ext-a3ed1d316db22bddfc93
 
-Due to an unexpected assault on Varen’s Watch by the Recollection and other conspiring enemy forces, you are ordered to ignite the four signal fires atop the Watch’s towers and walls to alert and rally nearby Legion troops. Once all four signal fires are ablaze, immediately report back to the camp outside the Watch, situated not far from the main gate, for further orders.  
+Esteemed Jhaziran,  
   
-Your bravery and service to the Legion and all of West Weald is recognized and commendable. Varen’s Watch serves as one of the keystones of our defense in this region—one we cannot afford to let fall into enemy hands.  
+I hope that this letter finds you in good health. I would not normally pry into your private affairs, but my novitiates in the cursed laboratory tell me that many of your recent deliveries have been either late, or incomplete. I’m sure that I needn’t remind you that we are on a delicate time-table. Any delay, no matter how minute, could hamper our plans.  
   
-Make haste, legionary!  
+I strongly advise that you increase the speed and accuracy of your deliveries, if only for your own good. Remember, we signed a contract—and that contract is binding. Even now, the Bargain Man howls for payment. Make your deliveries, Jhaziran, or I fear that you will pay with your soul.  
   
-Captain Abitius
+-Fleshmender Moradilion
 
-[출처](https://www.imperial-library.info/content/captain-abitiuss-orders)
-
----
-
-## Captain Alphaury’s Journal
-
-ID: ext-6e8850dc9fa23e5b1d54
-
-Something definitely went wrong with the portal spell. Instead of arriving in Coldharbour as an invading force to be reckoned with, we wound up scattered to the four winds. I am now a captain without a command. The others that appeared with me—we’ve been fighting or running since we got here. We finally found a relatively safe spot on the edge of a dark forest and decided to set up camp. This is the first time since we arrived that I’ve felt safe enough to just sit down and record my thoughts.  
-  
-Time seems to flow differently in this realm. Sometimes it feel like we’ve only been here for a few hours and other times I could swear we’ve been here for days. This mission has turned into a colossal failure. Instead of stepping through the portal together, we were thrown in all directions, strewn about like so many dry leaves in a bitter wind. Luck was with me, though. I landed in the company of Kamu the Khajiit. If only the rest of my luck had turned out as well.  
-  
-We found ourselves in a strange ruin east of this camp. There were cold flame atronachs everywhere, intent on roasting us to a very fine blue crisp. We dispatched a couple of the creatures before we were forced to turn tail and run. For some reason, however, as we got close to the forest, the atronachs stopped chasing us. They suddenly seemed to lose interest in us and returned to the ruin.  
-  
-Well, I guess I should stop writing now and help finish setting up our camp. I’ll write more after we get some sleep, provided nothing terrible happens to us in the interim.  
-  
-***  
-  
-We were awakened after a few hours (minutes? days?) of sleep by voices. There seem to be people in the shadows of the woods, talking, whispering. We can hear them, but the voices aren’t distinct enough to make out any actual words. Or maybe it’s just a language that none of us have ever heard before. I’m not sure. Every so often, though, we clearly hear something that sounds like a cry for help.  
-  
-Every time we hear that desperate cry, we think of our missing allies. It could be some of them, lost out in those dark woods. They might be hurt, or in danger, or—well, anything could be happening in there! Kamu and I have decided to head into the forest and find the source of those pitiful cries.  
-  
-I’m going to leave my journal here, in case any other members of our expedition come across this camp. We’ll try to leave a trail so that you can follow our path. We’re going to head west and then southwest, so follow after us if you can.  
-  
-Here’s something else you need to know. Kamu discovered that if you touch one of the wisps that float among the trees, you glow and get a temporary source of light—perfect for finding your way through these shadowy woods. I suggest you make liberal use of the wisps if you’re going to try to meet up with us.  
-  
-Well, it’s time to go. I hope to see you soon. And may the Eight watch over us all.
-
-[출처](https://www.imperial-library.info/content/captain-alphaurys-journal)
+[출처](https://www.imperial-library.info/content/threatening-letter)
 
 ---
 
-## Captain Black Sword’s Journal
+## To All Who Pass Through
 
-ID: ext-e2887268b0ff4a6c4ac8
+ID: ext-2c6b382984580c5ff421
 
-Damn the Pirate Queen for tempting me with a fortune in gold! It’s all her fault my ship wrecked on this Oblivion-cursed shore! But I’m getting ahead of myself. I ought to record what happened from the beginning.  
+I am Dutheil, Artisan of Oblivion, and these are my Vaults of Madness. Look upon them and cower.  
   
-It started when I received word that Governor Fortunata of Anvil was in the market for wamasu—the more ornery the better! She was supplying various clients throughout the Gold Coast, including her own Red Sails Pirates and the Gold Coast Trading Company. As luck would have it, I had recently heard about a hunter who had captured a wamasu matron and was looking to unload it for a relative pittance. The path to my disastrous destination started when I took possession of that malignant creature.  
+They were designed to contain my enemies, villains who lived only to inflict misery upon me. The wretches tormented me for years, jeered, prodded, taunted, before finally turning the nobles of Wayrest against me. They ruined my career as the preeminent architect in the West.  
   
-My crew hauled the crate, wamasu and all, into the hold. I could tell even then that the creature was cruel and calculating. It stared right into my eyes with its cold, angry orbs. I knew right then that it would be nothing but trouble as we sailed toward Anvil, but I ignored my better senses for the promise of a chest full of tainted gold. Curse my avaricious eyes!  
+Such was my rage that I sought the Daedra, who came to me, offering a pact for my talents. They would capture my tormentors and imprison them here. In return, I would build for them. I accepted gladly.  
   
-We were off the coast of Glenumbra when a whale of a storm blew in. As my ship and crew were tossed about like so many dice in a cup, the wamasu decided she no longer cared for our generous hospitality. The damned creature shattered her crate like so much drift wood. Then she crashed through the hold and woe be to any of my sailors who happened to be in the way. But it didn’t stop there! The hateful beast ate my ship! Beams splintered and planks snapped in the wake of her unbridled fury. I meant to go down with my doomed vessel, but fate had another idea in mind.  
+In Wayrest, I designed inescapable prisons for law enforcement, opaline palaces for the nobles of the Gardens District. My works were heralded as a crossing of artistic perfection and architectural function. But what I’ve built for the planes of Oblivion are so much more. Black spires for the Scheming Lord of Coldharbour are instruments of torture as much as they are monuments to his greatness. The razor pits of Deadlands never dull, and cut flesh, bone, and spirit essence for the Prince of Destruction—in ways that even the most powerful healers can never mend.  
   
-I awoke floating just off shore on a chunk of debris. The wreckage of my ship was all around me, but I didn’t see another living soul. No one, that is, except for the damned wamasu. It made its way to shore and immediately set about making a nest and laying eggs. Well, I’m never going to see Fortunata’s gold and the wamasu is never going to see the Gold Coast. But I’ll be damned if I let it raise its young on this forlorn beach! I’ll kill the creature for what it did—or die trying!
+Even so, all of these creations—from the gestating cyst-towers of Molag Bal to the sparkling Pellingare Manor in Wayrest—are but baubles compared to the Vaults. They are my Daedric Crescent, my Akaviri Warblade, the culmination of my skill, my greatest creation.  
+  
+And they grow only more extraordinary with time. What was once a place of eternal anguish for the three charlatans who ruined my mortal life has grown to become a nexus of torture for all manner of Tamrielic souls. So exquisite is the work I do in these Vaults that even the Daedric Princes send souls to me to oversee.  
+  
+And as for you, dear guest—know that the pain you experience here is the result of lifetimes of refinement and iteration. Embrace it, and writhe, and be awed.
 
-[출처](https://www.imperial-library.info/content/captain-black-swords-journal)
-
----
-
-## Captain Blackheart’s Log
-
-ID: ext-804da29371659dcc13cd
-
-Moments of freedom are fleeting.  
-  
-Come in fits and starts, before he reenters my mind.  
-  
-YOUR MIND WILL NEVER BE YOUR OWN AGAIN  
-  
-Can’t shed the spell with force of will. Doesn’t weaken with time.  
-  
-AMUSING THAT YOU THINK IT WOULD  
-  
-Tortures me with a taste of the freedom I once had. Allows me a few moments every day.  
-  
-NO ONE WILL EVER READ THESE WORDS  
-  
-The rest of the crew aren’t as lucky. Wavecutter, Iron-Heel, Martha. Even slippery-as-a-swamp-eel Shifty Tom seems completely enthralled. And Shifty Tom has never fallen for a magical trap. Seems his Breton blood has failed him, this time.  
-  
-Can only wish for an end, though none is in sight. He’s killed hundreds with my hands. I remember every scream.  
-  
-YOU WILL DO AS YOU ARE TOLD
-
-[출처](https://www.imperial-library.info/content/captain-blackhearts-log)
+[출처](https://www.imperial-library.info/content/all-who-pass-through)
 
 ---
 
-## Captain Burwarah’s Records
+## To Anchorite Odska, From Black Mage Tacitus.
 
-ID: ext-90d544756e4e3b4bd531
+ID: ext-7cd8991ccdbaa87a11d4
 
-2E 304, Abecean Sea.  
+Run Odska. Run as far as you can.  
   
-At the rate at which my crew is shrinking, I doubt anything of our accursed and ill-fated voyage will survive beyond this record. Tu’ whacca, give us the strength to avoid such a fate.  
+They found the prisoner. Killed him. They made me raise the corpse from the dead over and over until my body gave out. When I awoke, they raised him from the dead. The exact same way I did.  
   
-For all the days I neglected to write the happenings on my ship, I’ll recount the major events.  
-  
-We set sail from Summerset and headed east across the waters. A fierce wind kept our sails filled and our course calculations has us making landfall in Khefrem a week early. The crew rejoiced, for our time at sea was long and everyone was eager to sail in familiar waters once again. The sun was high, and no other sails or storms were visible from the crow’s-nest. Everything was calm and idyllic. Tava looked upon us favorably. Or so we thought.  
-  
-We awoke one morning to find ourselves trapped in the clear eye of a storm. A league on either side, was dark clouds and troubled seas. But we rested in windless pocket of clear skies and calm waters. At first, we thought it was a Sea Elf raid. The crew spent three nights armed and prepared for battle. They slept in shifts and got little rest at that. When no ships broke the storm clouds and no wind filled our sail, we thought of the Daedra and wondered if we somehow drew the attention of their frightful number. Still, with our stores emptying every day, we could not wait to starve. I ordered all rested hands to put oar to water. If the winds would not propel us to Stros M’kai, we would do it ourselves. That was my mistake.  
-  
-The moment the first oar breached the still ocean waters the sea grew violent. It rippled and roiled with the bodies of a hundred sea adders. Their thick serpentine bodies lashed out and leaped onto the deck. Those with oars in the hands suffered the greatest, for the oars were too long to be used in combat. And those below deck, resting after their shifts of watching for Sea Elves had little time to gather themselves before the adders found the stairs. Somehow, we managed to slay the adders, but it was with heavy losses. The waters were still once more, and the boson ordered a day of rest to tend to and care for those who remained on this side of the Far Shores.  
-  
-The night was filled with the song of pain from below deck and rest was sparse. Still, the morning broke with clouded skies and a great cheer arose. The sun rose in the sky and the winds rose with it. Finally, the doldrums we were caught in dissipated and the sails dragged what remained of my battered crew from those accursed waters.  
-  
-I thought that would be the end of our troubles, but while the wind returned, the storms did not dissipate. We sailed into their midst and, with a sizably smaller crew, we set out to battle the worst squall I have been unlucky enough to see.  
-  
-Two experienced sailors pushed overboard by the arms of imps who careened out from the clouds. We lost their cries below the waves as we struggled to defend ourselves against tempest and imp. The call to arms erupted from all sides as the imps fell on us and my daring crew protected their stations and somehow kept the ship to rights before the imps fell back.  
-  
-We cheered and cursed the clouds around us with equal fervor, doing our best to concentrate on battling the winds and not look about for more attackers. None came, that we saw, but the storm had worse for us in mind. When we least expected it, the lightning fell. Circular and swirling, unlike any I ever encountered. The crew let out a horrid cry as they saw great, hulking figures before us. Creatures of stone and storm who hurled tremendous energy at our vessel.  
-  
-Still, we had no way to avoid them. My ship was quick, but she can’t outrun the wind. Her deck is sleek, but she can’t turn from lightning. We fought to keep her from tearing herself apart, there was nothing more we could do. And so, my brave crew, half of the sailors who remained, stood at their posts and performed their duties until such time as the lightning drained the life from their arms.  
-  
-I was the worst captain in seas. In two days, I’d lost over half of my crew to unforeseen creatures. Each time we were attacked, I rushed to defend my crew, and each time I could do nothing. I do not know how we escaped the atronachs. I could not tell you where we sailed nor how. It was luck alone. Tu’whacca blessed their passing and cursed ours for our journey is not yet over.  
-  
-The distance between our ship and the safety of Summerset feels insurmountable. Our journey is doomed by the sea and the sky. Enemies spring from the waters we must travel and even now my beloved crew succumbs to the pain of the past few days.  
-  
-I know not how these accounts of our sorry may be remembered, but I know they will survive us. If, by some blessing from the gods, we survive. I will renounce the waters I once loved. They have turned against me. May Tava see us home or end us quickly.
+The Hadolids saw me cast and they copied it. They know necromancy now. I stumbled away and sailed off in a boat. They’re poking holes in it now, Odksa. I think I’m going to die. If you’re reading this, never let them catch you. They know things. They
 
-[출처](https://www.imperial-library.info/content/captain-burwarahs-records)
+[출처](https://www.imperial-library.info/content/to-anchorite-odska-from-black-mage-tacitus)
 
 ---
 
-## Captain Evani’s Log
+## To My Brother, Entrepreneur of Orsinium
 
-ID: ext-60b92edaa46923919622
+ID: ext-27c22f3182453121ac70
 
-Entry 184  
+Brother,  
   
-The Abah’s Landing Thieves Guild was smashed by mercenaries from Taneth. Did the merchant lords finally push back? Could be an opportunity to work with our Anvil connection.  
+I hope this letter finds you well, for I know that we did not part on the best terms. When you got the invitation to Orsinium, I was adamant that you were on a fool’s errand and insisted that you stay and help run father’s business with me. When your first gift arrived, I nearly wrote you to tell you how wrong I was. The generous sack of gold saved the shop, and kept your brother-in-law and nieces fed for weeks.  
   
-Entry 188  
+When your second gift arrived, I was intrigued. A curiosity, for sure! Those mudcrab-like legs. That adorable nose and furry back. I sold the cute little thing to a wealthy man, a traveler from Wayrest, who insisted that he must have it. He paid me a small fortune. Again, I nearly wrote you to tell you that I had been wrong all this time, but put it off.  
   
-Small shipment delivered to contacts in Abah’s Landing. The next time we ship in bulk.  
+A few weeks later, I’m glad that I did.  
   
-Entry 191  
+I smelled them before I saw them. The Wayrest man, with this monstrous crested beast in tow, shouted at be from across the counter at our stall. He demanded his money back, and more, for this thing eating all of his fine silk shirts. Apparently this monster, now the size of a large tusked bull, liked to butt up against the supports of the man’s house, and nearly knocked it down.  
   
-A new Commodore means we need money, fast. Only way to pay the tribute. We’ll load our compartments to the gills next time we’re in Anvil.  
+Lucky for me, the magistrate found in my favor. “Let the buyer beware.”  
   
-Entry 193  
+Whatever this beast is, you are a fool for sending one to me. Please do not send another.  
   
-Betrayed! Who is this “Cosh,” and how could he know we’re smuggling skooma? If I don’t meet him at No Shira Citadel, he’ll have the Iron Wheel raid my ship!  
+Love and kisses, Sis  
   
-If I take us to deep waters, the Commodore will think we abandoned the tribute. But our contacts are spooked, and refuse to take the shipment off our hands.  
-  
-This Cosh has me by the short whiskers. I’ll have to meet with him at that blasted old fort. What else am I to do?
+P.S. You may continue to send gold.
 
-[출처](https://www.imperial-library.info/content/captain-evanis-log)
+[출처](https://www.imperial-library.info/content/my-brother-entrepreneur-orsinium)
 
 ---
 
-## Captain Fanimanwe’s Journal
+## To the Owner
 
-ID: ext-a88d13a150135b431df8
+ID: ext-b4a96a5a31d254c1f51a
 
-Day 7  
+To the owner of Riftweald Manor,  
   
-Two weeks ago, while on patrol near Rawl’kha, my scouts encountered several terrified Khajiiti. The cats explained that they were the few survivors of a terrible massacre at Thibaut’s Cairn, where they were employed as groundskeepers. While the fantastic tales of cats do not normally interest me, I felt I was duty bound to at least investigate the claims, in the name of the Queen. How bitterly do I regret that decision now.  
+I’m not accustomed to working under these conditions of secrecy, but your generous compensation for the inconvenience was more than adequate to complete the project. Both the balcony ramp and the floor mechanism were interesting projects, and I hope you’ll find them functioning to your surprisingly specific specifications. If you should have any further need for my talents, please call on me again.  
   
-Day 18  
-  
-The dead are unstoppable. No matter how many of them we destroy, more of the ancient dead rise up to face us. My men fought like eagles, but exhaustion and overwhelming numbers are taking their toll. Nearly half of the brave soldiers I led into this crypt have joined the dead.  
-  
-Day 21  
-  
-Where are they coming from? Who controls these abominations? If I could find the source and destroy it, perhaps my men and I could escape this place! I fear that all of us will soon lend our bones to the foul force that animates the dead here.  
-  
-Day 22  
-  
-I’m all alone now. The last of my men have fallen in a desperate attempt to make it back to the entrance of the crypt. I ordered them to stand fast, but they revolted at the thought of perishing here in the small camp we’ve set up. I can’t say that I blame them. Perhaps I should have gone with them, to fight, to die … to try one last time to see the light of day.
+Kilthinius Dandoril
 
-[출처](https://www.imperial-library.info/content/captain-fanimanwes-journal)
+[출처](https://www.imperial-library.info/content/owner)
 
 ---
 
-## Captain Izard’s Orders
+## Torn Note [Ethian]
 
-ID: ext-f72b176015a5754ba606
+ID: ext-6d9d42c3606058f61582
 
-Rangers,  
+… not to be shared with Ethian. He is a dutiful son, but he lacks nerve. Unlike that she-wolf he married. She’d sail straight into the arms of those green savages and act as if they are our equals. Madness.  
   
-I trust you refrained from opening these orders until after passing Fort Ash. Your mission is to travel to far southeastern Cyrodiil, deep into enemy territory. There, somewhere south of Drakelowe Keep, is a natural cavern know to the locals as Newt Cave.  
+You’ll find there is an extra passenger on your escort sloop. Corisia Rufinus—a mage with whom I have done business in the past. Very discreet. She can make sure that the boats get iced in for a few days when you are far enough north. Just enough to solidly delay Sovelle’s arrival. Any luck, the Orcs will be insulted, if they have the wit to understand social niceties.  
   
-A previous scout team sent back a report before entering the cave, telling of rumors that great treasure waited within. This team has not been heard from again. You are to discover what happened to them and recover any treasure inside the cave.  
-  
-Remember, you volunteered for this.  
-  
-— Captain Izard
+I had some other thoughts on dealing with this situation…
 
-[출처](https://www.imperial-library.info/content/captain-izards-orders)
+[출처](https://www.imperial-library.info/content/torn-note-2)
 
 ---
 
-## Captain Kaleen’s Log
+## Torn Page [Basins]
 
-ID: ext-62c71f7d5de8b8beb0c3
+ID: ext-fdee23561e494a99a183
 
-NEW VOYAGE  
-  
-Under Contract, Lady Arabelle Davaux, Double Standard Rates, Insuring Agent Wayrest Treasury Edwinna Gaering.  
-  
-ENTRY 1  
-  
-Wayrest.  
-  
-Weather gray but calm.  
-  
-We’ve been cooling our heels here for days. That Ring of Blades woman, Copper, is a real card sharp. She talks little, wins a lot, and won’t say more than two words about our cargo.  
-  
-* * *  
-  
-Finally underway. We’re to set sail southwest and not ask a lot of questions. The noble cadre that came aboard was quite the scene. Here’s hoping no one on the docks noticed all of those fine folk trying so hard not to be obvious.  
-  
-ENTRY 3  
-  
-Passing Daggerfall.  
-  
-Weather calm.  
-  
-I don’t know who High King Emeric thinks he’s fooling, but I’d know that voice anywhere. The man’s got the pipes of a Nord skald and he talks loud enough for the entire ship to hear. I just hope the crew keeps their eyes down and their mouths shut.  
-  
-* * *  
-  
-The high king finally brought me into his confidence. He really had no choice, since I insisted. We’re to make for the Systres Archipelago after we rendezvous with two ships along the way flying Dominion and Pact flags. Some kind of high level talks, I’d wager. But then, I’m being paid not to gamble today.  
-  
-ENTRY 6  
-  
-West of Stros M’kai.  
-  
-Weather clear and calm.  
-  
-Rendezvoused with the Perfect Pounce and Kamal’s Bane. I know Captains Za’ji and Tsuzo by reputation, but I’ve never had the pleasure of meeting either of them in person. Not sure you can call trading signals across the open sea in person, but close enough, I suppose. We’re going to sail together for the rest of the voyage.  
-  
-ENTRY 9  
-  
-Abecean Sea  
-  
-Weather variable.  
-  
-The weather’s acting strangely. I’ve sailed these waters a hundred times or more and never seen them quite like this. Hopefully these squalls will clear before we sight the Colossus. Meantime, I’m going to catch up on my reading. Grabbed copies of “Lust and Lovebirds” by Taylin Wyrorian, and the latest Investigator Vale novel, “The Haunted Lighthouse” before we sailed out of Wayrest. Figure these should tide me over until we get back to the mainland.  
-  
-ENTRY 12  
-  
-Systres in sight.  
-  
-Weather stormy.  
-  
-Barley caught sight of High Isle before a storm hit hard. I’ve called for lines for everyone on the crew. Even went below decks and told His Royal Highness to get ready for rough seas. The guards didn’t appreciate that, but he did. Made me laugh. Don’t think we’ll be able to keep formation with the other vessels in this storm. It came out of nowhere. Like nothing I’ve experienced before in these waters.  
-  
-* * *  
-  
-Might be my last log entry. Seas are rough as a duneripper’s arse. No light off Gonfalon Head, so we’re blind. Tava, you she-bitch, you owe me one. Let us survive this. Stuff that! I’ll get us through this like I always do—with me and my crew.
+It’s the basins! Once per basin, in this exact order: Burn, then bury, then drown.
 
-[출처](https://www.imperial-library.info/content/captain-kaleens-log)
+[출처](https://www.imperial-library.info/content/torn-page-4)
 
 ---
 
-## Captain Nilail’s Log
+## Torn Page [Fiends]
 
-ID: ext-39d130e408e2b84d57d6
+ID: ext-64337127efbd89208eb2
 
-Carapace Cavern: Day 1  
+The fiends who plague us may well have dropped from the sky. They came upon us midday, with the sun casting naught a single shadow. I have no idea how.  
   
-Sealord Gandelec showed us the location of our new base: Carapace Cavern. We see signs of Hadolid activity here, but they appear to have moved on, as per their normal migratory patterns. We noted the Argonian architecture and speculate that when the Hadolids originally sought to make this a nesting ground, they most likely overwhelmed any Argonians living here.  
+They move like men, kill like men, but don’t speak. Can’t be reasoned with.  
   
-We’re not sure why these Argonians decided to build here, but perhaps the unusual bismuth that peppers Solstice’s coastline has something to do with it. We see large amounts of it in these caves. I find it quite beautiful.  
+We don’t presently hear them, nor see them.  
   
-I currently have a bet with Captains Ancamos and Kaalelrith about whether these folk worshiped Sithis, Molag Bal, or maybe even Aedra—we’ve noticed the Argonians on this isle differ from those we’ve encountered around Murkmire, for example. They didn’t exactly make it clear who they revere on their various altars. Perhaps they did this because they didn’t have one specific entity in mind? At any rate, that’s where my bet is: no specific deity or focus. Ancamos thinks Sithis. Kaalelrith is going with Bal. We hope the sealord will share what knowledge he has, though that’s about as probable as these Argonians worshiping Banekin. He does love to keep information to himself as much as possible.  
+But they’re there. They slayed scores of us in an instant, in a hail of arrows, and fire, and blades.  
   
-Day 5  
+The others fear to move. If those things don’t kill us out on this bridge, the sun will.  
   
-We’ve been busy cleaning out the area and getting comfortable quarters set up for the crew for when we shelter here in the future. My fellow captains and I are finding our newfound powers quite helpful in this endeavor. Learning necromancy from Sealord Gandelec is a great honor, though we regret the lack of skeletons around here to animate. Apparently, the Argonians did not leave behind their dead when they vanished. Perhaps they left before the Hadolids showed up after all.  
+All you who read this, for I wish someone had told me: turn back. Turn and flee as fast as you can. Nothing good will come of approaching the Citadel.
+
+[출처](https://www.imperial-library.info/content/torn-page-3)
+
+---
+
+## Torn Page [Hel-Ra Citadel]
+
+ID: ext-ee5957549dce4da36ae2
+
+My colleague, Aban, pressed his hands blue against its walls. He searched weeks for a hidden compartment, a loose stone; any way in. He found none.  
   
-Sealord Gandelec already has the plunder trove vault set up and warded. Not one single coin can leave this place without his express permission. It’s a prodigious ward, but then his magic-crafting abilities are prodigious as well. I will continue to ask him to share his expertise. I am, after all, his most intelligent student.  
+I would kill for a way into Hel Ra Citadel, but they say no one has entered it in many lifetimes—that the entrance is barred and shielded by magical means.  
   
-And I admire Captain Kaalelrith for providing all the portal support to move supply laden skiffs in and out of the cavern. A wiser addition to our team than Ancamos.  
+I go now for the simple honor to do the same as Aban. Visiting such a storied landmark left by our ancestors will stir my soul, I’m sure.
+
+[출처](https://www.imperial-library.info/content/torn-page-1)
+
+---
+
+## Torn Page [Jenedusil]
+
+ID: ext-1aac1cbb37dc7984c16c
+
+Trying to leave this alcove means death by beheading. Staying means death by whatever beast makes this place home.  
+  
+Why this, why now? I swear I will haunt this place if I die here not knowing.  
+  
+I’ve some arrows yet remaining. Perhaps it’s time for Jenedusil’s final stand. Yes, I think that’s what I’ll call this.
+
+[출처](https://www.imperial-library.info/content/torn-page-2)
+
+---
+
+## Torturer’s Note: Hammer’s Bypass
+
+ID: ext-ae1ab0ccf869b5e44282
+
+Four symbols form the key  
+  
+Of the clans that formed the city  
+  
+Whose names we honor to this day  
+  
+Among the Orcs of Iliac Bay  
+  
+First are the ones who built her walls  
+  
+Second are the ones who armed her halls  
+  
+Third are the ones who kept her fueled  
+  
+Last is the one who over all ruled  
+  
+Above is the drivel I pulled from that Orc zealot before he expired. Do the symbols on the tiles match the poetry?
+
+[출처](https://www.imperial-library.info/content/torturers-note-hammers-bypass)
+
+---
+
+## Torturer’s Note: Temper’s Fork
+
+ID: ext-85f3d826e05ebe2d2d5d
+
+That Orc we captured was tougher than the first, but she became quite malleable once I cooked her up a bit. As you requested, I asked her how to pass the second door into the deepest section of the keep. You were right about that area being the most defensible, as the Orc was very reluctant to give up that information. Unlike the other, she was willing to die before entering the sequence of symbols for us. I had to melt her eyes before she would even hint at it.  
+  
+The symbols on the pressure plates around the door correspond to the Orc clans who founded this city. The order we have to press them is the order in which they fell during the siege of Orsinium. That’s all I could get from her before she became delirious and started ranting about the hidden children of Malacath.  
+  
+History isn’t my strong point, but we’ll search the ruins to find clues as to which clan did what and where. My best guess is that whichever clan lived outdoors is first, followed by the clan that inhabited this pit. The next one is tricky, because we don’t know what lies beyond that door. It’ll be something damn important to the Orcs, that’s for sure. And the last has to be the ruling clan, unless any of the others survived the siege.
+
+[출처](https://www.imperial-library.info/content/torturers-note-tempers-fork)
+
+---
+
+## Treasure Hunter’s Journal [Chill Hollow]
+
+ID: ext-ecb2a9106040b2f42e79
+
+Day 1  
+  
+We found the Chill Hollow today. It’s a winding depression in the rock filled with ice and snow. It looks like someone got here before us. Poor Hjalo. He should have brought along a few friends!  
+  
+Day 3  
+  
+After two days of hunting through these tunnels of ice, I think we finally cleared out all the wolves. With that taken care of, we can start digging for that gold the Bandit Lord Krogen supposedly hid within this frozen hole in the ground.  
+  
+Day 4  
+  
+Strange sounds from deeper within the cave. Could be echoes of the noise we’re making as we struggle to dig through the ice and rock. Or it could be something else. I think we’ll post guards tonight.  
+  
+Day 6  
+  
+Alfen disappeared last night. The others think he gave up and went home. But I don’t think so. He was really looking forward to his share of the treasure.  
   
 Day 7  
   
-Experiments with the bismuth shows that it has inherent abilities to dramatically bolster our magical work. I already have some ideas on how to utilize it in my own studies. Ancamos, being less interested in magic, just calls it a “pretty enough piece of work.” Why Sealord Gandelec chose them to be one of his captains puzzles me. Ancamos has no ambition to make the most of our promised undying state.  
-  
-Day 15  
-  
-Sealord Gandelec called a captain’s conclave to discuss further plans for the cavern, but mainly focused on the incoming Hadolid problem. Earlier today, some of their scouts entered the caverns and killed a laggard lookout. The sealord said, “I presume you’ve been studying the bismuth here as Captain Nilail has, correct, Ancamos? They have shown me a few properties of it that I plan to use immediately, along with the altars the Argonians built. I expect you and Captain Kaalelrith both to assist in a ritual we’re designing that should protect these caverns from more than just Hadolids and bestow lichdom on all of us.”  
-  
-That’s about what our sealord said, though I may have taken a few liberties. I admit that remembering verbatim what anyone says is one of my weak points. Regardless, being recognized by our leader is gratifying, and I’ll take that to my—well, I suppose if the ritual works, a grave won’t be in my future!  
-  
-Day 31  
-  
-We’ve been busy. The Hadolids are forming up outside the caverns. Our harrowing ritual is nearly ready to perform. We have to time it just right or we’ll all likely die. Captain Kaalerith came up with the idea of tying the crew into it. The extra boost of their life energy should make it strong enough to create the necrotic build-up we need for the release of the energy.  
-  
-I think that’s risky. Given the bismuth, whose properties we don’t entirely understand yet, we might end up with too much necrotic energy and destroy everything on Solstice instead of just the creatures within the cavern.  
-  
-Sealord Gandelec doesn’t have the same outlook as I do on this, so we’re proceeding with the final setup. Each captain will stand ready at an altar while Sealord Gandelec stands on the plunder trove’s altar and performs the ritual. All crew but the Shadowstorm’s has already departed to their respective ships and stand ready to assist if any Hadolids try to escape the cavern.  
-  
-I hope this works out as we intend it to. Soon, the sealord and his captains will be liches and the cavern will be protected. Or we’ll all be dead. Wish us luck!
+The wolves have returned, and they aren’t happy with us. Plus, we’ve been seeing strange, ghostly shapes floating in the darkest corners of the cave. I’m not sure we made the right decision comin—
 
-[출처](https://www.imperial-library.info/content/captain-nilails-log)
+[출처](https://www.imperial-library.info/content/treasure-hunters-journal-1)
 
 ---
 
-## Captain Parondo’s Log Entry
+## Treasure Hunter’s Journal [Craglorn]
 
-ID: ext-3cabaded65d32c257657
+ID: ext-d388fd3219f1b16a0551
 
-Herculoa, next time we’re in a tavern we must speak of the Dominion’s cowardice. Taking Greenwater was even easier than we’d planned. Our agent performed admirably. They never had the chance to activate the beam.  
+3rd Frostfall  
   
-Now, they never will.  
+I’ve been tricked and led astray! There’s no hoard here, no heaps of gold. Just cogs and springs and hissing pipes. What a fool I’ve been! I can’t despair, though. There has to be something of value in this place.  
   
-— Captain Parondo
+Something hidden. I’ll find it. I’ve worked too hard to turn back now.  
+  
+4th Frostfall  
+  
+I’ve found a book. No small feat given how many of those damned mechanical spiders are skittering about. The writing is so small and smudged, but it looks like plans for building something. Something big. Whatever it is, I’m usre it’s in here somewhere. It just has to be!  
+  
+6th Frostfall  
+  
+Stendarr’s mercy, there are so many of them. Those huge walking machines. Lucky for me, they clank and thud louder than wagon-wheels on cobblestone.  
+  
+They know I’m here. Their patrols are becoming more frequent. They’ve got to be protecting something. What a stroke of luck! No one protects something unless it has value. I may make my fortune yet!  
+  
+8th Frostfall  
+  
+It’s found me. By the Eight, it’s huge! It hears everything. Even quill strokes on paper! I’m never going to make it out of here alive. Mara help me!  
+  
+If you’re reading this, don’t go any farther. Let it sleep. Don’t wake it up.
 
-[출처](https://www.imperial-library.info/content/captain-parondos-log-entry)
-
----
-
-## Captain Svadstar’s Announcement
-
-ID: ext-6a69ac2c9dfd330701dc
-
-If you can read this, make sure the rest of the crew hears this and understands.  
-  
-There’s a Morag Tong writ with my name on it. I suspect our confederate in Seyda Neen’s feet have grown cold. Well, we’ll deal with Governor Omellian and his treachery soon enough. And if I’m wrong about the governor, if instead one of you hopes to advance your station by having me assassinated, then come and face me. The crew deserves an honorable leader, not backstabbing scum.  
-  
-Captain Svadstar
-
-[출처](https://www.imperial-library.info/content/captain-svadstars-announcement)
-
----
-
-## Captain Tsuzo’s Log
-
-ID: ext-5362d62605eaecc297b1
-
-ENTRY 78  
-  
-Lilmoth. After waiting a day and a half, the mysterious passenger we were hired to transport came aboard Kamal’s Bane. He and his entourage dressed as common sellswords, but I distinctly heard one of his guards call him “Prince” when he thought no one else was in earshot. I see now why Lady Arabelle insisted on secrecy. We got underway at once, and set course westward under fair skies.  
-  
-ENTRY 79  
-  
-Haven. Three days of sailing across the mouth of Topal Bay and the Long Coast brought us to Haven shortly before dusk. We docked to take on provisions. At my passenger’s request, I restricted the crew to the ship for the duration of our stay. They were displeased, but we are being well paid to maintain secrecy.  
-  
-ENTRY 80  
-  
-Underway, Drowned Coast. Departed Haven on the morning tide. The winds were contrary and squalls met us as soon as we put to sea, but our passenger finally revealed our destination: High Isle in the Systres Archipelago. Our passenger also revealed his true identity to me. I declined to let him know I had already figured that out. Before we reach the archipelago, he insisted we had a rendezvous to keep in the waters west of Stros M’kai.  
-  
-ENTRY 82  
-  
-Underway, Abecean Sea. Sighted the Spearhead and the Perfect Pounce at first light, with Stros M’Kai low on the stern bow. I hailed Captains Kaleen and Za’ji, and learned we would proceed in company to our final destination. The weather seems fair. I anticipate an easy passage.  
-  
-ENTRY 83  
-  
-Underway, Western Abecean. In midafternoon the lookout sighted the smoking peak of Y’ffelon on the port beam. It seems the winds pushed us to the north as we neared the Systres. I ordered the helmsman to steer for the Amenos Passage before we turn south toward Gonfalon Bay.  
-  
-Strange. The day is fair, but storm clouds are beginning to pile up ahead of us. I have not seen weather like this before. I will order the crew to make ready for heavy seas, and advise our passenger to remain below. We may be in for a rough time.
-
-[출처](https://www.imperial-library.info/content/captain-tsuzos-log)
+[출처](https://www.imperial-library.info/content/treasure-hunters-journal-2)
 
 ---
 
-## Captain Za’ji’s Log
+## Triigi’s Journal
 
-ID: ext-4b035abf339733173566
+ID: ext-9e7b0c7d6c315adfe925
 
-ENTRY 458  
+Noise, noise, noise!  
   
-This one does not think that we are ever going to get that contract. The letter from Lady Arabelle was quite clear that we were to drop anchor in Skywatch and wait for someone to contact us. We have been waiting and waiting, until finally the woman who can only be one of Queen Ayrenn’s famous Eyes approached us. She makes promise after promise, but still Za’ji sits on his tail and has to make Caska be patient. Caska is good at many things, but being patient is not one of them.  
+I am drowning in it. Those filthy Orcs bang iron and saw trees and break stones all day long. On and on and on! And even in my own home, stinking Reachmen wander the halls, coughing and wiping their filthy noses. Unwelcome house guests that stink of old deer hides and rot! They have their uses, but they are few. Too few!  
   
-Weather is fair, as it always is at port in Auridon.  
+Only the birds give me peace. Their songs rise over the din. And when the racket is drowned out, only the whispers remain. While those sweaty wild-men bumble around in the woods like fools, the birds bring me real information. Secrets. If only I had more birds. I’d fill the skies with them. Nothing would be beyond my reach!  
   
-ENTRY 459  
-  
-Za’ji was quite wrong! And quite right. This is not a contract. We are conscripted! The Perfect Pounce now sails for High Isle with a crew of royal agents. At least Chizbari, Sidura, and the rest of our usual crew got a few coins to spend in the tavern back in Skywatch.  
-  
-The lady Eye at the docks promised. She promised that there would be great riches from the crown upon safe delivery of our entourage to the Systres Archipelago. But Za’ji does not trust this Cariel. We will see what we see.  
-  
-Weather is as fair as Za’ji’s last dinner mate and just as beautiful.  
-  
-ENTRY 460  
-  
-The Perfect Pounce met with the Spearhead and Kamal’s Bane in the waters west of Stros M’kai. Bright Moons above, no pirates that this one could see. Well, other than us. And the Spearhead. Signaled those other captains and fell into formation for the journey ahead. Very strange to see three ships of the different alliances sailing together, but what does Za’ji know of war and peace?  
-  
-Weather not too bad, but this one’s tail is frizzing up in that way that it does. Za’ji has a bad feeling. Or maybe it was the cheese this one had for lunch. Cheese doesn’t always agree with Za’ji.  
-  
-Update: Our passenger is none other than Queen Ayrenn herself! Za’ji does not think he was supposed to learn this, but her benighted visage could not belong to anyone else! This one swore Caska to silence. She can be such a chatterbox, that one! Of course, she claimed to already know that. Caska is such a braggart.  
-  
-Update update: It is the queen! She came to Za’ji’s cabin to confirm our destination and thank us for our discretion. This one could not bring himself to tell her we have very little of that, but the gesture was appreciated anyway.  
-  
-ENTRY 461  
-  
-We should soon see High Isle on the horizon. This one still has a strange feeling, but the sky is clear and bright. Za’ji is leaving Caska at the helm while he takes a much needed nap. Caska will wake Za’ji when we get close. Until then, this one has an interesting dream to get back to.
+More birds—of course! What a splendid idea!
 
-[출처](https://www.imperial-library.info/content/captain-zajis-log)
+[출처](https://www.imperial-library.info/content/triigis-journal)
 
 ---
 
-## Captain’s Letter
+## Tu’whacca’s Mine
 
-ID: ext-0edb615b95214b21e378
+ID: ext-01f5b7fd46af14bb912a
 
-Your Royal Majesty,  
-  
-My trained squad of elite assassins is ready to perform whatever services you require. However, since my assassins are few in number, it would be prudent to provide us with support in the form of auxiliary troops.  
-  
-If I may be so bold, I suggest granting me the authority to commandeer soldiers from the Cygnus Irregulars. I need to stop at Sandswirl Manor, anyway, to collect Prefect Calo’s report on the last Dragonguard.  
-  
-Besides, any chance to stick a knife in that haughty Imperial always appeals to me. He considers my mercenaries to be inferior to his troops, and I hate him for that.  
-  
-Captain Saulinia,
+Tu’whacca’s Throne holds many treasures, but we’ve found that which is most precious far beneath. We recently discovered an old cave which contains an abundance of precious gems and metals. We claim this cave as our own. Go with Domarina and set up mining operations immediately.
 
-[출처](https://www.imperial-library.info/content/captains-letter)
+[출처](https://www.imperial-library.info/content/tuwhaccas-mine)
 
 ---
 
-## Captain’s Log of the Intrepid Guar
+## Uchuiran’s Journal
 
-ID: ext-3910dd730c322c97023d
+ID: ext-9e86839bc4cd868045d6
 
-Here written is the log of Captain Turseth Garil aboard the Indoril merchant vessel, the Intrepid Guar.  
+28th Rain’s Hand  
+How can it be wrong when it feels so right? The others all look at me funny, as if I am some depraved lunatic, but they can see Triigi’s power, and they follow her just as I do. Perhaps they are simply jealous!  
   
-19th day of Rain’s Hand, 2E 572  
+I confess. At first, my feelings seemed wrong. When I looked at her, rather than revulsion, I felt something awakening deep within me, a desire to serve her, to be close to her.  
   
-Pleasant gales and smooth waters as we leave Necrom. Our destination is Lilmoth in Murkmire, with a healthy cargo of weapons and armor for our new Argonian allies. We hope to make port by Second Seed.  
+Then one day, Triigi brushed past me, and I was overcome … the smell of herbs and death … the feel of her feathers …. The next thing I knew … well, let’s just say that I didn’t even know such things were physically possible.  
   
-20th Day of Rain’s Hand, 2E 572  
+The following morning, I was appalled. I thought there must be something wrong with me, that I had been somehow ensorcelled. But then she came to me again, and again, and those concerns now seem foolish. If this is the price of being ensorcelled, I pay it gladly.  
   
-Our fair weather continues to hold steady. The crew caught sight of a few Argonian fishing boats off the coast of Deshaan. Friendly smiles abound. Well, I believe they were smiling.  
+She is my songbird. I am her willing servant.  
+——————  
   
-21st Day of Rain’s Hand, 2E 572  
+15th Sun’s Height  
+My sweet songbird. Oh! She has such vision!  
   
-Strange fog coming off of Black Marsh. Tinged green with an odious stench. We’ve decided to steer the ship further out to sea in hopes of finding the fog’s edge.  
+At first, it was just one of the merchants whose caravan we attacked. We slaughtered them all, but there was one. He was a small one. Triigi wanted to spare him and bring him back to our cave. I tried to imagine what wildness she might have planned, but I could not have foreseen such brilliance.  
   
-22nd Day of Rain’s Hand, 2E 572  
+She turned the little merchant into a little canary, and she put him here in our cave and forced him to sing to us. Over time, we both came to enjoy his sweet little song. Then she captured a little Bosmer girl and turned her into a Green Jay. The two birds’ songs mingled in the air. It was magic.  
   
-The fog persists and we have yet to find its edge. For fear of being swept out to deeper waters, I’ve instructed the crew to return to our southwestern heading in hopes of spotting the coastline.  
-  
-23rd Day of Rain’s Hand, 2E 572  
-  
-The fog persists. I’ve instructed the crew to release two tenders, tied to the ship, but given enough slack to venture twelve yards to the east and west. My hope is that we can avoid damaging our hull should we suddenly come upon a reef or rocky coastline. The crew will take four-hour shifts aboard the tenders.  
-  
-24th Day of Rain’s Hand  
-  
-The fog persists and I’ve lost all sense of where we are and, without a clear view of the stars, I can’t get a proper heading.  
-  
-25th Day of Rain’s Hand  
-  
-We lost a crew member. He was aboard the western tender. A young boy, Uvren Faram. I knew his father. Some of the crew say they heard him screaming. No one wants to continue shifts aboard the tenders, but without scouts we run the risk of marooning ourselves on a reef or sandbar. I will volunteer myself for tender duty. I hope this will inspire confidence in the rest of the crew.  
-  
-26th Day of Rain’s Hand  
-  
-During my shift aboard the western tender, I thought I caught a glimpse of the stars through the fog. It was just a moment, brief enough that I can’t rule out a hallucination. What I saw! I did not recognize those stars.  
-  
-27th Day of Rain’s Hand  
-  
-The ship has been caught in some sort of current. The force of it was monstrous, as if the ship was suddenly yanked across the sea. Thankfully we were able to bring the tender scouts back in before the current tore the tenders loose. We have no clear understanding of where this current is taking us. I pray its out into clear waters and not the razor edge of a cliffside. Regardless, we’re securing the crew in the galley and bracing the ship for impact should the worst come to pass.  
-  
-28th Day  
-  
-The current is pulling us in circles. It was gradual at first, but as the hours pass it becomes clearer and clearer that we’ve been caught in some sort of tidal whirlpool. But, if that’s the case, it isn’t like any I’ve seen before. The scale of this must be, has to be, massive. Impossibly massive.  
-  
-Update  
-  
-The boat is creaking. The whirlpool is straining every strut and rivet and a storm seems to have found our little ship. We’re all scared. I just want the spinning to stop. Please, make it stop.  
-  
-1st Day Marooned  
-  
-I’ll do my best to recount events. As we took shelter in the galley, there was a great cracking sound, like thunder. My second believes it was the mast snapping in two. After that it was a cacophony of sea spray, fracturing wood, and screaming. I must have blacked out. We awoke on a shore surrounded by debris from the ship. Of the twenty crew members I commanded, seven have been found. I assume the worst for the others, but we have yet to find their bodies.  
-  
-We’ve yet to determine where we are. The vegetation is thick and dense, a jungle unlike any I’ve seen. I’m wary of leaving the shore, but if we don’t find more supplies soon, we’ll have to venture into the jungle for food.  
-  
-5th Day Marooned  
-  
-The insects here are massive. Dartwings the size of adult scribs. And the beasts? Impossibly large, scaled monstrosities. Lizards the size of hillsides. So far, they don’t seem bothered by our presence, and I’d like to keep it that way.  
-  
-7th Day Marooned  
-  
-We’ve nearly exhausted our supplies and there’s still no sign of edible vegetation. There’s talk of hunting some of the smaller lizard beasts, but I worry about angering the herd.  
-  
-12th Day Marooned  
-  
-We found Venasa Oril screaming beneath the shade of a strange tree. It seems she tried to drink its sap. There’s talk of—but no. We’ll bury her. Near the shoreline.  
-  
-* * *  
-  
-Does it even matter?  
-  
-We’ve walked along the shore for weeks in hopes of finding some sort of settlement or more debris from our wreck. The large insects have made for a decent supply of food, but I can feel myself withering away with every passing day.  
-  
-* * *  
-  
-They’re all gone. And I’m struggling to remember their names. I have to keep going. For them.  
-  
-* * *  
-  
-There is no horizon. Only stone. Star of Azura, am I underground? Have we been underground this whole time?
+Since then, we have added countless new birds to the chorus … even some of our own men! Who knew their songs could be so sweet? Now we have a chorus of new friends, singing sweetly night and day. I know I need look no further for paradise ….
 
-[출처](https://www.imperial-library.info/content/captains-log-of-the-intrepid-guar)
+[출처](https://www.imperial-library.info/content/uchuirans-journal)
 
 ---
 
-## Captain’s Orders
+## Uggamog’s Letter
 
-ID: ext-e8594c4371cd55c6354d
+ID: ext-ccc23d1701b13eb75dd8
 
-Dearest Janeve,  
+My dearest son,  
   
-I was planning on making this an official missive, orders from the leader of House Tamrith to its most illustrious and brave field captain. But I’m still new to this role as head of the house and you’re still my sister, so let’s keep this exchange light and informal.  
+I can’t tell you how much I’ve wanted to see you again over these long years. I can only imagine that you’ve grown to be healthy and strong, I presume Yazoga told you why I had to send you away when you were still just a suckling babe. This place is not fit for a child, nor does my work allow me the luxury of being a father. Yazoga has also told you by now that I am the one-and-only Uggamog—the most feared sorcerer in the Wrothgarian mountains. She was instructed to tell you this.  
   
-Your primary goal remains locating the rogue Argonian, Reezal-Jul. If a viable opportunity to eliminate this menace presents itself, you have my permission to engage. But don’t take any unnecessary risks with either your own safety or the safety of your troops. The valiant men and women under your command should not be squandered needlessly.  
+But she only knows half the story. The truth is that I am not the one-and-only Uggamog. I am only the most recent Orc to inherit the title. My given name was Khrogur, and I was born to a cobbler in Wayrest. It was my great-uncle who bequeathed me the title of Uggamog, just as I now bequeath it to you.  
   
-And, as always, please help the people of Rivenspire if you come across any of them in jeopardy or dire straits. The unrest stirred up by Montclair throughout Rivenspire affects everyone. Farms have been damaged, cemeteries and places of worship desecrated, families scattered, and people injured or killed. Help those who need it as you find them, organize them, and set up temporary camps as required. Have one of your lieutenants keep records of names, towns, and incidents of disaster so that we may offer aid as each situation warrants.  
+I grow old, and I know my time is short. When you become Uggamog, these Ayleid ruins will respond to you and the creatures here will serve you. Those things alone will give you a life of power greater than you could have ever imagined, but it’s the name that’s the greatest treasure. When people hear the name “Uggamog”, they quiver with terror. No one will ever cause you any trouble again.  
   
-And please remember to send me a report every few days. I know you hate writing down your thoughts, but you are my eyes and ears out there. Besides, if I don’t hear from you on a regular basis, I will worry so. Please don’t put your new countess in that position.  
+All that’s required to inherit your birthright is to mix your blood with mine. I have soaked this very letter with my blood, so you must simply add a drop of your own, and the transformation will take place. I hope you enjoy your inheritance as much as I’ve enjoyed mine.  
   
-Your loving sister,  
+Your father,  
   
-Eselde  
-  
-(Countess Eselde, Leader of House Tamrith)
+Uggamog
 
-[출처](https://www.imperial-library.info/content/captains-orders)
+[출처](https://www.imperial-library.info/content/uggamogs-letter)
 
 ---
 
-## Captive’s Crumpled Note
+## Ulfsild’s Logs
 
-ID: ext-9dcf1c53738812a03dfb
+ID: ext-fbbef3c20b87e57ba5da
 
-Has anyone seen my husband? His name is Ebrand. Short and slight, with kind eyes. They split us apart. I’ve seen no sign of him since. Let him know I’m okay.
+Ulfsild’s Log: The Dragon  
+  
+I’ve never had a mind for riddles. But there’s something about them, isn’t there? Something that pricks the ears, even to those like me. An irresistible allure to find that hidden meaning.  
+  
+That’s what I grappled with after hearing the fable of Mizbi. It was told to me by a moon-singer among a band of nomads we met when traveling through the jungles of Malabal Tor. Just listening, I knew there was a layer deeper than the riddles in the story. I could almost see it! If only I had it committed to page somehow. I’d pore over the words until the solution took shape before me.  
+  
+When we stopped that night, it was hot and humid, even for those unaccustomed to the climate. A Nord like me would have lost sleep even had I not been thinking of Mizbi and her Dragon. Their riddles. I left Shal’s snores to our tent and wandered, hoping to find the nomad who told the story. Perhaps I could catch her early, and she’d tell it to me again.  
+  
+But the only one I found awake in those small hours was gazing up at the stars—a springy little Cathay Khajiit, so young his stripes had only just started to come in. I settled across from him at the fire-pit, which must have died hours ago. “Shouldn’t you be asleep, young one?”  
+  
+He kept his eyes lofty and told me he liked to watch the stars move across the sky. I asked him if he had a favorite star or sign, and he grew shy, hiding his face. “I wonder if she sees me!”  
+  
+“Who?” I looked up, as if I might catch whoever he was talking about staring down at us.  
+  
+“She’s not there now,” he said. “Under the thunder of galloping hooves, she raises her gaze twice nightly to wink at me.”  
+  
+A riddle? How fitting. And a child’s riddle, so I actually stood a chance of solving it. Galloping hooves—the Steed. Twice nightly? “The Twilight Star? Azura?”  
+  
+“Azurah,” he repeated. He put a hand on his chest and sighed a dreamy sigh. Only then did he really seem to notice me. He sat up. “You’re that witch!” he said with reverence. The other nomads must have spoken of our passing through. “Can we trade?” He skittered over and pressed something heavy into my palm. It was a lustrous piece of well-polished moonstone the size of a winter plum.  
+  
+“Trade for what?”  
+  
+“That feather!” he said, pointing at my hat.  
+  
+Oh. That feather. I was quite reluctant to part with it, and said as much, to his dismay.  
+  
+He closed my hand over the moonstone again. “But the trade,” he said, like we’d already agreed to it.  
+  
+“The feather is very dear to me. I’ve had it since I was as small as you!”  
+  
+And perhaps it was the curious look in those big, blue eyes, but I found myself telling him the fable of the Indrik. Which bled into my story of finding the Indrik, both when I was a child, and then when I was grown. And when I tried to press the moonstone back into his hand, he refused to take it.  
+  
+“A fair trade for your stories,” he said, like I’d won some sort of game we’d been playing.  
+  
+I looked down at the moonstone. “I can trade this for a story?”  
+  
+“A story. A song. A feather. Anything within reason,” he said. Maybe it was a child’s understanding of trading and commerce, but if he found it fair, then so did I.  
+  
+“Do you know the tale of Mizbi and her Dragon?”  
+  
+“That old story? Who doesn’t?”  
+  
+I didn’t. Not by heart, like he and the other nomads must. Not yet, anyway. I caught his wrist and pressed the moonstone into his fuzzy little palm. “Then tell it to me,” I said, reaching for a quill, ink, and parchment. “And tell it slow. It’s my turn to find that Dragon.”  
+  
+Ulfsild’s Log: The Gryphon and the Fox  
+  
+Strange how a memory can be linked so intrinsically to a smell. How a stray scent of jazbay can take me back to when I was little.  
+  
+When the winter months approached, and the air began to chill, my clan-mother would bake tarts from stunted wheat and berries deemed too bruised or over-ripe. A sweet treat, if chewy and dry, but the young ones, myself included, savored every bite. The tarts were a good sign. That we had plenty stored for winter and needn’t be precious with scraps.  
+  
+One winter, I was tasked with taking a basket of these treats to an elder. It was a hike uphill, and the air was sharp against my cheeks. The basket sat heavy in my arms as my breath billowed out in front of me. I must’ve stopped for a rest, with smoke from the elder’s hut one last stretch away, when I heard a soft, weak little bark.  
+  
+Across the road, peaking from beneath a shrub, was a little fox. It seemed so small to me. I thought it was a baby, lost out in the cold, hungry. I reached into the basket and offered it a tart, breaking it into pieces and tossing them its way.  
+  
+It flinched, nearly ran, but I saw its little nose twitch, no doubt catching the tart’s scent. It nervously ate the first and seemed, to my child eyes, that it savored it. It devoured the rest of the pieces in a flash. It was then that I noticed the scars. Thin lines around its ankles, small cuts along its coat. How many traps had it wriggled itself out of? How many of those traps had I laid myself?  
+  
+It was then, while my mind wandered, that the fox leapt for my basket, deftly grabbing its handle tight with its teeth and bolting into the woods.  
+  
+I was stunned, convinced that I’d been tricked. This was no weak, sad creature, but a mischievous thief. I chased after it as quick as I could. Dodging branches and bushes and thick drifts of snow until I tumbled down a riverbank and landed facing a hollowed-out tree trunk.  
+  
+Inside was my thief among a litter of pups and its thin mother who bared her teeth at me.  
+  
+I raised my palms to her and slowly lifted myself from the ground, careful to inch myself away from the trunk, from her babies. She relaxed, and so did I. I watched as she tended to her little ones, breaking the tarts down with her paws so they could eat small bites.  
+  
+I don’t know how long I watched, but I remember how her ears perked when my clan-mother came barreling through the underbrush, red and scared. She thought I’d been taken by some beast, having never reached the elder’s hut. She was angry when I shushed her. “You’re going to scare the babies,” I said, to which she bared her teeth and barked scolding remarks.  
+  
+How strange it was to realize I had a fox mother of my own.  
+  
+It’s this memory that comes to me as I find myself on my hands and knees, following the scent of jazbay through the stacks of the Scholarium, praying that Shal doesn’t walk in and see me. It was as I rounded a particularly dusty stack of books on Quadriva Arithmetia, that I saw the strangest thing. A fox, front paws perched up onto my desk, its nose nudging a small piece of faerite I used as a paperweight.  
+  
+All at once I was a child again, slowly lifting myself up from the ground, hands in the air as to not startle it. It looked at me, cocked its head to the side, and smiled. Suddenly it took the faerite into its mouth and darted through the stacks.  
+  
+I wonder if it still would’ve ran had it known I was practiced at fox chasing. Had it known I could glide across the stone floors as if it were ice. That I knew every twisting corner and uneven cobblestone. Perhaps it was the smell of jazbay that gave the whole ordeal a sense of childlike bliss.  
+  
+I nearly had the fox, my fingers just barely grazing the tip of its tale, when it leapt at and through a wall. It was so sudden, so jarring, that I didn’t have time to course correct. I braced myself, expecting fully that I would crash into the wall, when, miraculously, I went through it instead.  
+  
+I tumbled into a snow drift and sank deep enough that I had lost all sense of up and down. I squirmed, trying to right myself, when I felt something grip my leg and tug me loose. Free from the snow, I became aware of powerful wing beats and a flurry of ice and feathers. A gryphon.  
+  
+It dropped me, rather unceremoniously, and stretched out its wings until they obscured the entirety of the sky. It was pounding its claws into the ground, readying to charge, when the fox appeared between its legs, nuzzling the gryphon for attention.  
+  
+The little thief offered the gryphon my faerite, to which the gryphon relaxed and looked at me apologetically.  
+  
+I understood then what they were. A mischievous fox and their protective parent. I sat and watched as the fox kicked my faerite around and, I don’t know when it happened, but I awoke wrapped in the gryphon’s wings. Warm and safe.  
+  
+Ulfsild’s Log: The Indrik  
+  
+The first time I saw an indrik was not the first time I’d seen an indrik, but I didn’t know it at the time. The chance encounter from my childhood had faded like ink in water until a single moment with Shalidor, pointing out a mother and fawn atop a cliff at sunrise in Auridon. I had, in fact, seen this sort of creature before, and the memory came back with such clarity as if it was scrawled anew from a fresh well of ink.  
+  
+When I was small, my clan-parents would send me to toddle off and collect scraps of mammoth wool where it had fallen or caught on brambles. They used it to spin a rough sort of yarn, the smell of which I’ll never miss and never forget. I didn’t mind the work, but I liked the excuse to wander on my own, far from wherever we took up residence and called home.  
+  
+One day in late spring, I found a herd of mammoths gathered by the river, which ran cold from snowmelt in the valley. They drank deep of its waters, shedding tufts of their undercoat in the warm sunshine. This was my chance to bring home a bounty of wool for spinning, I thought. I crept through the tall grass until I was in arm’s reach of a mammoth’s hindquarters, then pulled fistfuls of wool from their tree-like legs, squirreling it away in my satchel like a nesting bird. It was all going perfectly, until a calf spotted me and gave a trumpeting squeak of surprise. I tried to run as the herd began to thunder, working to trample the little interloper among their herd. But I was powerless to escape.  
+  
+The ground shook beneath my feet and I fell forward. Instead of hitting the dirt, my face went deep into pelt or plumage, I couldn’t tell which. Thinking at first it was a trunk, I squeezed my eyes shut and held fast, hoping to be lifted or flung to safety. But as we bumped along, I realized I was on the back of something that galloped. We were on one side of the river, and in a blink and a flash of magic, we were on the other. As the creature—my savior—slowed to a canter, I shakily made to slip off its back.  
+  
+I only caught a glimpse of its four-legged figure as it gave a strange bark and disappeared. An antlered thing like an elk, but feathered like a bird. I ran back to my clan and told them the tale, but they just laughed at me. Silly little Ulfsild fell asleep in the woods again and had such a fanciful dream, they said. As I’d lost most of the wool from my satchel, they didn’t even look twice at the fledgling feather I held curled in my hand.  
+  
+But I kept it thereafter. It was made of the same currents I saw in the world, wefts of magic ever-flowing as a river, ever-changing as the clouds. I would come to wear the feather in my cap, but I would forget all about the strange antlered thing until that moment with Shalidor.  
+  
+I insisted we return to Sunhold, to the old scroll shop where I’d found a faded children’s fable about an indrik and a hunter. Like the twists of magic I could see in the world, somehow I knew there was more to it than others could discern. Directions left in plain sight. I wandered on my own again as I did when I was a girl. I puzzled out the locations and found the wards. It couldn’t be a coincidence, these fingerprints left in the world for me to follow.  
+  
+I knew I was an impressive mage in my own right. Word of my deeds had spread and caught the attention of Shalidor, of all people. It was one thing to walk proud in my own domain, but at the side of someone almost a millennium my senior, I felt eager to prove my worth. Not to Shalidor—he never made me feel like anything less than his equal. I would never give him such power over me. But I wanted to prove it to myself.  
+  
+When I broke the wards and trespassed into the indrik’s domain, I was no longer the scared little girl about to be flattened by a herd of mammoths. But the indrik recognized me all the same.  
+  
+Now, Shalidor and I had made a pact never to bargain with otherworldly beings. I confess to these pages that I broke that pact when I met the Indrik. I took my cues from the fable, you see. When he asked to see a display of my power, I showed him the feather I had kept from our meeting all those years before. I offered that if he could retrieve it from me, I would give it back to him and leave his domain in peace. But if I could manage to keep it from him, he had to share his power and knowledge with me.  
+  
+But you know how this tale ends. If you’re reading this, you stand in the Scholarium. As I write this, the indrik’s feather still stands proud in my hat. I proved my worth to myself and to the indrik without even needing to remove my cap.  
+  
+Ulfsild’s Log: Your Discovery, My Farewell  
+  
+I found the Luminaries, though I was not the first to do so. If you’re reading this, then I take comfort in the fact that I will not be the last.  
+  
+May you find them as I found them, taking each step on that journey in your own measure. The shift in perspective needed to find them and earn their favor is as much a gift to you as the favor itself.  
+  
+Create magic the likes of which the world has never seen before. Style your expressions of magic in exaltation or defiance of them.  
+  
+I am fond of each of them in their own way. But then, I suppose my heart has always bent for immortal things, despite never wanting to be immortal myself. I learn from them as they learn from me, and I learn from myself.  
+  
+I still don’t know what the Luminaries are. I know what I think they might be, and if you haven’t found my notes on that yet, I’m sure you will in due time.  
+  
+I wish I could hear your theories, whoever you are. I wish Shalidor had shared in my fascination the Luminaries. I wish a lot of things.  
+  
+This is not a wish. I put these words to page with faith that someday, someone will read them. Someone will find what I’ve lost. And they have. You’re reading this now, so it’s happened! Isn’t it lovely that despite the impermanence of people and parchment, these stories found some way to persist? All I did to leave behind a piece of myself—it wasn’t for nothing.  
+  
+This is what I have to tell myself, anyway, as I make my final preparations. Say my final farewells. Everything is in place, and it still feels like not enough. I’ve
 
-[출처](https://www.imperial-library.info/content/captives-crumpled-note)
-
----
-
-## Captive’s Discreet Warning
-
-ID: ext-1c2639096d964ac71c5e
-
-That fool Filand ran for it. Keep your eyes down. They’ll be wanting to make an example now!
-
-[출처](https://www.imperial-library.info/content/captives-discreet-warning)
-
----
-
-## Capturing Ammabani’s Pride
-
-ID: ext-f417ebf4759bc7377133
-
-I have come to capture the beautiful sabre cats of Ammabani’s pride—not with nets and cages, but with brush and paint and canvas.  
-  
-My art demands I take risks—  
-  
-Ammabani has noticed me. She’s coming this way.  
-  
-Stupid art!
-
-[출처](https://www.imperial-library.info/content/capturing-ammabanis-pride)
-
----
-
-## Cardia’s Letter to Father
-
-ID: ext-d79f436652705a6da7c4
-
-Dearest Father,  
-  
-I hope you can understand—Darius is just so handsome and kind! He’s not like the other Sphinxmoth Bandits. He just wants to save up enough to buy a farm for the two of us. Please understand why I had to go with him.  
-  
-And please, I beg you, father—don’t try to follow us. These are dangerous people and I don’t want you to get hurt.  
-  
-Your Loving Daughter,  
-  
-Cardia  
-  
-P.S. I’m sorry about taking mother’s ring, but Darius didn’t have enough money to buy an engagement ring.
-
-[출처](https://www.imperial-library.info/content/cardias-letter-father)
-
----
-
-## Cartorrel’s Last Words
-
-ID: ext-f8642a28547c12bbc12f
-
-Darling,  
-  
-I won’t be coming home this time. As gentle as the seas can be here, we always knew that any voyage could be my last. It won’t be the fickle currents that claim me in the end, but the poison coursing through my veins. I love you and I’m sorry.  
-  
-The Sea Elves have invaded Wasten Coraldale. A small force now, but I can tell that they’re preparing for more of their kind. It won’t be long before this island becomes a staging ground in a greater campaign.  
-  
-I’ll never see the mainland again, but if the tides smile upon me, this message will reach it soon.  
-  
-To whoever finds this. Tell the Royal Navy that the Sea Elves are here. Stop them before more lives are lost. And if you would be so kind, bring this to Wendlain in Alinor.  
-  
-With love and hope,  
-  
-Cartorrel
-
-[출처](https://www.imperial-library.info/content/cartorrels-last-words)
-
----
-
-## Catalyst Notes
-
-ID: ext-6d9366704d42aaf66e29
-
-I despair of ever finding a solution to the catalyst problem. Even Zur’s usual unfounded optimism cannot seem to lift my spirits. I have gone over all possible candidates for a catalyst to ignite the process to forge the antipodal rods. The only substance that we might have access to is the corrupted blood of a feral creature.  
-  
-We examined a dead creature and Zur tried to transform its blood, but his alchemical process was flawed. Our Daedric captors, however, apparently had more success in this area. Samples of corrupted blood are stored in the experiment chamber, where they are guarded by a monster the Daedra created using that very same blood.  
-  
-Now you comprehend my despair. If I had enough strength to access my full power, I could easily subdue this monster and we could take as many vials of corrupted blood as we could carry. As it is, we barely have the energy to cast simple illusions, and even these fail more often than not. There is no way we could survive an encounter with the chamber’s guardian.  
-  
-Zur firmly holds to the hope that someone will find us. But I suspect that our Mages Guild companions are busy dealing with their own problems. I fear this mission has already ended in failure and that we are doomed to succumb to this soul-meld. But I shall not dash Zur’s hope. As disorganized as he can be, I find some small comfort in his blind faith.
-
-[출처](https://www.imperial-library.info/content/catalyst-notes)
-
----
-
-## Caterwaul Logbook
-
-ID: ext-98c12fa08fd52c6348bf
-
-When this Crown of Bones business is behind me, when I have made amends for the failure of my master, I will use the blood of mortals among my crew to pen the final entry. Then, I will take to the seas of Nirn once more. May blood on the water hail my arrival.  
-  
-In between my eviscerations, forming again from the creatia and being smote by his might once more, my master told me the tale of the defiant Captain One-Eye. I hardly listened. I learned she is a gutless, gormless lizard of no renown in this plane or any other. Her ship is the Bonnie Spriggan, an artless chimera cobbled from the bones of the wretched Lost Fleet.  
-  
-* * *  
-  
-When this Crown of Bones business is behind me, when I have made amends for the failure of my master, I will use the blood of Captain One-Eye’s crew to pen the final entry. Then, I will take to the seas of Nirn once more. May blood on the water hail my arrival.  
-  
-This hunt should be easy.  
-  
-* * *  
-  
-My master says: “Sometimes the prey turns and nips us. It is a small thing.”  
-  
-I see now why he bestowed this mission upon me. Captain One-Eye is more than nipping prey. She is prey backed into a corner, thrashing claws, baring teeth, defending her crew as a Perthan protects her spiderlings. She takes to the Blood of Coldharbour like she hatched in a pool at its luminous edge. She’s as cold and slippery and quick as an azure eel, and it is I, master of the sea that I am, who is uniquely suited to her elimination.  
-  
-* * *  
-  
-The chase has been nothing short of invigorating. Captain One-Eye collects mortals lost in Coldharbour like gathering shells from a beach, promising to see them out of this plane. No doubt in exchange for their loyalty and service.  
-  
-The skeletons, those on her crew enlisted from the Lost Fleet, are proving the greatest challenge. Being undead, they are easily reassembled after taking damage from arrows or being blasted apart by magic. But those lost overboard are incomplete or lost forever. Captain One-Eye cannot go back for them. Their souls are free to depart, and it feels like a lash from my master every time they do. But it is another spirit broken, another expendable whittled away between me and my true quarry.  
-  
-* * *  
-  
-We came within spitting distance of the Bonnie Spriggan. Kept our Teeth quiet and made to catch them unawares. It all seemed perfect until some feckless mortal rang the ship’s bell. Its enchantment had a strange effect on my quartermaster. In the chaos, one of their crew managed to grapple aboard the Caterwaul, rifle around my quarters, and leave having taken one of my most prized possessions. I will make that oaf swallow his own tusks for doing this to me.  
-  
-In the end, they fended us off from dislodging the hooks we’d set in their hull until they managed to run the Caterwaul aground. The captain then severed the ties and gained a significant lead while we made repairs.  
-  
-It is, as my master would say, a small thing. We hunt again.  
-  
-* * *  
-  
-This may be a game of persistence. Captain One-Eye is dwindling low on crew and supplies. Breaking her morale should be simple. Were it anyone else, it would be done already.  
-  
-On my Caterwaul, one of the vampires, hunger in his eyes, asked if we might change course. Chase something new. “Something new?” said I. Aye, said he. So I agreed to show him something new. I had him strung up like I meant to keelhaul him but kept him stretched flat under the belly of the ship. Then, I sailed through the shallows to scrape him along the sea floor. His blood swirled around us as we sailed on. Eventually, the ropes came loose, and I threw what was left of him back to the churning plasm. We learned that vampires make for poor chum, enticing not even the eels.  
-  
-No one’s asked for anything new since. Just as well. I’m quite taken with this new punitive measure. We will not break before Captain One-Eye does. Not on our own seas. Not when she is within my reach. I wonder if her soul will try to slither away just the same as she did in life? I will sustain myself on the thought until I can gorge on the woeful souls of her crew and finally reclaim the Crown of Bones.  
-  
-* * *  
-  
-Finally, good news. A whirlpool opened on the azure sea, no doubt from the Worm Cult’s efforts on behalf of my master. Captain One-Eye steered straight into it, cackling like some mad swamp witch. We followed.  
-  
-It led to Nirn, which is just what she hoped for. I confess it is also what I hoped for.  
-  
-Sailing the seas of Nirn has always been my greatest desire, superseding that of carrying out my master’s will. So long as I am here, he cannot touch me. As for Captain One-Eye, what can she do with the Crown of Bones here? Let that useless trinket sink to the bottom of the sea for all I care.  
-  
-If pressed, I will say I have not abandoned my master’s will. I merely mean to aid in subjugating this plane to his own ends. I am best suited to do this from the deck of my ship. Any ship. As soon as we’re done with repairs on the Caterwaul, we’ll take to the sea.  
-  
-Plunder and conquest await. None will stop me this time.
-
-[출처](https://www.imperial-library.info/content/caterwaul-logbook)
+[출처](https://www.imperial-library.info/content/ulfsilds-logs)
 
 ---
 
-## Caught Him!
+## Ulfsild’s Notes
 
-ID: ext-00bb97e66d9bc3163add
+ID: ext-11afc0ef0f308d898cca
 
-We caught some Forebear bastard sneaking around today. He’s probably the one that’s been causing my overseers to vanish. He managed to kill one of my men and injure two others, but he’s ours now.  
+Ulfsild’s Notes: The Impossible Riddle  
   
-He’ll wish for death by the time I’m done with him. He’s yet to say why he’s here, but he’ll talk soon enough.
+If a riddle has multiple possible answers, then it has a greater chance of being solved. And when you’re up against a master of riddles, the fewer possible answers you can give her, the better your chances are of stumping her.  
+  
+What is the thing that in order to have, you must give it up? There is one answer: the answer to an impossible riddle. An elegant solution from Mizbi, but it only works once.  
+  
+I couldn’t give the Dragon an riddle with no answer. Or one that I don’t know the answer to. But what about a paradox?  
+  
+If I scribed a grimoire that could create every possible grimoire, would it also create itself? That was my riddle. I gave her time to answer. Whatever answer she gave, I was able to argue against it. Our conversation ran in circles and at last, happily sated, she conceded.  
+  
+My magic was forever altered. But I was already thinking ahead. I was thinking of you. When I said my farewell to the Scholarium, I told the Dragon about you. This was for your benefit, I promise. I told her three things:  
+  
+I said that you would have a mind worthy of her riddles.  
+  
+I said you would bring her what she asked for—a new impossible riddle.  
+  
+And I said, very carefully, that you would never claim to be my inheritor.  
+  
+Hopefully you see where this is headed. I have faith that you do. And if you don’t, never be afraid to ask for help.  
+  
+I’ve learned that we need not all struggle alone in pursuit of something as simple and joyous as a good riddle.  
+  
+Ulfsild’s Notes: The Origin of Luminaries  
+  
+An ode to the joy of a good mystery! I asked each of the Luminaries in turn about the origins of their kind, and they all returned vastly different answers. I plan to use this to craft my impossible riddle for the Dragon.  
+  
+Owing to the nature of the Gryphon’s birth, his answer changes each day. One day it’s all magical might, the next its amount of magic expended. But his unwavering belief that he’s finally got it right is always the same.  
+  
+The Indrik thinks he was manifested from pure thought. An invention of a mind that craved to make sense of the world through stories. The Netch refuses to give me one answer, rotating through as many tales as it has tendrils.  
+  
+The Dragon seems almost angry that I care about this as much as I do. She is perfectly content to focus on “the universe within”, as she puts it. Rather than contemplating the past.  
+  
+Here are, in no particular order, my own theories.  
+  
+1. Luminaries are fallen tears of Aetherius. We have observed Aetherial energy in many different forms, mostly crystalline. Why not as spirits with physical manifestations?  
+  
+2. Luminaries are experimental beings made by the Aedra and placed deliberately in our plane to guide and protect us. They are to Aetherius what Daedra are to Oblivion, just much rarer.  
+  
+3. They’re a natural part of the “magic cycle.” If we imagine magic is like water, the Luminaries are like aqueducts, carrying it to our plane and casting it around them like a glowing lamp.  
+  
+4. The Gryphon believes it was created as an after-effect of a powerful mage’s spell. Perhaps there is something to these Luminaries being made or shaped by someone in our plane. Or are they pure manifestations of thought, like the Indrik says? Feats of great magic? If someone made a Luminary, even accidentally, can it be done again?  
+  
+That none of the Luminaries truly know their origin made me wonder if knowing their origin was dangerous somehow. Would comprehending the nature of their existence alter something within them?  
+  
+I considered this a possible strength of my riddle, then. If the Dragon could not conceive of the answer, there was no way she could guess it.  
+  
+Satisfied with this line of thinking, I went to the Dragon with my riddle. “What is the origin of the Luminaries?” I compelled her to seek council from her fellow Luminaries if she needed help. I did this so she could see that her answer could not possibly be the absolute truth.  
+  
+This was a tremendous mistake on my part. Luminaries don’t feel the passage of time the way we do. The ensuing argument lasted nearly five moon cycles. I sought Shal’s advice, but he was busy in his own studies and I could tell he thought the whole ordeal was rather petty.  
+  
+In the end, I could not bear to see my friends argue like that. I rescinded my riddle and asked the Dragon for another chance. After so long crafting that first riddle, I have no idea what I’m going to do.  
+  
+I’m taking a break from Eyevea. I’ll head to Sunnamere, my quiet little sanctum near Sunhold, and think on where to go from here.
 
-[출처](https://www.imperial-library.info/content/caught-him)
+[출처](https://www.imperial-library.info/content/ulfsilds-notes)
 
 ---
 
-## Cavot Agnan’s Breakthrough
+## Ulrich’s Complete Journal
 
-ID: ext-8f5ece0f9cb3036ed24a
+ID: ext-63e05a6e2b9d37eadc02
 
-If this works, this is the official record that Cavot Agnan was the first spellcaster to successfully raise an undead army with the use of lucent crystals. But I am getting ahead of myself.  
+I never wanted to lead. They just started following me because I’d been in the Lion Guard. As if that made me some sort of hero.  
   
-While those other scavengers crawl around in the sand hoping to stumble across the arcane knot for Xoryn, I’m using my time slightly more productively. What all previous attempts to claim the arcane knot have failed with was a lack of numerical superiority. This is an entire citadel buried in the sands of Fargrave. No one is going to be able to effectively scour it for an object that few have seen and fewer can describe.  
+Finding Silaseli was pure luck. I tried to keep to myself, but they followed me fleeing the Reachmen. They want me to scare away every half-witted bandit who tries to setup camp, and settle every minor squabble they have.  
   
-I am going to use my magick and abilities to conjure an army of the dead so great that we could destroy and rebuild the entire citadel in a day. I will forge an army from the skeletons of all who failed here. The only issue being that I currently do not possess the strength to control that many reanimated minions. But I believe I have solved this issue in a clever and resourceful way. This is the Lucent Citadel. Lucents are used to store energies. Necromacy uses magick which is a type of energy. So, I can force the crystals which fill this fortress to act as conduits for my spells and use them as proxies for the army I am about to amass.  
+I am so tired.  
   
-It’s a good plan. I’m quite pleased with it. The only problem is that I’m not sure the lucents are as suited to house necrotic energies. I tried imbuing a few different crystals with my magick and they reacted in a strange way. They released the souls I intended to trap within them, or the energy rebounded and created pockets of ethereal energy in the room. A few lucents behaved appropriately, so I will continue my experiments and keep vigilant for any other unplanned expulsions of necrotic energy.
+A man in black robes has offered me a way out. He said I could take her with me. I only need go to the top terrace in the northeast chamber and complete some ritual. Something the Ayleid mages from long ago left unfinished.  
+  
+He called it a rip. I reopen it, his people come through, and take over Silaseli. He’ll reward us with immortality.  
+  
+She and I will never suffer need again.
 
-[출처](https://www.imperial-library.info/content/cavot-agnans-breakthrough)
-
----
-
-## Celan’s Journal
-
-ID: ext-664b7c557708790e767b
-
-To Oblivion with this place! When we left Grahtwood, Father said we would find fortune and blessings here in Summerset. Ha! All we’ve found is stuck-up long-legs, shoving us around and treating us like dogs.  
-  
-We work in the vineyard for practically nothing—a scant handful of gold each. It’s hardly enough to live on. We hunt, just as we did before, but these deer are skittish and lean. There’s a hex on the beasts here. They give us a mouthful of meat and bones too flimsy to make anything useful.  
-  
-The only thing that makes it bearable is Farril. By Yffre, she’s the most beautiful creature I’ve ever seen. She has wide eyes, like butter chestnuts, a swan’s neck, and ears sharp as wolf’s teeth. Let me put it down here in ink—I will marry that girl. If I can earn her fancy, all this will be worth it.  
-  
-* * *  
-  
-Damn that beast, Halimorion! Farril came to me in tears last night. She said that lecherous bastard grabbed her arse and damn-near tried to force his forked tongue down her throat! Mark me: I’ll have that mongrel’s head in my stew-pot by year’s end.  
-  
-* * *  
-  
-I can’t believe it. Z’en must have heard my prayers. While I was out hunting, I came upon the Ghost of the Green! The real Ghost of the Green, not that imposter the High Elves caught years ago. He gave me a set of leathers, a mask, a bow and quiver, then told me to kill as he would. I can scarcely believe it, but it’s true. I am the Ghost of the Green! And I will have my vengeance!  
-  
-* * *  
-  
-I thought it would be satisfying to kill Halimorion. I thought it would heal Farril’s wounds, and set things right. But now—gods, I have such doubts. I looked down at him, writhing there in the dirt, and felt such a weight on my chest. I could hardly breathe. I never should have done this. What would my mother think if she found out? I need to think—to ask for forgiveness. Perhaps I can find it in the Red Temple. I’m going there now.
-
-[출처](https://www.imperial-library.info/content/celans-journal)
+[출처](https://www.imperial-library.info/content/ulrichs-complete-journal)
 
 ---
 
-## Cerise’s Farewell Note
+## Unfinished Letter
 
-ID: ext-7abcef9b1205bf037e7e
+ID: ext-f4569f7dcfca79e35a75
 
-Lierre, love of my life, I pray you find this one day. It seems I will never return to Gideon. Priestess Rolaine mortally wounded me, and our carriage went off a cliff into the lake. It sunk out of sight, taking a chest and that treacherous priestess, tangled in the reins, along with it. It also left me with a broken leg. I’m afraid this is the end for me.  
+Shando-ri,  
   
-Rolaine struck me with some sort of spell. I can feel it gnawing away at me, but people must know the truth. So, my dearest, this is both a testimony and a farewell. I hope you will forgive me.  
+Word has reached our small shrine of danger from within our order. A ma’hadaliit from Corinthe arrived having fled her cloister to warn us. She says Arum-Khal has forsaken Azurah and sways the brothers and sisters of our order to follow Namiira.  
   
-I recently learned that Priestess Rolaine and half the constables in Gideon are part of a secretive cult called the Waking Flame. Rolaine has been murdering people and stealing their souls—perhaps for years now. She even keeps memories of the murders in an ensorcelled stone so she can relive her sick game whenever she pleases. She was deranged, Lierre, and many of the novitiates paid the price for her madness.  
+Can this be true? How could such a thing happen? We beg you for clarity. As we have no moonclaw-armed adepts here, I will send this letter by courier and hope it reaches you swiftly at Ashen Scar.  
   
-Last night, I learned Rolaine planned to trade the souls she captured to a group of necromancers called the Ideal Masters. I had hoped to find some other way to stop her, but I had to act quickly. The novitiates were our friends, and there simply wasn’t time to do this any other way. I’m sorry I didn’t tell you what I learned, but I was afraid they’d come after you.  
-  
-Now that Priestess Rolaine is dead, I want you to bring the memory stone and this sworn testimony to the constabulary in Leyawiin. We must expose the Waking Flame before they murder anyone else!  
-  
-I love you so much. We’ll see each other again one day, my love. Dibella bless you.  
-  
-Your loving wife,  
-  
-Cerise
+Until we hear back, we will pray the wards of our shrine hold against those that seek only to harm. If they do not, know that we will fight until our last to bring Azurah’s fallen children back from the dar–
 
-[출처](https://www.imperial-library.info/content/cerises-farewell-note)
+[출처](https://www.imperial-library.info/content/unfinished-letter-2)
 
 ---
 
-## Ceythalmor Captain’s Journal
+## Unfinished Letter [To Mother]
 
-ID: ext-161494c7175660cf0bd9
+ID: ext-5ae0bfe26dacf3b49872
 
-Entry 01  
-Our insider is pleased with preparations in Southpoint. We should consider this our primary base of operations for movements within Grahtwood.  
+Mother,  
   
-Entry 47  
-They have confirmed a meeting of Garland Ring members near the Bone Orchard. Agents will take positions around the meeting location. All members of the ambush will be given a sketch of the agent referred to as Hyacinth. He is not to be harmed. All other Garland Ring members that arrive are to be killed on sight.  
+I wish you could see what I have accomplished here. The city does not reject nature as you might expect. If anything, the relationship is more complex than we could ever have imagined. I know you think I turned my back on you, on everything you taught. I would do anything to help you understand that I have taken what I’ve learned and found my own place with it, as you always said I should.  
   
-Entry 48  
-The ambush was a partial success. Hyacinth has been secured, but the Garland Ring member known as Snapdragon was able to escape. We believe she was gravely wounded. We also suffered injuries of our own. While I am confident the Garland Ring agent will succumb to her wounds, I believe it best that we leave Southpoint for our base in Malabal Tor.  
-  
-Final Entry  
-The Southpoint hideout is officially closed. Agent Firinn’s wounds have not improved. I left a small squad here to ensure that all records are burned while I transport Hyacinth to Crimson Cove. Firinn will be food for the worms when they’re done.  
-  
-March forward toward perfection.
+Please, come speak with me. I am ready to continue the Accord. I am ready to—
 
-[출처](https://www.imperial-library.info/content/ceythalmor-captains-journal)
+[출처](https://www.imperial-library.info/content/unfinished-letter)
 
 ---
 
-## Ceythalmor Mission Orders
+## Unnamed Mining Journal
 
-ID: ext-a93136cf3963680ec3f6
+ID: ext-90b2e6ea02d476521835
 
-Our chance to capture the Garland Ring agent known as Hyacinth is upon us.  
+Unnamed Mining Journal, Page 37  
   
-Other Garland Ring members often accompany him, but our scouts confirms that he will be unprotected during the operation in Auridon.  
+…last reach Shadowgreen. Cave sun-blessed warm. Little ice on walls. Unusual. Assay upper passages. No finds. Go deeper tomorrow’s sun.  
   
-Move swiftly, but with caution. We have seen what his magic is capable of. Once captured, take him to Rulanyil’s Fall for interrogation. Look for the red banner to identify the proper side passage.  
+Supplies  
   
-March forward toward perfection!
+3 sacks saltrice, 1 mealy  
+5 dried swamp eels  
+2 bags sludge meal  
+15 candles  
+2 pots grease  
+Fek bag still good, meht basket nearly empty  
+  
+25 Sisei  
+  
+Found volcanic activity in lower passages. That explains warmth. Also means I may find good ore.  
+  
+Unnamed Mining Journal, Page 42  
+  
+28 Sisei  
+  
+Kaoc, spriggans killed Shusaja. I went back to surface and she is dead. My supplies are scattered. Still enough for few days. Still have ore samples. I miss Shusaja, but tonight I make guar stew.  
+  
+Today’s discovery: lake of magma. Cannot go deeper. Lake of fire bubbles and spits but I do not think it is dangerous. I will prospect one more day. If no good ore, time to move on. Need to make gold.  
+  
+Supplies  
+  
+Fresh guar haunch  
+2 dried swamp eel  
+9 candles  
+1 pots grease  
+Fek bag still good  
+  
+Unnamed Mining Journal, Page 45  
+  
+28 Sisei  
+  
+Today at bottom, summon a fire atronach to explore. An amazing thing. Fire lake bubbles and rises when summoning cast. The mountain even shakes to match atronach’s movement. I think they talk to each other. This place is not safe. Too much fire magic makes Shadowgreen angry or something.  
+  
+No worthwhile ore, but maybe Shadowgreen’s secret worth gold to someone. Maybe they pay enough I warn them about spriggans, too.  
+  
+Supplies  
+  
+Half a guar haunch  
+  
+2 dried swamp eel  
+  
+5 candles  
+  
+Fek bag empty
 
-[출처](https://www.imperial-library.info/content/ceythalmor-mission-orders)
+[출처](https://www.imperial-library.info/content/unnamed-mining-journal)
+
+---
+
+## Unsent Letter
+
+ID: ext-b32c569c8d8b49260083
+
+Dear _____ Family,  
+  
+The loss of a child is a hardship that no parent should ever endure. If you should need a sympathetic friend, please keep us in mind. This dreadful war has taken your future and given you only sorrow in return. This is not what was promised to us by the leaders of our Alliances. The deaths caused by this accursed conflict outweigh the security of rebuilding the empire. Senseless destruction is not good for any of the peoples of Tamriel. Not when it costs the lives of our children.  
+  
+It is too early for anyone in your position to do anything but grieve for your child. But should you feel the same as we do, we urge you to join us in Cyrodiil when you are ready.  
+  
+Cato Albus
+
+[출처](https://www.imperial-library.info/content/unsent-letter-2)
+
+---
+
+## Unsent Letter
+
+ID: ext-b74d9546136e75243028
+
+To the Honorable Commandant Aquila Peltrasius  
+  
+16 Sun’s Dawn, 2E 562  
+  
+Dear Sir,  
+  
+I regret to inform you that I must delay (or otherwise revise) the protective ritual we discussed last Tirdas. An essential contributing party—the Battle-Mage Honoria Garrana—deserted last night. Had she left unencumbered, I might have been able to find a mage of comparable skill to complete the ritual without her. Alas, she took the primary reagent with her, leaving us in dire straits indeed. I formally request that a tribunal be convened to discuss this treachery and devise an appropriate punishment for Garrana, should she be found.  
+  
+I place my hand upon the Diamond and swear to you that I will make every effort to perform the ritual, despite this hardship. I would be remiss if I did not reiterate my admonition from before; certain aspects of this spell teeter on the brink of necromantic practice. Magic that influences or otherwise alters the soul always carries risk. But, as we discussed, the threat of Knahaten infection, by my estimation, poses a far greater threat to the academy’s students and faculty. Conducting the ritual without Garrana’s reagent poses a higher risk of failure, but we must take action, lest the fate of Centurion Vitulasius spread to other occupants of the academy.  
+  
+May the Eight bless this endeavor and our beloved Empire.  
+  
+Your servant,  
+  
+Battle-Mage Jano Invel
+
+[출처](https://www.imperial-library.info/content/unsent-letter)
+
+---
+
+## Urgarlag’s Expeditionary Order
+
+ID: ext-ae507d850d8b61225847
+
+Hail Undaunted,  
+  
+You’ve earned the privilege of joining our next expedition for fortune and glory, our leads are pointing to the Jerall Mountains!  
+  
+Nords have been fleeing their villages in southern Skyrim. Raiders from the Colovian Highlands have been razing their homes and kidnapping their kin. Many have taken refuge in the town of Falkreath, but no word has come from the hold in recent days.  
+  
+Rumor has it that the invaders have a stronghold in the mountains where they’ve been taking their captives. Of course no one has actually seen it, but we know there are a lot of old Nedic ruins in the area. There could be something to the talk.  
+  
+Scout out the Jerall Mountains and Falkreath for any signs of these marauders. If there really is an army of bloodthirsty monsters wreaking havoc out there, we want to know about it!  
+  
+-Urgarlag Chief-bane
+
+[출처](https://www.imperial-library.info/content/urgarlags-expeditionary-order)
+
+---
+
+## Urgent Letter [Amber Plasm]
+
+ID: ext-39f6355a68e89d5612ef
+
+Sap. That is what these thin-shelled fools call it. As if such a substance could ever be compared to Nirn-tainted resin. No, it is much more than sap.  
+  
+“Amber Plasm.” That is what one of the scholars called it before I fed him to Mighty Chudan. He said that it was like the chaotic creatia of Oblivion—leaking into Mundus through our Hist like blood from a wound. These dry-tongues and their airs—as if anyone could know the secrets of the Hist better than I!  
+  
+The plasm has accumulated at the roots of the Tsono-Xuhil since before the Saxhleel could lift a spade, but only I have discovered its secrets. Drinking it or bathing in it can drive a Saxhleel mad. But through alchemical study, and the Hist’s guidance, I have learned to harness its power. This was no small feat. The creatia is a thing of chaos. The call to Sithis is in its nature. But we must remain deaf to his commands. Those Saxhleel who call him father languish in mud huts and eat old fish from wooden bowls. The Xit-Xaht hear the call to order, and shall dwell in a shining city forever more!  
+  
+If properly manipulated, the Amber Plasm can grant a worthy Saxhleel great speed and strength. I am proof of its efficacy. Soon, my brew will be ready to distribute to all Xit-Xaht sons and daughters. Then Mazzatun will be a rival even to the Imperial City! The People of the Root will rule Black Marsh first, then all of Tamriel!
+
+[출처](https://www.imperial-library.info/content/urgent-letter-1)
+
+---
+
+## Urgent Letter [From Junal]
+
+ID: ext-065d845ce6bd57169557
+
+Wunsupa,  
+  
+Do not run tonight. Xal-Nur knows that you plan to escape at dusk. I do not know how he found out, but he is onto you.  
+  
+I know what Cheethei told you, but Xal-Nur is not as primitive as he seems. There is a cunning in him, Supa. He is like an old crocodile—more dangerous when asleep because the hatchlings press their luck.  
+  
+If he catches you, he will rip you to pieces and feed you to the wamasu. Please understand, I am not pulling your tail. I have seen him do this before. There is so much blood—more than most could bear to see. And the screaming still wakes me from a deep sleep.  
+  
+Wait, if only for a few more days. Your life depends on it.  
+  
+Junal
+
+[출처](https://www.imperial-library.info/content/urgent-letter-2)
+
+---
+
+## Urgent! Food Needed
+
+ID: ext-d6640528346a602428ed
+
+Urgent!  
+  
+A contingent of [Night Market Faction Name] members journeyed into this district with limited provisions. Normally this wouldn’t be an issue, but we’re so close to unlocking the secrets of Sorrow’s Friend and can’t afford to return to the Starlit Plaza for sustenance.  
+  
+Please make and deliver one of the following food items to our collection box on the northern rooftop oasis: roast venison, carrot soup, or baked potato. We can’t agree on much, but who could say no to one of those?  
+  
+We left a reward for anyone who helps us.  
+  
+[Night Market Faction Name]
+
+[출처](https://www.imperial-library.info/content/urgent-food-needed)
+
+---
+
+## Ushutha’s Journal
+
+ID: ext-ee56cda0d4c8efc675bc
+
+My research uncovered an old society of some sort – very secretive – who do a ritual here, every ten years or so, to appease Malacath, or honor him. I could not get much information on them, but I have seen marks of their rites here. These curious door locks are part of it, for they are not part of the original city, near as I can tell.  
+  
+They are similar, and I suppose the secret group changes the sequence for their rituals, but it clearly has something to do with the clans of Old Orsinium, for the plaques are scattered throughout this ruin. We already tried the same combination as the first gate, but of course it did not work.  
+  
+My thought is that this gate would have something to do with the eventual fall of this city. Garhek has an old treatise that variously claims that Bagrakh and Igrun had started raiding indiscriminately. But then it contradicts itself, saying one raided, but the rulers of the city refused to curb them and in fact took credit for the acts.  
+  
+We know they holed up in the old city. How did they eat? I hope more is revealed once we get in. And there is, I believe an old symbol for Clan Farhun. That must be wrong though, I don’t think they were one of the clans in Old Orsinium thousands of years ago.  
+  
+… I wish Garhek would get back soon. Ever since we lost Mathriga to spider’s poison, I have been questioning our expedition. We should have saved more money and brought hunters or mercenaries to help explore. I should not panic. Not yet.  
+  
+….. I think that Garhek isn’t coming back. Not because he wouldn’t want to, but because he can’t. I wanted to write the definitive book on the Rise and Fall of Old Orsinium. But this place… I fear I led my friends and myself to a premature end in an old ruin that keeps its secrets
+
+[출처](https://www.imperial-library.info/content/ushuthas-journal)
+
+---
+
+## Vahath Hunter’s Journal
+
+ID: ext-5fa51bde617e707608c2
+
+We do not know why this vahath behemoth has chosen to encroach on our land, but something must be done.  
+  
+We set up camp near the ruins south of Xor-Hist and have taken great care to avoid being seen by the elders and older hunters. Elder Tanish-Ha herself announced that we should avoid the beast. Assured us that it would soon move on and that it was a needless risk to hunt it.  
+  
+This is easy for her to say. Did her father disappear two moons ago? Only for us to now see this beast stalk our homes in search of more egg-kin meat? I spit her name into the dirt.  
+  
+I fear our reclusive nature has made us soft and fearful of conflict. Not so for me and my egg-brothers. Save for Zanik. His egg was the softest after all.  
+  
+He believes the beast only wishes to be closer to its kin. Laughable. Zanik I am certain would be the first to fall to its hungry jaws if only because he wished to offer it an embrace. Needless to say, we left him at home with our younger egg-siblings.  
+  
+No matter, we three will make up for his cowardice.  
+  
+I was the first to spot it, no doubt thanks to my skills as a tracker. Its feathers struck me as near identical in vibrancy to my father’s. A brilliant emerald that I nearly chased after in hopes he had returned. Thank the stone that I stopped myself in time. The enormous frame that rose out of the morning mist was a fearsome sight.  
+  
+Never before have I laid eyes on a beast as large as this one. The vahath are well known for their blood thirst and ferocity. It is a wonder that it did not charge at me right then.  
+  
+Itan-Kasi, our oldest brother, told us that these beasts often keep to the lush tropics where the island is littered with Mer. He hopes that it being here means it ran out of elves to eat. We try to keep our laughter quiet or else we will give ourselves away.  
+  
+Still, I wonder why it stalks the perimeter of our village. Perhaps it has grown tired of stalking elves and is instead in search of a true challenge?  
+  
+We will rise to meet it.  
+  
+We laid out bait near the southern ruins of Xor-Hist. We hope to draw the creature to the cliff side so that we may drive it off the edge. There is no trophy to take with a death like this, but the honor of the kill will have to be enough.  
+  
+We three will be heroes.  
+  
+It wears my father’s scales. By the stone it—
+
+[출처](https://www.imperial-library.info/content/vahath-hunters-journal)
+
+---
+
+## Valamuur’s Notes
+
+ID: ext-347b240b33f291ee4ea6
+
+Valamuur’s Notes, Volume I  
+  
+7th Evening Star 2E 291  
+  
+Arandore believes he’s found a solution.  
+  
+If this works, we won’t have to build Root Sunder—we can plant it, and direct its growth to our exact designs.  
+  
+If this works, we’ll have innovated the architectural technique of the Era.  
+  
+Valamuur’s Notes, Volume II  
+  
+6th Morning Star 2E 292  
+  
+Arandore was right!  
+  
+Manipulating the stone is a matter of casting an appropriate Conjuration spell. Construction of the city can begin in earnest.  
+  
+8th Sun’s Dawn  
+  
+The wildlife in the jungle has grown nettled—perhaps understandably so, due to the work. We’ll need to move faster. The sooner we complete colonization of this region, the better.  
+  
+Valamuur’s Notes, Volume III  
+  
+2nd First Seed 2E 292  
+  
+Arandore disappeared this morning. He’s been prone to nocturnal tirades, lately—too much wine, I think—but I don’t begrudge him the drink. The jungle wildlife has grown decidedly unpleasant over time, going so far as to attack our builders. I hope Arandore is safe.  
+  
+7th Rain’s Hand  
+  
+Arandore is gone. More builders go missing with every passing week. Progress has slowed to a crawl. I’m the only conjurer left fit to work. Won’t give up. For the sake of those vanished, I’ll complete our work.  
+  
+8th Second Seed  
+  
+I’m all that’s left of our venture, and I must be going mad. I could swear I saw Arandore this evening, standing amongst the vines. I called to him, if it was him, but he didn’t seem to notice. I thought I saw him retreat to the lower chambers, among the first of Root Sunder that we built. There aren’t any more attendants to send—there isn’t anyone left. I’ll have to investigate on my own.
+
+[출처](https://www.imperial-library.info/content/valamuurs-notes)
 
 ---
 

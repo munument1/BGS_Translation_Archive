@@ -1,1159 +1,852 @@
 # The Elder Scrolls Online 원문·번역 서적 합본
 
-수록 서적: 2,482건. 영문 원문을 우선 수록했습니다. 미번역 서적의 판본·발췌 여부는 번역 전에 확인하세요.
+수록 서적: 2,528건. 기존 ESO 한국어 게임 본문을 연결했으며 나머지는 확보된 영문으로 제공합니다. 판본·책 ID 연결 범위는 ESO_KOREAN_IMPORT.md를 확인하세요.
 
 ---
 
-## Healing Herbs of Northwest Tamriel
+## 구스라그의 가면
 
-ID: ext-b7d1eb0bf2add3fb44b4
+ID: ext-768a2c6c05e7cedaf2ff / ESO 책 ID: 3121 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-There are many wonderful herbs growing throughout the northwest region of Tamriel. Here are some of the best for use in healing poultices and medicinal broths.  
+오크 외교관 중 가장 유명한 인물은 아마도 제1기 9세기 말에서 10세기 초에 활약한 스톤토커 구스라그일 것이니라. 그의 웅변은 오시니움 포위 공략을 10년 넘게 지연시켰으나, 그가 대거폴로 향하는 길에 숨을 거두면서 불가피한 결말을 맞이하였다.  
   
-Herbal tonics, tinctures, infusions, and decoctions, utilized to relieve fevers, sore throats, stomach ailments, headaches, body aches, and other illnesses can be created using the following herbs:  
+구스라그의 협상술과는 별개로, 그의 마법이 깃든 가면에 얽힌 이야기는 더욱 흥미를 자아내는 법이라. 전설에 따르면, 가면에는 오크의 용모를 관찰자가 보기에 더욱 매력적인 모습으로 변모시키는 힘이 있었다고 한다. 때로는 그보다도 더 강대한 능력이 가면에 깃들어 있다고 전해지기도 하였다. 대사들과 첩자들은 수 세기에 걸쳐 구스라그의 가면을 이용하여 이방의 땅에서 오시머의 대의를 전파하였다.  
   
-— Moth nettles  
-  
-— Clickweed  
-  
-— Red coldberry leaves  
-  
-— Yellow clover  
-  
-— Brandelion  
-  
-Herbal poultices and other necessary components for any healer’s kit (including remedies for bug bites and sun burn, healing salves, and wound cleansers) can be created using the following herbs:  
-  
-— Stendarr’s wort  
-  
-— Comfrey  
-  
-— Valendula  
-  
-— Blue yarrow  
-  
-— Gemweed  
-  
-— Healer’s purse
+가면의 마지막 주인으로 기록된 이는 파룬 요새의 수수께끼 같은 '족장의 눈'이었다. 화살 하나가 가면을 꿰뚫고 그 수석 첩자의 이마를 파고들었을 때, 가면의 힘은 사라지고 말았다. 힘을 잃은 지금도 가면은 역사적 의의를 지닌 유물로 남아 있다.
 
-[출처](https://www.imperial-library.info/content/healing-herbs-northwest-tamriel)
+[출처](https://www.imperial-library.info/content/guthrags-mask)
 
 ---
 
-## Heart of Valenwood
+## 구아 길들이기
 
-ID: ext-069a5777b166d3086d19
+ID: ext-de6325470d635ebe1b3f / ESO 책 ID: 2994 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Heart of Valenwood, heart of the living forest, is too easily mistaken for an object, a single item, that can be claimed and manipulated. It is true that in the heart of the forest there is a magnificent tree, through which courses the metaphorical lifeblood of Valenwood. But to say that the tree is the heart is to vastly limit one’s understanding of the Heart.  
+... 다섯 가지 손쉬운 단계로!  
   
-In truth, the Heart is more akin to the forest’s soul. The magnificent tree is just the physical symbol of that soul, but like a soul in the body, the Heart is not in one place in the body, but suffused through the entire thing.  
+구아는 흔히 생각하는 것보다 훨씬 복잡한 내면을 지니고 있다. 짐을 나르도록 훈련할 수 있고, 그 온순한 천성이 사랑받는 것은 알지만, 이 견고한 야수와 우리의 관계에 대해 우리는 얼마나 알고 있을까? 구아와 함께 일한 수년간, 나는 그들이 우리가 상상할 수 있는 것보다 훨씬 더 큰 학습 능력을 지니고 있음을 발견하였다. 내 연구는 구아 훈련의 최선의 방법들을 내놓았다고 믿으며, 이는 구아를 심층 연구하고 싶은 이에게도, 늙은 롤리가 샌들을 씹지 못하게 하고 싶은 이에게도 유용하다.  
   
-Still, it’s been apparent to anyone who wished to look that the ancient Ayleid site of Hectahame holds immense power, far outstripping the rest of Valenwood. As a consequence, that particular location is often referred to in older texts as the “Heart of Valenwood” and has become the target of numerous plots to harness that power for purposes both good and ill.  
+1. 시범  
+구아에게 무엇을 해 주기를 원하는지 명확히 보여줄 것. 등을 구부리고 최대한 구아처럼 보이도록 하라. 연구에 따르면 그저 지켜보는 것만으로도 구아는 작업의 기본을 습득할 수 있다. 작업을 수행하는 동안 관심을 끌 만한 먹을 것을 조금 들고 구아의 시선을 붙잡으라.  
   
-One of the earliest of these plots occured while the Ayleids first came to Valenwood. A necromancer (his cursed name long lost to history) invaded Valenwood with an undead army, and perverted the life-giving power of the heart to raise up a formidable force of undead Ayleid spirits. The Ayleids fought a long and protracted battle to defeat the army, but in the end they were unable to defeat the army, only contain it.  
+2. 명령  
+시범으로 보인 행동과 연관 짓고 싶은 명령어를 명확하고 천천히 말할 것. 구아에게 올바른 수행 방법을 보여주면서 반복해서 말하라. 가끔 소리를 높이면 구아가 놀라 주의를 기울이는 데 도움이 된다(다만 구아를 불안하게 만들 수도 있다).  
   
-Using welkynd stones, the Ayleids created powerful necromantic wards to seal off Hectahame, and the once great city became a prison for the army that had sought to conquer it. The undead were returned to the ground and trapped there. None who have attempted to break the wards have managed, and it is speculated that only an object that could cancel magic itself could undo the Ayleids’ incredible handiwork.  
+3. 관찰  
+명령어를 반복하면서 구아에게 원하는 것을 시범 보인 후에는, 구아가 시도하는지 주시할 것. 구아가 올바른 방향으로 움직일 때마다 명령어를 계속 말하고 다음 단계로 넘어가라. 몇 시간이 걸릴 수도 있고 며칠이 걸릴 수도 있으니, 오래 기다릴 준비를 하라.  
   
-But it is because of the powerful wards on Hectahame that the Heart of Valenwood is little understood and rarely spoken of. The Wood Elves view Hectahame with a mix of superstition and awe, fearing the ancient past and revering the life-giving power that seems to emanate from within.  
+4. 보상  
+운반시키고 싶은 양동이를 살짝 밀어 보는 것처럼 점진적인 진전에도 구아에게 보상을 줄 것. 훈련은 힘들 수 있으며, 조금씩 나아갈 때마다 보상을 주면 구아의 의욕을 유지하는 데 도움이 된다.  
   
-It is said that the last Wood Elf to enter Hectahame and behold the heart was a Silvenar from over two hundred years ago. But even accounts from that time suggest that he was viewed as mad by his contemporaries.
+5. 반복  
+구아에게 새 작업을 완전히 가르치려면 몇 주가 걸릴 수 있으니 인내심을 가질 것. 매일 훈련하라. 이 단계들을 따르면 구역에서 가장 잘 훈련된 구아를 갖게 될 것이다!
 
-[출처](https://www.imperial-library.info/content/heart-valenwood)
-
----
-
-## Heart of Zandadunoz
-
-ID: ext-c9fefc6ba590882d4fab
-
-In the dark days after the fall of the first Orsinium, the vicious titan Zandadunoz the Ravager terrorized southern Wrothgar. Desperate Orcs went so far as to form a cult devoted to the service and worship of Zandadunoz.  
-  
-As Zandadunoz’s followers gathered to perform heretical acts in the titan’s name, another group of warriors banded together to slay the titan. Thruz gro-Fharun led the Band of Fifty, who dedicated themselves to making southern Wrothgar secure.  
-  
-After weeks of endless battle, Thruz’s band defeated the cult, but at a great cost. With only twelve warriors remaining, Thruz attacked Zandadunoz in the shadow of Honor’s Rest. He defined the notion of the Orc hero by ripping the titan’s black and fiery heart from its chest, even as its flames consumed him. The heart transformed into a phylactery, supposedly capable of recalling the titan from Oblivion to once again threaten the Orsimer.
-
-[출처](https://www.imperial-library.info/content/heart-zandadunoz)
+[출처](https://www.imperial-library.info/content/how-train-your-guar)
 
 ---
 
-## Heart of the Indrik
+## 구원의 진언
 
-ID: ext-a3c047b2711532192f06
+ID: ext-a023ed4a76162300b817 / ESO 책 ID: 5664 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Excerpt from the lecture of Professor Cinutalmo  
+길 잃은 고양이여, 그대는 달빛이 닿지 못하는 곳을 떠돌았으나, 나는 황혼 속에서 기다리고 있으니, 내게로 귀를 기울이라.  
   
-Transcribed by Relicmaster Glenadir  
+로르카지는 어둠 속에 누워 그대를 그릇된 길로 이끄느니라. 그 거짓된 가락에 마음을 닫고, 이리로 꼬리를 돌리라.  
   
-Beautiful, isn’t it? Though it may resemble a ruby, this stone is actually a crystalized indrik heart. Why, anyone can do it. Just bathe the heart in pure water for a hundred moonlit nights.  
+아주라의 말씀으로 그대의 가슴을 채우고 어둠을 몰아내라. 나의 노래가 그대를 집으로 인도하리라.  
   
-Impossible, you say? Not if you move quick enough.  
+달 격자를 지나 발길을 돌려, 사랑 어린 빛 속에 잠기라.  
   
-As dazzling as it is, most wouldn’t think this crystal capable of malice. And, if untouched, that does hold true. However, once touched by one of an unpure heart, a dark shadow shall blossom within the crystal’s center. From then on it will curse all who possess it with such heartbreak that, well let’s just say that no one lasts very long after that.
+기뻐하라, 길 잃은 고양이여, 그대를 찾았노라.
 
-[출처](https://www.imperial-library.info/content/heart-indrik)
-
----
-
-## Heavy Armor Forging
-
-ID: ext-9a01f6da5c4a217e61ec
-
-Heavy armor must be designed to take a lot of punishment. It will receive direct blows from all sorts of weapons while protecting the wearer. Leather strips are used to make the straps and bindings in all armor  
-  
-Iron and steel are easy to work. Just heat them up and pound them into shape. The heat of the forge is not that critical. Avoid filing off any of the metal. Always try to conserve the metal and work it back into shape.  
-  
-Iron armor requires a large number of iron ingots. A smith might need a couple of dozen to complete a full set of iron armor. Steel armor primarily uses steel ingots, but some iron is used as well.  
-  
-Dwarven armor is made from dwarven metal. The secret of this material was lost when the dwarves disappeared millennia ago. Now it can only be found as scrap in the ruins of their abandoned cities and fortresses.  
-  
-Orcish armor requires large amounts of Orichalcum, melded with a bit of iron. Heat should be used sparingly, let it become brittle. The Orcs are masters of this technique, but it can be learned by any smith with patience and skill.  
-  
-Steel plate mail is made by adding steel to molten Corundum. The alloy is stronger than either metal by itself. Corundum is a finicky material requiring the heat from the forge to be steady and not vary much.  
-  
-Ebony can only be worked when heated. It will develop small cracks that eventually shatter the material if hammered cold. Unlike most other armors, Ebony will not alloy with iron. It must be used pure.  
-  
-I can only tell you tales of how to make Daedric armor. I have never seen it myself, nor do I know anyone that has. The stories say that it should always be worked on at night… ideally under a new or full moon, and never during an eclipse. A red harvest moon is best. Ebony is the principle material, but at the right moment a daedra heart must be thrown into the fire.
-
-[출처](https://www.imperial-library.info/content/heavy-armor-forging)
+[출처](https://www.imperial-library.info/content/mantra-redemption)
 
 ---
 
-## Heavy Armor: A Forge-Wife’s Advice
+## 구인: 필리엔 투어
 
-ID: ext-d800957ecf01995dd462
+ID: ext-d4d457bd79ed8eb3d348 / ESO 책 ID: 7250 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-I’ll wager you don’t even have what it takes to make armor. Think you can slave at the anvil all day, sweat stinging your eyes while you pound on iron, steel, or even orichalcum until you can hardly move your arm? Can you spend sweltering weeks lifting, hammering, and shaping until you’ve forged the perfect set? How afraid are you of serious burns?  
+하이 아일에 본사를 둔 신생 기업 필리엔 투어가 새로운 사업을 시작할, 여행을 사랑하는 모험가를 찾습니다!  
   
-Still here, huh? Good. Maybe you have potential. If you’re serious about smithing, you’ve found the right Orc. I was raised in the forge; the bellows and anvil were my best friends and my hammer’s never left my hands. I can tell you how real armor is made.  
+관심 있으신 분은 곤팔론 베이의 곤팔론 게이밍 홀에서 필리엔 비주르를 찾아 주십시오.  
   
-My advice: just get to work! Get some ore, step up to the anvil, and hammer out simple parts. Your first pieces may not be fancy, but you’ll learn tricks as you go, like how to take mediocre armor and temper it into something stronger. You should look at other smiths’ work as much as you can, too. Study exotic styles and materials and you’ll get even better. But nothing beats practice, so get going!
-
-[출처](https://www.imperial-library.info/content/heavy-armor-forge-wifes-advice)
-
----
-
-## Help Complete Abah’s Local History!
-
-ID: ext-d79c2cd7f387cac07019
-
-Citizens of Abah’s Landing! It has been my privilege to volunteer for, and accept, the role of committee chair of the annual Hew’s Bane Remembrance Days, a task I promise to carry out with vigor and enthusiasm! This year’s display will honor the life and achievements of our founder (and my ancestor by way of my maternal grandfather), Prince Hubalajad himself!  
-  
-In addition to a display of sundry items of historical interest dating from Prince Hew’s reign, it is my hope that our panoply will include, for the first time, a full set of the justly-famous and highly-collectible series of books known as “Prince Hew’s Fiascos.” To this end, I will be lending the festival my own collection of these beloved tomes, which includes the following titles:  
-  
-“Prince Hew and the Envoy’s Exploding Pipe”  
-  
-“Prince Hew and the Haj Mota Chariot”  
-  
-“Prince Hew and the Iron Regatta”  
-  
-“Prince Hew and the Three-Legged Race”  
-  
-“Prince Hew and the Pet Toku Gava”  
-  
-“Prince Hew and the Atronach Parade”  
-  
-“Prince Hew and the Kindlepitch Fountain”  
-  
-“Prince Hew and the Ogre Ballet”  
-  
-As the astute observer will immediately note, this collection is missing only one volume, the tragically rare “Prince Hew and the Spriggan Barbecue.” If a copy of this scarce tome is to be found in Abah’s Landing, it would be an act of civic charity for its owner to lend it to our panoply. (And if that owner were interested in selling said volume, I would offer substantial remuneration for it!)  
-  
-Also, as my best-beloved spouse, Lady Wallavir, has other commitments, our committee is searching for a handsome woman of Redguard descent to act as presenter at the festival and play the role of Petty-Vizier Hafzifeh al-Yath, the putative author of “Prince Hew’s Fiascos.” Interested parties should apply in person up at the manor.  
-  
--Lord Huzahar Wallavir, Grandee
-
-[출처](https://www.imperial-library.info/content/help-complete-abahs-local-history)
-
----
-
-## Help Wanted: Merryvale!
-
-ID: ext-5524f9de3f044163b7f7
-
-Sweetwater Farmstead seeks able-bodied workers due to unforeseen circumstances.  
-  
-Fair pay guaranteed!  
-  
-Any interested parties should speak to Rakhzargo in the town of Merryvale.
-
-[출처](https://www.imperial-library.info/content/help-wanted-merryvale)
-
----
-
-## Help Wanted: Philien’s Tours
-
-ID: ext-d4d457bd79ed8eb3d348
-
-Philien’s Tours, a new enterprise headquartered here in High Isle, seeks a travel-loving adventurer to help launch a new business venture!  
-  
-Interested parties can seek out Philien Visour at the Gonfalon Gaming Hall, in Gonfalon Bay.  
-  
-Your adventure in the Systres Archipelago awaits!
+시스트레스 군도에서 당신의 모험이 기다리고 있습니다!
 
 [출처](https://www.imperial-library.info/content/help-wanted-philiens-tours)
 
 ---
 
-## Herbane’s Bestiary: Automatons
+## 군단의 도착 단서
 
-ID: ext-a0a67dabe65480219eef
+ID: ext-7cf96a1c1e011e913b62 / ESO 책 ID: 7511 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Herbane’s Bestiary:  
-Dwarven Automatons  
+마차 위에 올라, 그곳으로 향하라  
+성 펠린이 끝없는 안식에 든 곳으로  
   
-9 Hearthfire  
+죽은 자들은 은밀히 무릎 꿇어 기도하거나  
+신음하며 변명을 늘어놓아 방비하니  
   
-The Dwarves have been extinct for many an age, and perhaps for the best. To see men and women the size of large children, all with beards, would be a most disturbing sight. Still, whatever wrath the Dwarves brought from the gods that consumed an entire civilization surely must have been an awe-inspiring thing to witness.  
+성인들의 살피는 시선 아래  
+한 쌍이 마주 서 있는 곳에  
   
-The remnants of their civilization lie buried in the hearts of mountains, and scholars and thieves the world over descend on the skeletal remains of dwarven cities like vultures, to scrape clean the bones of the past, old knowledge waiting to be exhumed and treasures to be discovered. But many men lay murdered in those halls of the damned, because those dwarven ruins do not release their treasures without a fight.  
-  
-My kin would tell the stories long ago, when I was just a child, about how adept the Dwarves were at building machines. They would say that before our time, dwarves harnessed the power of the earth, and wielded fire and hammers to reshape steel and bronze with a mechanical brilliance that breathed life into these now ancient constructs of metal and magic. In the dark halls and chambers amid the ceasless droning of grinding gears and venting steam, they lie in wait to confound or destroy would-be plunderers of the dwarven sanctums, as the grim watchmen of the last vestiges of culture from a dead race.  
-  
-I descended into the humid darkness of Mzulft. The slow hiss of steam, creaking of metal and the rattle of old gears powering an empty city would unnerve most men. I could hear things in the darkness, skittering across the floor just out of sight and as I stepped over the bodies of plunderers or scholars who had not made it far, I knew it was not rats wandering these halls.  
-  
-Small mechanical spiders set upon me with rapid movements, and machines sprouted from the walls and uncurled from spheres into contraptions that rolled on top of gears for legs and crossbows for arms. I could not help but marvel at these single purpose machines built for the murder of men. My sword and my shield are my strength and I am undeterred by such things because I had heard of greater things that roam these depths, and indeed something else in these chambers stirred, and it echoed with massive weight. As it lumbered closer, its feet struck the ground as if walking on massive pistons and as it loomed out of darkness, I could see it clear for the first time, axe for one hand, hammer for the other, as tall as five men, made of dull bronze with a face molded in the image of its masters. A Steam Centurion. The stories were true, these were the guardians of the greatest dwarven treasures.  
-  
-We fought, and the dwarves must truly be extinct because our battle was surely booming enough to wake the dead. It came at me with hammer and axe, inhuman strength and great fortitude, and a purpose of nothing but murder. I dodged as it crushed the stone around me with futile strikes and I thrust and slashed at it with my blade and took every opening afforded as we shook the halls with violence. I refuse to be undone by a machine.  
-  
-Where the average man would be long dead, I stood over the husk of this dead automaton, its steam escaping like a final gasp. I could have taken the dwarven artifacts and metal but left them there for others, for I would not hex my journey with the possessions of dead men and maybe that is where countless others go wrong.  
-  
-I will continue to my journey across the lands, And perhaps one day Herebane will meet a worthy challenge, for I have yet to see what would make me tremble.
+플레이어여, 그대의 카드가 여기 잠들었노라  
+군단의 나팔 소리 울려 퍼지는 가운데
 
-[출처](https://www.imperial-library.info/content/herbanes-bestiary-automatons)
+[출처](https://www.imperial-library.info/content/legions-arrival-clue)
 
 ---
 
-## Here Lies Arah
+## 군단장 회의에 관하여
 
-ID: ext-3b4c31d46a94cbc45331
+ID: ext-951cf5ee571a8c98e6ae / ESO 책 ID: 6735 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Devoted Spirit Warden  
+카로 백작 부인의 치세 아래, 군단장 테베자-코의 고찰.  
   
-Neither father nor husband  
+군단장 제도는 우리에게 잘 들어맞는다. 다른 공국에서는 그렇지 않을지 모르나, 레이야윈에서는 법을 정하고 도시의 일상적 필요를 살피는 일이 제국 시대 이래로 도시 통치자의 소관에 속한 적이 없었다. 이제 제국이 사라지고 장로 평의회마저 해산된 마당에, 그 소임은 근래에 세워진 군단장 회의에 돌아왔다. 역사를 돌이켜 보면, 도시의 통치 기구를 도시의 지배자와 갈라놓음으로써 옹졸한 영주 나부랭이들은 도시 운영의 실무를 걱정하거나 내팽개치는 일 없이 제 정치 놀음에 빠질 수 있었다.  
   
-But instead, a loyal servant of Azura  
+회의는 도시와 그 주변 속주의 운영에 관한 모든 행정 기능을 관장한다. 이를테면 항구의 일에는 허가와 승인과 목록과 기반 시설이 필요하니, 필요한 모든 물자가 알맞은 장소와 배와 상인에게 어김없이 운반되도록 하기 위함이다. 이러한 일을 해내고자 우리는 상선과 그 항로를 상세히 기록한 명부를 두어, 화물이 언제 준비될지 가늠한다. 잘 훈련되고 정통한 항만장들은 온종일, 때로는 밤늦도록 제자리를 지키며, 배마다 맞이하고 올바른 지시를 내린다. 도시의 도로는 어지러움과 잔해 없이 깨끗이 유지되어야 하니, 물자를 안전하고 확실하게 수레로 옮길 수 있도록 하기 위함이다.  
   
-Rewarded in eternity.
-
-[출처](https://www.imperial-library.info/content/here-lies-arah)
-
----
-
-## Here Lies Grethel
-
-ID: ext-aa981ca2f28c34661c28
-
-Vigilant guardian of all Thanes’ holds.  
+이를 위해 우리 군단장들은 항만장들을 감독한다. 부두를 짓고 보수할 목재의 확보를 감독한다. 새 상선에서 들어오는 화물의 일정도 감독하나, 믿음직한 선장들은 항만장 자신의 비교적 덜 엄격한 소관에 든다. 레이야윈의 도로와 거리를, 특히 시장 일대를 정비할 일꾼의 고용도 감독한다. 온갖 물품과 용역에 관한 상인 허가도, 그중에서도 살아 있는 야생 동물이나 약용을 넘어선 쓰임이 있는 향신료와 약초처럼 한층 진귀한 품목에 대한 허가를 더욱 면밀히 감독한다.  
   
-From her two towers on high,  
+회의는 레이야윈에 영향을 미치는 사안을 논의하고자 날마다, 필요한 만큼 오래 모인다. 때로는 일반 시민에게도 이 모임의 참관을 허락한다. 이로써 시민들, 특히 상인 계층은 우리의 관심이 필요하다고 여기는 도시 생활의 어떤 영역으로든 우리의 눈길을 이끌 수 있다. 또한 회의는 우리 정책이 어떻게 굴러가는지, 어떤 미흡한 점을 손보거나 방식을 고쳐야 하는지를 직접 전해 들을 수 있다. 그러나 무엇보다도, 공개된 모임 덕분에 우리는 도시가 믿고 의지하는 통로가 된다. 이제 우리의 명망이 어찌나 높은지, 백성들은 거리낌 없이 제 불만을 우리에게 털어놓는다. 우리가 그들의 걱정에 귀 기울이고, 그들이 절실히 여기는 문제를 때맞춰 해결하되 그들의 목숨이나 생계에 위협이 되지 않으리라는 것을 알기에 안심하는 것이다.  
   
-did she watch over eastern Skyrim.  
-  
-She cleansed the roads of ruffians,  
-  
-and all bandits feared her name ….
+이 운영 방식은 제국이 무너진 뒤 군단장 회의가 세워진 이래로 쓰이고 다듬어져 왔다. 제도가 완벽한 것은 아니다. 여전히 정치적 야심과 계급의 골과 편견, 그리고 그 어떤 통치 체제에도 깃들기 마련인 온갖 흠으로 가득하다. 그러나 우리는 깨달았다. 백성을 대변하는 군단장 회의와, 왕좌에 앉아 우리에게 기꺼이 귀 기울이는 백작 부인이 있다면, 그러한 흠을 충분히 비껴가며 레이야윈의 최선을 가장 앞에 두고 도시의 일을 앞으로 나아가게 할 수 있음을.
 
-[출처](https://www.imperial-library.info/content/here-lies-grethel)
+[출처](https://www.imperial-library.info/content/chamber-legates)
 
 ---
 
-## Herma-Mora: The Woodland Man?
+## 굴자그의 광산에 가까이 가지 마라
 
-ID: ext-584b12bd271149d2e9a7
+ID: ext-c5690873250365acbb49 / ESO 책 ID: 1802 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-The Daedric Prince Hermaeus Mora has many appellations reflecting his dominion over fate and secret knowledge; for example, the Lord of Secrets, the Inevitable Knower, or the One Who Knows. Yet one title in particular seems out of place among the others: the Woodland Man. This name was given to him by the ancient people of Atmora, who knew Hermaeus Mora as “Herma-Mora.”  
+어떤 오시머도 굴자그의 광산에 가까이 가서는 안 된다. 이것은 너희 전쟁족장의 명이다.  
   
-To the modern scholar, “Woodland Man” certainly sounds like a title for a forest deity such as Y’ffre. Yet the Atmorans (and the Nords of ancient Skyrim) knew Herma-Mora as a tempter, a being who offered knowledge or power to the unwary to ensnare them. He had nothing to do with hunting, weather, the life of the forest, or the challenges of survival.  
+너희가 서로 묻는 소리가 들린다. 언제 저 광산의 언데드를 쳐부수고 우리 형제들을 구해 낼 것이냐고.  
   
-This contradiction is, perhaps, not so insoluble as it might appear.  
+내 명령에 토를 다는 소리는 이제 지긋지긋하다. 광산의 오시머들은 더러운 마법과 우드 엘프의 농간을 가지고 놀았다. 그래서 그들이 그 운명을 치르는 것이다.  
   
-Simply put, we know next to nothing about the speech of ancient Atmora. It was not until the time of Ysgramor that writing began to appear among the peoples of the northern land. Letters were frequently confused, repurposed, or even omitted in the earliest decades of their use. As I examined this problem, I found myself wondering if our sources were accurate.  
-  
-A careful study of the oldest texts surviving in Skyrim suggests that perhaps scholars have misunderstood this turn of phrase for centuries. The root word for “woodland” is better translated as “wilderness,” and carries implications of desolate or uninhabited places. Likewise, the Atmoran roots of “man” are tied up with the concept of speaking. Men are the animals that talk, in this interpretation.  
-  
-Taken together, we might therefore better translate “Woodland Man” as “that which speaks in the wastes.”  
-  
-Herma-Mora, a god of the wilderness? Or Herma-Mora, who shares terrible secrets in desolate places? That is an interpretation that makes more sense for a Daedric Prince known as the Keeper of Forbidden Knowledge.
+그들의 원수를 갚고 싶거든, 암흑 마법과 악독한 음모를 품은 우드 엘프와 그 하이 엘프 동맹들에게로 눈을 돌려라. 그들의 문턱을 피로 적시고, 그들의 귀를 제 자식들의 비명으로 채워 주어라.
 
-[출처](https://www.imperial-library.info/content/herma-mora-woodland-man)
+[출처](https://www.imperial-library.info/content/stay-away-gurzags-mine)
 
 ---
 
-## Heroes of the Sanctuary
+## 굴하지 않는 자들의 서
 
-ID: ext-8b376ffb12a4e9873d93
+ID: ext-0672ea74ad58e2204cd4 / ESO 책 ID: 3046 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-You’ve no doubt heard the story of the Heroes of the Sanctuary. Of the three Altmer who braved stormy seas, monsters from the deep, and the hostilities of a wild and uncivilized race to found a safe port for Summerset’s ships along the coast of Valenwood.  
+우리 서명자들은 굴하지 않는 자들의 서약을 이을 것을 이에 선언하노라. 길드의 오랜 단원이든, 새로 피를 묻힌 날 선 자이든, 우리는 남들이 감히 하지 못하는 일을 해낼 것이다. 우리는 넌의 지하 깊숙이 탐사하고, 눈에 띄지 않는 곳에 잠든 지식과 보물을 찾아낼 것이다. 우리는 어둠에 맞서 싸울 것이다.  
   
-The tale is timeless. Eldamar was their leader, true-hearted, who envisioned adventure limitless across the sea and would not be deterred when others told him his vision was foolishness. Hirume slew the the serpent of the underdepths who guarded that craggy coast, diving deep below the sea to cut out its heart. You will have heard of how she held her breath for a full rising and setting of the sun, even until her companions thought her dead, only to emerge in the wake of the great serpent’s demise.  
+그리고 우리는 굴하지 않는 자들로서 귀환할 것이다.  
   
-Nor will any one ever forget the name of Meluuran, who fashioned a marvelous new sailing vessel specifically for the task, a vessel that cut swiftly across the sea, and did not slow even when the winds died. They say the great craftsman made a deal with the Divines, or some long forgotten god, to bind the winds and see the ship safely to those foreign shores.  
+서명,  
   
-And lastly, we tell of how our three heroes reached that hostile shore and found the people there were warlike and feasted on the flesh of their enemies. How their crew clamored to fight the savages and drive them away, a conquered people, but the Heroes of the Sanctuary did not listen to the council of rash and foolish Elves.  
-  
-Instead they met with the leaders of the Wood Elves, and studied their customs. They learned of the Green Pact, which forbids damage to the forest, and of the Meat Mandate, which commands these Elves to eat those they defeat in battle, and most importantly of all, they learned of the Rite of Theft.  
-  
-It was customary that the Wood Elves would steal from each other, and on return of the stolen item, demand a boon commensurate to the item’s worth.  
-  
-It happened that the Heroes of the Sanctuary had brought a staff of great value with them. So they made a deal with the Wood Elves. If the Wood Elves could steal the staff from them, they would leave and never return. However, if they could steal an item from each of the Wood Elf treethanes, then they would be allowed to found a settlement on the shores of Valenwood.  
-  
-The deal was struck, and the Heroes swiftly and cleverly set about stealing from the treethanes. From one they stole a prized bow. Another they tricked into handing over a valued necklace in exchange for “all of the most valuable thing in the world that they could hold in their hands.” The most valuable thing in the world, as any one knows, is air—for without it we could not live.  
-  
-At the end of the appointed time, all of the treethanes’ items had been stolen, but the Wood Elves had not managed to steal the staff. And that is how Seaside Sanctuary came to be, thanks to the bravery, cleverness, and vision of Eldamar, Hirume, and Meluuran.
+가드레이 빈탈렌  
+영광을 찾는 자  
+레이디 드레이크  
+키린 브라이트글레이드  
+바위의 로디스  
+마에글린 텔레메이테  
+베라나 텔레메이테  
+골분쇄자 사바  
+라씨 심블보크  
+광란의 제바  
+허공의 하늘 타릭  
+외눈 고부르  
+흉폭한 야키디  
+두려움의 아들 아이단  
+숙성육을 먹는 자  
+잘리야  
+불타는 막시무스  
+소바베  
+난폭한 브래드포드  
+웅장한 잔탄  
+이노  
+브릿게르드 곰-주인  
+레이디 바로네사  
+단테리엘  
+퀴니우스 키팅  
+모니넨  
+지바  
+강한 모드라  
+시를 낭송하는 자  
+아탄 테네커  
+살라이소크  
+자키르  
+타리엔 벨
 
-[출처](https://www.imperial-library.info/content/heroes-sanctuary)
-
----
-
-## Hidden Tears
-
-ID: ext-6e5127237f311fdfd7bf
-
-The sacred stone responds to the land where her tears fell.  
-  
-Tears to purify hearts, the earth, the water, the very air around us.  
-  
-Kyne whispers and weeps in the hallowed places.
-
-[출처](https://www.imperial-library.info/content/hidden-tears)
-
----
-
-## High Chancellor’s Papers: The Tagh Droiloch
-
-ID: ext-0a3e933b4b58340e2dde
-
-From the private papers of Abnur Tharn, High Chancellor of the Elder Council. 10 Second Seed, 2E 536.  
-  
-Who are the Tagh Droiloch? How did they gain the power to put a Reachman on the Ruby Throne? and to what end? Three full years after Durcorach the Black Drake led a screaming horde of his countrymen into the heart of the Empire, I am still seeking answers to these questions. My divinations and spies have failed to provide anything more than hints about Durcorach’s uncanny rise or the grim witch-men who delivered the Reach – and therefore the Empire – into his hands.  
-  
-As best I can determine, a secret coven came together in the wilds of the Reach some twenty years ago. they took the name Tagh Droiloch, which means “High Dark Wizards” in the dialect of the Reach. Unlike most Reach covens, the Tagh Droiloch were made up exclusively of witch-men, not witches, and they soon demonstrated an aptitude for summoning and commanding even the most powerful Daedra. The Tagh Droiloch easily broke several rival covens standing in their way, and made themselves the secret master of the Reach.  
-  
-For years the Tagh Droiloch seemed content to bide their time, allowing the dread of their name and whispers of their displeasure to govern the unruly Reach for them. But nine years ago, an exceptionally strong and clever chieftain by the name of Durcorach arose and began to build a following in the Reach. Despite his lack of learning Durcorach was a sorcerer of no small skill in his own right, although he preferred the sword to the stave. As if the Tagh Droiloch had at last found the man they had been waiting for, the secret coven allied itself with the Black Drake and placed their power and their fearsome name at his command.  
-  
-With the aid of the Tagh Droiloch, Durcorach subdued all rival clans in the Reach, demanding their loyalty. Reachmen I have spoken to sometimes hint at bargains struck with Daedric powers and promise too fearful to repeat, but whatever the truth of these tales, the results were clear. Within a year of his adoption by the Tagh Droiloch, Durcorach commanded two thousand spears. Within two years, he commanded ten thousand. And at last, judging his strength sufficient to his ambition, he unleashed a horde many times that size upon an unsuspecting Tamriel. The rest is, as they say, history.  
-  
-Then, having engineered Durcorach’s rise to power, the Tagh Droiloch disappeared. Once the Black Drake was seated on the Ruby Throne, these mysterious witch-men returned to obscurity. It seems likely that some of the sorcerers who stand high in Durcorach’s confidence – Baarselg, Faoshor, perhaps Old Wunagh – were member of this secret brotherhood. Yet no on e has heard a whisper of the Tagh Droiloch since Durcorach conquered Cyrodiil. What did they gain from making Durcorach into an Emperor? How many still live? Did they disband, or does some new enterprise now occupy their attention?  
-  
-The most unsettling element of this entire business is that Emperor Durcorach seems well aware of my efforts to ferret out the secrets of the Tagh Droiloch. He appears to find it amusing. The Black Drake has certainly showed no hesitation in disposing of any potential threat to his rule, and yet he is content to allow me to continue in my place at the head of the Elder Council. Surely he knows that I am seeking the means of his removal even as I use my position to ameliorate the excesses of his barbaric reign. I am left with only one conclusion: Durorach thinks I am no threat to him.  
-  
-I must admit that his confidence stings my pride.
-
-[출처](https://www.imperial-library.info/content/high-chancellors-papers-tagh-droiloch)
+[출처](https://www.imperial-library.info/content/tome-undaunted)
 
 ---
 
-## Highmourn Dizi
+## 굴하지 않는 자들이 그대를 원한다!
 
-ID: ext-9c2dfbc3d6809f2078a4
+ID: ext-5786a20c20a127ec4844 / ESO 책 ID: 6252 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-A flute of Akavari design, this instrument was played at the funerary procession for the last Akaviri Potentate, Savirien-Chorak.  
+진정한 모험가가 될 자질이 그대에게 있는가?  
   
-It is said that as the sad and haunting notes of the dizi were played, the Akaviri faithful in attendance broke into tears, hearing the distant voice of their homeland. Even non-Akaviri were moved by the mournful, yearning tones, some even more than the Akaviri themselves.
+ 글쎄, 우리는 믿지 않는다!  
+  
+ 우리가 틀렸음을 증명하고 싶은가?   
+가장 값진 전리품의   
+몫을 챙겨 가고 싶은가?   
+  
+ 그렇다면 그 가련한 몸뚱이를 끌고   
+굴하지 않는 자들의 거주지로 오라.   
+그대의 수고를 위해   
+엘든 루트, 모운홀드, 웨이레스트에 마련해 두었다.  
+  
+ 우리는 굴하지 않는 자들이다!
 
-[출처](https://www.imperial-library.info/content/highmourn-dizi)
-
----
-
-## Hilka’s Interrogation Transcript
-
-ID: ext-f9f2f57f7f48bd4b21af
-
-Agent: How does it feel to be abandoned by the Pact.  
-  
-Hilka: The Pact didn’t abandon me. Thragof did.  
-  
-Agent: You really do hate him, don’t you?  
-  
-Hilka: No more than he deserves.  
-  
-Agent: Meaning?  
-  
-Hilka: Meaning he’s an incompetent idiot who couldn’t lead a Khajiit to moon-sugar.  
-  
-Agent: And the rest of your command?  
-  
-Hilka: Well, if they were bright we wouldn’t be here, would we?
-
-[출처](https://www.imperial-library.info/content/hilkas-interrogation-transcript)
+[출처](https://www.imperial-library.info/content/undaunted-need-you)
 
 ---
 
-## History of Clan Corelanya
+## 궁술 대회
 
-ID: ext-2a8f7541b38b9d4cbbcc
+ID: ext-939e75a82cc7f4e56a77 / ESO 책 ID: 6079 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-History of Clan Corelanya, Pt. 1  
+공지:  
   
-Who are we? From where do we come? Like many others, I have given much thought to these questions. For me, the answers begin in the ancient story of Clan Corelanya, my people. This is our tale, as I understand it.  
+ 궁술 대회가 취소되었습니다   
   
-Time is the destroyer of what went before. We inherit the conflicts and choices of our forebears, yet as the years go by those people and their decisions are forgotten. Memories fade, the makers and eyewitnesses of history pass away, and even the monuments on which their names are written eventually crumble into ruin.  
+ 원인은  
   
-No historian can completely undo the losses of the centuries. Yet with my quill, perhaps I can answer a few of those questions that trouble us and stave off the inevitable forgetting for one more generation.  
+ 관심 부족입니다.  
   
-Part 1: From Summerset to Hammerfell  
-  
-I cannot say how our distant ancestors came to Summerset. All I know is they first entered the annals of history when Saint Veloth lived and taught in Summerset. My distant ancestor, an Aldmeri kinlady named Valarmil Corela, fell in with the great prophet. She followed Veloth throughout the troubled years when the Sapiarchs and the high king sought to suppress his movement.  
-  
-In time, Saint Veloth decided to lead his followers to a place where they would be free to worship as they pleased. The tale of the Velothi pilgrimage to Morrowind is well chronicled elsewhere. What is less known is that not all of Saint Veloth’s followers in Summerset made the journey with their prophet. Some could not bring themselves to abandon the wealth and comfort of home for an arduous trek to an unknown end. Others could not bear to leave loved ones behind. And still others felt bound by duty to honor old oaths of fealty to the crown.  
-  
-Kinlady Corela was one of these. She and her household remained in Summerset when the Velothi departed. In private, they continued to practice their faith as Saint Veloth had taught them, even though the worship of Daedra fell into disfavor after the Velothi exodus.  
-  
-Centuries passed, during which Kinlady Corela’s descendants prospered despite the suppression of Velothi beliefs. The Corelanyas grew into a noble house blessed with wealth, numbers, and skilled soldiers. Yet their devotion to the Daedric powers remained a political liability. No high king trusted the Corelanyas with a fief to govern.  
-  
-The situation in Summerset finally grew intolerable for Clan Corelanya in the years following the Alessian rebellion. Confronted with a rising power in Cyrodiil that distrusted Elves and despised Daedric worship, High King Tenalarion enacted a harsh new ban on Velothi beliefs. Rather than submit to the confiscation of their properties and imprisonment of their leaders, Clan Corelanya chose to leave Summerset.  
-  
-As a noble house with significant commercial interests, the Corelanyas were well acquainted with the isles and coasts beyond Summerset. In the year 1E 522, Sundavar Corelanya sailed to the shores of Hammerfell and founded a kingdom of his own. Taking the title of first kinlord, he established a new capital in the former Ayleid city of Salas En.  
-  
-At first, the Corelanyas prospered in Hammerfell. Corelanya merchant ships carried trade throughout the Abecean Sea. Careful to remain neutral with the high kings and queens of Summerset, the Corelanya kinlords were friendly with Clan Direnni to the north and profited from trade with the Wood Elf kingdoms of Valenwood. To the east they eagerly explored the shores of Tamriel as far as Topal Bay and beyond. Buoyed by Daedric patronage and protection, Clan Corelanya thrived in their new home.  
-  
-Yet at the height of Clan Corelanya’s power, an implacable new enemy appeared. The sails of the Yokudan Ra Gada on the horizon signaled the end of the Corelanyan realm in Hammerfell. That is a tale for my next essay.  
-  
-History of Clan Corelanya, Pt. 2  
-  
-In this second volume of my history of Clan Corelanya, I continue the account of my house and my people. This is our tale as I know it.  
-  
-Part 2: The Coming of the Ra Gada  
-  
-I have already written about how First Kinlord Sundavar brought Clan Corelanya out of Summerset and established a Corelanya kingdom in Hammerfell at Salas En. A proud mercantile realm, they flourished under the protection of their Daedric patrons. To Azura they looked for knowledge and understanding. Nocturnal they revered as their protector. And to Molag Bal they turned when they needed the strength to defy their foes, the Giant Goblins of the desert and the Alessian Order.  
-  
-Since the hostile desert tribes blocked their way inland, Sundavar Corelanya’s heirs turned their ambitions to the sea. From hidden havens on Cape Shira, Corelanya galleys sailed in search of rich lands for their merchants to exploit. Few roamed farther or brought home more riches than Sundavar’s great-granddaughter, Iniel. Born in 1E 667 to Kinlord Roliondil, the kinheir grew up to be an intrepid explorer and a bold conqueror, eagerly working to extend the dominions that would one day be hers.  
-  
-In the year 1E 723, Kinheir Iniel landed on the distant island of Solstice and encountered its somnolent Argonian civilization for the first time. Three years later, she returned with a powerful fleet, determined to subjugate Solstice. Here Iniel met with failure. the Stone-Nest people rallied against her invasion and drove her forces from their island. But during her ill-fated campaign, Iniel discovered the dark citadel of Mor Naril, the abandoned Daedric temple-city, and plundered some of its necromantic secrets.  
-  
-Not long after her return to Hammerfell, Iniel became kinlady. She was a strong and uncompromising ruler, and her high-handed ways alienated Clan Corelanya’s allies. There were also whispers of Kinlady Iniel’s dealings with darker Daedric patrons. Unfortunately for the Corelanyas, in 1E 808 an enemy appeared at Cape Shira against whom Kinlady Iniel could have used more allies. The third wave of the Yokudan Ra Gada sailed from the isle of Yath under Grandee Yaghoub and established the realm of Sentinel on the very doorstep of Salas En.  
-  
-Kinlady Iniel had no interest in making room for her new neighbors, nor did the Ra Gada care to ignore a kingdom of Daedra-worshiping mer in lands they intended to take for their own. For years, the Corelanyas defended the approaches to Salas En with powerful magic and stealthy raids. Ra Gada expeditions were blinded by sandstorms, deceived with mirages, and assailed by summoned Daedra. The proud warriors of Sentinel grew to hate the “accursed city,” but for many years the Corelanya defenses held.  
-  
-Then, in 1E 853, King Xakhwan resolved to finally break the deadlock. Summoning allies from neighboring Yokudan realms, he assembled a mighty army and marched on Ash’abah Pass. His sons, the princes Haqmir and Sameer, led the charge. Corelanya illusion and stealth were no match for such a direct and powerful stroke. In desperation, Kinlady Iniel unleashed her darkest and most dreadful magic, the necromancy she had found in Mor Naril in her youth. She called upon Molag Bal, raising those who fell in battle to fight again and again in her defense.  
-  
-Sorely beset by their own dead, Prince Haqmir and Prince Sameer nevertheless pushed onward. Against their determination, Kinlady Iniel had one last ploy—she sent her most powerful necromancer, Wraithmaster Venerien, to slay King Xakhwan. The Ra Gada princes found themselves forced to turn their blades against the corpse of their own father. But not even this desperate tactic could save Salas En. Kinlady Iniel was cut down by the vengeful princes and her city destroyed.  
-  
-Few Corelanyas escaped from the sack and ruin of Salas En.  
-  
-History of Clan Corelanya, Pt. 3  
-  
-This comprises the third volume of my history of Clan Corelanya. This is the story of my people, or as much of it as I know.  
-  
-Part 3: From Salas En to Solstice  
-  
-In the space of a single century, Clan Corelanya fell from the height of its power to the very nadir of its fortunes. Few Elves escaped from the destruction of Salas En in 1E 853. The Ra Gada were already fierce adversaries, but when Corelanya necromancers raised their own fallen warriors against them, a bitter feud turned into a holy war. In the months that followed Kinlady Iniel’s defeat, Ra Gada warbands scoured Hammerfell for Corelanya havens and slaughtered all they found within. Quarter was neither asked nor given.  
-  
-Yet some Corelanyas survived this catastrophe. As I have written before, the strength of the house was in its trade routes and mercantile outposts, a golden necklace of hidden harbors and small settlements dotting the shores of the Abecean Sea and Topal Bay. At the time King Xakhwan resolved to march on Salas En, nearly a third of all Corelanyas lived in these overseas posts—beyond the reach of the vengeful Ra Gada.  
-  
-Kinlady Iniel left behind no close heirs, but a cousin by the name of Earlenque Corelanya stepped up to assume the mantle of leadership. Lady Earlenque governed those Corelanya estates that remained in Summerset. Throughout the three centuries of Corelanya rule in Hammerfell, the house maintained a few old holdings in their original homeland as part of their mercantile empire. So it was that the survivors of Salas En returned to Summerset in 1E 855. Corelanyas from other overseas outposts rendered untenable by the collapse of the Corelanya realm likewise retreated homeward.  
-  
-The Corelanya refugees found a cold welcome in Summerset. Lady Earlenque beseeched High King Naurnindon of Summerset for aid, hoping to win back Corelanya lands with Summerset’s armies. The high king was sympathetic to High Elves who suffered from the Ra Gada invasion, but he hesitated to launch a war against such a strong and fierce people. It was also politically impossible. Stories of Kinlady Iniel’s Daedric alliances and her flagrant use of necromancy had followed the Corelanyas back to Summerset, and High King Naurnindon feared jeopardizing his own position by taking up their cause.  
-  
-The awkward situation endured for some time. When High Elves find themselves unwilling to make a decision, we can spend decades finding new ways to say, “not yet,” or “It would be unwise to act in haste.” After years of frustration, Lady Earlenque quietly turned her efforts to one of the high king’s rivals, Kinlady Arlinwe of Firsthold. She hoped to bring a new ruler to the throne, one who would promise to help the Corelanyas retake their lands.  
-  
-Alas, Lady Earlenque’s machinations went awry. Her ally Arlinwe moved too boldly against the high king and lost her chance to supplant him. Several noble houses linked to Kinlady Arlinwe fell with her, including the Corelanyas. In 1E 909, High King Naurnindon revoked his welcome and gave Earlenque a choice: loss of titles and properties, or exile. Bitterly humiliated, Lady Earlenque chose exile. Quite a few of Kinlady Arlinwe’s former supporters found it advisable to join the Corelanyas, and they left Summerset at that time.  
-  
-While the Clan Corelanya holdings in and around Hammerfell were long gone by that point, the house still controlled a handful of far-scattered harbors. Lady Earlenque resolved to bring her people to one of these and establish a realm-in-exile beyond the reach of their old Ra Gada enemies or an angry high king in Summerset. Of the old mercantile harbors, one offered both remote location and room to grow—Solstice, the island discovered by Iniel Corelanya two hundred years before.  
-  
-And so we came to our new home.  
-  
-History of Clan Corelanya, Pt. 4  
-  
-Dear reader, you hold the fourth volume in my history of Clan Corelanya. This is the story of my people, as I know it.  
-  
-Part 4: The Peace of Xor-Hist  
-  
-No longer welcome in domains under the control of the high king of Summerset, Lady Earlenque Corelanya and her clan retreated to the distant island of Solstice to establish a new Corelanya realm. In the fall of 1E 909, her fleet dropped anchor in the bay of Sunport.  
-  
-Solstice was a perfect refuge for the clan. It offered a defensible location against their enemies in the west, provided an excellent harbor, and featured a small Corelanya outpost from the days when Kinheir Iniel had attempted to subjugate the island in the early years of the eighth century. Also, the rough waters around the island and the legends of curses (most likely related to the ancient Daedric presence on the island) made Solstice a true safe haven for the exiled High Elves. While Iniel never subdued the native Argonians, she had laid the foundations for a fortified haven on Solstice, and Corelanya merchant ships still visited the island from time to time to engage in trade with a wary Argonian populace.  
-  
-More by luck than design, Clan Corelanya returned to Solstice at a good time. In the two hundred years since Corelanya’s first ill-fated expedition, the region immediately around Sunport Bay had become deserted. The more numerous and advanced tribes, the Stone-Nest People, lived in stone cities on the eastern side of the island, while most of the Argonians residing in western Solstice were Tide-Born, simple villagers who lived along the outer coast. Earlenque Corelanya took for herself the title Kinlady of Sunport and set about establishing a new Corelanya realm.  
-  
-Wary of rousing the hostility of their more numerous neighbors, Kinlady Earlenque took care to limit settlement to Sunport and its immediate environs. She focused on building up the city’s defenses and giving her people a chance to grow strong again. Solstice’s Argonians, a pragmatic people, were content to live and let live. There was little friendship between the groups, but neither was their open hostility.  
-  
-The nature of the relationship shifted when Earlenque Corelanya passed in 1E 1017 and her son Orlemar became kinlord. Clan Corelanya had grown strong over a hundred years, and in Orlemar’s estimation Sunport was too narrow a kingdom for his people when so much of western Solstice remained thinly settled. Under Kinlord Orlemar, ambitious nobles were granted the right to build towers and estates all across the island. Most of Sunport’s colleges, modeled after the Sapiarchs back in Summerset, were eager to begin shaping the island to their purposes, as well.  
-  
-At first, Corelanyas merely took land left empty by the Tide-Born Argonians of the west. But as the Tide-Born retreated, Corelanya ambitions grew. Whole Argonian villages found themselves enclosed by Corelanya estates, their lands swallowed up in agreements that were often one-sided or dubious in origin. For the first time since Clan Corelanya’s return to Solstice, strife and skirmishing between Elf and Argonian broke out.  
-  
-The Tide-Born had little success in repelling Corelanya advances. Simple and scattered, they lacked the numbers, weapons, or the magical aptitude to defeat a well-armed Corelanya force, so instead they gave way. However, the Stone-Nest Argonians proved more resilient. Corelanya lords who attempted to establish estates on land a Stone-Nest tribe considered sensitive found themselves facing hundreds of grim-faced warriors, ready for a fight. Other lords were simply struck down in secret, as Solstice’s Argonians proved themselves surprisingly skilled at assassination.  
-  
-The growing tension between Solstice’s two peoples finally came to a head in the time of Kinlord Kevarian, Orlemar’s grandson. Three short wars in 1E 1172, 1E 1190, and 1E 1194 saw Corelanya expeditions invade Stone-Nest xanmeer-cities and Stone-Nest warbands ravage Corelanya estates up to Sunport’s very walls. In the stalemate that followed, several Corelanya kinlords were assassinated, until Kinlady Torinwe finally sought to make peace.  
-  
-In 1E 1244, Torinwe and the chieftains of the Stone-Nest People met at the village of Xor-Hist. Kinlady Torinwe put an end to further Corelanya expansion into eastern Solstice, while the Argonians recognized the lands currently under Corelanya control. Most importantly, both peoples were free to travel all parts of the island, so long as they did not make any new permanent dwellings in the others’ territory. This restored Argonian access to various shrines and sacred places across Solstice, alleviating one of the main grievances behind the strife.  
-  
-To this day, we still honor the borders and principles established in the Peace of Xor-Hist.  
-  
-History of Clan Corelanya, Pt. 5  
-  
-Here I come to the fifth and final volume in my history of Clan Corelanya. All that I know of the story of my house and my people, I have set down to the best of my ability.  
-  
-Part 5: The Sealing of Mor Naril and the Rise of the Regents  
-  
-It is, of course, ludicrous to look at a span of centuries and conclude that not much occurred. The Peace of Xor-Hist held; our forebears refrained from pushing farther into Argonian territory, and the Stone-Nest Argonians accustomed themselves to their presence. Yet in Sunport’s palaces and colleges, the consequences of an ancient bargain with darkness drew ever closer.  
-  
-Ever since Kinlady Iniel ventured into the ruins of Mor Naril, our house was divided between those who rejected the darker Daedric Princes and those who were willing to seek their aid. In 1E 2607, this ancient debate resurfaced when Istamil Corelanya watched his older brother Ryethamil become kinlord. Istamil was a proud and charismatic noble, a great warrior popular in both the College of Rituals and the College of Sea and Sword. He dreamed of new conquests on far shores, a return to the glory days of Clan Corelanya in Hammerfell.  
-  
-Kinlord Ryethamil, on the other hand, was quiet and studious, a leader in the College of Tomes. He was a cautious ruler who checked his younger brother’s ambitions, preferring to serve as a steward for what he had inherited rather than seek to add to his dominions. For years the rift between the brothers grew, until at last in 1E 2631 Istamil moved against his brother. He maneuvered Kinlord Ryethamil into a duel, killed him, and took power.  
-  
-As kinlord, Istamil proved to be a tyrant. Many in Sunport were shocked by his act of fratricide, and from the beginning several colleges opposed him. Kinlord Istamil responded by repressing those who defied him, and civil war broke out in Sunport. By 1E 2633, only the College of Rituals supported him, and Istamil faced defeat. He retreated to the dark fortress of Mor Naril in the east, and there sought the patronage of Molag Bal to crush his enemies.  
-  
-Terrible Daedric monsters and foul necromancy were unleashed on those who opposed the kinlord. Many valiant Corelanyas—and not a few Argonians who chose to take up arms against the tyrant—fell in those dark days. Istamil’s victory seemed inevitable. But his cousin Vinutilmo Corelanya, a devout knight and humble scholar, arose to lead what remained of the opposition.  
-  
-Guided by dream-visions, Vinutilmo sought the aid of the Daedric queens Azura, Meridia, and Nocturnal. They joined together to check the power of Molag Bal, giving Vinutilmo the opportunity to penetrate the dark defenses of Mor Naril and confront Kinlord Istamil. In the Temple of the Final Dark, Vinutilmo slew the tyrant and put an end to his alliance with the Lord of Brutality.  
-  
-Giving reverence to the Three Queens who aided him, Vinutilmo sealed the gates of Mor Naril and led his forces away from the dark temple. Many among his followers urged him to take the title of kinlord, but Vinutilmo refused. Instead, he asked to be recognized as regent, one who ruled not through his own authority but as a steward of the power with which he had been entrusted.  
-  
-Following Vinutilmo’s example, all Corelanya leaders since have likewise taken the title of regent instead of kinlord or kinlady. We have also followed his pious example, eschewing the dark powers among the Daedra and placing our trust in the Three Queens who guide and protect us. The Queens willing, it will always be so for our people.  
-  
-And so we come to an end of my account of ancient times. Quite a few things have, of course, transpired on Solstice since 1E 2633: chief among them the arrival of settlers other than High Elves, including Nords, pirates, shipwrecked merchants, and more. Yet these events seem to fall within the normal ebb and flow of history’s tides, as our Argonian neighbors might say. Someday I hope to add another part to this history. But if that is not the future the Three Queens have in mind for me, then perhaps another Corelanya will finish my work. And perhaps even look back in wonder at the times I lived through, as well.
+ 모든 문의는 야를 모린에게 전해 주십시오
 
-[출처](https://www.imperial-library.info/content/history-of-clan-corelanya)
+[출처](https://www.imperial-library.info/content/archery-competition-0)
 
 ---
 
-## History of House Dufort
+## 권리를 잃은 자들에게 바치는 송가
 
-ID: ext-435c2bf9645bb9c7dd67
+ID: ext-02b1cda9a8cd03ac640f / ESO 책 ID: 6751 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-By Kaera Metrick, House Historian and Chronicler  
+우리는 언제나 왕관을 따르노라  
+우리가 지키는 협약을 위하여.  
+우리의 말들이 여기서 무너졌고,  
+한 군대가 최후를 맞았다.  
   
-How does a family rise from meager beginnings to become a powerful noble house among the Bretons? In this rare case, it was through loyalty, shrewd practices, and above all, patience.  
+다음번엔 머리를 쓰리라,  
+그리하여 지도를 핏빛으로 물들이리라.  
   
-Records and oral traditions in the family indicate that House Dufort’s history began in Camlorn around 2E 70. They were a minor family with no ties to nobility. Justin Dufort was the rare young man born as a farmer but displaying a natural skill toward martial endeavors. The family scraped together enough gold to convince a knightly order to take him on as a squire. Justin proved himself and earned the rank of knight, performing countless feats of valor and bravery. One such feat was rescuing the daughter of Camlorn’s duke from bandits who hoped to reap a rich ransom. Instead, they fell to Justin’s sword, earning the knight the favor of the duke and a small fortune in gold as thanks for saving his beloved daughter.  
-  
-From that point forward, the family’s influence grew. In 2E 125, Ylbore—grandson of Justin—traveled to the Systres Archipelago. By this point, Dufort was known as a prosperous merchant family seeking to turn their fortune in a new direction. Ylbore’s instinct panned out as trade between Tamriel and the Systres Archipelago grew. His wealth increased enough that he was able to send for the rest of his siblings. In short order, the Dufort family became known as a premier shipbuilder, refurbishing facilities that had fallen into disuse after the creation of the All Flags Navy.  
-  
-As time passed, the two great families of the archipelago, Dufort and Mornard, worked together to turn High Isle into a thriving settlement. Thanks to Dufort ships, Mornard trade flourished into a vast network with operations in every significant Tamrielic port from Northpoint to Falinesti, as well as in Summerset. As Mornard influence grew, officials back in High Rock decided that the Systres needed legitimate noble claims to truly prosper. It was decreed that House Mornard would be awarded the duchy, and House Dufort would be given a barony and be subordinate to Duke Mornard.  
-  
-With the rise to nobility, both houses prospered. House Mornard’s wealth increased as new mines were opened on Amenos and new trade routes were developed between the archipelago and the mainland. House Dufort, meanwhile, provided the fast ships Mornard required to get their goods from market to market, and even secured a contract to provide warships for High Rock.  
-  
-Over the intervening years, however, while the two houses remained connected due to their integrated business concerns, the friendly partnership developed into a rivalry as they settled into their places in the noble hierarchy. More often than not, House Mornard would exert influence and control over House Dufort, taking advantage of their dukedom to lord over the other’s barony. Some say this change in temperament between the houses was due to the actions of Baron Densil, also known as the Mad Baron, but no historical evidence exists to verify the claim.  
-  
-Of course, all this changed when House Mornard threw its support to Ranser during the incident that has come to be known as Ranser’s War. In backing the traitor Ranser’s claim to power, Duke Avrippe Mornard earned the hatred of Wayrest. High King Emeric seized many of Mornard’s holdings and transferred control of the Systres Archipelago to House Dufort, trusting their loyalty and shrewd practices to keep the isles running smoothly. Mornard was reduced to a count, and moved its base of operations from High Isle to Galen and the city of Vastyr.  
-  
-Now, under the watchful eyes of Duchess Elea, the Systres Archipelago experiences an era of wealth, safety, and prosperity unseen since the time of the All Flags Navy. And it’s all thanks to House Dufort and the wisdom of the duchess.
+The Disenfranchised(권리를 빼앗긴 자들)
 
-[출처](https://www.imperial-library.info/content/history-house-dufort)
+[출처](https://www.imperial-library.info/content/ode-disenfranchised)
 
 ---
 
-## History of House Mornard
+## 궐기하라!
 
-ID: ext-52a2e93ea986be90c6d4
+ID: ext-d7aa9653f260d94e57ea / ESO 책 ID: 1303 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-A complete and factual recount of the history of House Mornard, as researched by Dorothea Errard on behalf of House Dufort and the Errard libraries.  
+우리 북쪽 동굴에는 고블린이 들끓는다. 놈들은 밤이면 마을로 숨어들어 식량과 가축은 물론 사람까지 훔쳐 간다.  
   
-If you ask any member of House Mornard about their family and the history of the Systres Archipelago, they will happily inform you of their family’s journey across the sea, the great rise in their mercantile prospects, and their prowess in overseeing Amenos, the most dangerous of islands. They do not mention their own house’s past leadership of the archipelago or their fall from grace. This is the full history of House Mornard.  
+저 더러운 고블린에게 칼날을 겨누어라. 그리하면 보상을 받으리라!  
   
-Prior to their arrival in the Systres, the Mornards controlled a valuable stretch of land between Wayrest and Evermore, known for its rich veins of high-quality metals and precious stones. Mornard prospectors often crossed the Bjoulsea River to exploit the Dragontail Mountains’ bounty of ore, as well—an underhanded practice that earned them no friends in Hammerfell. Even so, the rulers of Wayrest profited from the arrangement and did little to interfere with it.  
+촌장 보섹이 머지않아 처치한 고블린에 현상금을 내걸 것이다. 부를 거머쥘 기회가 바로 이것이다!  
   
-When the Akaviri Potentate came to power in 1E 2920, the Mornards wasted no time in establishing a closer relationship with Cyrodiil. Mornard coin-barons helped settle Reman accounts in High Rock, which amounted to thousands of gold pieces in Imperial taxes. While many noble houses resented this, they also saw the utility of closer ties with the Empire. Wayrest, in particular, indulged the Mornards’ schemes and leveraged the family’s connections with Versidue-Shaie’s regime to secure valuable trade deals all across western Tamriel. When the Akaviri Potentate began seizing errant states and territories in High Rock and beyond, the Mornard family was there to assist and profit.  
+덧붙임: 촌장 보섹께 현상금에 관해 묻지는 마십시오. 준비가 되는 대로 저희가 알려 드리겠습니다.  
   
-In 2E 110, a major portion of the Mornard mercantile family left the mainland to establish operations in the Systres Archipelago. A family patriarch was actually named to serve as an Imperial governor shortly thereafter, earning the post on the reputation and favor curried back in Wayrest and Cyrodiil. Fifteen years later, when the Dufort family arrived and started building ships, the two mercantile empires grew side-by-side as the islands prospered. In time, both were granted titles of nobility, with House Mornard taking the dukedom and House Dufort gaining a barony.  
+— 필경사 니콜라드(Nicolard)  
   
-Once House Mornard gained oversight of the archipelago, they increased their own wealth and power a thousandfold. Already operating mines on Amenos, the duke awarded his house exclusive mining rights to the island and also took control of the prison facilities located there. The partnership turned into a rivalry between Mornard and Dufort as Mornard’s power and influence grew.  
+<공고문 아래 낙서가 휘갈겨 있다>  
   
-The two prominent houses of the archipelago struggled for hegemony for centuries, with Mornard always staving off Dufort’s efforts through their close mainland relationships and their essential role in the supply chain of High Rock. It wasn’t until Duke Avrippe Mornard bungled the archipelago’s response to the Knahaten Flu in 2E 562 that a chink appeared in the house armor. He compounded that failure by allying with King Ranser during the struggle between Shornhelm and Wayrest in 2E 566. As a result, High King Emeric stripped Avrippe and his house of their dukedom, reducing their rank to count and leaving them with only their mining concerns, their trade routes, and administration of the prison isle of Amenos.  
-  
-Now Count Leonard Mornard oversees house concerns from their estate in Vastyr, on the island of Galen. The house’s wealth remains strong and they retain some level of influence, but they continue to chaff under the rule of House Dufort. The Mornards may never regain their former station in the Systres, as Duchess Elea rules justly and well from Gonfalon Bay. Under House Dufort’s attentive eye, all Systreans have good reason to expect a brighter future!
+몇 년이나 고블린을 잡았건만 한 푼도 못 받았다. 보상을 요구해 봐라, 손가락이 날아갈 테니!
 
-[출처](https://www.imperial-library.info/content/history-house-mornard)
+[출처](https://www.imperial-library.info/content/call-action)
 
 ---
 
-## History of Lep Seclusa
+## 귀족의 계급과 칭호
 
-ID: ext-950af612d01a3af89a06
+ID: ext-d31798805bd47afd1b4b / ESO 책 ID: 7121 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Account written by Mentor Todwafia  
+계급과 칭호에 관한 시스트레스 안내서  
+나비어 성의 집사, 허시안 지음  
   
-2E 430 was a year of much upheaval. Emperor Savirien-Chorak and his kin were snuffed out like candles in the night. The lives of those who depended on the Empire for safety suddenly faced fear. The Empire of Cyrodiil grew and fell, governed by pretenders to the throne. Tamriel never again knew steady footing.  
+한 달 뒤, 엘레아 공작부인 각하께서는 저명한 자선가 바카로 볼로루스 경과 상의하시어 외교 회의와 정상회담을 위해 수많은 외국 고위 인사를 하이 아일로 맞이하실 것이다. 이 인사들이 브레튼 귀족의 관습을 온전히 유해하지 못하리라는 것은 의심할 여지가 없다. 이러한 상황에서 예법을 어기는 일은 흔하며, 또 그럴 만도 하다. 각하를 섬기는 종자로서, 우리 섬의 손님들이 복잡한 귀족 서열을 헤쳐 나가고 올바른 호칭을 쓰도록 돕는 것이 너희의 임무다. 안내가 필요한 모든 방문객에게 이 간단한 참고 자료를 나누어 주도록 하라.  
   
-It was in this time that a small faction of Moth Priests led by the wise and gracious Natalo Galenus wrote their pleas and sent them by swift and secret courier to orders of warriors far from Cyrodiil’s borders. Their letters detailed the peril and upheaval of the Empire’s collapse. The changing political landscape posed great threat to an Elder Scroll in the priests’ care. Natalo Galenus asked for help in transporting the scroll to a place where it would be protected and where his devoted priests could care for the scroll.  
+하이락에서는 하이 킹이 지존으로 군림한다. 하이 킹이나 하이 퀸께 말씀을 올릴 때, 말하는 이는 그분을 '폐하'라 칭해야 한다. 왕의 자녀인 왕자와 공주는 '전하'라 칭해야 한다. 우리의 현 군주이신 컴벌랜드 왕조의 하이 킹 에머릭께서는 웨이레스트 시에서 현명하고 훌륭하게 다스리고 계신다. 브레튼의 정치는 불쾌할 수 있으나, 우리가 사랑하는 하이 킹께서는 평민과 귀족 모두에게 두루 큰 인기를 누리신다. 그 치세가 오래도록 이어지기를!  
   
-First, their letter reached the Oathsworn, who offered the Moth Priests a cunningly forged contraption to protect the Elder Scroll in its travels.  
+하이 킹 에머릭의 영토는 공작령이라 불리는 일련의 지역으로 이루어져 있다. 공작이나 공작부인은 이 땅들을 직접 다스릴 권한을 지닌다. 고위 인사들은 공작과 공작부인을 '각하'라 칭해야 한다. 왕의 봉신으로서 공작과 공작부인은 왕의 법을 집행하고, 요구에 따라 왕실에 군대와 세금을 바친다. 그러나 모든 공작과 공작부인은 넉넉한 자치권을 보유한다. 덕분에 각 공작령마다 고유한 관습과 법을 유지할 수 있다. 우리가 사랑하는 엘레아 공작부인께서는 시스트레스 군도와 그 영해를 다스리신다. 그분을 통치자로 모시다니 우리 모두 참으로 복되도다!  
   
-Second, their letter reached the Order of the Iron Knot, who offered the Moth Priests maps of Tamriel tendered in raised paper so their sightless eyes could navigate the same famed paths the knightly order knew were secure.  
+공작령은 다시 백작령이라 불리는 더 작은 영역으로 나뉜다. 백작과 백작부인은 이 땅들의 관리자 역할을 한다. 고위 인사들은 백작과 백작부인을 '경'이나 '레이디'라 칭해야 한다. 백작의 영지는 그들이 속한 공작령에 종속되므로, 백작은 공작이나 공작부인만큼의 자치권을 누리지는 못한다. 그러나 이들은 길드와 교회, 학술 단체처럼 자칫 공작령 통치자의 관심에서 멀어지기 쉬운 곳들을 잇는 긴요한 연결고리 역할을 한다.  
   
-Third, their letter reached the Pride of Alkosh, who offered the Moth Priests weapons to arm themselves and sage council on accessing those who claim to be allies.  
+백작과 백작부인 아래로 내려가면 귀족 서열은 상당히 평평해진다. 남작과 남작부인이 그 대부분보다 위에 서지만, 이 작위에 탄탄한 토지 권리가 따르는 일은 드물다. 오히려 이는 명예 칭호로서, 귀족에게 궁정에서의 특정 특권을 부여한다. 고위 인사들은 남작은 '경', 남작부인은 '레이디'라 각각 칭해야 한다.  
   
-Fourth, their letter reached the Hel Netu, and there was nothing more we could offer the Moth Priests except our home. We could not guarantee their safety nor the safety of the scroll they carried. We could not exceed the generosity of those who responded to the plea before we did. And yet, we offered anyway.  
+끝으로, 기사에 이른다. 기사도 기사단에 입단하여 침략자와 반란으로부터 왕국을 지키는 귀족이다. 기사에게 말을 건넬 때, 고위 인사들은 '경'이나 '데임'이라는 경칭을 갖추어야 한다. 기사들은 자신이 속한 기사단이 정한 고유의 서열과 관습을 따른다. 대개 이러한 기사단은 사령관이나 기사단장이 통솔한다. 사령관이 높은 지위에 있더라도 그에 대한 경칭은 동일하다.  
   
-Later, under the cover of many nights, Natalo Galenus and a small number of Moth Priests journeyed from Cyrodiil to Hew’s Bane. We do not know why Natalo chose the Hel Netu. Moth Priests’ motives are often unknown, even to themselves. But I do know that one letter changed the purpose of our island for good. In the future, we can only ask Tava to keep the sands of our beach from abandoning us and that, one day, the meaning behind what we do will be revealed.
+이 안내서가 쓸모 있게 쓰여 가장 끔찍한 결례만은 피하게 되기를 바란다. 그러나 어떠한 상황에서든, 나는 너희 한 사람 한 사람이 각하의 신뢰에 걸맞은 태도로 처신하리라 믿는다.
 
-[출처](https://www.imperial-library.info/content/history-of-lep-seclusa)
-
----
-
-## History of Markarth: A Story in Stone
-
-ID: ext-4d3f923d1d0bec2ce8ec
-
-By Consul Cardea, the Ard’s Administrator  
-  
-The story of Markarth begins in the early centuries of the First Era, when the Dwarves settled in the area, building both above the ground and deep beneath the surface. There they established a new stronghold in the roots of Karthmad, the mountain that stands at the head of the valley of the Karth River. Over the course of many long years, the Dwarves carved the city of Nchuand-Zel from the heart of the mountain, building upward until they broke out into the sunlit world. Here, in the high valley, the Dwarves built strong defenses and great store-halls above the ground. Nchuand-Zel prospered for a time. And then, with all the other Dwemer settlements, it was suddenly abandoned in 1E 700.  
-  
-Most other Dwarven cities left empty fell into ruin. Nchuand-Zel, however, offered something that most Dwarven cities lacked: extensive fortifications and outbuildings above the ground. Within a few years of the Dwarves’ disappearance, various clans of Reachfolk began using the old Dwarven structures as shelters and strongholds in seasons of hardship. By 1E 930, the rare travelers visiting the area reported that Reachfolk occupied the ruins year-round. They called it Mar-Karth (meaning “above the Karth”), and the strongest clan-chief residing in the place was known as the ard (or “king of the fort”).  
-  
-Markarth might have remained nothing more than an occupied ruin decorated with Reachman hide tents and rough furs, but in 1E 1033 Empress Hestra ordered the legions of the Alessian Empire to subdue the Reach and add it to her dominions. Her generals made Markarth the first objective of their campaign, hurling the might of the Empire at the Reachfolk stronghold. Although the ard fiercely defended his stronghold, Empress Hestra’s legions were fresh and well-led, while the Reachfolk were disorganized and slow to unite in the face of a common enemy. Markarth fell into Imperial hands. Scores of the ard’s fiercest warriors chose to cast themselves from the walls rather than submit, staining the stone with their blood.  
-  
-During the years-long battle to subdue the Reach, the Imperial legions were often besieged in Markarth, hardly able to set foot outside its walls without hordes of Red Eagle’s rebels descending upon them. But Red Eagle never managed to dislodge the Imperials from Markarth, and by the time his rebellion ended, Markarth had taken its first steps toward growing into a city rather than a fortified camp. Until the end of the Alessian Empire, Markarth remained under Imperial control (and, by all accounts, a dismal and dangerous posting for the Imperial soldiers assigned to its garrison). During this time, many of the Dwarven storerooms were converted into halls, houses, and workshops. The city took on the appearance we know today, although no human skill could improve upon the walls and watchtowers the Dwarves had constructed.  
-  
-With the passing of the Akaviri Potentates and the general collapse of Imperial authority a century and a half ago, Markarth once again slipped into obscurity. Always restive under Imperial rule, the Reach became a place where outsiders rarely dared to travel once the Empire’s power receded. Breton barons and Nord jarls alike launched ill-fated attacks against the city of the Reach, but each time the impregnable Dwarven defenses defeated them. The foreign invaders added their blood to the grim stone of Markarth, and the Reachfolk reclaimed their independence.  
-  
-As the Reachfolk returned to their hostile ways, trade and travel between Markarth and the other cities of Tamriel dried up. Consequently, tales of Markarth’s rulers and their doings reached few outside the Reach. Yet out of this darkness erupted a storm that would shake all Tamriel to its foundations. The warlord Durcorach, the Black Drake, summoned a great horde of Reach warriors and descended upon Cyrodiil in 2E 533, seizing the Ruby Throne for his own.  
-  
-Among the many consequences of this shocking upheaval was Markarth’s return to Imperial authority—of a sort. Cyrodiil’s Reachfolk conquerors sent great amounts of plunder and captives home, and more Reachfolk than ever before sought their fortunes abroad. The road to Markarth became busy again, and a trickle of trade sprang to life along this long-shunned route.  
-  
-In the current year, the city lies under the hand of Ard Caddach, the so-called Despot of Markarth. Kin to the Longhouse Emperors of Durcorach’s line, Caddach of the Blackdrake clan was appointed Imperial governor in 2E 559 as much to keep the peace between the restive Reach clans as to rule the city. When Emperor Leovic lost his throne, Caddach set aside his Imperial title and took instead the old Reach title of ard. Without hesitation he purged all surviving Blackdrakes, securing his hold on the city against his rivals.  
-  
-It must be told that Ard Caddach executed his rebellious kin by having them thrown from the highest walls of the city, painting the ramparts with their blood—only the latest grim chapter written into the stone of Markarth.
-
-[출처](https://www.imperial-library.info/content/history-markarth-story-stone)
+[출처](https://www.imperial-library.info/content/noble-ranks-and-titles)
 
 ---
 
-## History of Necrom: The City of the Dead
+## 규범행정관의 난제
 
-ID: ext-44401fa02b5d88460630
+ID: ext-818e3a7a462930a5b91a / ESO 책 ID: 2970 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Hopefully this primer will teach you to see beyond today, to all the things the past can teach us.  
+삼막짜리 희극  
   
-THOSE WHO CAME BEFORE  
+서머셋 레퍼토리 극단이  
+자랑스럽게 선보입니다  
   
-Did you know, no one can claim to know who founded the great city of Necrom? It’s true. Necrom was a city here at the mouth of the river thousands of years ago. Long before Azura’s curse. I won’t bore you with yet another lesson about the Tribunal, but the ancient city was a thing to behold, even in those ancient days.  
+주연  
   
-The Chimer came to this region looking to make their own way in the world, to worship their own gods, who today we call the Daedric Princes. Fresh water and a defensible spit of land was the perfect spot for one of their early settlements. They built shrines to Boethiah, Mephala, and Azura, and put the many lessons they learned from their patrons into practice. As an example, they followed Boethiah’s teachings and built great wooden ramps to cross the chasm, which you can see still echoed in our marble causeways today.  
+실루스 실버, 「규범행정관」 역  
   
-Chimer culture has left behind so little we can see clearly. In the centuries after the curse, so many of our ancestors wanted to turn their backs on a past that they saw as no longer relevant to them. But here in the ancient city that became Necrom, we know that early stirrings of what would become Dunmer ancestor worship first separated from the kind that had been practiced by Altmer since before the beginning of recorded time. If Boethiah was the god-ancestor of our ancient people, it was at Necrom that our own ancestors began to rise to the fore.  
+그리고 새로이 소개합니다  
   
-DEATH AND NECROM  
+하자즈나즈, 「경박한 퍼불 다르」 역  
   
-Something about this city has always called to the dead. Even in the days of the Chimer, the writings of the time speak of how much easier it was to reach across the threshold and speak with those who had gone before. If life and death are just two parts of the same path, the ancients began to see Necrom as a waystation on that long and twisting road.  
-  
-The ability to look inward, to see the merits of a family or clan’s ancestors and elevate them for their triumphs even beyond death, was a fundamental turning point for our people. This was, no doubt, happening across Chimer culture. After all, Boethiah made for a strong role model. But it was here at Necrom that veneration of a specific family’s slain kin became part of everyday life. I read an old story once about a family losing track of a tome that a dead relative had loved in life. They went to speak to his shade simply to discover where he had left it!nnAn amusing tale, but written for a purpose. The dead and the living both call Necrom home.  
-  
-THE CITY AND THE CITY  
-  
-After Azura’s curse and the disappearance of the hated Dwemer, Necrom became a fixture in Dunmer culture that spread to the edge of the Ashlands. While cities of the dead can be found from Ebonheart to Vvardenfell, for centuries now Necrom has been “The” City of the Dead for our people as a whole. Whether they’re from a Great House or a small clan, rich or poor, renowned or unsung, penitents are welcome with open arms in Necrom.  
-  
-You must see the city on festival days. The columns of mourners stream across every causeway, in some cases clogging the road from here to Bal Foyen. Incense fills their air in great plumes that rise to the sky, and the dead line the streets in great numbers to pay homage to the living as the living pay homage to the dead. It is quite a sight.  
-  
-As you might imagine, living among the dead in this way has led to a unique outlook here within our precious white walls. Pay great respect to any departed you see walking the city streets, of course. Pay no mind to the hawkers and liars who clog the courtyards with claims to know the deepest secrets of those who have gone before. And if you hear a Necrom street artist tell a joke with a bit of a morbid edge to it, forgive them. Death is all around us, and that changes a person. Perhaps it will even change you!  
-  
-BEYOND THE PACT  
-  
-Which, of course, brings us to today. When the Ebonheart Pact was formed and the Telvanni magisters refused to join the grand alliance, the Three wisely made a move to secure peace and security for the City of the Dead.  
-  
-By setting it aside and allowing us to govern ourselves here in this “neutral” land, they ensured that all our people could continue to make the great pilgrimage. That no High Elf mistrust or Breton imperialism would close our gates or burn our temples.  
-  
-Necrom stands alone, yet is also stands with us all.  
-  
-And as we say to all who cross the causeway: Don’t be surprised if you leave something of yourself behind in the city, even as you take something of the city with you when you depart.
+제2시대 578년, 비의 손 첫 프레다스에 막을 올립니다!
 
-[출처](https://www.imperial-library.info/content/history-necrom-city-dead)
+[출처](https://www.imperial-library.info/content/cannonreeves-conundrum)
 
 ---
 
-## History of Pellitine: An Overview
+## 규약와 손아귀
 
-ID: ext-e1cc1fbadea9fe818f4e
+ID: ext-b31adb1533e175ae8687 / ESO 책 ID: 6576 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-By Sulema, Initiate Scholar of the Pa’alatiin  
+필멸자를 위한 입문서, 갈레리아 헥소스 지음  
   
-With reverence for the experiences of those who came before us. May any sacrifices you made for the greater good be respected by those who follow.  
+필멸자 동료 여러분, 파그레이브에 오신 것을 환영합니다! 아시다시피 헥소스 가문은 여러 세대에 걸쳐 이 기이하고 위험천만한 영역에 발을 디뎌 왔습니다. 우리는 수없는 좌절과 실수를 통해 이곳의 규칙에 관하여 적잖은 것을 깨우쳤습니다. 우리 파그레이브 엠포리움에 배속된 것은 더없는 기회이지만, 동시에 위험한 일이기도 합니다. 이 소책자는 여러분이 부유하면서도 무사한 몸으로 탐리엘에 돌아갈 가능성을 높이려는 데 그 목적이 있습니다.  
   
-As this one noted in her introduction to Anequina and Pellitine, we must work with a lot of unconscious biases of the non-Khajiit when it comes to building any historical work on Elsweyr using non-Khajiit sources. When the base language of a people differs from your native tongue, one misses nuance. This one would say the same for herself were she writing a history of, say, Murkmire, using translations of native Argonian lore. No language can be translated on a one-to-one basis given that words represent symbols of a thing, not the thing itself. And symbols often have tonal and emotional color: People fight for symbols; they die for symbols. They do not fight and die for a mere scrap of colored fabric but for what that fabric symbolizes to them.  
+명심하십시오. 파그레이브는 처음엔 사람을 압도할 수 있습니다. 인간이든 머든, 이곳의 모든 것이 어딘가 그릇되어 보입니다. 하늘은 기이한 빛깔입니다. 여러분이 사악함의 산 화신이라 여기는 존재들이 거리를 활보합니다. 우리가 당연하게 여기는 법과 관습은 이곳에 존재하지 않습니다. 그리고 여러분이 전혀 알지 못하는 규칙을 어긴다면, 육신과 영혼 모두에 끔찍한 위험이 도사리고 있습니다.  
   
-That noted, this one shall start the history of the area now called Pellitine with the sixteen clans of the Khajiit and their ruler, the Moon-Emperor. During those days, the province now known as Elsweyr was open to all sixteen clans, and many roamed as they needed to perform the function they took on under the Moon-Emperor’s auspices. Some functions required stable physical locations, such as ship-building yards and moon-sugar farming, so some clans formed permanent settlements to cater to such activities.  
+규약  
+파그레이브에서 헥소스 가문이 벌이는 사업은 규약의 존재에 기대고 있습니다. 이 데이드라 협정은 파그레이브가 갖가지 종류의 데이드라에게 중립 지대로 기능하도록 규칙과 합의를 마련해 줍니다. 그리고 규약의 조항 덕분에, 그 똑같은 중립성이 어찌 된 영문인지 필멸자에게까지 미칩니다. 규약이 없다면, 여러분이 도시 거리에서 마주치는 데이드라는 누구든 변덕에 따라 여러분을 노예로 삼거나, 고문하거나, 그저 집어삼킬 수 있을 것입니다.  
   
-The name Pellitine comes from the clan of Moon-Priests named Pa’alatiin, in Ta’agra. The reasons for this name’s rise to prominence over the years vary, but until the Thrassian Plague in 1E 2260, Pa’alatiin was simply a clan name, not the name of a geographical region, as the Moon-Priests lived among the people of all clans. The plague hit so hard, however, that clan structures crumbled in the south. Senchal, which had already started shifting in its social systems due to the influence of the Bretons and Imperials who came to its port, led the way in the aftermath of this illness. How? Simply by example and proximity.  
+(물론 그들 모두가 그러지는 않습니다. 많은 데이드라는 대단히 지적이며, 좋은 거래 관계를 유지하는 일의 가치를 압니다. 다만 그저 겉만 보아서는 그중 누가 여러분을 해치려 들지 알 길이 없습니다.)  
   
-The clans within the south at that time, seeking succor from the devastation of the plague, assembled on Senchal, the largest town at that time. Moon-Priests of Pa’alatiin also congregated in the town, seeking to provide what aid they could. Mix that with the social strata that had formed among those living in Senchal, and everything changed. Senchal’s way of living imprinted itself on the Khajiit coming in from other areas, and when order slowly restored itself, these Khajiit returned to their lives changed.  
+파그레이브에 발을 들이는 데이드라는 누구나 규약에 매이기로 동의하며, 말 그대로 이를 어길 수가 없습니다. 그 협정에는 귀속력이 있습니다. 파그레이브의 여러 구역 전체가 중립 지대로 지정되어 있으며, 그 구역 안의 데이드라는 대개 규약을 어기지 않고서는 다른 존재를 해칠 수 없습니다. "대개"라고 말씀드린 까닭은, 경계를 늦추는 자에게는 치명적일 수도 있는 예외가 있기 때문입니다.  
   
-This turning point, where the northern Khajiit adhered even more strongly to their clan ties, while the southern Khajiit started forming a more class-based society, also created a strong division between north and south that we still see today.  
+-	해를 입어도 좋다고 스스로 동의한 존재는 규약의 보호를 받지 못합니다.  
+-	공격받았거나 특정한 방식으로 모욕당한 데이드라는 자유로이 스스로를 지킬 수 있습니다.  
+-	파그레이브의 어떤 구역(경우에 따라서는 특정 건물이나 방)은 중립 조항의 보호를 받지 않으며, 여러분이 보호받지 못하는 곳에 발을 들였는지 알아챌 방법이 없습니다.  
+-	데이드라는 여러분을 마음껏 호도할 수 있습니다. 이를테면 여러분이 규약의 중립성으로 보호받는 구역을 벗어나는 순간에도, 데이드라는 짐짓 그 사실을 일러 주지 않을 수 있습니다.  
   
-Over time, the southern Khajiit rebuilt ruined structures, re-established trade routes with other peoples, and started thriving again. Senchal became the focal point of the south, both as a busy trading port and as the center of all customs and traditions that the southern Khajiit held dear. Additionally, Imperial ties strengthened to the point where the Potentate Versidue-Shaie took up residence in the Senchal Palace. So it came as an unpleasant surprise to some when Eshita, the ruler of Pellitine in 2E 309, married Keirgo of Anequina. Many in Senchal were aghast at the temerity of their civilized ruler marrying a barbarian of the north. The tribes of Anequina felt similarly betrayed. Yet, it happened, and the rulers worked to join their kingdoms together. But it was the Mane, Rid-Thar-ri’Datta, who quelled the unrest and instituted a power-sharing system between the tribes and the nobility based on the phases of the Moons.  
+우리는 안전하다고 알려진 구역을 알리고자 최선을 다합니다. 그러나 우리의 조언과 지시에 주의를 기울이지 않는 가신들을 한 주기마다 잃고 있습니다. 파그레이브에서 안전이 어디서 시작되어 어디서 끝나는지를 함부로 짐작하지 마십시오.  
   
-Then, in 2E 324, an assassin killed the Potentate while he was in residence at the Senchal Palace, scrawling the words “Morag Tong” in the Versidue-Shaie’s own blood on the wall. Some claim that was an effort to mislead, while others believe firmly that the assassin was a member of the Morag Tong. Whatever the case, Imperial ties with the Khajiit became strained.  
+중립 조항을 제외하면, 규약은 대체로 파그레이브에서 데이드라가 다른 데이드라와 관계 맺는 비술적이고 세세한 사항을 다룹니다. 그것은 기상천외하게 복잡하며, 우리가 아는 한 그 전모가 온전히 어딘가에 기록된 바도 없습니다. 파그레이브에서 사업을 벌인 지 이백 년이 넘었건만, 우리는 지금도 우리 엠포리움 운영에 영향을 미치는 새로운 규칙들을 발견하고 있습니다. 바로 그 대목에서 손아귀가 등장합니다.  
   
-Tensions mounted until, in 2E 326, Khajiiti rebels slaughtered most of the royal dynasty. At that point, the two lands drew apart again, both writing statements of blame over the incident (see, for reference, the pamphlet entitled “Northern Barbarian Betrayal!” wherein an anonymous author claims the “bloodthirsty” Ne Quin-al clan brought about the demise of the royal line).  
+손아귀  
+손아귀란 규약의 규정에 따라 임명된 데이드라로서, 분쟁의 중재자 노릇을 하며 주어진 상황에 그 비술적 규칙들 가운데 무엇이 적용되는지를 판가름합니다. 그들은 치안관이 아닙니다 — 적어도 다른 데이드라에게는 말이지요. 규약이 어느 데이드라에게 적용되면, 그 효력과 처벌은 결코 피할 수 없습니다. 그러나 우리 필멸자는 규약에 매이지 않습니다. 그러니 손아귀의 데이드라가 필멸자가 파그레이브의 평화를 지키도록 만들려면, 물리적인 힘으로 규칙을 강제하는 수밖에 없습니다.  
   
-Despite this state of matters with their northern neighbors, Pellitine flourished and Senchal grew until another sickness ravaged the land: The Knahaten Flu arrived in 2E 565.  
+중요: 규약을 떠받치는 그들의 역할 탓에, 손아귀의 데이드라는 파그레이브의 중립 구역 안에서 상당히 폭넓게 무력을 행사할 수 있습니다. 그들은 (자기들 판단으로) 평화를 위협하는 필멸자를 제압하거나, 추방하거나, 죽일 수 있습니다. 파그레이브의 데이드라가 모두 여러분을 해칠 힘이 없다고 단정하지 마십시오. 손아귀가 지켜보는 앞에서 데이드라를 노엽게 한다면, 그들은 능히 개입할 것이고 또 그리할 것입니다.  
   
-So many died initially, especially in the Black Kiergo slums, that some tried to protect themselves by burning parts of Senchal to stave off the flu. As the fire grew, smoke killed many more in unaffected areas of the city. Many fled, only to die of starvation later as food stores ran low in the outer areas of Pellitine. Other unfortunate acts occurred, including the mysterious closure of the Topal Legionary Academy, and Southern Elsweyr stumbled for a time.  
+여러분은 손아귀를 상대하기가 까다롭다고 느낄지 모릅니다. 그들은 필멸자가 규약에 매이지 않는다는 것을 알기에, 으레 여러분이 자기들이 용납지 않을 일에 얽혀 있으리라 의심합니다. 볼일을 보러 다니는 동안 멈춰 세워지고 추궁받을 각오를 하십시오. 그리고 부정하게 얻은 물건을 손에 넣었다면, 부디 디바인들의 이름으로, 그것을 지닌 채 손아귀에게 붙잡히지 마십시오!  
   
-Now, in these troubled days, with an Imperial legion stationed in Senchal to help with restoration and recovery efforts, and a sense of self-preservation overcoming the last of the clan-oriented practices, Southern Elsweyr suffers. Let us hope that the next phase of its story proves less troublesome.
+장담하건대, 여러분은 스스로를 손아귀의 손에 내맡기고 싶지 않을 것입니다.  
+  
+다른 의문이나 우려가 있으시면, 헥소스 가문의 상관에게 문의하시기 바랍니다.
 
-[출처](https://www.imperial-library.info/content/history-pellitine-overview)
-
----
-
-## History of Senchal: An Overview
-
-ID: ext-f8142ad126976d7fe9be
-
-By Sulema, Initiate Scholar of the Pa’alatiin  
-  
-With love for those who raised this one, who succumbed to the flu. You breathed life into this one’s heart before your passing.  
-  
-For those compiling a history of the city-state of Senchal, we must rise to a series of challenges. The very nature of how Senchal came into being lies heavily within the realm of song and oral history passed among clans of Khajiit. Various calamities compound the difficulties facing a scholar researching this city, such as loss of property during various chaotic periods, which of course affected any written lore. That said, this one has found some resources that provide us with a brief overview of the history of Senchal. Given the nature of these resources, however, approach what follows with the same caution you would use when sneaking past a terror bird.  
-  
-The Formation of Senchal  
-  
-The early days of the Khajiit within the province now called Elsweyr saw them separated into sixteen different clans, each of which performed a different function. The location that is now Senchal was originally a favored landing place of the Senchal clan, who were skilled at building ships and sailing them from port to port.  
-  
-As trade increased, the Khajiit built dwellings and businesses, creating permanent structures. Fires demolished these buildings upon occasion in the early days, which led them to the use of stone. At this time, a class system started forming among the merchants, traders, and raiders. From this, the infamous Black Kiergo section of town was born (the rumored stomping grounds of Rajhin), catering to raiders and thieves, while the rest of the town had its own sections based on social status, including the home of the clan leader.  
-  
-The Thrassian Plague  
-  
-The budding city-state of Senchal continued to grow until the Thrassian Plague in 1E 2260. According to a partially burnt journal, author unknown:  
-  
-“… many dead to this Thrassian Plague, with the rest in a panic. This one thinks it best to flee, but they have closed the gates. The smuggler tunnels burn, trapping those within Black Kiergo. They will die fiery deaths, no doubt. This one hates to think of even the worst of them dying that way. This one also worries that those fires will spread to the remaining wooden structures, and then to the stone buildings. Already, this one cannot breathe due to smoke. Wet cloth over the mouth does only so much. Curse those who set those fires. They will kill those of us who don’t fall to….”  
-  
-Presumably, the author was referring to the plague at the end. And indeed, the fires spread, burning flammable objects and scorching stone. This one doubts any survived. Scattered evidence indicate that Senchal required extensive rebuilding after these fires.  
-  
-Rebuilding Senchal  
-  
-Over the next several decades, the city grew back, solidifying its social structure even as its physical structures were rebuilt. Black Kiergo remained a haven for thieves, raiders, and others who operated outside the law. The political structure for the entire region of Pellitine changed after the plague, and now the ruler of the city also ruled the region. Clan identity fell completely away and was replaced by one’s role within Senchal’s society, a change linked to both Breton and Imperial influence. Most of Pellitine’s rulers during this period focused on creating a sense of stability, sometimes at the expense of doing what some would consider to be “fair” or “just.”  
-  
-One ruler stands out due to his ties with the Imperials: King Dro’Zel. In 1E 2920, after hearing a bard tell a tale, he summoned Molag Bal to destroy the town of Gil-Var-Delle. Shortly thereafter, he became one of the new advisors to Emperor Reman Cyrodiil III. Ties to the Imperial throne strengthened until, after Reman III died, Potentate Versidue-Shaie took over the Empire. Additionally, further political change came to Senchal in the form of the marriage of Eshita of Pellitine to Keirgo of Anequina in 2E 309, forming the province of Elsweyr from their separate regions.  
-  
-Then, in a well-known story, Potentate Versidue-Shaie reportedly died at the hands of an unnamed assassin in 2E 324 in Senchal Palace, where he was residing at the time.  
-  
-Recent Events  
-  
-After the death of Versidue-Shaie, another blow landed: Khajiiti rebels slaughtered most of Elsweyr’s royal dynasty. The citizens of Senchal fell back on their now-entrenched traditions and social structures to remain resilient, and life didn’t look too different for the average person in Senchal until 2E 565, when the Knahaten Flu devastated the city.  
-  
-According to reports, this illness originated in Black Kiergo, and, as happened with the Thrassian Plague, fire was seen as the ultimate solution. Unknowingly, frightened residents repeated the same act that destroyed Senchal so many years before. Many suffered and died from the smoke and flames as well as the actual illness, and the Senchal of today remains a pale shadow of its former glory.  
-  
-Now Imperial forces reside within the city, serving as a sort of local militia, while Khajiit work to rebuild yet again. This one looks forward to seeing what comes of this mix of Khajiit and Imperial ingenuity, given the current state of Cyrodiil.
-
-[출처](https://www.imperial-library.info/content/history-senchal-overview)
+[출처](https://www.imperial-library.info/content/stricture-and-grasp)
 
 ---
 
-## History of Zaan the Scalecaller
+## 규탄의 상자
 
-ID: ext-245f0c33cf602db7b6c5
+ID: ext-92578345dfa001de1667 / ESO 책 ID: 4822 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-By Jorvuld Davaux, Dragon Priest Historian  
+경매인 포르티아의 말 인용  
+렐릭마스터 글레나디르 필사  
   
-Zaan the Scalecaller was a Dragon Priest of short life and little renown. She commanded no great battles, conquered no powerful enemies. At just a glance, one would think her unremarkable, unworthy of further inspection. Certainly that has been the viewpoint of historians up to this point, given the lack of academia written on her. However, the fact that Zaan’s story has been so ignored is exactly what makes her such a fascinating subject.  
+자, 이 아름다운 상자의 입찰을 시작하기 전에, 한 가지 경고의 말씀을 드리겠습니다. 담력이 약하신 분께는 권해드리기 어려운 물건입니다! 이 물건의 기원에 대해서는 온갖 이야기가 떠돌지만, 알려진 것은 거의 없습니다. 우리가 확실히 아는 것은 무엇이냐고요? 바로 이것이 강하게 저주받은 아이템이라는 사실입니다!  
   
-Zaan was uncommonly young when chosen by her Dragon Lord, the mighty Dovah Thurvokun. It is said that her connection to Thurvokun was particularly strong. As we know, there is much speculation on the connection between a Dragon and their chosen priest, whether it be spiritual, magical, or perhaps merely political. Whatever the case, Zaan grew a rapid and robust attachment, which her followers took as a sign of great fortune. For a decade or so, all was well.  
+자세히 들어보세요, 여러분, 귀를 기울여보세요. 들리십니까? 나지막한 신음소리, 웅얼거리는 듯한. 이건 거실 마술사의 잔꾀가 아닙니다! 안에 조수를 집어넣은 게 아니냐고요? 아닙니다. 규탄의 상자는 항상 울부짖고 있지만, 그 이유를 아는 자는 아무도 없습니다. 안에 무엇이 들어 있느냐고요? 그것도 불행히 미스터리입니다. 어쩌면 영민한 손을 가진 분이라면 봉인을 깨뜨릴 수 있을지도 모르지만, 제가 여러분의 입장이라면 추천하지 않겠습니다.  
   
-The turmoil began when Thurvokun left his temple, for reasons unknown to all but perhaps Zaan herself. By all accounts, it was this departure that led to the Dragon Priest’s steady decline into a depressive state, though it is uncertain whether this was magically or psychologically induced. This depression brought about frequent seclusion, growing into a steady isolation.  
+그러나 그게 진짜 저주는 아닙니다. 천만에요. 신음이야 좀 들린들, 뭐가 해롭겠습니까? 하지만 한동안 시간이 지나다 보면, 사람을 서서히 미치게 만드는 경향이 있답니다. 이 상자의 전 소유자들은 하나같이 얼마 지나지 않아 완전히 제정신을 잃었다고 합니다. 우리는 여기서 자물쇠를 걸어 잠그고 어떤 귀에도 닿지 않는 곳에 보관하고 있습니다. 구입하신다면 아마 같은 방식으로 보관하고 싶으실 겁니다.  
   
-Her followers slowly grew discontent, and as time went by many became mistrustful. They believed that Thurvokun had abandoned them, and saw this with the despair that we today would see the loss of the Divines. They began to accuse Scalecaller of driving him away with her weakness. When confronted with these accusations, it is said that Scalecaller made no protest. Her followers took this as admittance, and killed her in their anger.  
-  
-This leads us to Zaan’s greatest mystery. When accused by her followers, why did she not defend herself?  
-  
-My theory, though mostly speculative, is that the Dragon Priest simply was not able. The loss of her Dragon Lord had brought upon such misery that she had lost her will, or perhaps even her ability, to speak. Again, whether this was brought upon by magical means or mere psychological trauma, I am still unsure.  
-  
-I believe through studying this historical occurrence we may gain further insight into the link between Dragon Priests and their Dragon Lords. We must look past the rudimentary political aspects of such a relationship, to see what lies beyond. What precisely was this spiritual connection, so highly revered? With Scalecaller’s help, we can begin to answer that question.
+자, 그럼 입찰을 시작하겠습니다, 말하자면, 5만 골드부터 시작해볼까요?
 
-[출처](https://www.imperial-library.info/content/zaan-scalecaller)
+[출처](https://www.imperial-library.info/content/chest-condemnation)
 
 ---
 
-## History of the Dreamstone
+## 그녀는 나의 빛
 
-ID: ext-fdd4e8a6a37b3d2b9276
+ID: ext-586afdad4755d7698dc8 / ESO 책 ID: 2553 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-A brief account of the Dreamstone’s distressing history by Researcher Marenia Colus.  
+내 한 몸 아낌없이 바치리라  
+내 빛을 제물로 삼지 않는다면  
+사랑이란 무엇이란 말인가  
   
-The Dreamstone stands as an incredibly mysterious and strange object. No documentation exists regarding its discovery—only a line in an inventory sheet that announces its inclusion in the vault of magical items in Davon’s Watch. Without provenance, we can only assume that it was secretly included in the vault with the hope that no one would notice or mark its location. For a variety of reasons—not at all limited to the innate curiosity of those in the Mages Guild—the Dreamstone did not remain unstudied for very long.  
+나는 그 누구보다 밝게 빛나니  
+그녀는 내 빛을 가장 먼저 거두어 가리라  
+나는 저들보다 많은 빛을 지녔노라  
   
-According to our records, Nanurlemil wanted insight into his hypothesis that learning and course work could be conducted in sleep. If this were the case, then unconscious classes of students could continue to practice and think on their lessons during all hours of the day and night. It took four days before Nanurlemil was discovered in an untethered state. He did not live long after that.  
-  
-A decade or so later, Alflyne was assigned to study the Dreamstone. She never got a chance to record any observations on the object, as she died that very same night.  
-  
-Between Nanurlemil and Alflyne’s short tenures with the Dreamstone, three vaultmasters relinquished their positions, claiming an inability to sleep and a newfound aversion to any and all magical items. While their sleeplessness was dismissed as a symptom of stress, the thaumaphobia—as it was so termed—was more than a little distressing. It then became standard practice for all vaultmasters to ward themselves against hostile magics. This practice continues to the present day, even though no one has determined if the ward provides any genuine protection.  
-  
-Glaumanion, the next mage to lay hands on the Dreamstone, went insane. She spent the rest of her days in an asylum, spitting out verses of nonsense and proclaiming the end to the waking world. She was the first recorded mage to come in contact with the Dreamstone to say the name “Ansuul,” which signified a breakthrough in the Dreamstone studies.  
-  
-After Glaumanion came Owai-Naat, Edreld Palielle, Kuzam, and Sloaalon, who studied the Dreamstone together. They managed to withstand what we now know as Ansuul’s influence for a number of seasons before eventually succumbing in their own ways. The important aspect of this group study was that it proved which wards worked in order to contain Ansuul and deflect her influence. It seemed as though the group would persevere and render Ansuul harmless, but their efforts eventually failed and Ansuul claimed their minds. Details aren’t important or necessary, but I should say that Ansuul the Tormentor—as she’s now called—drove Edreld Palielle to rend and consume his companions.  
-  
-After the failed group studies, the Dreamstone was returned to a deep and dark corner of the vault. It rests in a heavily warded container covered with warnings. Anyone who wishes to study the object does so at their own peril.
+그녀는 나의 빛이니  
+<<1>>이여  
+이리 와 내게서 빛을 거두어 가오
 
-[출처](https://www.imperial-library.info/content/history-dreamstone)
+[출처](https://www.imperial-library.info/content/she-my-light)
 
 ---
 
-## History of the Fighters Guild, First Edition
+## 그들의 귀환을 두려워하고 대비하라
 
-ID: ext-302ad6deea47bfd2dac9
+ID: ext-255b086294171f3d3d5f / ESO 책 ID: 5480 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-In the 283rd year of the 2nd Era, Potentate Versidue-Shaie was faced with a disintegrating empire. The vassal kingdoms throughout Tamriel had reached a new height of rebellion, openly challenging his rule. They refused his taxes and led sorties against the Imperial garrisons throughout the land. At the destruction of his fortress in Dawnstar, he gathered the Imperial Council in what would be called the Council of Bardmont, after the town south of Dawnstar where they met. There the Potentate declared catholic and universal martial law. The princes of Tamriel would dissolve their armies or face his wrath.  
+카 브레시 호카이 데루 수웅  
   
-The next thirty-seven years were perhaps the bloodiest in the violent history of Tamriel.  
+ 여명의 시대로부터 드래곤은 사라졌으니  
+ 그들의 귀환을 두려워하고 대비하라  
   
-In order to crush the last of the royal armies, Versidae-Shaie had to sacrifice many of his best legions, as well as spend nearly every last piece of gold in the Imperial treasury. But he accomplished the unthinkable. For the first time in history, there was but one army in the land, and it was his own.  
+ 고통을 견디도록 몸을 단련하고  
+ 명확함을 얻도록 마음을 갈고닦으며  
+ 승리를 위하여 영혼을 드높여라  
   
-The problems that immediately surfaced were almost as staggering as the triumph itself. The Potentate had impoverished the land by his war, for the vanquished kingdoms had also spent the last of their gold in defense. Farmers and merchants alike had their livelihood ruined. Before the princes of Tamriel would not pay his taxes – now, they could not.  
-  
-The only persons who benefited from the war were criminals, who preyed upon the ruins of the lawless land, without fear of arrest now that all the local guards and militia were gone. It was a crisis the Akavir had seen coming long before he destroyed the last of his subjects’ armies, but for which he had no solution. He could not allow his vassals their own armies again, but the land was deeper into the stew of anarchy that it had ever been before. His army sought to fight the rise of crime, but a central authority was no threat against the local underworld.  
-  
-In the dawn of the year 320, a kinsman of Versidae-Shaie, Dinieras-Ves “the Iron”, presented himself with a host of companions before the Potentate. It was he who suggested an order of mercantile warriors-for-hire, who could be hired by nobility in lieu of a standing army. The employment would be temporary, and a percentage of the fee would go to the Potentate’s government, thus putting salve on two of Versidae-Shaie’s greatest pains.  
-  
-Though it was then called The Syffim, after the Tsaesci word for ‘soldiers,’ the organization that was to be known as the Fighters Guild had been born.  
-  
-Dinieras-Ves “the Iron” initially believed that the entirety of the order should be composed of Akaviri. This belief of his is not disputed by any historian, though his motivation is often debated. The traditional, simple explanation is that he knew his countrymen well, trusted them, and felt that their tradition of fighting for profit would be of use. Others believe, with reason, that he and the Potentate sought to use the order to effectively complete the conquest of Tamriel begun over five hundred years earlier. When Akavir attacked Tamriel in the 2703rd year of the 1st era, they had been beaten back by the Reman Dynasty. Now they had a Potentate on the throne, and with Dinieras-Ves’s machinations, the local armies would also be Akaviri. What they had failed to do by combat, they would have successfully accomplished by patience. A traditional strategem, many scholars suggest, of the immortal snake men, the Tsaesci of Akavir, who always had time on their side.  
-  
-The point, however, is largely academic. Though the Syffim did establish themselves in some kingdoms neighboring Cyrodiil, it became quickly apparent that local warriors were needed. Part of the problem was simply that there were not enough Akaviri for the work that needed to be done. Another part was that the snake men did not understand the geography and politics of the regions they were assigned.  
-  
-It was evident that some non-Akaviri were needed in the Syffim, and by the mid point of the year, three Nords, a warrior-sorceress, a rogue, and a knight were admitted into the order.  
-  
-The knight, whose name has been lost in the sands of time, was also a great armorer, and probably did more to strengthen the organization than anyone but Dinieras-Ves himself. As has often been stated, the Akaviri, particularly the Tsaesci, understood weaponry better than armor. Even if they could not wear it themselves, the knight was able to explain to the other Syffim what the weaknesses were in their opponent’s armor, explaining to them how many joints there were in a pauldon and a grieve, and the differences between Aketons and Armkachens, Gorgets and Gliedshrims, Palettes and Pasguards, Tabards and Tassettes.
+ 카 브레시 호카이 데루 수웅
 
-[출처](https://www.imperial-library.info/content/history-fighters-guild-first-edition)
+[출처](https://www.imperial-library.info/content/dread-their-return-and-prepare)
 
 ---
 
-## History of the Handfast
+## 그랜드 오라토리 단서
 
-ID: ext-39c1616efbcdd9afd583
+ID: ext-831a82d119b9ae81e976 / ESO 책 ID: 7297 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Tooth and claw  
+스트로스 므카이로  
+이제 그대 배를 띄우라.  
   
-Blood enflamed  
+태양을 노래하는 하늘  
+모진 섬의 거센 바람 속.  
   
-Chaos rules  
+기둥의 그림자 아래  
+수평선을 바라보며.  
   
-A race defamed.  
-  
-Stories lost  
-  
-In history foul  
-  
-Generations lost  
-  
-In a werewolf’s howl.  
-  
-But a god’s compassion  
-  
-And a hero’s soul  
-  
-Fought twisting form  
-  
-Upon ancient soil.  
-  
-The cause seemed lost  
-  
-In hope so lean  
-  
-Until woman enter’d  
-  
-Clad all in Green.  
-  
-Hero and Lady  
-  
-And god alone  
-  
-Fought with muscle  
-  
-Blood and bone.  
-  
-The race so saved  
-  
-From bestial ire  
-  
-Oathbreakers sent  
-  
-To sleep in mire  
-  
-Hero and Lady  
-  
-Will forever last  
-  
-Joined together  
-  
-By great handfast.
+여기 그대의 카드가 있으니  
+달변의 힘이라.
 
-[출처](https://www.imperial-library.info/content/history-handfast)
+[출처](https://www.imperial-library.info/game-books/elder-scrolls-online-books)
 
 ---
 
-## Hlaalu Letter of Complaint
+## 그레이 패시지
 
-ID: ext-643187cc3157cc6954e7
+ID: ext-d07af3a262e2f3dd592b / ESO 책 ID: 2726 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Most esteemed Minister Tharyon, House Redoran,  
+노래하라, 오 별들이여, 만인의 가슴에 깃든 영광을. 호시벤의 돌 아래, 그리고 오래전 꺼진 사르헤딜의 화장단 아래에서, 그들의 수고가 마침내 목적과 영광을 얻게 하라. 알지어다, 오 순례자여, 별들의 미덕을. 모든 위대한 행적은 축복을 갈구하나니. 별들이 정의로운 자를 그레이 패시지를 지나, 상부 크라그론의 동굴을 지나 인도하여, 기도의 표식과 그 명을 찾게 하라.  
   
-I write to you on a matter of grave importance. My office has received an ever-increasing number of complaints in recent weeks. Many of our House Guests have experienced poor treatment at the hands of House Redoran bailiffs and constables. As you well know, House Hlaalu is duty-bound to address these grievances on their behalf.  
-  
-My dear minster, while I share your belief in the superiority of the Dunmer people, we must try to keep such opinions to ourselves. House Hlaalu defers to House Redoran on matters of defense; I would urge you to defer to us on matters of commerce and diplomacy.  
-  
-Our economy is in peril. The Pact has brought us some measure of security, yes, but the cost has been dear. Dearer than I think your Redoran kinsmen are willing to admit. My trade ministers have gone to great lengths to solidify our holdings outside Morrowind. While the enemy has seized most of our extraterritorial property, we retain sizable assets in Imperial bourses and foreign business concerns. Extracting this wealth is no small task. It takes time, gold, and most importantly, connections. We can ill-afford to alienate what few friends we have outside the Pact.  
-  
-Just this morning I received a complaint from one Theodric Ashcroft—a respected Breton investor. Apparently he was accosted by a pair of constables. while inspecting a potential construction site. Some minor religious infraction, I’m told—stepping over a fence to get a better look at the property, or something? According to Ashcroft, the constable forced him to the ground, dragged him to the Temple, and turned him over to the Ordinators, who subjected him to no less than three hours of interrogation and corporal reeducation. Needless to say, he will not be investing in our fair city. Both Ashcroft and his gold fled to the mainland.  
-  
-These people may be inferior, their religions may be repugnant, their manners may be tiresome. But for the love of the Three, swallow your pride and bear it! Idle zealotry cannot put food on the table. We cannot fill our coffers with incense and prayer and expect to wage war effectively. Interprovincial commerce is a necessary evil, whether you like it or not. I urge you in the strongest possible terms—leave outsiders be. I hope this will be my final word on the subject.  
-  
-Yours most respectfully,  
-  
-Tirnur Nalyn, House Hlaalu Deputy Trade Viceroy
+별들에 귀 기울이라, 오 순례자여, 그리고 그들의 시련에 나서라. 돌에 새겨진 여섯 미덕을 찾아 구하라. 명 하나하나를 고귀한 마음으로 받들고, 더없이 빠르게 돌아오라. 오직 신속하고 의로운 자만이 천상의 호의를 받으리니.
 
-[출처](https://www.imperial-library.info/content/hlaalu-letter-complaint)
+[출처](https://www.imperial-library.info/content/gray-passage)
 
 ---
 
-## Hoglund’s Contributions to Nordic Profanity
+## 그리폰 분석의 인장
 
-ID: ext-852dfaa42990078217ff
+ID: ext-c52bb44470bffc44e431 / ESO 책 ID: 8211 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-By Nafuudoril, Adjunct Linguist, College of Tomes  
+이럴 수가! 그리폰 동(棟)의 완성 작업이 한창인 동안 내 상점에 돌아와 보니, 그 여우 크리처가 내 창고를 뒤지고 있지 않겠는가! 가엾은 카알은 중얼거리며 으르렁거리느라 완전히 넋이 나간 상태였다! 내가 쫓아 보냈지만, 그것이 말을 걸어오기 시작하자 어찌나 매력적이던지. 글쎄, 이렇게 사랑스러운 크리처는 평생 처음이었다고 말해야겠다. 하지만 카알은 여전히 미심쩍어하고 있다.  
   
-Hoglund offered many great and puzzling innovations to the colorful language of the Nords. Many of these phrases befuddle and confound those of us who were born into a higher society. Still, the Nords insist on their usage, even outside of dusty-floored taverns. Therefore it is of utmost importance to know what Hoglund’s phrases mean. I have translated them into their equivalent High Elven phrase so that you do not have to inquire as to their meaning.  
+혹시 이 여우가 전 세계 무거운 자루 속에 빛나는 잉크가 나타나는 현상에도 관여한 것은 아닐까. 이것은 일종의 "역 도둑질"인가? 은밀히 도움을 주는 것? 저런 데이드릭 크리처에 대해서는 뭐라 단언할 수 없다.  
   
-1.By the latrine-scented smelling salts! (I find this most surprising.)  
+여하튼! 그대가 그리폰과 함께 이룬 작업의 가장 뚜렷한 성과는 이제 스콜라리움을 잠재적 위협으로부터 지키는 훌륭한 움직이는 방어구 구조체들이다. 한편 그리폰의 힘이 부여됨으로써 탐리엘 전역에 새로운 레이 라인 활동이 생겨났다. 이곳 스콜라리움에서 상당한 수의 포커스 스크립트를 발견했으니, 언제든 살펴보시기 바란다.   
   
-2.Eat a Goblin’s hind cheeks you rosy-faced horker. (You do not have the experience to make such claims.)  
+마찬가지로, 메이지 길드의 내 연락망에서도 보상 상자에 포커스 스크립트가 나타나는 것을 보고 크게 놀랐다. 다른 모험가와의 전투에 참여하는 모험가들은 "공훈(Worthy)" 보상(참으로 그럴듯한 표현이다)에서 이것을 발견하고 있으며, 탐사지로 떠나는 이들도 마찬가지로 이 귀중한 양피지 조각을 받고 있다.  
   
-3.Hoarfrost and blizzards! (A phrase used to show emotional emphasis.)  
-  
-4.Your rusty flute couldn’t make a Banshee scream. (Your hygiene is terrible and your performance is lacking.)  
-  
-5.Are the arse’s pale in Sovngarde? (The previous point was obvious.)  
-  
-6.Choke on Dibella’s bosom. (Do be quiet.)  
-  
-7.Tighten your laces or stand in Kyne’s breeze. (Make a decision.)  
-  
-8.Splintering hog sticker! (An expression indicating aggravation.)  
-  
-9.Mount the bull before it mounts you. (Prepare for trouble.)
+실로 불협화음 같은 출처들의 교향곡이로다! 더 많은 연구가 기다리고 있다! 더없이 즐거운 일이다!
 
-[출처](https://www.imperial-library.info/content/hoglunds-contributions-to-nordic-profanity)
+[출처](https://www.imperial-library.info/content/sigil-of-the-gryphon-analysis)
 
 ---
 
-## Holy Sweetroll Liturgy
+## 그리폰의 방비책
 
-ID: ext-db7493857030a9fca3a3
+ID: ext-30ef6b785fb7340322d3 / ESO 책 ID: 8086 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-All hail the Holy Sweetroll!  
+체력의 수호  
+리프트 동쪽에서 한때 신성했던 땅이 벌레 교단 광신도들에게 짓밟혔다. 필요하다면 그들의 피로 땅을 적시되, 이 지역에서 희귀한 약용 식물 폭스루트를 찾아 내게 가져오라.  
   
-Fluffy, gooey, warm, and sweet  
+심연의 수호  
+리프트의 수많은 동굴과 유적, 요새를 탐험하라. 홀을 모욕하는 강적 하나를 처치하라.  
   
-All hail the Holy Sweetroll!  
+부패의 수호  
+리프트의 도시들에서 오염된 상인들이 물 탄 팅크처를 팔며 가난한 자들을 먹잇감으로 삼고 있다. 그 행상인 중 하나를 찾아 탐욕의 대가로 재산을 빼앗아라.  
   
-All hail this delicious treat!  
+죽음의 수호  
+리치는 언데드 크리처 중 가장 강력한 존재로, 살아있는 자들 위에 군림하는 폭군이다. 리치는 종종 불사의 원천인 신성한 성물함을 지니고 있다. 칼우리온, 나리엔에트, 미친 건축가와 같은 크리처를 찾아 처치하라. 그들의 힘의 파편을 가지고 돌아오라.  
   
-All hail the Holy Sweetroll!  
+도둑의 수호  
+여우와 함께한 시간 덕에 나는 부의 현명한 재분배가 지닌 가치를 배웠다. 도둑 길드는 그들이 강탈이라 부르는 모험의 단서를 제공한다. 그중 둘을 완수하고 증거로 여우눈 보석 한 쌍을 가지고 돌아오라.  
   
-Drizzled with its blessed glaze  
-  
-All hail the Holy Sweetroll!  
-  
-Our mouths too full to call out praise!  
-  
-All hail the Holy Sweetroll!  
-  
-Nestled in its ebony crate  
-  
-All hail the Holy Sweetroll!  
-  
-Served upon its divine plate.  
-  
-All hail the Holy Sweetroll!  
-  
-Fluffy, gooey, warm, and sweet  
-  
-All hail the Holy Sweetroll!  
-  
-All hail this delicious treat!
+별의 수호  
+에이테리우스의 조각은 잘못된 자의 손에 들어가면 위험한 무기가 된다. 한때 강력했던 이 돌의 파편들이 고대 에일리드 유적에 아직 잠들어 있다. 시로딜로 향해 벨다, 린다이, 사르다바르 레드의 유적에서 이 조각들을 찾으라.
 
-[출처](https://www.imperial-library.info/content/holy-sweetroll-liturgy)
+[출처](https://www.imperial-library.info/content/safeguards-of-the-gryphon)
 
 ---
 
-## Homes for Sale!
+## 그리폰의 비행
 
-ID: ext-4641f11096333ebcb7af
+ID: ext-d5ce1c57f882d0f44340 / ESO 책 ID: 5121 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-In this time of war and strife, the opportunity to purchase your own home has never been greater! From commoner to merchant lord, the properties available for lease or ownership are many, throughout the length and breadth of Tamriel.  
+알트머가 처음으로 하늘을 올려다보며 장엄한 그리폰이 바람 위에 솟아오르는 광경을 목도한 그 순간부터, 그 크리처를 길들이고, 전쟁이든 환희든 그 등에 올라타 저 아래 세계를 내려다보는 자유를 느끼고픈 꿈이 있어 왔다.  
   
-Our trusted agents are always happy to meet with you, our future clients, to discuss the magnificent opportunities that await you in home ownership. Stop in at your local lending institution today and seek Canthion for your free consultation!
-
-[출처](https://www.imperial-library.info/content/homes-sale)
-
----
-
-## Homesteads in the Black Marsh
-
-ID: ext-7ef3d51a1045a756287d
-
-Edict the 19th: 11 Sun’s Dawn, 2E 194  
+그러나 그것은 아이들의 꿈이었으니, 그리폰이 자존심 강하고 사납고, 어떤 하등한 크리처에게도 탈것이 되어 주지 않는다는 것을 사람들은 곧 깨달았다. 수 세대에 걸쳐 도전하였으나, 그리폰은 결코 굴하지 않았다.  
   
-Imperial Council of Potentate Versidue-Shaie  
+어리석은 자들은 야생에서 그리폰을 네트로 잡아 평범한 말처럼 길들이려 하였다. 그리폰은 그들의 어리석음이 후대에 이어지는 것을 막아 주었다. 더 영리한 알트머 부족들은 섬의 절벽과 크랙스를 기어올라 자리를 비운 어미의 네스트에서 알을 가져오는 데 성공하였다. 아, 그러나 이 도박꾼들은 수년간 하늘을 나는 탈것을 내어 주지 않았다. 알이 해치되는 일이 없었기 때문이다. 그나마 그 뒤에 열린 성대한 잔치에서 작은 위안을 얻었으니, 이 알들은 왕들의 진미로 여겨졌던 것이다.  
   
-Insofar as the region known as Black Marsh remains a desolate land and the Argonian natives thereof have taken no steps to cultivate this region, the Potentate of the Second Empire hereby decrees the areas of Black Marsh described in the Appendix to this Edict to be open to settlement by all Imperial citizens wishing to avail themselves of the opportunity.  
+섬 남쪽의 작은 일족 하나가 그 길들여지지 않은 그리폰의 장엄함에 맞섰다. 훗날 선홀드의 혈족군주 가문으로 이어질 울로롬은 사냥 중에 버려진 네스트에서 알 하나를 발견하였다. 어차피 해치되지 않으리라 여겨 그는 알을 일족에게 가져와 잔치용으로 준비하며 거대한 난로 불길 속에 넣었다. 난로와 가족의 태고 노래를 부르며, 울로롬은 일족이 식사하기 전에 축복을 올리려 하였다. 그런데 보라! 난로의 따뜻한 기운과 부드러운 노래 소리가 차가운 알에 생명을 불어넣었고, 거기서 풋내기 그리폰이 튀어나왔다. 파이어라이트 속에서 그 깃털이 어찌나 붉게 빛나던지, 불사조라 여긴 이들도 있었을 정도였다. 울로롬은 이런 선물을 내리신 신들께 감사를 외치며, 아직 타오르는 엠버에서 그 크리처를 끌어내어 셀-힌웨라 명명하였다.  
   
-Any Imperial citizen (hereafter referred to as the Homesteader) shall from this day forward be entitled to enter unpopulated lands in the province of Black Marsh and claim therefrom a parcel of property (hereafter referred to as the Parcel) not to exceed nine hundred paces by nine hundred paces square. The Homesteader may then enter a claim to this Parcel before the Imperial Magistrate of Gideon. Upon the passage of five years from the day of the Homesteader’s claim, and the presentation of proof that the Parcel has been brought under cultivation and is the Homesteader’s primary place of residence, the Imperial Magistrate of Gideon shall issue a patent of ownership over the Parcel to the Homesteader and his or her heirs in perpetuity.  
-  
-As it is the intent of this Edict to bring about the settlement and cultivation of Black Marsh, the Homesteader shall have the right to make improvements to the Parcel from the day on which the Parcel is claimed, including the felling of trees, clearing of land, damming of streams, draining of ponds, and construction of fences. Any Argonian natives possessing non-permanent residences or camps within the area of the Homesteader’s claim shall be required to remove themselves and their possessions from the Parcel, or be subject to forcible relocation by the nearest Imperial garrison.  
-  
-So let it be decreed: Black Marsh shall flower under the Potentate’s benevolent hand.
+셀-힌웨가 그 주인을 태우고 전장에 나섰는지는 전설도 전하지 않는다. 그러나 이 크리처, 마오머 전설의 '붉은 바람'이 선홀드의 명망 높은 그리폰 혈통의 시조가 되었다는 것만은 알려져 있다. 두 혈통은 서로를 감아 짜인 하나의 직물과 같이, 혈족군주와 그리폰은 어느 한쪽 없이는 다른 한쪽도 존재한다고 말할 수 없게 되었다. 그리폰은 선홀드의 심장으로 받아들여져, 데피앙스의 불타는 상징이 되었다.
 
-[출처](https://www.imperial-library.info/content/homesteads-black-marsh)
+[출처](https://www.imperial-library.info/content/flight-gryphons)
 
 ---
 
-## Honorable Writs of Execution
+## 그린 서펀트호의 증언록
 
-ID: ext-1c37df985cd8fee8c1c2
+ID: ext-0eebbed9fc13e1c2846e / ESO 책 ID: 7123 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Councilor Eris Redoran,  
+부기록관 미네르바 칼로 씀  
   
-As you requested, I prepared this primer due to recent events involving the ancient guild of assassins known as the Morag Tong. You wanted to know everything available about the guild and its members in order to make informed decisions concerning how to respond to current activities aimed at our Great House. The guild personifies the darker aspects of Dunmer life, celebrating murder in the name of Mephala. Surprisingly, the group was created to curb violence and prevent the always contentious House politics of Morrowind from escalating into full-scale war. Since such a war has yet to erupt, I suppose you could say that the Morag Tong has thus far been a successful experiment.  
+탐리엘에 사는 이라면 누구나 장미라는 이름을 들어 보았을 것이다. 블랙마쉬의 어둑한 늪 깊숙이 자리한 그 악명 높은 감옥 말이다. 권세가 절정에 달했을 무렵, 아카비리 포텐테이트는 탐리엘 곳곳에서 헤아릴 수 없이 많은 감옥과 유형지를 운영했다. 베르시듀-샤이에와 그 일족이 죽은 뒤 대부분은 폐허로 스러졌으나, 더러는 사설 시설로 지금도 굴러간다. 그중에서도 아메노스 감옥 섬보다 더한 고초를 안기는 곳은 드물다.  
   
-The Morrowind government sanctioned the Morag Tong long ago during the First Era, and to this day they continue to perform tacitly legal assassinations, utilizing a system of contracts known as “honorable writs of execution.” Under the established laws, no member of the Morag Tong can perform an execution without a writ detailing the exact target and purpose for the sanctioned murder. Maintaining an air of impartiality in regards to house politics, the Morag Tong carries itself with all the weight of a cherished and ancient institution. Members never act on their own accord and cannot take on missions of their own choosing. Instead, petitions for services are sent to the guild’s Grandmaster for examination and consideration. If the petition is accepted, an honorable writ of execution is prepared and awarded to a Morag Tong member. From that point on, the contract’s target is dead and just doesn’t know it – before long the assassin makes contact and completes the deadly transaction.  
+이 숨 막히는 노천 감옥에 갇힌 수감자 상당수는, 유배된 지 몇 해, 몇 달, 심지어 몇 주 만에 병들어 죽거나 섬의 다른 초심자나 자연재해에 목숨을 잃는다. 그러나 더러는 이 감옥의 정글 속에서 살아남기도 하고, 어쩌면 번성하기까지 한다. 내가 말하는 것은 무엇보다 그린 서펀트, 곧 섬의 드넓은 구역을 사실상 장악한 죄수 무리이다. 하이 킹의 윤허를 받아, 나는 후세를 위해 그린 서펀트의 증언을 기록하고자 그 정글로 들어섰다. 더러는 잃어버린 연인과 미루어진 꿈 이야기를 들려주었으나, 그 절대다수는 차마 종이에 옮기기 망설여질 만큼 끔찍한 잔혹담으로 나를 휘어잡았다. 그럼에도 내 직분이 그것을 요구한다. 친애하는 독자여, 미리 일러두건대 이 이야기들은 마음 약한 이를 위한 것이 아니다.  
   
-Unlike other killers or even those crazed fanatics that belong to the Dark Brotherhood, the Morag Tong assassins admit to their acts and proudly brandish their honorable writs of execution after each kill. These writs pardon a Tong member of any legal entanglements that may occur in the administration of the associated contract. Indeed, by law, a Tong executioner must step forward and proclaim that a kill was performed legally and to the letter of the contract, thus absolving him- or herself and averting any subsequent ramifications related to the act. The Tong claims to provide no safe harbor for criminals, so any member that does not comply comes under investigation and internal punishment.  
+먼저 "쥐잡이"부터 시작하자. 오직 속삭임으로만 말하는, 비쩍 마르고 꾀죄죄한 우드 엘프였다. "내가 방적공을 죽였수다." 그가 말했다. "그렇수, 방적공을. 거저드가 헛소리를 지껄이고 있었거든, 응? 거짓부렁을 말이오. 내 종조부 니르타링에 관한 거짓말을. 누구한테도 해코지 한 번 한 적 없는 나무타기였단 말이오! 하기야 살면서 가지 한두 개야 쳐 냈겠지. 안 그런 자가 어딨수? 머도 먹고는 살아야 하니까. 한데 그 방적공이? 그 방적공이 종조부가 그라흐트를 통째로 베어 넘겼다고 노래를 불러 댔단 말이오. 그것도 줄곧 초록에 침을 뱉으면서! 그래서 나 혼자 작정했지. 저 거짓 노래를 멈춰 주마 하고. 그래서 발렌우드식 미소를 그어 줬수다. 이 귀에서 저 피투성이 귀까지. 또 그러라면 또 그러겠수. 벌새 심장 한 번 뛰는 새에!"  
   
-The origins of the Morag Tong remain shrouded in legend and conjecture. All I have been able to ascertain for sure is that the group emerged during the bloody House conflicts of early Morrowind, establishing the writ system and rising to prominence by the end of the First Era. The guild reached the height of its power about two-hundred-and-fifty years ago, operating openly across Tamriel and attaining a reputation as unparalleled, reasonable, and honorable killers. The group became too sure of itself, too confident of its position. After a number of high-profile assassinations of monarchs and great lords that frightened the Tamriel nobility, the Tong retreated back to its holdings in Morrowind and vanished from the public eye for more than a century. Today, the group maintains a subdued presence in Dark Elf lands, taking select contracts as they work to reestablish their name and reputation with the Great Houses.  
+그 뒤로는 "키다리 아마넬"이라는, 놀랄 만큼 또박또박 말하는 하이엘프와 이야기를 나누었다.(나는 나중에야 그녀가 얼마 전 녹슨 작살로 "꼬마 아마넬"을 죽였다는 사실을 알게 되었다.) 키다리 아마넬의 이야기는 제법 단출하게 시작되었으나, 끝으로 갈수록 섬뜩한 굽이를 더해 갔다. "나는 사람들이 아프락스라 부르는 자랍니다." 그녀가 차분한 어조로 설명했다. "서머셋에서 법을 어긴 하이엘프를 그리 부르지요. 보통은 그냥 추방하는 데 그칩니다. 우리 모두가 간직하는 귀한 가보(家寶)인 칼리안을 부숴 버리고는, 숲이든 하수도든, 아니면 아프락스며 훌킨드며 아웃스터들이 흘러드는 그 어디로든 내쫓는 거예요. 나는 한동안 유배 생활을 했습니다. 그러니까, 생각을 하면서요. 피해자도 없는 죄와 철없던 시절의 어리석은 선택을 빌미로 우리가 박탈당한 그 모든 특권을 곱씹으면서 말이지요. 그래서 나는 일을 바로잡기로 마음먹었습니다. 서늘한 화덕불의 달밤에 어센던트 보좌사제의 회랑으로 몰래 숨어들어 조용히 문을 잠갔지요. 만전을 기하느라 빗장까지 단단히 질러 두고요. 그러고는 불을 놓았습니다. 건물을 통째로 정화한 자그마한 멋진 불길을요. 아무도 빠져나가지 못했습니다. 내가 빈틈없이 확인했으니까요. 그러고 나서 얼마 안 가 법무관들에게 자수했지요. 알고 보니, 교단의 일원 열두 명을 한 줌 재로 태워 버리면 그자들은 당신의 칼리안을 부수는 것 이상을 하더군요. 그래도 상관없어요. 나는 그곳이 진저리 나게 싫었으니까."  
   
-The organization of the Morag Tong hasn’t changed much over the years. A Grandmaster leads the guild, who then grants power to each guild hall’s master to accept and assign writs. Note that individual members cannot accept a contract without approval, however, and the guild masters have proven over the years that they take great care when deciding to accept a contract. One possible avenue to explore should the conflict between House Redoran and the Morag Tong escalate is the group’s affiliation with Mephala, the Daedric Prince of lies, deception, and murder. While the organization is sanctioned and their heretical ways mostly overlooked by the Tribunal, Ordinators and Buoyant Armigers will deal with these heretics swiftly and brutally if they catch them in the act of committing murder. I leave that for you to decide.  
+끝으로 나는 "갈라진 버드나무"라 불리는 모래빛 머리의 브레튼과 마주 앉아 이야기를 나누었다. 그 무리에서 적잖은 명성을 떨치는 마법사였다. 그가 풍기는 서늘한 솔직함은 다른 수감자들의 허세보다 나를 훨씬 더 오싹하게 만들었다. 알고 보니 내 불안은 옳았다. 그는 지체 없이 제 범행의 섬뜩한 세부로 곧장 파고들었다. "나는 사람을 먹습니다." 그가 말했다. "우드 엘프가 그런다고들 하는 그 우스꽝스러운 방식으로가 아니라요.(그건 그렇고, 그건 다 헛소리예요. 나는 셀 수도 없이 많은 우드 엘프를 만나 봤지만, 그중 단 하나도 나와 한 식탁에 앉은 적이 없으니까.) 어쨌거나 나는 나미라의 추종자입니다. 그분의 계율과 열망은 명료하지요. 나는 부끄러움 따위 느끼지 않아요. 거기서 더없는 기쁨을 누리며, 그분이 내리신 선물이야말로 내 지혜의 증거입니다. 어느 종족이 가장 맛이 좋은지 알고 싶으신가요?" 나는 한사코 만류하려 했으나, 그는 말을 이어 갔다. "하이엘프랍니다. 그 모든 자긍심과 자만이 그들을 달콤하게 만들거든요. 믿기 어렵겠지만, 카짓보다도 훨씬 달지요. 자, 여기 당신이 한번 맛볼 만한 게 좀 있는데." 그 말에 나는 두 발이 데려다줄 수 있는 한 빠르게 내달려 달아났다. 그러고는 얼마 지나지 않아 배를 띄워 그곳을 떠났다.  
   
-Enar Dren, House Redoran Master of Records
+내가 덧붙일 말은 이것뿐이다. 혹여 그대가 판결을 기다리며 재판관 앞에 서게 되거든, 부디 그자가 자비를 베풀어 아메노스가 아닌 다른 어딘가로 그대를 보내 주기를 빌라. 그곳은 천하의 흉지(凶地)이니, 차라리 잊힌 채로 두는 편이 낫다.
 
-[출처](https://www.imperial-library.info/content/honorable-writs-execution)
-
----
-
-## Honored Ancestors
-
-ID: ext-c055840818efc5f0d734
-
-Llirala Veloth  
-  
-Fair of face, kind of heart, and keen of mind  
-  
-She ruled the Veloth family for more than one hundred years  
-  
-Prosperity and peace she brought through three unions  
-  
-The Tribunal graced her with youth and beauty for all her long life  
-  
-Her grace reflected only good upon the family name  
-  
-Ondre Veloth  
-  
-The Master Archer of Molag Amur  
-  
-With honor and strength and a bow bestowed by Almalexia  
-  
-He held the pass near Lake Nabia for 9 days  
-  
-Cursed be the Sload who brought him to his end  
-  
-Valyne Veloth  
-  
-Weep not for Valyne Veloth  
-  
-She toasted her enemies after battles waged  
-  
-Her hand promised to the man who killed her father  
-  
-She stood as poison ran through her veins  
-  
-No muscle or movement betrayed her  
-  
-Watching as they all toasted her in kind  
-  
-And fell poisoned to the last  
-  
-With a smile she dropped her cup and  
-  
-At last fell herself  
-  
-Elms Veloth  
-  
-Fed the family and retainers of the Veloth line  
-  
-Throughout the long Year of Great Hunger  
-  
-He toiled to nourish the bodies of kith and kin  
-  
-No meat or wheat passed his lips  
-  
-Until everyone else ate their fill  
-  
-When the rains came he laid down  
-  
-His sacrifice a nourishment and honor  
-  
-As the crops blossomed and fed our people
-
-[출처](https://www.imperial-library.info/content/honored-ancestors)
+[출처](https://www.imperial-library.info/content/green-serpent-testimonials)
 
 ---
 
-## Honor’s Rest
+## 그림자 감시단의 맹세
 
-ID: ext-4683285c4153a89b4a7c
+ID: ext-d17d6ecd88b8509f11e4 / ESO 책 ID: 1890 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Within these halls our warriors find serenity,  
-Upon these walls their names live through eternity  
-and shall never be forgotten.  
+너희는 초록의 수호자다.  
   
-Whether ash or bone here they shall rest,  
-By iron and stone their honor we attest,  
-they shall never be forgotten.  
+너희는 윌더킹의 적이다.  
   
-With them lies a treasure greater than jewels,  
-Through their eyes see the gift of the Pools,  
-it must never be forgotten.  
+너희는 병사다.  
   
-To drink deep of these burdened memories,  
-Is to shed light on darkened histories,  
-that must never be forgotten.
+너희는 오직 너희 지휘관만을 섬긴다.  
+  
+너희는 우드엘프를 하나로 묶을 것이다.  
+  
+너희는 목숨을 바칠 것이다.  
+  
+너희는 더 할로우를 무너뜨릴 것이다.  
+  
+너희의 이름은 영원히 기억될 것이다.
 
-[출처](https://www.imperial-library.info/content/honors-rest)
-
----
-
-## Honor’s Rest Monument Stone
-
-ID: ext-dbc6ca812cba90bec48c
-
-In these halls the warriors find serenity,  
-  
-Upon walls names carved for eternity,  
-  
-And shall never be forgotten.  
-  
-Ash and bone—here shall they rest,  
-  
-By iron and stone does honor attest,  
-  
-It must never be forgotten.  
-  
-Within is treasure greater than jewels,  
-  
-Through the gift of the Memorial Pools,  
-  
-They shall never be forgotten.  
-  
-Drink deep of long lost memories,  
-  
-Shed light on faded histories,  
-  
-That must never be forgotten.
-
-[출처](https://www.imperial-library.info/content/honors-rest-monument-stone)
+[출처](https://www.imperial-library.info/content/oath-shadows-watch)
 
 ---
 
-## Horn of Beasts
+## 그림자 속을 거닐며
 
-ID: ext-56afe71cae54dd8fe587
+ID: ext-8f1210155f3b6e31f906 / ESO 책 ID: 2366 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-The shaman of Wrothgar, Zbulgat the Wild-Walker, placed all his considerable power in the Horn of Beasts. Although the shaman shunned Orsinium for most of his life, calling it “Torug’s folly,” he nevertheless appeared within the city shortly after the start of the siege.  
+글리머링 폭스배트 저  
   
-The Wild-Walker and King Golkarr had little love for one another, but the king accepted the Horn of Beasts graciously. “Never use it more than once per cycle of the moons,” the shaman warned. Then Zbulgat departed. Golkarr, meanwhile, used the horn to summon the creatures of Wrothgar. Bears, echatere, and hundreds of other wild creatures rallied to defend the city walls.  
+나이트블레이드의 기술 중에서 순간 전이 주문만큼 유용한 것은 없다. 세월이 흐를수록 그 시전은 거의 반사적인 경지에 이르게 된다. 지금 이곳에 있던 자가, 의지 하나로 순식간에 저곳으로 이동한다.  
   
-For the early years of the siege, the horn had a significant impact on the course of the war. Unfortunately, Golkarr decided to sound the horn three times during a single moons cycle, and on the third blare the horn cracked. It is said to still rest somewhere in Old Orsinium.
+실로, 숙련된 수행자에게 전이는 너무나 당연한 기술이 되어버린 나머지 처음 익힐 때 얼마나 힘들었는지조차 거의 잊어버리고 만다. 이 마법 기술은 전통적으로 '그림자 속을 걷는다'고 일컬어지며, 그 숙달의 열쇠는 '옆으로 응시하는' 능력, 즉 오르비스의 모든 존재와 사물이 드리우는 그림자를 감지하는 능력에 있다.  
+  
+물론 이는 불투명한 물체가 빛을 차단하여 생기는 문자 그대로의 그림자가 아니라, 각 사물이 지닌 리멘(limen)의 방사를 가리킨다. 리멘이란 그 사물의 존재가 문두스 현실 세계에 새기는 깊이의 인상이다. 이를 감지하려면, 수행자가 매지카의 흐름을 인지하는 초각형적(hyperagonal) 감각에 초점을 맞추는 법을 익혀야 한다. 나이트블레이드가 주변의 초차원 변형을 '느낄' 수 있게 되면, 범위 내 어느 지점으로든 경계를 초월하는 도약을 행하는 것이 거의 수월해진다.
 
-[출처](https://www.imperial-library.info/content/horn-beasts)
+[출처](https://www.imperial-library.info/content/stepping-through-shadows)
+
+---
+
+## 그림자 자르는 칼날
+
+ID: ext-9d68ea9000ec8b401b75 / ESO 책 ID: 4820 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+엔두노레 여사제의 설교  
+렐릭마스터 글레나디르 필사  
+  
+그리하여 시라바네는 칼날을 빚어 그림자 자르는 검이라 이름 지었으니, 그것은 부자연스러운 어둠마저 꿰뚫을 것이기 때문이었다. 자신이 만든 작품의 경이로움을 보이고 싶은 마음에, 그는 벗 앞에서 그 위력을 선보였다.  
+  
+"자," 시라바네가 벗에게 말하였다. "이 벽에 드리운 그대의 그림자를 보라. 내가 그것을 둘로 가르는 모습을 지켜보라."  
+  
+그의 벗이 그림자를 응시하는 사이, 시라바네는 빛나는 칼날을 높이 치켜들었다. 한 번의 힘찬 일격으로 그가 아래로 내리긋자, 한 줄기 빛의 호가 뻗어 나갔다. 그리고 그의 말대로, 그림자는 반으로 갈라졌다.  
+  
+허나 그의 벗은 무릎을 꿇으며 쓰러지고 말았다. 시라바네가 그 머의 곁으로 달려갔으나, 이미 늦은 뒤였다. 그의 내면에 깃든 어둠, 모든 인간과 머가 지닌 그 어둠 또한 둘로 갈라졌던 것이다. 그의 영혼이 꿰뚫린 것이다. 그리하여 그는 목숨을 잃었다.
+
+[출처](https://www.imperial-library.info/content/shadowcutter-blade)
+
+---
+
+## 그림자 추방자 양조자의 쪽지
+
+ID: ext-bfe78e734ab5c9d74c4f / ESO 책 ID: 3649 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+손님 여러분, 어서 오십시오!  
+  
+저희 그림자 추방자 와이너리은 가장 특별한 비장의 술을 선보이는 이 특별 시음회에 여러분을 모시게 되어 기쁩니다. 오늘 저녁 내내 스무 가지가 넘는 다양한 빈티지를 즐기실 수 있으며—물론, 마음에 드신 술을 더 넉넉한 양으로 구매하실 기회도 함께 마련되어 있습니다. 이 진귀한 물량을 면세로 손에 넣을 흔치 않은 기회를 꼭 누리시기를 강력히 권합니다. 다른 어디에서도 이보다 싼 값에는 구하실 수 없으리라 장담합니다.  
+  
+과음에 유의하시고 발밑을 살펴 주십시오. 이 서늘한 코브는 저희 물량을 보관하기에 더없이 좋으나, 축축한 바위는 자칫 매우 위험할 수 있습니다! 소중한 손님을 한 분이라도 바다로 휩쓸려 보내는 일은 결코 바라지 않으니까요.  
+  
+정중한 주최자 일동
+
+[출처](https://www.imperial-library.info/content/shadowbanish-vintners-note)
+
+---
+
+## 그림자 흡수: 가설
+
+ID: ext-0f4fe4c12e0973d00125 / ESO 책 ID: 2365 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+미광(微光)의 폭스배트 저  
+  
+어둠의 세계에 사는 나이트블레이드들의 이른바 "그림자 마법"을 연구한 자라면 누구나, 부상당한 자로부터 가한 자에게로 생명력과 체력을 빨아들이는 흡수 주문에 익숙할 것이다. 학자-아카니스트가 마주한 과제는 이 현상이 어떻게, 그리고 왜 일어나는가를 설명하는 일이다. 나는 주로 하인들과 그 가족이 잠든 사이 낮음 등급의 흡수를 시전하는 방식으로 오랜 연구를 거쳐, 하나의 가설에 이르렀다.  
+  
+체력의 마법적 흡수는 표적에서 시전자에게로 초차원적인 정수의 흐름을 만들어 낸다는 점에서, 순간 전이 주문과 관련이 있는 것으로 보인다. 초차원의 매지카 감각을 통해 나이트블레이드는 표적의 역전위적(transpontine) 변형을 지각하고 그것을 "관통"하여, 그 결과로 생긴 균열에서 표적이 잃는 정수를 흡수한다. 따라서 전이에서 "그림자 속을 걷는" 것 대신, 마법사는 한 장소에서 다른 장소로 "그림자 드레인"을 행하는 것이다.   
+  
+적어도 나의 실험은 그것을 시사한다.
+
+[출처](https://www.imperial-library.info/content/shadow-draining-hypothesis)
+
+---
+
+## 그림자와 속삭임
+
+ID: ext-a979163e5118864c3f61 / ESO 책 ID: 4611 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+속삭이는 그림자의 로미엔 가르베트 지음  
+  
+기어드는, 기어가는, 기어드는, 기어가는.  
+  
+그들이 내게 속삭이고, 속삭이고, 속삭인다. 들리는가? 낮고 고요한 소리다. 귓속으로 파고들어 머릿속에서 울린다. 그림자는 갈수록 짙어진다. 어둠은 눈꺼풀 바로 아래에 있다. 검고, 영원하고, 도주할 수 없다. 기어드는, 기어가는.  
+  
+나는 그녀의 종자, 충성스럽다. 충성스러워야 한다. 그림자가 나를 잡을 것이다. 나는 한때 내가 날쌔고 영리하며, 어떤 자물쇠도 열고, 흔적 하나 남기지 않고 돌아올 수 있다 여겼다. 나는 준비되어 있었다, 그녀에게 모든 것을 바치려. 달리 할 수 없었다, 나는 알았다. 나는 느꼈다. 어둠이 내 피부 속으로 스며들었다. 혀 위에서 그 맛이 느껴졌다. 이 도시를 덮는 기름처럼.  
+  
+그녀의 슈라이크들이 내게 노래하였다, 출몰하는 선율로. 말로 표현할 수 없다. 표현하고 싶지 않고, 표현할 수 없고, 표현하지 않을 것이다. 언제나 노래한다. 리듬이 내 피 속으로 파고들어, 심장이 박자를 맞추어 고동쳤다. 느리고, 고요하고, 느리고, 고요하게. 언제나 노래하고, 꿈은 검게 물들었다. 나는 익사하고 있고, 숨을 쉴 수 없으나, 그녀의 노래가 여전히 나를 채운다.  
+  
+나는 기어드는, 기어가는 클락워크의 바퀴벌레다. 그녀의 벌레, 그녀의 뜻대로 움직인다. 그림자들, 나는 그림자가 되었다. 나는 어둠이다, 벽에 남긴 얼룩이다. 내 칼날은 피로 물들어, 검정색 위의 붉음이다. 따뜻하고, 참으로 따뜻하나, 손가락은 얼음 같다.  
+  
+나는 청동 안에, 코그와 바퀴 안에 갇혔다. 노랫소리는 남아 있으나 노래는 사라졌다. 선율도 음악도 없고, 속삭임이 리듬에 얹혀 흐를 뿐이다. 그녀를 섬겨라, 그림자가 되어라, 속삭임이 되어라. 기어드는, 기어가는, 그러나 도주할 수 없다. 어둠에 잡혀 있고, 옷에 달라붙는 타르다. 나는 말하나 침묵한다. 나는 보나 눈이 멀었다. 눈이 멀었다, 참으로 눈이 멀었다, 그녀의 뜻밖에는 아무것도.  
+  
+까마귀는 웃으나, 나는 웃을 수 없다. 슈라이크는 노래하나, 나는 노래할 수 없다. 세상은 밝으나, 나는 어둠이다. 나는 속삭임이다. 내가 덮치기 전까지 너는 나를 듣지 못하리라.
+
+[출처](https://www.imperial-library.info/content/shadows-and-whispers)
+
+---
+
+## 그림자의 길
+
+ID: ext-dba1361239db261f1bdc / ESO 책 ID: 5371 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+솔리스 아두로 옮김  
+  
+아콜라이트로서, 그대는 언제나 자신의 힘의 근원을 잊지 말아야 한다. 그 힘은 우리 주인의 변덕 하나로 거두어질 수 있기 때문이다. 그대는 다른 세력들의 유혹을 받으리니, 그들 중 다수는 우리 아버지와 닮은 가면을 쓰려 한다. 그들은 아버지가 지닌 얼굴만큼이나 많은 이름을 지녔다. 그대가 그림자의 룬을 그릴 때, 그분의 얼굴은 모두 기억하되 그들의 이름은 하나도 떠올리지 말지어다.  
+  
+그리고 기억하라, 빛이 없이는 그림자도 없다. 빛이 없으면 오직 허공만이 있을 뿐이다. 우리는 아버지의 이 얼굴을 경배하나, 피할 수 없는 것을 향해 기어이 나아가려 함은 우리의 운명이 아니다. 태양은 피 흘리는 노른자위이니, 우리는 그것을 마시리라.  
+  
+그날이 오기까지 우리의 비늘은 검게 머무르며, 그리하여 우리는 그림자의 자리에서 섬기느니라.
+
+[출처](https://www.imperial-library.info/content/way-shadow)
+
+---
+
+## 그림자의 비늘
+
+ID: ext-a90cf4305eb6c8103ebd / ESO 책 ID: 5360 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+니스우 제울름 지음  
+  
+어둠 속의 별들이여, 별자리여,  
+우리가 거두어야 할 자들을 일러 다오  
+필요한 무리에게 맡겨져  
+필요한 길을 배우도록  
+  
+그림자의 비늘, 죽음의 손이여  
+그대의 칼날로 시디스께 영광을  
+필요한 변화를 빚어내고자  
+흘려야 할 피로써  
+  
+어둠 형제단에 드는 그대여  
+오직 하나의 거짓에 이끌려  
+우리의 헛된 말을 기억하고  
+헛된 눈으로 바라보라  
+  
+언젠가 그대의 주둥이가 창백해질 때  
+그대는 늪으로 돌아가리니  
+어둠은 그대의 가슴에 남으리라  
+그대의 비늘은 아직도 그림자이기에
+
+[출처](https://www.imperial-library.info/content/scales-shadow)
+
+---
+
+## 그림자의 조각가를 추모하며
+
+ID: ext-51a3c6d807edfe410675 / ESO 책 ID: 8091 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+경계하는 나방처럼 움직이는 남작에게  
+  
+그대는 내 남작들 가운데 가장 신중하고 빈틈없는 자였지  
+  
+어찌하여 이 운명을 내다보지 못했단 말인가  
+  
+그대가 날갯짓하며 기억 속으로 돌아올 수 있기를
+
+[출처](https://www.imperial-library.info/content/in-memoriam-of-the-carver-of-shadows)
+
+---
+
+## 그만 좀 물어봐
+
+ID: ext-b266a09816bc900359a5 / ESO 책 ID: 2993 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+할인 따위는 없다! 그 이유도 듣고 싶지 않으니, 특히 네가 이런 경우라면 더더욱 그렇다.  
+  
+—나랑 같은 마을에서 자랐다고? 그것 참 기막힌 우연이로군!  
+—"아주 평판 좋은" 공급책을 소개해 주겠다고.  
+—골드가 딱 몇 닢 모자랄 뿐이지만 "틀림없이 갚을 수 있다"고.  
+—똑같은 물건을 다른 데서 훨씬 싸게 봤지만 그래도 내가 더 마음에 든다고.  
+—모락 통 일원이라고 떠벌리고.  
+  
+사실, 네가 모락 통 일원이라고 우긴다면, 네놈이 그런 소리를 떠들고 다닌다고 그들에게 곧장 일러바칠 테다. 어디 한번 해 봐라.
+
+[출처](https://www.imperial-library.info/content/quit-asking)
+
+---
+
+## 그을린 페이지
+
+ID: ext-6254bf1bc219045c164d / ESO 책 ID: 330 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+작은 브로고는 추위를 싫어했다. 더위도 싫어했다. 따뜻하고 햇살 좋은 날조차 달가워하지 않았다. 그는 기묘하고 자그마한 노드였지만, 바로 그 점이 작은 브로고를 영웅으로 만들었다.  
+  
+늦겨울의 어느 날, 눈이 거세고 빠르게 휘몰아치던 때,
+
+[출처](https://www.imperial-library.info/content/singed-page)
+
+---
+
+## 글래스 망치
+
+ID: ext-ae9510866055c1d6f478 / ESO 책 ID: 3127 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+초대 오시니움은 도시가 아닌 무장 야영지로 시작하였다. 세월이 흘러 야영지는 마을이 되고, 마을은 읍내로 불어났다. 불과 수년 만에 사람과 건물이 끝없이 뒤엉킨 집합체로 무질서하게 뻗어나가며, 공격에 더없이 익은 무방비 상태가 되었다.  
+  
+토러그 왕의 수많은 아내 중 첫 번째이자 가장 위대한 아내인 용광로 부인 모르투가는 도시 주위에 돌벽을 쌓고 경계를 확정하기 위해 마스터 메이슨을 구하였다. 그는 숙련된 장인인 동시에, 기록적인 속도로 임무를 완수할 수 있는 전사이자 협상가로서의 기량도 갖추어야 하였다. 그녀는 견고한 쿠스바르그를 골라 그 일을 맡겼다.  
+  
+쿠스바르그는 명을 받은 대로 수행하여, 옛 오시니움 주위에 오늘날까지도 볼 수 있는 견고한 성벽을 쌓았다. 그 보상으로 그는 크리스털 하나를 통째로 깎아 만든 유리의 망치를 하사받았다. 그 눈부신 조각품은 아직도 옛 오시니움 유적 어딘가에 남아 있다고 전해진다.
+
+[출처](https://www.imperial-library.info/content/hammer-glass)
+
+---
+
+## 글래스의 가치
+
+ID: ext-76f10abd1ca052988fa3 / ESO 책 ID: 4522 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+라레스 헬라드렌 지음  
+  
+오늘은 여느 오시머보다 훨씬 말이 통하는 자를 만났다. 오시머에 관해 좋게 말할 수 있는 점이 하나 있다면(믿어도 좋다, 그런 점은 거의 없으니), 끼리끼리만 어울린다는 것이다. 그들은 제 분수를 알고, 동족 바깥의 자들을 던머만큼이나 경계한다. 좋은 일이다. 그래야 살아남는 법이니까.  
+  
+나는 늘 다른 종족보다 우월하다는 것을 잊지 않지만, 그렇다고 대화를 마다할 만큼은 아니다. 함께 길을 가던 자와 언젠가 다시 마주칠 수도 있는 법이고, 그럴 때 상대가 나를 좋게 기억하는 편이 종종 이득이 된다. 내 동족 던머 중 상당수도 언제 미소 지어야 하는지만 안다면 훨씬 잘 풀릴 텐데. 특히 젖먹이가 젖꼭지에 매달리듯 도시에 들러붙기를 거부하는 동포들이 그렇다.   
+  
+이 별난 오시머는 내 옆에 앉으며 자신을 모르브로그그라 소개했다. 그날 밤 코너클럽은 유독 붐벼서, 나는 늘 차지하던 1인용 식탁을 지킬 수 없었다. 그래도 나는 미소 지었다. 자리를 옮겨 식사하고 싶은 충동을 억누르고, 그의 악취에 숨을 참았다. 심지어 행선지까지 물어봤다.  
+  
+그는 어디로 갈지 정하지 못했으며 그저 안정된 벌이를 찾고 있을 뿐이라고 선선히 인정했다. 오시머가 으레 그렇듯 그의 재주는 힘에만 국한되어 있었다. 나는 광산이나 채석장 일을 권했다. 그 종족이 흔히 두각을 드러내는 일이니까. 그는 내 제안을 받아들이기를 망설이며, 대신 전사로서의 활약을 늘어놓았다. 나는 그저 고개를 끄덕여 그 점을 인정해 주었다. 그가 바덴펠에 머무는 동안 용병 일자리를 구하기보다는 십중팔구 막노동으로 끝나리라는 것을 알면서도 말이다.  
+  
+바로 그때 모르브로그그가 내 방어구를 가리켰다. 대화하는 내내 그가 그것을 뚫어지게 보고 있었다는 것은 진작 눈치챘다. 그것을 바라보는 그의 눈은 거의 번들거릴 지경이었다. 그렇다, 나는 방어구를 제대로 손질하는 데 자부심을 갖고 있지만, 그는 이런 물건을 난생처음 보는 것이리라 짐작했다. 아니나 다를까, 그는 곧 무엇으로 만들었는지 물었고, 나는 한숨을 삼키며 일러 주었다.  
+  
+"글래스?" 그가 코를 찡그리고 머리를 긁으며 물었다. "뭐요, 창문에 쓰는 그거 말이오?"  
+  
+또 하루, 또 한 명의 무지한 천것이로구나. "아니, 그것과는 좀 다르다네." 나는 억지웃음을 지으며 답했다. "이건 공작석으로 만든 것이라네. 보기엔 크리스털 같지. 꽤 단단하면서도 움직이기 좋을 만큼 가볍다네. 금속이지만 흔히 글래스라 부르지. 그것을 캐내는 광산도 마찬가지고. 외지인들은 늘 이걸 좀 헷갈려 하더군."  
+  
+모르브로그그는 눈을 굴리더니 제 가죽 흉갑을 쾅쾅 두드렸다. "유리 오시머는 가죽과 금속의 진짜 가치를 알지! 당신의 그 멋들어진 글래스 따위보다 이게 백번 낫소. 내 도끼 한 방이면 그 방어구쯤 산산조각 낼 수 있을걸. 당신은 분명 진짜 전사와 맞붙어 본 적이 없는 게요."  
+  
+자, 자긍심이야 나도 높이 사지만, 자긍심이 모욕으로 변하면 그땐 얘기가 다르지….  
+  
+나는 그저 한쪽 눈썹을 치켜올렸다. "내기라, 이거지? 좋아, 그 내기 받아들이지. 결투에서 자네가 나를 이기면 이 방어구를 주겠네. 적어도 자네에겐 꽤 쏠쏠한 돈벌이가 될 테니. 그리고 내가 이기면 자네의 그 가죽 방어구를 갖겠네. 어차피 공평한 게 공평한 거니까."  
+  
+그는 포도주로 얼룩진 턱을 쓰다듬으며 고개를 끄덕였다. "좋소. 새 무기 살 골드가 좀 필요했으니."  
+  
+그 싸움에서 굳이 떠올리고 싶은 것은, 적어도 내 쪽에서는 빠르고 수월했다는 사실뿐이다. 모든 것이 끝났을 때 내 앞에는 흐느끼는 오시머 하나가, 신성한 약속을 거두어 달라 애원하고 있었다. 제 방어구 없이는 결코 용병 일을 구할 수 없다며.  
+  
+나는 가죽 조각들을 팔에 그러모으며 그저 어깨를 으쓱할 따름이었다. "채석장은 언제든 열려 있다네."  
+  
+그렇다, 여행길에 친구를 사귀는 것은 좋은 일이다. 허나 이문을 남기는 것은 그보다 훨씬 더 좋은 일이다.
+
+[출처](https://www.imperial-library.info/content/worth-glass)
+
+---
+
+## 글렌브릿지의 시디스를 모시는 아르고니안 성소
+
+ID: ext-9b6da13b7bedba1b86a3 / ESO 책 ID: 6731 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+림멘의 여행자의 관에 몸담은 갈지르가 남긴 기록.  
+  
+첫인상만 보자면, 글렌브릿지를 지나는 큰길가에 자리한 시디스의 성소에는 눈길을 끌 만한 구석이 전혀 없다. 그렇다고 이 성소가 주목할 가치가 없다는 말은 아니다. 다만 첫인상이란 흔히 오해를 부르기 마련이라는 뜻이다. 건축물은 높다랗게 솟아 인근의 웬만한 나무들과 견줄 만하고, 그 높이는 성소 주변에 다른 건축물이 없는 탓에 한층 도드라진다. 벽은 두꺼운 석판으로 쌓였고, 건축물 모서리마다 석조 세공에서 얼굴들이 내다본다. 그럼에도 멀지 않은 곳에 우뚝 선 잔미어에 견주면, 이 성소는 그리 인상적이지 못하다.  
+  
+성소 안은 벽이 바짝 조여들어, 고작 네 사람이나 들어설까 한 공간을 잠식하고 있다. 세 면의 벽이 바깥으로 트여 있는데도, 성소 안에서는 숨쉬기가 답답하다. 그 한복판에 서 있으면 마치 공기라곤 한 점도 없는 듯한 느낌이 든다.  
+  
+돌이 떨어져 나갔거나 한쪽으로 밀려난 자리가 군데군데 있다. 이는 성소 안쪽으로도 이어지며, 유독 빛이 들지 않는 탓에 여느 예배소에는 어울리지 않는, 다 허물어져 가는 인상을 준다. 성소의 겉모습을 두고 물어도 사제들은 개의치 않는 눈치였으나, 떨어진 석판을 제자리로 돌려놓아야 하지 않겠느냐는 말에는 언짢아하는 기색이었다. 몇 마디 대화와 조심스러운 질문 끝에, 사제들이 성소의 이런 상태를 시디스의 손길이 남긴 표징으로 여긴다는 사실이 분명해졌다. 성소의 벽을 손보는 일은 곧 신성모독이 되는 셈이다.  
+  
+시디스가 성소의 겉모습에 직접 영향을 미쳤는지—돌이 그의 힘으로 헐거워졌는지, 아니면 비바람과 세월 탓인지—는 분명치 않을지언정, 성소를 보살피는 사제들에게 영향을 미친 것만은 틀림없다.
+
+[출처](https://www.imperial-library.info/content/glenbridges-argonian-shrine-sithis)
+
+---
+
+## 글렌움브라 은행을 조심하라
+
+ID: ext-9001a1ff43eff29bbba3 / ESO 책 ID: 2670 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+도선사 개릭 지음  
+  
+뭐라고? 글렌움브라 모래톱에 관해 알고 싶다고? 하이락 북서쪽 해안의 그 떠도는 모래톱이야 다들 아는 줄 알았는데. 해안 가까이서 뱃길을 그토록 위험하게 만드는 그 좁다란 작은 섬들 말일세. 나로 말할 것 같으면 거의 삼십 년을 대거폴 도선사로 먹고살며, 상선들을 모래톱 사이로 안내해 도시의 북쪽 선착장을 드나들게 해 왔지. 그 일로 받는 삯이 두둑하다만 상인들은 불평하지 않아. 우리가 물길을 굽이굽이 헤쳐 나갈 때 지나치는 난파선의 썩은 활대와 뒤틀린 널빤지를 제 눈으로 보니까.   
+  
+그 물길은 음흉하고 끊임없이 변한다네. 겨울 폭풍이 지난 뒤 항구로 들어오는 첫 배를 맞으러 태양의 여명 초입에 나갈 때면, 물길에는 늘 눈에 보이는 수많은 변화가 있지. 그뿐 아니라 그 깊이에는 눈에 보이지 않는 변화도 있어서, 우리는 측연줄을 부지런히 써서 그것을 일일이 지도에 옮겨 두는 데 공을 들여야 해.   
+  
+허나 정작 한가운데 달이나 정오의 달에도 우리는 모래톱의 변화를 한시도 살피지 않을 수 없다네. 자, 폭풍 한 점 없는데도 때로 하룻밤 새 모양이 바뀌는 그 모래가 대체 어찌 그리 움직이는 걸까? 헤르네 해류는 멀찍이 앞바다로 흐르고, 여름이면 뱃사람들이 요쿠다 산들바람이라 부르는 미풍이 서쪽에서 꾸준하나 부드럽게 불어오는데 말이야.   
+  
+그런데도 모래는 움직이고, 모래톱은 변한다네.   
+  
+그래, 나그네여, 오늘 밤 장미빛 사자에서 술값을 자네가 낸다면 그 비밀을 일러 주지. 바로 이스그레아라네. 그래, 잘못 들은 게 아니야. 엘세릭 대양의 불멸의 리바이어던은 그저 시시한 우화가 아니거든. 이스그레아는 살아 있고, 바다의 저 깊은 곳을 떠돌아다니지… 그러다 때로는 해안의 얕은 물가까지 다가온다네. 놈은 모래톱의 묵은 물길을 메우고 새 물길을 파헤쳐. 그리고 배가 모래에 얹히면 물속에서 솟아올라 선원들을 하나씩 하나씩 잡아먹지.   
+  
+그 이야기에 미심쩍은 눈초리를 보낼 자격이야 자네한테 있겠지. 한 잔 더 사 준다면 말이지만. 하지만 들어 보게, 난 늙은 뱃사람의 허풍을 늘어놓는 게 아니야. 난 그놈을 봤어. 두 달이 차고 바다가 잔잔한 밤이면, 그 늙은 흉물이 제 음흉한 덫을 파헤치며 기름진 등을 수면 위로 들썩이는 걸 더러 엿볼 수 있다네. 이따금 고래가 물을 뿜듯 바다 안개가 간헐천처럼 솟구치기도 하는데, 그러고 나면 미풍이 마치 오블리비언에서 불어온 듯한 악마 같은 악취를 해안으로 실어 나르지.   
+  
+자, 됐네. 이제 자네도 알았어. 하지만 이건 자네와 나, 그리고 주막 주인의 고양이만 아는 걸로 해 두세, 어떤가? 남쪽 항구는 큰 상선들이 들어오기엔 너무 얕고, 대거폴은 바닷길 무역이 북쪽 선착장으로 계속 길을 찾아드는 데 기대어 살아가거든. 나도 그렇고. 게다가 뱃사람이란 게 어찌나 미신을 따지는 무리인지, 괜히 겁줘서 쫓아 보낼 까닭이 없잖나. 안 그래?
+
+[출처](https://www.imperial-library.info/content/beware-glenumbra-banks)
+
+---
+
+## 글렌움브라의 마을과 도시
+
+ID: ext-4c4b4a470d9e827b8bd8 / ESO 책 ID: 754 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+안수르 벨로테 지음  
+  
+하이락의 한 지역인 글렌움브라에는 여행자라면 마땅히 알아두어야 할 도시와 마을이 적지 않도다.  
+  
+대거폴: 글렌움브라의 왕관이자 하이락에서 가장 오래된 도시 중 하나인 대거폴은, 웨이레스트가 패권을 잡기 이전까지 하이락 최대 왕국의 수도였도다. 어떤 여행자라도 대거폴에서 보급품을 사두는 것이 현명하니, 활기 넘치는 이 도시의 서비스는 어디에도 뒤지지 않음이라.  
+  
+알드크로프트: 데이니아의 숲과 캠브레이 언덕의 연안 습지 사이에 자리한 작은 마을 알드크로프트는, 일리악 만을 따라 이어지는 교역로에서 캠론을 잇는 주요 항구로 최근 들어 이름을 날리고 있도다. 알드크로프트는 매콤한 스튜로 유명하니, 체력이 약한 여행자에게는 피하기를 권한다.  
+  
+캠론: 최근 들어 규모와 문화적 영향력에서 대거폴과 견줄 만큼 성장한 캠론은, 글렌움브라 서부의 중심에 자리하고 있도다. 캠론 시민들은 남쪽 이웃들보다 자신들이 더 세련되고 도시적이라 여기는 경향이 있으니. 여행자라면 캠론의 훌륭한 패이스트리와 구운 과자들을 꼭 맛보기를 권하노니, 일부러 찾아올 가치가 충분하도다. 지역민들의 거만함은 그냥 넘기도록 하라. 본래 그런 성품일 뿐이며, 대개 악의를 품고 있는 것은 아니니.  
+  
+웨스트리: 이 마을은 과거에 커다란 재앙을 겪어 살아 있는 시민이라고는 없고 죽은 자들의 혼령이 들끓는 곳이 되어버렸도다. 현명한 여행자라면 피하는 것이 상책이니라.  
+  
+이글스 브룩: 알드크로프트가 일리악 만을 향해 캠론과 이어지는 주요 항구라면, 이글스 브룩은 엘세릭 해 쪽으로 그에 대응하는 항구이도다. 캠론의 귀족 가문들을 섬기는 장인들 중 상당수가 사실상 이글스 브룩 인근에 거주하고 있도다. 이글스 브룩의 어선이 날마다 실어 오는 훌륭한 해산물을 꼭 맛보기를 여행자에게 권한다.  
+  
+크로스위시: 글렌움브라와 스톰헤이븐의 경계를 이루는 험준한 산악 고갯길에 걸쳐 있는 크로스위시는, 하이락에서 가장 인구가 많은 두 지역을 오가는 여행자들로부터 많은 골드를 벌어들이고 있도다. 대거폴에서 웨이레스트로 향하는 여행자는 반드시 크로스위시를 통과해야 하니, 쉬어 가며 보급품을 채우기에 더없이 좋은 곳이로다.
+
+[출처](https://www.imperial-library.info/content/glenumbras-towns-and-cities)
 
 ---
 

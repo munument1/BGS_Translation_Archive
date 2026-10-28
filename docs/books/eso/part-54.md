@@ -1,1714 +1,1068 @@
 # The Elder Scrolls Online 원문·번역 서적 합본
 
-수록 서적: 2,482건. 영문 원문을 우선 수록했습니다. 미번역 서적의 판본·발췌 여부는 번역 전에 확인하세요.
+수록 서적: 2,528건. 기존 ESO 한국어 게임 본문을 연결했으며 나머지는 확보된 영문으로 제공합니다. 판본·책 ID 연결 범위는 ESO_KOREAN_IMPORT.md를 확인하세요.
 
 ---
 
-## The Tale of Dro’Zira
+## 주크의 건립
 
-ID: ext-47934d8abcc800ab6d9c
+ID: ext-f07f376631cf06af5ec7 / ESO 책 ID: 731 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-The Tale of Dro’Zira  
-Transcription and Commentary  
-by  
-Sonia Vette  
+블랙마쉬의 아샬라쿠 지음  
   
-The following is a tale overheard, as told by a Khajiit father to his cub, while making camp with one of their caravans. I have attempted to transcribe it as he told it, for the Khajiit do not often speak of their history to outsiders. In truth I do not believe he would have spoken at all, but for the vast helping of Moonsugar he had consumed that night.  
+주크 경은 레만 시로딜 3세가 붕어한 뒤 섀도우펜으로 돌아와, 그곳에 작은 정착지를 세웠다. 다섯 세대에 걸쳐 번영을 누린 끝에, 우리 선조들은 창건자이신 주군을 기리고자 그 땅에 주크라는 이름을 붙였다. 정착지의 본래 이름은 세월과 함께 잊히고 말았다.  
   
-Come and warm your fur by the fire, Ma’rashirr, and I will tell you of how our Dro’Zira came to be the greatest of all Kahjiit! (ed: Dro’Zira I took in this case to be an honored ancestor)  
-  
-The ancient Khajiit heard the great roar of Alkosh the Great Cat King of Time (ed: known as Akatosh in the empire, and Alduin in Skyrim) and raced to his Voice. In three days’ time they crossed the whole of Tamriel, resting not even for the moonsugar, for such was the speed of Khajiiti then.  
-  
-They joined with the pride of Alkosh and were his strongest warriors. Lorkhaj, (ed: Shor in the Nordic) however, chose to give his roar to the Ra’Wulfharth to spite the Khajiiti warriors, for he was jealous of their devotion to Alkosh.  
-  
-Seeing the ferocity of the Khajiiti warriors, Ra’Wulfharth could not bring himself to put them to death. Using the roar that Lorkhaj had given him, he spoke to Masser and Secunda, to move to their fullness in the sky. The Khajiiti warriors became Senche, but Lorkhaj stripped from them all reason.  
-  
-When Ra’Wulfharth returned to sink his fangs into the Red Mountain, he called upon his people to aid him. Dro’Zira was the only among the “Rhojiit” who still remembered, and so was the only one who answered the summons.  
-  
-But these Nord bards are (expletive removed) and do not sing of how the great Ash King rode Dro’Zira up the Red Mountain itself to strike at the heart of the Dunmer. Never is it mentioned how Dro’Zira pounced atop Dumalacath, the Dwarf-Orc, when he had his blade to the throat of the Ash King so that he could not speak.  
-  
-Nor do they sing of how Lorkhaj returned Dro’Zira from the lands of Sheggorath for his bravery and for saving the Ash King! So when you find a bard who speaks ill of the Khajiit, you be sure to leave him an iron claw in the back to remind him who saved Skyrim.  
-  
-As for the rest of the “Rhojiit” They grew small and lost their cunning altogether, which is why you should not hesitate to strike them down when they approach the wagons. So it was told by my father, and so I tell it now to you.  
-  
-Now, be a good cub and go fetch me some more moonsugar for these sweet cakes.  
-  
-Much of the tale seemed to me, little more than a boast, but certain facts do seem to line up with what we believe is the truth behind the legends. It does raise questions as to why we do not know more about history of the Khajiit and what parts they have played that might not have been recorded by our written histories.
+주크 경이 황궁에서 보낸 시절에 관해 우리가 아는 바는 많지 않으나, 그의 부와 명예와 너그러움은 코스린기 사이에 널리 이름이 높았다. 부디 그 이름이 또 다섯 세대에 걸쳐 후손들의 입에 오르내리기를.
 
-[출처](https://www.imperial-library.info/content/tale-drozira)
+[출처](https://www.imperial-library.info/content/founding-zuuk)
 
 ---
 
-## The Tale of Princess Anurraame
+## 주택 대사관 단서
 
-ID: ext-261e9516032363446820
+ID: ext-8139df303c9bea7198cd / ESO 책 ID: 7252 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Princess Anurraame stepped out onto the balcony, the cold wind whipping her skirts around her legs. She peered upward toward the tower, hoping to see nothing at all … hoping the servant girl had lied to her. At first she could see nothing but darkness and no sign of movement. She sighed in relief and almost turned to leave, crossing her arms across herself to fend off the biting winds.  
+버섯이 우뚝 솟고  
+용암이 흐르는 곳.  
   
-But then the clouds parted and the light of the full moon illuminated the tower. Silhouetted against the moon she could see them clearly, her beloved and her sister locked in a passionate embrace.  
+레도란 일족이 울부짖고  
+발모란이 빛나는 한복판.  
   
-She stood frozen, unable to move or even to breathe. As she watched her heart darkened and a single tear slid down her cheek.
+굽히지 않는  
+나무 한 그루 뒤편.  
+  
+그곳에 그대의 카드가 놓여 있으니  
+대사관의 금화를 쓰라.
 
-[출처](https://www.imperial-library.info/content/tale-princess-anurraame)
-
----
-
-## The Tale of Syrabane
-
-ID: ext-0171b65a1ddf3953f4c0
-
-(Music: Epic and Adventurous)  
-  
-Gather round and hear the tale  
-  
-Of Archmage Syrabane  
-  
-Through his mercy and his might  
-  
-He stopped the Thrassian Plague  
-  
-A war was the only way  
-  
-To stop the plague at hand  
-  
-So Syrabane called for aid  
-  
-All throughout the land  
-  
-CHORUS  
-  
-Oh, Syrabane, oh Syrabane  
-  
-Ye mer of godly fate  
-  
-Oh Syrabane, oh Syrabane  
-  
-The youngest of the Eight  
-  
-Man and Mer took up the call  
-  
-They knew they could not fail  
-  
-Together they combined their might  
-  
-The All Flags Navy sailed  
-  
-With Bendu Olo at his side  
-  
-Slinging sword and spell  
-  
-Syrabane beat back the tide  
-  
-The Coral Kingdom fell  
-  
-CHORUS  
-  
-Now good mer, remember well  
-  
-The Archmage Syrabane  
-  
-For when dark times came to pass  
-  
-He knew to ask for aid  
-  
-CHORUS
-
-[출처](https://www.imperial-library.info/content/tale-syrabane)
+[출처](https://www.imperial-library.info/game-books/elder-scrolls-online-books)
 
 ---
 
-## The Tale of Three Moons
+## 주택을 판매합니다!
 
-ID: ext-5a4f677fcd756d3ec1b5
+ID: ext-4641f11096333ebcb7af / ESO 책 ID: 3970 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-In a time before our people’s first memory, but long after Azurah’s pyre claimed the flesh of the proud lion, Lorkhaj, our great mother wept and sighedÐhaunted by the fate of her brother’s dark heart. As she prowled the hills and valleys of her wide domain, she could not escape the poundingÐthe faint, but constant drumbeat from across the churning seas. Somewhere in the Great Darkness, the fell rhythm of the Moon Beast quickened and grew stronger.  
+전쟁과 투쟁의 시대인 지금이야말로 내 집 마련의 절호의 기회입니다! 평민에서 상인 영주에 이르기까지, 탐리엘 방방곡곡에서 임대하거나 소유할 수 있는 매물이 가득합니다.  
   
-Knowing that her children of many shapes would fall to the Moon Beast’s profanity, she purred across the stars, coaxing the lanterns of Jone and Jode to make way for a sky-guardian. This third moon and shield of the Lattice shone its light down upon Azurah’s litter of purest heart and most fervent obedience. She called these cats the Litter of the Hidden Moon, and taught them the lunar byways, and secrets of the merciful blade. From that time on, they loved her as no other Khajiit could love her, and in that love, found sympathy for all cats bent by the beating of the Heart.  
-  
-Beloved adepts, take these words into your heart and know that we keep Azurah’s commandments still. For we are all children of the Hidden Moon.
+저희의 믿음직한 중개인들은 미래의 고객이신 여러분을 언제든 기쁜 마음으로 맞이합니다. 내 집 마련이 안겨 줄 멋진 기회들을 함께 이야기해 보시지요. 오늘 가까운 대출 기관에 들르셔서 <<1>>께 무료 상담을 청해 보십시오!
 
-[출처](https://www.imperial-library.info/content/tale-three-moons)
+[출처](https://www.imperial-library.info/content/homes-sale)
 
 ---
 
-## The Ternion Monks
+## 죽은 자를 향한 경의
 
-ID: ext-ed3dc116a0f88b0ae001
+ID: ext-672e87a779573f3b7a1f / ESO 책 ID: 1487 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Some call them a cult. Others say worse things. But the Ternion Monks carry on a tradition that honors the Three Old Gods and the totems associated with them. While the religion is ancient, its followers are few. In many respects, the Ternion movement is slowly dying, as very little proselytizing takes place by the current contingent of monks. Fewer and fewer converts take up the worship of the Three Old Gods, and soon the religion may become nothing but a vague memory.  
+현대 레드가드 문화의 투와카와 Burial 의식  
   
-Known for their healing magic, the Ternion Monks can call forth aspects of the Three Old Gods. With the help of these aspects, the monks can perform tasks beyond the scope of mere mortal limitations. The aspects take the forms of the Three Old Gods: the Fox, the Bear, and the Wolf.  
+수사 오필리오 콩고니우스 저  
   
-The Fox is crafty and quick, and its aspect enhances the speed and agility of the monks who call upon him.  
+세상을 떠난 조상에 대한 레드가드의 숭경은 다른 많은 종족이 신들에게 바치는 헌신에 견줄 만하다. 브레튼이 화려한 아치 아래 성별된 땅에 보관함을 내려놓거나, 노드가 바람에 건조된 시신을 Burial 묘실 선반에 안치하는 것과 달리, 레드가드는 죽은 자들을 위해 방대한 장례식 건축물을 설계하고 세운다. 위엄이 규모에 뒤지지 않는 구조물이다. 레드가드를 태어나기 전부터 죽음 이후까지 묶어 두는 명예의 실은 질기고 굳건하다. 하늘 높이 솟은 이 거대한 영묘들은 순수한 요쿠다 건축 양식을 가장 온전하게 구현하는 것으로, 영혼을 드높이 날려 그들이 믿는 신들과의 만남으로 이끌기 위해 세워졌다.  
   
-The Bear is strong, mighty. A protector. The aspect of the Bear enhances strength and shields those who call upon him from harm.  
+이러한 Burial 유적의 가장 빼어난 예는 아마도 해머펠 알리키어 사막의 광대한 대지 정상에 자리한 투와카의 왕좌일 것이다. 이 웅장한 사원은 책략의 신, 영혼의 셰퍼드, 파 쇼어의 관리인에게 봉헌된 곳이다. 사막 초원 지대를 오르고 대지 측면을 깎아 만든 석재 계단을 따라 올라가면, 바위와 모래가 펼쳐진 이 평평한 공간의 정상에서 마주하는 놀라운 전망에 먼저 압도된다. 투와카의 왕좌를 언제나 경건히 유지하는 감시자인 왕좌 수호자들을 지나고 나면, 비로소 이 성소의 진정한 장엄함이 눈에 들어온다.  
   
-The Wolf is sly and observant, ferocious and deadly. She watches and waits, looking for the best opportunity to make her move. The aspect of the Wolf enhances vision and perception, allowing those who call upon her to see more clearly, to notice the hidden and the obscure.  
-  
-The Ternion Monks prefer nigh-inaccessible spots as places to meditate and worship. Often, the only way to get to these holy retreats is to use the magic of the monks. A guardian is always appointed to open the way to the retreat, but will only do so for other monks or if the need is great and the requester is worthy.  
-  
-I have spent time with the monks, learned something of their ways and seen their healing magic in action. I believe that they are good people, following a worthy tradition. But I fear that when this generation comes to an end, the Ternion Monks and the Three Old Gods they worship will fade away.  
-  
-And that will be a sad day, indeed.
+이 네크로폴리스는 넓게 뻗은 Burial 터이자 신성한 유적이다. 이 성소 어두운 구석에서 바라보는 투와카의 시선 외에도, 사원은 대륙이 파도 아래로 가라앉을 때 목숨을 잃은 헤아릴 수 없는 요쿠다의 넋을 기리는 기념비 역할도 하고 있다. 순례자들은 따갑게 타오르는 모래밭을 건너 이 희생자들과, 이 미궁 같은 네크로폴리스에 안장된 레드가드의 역대 왕들에게 경의를 바치러 온다.
 
-[출처](https://www.imperial-library.info/content/ternion-monks)
+[출처](https://www.imperial-library.info/content/reverence-dead)
 
 ---
 
-## The Thief God’s Treasures
+## 죽은-물 수수께끼 조각
 
-ID: ext-15adb8d12c1d8ab4f860
+ID: ext-1136fe441b6da984f369 / ESO 책 ID: 5203 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Spitter Rajhin, he who is fleet of foot, the very embodiment of speed, agility, and slyness, has borrowed many treasures from coffers across the lands. No possession is safe from his desire—not even those of the Daedric Princes.  
-  
-Rajhin’s most well-known plunder was the celebrated Ring of Khajiit, named after our people. It was once the Anticipation’s Finger, and only found its way to Tamriel because it was stolen from the eighth arm of the Webspinner herself. With the Ring of Khajiit, Rajhin grasped the spark of godhood. It wrapped him in shadow so dark that none could reach him. Not the Anticipation of Vivec; not even the passage of time.  
-  
-But Rajhin wasn’t finished. On his way out, he spied the killing word of the Spider, the black edge of shadow, and claimed it, as well. So swift were these takings that the Anticipation of Vivec was unaware anything went missing. Dark and sharp was the anger that followed, but Rajhin was no longer there. Rajhin is not cruel, or malicious—sometimes, when the Moons fit his mood, he gives them back.  
-  
-From the Webspinner’s threads, Rajhin found his way to a land where all trees have fallen, and the only currency is knowledge. There, Rajhin pillaged the Book that Knows from the one who knows it all and disappeared amongst sheaves in the wind. The lord of that land has never stopped seeking his treasured volume, and, sometimes, when the Moons are right—he finds it. Because, sometimes, Rajhin gives it back.  
-  
-They say that, eventually, Rajhin took too much, too often, that the Ring of Khajiit tired of his capers. They say that the Ring abandoned Rajhin as he was surrounded by enemies, that it was his undoing. This one knows that Rajhin simply gave the Ring back.
+"돌 아가리 속 정원에서."
 
-[출처](https://www.imperial-library.info/content/thief-gods-treasures)
+[출처](https://www.imperial-library.info/content/dead-water-riddle-fragment)
 
 ---
 
-## The Thief’s Luck
+## 죽음 속에 약속이 있나니
 
-ID: ext-f8d3923dba8e393ece48
+ID: ext-16441b2a6c43b4751390 / ESO 책 ID: 5493 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-As the skeletal atronach approached,  
+네트 잔 우르 젠드라이 초리  
   
-Into shadows he retreated.  
+ 모든 것에 끝이 찾아오나니  
+ 죽음 속에 약속이 있노라  
   
-Upon steed of blackest black,  
+ 전투에 지친 검을 내려놓고  
+ 전투의 흔적이 새겨진 방패를 곁에 치워두니  
+ 모두가 평온함 평화 속에 잠들리라  
   
-The thief grinned as traps bit bone.
+ 네트 잔 우르 젠드라이 초리
 
-[출처](https://www.imperial-library.info/content/thiefs-luck)
-
----
-
-## The Thief’s Riddle
-
-ID: ext-9f8327338bc4eb58d567
-
-What you’ve sought to mend  
-  
-Has been spirited away  
-  
-To the grave of snake men
-
-[출처](https://www.imperial-library.info/content/thiefs-riddle)
+[출처](https://www.imperial-library.info/content/death-promise)
 
 ---
 
-## The Thirsty Dead
+## 죽음과 두려움의 선물
 
-ID: ext-4057514d0deda3a8d3f2
+ID: ext-4bafa25151a48397c460 / ESO 책 ID: 5483 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Insipid fools would say that necromancy is the art of animating skeletons and binding bones together. Their lack of imagination and respect for this ancient and tragic art form is apparent from the start. True necromantic rituals require far more than dusty bones and sacked graves. The most effective necrotic conjurations are those that are fresh: ones whose beating hearts have bled out before the summoner, soaking the ground in their viscera and life force.  
+에로크 파 오후시 지리트 케슨  
   
-It is precisely this precious spillage that calls to the dead who have been long buried. Necromantic adepts must remember this, as sometimes a graveyard must be awoken, regardless of the age of the bones. In these cases, an offering should be made to the dead. A taste of that vital energy their bones no longer carry.  
+ 모든 드래곤가드여 기억하라  
+ 죽음과 두려움의 선물을  
   
-Skeletons, after all, have their uses. More advanced constructs can even channel magicka and perform magical tasks on behalf of their master. But there is a carnal force carried in the flesh, borne on the breath, and saturated in the blood that all skeletal remains crave. The bones seek what they no longer have.  
+ 우리의 적은 끝이 없고 오만하니  
+ 우리처럼 생각지 못하고  
+ 오직 얻는 것만 헤아릴 뿐, 잃는 것은 결코 모르노라  
   
-When resurrecting more than a few skeletons, or more than the most basic constructs, followers of the dark practice should whet the appetite of long-dead bones for the living world. The taste of blood and the release of vitality is irresistible to spirits that have otherwise been dormant. Like water to a person dying of thirst, once the dead remember the taste of life, they cannot go back to sleep.  
-  
-Sourcing the offering is another matter entirely, generally a more personal choice among practitioners. For some, the forceful taking of a life is part of the art. Stealing a life to reawaken the dead has a certain poetic beauty. Others prefer willing sacrifices, both for practical purposes and the ability to choose the precise time and place of the bloodshed. Still others hold that their own blood should be offered to the dead, but this is a fool’s errand. Even the largest and most hardy necromancer cannot offer more than a few drops, and giving the deceased a taste of one’s own blood is highly ill-advised. After all, the dead are thirsty. They will take what they can get.
+ 에로크 파 오후시 지리트 케슨
 
-[출처](https://www.imperial-library.info/content/the-thirsty-dead)
-
----
-
-## The Thousand Arrows
-
-ID: ext-44705da9db6dcb25b620
-
-The Thousand Arrows was a Champion shrouded in mystery. She entered the tournament alone, yet she bested all the other gladiators with skill and precision, and did not suffer a single wound herself. After Hagrof the Righteous fell, The Thousand Arrows remained in seclusion, only emerging when a new challenger entered the arena. Her favored weapon was a bow equipped with poison-tipped arrows. The poison itself was from a recipe of her own devising. The slightest scratch could fell the largest opponent in seconds. She took this recipe to her grave, and its precise ingredients are hotly debated by alchemists all across Tamriel to this day.  
-  
-Usurped: Hagrof the Righteous  
-  
-Defeated By: Lucius the Stalwart
-
-[출처](https://www.imperial-library.info/content/thousand-arrows)
+[출처](https://www.imperial-library.info/content/gifts-death-and-fear)
 
 ---
 
-## The Time Is Now
+## 죽음과의 밀애
 
-ID: ext-50e0f1f4ad6646643080
+ID: ext-f74523f25cb618de0c15 / ESO 책 ID: 929 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Time is immediate. The clash of arms, the roar of victory, the grief and tragedy of defeat … they all happen now. Moment-to-moment the world exists, or it doesn’t. The past, the future; none are more important than the present.  
+미리스 드레스 저  
   
-I am forever free, regardless of whether the Hound’s spell binds my body. Release me from my bonds if you will, knowing that what happens now is most important. Death is just another moment in time, and when it comes, I will endure it.  
+우리에게 들으려는 의지와 들을 수 있는 솜씨만 있다면, 죽은 자에게는 들려줄 말이 그토록 많다. 나의 연구는 이미 강령술과 죽음 마법에 관한 내 지식을 크게 넓혀 주었다. 어찌하여 나는 죽음에 매혹되는가? 그것은 어린 시절로 거슬러 올라간다고 믿는다. 그 무렵 나는 우리에 갇혀 병들고 죽어 가는 노예들을 지켜보며, 그들의 고통과 괴로움에 경탄하곤 했다.   
   
-The Lady stands alone,  
+그중에서도 특히 한 노예가 있었으니, 아빌라르라는 이름의 카짓이었다. 내가 어렸을 적에 아빌라르는 이미 노쇠한 몸이었다. 그는 드레스 가문의 아이들에게 다정했고, 우리 중 가장 어린 아이들의 스승이자 보호자 노릇을 했다. 나도 그의 제자 중 하나였다. 그는 늘 들려줄 이야기와 나눠 줄 사탕을 지니고 있었다. 나는 그가… 흥미롭다고 여겼다. 노예치고는.  
   
-Her will by rituals besieged.  
+어느 날, 아빌라르는 우리를 가르치고 돌보러 오지 않았다. 대신 이름은 기억나지 않는 아르고니안 하나가 그를 대신해 왔다. 내가 그 카짓의 안부를 묻자, 아르고니안은 아빌라르가 병들어 다시는 돌아오지 않을 거라고 했다. 병이란 늘 그러했듯 나의 호기심을 자극했고, 기회가 생기자마자 나는 그 노쇠한 카짓을 찾아 나섰다.  
   
-The Warrior stands alone,  
+나는 노예 우리에서 아빌라르를 찾아냈다. 그는 가문의 노예들이 침상으로 쓰는 딱딱한 단 위에 누워 있었다. 두 눈은 감겨 있었으나, 마치 끔찍한 꿈에 시달리듯 몸을 뒤척이고 또 뒤척였다. 나는 의자를 찾아 아빌라르 곁에 앉아, 그가 죽음으로 미끄러져 가는 매 순간을 지켜보며 기록하기로 마음먹었다. 지나가던 어머니는 내가 아끼는 종의 마지막을 곁에서 지켜 주는 것이라 여겼다. 나는 굳이 내 행동을 달리 설명하려 들지 않았다.  
   
-His strength by liars mocked.  
+아빌라르가 숨을 거두기까지는 사흘이 걸렸다. 그동안 그는 의식이 들었다 나갔다 했다. 어떤 때는 완전히 또렷하여, 내가 곁에 있어 준다는 데에 진심으로 감동한 듯 보였다. 또 어떤 때는 헛소리를 하며, 내가 전혀 알지 못하는 장소와 사람들을 이야기했다. 나는 그 횡설수설하는 시간이야말로 실은 삶과 죽음의 경계를 엿보는 순간이라고 판단했다. 그의 영혼이 점점 더 잦아지는 빈도로 그 경계를 오가고 또 오가니, 아빌라르의 정신이 어리둥절해진 것이었다.   
   
-The Lord stands alone,  
+마침내 끝이 다가오자, 나는 더 가까이 다가가 아빌라르의 두 눈을 똑바로 들여다보았다. 그 안에서 두려움을, 그리고 체념을 보았다. 그의 정신이 마침내 그 경계 지대의 수수께끼와 기이함을 헤아리기 시작하면서 막 동터 오르는 깨달음을 보았다. 나는 그에게 무엇이 보이는지, 무엇을 아는지, 무엇을 겪고 있는지 말해 달라고 청했다. 그가 막 말을 빚어내기 시작했고, 막 그 비밀을 내게 드러내려 했다. 그리고 나는 그의 두 눈에 깃든 빛이 흐려지고 숨이 그르렁대며 빠져나가는 것을 지켜보았다. 그는 마지막 한마디조차 내뱉지 못한 채 숨을 거두었다.  
   
-His rule by traitors taken.
+바로 그날이었다. 그날이 죽음과 그 수수께끼를 향한 나의 탐닉이 시작된 날이었다. 나는 죽음과 죽어 감의 비밀을 밝혀내는 데 내 삶을 바쳐 왔다. 나는 강령술의 힘을 다스리는 법을 익혔다. 그러나 여전히 몇 가지 핵심적인 비밀이 나를 비껴간다. 설령 백만의 노예가 죽어야 한다 해도, 나는 결코 탐구를 멈추지 않으리라. 따지고 보면, 지식보다 더 중요한 것이 어디 있겠는가? 아빌라르가 내게 그것을 가르쳐 주었으니, 나는 언제까지나 그의 가르침을 기릴 것이다.
 
-[출처](https://www.imperial-library.info/content/time-now)
-
----
-
-## The Time Is Past
-
-ID: ext-7a6aa196535ef0e4f99d
-
-Time flows like a river, sweeping away the flotsam and jetsam of history with every moment. If we look upstream, we see the white water of the past and can predict the turbulence of the present and the torrents of the future. All is as it once was.  
-  
-I have been free in the past and shall be in the future, whether you break my bonds or not. The Silvenar has always been and so always shall be. Take comfort, or fear, in that.  
-  
-Dance the endless dance, oh, children,  
-  
-And cast the forever spell!  
-  
-Learn your sacred rites,  
-  
-Apprentice to your times.  
-  
-The masters of magic, the mages  
-  
-They shall compose the rhymes.
-
-[출처](https://www.imperial-library.info/content/time-past)
+[출처](https://www.imperial-library.info/content/affair-death)
 
 ---
 
-## The Time Will Come
+## 죽음과의 조화 이루기
 
-ID: ext-9cd95f05f0847e13d058
+ID: ext-4b6df01760becf60b3e7 / ESO 책 ID: 5733 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Time spreads out before us, like the branches of a great tree. But the branches narrow, and the leaves that sprout grow ever thinner. I tried to warn the other spinners … Y’frre grant they heeded my messages, for I knew you would come.  
+뼈와 낫의 달인, 이미라 지음  
   
-Free me from the bonds he will create, and I will aid you as I can. Kill my spirit and the Silvenar can still prevail, but I will be unable to aid you in the future that grows before you.  
+뼈와 낫을 가르쳐 온 세월 동안, 제자들은 죽음과의 조화에 이르는 저마다의 여정에서 자신이 어디쯤 와 있는지를 드러내는 물음들을 던지곤 했다. 아직 그 길에 들어서지 못한 이들이 흔히 묻는 것은 이렇다. 죽음과의 조화를 이루려면 어떤 종류의 뼈를 써야 합니까? 또 이런 것도 있다. 매일 두 시간씩 명상하면 조화로운 초월에 더 빨리 이를 수 있습니까?  
   
-The Lovers strive to make wrong right,  
+이런 물음들은 그 제자들이 여전히 얼마나 삶에 매여 있는지를 여실히 보여 준다. 어떤 종류의 뼈를 쓰는지 궁금해하는 것은 점검 목록과, 옳고 그른 방식에 대한 물음과, 살아 있는 것에 붙이는 이름표에 마음을 두는 일이며, 그리하여 그대가 아는 그대의 삶이 끝나는 바로 그 순간에서 마음을 멀어지게 한다. 명상에 시간을 정해 두는 것은 시간이라는 허상을 떠올리게 하니, 그 시간은 살아 있는 한 숨 쉴 때마다 째깍째깍 흘러간다. 죽음 속에서 시간은 아무 의미가 없다. 시간이 흐른다는 것을 인정하면, 그 결과 죽음과의 조화에 이르는 능력이 제약될 수 있다. 제자와 달인 모두에게 도움이 되도록, 제자가 그 길의 어디쯤 있는지를 가늠하는 내 나름의 생각을 아래에 적어 둔다. 물론 그대의 경험은 이와 다를 수도 있다.  
   
-The Shadow approaches, threatens endless night.  
+첫째, 제자는 '죽음과의 조화'라는 개념과 씨름해야 한다. 아직 그러지 못한 이에게는 누구든 이 명상을 수련 과제로 내린다. 산 자의 세계에 대한 자신의 집착을 의심하고 삶의 불확실함이 주는 불편함과 씨름하기 시작할 때, 그들은 비로소 그 길을 걷기 시작할 만큼 마음을 연 것이다. 그리고 제 죽음이라는 생각을 편안히 받아들일 수 있을 때라야 그 첫걸음을 뗄 준비가 된 것이다.  
   
-We rise to our doom in the Tower of the tree,  
+제자는 그 길을 찾지 못할 때 실패한다.  
   
-Our shackles broken, by you, for me.
+둘째, 제자는 조화로운 초월에 이르는 길이 저마다 다르다는 것을 깨달아야 한다. 이미 그 길을 찾은 이들조차 여전히 일종의 확실함을 구한다. 다음 걸음은 무엇입니까? 이 여정은 어떤 모습입니까? 무엇을 피해야 합니까? 무엇을 꼭 해야 합니까?  
+  
+이 모든 물음은 자연스러운 것이나, 동시에 '옳음'과 '그름'에 대한 집착을 드러내기도 한다. 거듭 말하건대, 조화로운 초월에 이르는 길은 사람마다 다르다. 이 제자들이 다음 걸음이 어디에 닿을지 확실히 알지 못한 채로도 편안해질 때, 그들은 자신의 바른 길을 가고 있는 것이다. 그보다 더 구체적인 지표는 쓸모가 없으니, 거듭 말하지만 그들의 길은 그들 자신의 것이기 때문이다. 또한 불확실함을 편안히 여기는 느낌은 사람마다 다르다.  
+  
+제자는 자신의 길을 따르지 못할 때 실패한다.  
+  
+셋째, 조화로운 초월은 한번 이루었다 하여 영영 간직되는 것이 아님을 깨달아야 한다. 그대는 그 조화로운 초월의 자리에 머물기를, 곧 죽음과의 조화를 지키기를 거듭 선택하는 것이다.  
+  
+달인조차 이 일에서는 실패한다. 그렇다고 그들이 달인이기를 그르친 것은 아니다. 오히려 조화에 이를 만큼 이미 제 길을 충분히 걸어온 뒤에 이 실패를 받아들이는 것이야말로 달인의 증표다.
 
-[출처](https://www.imperial-library.info/content/time-will-come)
-
----
-
-## The Time of the Ebonheart Pact
-
-ID: ext-b2e5e746675d3d302af6
-
-The Wheel of Time turns: in the dawn, it was the day of the Aldmeri, and then came the time of Men—but now, as the decay and chaos in the Empire makes clear, the time of Men has past. Of the Men of Tamriel, only the Eastern Nords had the strength of character to join Dunmeri and Argonians in repelling the recent invasion of Snake-Men from Akavir, thereby showing that of all Men, only they may be trusted.  
-  
-Time and again Men have shown that without proper guidance, their meddling with External Powers leads to disaster. Men’s reckless dabbling with beings beyond Nirn must stop forever. Now it is the time of the Ebonheart Pact, which shall and must become the Tamriel Pact. Within the Pact, the Aedra, Daedra, and Hist are all revered … from an appropriate distance. Within the Pact is the Tribunal, three Living Gods who abide among us here on Nirn and whose interest therefore coincides with that of all residents of Nirn. Only they have shown how to treat successfully with powers beyond Nirn.  
-  
-The rash actions of those who sit the Ruby Throne, or who pull their strings, have brought Tamriel to the verge of irretrievable doom. They must be scoured from the face of Cyrodiil, and the decaying remains of the Empire of Men must be swept away. It shall be replaced by the Pact, which will enforce peace across the continent and strictly regulate all involvement in dangerous magical pursuits.  
-  
-Onward, warriors of the Pact! We will never know peace and freedom until we occupy White-Gold Tower!
-
-[출처](https://www.imperial-library.info/content/time-ebonheart-pact)
+[출처](https://www.imperial-library.info/content/achieving-harmony-death)
 
 ---
 
-## The Tomb of Ja’darri
+## 줄리아노스의 방패
 
-ID: ext-91b8de5c0bdfd2e42870
+ID: ext-508b91984156a82dd22b / ESO 책 ID: 8130 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Here rests Ja’darri the Endless  
+하데라스 돈톤 신부의 강론  
   
-Founder of the Pride of Alkosh  
+스킨그라드에서 주변 건물들 위로 우뚝 솟아 있는 것은, 지혜와 논리의 신성 줄리아노스에게 바쳐진 대예배당이다. 그러나 스킨그라드는 와인과 풍요로움, 그리고 축제로 이름난 곳이다. 논리와 이성을, 그 엄격하고도 사변적인 탐구를 관장하는 신이 어찌하여 이곳에서 가장 크게 기려지고 있는 것인가?  
   
-First champion to the Dragon King of Cats  
+과연 줄리아노스는 모순의 신으로도 알려져 있다. 그러나 그것은 설명의 한 자락에 지나지 않는다.  
   
-May she watch over these halls  
+대예배당이 선 자리는 본디 숭배의 땅이었으며, 필시 어느 데이드릭 프린스에게 바쳐졌을 것이다. 그것이 정확히 어느 데이드릭 프린스였는지는 알려지지 않았으니, 현존하는 도상 가운데 그 어떤 프린스와도 들어맞는 것이 없는 까닭이다. 그러나 에일리드인과 데이드릭을 숭배하던 그들의 동맹자들이 이 땅에서 추방되면서, 줄리아노스 숭배가 이곳에 뿌리내렸다. 스킨그라드가 번성함에 따라, 그 대예배당과 부속 학교는 탐리엘 전역으로부터 온갖 학자와 현학자와 철학자들을 불러 모았으니, 그들은 진실을 탐구하는 한편 저마다의 진실을 그곳에 보태었다.  
   
-And guide those who do seek  
+대예배당은 디바인들의 숭배자들은 물론 배교자들 사이에서도 토론과 논쟁, 그리고 철학적 충돌이 벌어지는 곳이 되었다. 줄리아노스의 신앙은 다양한 관점을, 심지어 이미 확립된 교리와 부딪치는 관점조차 기꺼이 맞아들였다. 에잇 디바인의 아홉 계명에서 줄리아노스는 이렇게 이른다. "진실을 알라. 법을 지키라. 의심스러울 때에는 현명한 자에게서 지혜를 구하라."  
   
-The Mask of Alkosh
+그리하여 이곳을 찾는 이들은 지혜를 구하며, 크고 작은 물음 속으로 파고든다. 창조 이전에는 무엇이 존재하였는가? 세계는 진실로 어떻게 생겨났는가? 모든 것을 보는 디바인들이 있는데도 자유 의지가 가능한 것인가? 데이드릭 프린스들이 타고난 본성에 매여 있다면, 그들은 진정 자유로운가? 논객들은 먼 곳에서부터 모여들어, 예배당 경내와 그 주변의 선술집에서 이러한 논제들을 헤아린다.  
+  
+예배당은 그것이 예의를 갖춘 것인 한, 이러한 모든 토론을 환영한다. 그리하여 이러한 겨룸은 싸움으로 번지기보다는 와인 한 잔을 사이에 두고 벌어지는 일이 더 많다. 칼을 맞대는 대신 말을 맞대는 것이다. 철학자들은 자기 논점의 타당함과 인망을 다른 이들에게 납득시키고자, 곧잘 축제와 향연을 주최한다. 그리하여 스킨그라드는 축제의 도시가 되었으며, 그 한가운데에는 진실의 신성이 자리하고 있다. 모순처럼 보이나, 줄리아노스는 본디 모순의 신이라 일컬어지며, 가장 위대한 진실을 좇기 위하여 무수한 진실을 품을 수 있는 존재이다.  
+  
+바로 여기에 그 핵심이 있으니, 진실이란 언제나 맞부딪쳐야 하는 것이다. 언제나 도전받아야 하는 것이다. 언제나 시험받아야 하는 것이다. 겉으로 드러난 모순이 진실을 무효로 만든다면, 그것은 온전한 진실일 수 없다. 논리가 줄리아노스의 방패라면, 모순은 그 검이다. 떠밀려 보지 않은 벽은 참된 목적을 다하지 못한다. 시험받지 않은 미덕에는 무게가 없다. 도전받지 않은 사상은 한낱 교조에 불과하여, 그 사제에게도 그 신도에게도 이로움이 없다. 그 궁극의 진실이 바로 줄리아노스 신앙의 한가운데에 놓여 있다.  
+  
+예로부터 그러하였고, 앞으로도 영원히 그러하리라.
 
-[출처](https://www.imperial-library.info/content/tomb-jadarri)
-
----
-
-## The Tonenaka Shrine
-
-ID: ext-79c21fb4e430dbc54afb
-
-A Study in Akaviri Mystique  
-  
-By Magnate Feina-Darak  
-  
-When the Khajiit and Rim-Men of Northern Elsweyr granted asylum to the Akaviri refugees of the fading Potentate, the first of the arrivals were bequeathed the unused crypts west of the capital. In these, they would bury the dead that did not survive the flight from the Imperial City.  
-  
-The monarchs of the region, King Savlian of Rimmen and Queen Padala of the Anequina Khajiit, decreed that the Akaviri survivors would be resettled within the capital and the fertile hills to the south. They brought with them many of their retainers, full-blooded Imperials who were nevertheless devoted to their former rulers.  
-  
-Though Rimmen already had an eclectic society as a crossroads of Imperial and Khajiiti trade, the strange aesthetics, culture, and even food of the Akaviri settlers changed the city forever. The most unusual contribution of the Akaviri, if one can call it that, was the construction of the Tonenaka Shrine in the northern district of Rimmen.  
-  
-Built with Khajiiti stonework influenced by Akaviri architectural styles, the Tonenaka Shrine became something of a cultural touchstone for the remaining Akaviri settlers and their former Imperial subjects. Their patriarchs commissioned the construction of ten thousand statuettes of carved stone, bringing sculptors and engineers from across southern Tamriel to aid in the project.  
-  
-Indeed, the vast wealth that these Akaviri settlers brought with them to finance the project greatly increased Rimmen’s prosperity. However, as the years passed, so few of the Akaviri remained that only five lived to see the Shrine’s completion. Most had interbred with the Imperial population or settled farther south in the village of Hakoshae.  
-  
-When the final statue was placed, these five Akaviri entered the Tonenaka Shrine and sealed its doors behind them, placing powerful wards upon it to prevent entry. This wasn’t part of the original agreement between the Rimmen authorities and the Akaviri builders, but with the promise of gold their ire was assuaged.  
-  
-The Shrine remains sealed to this day, with only occasional work being done to its exterior to prevent degradation of its marvelous stonework.
-
-[출처](https://www.imperial-library.info/content/tonenaka-shrine)
+[출처](https://www.imperial-library.info/content/the-shield-of-julianos)
 
 ---
 
-## The Totems of Hircine
+## 중갑 단조
 
-ID: ext-5604da6976633240d384
+ID: ext-9a01f6da5c4a217e61ec / ESO 책 ID: 1125 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Among those of us to whom Lord Hircine bestowed his most precious gift of Lycanthropy, there are legends that he also set into the world specific artifacts of his power. They date to a period when men could neither write, nor speak, nor barely think, but the powers of blood of the beast were yet flowing strong among the selected.  
-  
-The first: a carved skull, of the wolf itself. Used by those ancient shamans in the blood ceremonies that created our lineage, it is said to grant a great presence to those who prostrate themselves before it, such that those who witness their forms cower in a terror unknown except to those who have glimpsed the face of Hircine himself.  
-  
-The second: a thigh bone, carved as the skull, but from some animal unknown. Used as some form of medicinal wand in the more ancient brotherhood, it was said to grant a kind of heightened awareness, both in sight and smell, such that the prey could never flee too far from our senses.  
-  
-The third: a simple drum, its mundane appearance meaning it is most likely lost to the mists of long ago time. As our fathers would beat time to summon their brethren from the fields, so too would our forebears in the blood call their allies to them with its pounding.  
-  
-Through these totems, we channel and focus our energies of the beast. While werewolves give up the powers of magic known to men, we can tap into a more direct natural energy at times, and through these totems, discover the abilities that first tamed the world before wrought civilization sullied it.
+중갑은 수많은 타격을 견뎌 낼 수 있도록 설계되어야 하니라. 착용자를 보호하면서 온갖 무기의 직격을 맞아야 한다. 가죽 끈은 모든 방어구의 띠와 결박에 사용되느니라.  
+   
+철과 강철은 다루기 쉽다. 열을 가하고 두들겨 형태를 잡으면 된다. 단련할 때의 열은 그다지 중요치 않다. 금속을 줄로 깎아내지 않도록 하라. 항상 금속을 아끼고, 다시 두들겨 형태를 잡으라.  
+   
+철 방어구에는 철 주괴이 많이 필요하다. 대장장이는 철 방어구 한 세트를 완성하는 데 수십 개가 필요할 수도 있다. 강철 방어구는 주로 강철 주괴을 쓰지만, 철도 일부 쓰이느니라.  
+   
+드워프 방어구는 드워프 금속으로 만들어진다. 이 소재의 비밀은 드워프가 수천 년 전 사라질 때 함께 사라졌다. 오늘날에는 그들이 버리고 간 도시와 요새 유적의 잔재에서만 찾아볼 수 있다.  
+   
+오시머 방어구에는 오리할콘이 많이 필요하며, 소량의 철과 혼합한다. 취성을 막기 위해 열은 절제해서 써야 한다. 오시머가 이 기술의 달인이지만, 인내와 솜씨가 있는 대장장이라면 누구든 배울 수 있다.  
+   
+강철 판금 갑옷은 용융 강옥에 강철을 더해 만든다. 이 합금은 어느 금속 단독보다도 강하다. 강옥은 까다로운 소재로, 단련할 때의 열이 균일하게 유지되어야 한다.  
+   
+에보니는 가열했을 때만 작업할 수 있다. 차가운 상태에서 두드리면 미세한 균열이 생기고, 결국 소재가 산산이 부서진다. 다른 대부분의 방어구와 달리, 에보니는 철과 합금하지 않는다. 순수한 에보니만을 써야 하느니라.  
+   
+데이드라 방어구를 만드는 법에 대해서는 이야기만 전해 줄 수 있을 뿐이다. 나 자신은 본 적이 없고, 본 사람도 아는 이가 없다. 이야기에 따르면 항상 밤에 작업해야 한다 하더라… 초승달이나 보름달이 뜬 밤이 이상적이며, 황혼의 땅 중에는 절대 안 된다. 붉은 수확의 달이 가장 좋다. 에보니가 주재료이되, 절묘한 순간에 데이드라 심장을 불 속에 던져 넣어야 하느니라.
 
-[출처](https://www.imperial-library.info/content/totems-hircine)
-
----
-
-## The Tower of the Wolf
-
-ID: ext-e9eb55ceaac8621432ee
-
-From the Masonry of Solitude Digest  
-  
-I have had few opportunities to update my initial corpus on the construction and stylings of my beloved homeland, and even now my quill shakes with curiosity. To think that, within my lifetime, I would be able to put to paper a fifth addendum, and one that involves so illustrious an architectural example as Castle Dour!  
-  
-Yes, loyal readers of my digests will be familiar with the Main Keep, the Svartr’s Donjon, the Temple of the Divines, and the curtain walls that dominate the skyline of Solitude. Our High King Svargrim has seen fit to add another finger to this stone fist—the most ambitious one yet! Though construction only started within the past year, it already nears completion.  
-  
-We call the new edifice the Tower of the Wolf, drawing its name from the noble beast that adorns Solitude’s heraldry. How impressive it looks, sweeping up to the stark sky, dwarfing even Svartr’s Donjon! I am happy to report that the quarry which furnished the castle’s original stone was able to supply what was needed for the construction of the Tower of the Wolf. Reports of the quarry’s depletion were apparently unfounded.  
-  
-As excited as I am to discuss the Tower of the Wolf in greater architectural detail, I am unfortunately unable to. Access to the tower has been denied to all but those actively working on the structure. I appealed to the Blue Palace for special exception, given my area of interest, but the bureaucrats rebuffed me. I was undeterred in my appeals, and you can imagine my shock when I received a reply not from some minor courtier, but from the high king himself!  
-  
-“The interior spaces of the Tower of the Wolf must be maintained in secrecy, given the prying eyes of Jorunn the False King” wrote High King Svargrim. I could not deny his most pragmatic logic, for the tower is ultimately of military value. And yet there is hope. “The tower nears completion even as I write this missive,” High King Svargrim continued. “And when it is complete, the people of Solitude will understand what an accomplishment this edifice is for our people.”  
-  
-We need only wait, my loyal readers!
-
-[출처](https://www.imperial-library.info/content/tower-wolf)
+[출처](https://www.imperial-library.info/content/heavy-armor-forging)
 
 ---
 
-## The Translated Works of Tosmorn
+## 중갑: 어느 대장장이 부인의 조언
 
-ID: ext-ae496faea527c0b524d8
+ID: ext-d800957ecf01995dd462 / ESO 책 ID: 2452 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-The Translated Works of Tosmorn, I  
+가르샤그 그라-샤르쿠브 지음  
   
-Editor’s Note  
+장담하건대, 그대는 방어구 하나 만들 자질도 없을 것이다. 생각해 보라. 하루 종일 모루 앞에서 노예처럼 일할 수 있겠는가? 눈에 땀이 흘러내리는 가운데 철, 강철, 심지어 오리할콘을 팔이 더 이상 올라가지 않을 때까지 두드릴 수 있겠는가? 완벽한 장비를 단조할 때까지 무더운 몇 주를 쇠를 들고, 망치로 두드리고, 형태를 잡으며 보낼 수 있겠는가? 심각한 화상이 얼마나 두렵지 않은가?  
   
-Xandier Edette’s book, The Translated Works of Tosmorn, has proven to be controversial since it was published posthumously nearly two decades ago.  
+아직 여기 있는가? 좋다. 어쩌면 자질이 있을지 모르겠군. 진지하게 단조를 배울 생각이라면, 제대로 된 오크를 찾은 것이다. 나는 단조장에서 자랐으니, 풀무와 모루는 나의 친구였고 망치는 한 번도 손에서 놓지 않았다. 진짜 방어구가 어떻게 만들어지는지 알려주겠다.  
   
-Taken at his word, Edette spent his life combing the lands of the Reach in search of rare artifacts. In the course of this search, he claims to have discovered ancient Reachfolk manuscripts. These manuscripts, which Edette insisted were written in a now-dead script from a time when the Reach culture was at its apex, contained a cycle of epic poems, composed by the legendary vateshran, Tosmorn.  
+내 조언: 그냥 일단 시작하라! 광석을 구하고, 모루 앞에 서서, 단순한 부품들을 두드려 만들어라. 처음 작품들이 그리 멋지지 않을 수도 있으나, 하다 보면 요령이 생길 것이다. 가령 평범한 방어구를 가져다 더욱 강한 것으로 단련하는 법 같은 것들. 다른 대장장이의 작업도 최대한 눈여겨보아라. 이국적인 스타일과 재료를 연구하면 더욱 나아질 것이다. 하지만 아무것도 실천을 이길 수는 없으니, 어서 시작하라!
+
+[출처](https://www.imperial-library.info/content/heavy-armor-forge-wifes-advice)
+
+---
+
+## 중립 선언
+
+ID: ext-9d9a5f9b9094697aac9f / ESO 책 ID: 7780 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+현재의 분쟁 상황에 대하여  
   
-Edette spent decades translating these manuscripts into the modern tongue. His results are incomplete, which Edette contributed to the advanced deterioration of the manuscripts and his own imperfect knowledge of the script he sought to translate. He died shortly after completing his work and selling the manuscript for publication.  
+스킨그라드 백작 칼란티우스의 명에 의거하여  
   
-Almost immediately after their release, scholars decried the poems as fakes and Edette’s story as a fabrication. Most point to the fact that Reachfolk of today are a people with only an oral tradition, and nothing in the historical record suggests they ever used any sort of writing in the past. Other opponents of Edette’s narrative claim the Reachfolk are incapable of the level of artistic expression attributed to Tosmorn. This argument is facile, and often made by academics with no experience of the Reach or its vateshrans (lore keepers).  
+시로딜 제국이 현재 내부 정쟁과 분열된 세력으로 인해 혼란에 빠져 있는바,  
   
-In opposition to those that cry forgery are those that extol Edette’s work for bringing attention to the under-appreciated genius of Vateshran Tosmorn. In particular, they appreciate the fluidity, evocativeness, and rustic purity of the poetic fragments—a far cry from the rigid poetic forms of the Bretons and Imperials. They also point out that lost arts are not a rarity in Tamriel’s historical record. Thus, Edette’s claim of a lost Reach script is hardly an upheaval, especially when considering how little academic research has been devoted to the culture of Reachfolk in comparison to the other peoples of Tamriel.  
+또한 스킨그라드와 웨스트 윌드가 제국 내의 중요한 영토인바,  
   
-Both sides bemoan the lack of the one thing that could definitively prove or disprove Edette’s claims: the manuscripts he claims to have found and translated. Those who knew him in life said Edette was a reclusive and lonely soul, often isolating himself to wilderness camps for long stretches of the year while conducting his research and working on his translations. He was thought to have dozens of campsites throughout the Reach, though only a handful of these have been located by enterprising scholars, hopeful to rediscover Edette’s manuscripts. Opponents of Edette claim the reason the manuscripts are absent is because they never existed in the first place. Proponents of Edette posit the manuscripts, already decomposing when they were discovered, have likely rotted into nothingness.  
+또한 제국에 대한 우리의 헌신이 내외의 모든 위협으로부터 제국의 땅을 지킬 것을 요구하는바,  
   
-And so the matter stands, trapped upon a knife’s edge, caught between doubt and adulation. The years I have spent poring over the poetical fragments have offered me no answers. And so I invite you, dear reader, to read for yourself and wonder if what follows are our only window into the works of the acclaimed Reach vateshran, Tosmorn, or nothing but an elaborate forgery.  
+또한 스킨그라드 백작 영지는 루비 왕좌에 충성하되 어떠한 특정 세력이나 지도자에게도 귀속되지 아니하는바,  
   
-Vanesse Aurilie  
+이제 여기에 선언하노니, 스킨그라드와 웨스트 윌드는 동쪽 국경으로부터 서쪽 골드 코스트에 이르기까지 루비 왕좌에 위탁된 중립 영토로서 유지될 것이다.  
   
-5 Morning Star, 2E 322  
+이에 따라 스킨그라드는 웨스트 윌드 군단과 그 주둔지, 방어군을 포함하되 이에 한정하지 아니하는 모든 비동맹 제국군을 그 경내에서 지원하고 유지할 것이다.  
   
-The Translated Works of Tosmorn, II  
+이에 따라 스킨그라드는 알드메리 자치령, 에본하트 조약, 대거폴 동맹을 포함하되 이에 한정하지 아니하는 제국 내 분파들의 권위를 인정하지 아니한다. 이 세력들과 그 대표자들은 웨스트 윌드 내에서 아무런 권한도 갖지 아니한다.  
   
-First Fragment  
+이에 따라 이 세력들이 웨스트 윌드 내에서 행하는 모든 활동은 스킨그라드 및 그 충성스러운 영지의 주민과 방어군에 유해 저지될 것이다.  
   
-[Editor’s Note: The first of Xandier Edette’s translated poetic fragments features a dialogue from a larger piece which has since been lost. Edette’s own preface, below, suggests that this was from a work early in Tosmorn’s career as a vateshran (lore keeper) and is part of an epic tragedy, “The Love of Isolen.”]  
+이날 콜로비아의 지역 영주들과 의원들 앞에서 선포하고 서명함  
   
-Translator Xandier Edette’s Preface  
+스킨그라드 칼란티우스 백작
+
+[출처](https://www.imperial-library.info/content/proclamation-of-neutrality)
+
+---
+
+## 즈텐가나즈의 눈
+
+ID: ext-551596e1e27bf5bf7220 / ESO 책 ID: 3126 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+즈텐가나즈의 눈은 톱니바퀴 같은 바퀴에 박힌 커다란 보석으로, 전설에 따르면 제1기 초기 오크의 요새를 염탐하기 위해 드워프가 만들었다고 한다. 오시머와 드웨머 사이의 충돌이나 적대에 관해서는 기록이나 구전이 거의 남아 있지 않으나, 이 눈의 전설에는 그것에 무슨 일이 일어났는지 짐작케 하는 단서가 몇 가지 담겨 있다.  
   
-Below I provide the first of several fragments that I recovered while searching among the remains of an abandoned Reach hunting camp. The hides on which these words were scratched had become well-dampened from the snowmelt, and the sunlight of the thaw had only accelerated the lamentable decay. As such, only part of Vateshran Tosmorn’s text was legible enough to be translated. These have been arranged into verse to appeal to a modern reader’s sensibility, though this is an artificial construction. No such form was given to the script as originally scratched into the hide.  
+한 이야기에 따르면, 오크 주술사 저주술사 슐루그가 어느 습격에서 이 눈을 빼앗아 저주를 걸었다고 한다. 그때부터, 누구든 이 장치로 멀리 떨어진 오크의 요새를 부정한 의도로 들여다보면, 그 대신 자신을 미치게 만드는 기괴한 환영을 보게 되었다.  
   
-What follows is an exchange taken from what I have determined to be the first of Tosmorn’s attempts at epic tragedy: The Love of Isolen. Glynin, a hoary old warrior, learns of the death of his beloved daughter Isolen. His mourning is curtailed by the arrival of Vartorn, Isolen’s lover—and the only son of Glynin’s hated rival, the Reach witch Devera.  
+슐루그가 르킨다레프트 폐허 부근 어딘가에서 죽자, 이 눈은 역사에서 자취를 감추었다.
+
+[출처](https://www.imperial-library.info/content/eye-zthenganaz)
+
+---
+
+## 즉석 기념비
+
+ID: ext-fec1680411791c0d67e7 / ESO 책 ID: 4625 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+스롬 울프가르드, 이곳에서 잠들다. 그의 적은 돌이었다. 한 달간의 싸움 끝에 돌이 그를 꺾었다. 그의 싸움은 노래로 전해지지 않겠지만, 그럼에도 소븐가르드가 그를 맞아 주기를.
+
+[출처](https://www.imperial-library.info/content/improvised-memorial)
+
+---
+
+## 지고자의 도전장
+
+ID: ext-4ca2164b36d1bbe2fd25 / ESO 책 ID: 7713 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+지존께서 겨루기를 찾아 텔바니 반도에 당도하셨다!  
+  
+비벡이 총애하는 아들이자 한때 모언홀드의 어머니를 섬기던 탄원자였던 지존께서, 기지와 대담한과 기품을 겨루는 승부—테일즈 오브 트리뷰트에서 자신을 꺾는 자에게 명성과 부를 내리겠노라 선언하셨다!  
+  
+도전을 원하는 자여, 텔바니 반도의 심장부에 자리한 스리워터스 멜드에서 기다리는 지존을 찾을지어다.
+
+[출처](https://www.imperial-library.info/content/challenge-paramount)
+
+---
+
+## 지극히 돼지 같은 적
+
+ID: ext-733cc57a31fbe729ac8c / ESO 책 ID: 6577 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+들으시오, 들으시오!  
+  
+ 이 영예로운 초대장을 지닌 자는 누구든, 스톰헤이븐 땅의 해머데스 투기장에서 벌어지는 경기에 정중히 초대되노라. 무용과 명성, 그리고 돼지판 주먹다짐의 시련이 그대를 기다리나니.  
+  
+ 이 초대장을 <<1>>에게 가져가 킹 보어와의 정식 대결에 나서시오! 아니면 무작정 우악스럽게 뛰어들어 잔치판을 뒤엎어도 좋소. 그 또한 볼거리는 확실할 테니!  
+  
+ 광대 왕 에머릭—그리고 그 아리따운 왕비—의 포고로써, 이제 경기를 시작하노라!
+
+[출처](https://www.imperial-library.info/content/foe-most-porcine)
+
+---
+
+## 지브킨에 관하여
+
+ID: ext-c64144c7a38fda406639 / ESO 책 ID: 3143 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+평의회 상주 데이드라학자 펠라기우스 하보르 저  
+  
+데이드라학은 대참사에서 태어난 학문이다. 우리의 위대한 발견은 언제나 그을린 양피지 위에 떨리는 손으로 기록되어 왔으며, 내 경우도 다르지 않다. 차원융합은 데이드라에 대한 우리의 이해를 극적으로 심화시켰으나, 그 대가는 혹독하였다. 이번 재앙에서도 내 연구가 살아남기를 바랄 뿐이다.  
+  
+몰라그 발의 정예 선봉대인 지브킨에 관해 처음으로 기록하는 이는 내가 유일하리라 믿는다. '지브킨'이라는 명칭은, 물론, 시로딜의 언어에 크게 물들어 있다—지빌라이와 드레모라 양쪽을 닮은 외형에서 비롯된 조야한 혼성어다. 실제로 이들은 몰라그 발이 자신의 친위대로 '육종'한 혼혈 종족이다. 그들은 시간에 따라 스톨라브리크, 키므리키프, 비르사고 등 다양한 이름으로 자칭한다. 모든 필멸자 종족을 혐오하면서도, 동맹인 드레모라에게는 특별한 증오를 품는다. 지브킨은 충성에 각별한 의미를 두기에, 드레모라가 메이룬스 데이건을 배신한 행위를 용서할 수 없는 죄악으로 여기는 것이다.  
+  
+모든 데이드라 중에서 지브킨이야말로 몰라그 발을 가장 닮았다. 필멸자의 영혼을 향한 그의 끝없는 갈망과 소울젬 수집에 대한 집착을 함께 공유하기 때문이다. '수집'에 대한 이 광적인 충동은 내 눈에 일종의 광기처럼 보이는데, 고도로 진행된 뱀파이어병에 시달리는 자들의 상태와 흡사하다. 지브킨끼리 물리적으로 충돌하는 장면은 목격한 바 없으나, 더 많은 소울젬을 손에 넣으려 서로를 음해하는 일은 일상다반사다. 이러한 계략은 흔히 벌어지며, 상위 데이드라의 문책으로 이어지는 경우는 거의 없다.  
+  
+음모가 난무함에도 불구하고, 지브킨은 견고한 군율과 효율성을 유지한다. 몰라그 발에 대한 맹렬한 충성심에 신체적·마법적 힘이 결합되어, 이들은 데이드라의 타이탄 이래 가장 두려운 존재가 되었다. 아직 밝혀야 할 것들이 훨씬 많겠지만, 이 특정한 연구는 이쯤에서 마감하고자 한다.
+
+[출처](https://www.imperial-library.info/content/xivkyn)
+
+---
+
+## 지시 사항 목록
+
+ID: ext-07d759fe12c4e73e0dcf / ESO 책 ID: 1368 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+—경고—  
+  
+수정 탑의 연금술 동에서 히스트 수액 추출 장치를 막대한 비용을 들여 개발하였다. 추출 장치를 분실하거나 파손한 경우, 그에 따른 변상금은 해당 부대의 임금에서 천제될 것이다.  
+  
+미리 경고해 두노니. 히스트 수액은 자연 상태 그대로일 때 바람직하지 않은 성질을 다수 지니고 있다. 피부에 닿거나 증기를 흡입하지 않도록 하라. 어떤 상황에서도 히스트 수액을 복용해서는 아니 된다.  
+  
+미처리 히스트 수액의 기이한 효과를 경험한 자들이 있다. 해당 물질을 무단 사용한 경우, 그 나약한 구성원을 통제하지 못한 것으로 간주하여 분대 전원을 채찍질로 처벌할 것이다.  
+  
+직접적인 위반자는 이후 최소 여섯(6)시간 동안 늪지대의 썩은 웅덩이 중 하나에 잠긴 채 자신의 어리석은 판단을 후회하게 될 것이다.  
+  
+—올바른 사용법—  
+  
+장치로 히스트 수액을 충분한 양 추출한 후, 아래 지시를 따르라.  
+  
+1. 거인 말벌 유충 세(3) 줌을 걸쭉하게 짓이긴다.  
+2. 리넨 천 조각에 반죽을 듬뿍 바른다.  
+3. 완성된 찜질약으로 히스트의 원하는 부위를 감싼다.  
+4. 히스트 수액 한(1) 약병을 적용한다.  
+  
+효과는 즉각 나타날 것이다.  
+  
+— 연금술사 <<1>>
+
+[출처](https://www.imperial-library.info/content/list-instructions)
+
+---
+
+## 지오베센 해골의 진위
+
+ID: ext-2fcaa2db93ad23be3308 / ESO 책 ID: 3444 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+고결하신 종사 풀스트롬 님께,  
+   
+2920년의 사건들은 대체로 허구에 지나지 않으나, 그 진실의 씨앗이 지오베센 해골이라는 열매로 맺혔습니다. 그것은 과연 황제 레만 3세의 명으로 지오베스 성에 갇혔던 것으로 유명한 타비아의 두개골로, 금을 입히고 보석을 박은 것이 틀림없습니다. 지오베센 해골이 가짜 유물이라는 풍문은 해머펠의 이전 소유주가 퍼뜨린 것으로 보이는바, 그토록 값진 역사의 유물을 훔치려는 시도를 단념시키려는 속셈이었음이 분명합니다.  
+   
+이에 저는 지오베센 해골이 진품임을 보증하는 바입니다. 본래의 해골이 처형된 브레튼 죄수의 것이었다는 소문은 그저 소문일 뿐, 그 이상도 이하도 아닙니다.  
+   
+임페리얼 역사가, 메르카토르 매닉스
+
+[출처](https://www.imperial-library.info/content/authenticity-giovessen-skull)
+
+---
+
+## 지팡이 하나, 수많은 지팡이
+
+ID: ext-e4db29f47b7ed87f1bff / ESO 책 ID: 2443 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+스카빈의 나무 도살자, 백발의 호아리 두로첼 저  
+  
+자, 꼬마들아, 벨트 나이프로 발가락 피하기 놀이는 그만하고 이리로 모여라. 지팡이 만드는 법을 조금 가르쳐 주마. 너도 와, 꼬마 데페서스!  
+  
+먼저 분명히 해두고 싶은 게 있는데, 지팡이는 지팡이는 지팡이야. 이 얼간이 해골통에 정신을 차려주려고 쓰든, 충전해서 클리프 레이서한테 전격 주문을 날리든 상관없어. 육척봉이든 주문 지팡이든 마찬가지지, 어느 쪽이든 통과시키는 위력을 견뎌낼 만큼 충분히 강해야 하고, 그 위력이 고르지 않을 때 금이 가거나 휘지 않을 만큼 충분히 유연해야 해. 치유 지팡이도 예외는 아니야, 치유 마법도 공격 마법만큼이나 강력한, 우습게 볼 게 아니거든.  
+  
+단풍나무, 참나무, 물푸레나무, 느릅나무, 또는 구할 수 있는 다른 단단한 나무로 지팡이를 만들고 싶어질 거야. 수백 번, 아니 수천 번 강한 타격을 견뎌내야 하니까. 하지만 속의 나무결은 단단해야 하는 반면, 지팡이 표면은 디벨라의 엉덩이처럼 매끄러워야 해. 지팡이를 쓰는 자가 거의 어느 부분이든 잡아야 할 수도 있거든. 파이어볼 손에 참나무 파편들을 들고 찾아오는 화난 마법사와 맞닥뜨리고 싶지는 않겠지.
+
+[출처](https://www.imperial-library.info/content/one-staff-many-staves)
+
+---
+
+## 직무와 일과
+
+ID: ext-f0044cb41930c9e5b66f / ESO 책 ID: 7133 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+엘레아 공작부인 각하의 모든 새 시녀에게 내리는, 각하의 하루를 어떻게 짜고 정돈할 것인가에 관한 지시서.  
+  
+이른 아침  
+- 엘레아 공작부인을 깨우고 침실로 싱싱한 과일, 구운 과자, 맑은 샘물로 차린 식사를 들인다.  
+- 밤사이 쌓인 최신 서한과 전언을 엘레아 공작부인께 가져간다. 조선소에서 온 것은 무엇이든 먼저 처리한다.  
+- 엘레아 공작부인이 목욕할 수 있도록 부엌에서 더운물을 가져온다.  
+- 침실을 정돈하고, 각하의 방에 머무는 동안 쉬지 않고 일거리를 찾는다.  
+- 그날의 일정에 맞추어 엘레아 공작부인의 옷차림을 갖춘다. 관리를 접견할 때는 긴 로브, 부두를 살필 때는 바지, 귀한 손님을 대접해야 할 때는 가운, 기사단을 사열할 때는 튜닉.  
   
 * * *  
-  
-Glynin  
-  
-My daughter Isolen was the fair wind  
-  
-With hounds baying at her heels  
-  
-She coursed through hill and dale  
-  
-Both hart and hind would fall  
-  
-When her bow-string sang  
-  
-The air hangs heavy in the glen now  
-  
-The brook in the copse runs silent  
-  
-The birds refuse to sing  
-  
-For Isolen hunts no more  
-  
-Vartorn  
-  
-Isolen was my love, old Glynin  
-  
-Once, the trees of these hills  
-  
-Were young and green  
-  
-Isolen and I walked among them  
-  
-Alone in the wild and the mist  
-  
-Of the deep ravines  
-  
-We shared words of promise  
-  
-And made rings of birch-twigs  
-  
-My heart lies below in the cairn-stones  
-  
-I will embrace no other no more  
-  
-Glynin  
-  
-Vartorn, blood of my foe  
-  
-The lowly worm, Witch Devera  
-  
-I will not mourn with one such as you  
-  
-Go now from the holdings of my clan  
-  
-Go back to the pits and the dark  
-  
-Of your mother’s forsaken halls  
-  
-My hand is heavy from grief  
-  
-But my flint’s edge will draw your blood  
-  
-Vartorn  
-  
-It is the hour of Isolen’s death  
-  
-The words you speak to me  
-  
-Are as black as my love’s shroud  
-  
-I long for the comfort of the fire  
-  
-The mist has chilled my bones  
-  
-My hands are raw from picking stones  
-  
-For my dead love’s cairn  
-  
-I seek no embrace of you, Glynin  
-  
-I know your hatred of my kin  
-  
-I wish you knew my love of yours  
-  
-Glynin  
-  
-The blade is all I will give you, Devera-spawn  
-  
-You must know Isolen was my kindness  
-  
-With her gone, all I have  
-  
-Is rage and fear and sorrow  
-  
-I gave you a warning, made in good faith  
-  
-Look now, the flint I draw  
-  
-Seeks the warmth of your flesh and blood  
-  
-Will you give it shelter?  
-  
-Vartorn  
-  
-Glynin, the clans will learn of this deed  
-  
-I am felled!  
-  
-From the wound pours blood that stains the ground  
-  
-As this act stains your soul  
-  
-My spirit is ready to walk beside my dear Isolen  
-  
-In a glade where you cannot follow  
-  
-Free from cold mists, free from your cruel self  
-  
-As I pass on, tell Devera  
-  
-A mother must weep for her slain son  
-  
-The Translated Works of Tosmorn, III  
-  
-Second Fragment  
-  
-[Editor’s Note: The second of Xandier Edette’s translated poetic fragments will likely appear familiar to scholars and enthusiasts of vateshran performances. Gwyna, Chief Rowolan, the demigoddess Dearola, and the Horn-Stride Clan frequently appear in oral tales, though their depictions vary wildly from work to work, as Edette notes. As a point of fact, Edette leans on Vateshran Tosmorn’s clout and reputation to suggest what follows is the definitive portrayal of these classic characters.]  
-  
-Translator Xandier Edette’s Preface  
-  
-The Song of Gwyna can still be heard today, if a vateshran finds themselves besides a fire on a cold spring evening. In translating and recording Tosmorn’s version of the song, I was surprised to find this arrangement of the popular subjects within. In his telling of the song, Gwyna is kindred to Chief Rowolan and his clan, and not a hunter of the Horn-Stride clan. As in modern depictions, Rowolan’s near-mythical prowess in battle is attributed to his descent from the demigoddess Dearola, herself a child of Hircine.  
-  
-Frustratingly, the manuscripts I collected fail to explain the action that precipitated Rowolan’s fall to the Horn-Stride. A vateshran of Tosmorn’s status would undoubtedly be able to settle if it was treachery on the part of Rowolan’s seventh daughter (a particularly popular variant I’ve heard), or his failure to observe the omen of the white hart (another popular variant), or from some hitherto unproposed cause.  
+오전 중반  
+- 오전 일정 동안 엘레아 공작부인을 수행한다. 거리의 천한 무리에 각별히 주의를 기울이고, 필요하다면 몸을 던져 각하를 지킨다.  
+- 엘레아 공작부인이 그러한 무리나, 예정에 없는 전령, 귀족, 방문한 고관에게 시달리지 않도록 한다.  
   
 * * *  
-  
-Gwyna  
-  
-Once this was a quiet wood  
-  
-Now it echoes with dirges  
-  
-I can hear the sound of mattocks  
-  
-Raking earth away to make  
-  
-A home for our solemn dead  
-  
-The battle is over and won  
-  
-The Horn-Stride clan is gone  
-  
-Banished to the dark below the crag  
-  
-We have sung our victory  
-  
-We have shouted our strength  
-  
-We have whispered our sorrow  
-  
-Now the bodies of my clan  
-  
-Are planted in the soil here  
-  
-What will grow from them?  
-  
-Nothing but tales of glory  
-  
-The earth will remain barren  
-  
-We will keep it so  
-  
-And when we clear flower and grass  
-  
-We will recount the names of those  
-  
-That died for the sake of our clan  
-  
-Chief Rowolan lies dead  
-  
-Arrow-blinded, breath stilled within  
-  
-His sons and daughters all around him  
-  
-As leaves around a mighty oak  
-  
-The massive bough is now fallen  
-  
-The leaves are fallen with him  
-  
-So ends the line of Rowolan  
-  
-His was the blood of Dearola  
-  
-Daughter of Hircine  
-  
-The Horn-Stride was beaten back  
-  
-But our heart was cut from us  
-  
-We smile to one another in victory  
-  
-The season will pass on to winter  
-  
-And by next spring we will be gone  
-  
-As fog in the light of day  
-  
-We must strike with speed  
-  
-Before the strength leaves our clan  
-  
-Others will learn of Rowolan’s death  
-  
-And the crows will gather  
-  
-Before our bones are clean  
-  
-We must strike at the City of Stone  
-  
-And the king below the rock  
-  
-I go now to the witchmen  
-  
-In the copse of rotted yew  
-  
-Their draughts are bitter  
-  
-They rot us from inside  
-  
-But we must take this poison, kin  
-  
-To stand against Markarth’s arrows  
-  
-There will be no graves dug for us  
-  
-For if we take the stone walls  
-  
-We will not live to hold them  
-  
-We seek no spoils from Markarth  
-  
-Rowolan sought to kill a king  
-  
-And free a people  
-  
-His cause is ours  
-  
-We will burn our blood with witchman’s fire  
-  
-And overrun the city  
-  
-We will storm the keep below the stone  
-  
-And dash the crown upon the floor  
-  
-We will rake the throat of the king  
-  
-With sharpened flint and hunter’s claws  
-  
-We will die, but will not care  
-  
-Rowolan’s dream will be done  
-  
-The clan I love is doomed  
-  
-This season or the next  
-  
-It ought not die alone  
-  
-The Translated Works of Tosmorn, IV  
-  
-Third Fragment  
-  
-[Editor’s Note: The third of Xandier Edette’s translated poetic fragments covers what has grown to be the most enduring of the Reach’s legends — that of Red Eagle. As indicated in his preface, Edette finds this fragment bereft of pride — a staple of Red Eagle stories — and adopts an almost elegiac tone. — V.A.]  
-  
-Translator Xandier Edette’s Preface  
-  
-Red Eagle. His deeds of rebellion and resistance during Empress Hestra’s conquest of the Reach inspired generations of vateshrans, in addition to bards and raconteurs from beyond the Reach’s harsh lands. It should be no surprise to find that Tosmorn also chronicled the life and death of the Reachfolk’s greatest hero.  
-  
-I was fortunate to find a fragment of this particular epic. After I secured safe passage into the holdings of the Thornroot, a coven of otherwise extremely reclusive witches, I happened upon a collection of curios and ephemera that included a most ancient headdress. Within the band I found a tightly rolled piece of yearling hide, and scratched upon its surface the familiar name “Faolan” — as Red Eagle is known in his native tongue.  
-  
-The text of the fragment focuses exclusively on the aftermath of Faolan’s final battle with Empress Hestra’s legion. Contrary to the tone of more widely told works, Tosmorn instead regales us with a mournful, lingering verse (such as it can be called). The absence of the uplifting call for Red Eagle’s eventual return leads the reader to speculate: could the revival of Red Eagle and the call for freedom in the Reach be the invention of later vateshrans? It will be a mystery for the ages, one of thousands in this craggy land.  
+정오  
+- 요리사가 마련한 식사를 차려 올린다. 정결함과 맛, 안전을 확인하고자 올리기 전에 모든 음식을 맛본다.  
+- 새 양피지 여러 장, 가득 찬 잉크병, 골라 놓은 깃펜으로 필기용 책상을 마련한다.  
+- 각하께서 손쉽게 닿을 수 있도록 책상 오른편에 간단히 집어 먹을 것을 마련해 둔다.  
+- 모든 서신을 모아 엘레아 공작부인의 지시에 따라 부친다.  
   
 * * *  
+오후  
+- 엘레아 공작부인은 고문들과 군도를 다스리는 소임을 맡은 이들을 만나기를 즐긴다. 각하께서 이야기를 나누고자 하는 이들을 부르고, 그에 맞추어 각각의 회동 일정을 잡는다.  
+- 각하께서 업무에 전념하시도록 자리를 비우고 방을 청소한다.  
+- 벽난로에 손댄 흔적이 있는지 살피고, 필요하다면 습격자에 대비해 창문을 보강한다.  
   
-The Death of Faolan  
+* * *  
+저녁  
+- 저녁의 행사와 손님 명단을 염두에 두고, 공작부인의 재가를 받고자 가운 몇 벌을 마련한다.  
+- 공작부인의 단장을 돕는다.  
+- 저녁 내내 곁을 지키며 시중을 들고, 비밀을 지킨다. 청을 받더라도 춤추지 말라. 그대는 즐기러 온 것이 아니다. 그대의 자리는 각하의 곁이다.  
   
-The weeping ones bear him up the crag  
+* * *  
+밤  
+- 저녁의 끝에 공작부인을 침소까지 수행한다.  
+- 침실을 잠자리에 맞게 정돈하고, 각하의 목숨을 위협할 것이 없는지 마지막으로 확인한다.  
+- 밤사이 언제 필요할지 모르니, 그 곁을 지킬 수 있도록 방문 밖에서 잔다.  
   
-Red Eagle, so called at birth  
-  
-In death, red from a hundred wounds  
-  
-The light of the rising sun shows the world  
-  
-The carpet of the dead  
-  
-And the souls of a thousand are weighed against  
-  
-A son of the Reach  
-  
-The witch-men come with pots of ash and resin  
-  
-To meet the weeping bearers  
-  
-And Faolan is laid down  
-  
-The chieftains weep to see him  
-  
-Riven to nothing  
-  
-The ashes are scattered to lay upon his frame  
-  
-But it will not settle  
-  
-It pools upon the stone below Faolan  
-  
-On him it finds no purchase.  
-  
-Hushed whispers bound across the hall  
-  
-All heads lowered  
-  
-The Hag comes now to claim her due  
-  
-Her crow, in vanguard, laughs to see the witch-men  
-  
-Their ash and resin useless  
-  
-She takes the staff of yew and brings it down  
-  
-Upon Faolan’s breast  
-  
-The ichor within bursts forth, a black blood  
-  
-And she takes the fruit of her desire  
-  
-Seeded in Faolan’s chest  
-  
-A hundred hands draw flint, nock arrows  
-  
-All lose heart, the Hag’s laugh festers at the soul  
-  
-As death surrounds her  
-  
-A thousand crows take flight beneath her cowl  
-  
-And she is gone  
-  
-She is beyond the spear, the sword, the bow  
-  
-No witch-man would cross her  
-  
-For Faolan bade her aid him in his fight  
-  
-She claimed her due  
-  
-The weepers carry Faolan down  
-  
-Into the mountain’s heart  
-  
-He is laid bare for the last time  
-  
-In sleepless rest, the stone is sealed  
-  
-Wax is poured and flints are shattered  
-  
-Here Faolan lies dead
+뒤포르 가문의 열쇠지기, 마르셀 스티진.
 
-[출처](https://www.imperial-library.info/content/translated-works-tosmorn)
+[출처](https://www.imperial-library.info/content/duties-and-routine)
 
 ---
 
-## The Treasure of Clickyville
+## 진실의 위험성
 
-ID: ext-9c90b4c7f7efde3c609f
+ID: ext-309f0069d3ed129ee532 / ESO 책 ID: 7436 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Go east from the place of death.  
+암호자 판디닌루 지음  
   
-Stop at the fallen tree.  
+저 별난 모라의 서기들은 지식이야말로 오블리비언의 모든 영역을 통틀어 가장 중요한 개념이라 믿는다. 그들의 전제는 틀렸다. 추구할 가치가 있는 유일한 속성은 오직 진실뿐이다. 억측과 오류와 그릇된 정보는 지식을 더럽힌다. 그러한 것들은 바람결의 잉크처럼 하늘을 떠도는 생각만큼이나 실체가 없다. 오로지 진실만이 한결같다. 진실은 물줄기의 방향을 정하고 물길의 모양을 빚어내는 바위다.  
   
-Turn to the northeast, and walk 25 paces.  
+그토록 거대하고 굳건한 무언가를 유해하기란 결코 간단한 일이 아니다. 그대는 물줄기 속의 바위를 정녕 눈여겨본 적이 있는가? 물은 그 바위에 매달려 바위의 형상을 온전히 더듬으려 하지만, 끝내 휩쓸려 가고 만다. 우리 또한 그와 같아서, 손에 넣고자 애쓰는 진실의 크기를 결코 다 헤아리지 못한다. 우리는 우리가 찾는 진실에 의해 영영 달라지지만, 우리 가운데 그 누구도 제 물줄기 속 진실의 어두운 그림자 이상을 깨우치지는 못한다.  
   
-The Embracing Lovers have what you seek.  
+우리가 끝내 유해할 수 있는 진실이란 고작 이 정도다. 진실은 위험한 성질이다. 진실은 부정적인 측면을 품고 있으며, 가장 굳건한 데이드라의 정신조차 헤아릴 수 없는 함의를 내비친다. 진실과 운명, 그리고 그에 얽힌 영역을 다스리는 권능은 오직 헤르메우스 모라 한 분께만 있다.  
   
-Use the map where their love glows brightest.
-
-[출처](https://www.imperial-library.info/content/treasure-clickyville)
-
----
-
-## The Trials of Hissmir
-
-ID: ext-28d159978217eedf29ea
-
-By Sali-Ze, Hissmir Oblate  
+잘해 봐야 진실의 발견이란, 연구 대상의 본질에 관한 어떤 가설이든 그 죽음을 보장할 따름이다. 끌어모은 지식은 죄다 바위에 부딪혀 산산이 부서지고 물살에 쓸려 간다. 가설과 이론의 붕괴는 흔히 유해의 극적이고도 근본적인 변화를 불러온다. 이 변화는 본디 연구하던 대상에만 국한되지 않는다. 도리어 그것은 삽시간에 부풀어 올라, 앞서 유해되었던 모든 것을 뒤엎어 버린다. 진실은 일직선이지도 유한하지도 않다. 발견된 진실은 그 무엇이든 우리가 현실을 인식하는 방식에 오래도록 자취를 남긴다.  
   
-The trials serve as an offering of one’s self to the Hist. For the Hist to trust the participant, the participant must first trust the Hist.  
+예를 들어, 어느 임페리얼이 평탄하고 나무 한 그루 없는 농지에서 자랐다 하자. 실로 그 농장을 에워싼 세 마을을 통틀어 자라는 나무라곤 단 한 그루뿐이다. 그 임페리얼은 자연히 온 세상에 나무는 단 한 그루밖에 없다는 앎을 지닌 채 노년에 이를 것이다. 그리할 수 있거든, 그 임페리얼이 난생처음 숲을 보는 순간 겪을 경험을 한번 그려 보라. 이제 그대는 지식과 진실의 차이를 깨닫기 시작할 것이다. 진실이 얼마나 더 무거운지 느껴지는가?  
   
-The participant’s mind, heart, and will are tested. Without a disciplined mind, one cannot comprehend the message of the Hist. Without a pure heart, one’s purpose does not serve the will of the Hist. Without a warrior’s will, one cannot safeguard the Hist for future generations.  
+이 예는 가장 사소한 진실 하나를 다룬 데 지나지 않는다. 이제 더 큰 진실을 유해하는 일이 무엇을 빚어낼 수 있을지 헤아려 보라. 한낱 변화에 그치지 않고 영영 지워지지 않을 해악을 끼칠 만큼 거대한 진실이 과연 존재할 수 있을까? 진실이 상해로 이어질 수 있을까? 죽음으로는? 당연하다! 역사의 흐름을 보기만 해도 알 일이다! 진실과 비밀, 그리고 온갖 발견은 셀 수 없는 죽음을 불러왔다. 필멸자는 비밀을 두고 서로를 죽인다. 그들은 문두스의 온갖 어두운 구석까지 서로를 쫓고 또 쫓는다.  
   
-Be resolute, and stay moist.
+이것이 필멸자의 진실을 캐낸 데 따른 응보라면, 데이드라의 진실을 밝혀내는 일에는 무엇이 함축되어 있겠는가? 그 결과가 훨씬 더 끔찍하리라는 것은 자명하다. 필멸자와 달리 데이드라에게는 완벽한 복수를 꾸밀 영겁의 시간이 있다. 그들은 침입자와 참견하는 필멸자를 처리할 음모를 미리 마련해 둔다. 데이드릭 프린스는 그보다 한층 더 빈틈없다. 그중에서도 헤르메우스 모라는 유독 진실을 통제한다. 그분은 오직 당신이 합당하다 여기는 것만을 우리가 인식하도록 허락한다. 그분의 비밀은 우리가 헤아릴 수 있는, 하물며 살아남을 수 있는 진실의 범위를 아득히 넘어선다.  
+  
+우리가 다루는 진실의 수준을 보여 주는 한 가지 예를 들겠다. 알려진 것란 그 어마어마함에 노출되는 것만으로도 광기를 불러올 만큼 강력한 진실을 말한다. 그렇다고 기지가 어떤 특정한 종류의 진실이라거나, 그 자체로 하나의 진실이라는 말은 아니다. 내가 들은 소문에 따르면, 어떤 기지는 역사에서 누락된 과거의 사건들을 그 책장에 기록한 책의 모습으로 나타난다고 한다. 또 어떤 기지는 아득히 사라진 영역에서 온 존재이거나, 아무도 그 이름을 들어 본 적 없는 최고의 요리사가 차린 한 끼 식사이기도 하다. 기지의 정확한 본질이나, 어찌하여 그것이 알려진 것인지, 또 무엇이 그것들을 한데 묶는지는 여전히 알려진 바 없으나, 그 영향만은 소상히 기록되어 있다. 기지에 노출된 필멸자는 대개 그 자리에서 미쳐 버린다. 그것이 미치는 영향과 그것이 짊어진 진실의 무게는, 필멸자의 정신이 담아내기엔 너무도 버겁기 때문이다.  
+  
+그러니 묻건대, 지식을 끌어모으는 것과 진실을 깨우치는 것 가운데 어느 쪽이 더 높은 뜻인가? 이 물음에서는 진실이 이긴다. 허나 그렇다고 진실을 좇는 자 모두가 제 다짐의 무게를 깨닫고 있는 것도, 제가 밝혀낼 것을 유해할 채비가 되어 있는 것도 아니다. 우리 대다수는 물줄기 속의 물처럼 두 손을 활짝 뻗은 채 제 삶을 흘러가지만, 바위에 스치는 가장 희미한 감촉 한 자락을 느끼기가 무섭게 그 곁을 휩쓸려 지나칠 뿐이다.
 
-[출처](https://www.imperial-library.info/content/trials-hissmir)
+[출처](https://www.imperial-library.info/content/dangers-truth)
 
 ---
 
-## The True Balance
+## 진정한 균형
 
-ID: ext-8d8ede4ab5a163f35fba
+ID: ext-8d8ede4ab5a163f35fba / ESO 책 ID: 72 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-“We must warn Awas. The Kothringi are nearly upon us!”  
+"아와스에게 알려야 해. 코스린기가 거의 다 왔다!"  
   
-The two Argonians exchanged glances, the movement of their dark eyes a mere flicker of light in the shadows.  
+두 아르고니안이 눈빛을 나누었다. 어둠 속에서 그 검은 눈동자가 움직이는 것이 가느다란 빛의 흔들림처럼 보였다.  
   
-“I’ll go,” hissed Sanax, and slipped into the murky waters.  
+"내가 가겠어." 사낙스가 쉬잇 소리를 내더니 탁한 물속으로 미끄러져 들어갔다.  
   
-Juunei followed her slow progress. Fires burned at the swamp’s edge, creating a thick smoke only Argonian eyes could pierce.  
+주네이는 그녀의 느린 움직임을 눈으로 쫓았다. 습지 끝자락에 불이 타오르며 짙은 연기를 피워 올렸다. 아르고니안의 눈만이 그 연기를 꿰뚫을 수 있었다.  
   
-Or so he thought. Axes glinted and slashed. Juunei heard a strangled cry, then nothing. Who knew the clumsy dryskins could move so silently?  
+그렇게 생각했다. 그때 도끼가 번쩍이며 내리쳤다. 주네이는 짓눌린 비명 소리를 들었다. 그러고는 아무것도 들리지 않았다. 저 서툰 건피족이 이토록 조용히 움직일 줄을 누가 알았겠는가?  
   
-Juunei swore an oath and eyed the dirt path to the xanmeer. It was longer and exposed. But he had to warn Awas.  
+주네이는 맹세를 내뱉고 잔미어로 이어지는 흙길을 바라보았다. 길은 멀고 노출되어 있었다. 하지만 아와스에게 알려야만 했다.  
   
-They chased Juunei down the path, slashing and stabbing, but they made little noise. He was in sight of the xanmeer’s stone edifice when something grabbed his tail, pulling him to the ground.  
+그들이 주네이를 뒤쫓아 길을 달리며 베고 찌르는데도 소음은 거의 없었다. 잔미어의 석재 건물이 눈에 들어올 즈음, 무언가가 그의 꼬리를 움켜쥐며 땅바닥에 끌어내렸다.  
   
-A Kothringi thug raised her dirty axe to finish him off. He cried out. Then a hurled Kothringi knife buried itself in the thug’s throat.  
+코스린기 폭한이 두꺼운 도끼를 치켜들어 그를 끝장내려 했다. 주네이가 소리를 질렀다. 그 순간, 날아온 코스린기의 칼이 폭한의 목에 꽂혔다.  
   
-Awas emerged from the muck. She retrieved the knife and helped Juunei to his feet.  
+아와스가 머크 속에서 나타났다. 그녀는 칼을 뽑아 들고 주네이를 일으켜 세웠다.  
   
-“How did you know?” gasped Juunei, nodding at the Kothringi knife.  
+"어떻게 알았어?" 주네이가 헐떡이며 코스린기의 칼을 바라보며 물었다.  
   
-“A lesson from the dreams of the Hist,” murmured Awas. “To truly understand a foe, fight them with their own weapons.”  
+"히스트의 꿈에서 얻은 교훈이야." 아와스가 낮게 말했다. "적을 진정으로 이해하려면, 그들 자신의 무기로 싸워라."  
   
-Juunei stared at Awas, then grabbed the dead Kothringi’s axe. They hurried to the xanmeer.
+주네이는 아와스를 응시하다가 죽은 코스린기의 도끼를 집어 들었다. 그들은 잔미어를 향해 서둘렀다.
 
 [출처](https://www.imperial-library.info/content/true-balance)
 
 ---
 
-## The True Fate of King Ranser
+## 진주 연구 노트, 기록 3
 
-ID: ext-0138c949dac65e6fbc11
+ID: ext-8ebe02b5ca6b6d1745db / ESO 책 ID: 4881 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-By Serinal Gane, Royal Scribe of Shornhelm  
+심연의 진주에 대한 현재 연구는 예전에 예상했던 것보다 훨씬 위험한 것으로 밝혀졌다. 강력한 만큼이나 다루기 어려운 어떤 영혼 마법으로 동력을 얻는 것으로 보인다. 이로 인해 연구원 몇 명을 잃었다.  
   
-History is written by the victors, so I have no doubt as to how King Ranser will be remembered. But my job has always been to keep King Ranser’s records, and that hasn’t changed—at least in my mind—with our new state of being. I’m getting ahead of myself. My pardons. Allow me to start at the beginning.  
+초기 희생자들이 진주의 선천적 마법 능력을 촉발시킨 것 같다. 그 힘에 이끌린 야그라가 이미 우리 주변에 떼를 지어 모여들고 있다. 지금까지는 막아내고 있지만, 방어 체계가 오래 버티지는 못할 것이다. 진주를 더 안전한 장소로 옮겨야 한다. 더 내륙 깊숙이, 아니면 서머셋에서 완전히 벗어난 곳으로.  
   
-After almost a year of conflict, Emeric and his allies had driven King Ranser’s forces to the brink of defeat. We prepared to make our final stand at Markwasten Moor, caught as we were between a Breton armada and Orc troops. I am sure that history will describe how King Ranser fell that day, but history would be wrong. An entirely different fate befell the liege of Wayrest.  
-  
-It is true that the bulk of King Ranser’s army was annihilated at the battle on the moor. But Ranser was able to escape with a small contingent of soldiers and aides and make his way to the top of a nameless tor overlooking the shattered city of Shornhelm.  
-  
-It was on this tor that King Ranser put his ultimate plan into motion to defeat King Emeric and his dastardly allies. Using an arcane ritual provided by the court magician, Reezal-Jul, the brilliant King Ranser transformed his most loyal and devoted soldiers into a force that would stand for the ages. The final step in the ritual required a blood sacrifice, however. When King Ranser’s traitorous general—whose name shall never again be spoken and who shall forever be forgotten—murdered his own liege, it was royal blood that ignited the ritual and triggered our change.  
-  
-I must admit that my less-than-regal mind has yet to fully fathom the intricacies of King Ranser’s plan. His ritual turned us all into undead soldiers, skeletal immortals who can stand at his side for eternity. But instead of immediately striking out and attacking Emeric’s forces, King Ranser ordered us to strengthen our position and prepare to defend the tor.  
-  
-“This tor shall be my throne!” King Ranser proclaimed. “From here, I shall rule for eternity!”  
-  
-And now you know the true fate of King Ranser and his loyal soldiers. My time as scribe is finished, for my liege needs every sword at the ready. I will leave this record, safe in this tower until the day comes that King Ranser orders us to march from the tor and back into Shornhelm.
+사법관 아바나이레가 더욱 유용하게 쓰일 수도 있다. 안전한 통로를 확보하기 위해 디바인 종사 내 그녀의 인맥을 활용할 수 있다. 사로킬은 이 작은 역할에 지불한 골드 이상의 가치를 했다. 그렇지만 결국, 스쿠마 중독자는 무슨 짓이든 할 것이라 믿을 수 있는 법이다. 자신의 하나뿐인 자매를 배신하는 일조차.
 
-[출처](https://www.imperial-library.info/content/true-fate-king-ranser)
+[출처](https://www.imperial-library.info/content/pearl-research-notes-log-3)
 
 ---
 
-## The True Nature of Magnar
+## 진짜 수사관 베일?
 
-ID: ext-21f7a31d122e908958f8
+ID: ext-30a328f81131ffdaf22f / ESO 책 ID: 4863 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Knowing your enemy is the first step to defeat him.  
+인기 추리물 〈수사관 베일〉 시리즈의 베일에 싸인 저자를 폭로하다  
+유랑 기록관 아단도라 지음  
   
-Magnar Bearstorm, or Magnar the Child-Eater, has led the greater Wrothgar pack for at least fifty years. We don’t know much about his early life. He has never been seen in human form. Some say he was never a child—that he clawed his way out of the Hunting Grounds, fully grown and full of wrath.  
+수사관 베일의 사건들을 그려낸 인기 추리 소설은 수백만 부가 팔렸다. 그 유명한 브레튼 탐정의 모험담은 대거폴에서만큼이나 윈드헬름과 스카이워치에서도 인기가 높다. 하지만 다른 작가들과 달리, 수사관 베일을 빚어낸 이는 자신의 놀라운 여주인공과 무대를 나누기를 한사코 거부한다. 실제로 그 정체는 줄곧 익명에 가려진 채 알려지지 않았다—지금까지는.  
   
-When Magnar first arrived in the mountains of Wrothgar, he snatched up scores of children in the dead of night—presumably to eat them. The Order has not ruled out the possibility that he turned these youngsters into the first members of his pack. I’m not sure which possibility upsets me more.  
+이 유랑 기록관이 이 수수께끼를 파헤치기 시작한 것은, 대거폴 동맹의 첩보 조직인 단검의 환의 옛 단원에 관한 이야기를 듣고 나서였다. 그 이야기에 따르면, 이 옛 단원은 일급 첩자였을 뿐 아니라 가공할 탐정이요, 더없이 노련한 전사이며, 대담한 모험가였다. 이 비범한 여인을 파고들수록, 그녀는 점점 더 소설 속의 베일을 떠올리게 했다. 나는 이 여인을 꼭 만나야 했고, 그리하여 아라벨 다보를 찾아 나섰다.  
   
-I have fought Magnar twice, and nearly lost my life on both occasions. He’s not particularly swift, nor is he quiet. He doesn’t need to be. During our last confrontation, my blade struck true at least three times, but he didn’t even flinch. This has led some in the Order to believe that he is invincible. Some even suggest that he might be Hircine himself masquerading as a savage moon-beast. This is all preposterous, of course. Mark me, recruits: Magnar is mortal and I’m going to kill him to prove it.  
+아라벨 다보는 제2시대 527년 웨이레스트에서 태어났다. 그녀는 귀족 가문에서 자라며 하이락 최고의 학교들을 다녔다. 떠들썩한 아이이자 반항적인 십 대였던 그녀는, 열다섯에 집을 뛰쳐나와 용병단에 합류해, 리치에서 쏟아져 나온 침략 무리로부터 하이락을 지키는 일을 거들었다. 이후 대륙 곳곳의 숱한 전투에서 싸우다 마침내 사자 근위대에 자리를 잡았다. 제2시대 560년에 이르러 그녀는 대장 계급을 얻어 사자 근위대 최정예 병사들의 분대를 지휘했다. 바로 그곳에서 그녀는 웨이레스트의 왕이자 훗날 대거폴 동맹의 하이 킹이 될 에머릭의 눈에 처음 들었다.  
   
-Volas Night-Eyes
+그런데 아라벨의 무용담은 베일의 가장 기상천외한 이야기처럼 읽힌다. 그녀는 산적 두목과 약탈을 일삼는 트롤, 적군을 멋스럽고 호기롭게 처치했다고 전해지며, 소문에 따르면 열두 곳이 넘는 마을과 도시, 기항지에 온갖 종족과 성별의 연인을 여럿 두었다고 한다. 삶이 곧 그녀의 모험이었고, 그녀는 전장에서 적을 향해 돌격하듯 그 삶을 향해 달려들었다. 추문에서마저 그녀를 하이 킹 에머릭과 연인 사이로 엮어대는데, 특히 그의 친위대로 복무하던 해가 그러했다. 진실이 무엇이든, 아라벨이 에머릭에게 깊은 인상을 남긴 것은 분명하며, 그가 단검의 환을 세웠을 때 그녀는 그 첫 단원 가운데 하나였다.  
+  
+쉰이 되자, 아라벨은 인생의 새 장을 펼칠 때가 되었다고 마음먹었다. 그녀는 단검의 환에서 점잖게 물러나 세계를 떠도는 여행자의 길을 택했고, 예전에는 그저 일의 일부로만 보던 사람과 장소를 마침내 한가로이 찾아다니게 되었다. 이제 음모며 첩보 공작이며 전쟁의 소문 따위를 다루기엔 "너무 늙었다"고 주장하며, 아라벨은 유한부인이 되어 객실을 잡고 이국적인 곳을 차례로 옮겨 다니며 길고 호화로운 나날을 보냈다. 나는 오시머의 도시 오시니움에서 그녀를 따라잡았다.  
+  
+기록관: 아라벨 다보, 그토록 멋진 이야기들을 읽고서 이렇게 뵙게 되어 영광입니다. 정말로 강 트롤 네 마리를 혼자 힘으로 처치해, 커볼의 할로우 사람들을 향한 공격을 막아내셨나요?  
+  
+아라벨: 사실은 늪 트롤 여섯 마리였답니다만, 공식 보고서에 으스대는 것처럼 보이긴 싫었거든요.  
+  
+기록관: 참으로 비범한 삶을 살아오셨군요. 용병, 모험가, 병사, 첩자라니. 한데 이제 새로운 열정을 품으셨다고 들었습니다. 제 독자들에게 그 이야기를 들려주시겠어요?  
+  
+아라벨: 제가 빠져 있는 건 여행과 유람이지요. 하지만 독자분들이 여행 안내인으로서 겪은 제 모험담을 듣고 싶으시다면….  
+  
+기록관: 시치미 떼지 마세요, 아라벨 여사. 제가 말하는 열정이 무엇인지 잘 아시잖습니까. 바로 수사관 베일 말입니다.  
+  
+아라벨: 아, 글쎄, 결국 들키고 말았군요. 제가 그 대담한 범죄와 드라마 이야기에 어지간히 빠진 건 사실이에요. 게다가, 부끄럼 없이 말하자면, 그 수사관이 어찌나 음탕한지 그게 또 좋더라고요. 무슨 뜻인지 아시겠지만, 늙은 피가 다 끓는답니다!  
+  
+기록관: 자, 자, 아라벨 여사. 인정하세요! 당신이 바로 수사관 베일 책들의 저자 아닙니까!  
+  
+아라벨: 저자요? 제가요? 이 우아한 손가락이 몇 시간씩 깃펜을 쥐어 곱고 결려 보이나요? 제 손에 잉크 얼룩이라도 보이시는지요?  
+  
+기록관: 하지만 베일을 당신 자신의 무용담을 본떠 빚어낸 게 사실 아닙니까? 그게 하이 킹 에머릭의 첩자로 지내던 시절을 얄팍하게 가린 자서전이라는 게요?  
+  
+아라벨: 상상력도 참 풍부하시군요, 기록관님! 혹시 당신이야말로 베일의 그 멋진 모험담의 저자인 건 아니고요?  
+  
+기록관: 제가요? 터무니없는 말씀을! 저는 소식을 전하는 사람이지, 공들인 허구를 지어내는 사람이 아닙니다!  
+  
+아라벨: 정 그러시다면야, 그렇겠지요.  
+  
+기록관: 하지만 당신이 여태 수수께끼 푸는 일에 손대고 있다는 것도 사실 아닌가요? 지금 어떤 범죄와 음모가 그 지역 관헌을 골치 아프게 하느냐에 따라 갈 곳을 고르신다는 것도요?  
+  
+아라벨: 제가요? 미처 몰랐네요.  
+  
+기록관: 맙소사! 〈수사관 베일과 하이락의 반란〉에서 하이 킹 에머릭과 "단검 칼집에 꽂기" 놀이를 했다고 사실상 인정하셨잖습니까!  
+  
+아라벨: 그런 적 없어요! 게다가, 에머릭의 단검은 차라리 검이라 해야 더 정확할 텐데요….  
+  
+기록관: 보세요! 또 그러시잖아요!  
+  
+아라벨: 쓰셔야겠다 싶은 건 뭐든 쓰세요, 기록관님. 저로 말하자면, 오시니움 경비대의 고르자 대장과 저녁 약속에 늦었답니다. 음탕한 오시머와 어울려 본 것도 참 오랜만이라서요. 듣자 하니 그분이 박물관 도둑을 잡느라 애를 먹고 있다더군요.  
+  
+기록관: 자, 보시라, 충실한 독자여. 아라벨 여사가 수사관 베일 추리물의 저자임을 자백했도다! 나는 그 유명한 탐정에게도 손색없을 사건을 풀어낸 것이다!
 
-[출처](https://www.imperial-library.info/content/true-nature-magnar)
-
----
-
-## The True Nature of Orcs (Banned Ed.)
-
-ID: ext-92bd82872286d65fdf5f
-
-Orcs were born during the latter days of the Dawn Era. History has mislabeled them beastfolk, related to the Goblin races, but the Orcs are actually the children of Trinimac, strongest of the Altmeri ancestor spirits. When Trinimac was eaten by the Daedric Prince Boethiah, and transformed in that foul god’s insides, the Orcs were transformed as well. The ancient name for the Orcs is “Orsimer,” which means “The Pariah Folk.” They now follow Mauloch, the remains of Trinimac.  
-  
-Who is Mauloch?  
-  
-He is more commonly known as the Daedric Prince Malacath, “whose sphere is the patronage of the spurned and ostracized, the sworn oath, and the bloody curse.” He is not technically a Daedric Lord, nor do the other Daedra recognize him as such, but this is fitting for his sphere. Of old he was Trinimac, the champion of the High Elven pantheon, in some places more popular than Auri-El, who protected them against enemies without and within. When Trinimac and his followers attempted to halt the Velothi dissident movement, Boethiah ate him. Trinimac’s body and spirit were corrupted, and he emerged as Malacath. His followers were likewise changed for the worse. Despised by everyone, especially the inviolate Auri-El, they quickly fled to the northern wastes, near Saarthal. They fought Nords and Chimer for a place in the world, but did not get much. In Skyrim, Malacath is called Orkey, or Old Knocker, and his battles with Ysmir are legendary.  
-  
-(DIRECTIVE: This vile, anti-Orc propaganda, though traditional, is now BANNED throughout the DAGGERFALL COVENANT. Administrators: see to it.)
-
-[출처](https://www.imperial-library.info/content/true-nature-orcs-banned-ed)
-
----
-
-## The True Noble’s Code
-
-ID: ext-6baa669941013124223f
-
-The honorable warriors of the Great House Redoran are the hereditary defenders of the Morrowind. To be a noble of House Redoran is more than being a great warrior. One must follow the triune virtues of duty, gravity, and piety.  
-  
-A Redoran’s duty is first to the Tribunal Temple, second to the Great House Redoran, and third to one’s family and clan. In the Battle of Red Mountain, warriors of House Redoran died bravely for their duty to the Tribunal. By defending House Redoran from the schemes of Telvanni wizards and the lies of untrustworthy Hlaalu, the true noble shows duty to House Redoran. Following the Temple’s guidelines of mercy and generosity show duty to one’s family and clan.  
-  
-A Redoran noble must know the virtue of gravity. It is not the Redoran way to laugh at serious matters, for it shows disrespect. It is not the Redoran way to spread rumors, for they fester and breed dissention.  
-  
-A Redoran must show piety to the Aedra and Daedra, our creators and ancestors. For without the divine, we would not have the chance to serve. And without divine law, we would not know right from wrong. And without giving thanks for these things, we would forget out place and our purpose.  
-  
-Great House Redoran praises all the skills of war. Not because we believe war is good or honorable in its own right, but because this knowledge is necessary to perform one’s duty. House Redoran’s warrior fight with a long blade and a shield or with a spear. A noble of House Redoran must also learn to use a bow and must be athletic enough for the long marches to battle. A Redoran wears heavy or medium armor depending on rank and strategy. A noble of House Redoran is expected to know how to repair and maintain his own armor.  
-  
-Those who are born to House Redoran have been taught their skill and virtues by kin and clan. Those who seek to enter House Redoran as retainers must satisfy an examiner in the Redoran Council Hall that their skills are suitable for service to House Redoran.  
-  
-Whether born to the blood of House Redoran, or adopted into service of House Redoran by oath, those who seek to advance in the ranks of House Redoran must demonstrate their virtues by service and obedience. And only when one has mastered all the skills and virtues can one truly call himself a noble of the Great House Redoran.
-
-[출처](https://www.imperial-library.info/content/true-nobles-code)
-
----
-
-## The True-Told Tale of Hallin
-
-ID: ext-2a132c361f48cf925495
-
-The True-Told Tale of Hallin, PT. 1  
-  
-From “The History of Histories, As Told to Young Prince Fahara’jad”  
-  
-Know then, O Prince, that after the Ra Gada had swept across Hammerfell, driving all the tusk-folk before it, a time of peace befell whereupon the people who were once Yokudans were able to lay down the sword and take up the shovel and trowel. And for three spans of a person’s life all the Redguards did delve and build, and many were the Great Works that were erected above the sands. And few did study the Way of the Sword, for all were constructing monuments to the greatness of our people.  
-  
-Now east of the Alik’r and south of the Pass of Bangkorai the ever-laudable Queen Ojwa did cause to have built a city of splendor, all white stone and fluted columns, and the city was named Ojwambu, after its thrice-eminent monarch. And its streets and broad avenues were replete with houses and halls devoted to all the arts, both mercantile and inspirational. The people strolled the streets bedecked in fine garments and bedizened with bright jewels, and partaking of delicate viands and hearkening to tunes both rousing and restful. And all was pleasing thereby.  
-  
-In an unconsidered corner in the shadow of the walls stood the city’s Hall of the Virtues of War, and there did the worthy Hallin, being the Last of the Ansei, teach such of Ojwambu’s youth as were yet so inclined the Way of the Sword. Now these youths were few, and though they suffered raillery and unkind badinage from their peers, they found the aging Hallin an inspiration nonetheless, and learned the Way of the Sword until they became true Redguard warriors. And this was well, as you shall see.  
-  
-For in the mountain range called Dragon’s-Tail the tusk-folk still lurked, beating their breasts and rending their ragged garments in rage and grievance against the Redguards. And among them was a great Goblin Warlord who had escaped the Curse of Divad through a chicanery, and thus had not been diminished. This giant Goblin was possessed of both slyness and sinew, and long he worked among the tribes of Dragon’s-Tail, until one day he awoke to find himself Warlord of all the tusk-folk therein. And his name was Mahgzoor Rockhand. So Mahgzoor raised his great blade Bone-Hewer, and roared in a mighty voice like an earthquake, and declared that the day of vengeance at last was at hand.  
-  
-Then Mahgzoor led his Endwise Army down from the Dragon’s-Tail, and it swept into Hammerfell like a great sandstorm, and none could stand before it. The people of the Fallen Waste fled before the fury of the tusk-folk, and many and many were those who sought refuge behind the walls of Ojwambu, until the city was overfilled thereby. The citizens cried out in distress and apprehension, saying, “Who will fight for us, O Queen Ojwa? For we have become artisans and pleasance-wrights, and have forgotten the Way of the Sword.”  
-  
-And Queen Ojwa spake, saying, “Are there none among us who remember the Way of the Sword?” Then venerable Hallin stepped forward and bowed before his monarch, saying, “I remember the Way of the Sword, O My Queen, or at least as much as I may, for I am the Last Ansei. What I can do, I shall.”  
-  
-Hallin’s students then stepped forward as well, and laid their swords at the feet of their queen. But the thrice-eminent Ojwa was dismayed by their fewness, and spake distraught, saying, “How shall we repel the Endwise Army with so few blades? For the tusk-folk are as numberless as the sand in the dunes.”  
-  
-But Hallin was nowise deterred, and said boldly, “Take heart, O Illustrious Majesty. For your people are Redguards, which means they come easily to the Way of the Sword, and once they have their hands once again on the hilts of blades, and learn to quote once more from the Book of Circles, they will be a match for any folk in all the round world, be they ever so numberless.”  
-  
-“Be that as it may, venerable Ansei,” replied Queen Ojwa, “but even Redguards need time to learn the Way of the Sword, and of time we have but little.”  
-  
-“Then you must have more. Finding you a store of time shall be my task, the culmination of the work of my life, and I swear upon Onsi’s bright blade you shall have it.” And he drew his blade, yea, even in the presence of the queen, and swore an oath upon the Brotherhood and Sisterhood of the Blade. And behold, Hallin seemed to grow to the stature of a giant, and a light shone from his blade’s sharp edge, and all were obliged to avert their gaze.  
-  
-Yet when they were able to look once more, they saw naught but the venerable Hallin, smiling and sheathing his blade. And the Last Ansei raised his hands, as if to embrace all the people of Ojwambu, and said, “Fellow Redguards, to you I bequeath the knowledge of the Book of Circles, which we have guarded long and well, that you may be equal to all threats whatsoever. These my students shall teach you their learning, and in good time you will all know once more the Way of the Sword.”  
-  
-He turned then to Queen Ojwa and said, “Now lead your people, O Mighty Monarch, for that is what you do best. Take them to the west, and spread the word of the Way of the Sword, that Hammerfell might make itself ready for the Endwise Army. I shall abide here in your city, which I and the other Ansei shall defend so long as we may, until our people are ready to fight for themselves.”  
-  
-The True-Told Tale of Hallin, PT. 2  
-  
-So Queen Ojwa took the venerable Hallin at his word and forthwith ordered her people to march west toward Alik’r, while daily drilling from the Book of Circles. But Queen Ojwa did more: as she was a wise queen she was an Owl-Friend, and had decreed that all owls were to be honored and none slain. And in return the owls did many a favor for her. So the queen did call the Father of Owls, and asked him to bide in Ojwambu and observe Hallin’s defense. “For I would learn,” she said, “how one man shall defend a city entire.”  
-  
-Even as the last of the people of Ojwambu departed from her gates to take the secret ways to Alik’r, the scouts of the tusk-folk appeared in the east, where they were noted by Hallin, for though he was old, his eyes were keen.  
-  
-Then Hallin spake, though there was none to hear but the Father of Owls, saying, “As the snake sheds its skin, so shall the Ansei rise anew from the husks of the past.” He raised his sword and cried, “Sisters! Brothers! I summon you to the succor of your people, for time folds upon itself, and then-time is now.”  
-  
-And he gestured with his blade to the left, and all along the battlements to the north there was a rustling as of snakeskins, and lo: there arose along the parapets the shadows of a legion. And there stood the semblances of all the female Ansei who ever were, and they turned to Hallin and saluted. So Hallin gestured likewise to the right, and along the battlements to the south there was a rustling, and lo: there arose the semblances of all the male Ansei who ever were. And they likewise saluted Hallin, and then all, north and south, drew their bright blades, and stood on the battlements awaiting.  
-  
-The scouts of the tusk-folk stopped forthwith to observe the defenses of Ojwambu. Surprised were they to see the battlements lined with goodly warriors, for they had been told that the folk of the city had forgot the Way of the Sword. So they did consult among themselves as to who would carry this news to Warlord Mahzgoor, and quarrel and quibble, for they feared the bearer of such news would have his head struck off. But finally the smallest, with many blows, was made to carry the report back to the Warlord.  
-  
-So the scout reported to Mahzgoor that, unaccountably, the walls of Ojwambu were lined with many goodly defenders. Of an instant the Rockhand struck off the scout’s head, but then he took thought, for he was possessed of both slyness and sinew. And his thoughts were, “What matter? We are as numberless as the sand in the dunes. We shall surround this Ojwambu, leaving neither entry nor egress. We shall despoil their fields of its provender, and stop up the streams of their flow, until no one within shall have to eat or to drink. And thus the city shall fall.”  
-  
-So Mahzgoor ordered, and so it came to pass. The tusk-folk took their leisure among the spoils of the outworks, casting jeers and taunts at the defenders on the walls. But the defenders replied naught. So Mahzgoor and his army waited, amusing themselves most abominably at the expense of their prisoners, secure that in time the defenders of Ojwambu must wither and dwindle.  
-  
-But it was not so. Even long after when the Warlord’s bone-counters calculated there must be no more to eat or to drink within the city, the defenders stood still stalwart and saying naught. So Mahzgoor summoned his shamans, saying, “Shamans! Have we been befooled by the perfidious Redguards? Are these goodly warriors we see lining the battlements, or are they but shadows?”  
-  
-So the shamans cast the portents, and sacrificed twin infants, and sent a scullion to the East Gate whom Hallin did spear from above. And they returned and said, “Nay, mighty Mahzgoor, we are not befooled, for these are goodly warriors we see lining the battlements. But how they may stand when they have not to eat or to drink, this we cannot tell.”  
-  
-Of an instant Mahzgoor struck off the shamans’ heads, then raised bloody Bone-Hewer and cried, “To arms! Form ranks! For tonight we drink the blood of the defenders of Ojwambu!”  
-  
-Of that battle, no living Redguard survived to tell the tale. But nonetheless did wise Queen Ojwa hear of it in full, for the Father of Owls did bear the tale to her ear. He told of how Hallin and his Ansei withstood the assault, yea, for seventeen days. But though they were goodly warriors, over time the Ansei did dwindle, though each left behind only a husk like unto a snakeskin. Finally only Hallin stood at the East Gate, which was burst open by Warlord Mahzgoor with Bone-Hewer held high. And Hallin did seem to grow to match him in size, and the two met sword to sword.  
-  
-Long and long their blades clashed, until finally as the moons rose the Rockhand smote Hallin such a blow that he was struck to the ground. But even as he fell Hallin, who knew the cuts and thrusts of the Book of Circles, yea, each and every one, swung his sword and struck off the head of the Warlord Mahzgoor. Then both were dead, but in death only one was smiling and serene.  
-  
-Queen Ojwa nodded to hear this news, and said, “It is well.” And she turned to her mighty army of Redguard warriors, each of which knew the cuts and thrusts of the Book of Circles, yea, each and every one, and said, “Redguards! March we now to retake our lands from the tusk-folk. And when we have regained our splendid city once more, we shall rename it Hallin’s Stand. And so it shall be.”  
-  
-And so it has been, ever after.
-
-[출처](https://www.imperial-library.info/content/the-true-told-tale-of-hallin)
+[출처](https://www.imperial-library.info/content/real-investigator-vale)
 
 ---
 
-## The Truth About the Green Pact
+## 진흙게 몰리스
 
-ID: ext-dc6a9601eddc9b80da6c
+ID: ext-da087e811095e188c915 / ESO 책 ID: 7522 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-By Scholar Sloozgub of Skingrad  
+갈렌의 어느 물웅덩이에 몰리스라는 진흙게가 살았다네,  
+누구도 건드리려 들지 않는, 성마른 갑각류였지.  
+그는 여섯까지 셀 줄 알았으니, 제 다리 하나에 하나씩이라,  
+차우루스 알 빛깔의 제 등딱지를 자랑으로 삼았다네.  
   
-The Green Pact has long been a source of intrigue for those outside Bosmer culture. It is a mysterious covenant, binding the Wood Elves to their God of Song and Forest, Y’ffre. Through its edicts, the Bosmer have adapted and integrated into the forests where they reside, creating a mutually beneficial relationship between “the Green” and themselves.  
+크고 무시무시한 집게로 그는 뭇 생물을 호령했지,  
+갯민숭이와 물고기와 종종대며 기는 온갖 것들을.  
+집게를 싹둑 짤깍 놀리며, 이리 가라 저리 가라 명을 내리고,  
+감히 말대꾸하는 놈은 철퍼덕 짓뭉개 버렸다네.  
   
-Despite its benign influences, the Green Pact has been maligned by outsiders to the culture—from bedtime tales of Wood Elves devouring unruly children, to baseless rumors of cannibalism circulated in academic spheres. After much time in the field among Wood Elf clans, this humble Orc believes she has grasped the complexities of the Green Pact. The purpose of this text is to dispel some of these salacious myths and provide the reader with facts for better understanding the Green Pact.  
+"성게며 불가사리며 그 밖의 빈둥대는 것들아,  
+이 일을 죄다 하지 않으면 당장 내던져 버리겠다!  
+저 해조류를 닦아 내고 저 진주들을 윤내라,  
+저 따개비를 긁어내서 멀리 휙 내던져라!"  
   
-Let us begin with the Green itself. This term refers to all living plants in Valenwood and beyond—from ancient trees to the softest moss. The Bosmer believe the Green is a gift from their primary deity, Y’ffre.  
+뭇 생물은 모두 복종해 제 일을 다 해냈으니,  
+해변으로 내던져지지 않으려면 그 길밖에 없었지.  
+쪼이고 씹히기나 하는, 메마르고 끔찍한 곳,  
+죽도록 일하든지 누군가의 해산물이 되든지였다네.  
   
-According to Wood Elf legend, Y’ffre breathed life into them shortly after creating the Green. By taking the Green Pact, the Bosmer swore never to harm the Green in any way—in exchange, they could shape the forest to their needs. Whether or not the deity Y’ffre literally existed and bestowed such power on the Wood Elves is not the focus of this text. But it is true that their communities are grown out of living trees and the Bosmer possess an uncanny connection to the forest. They do not work with wood and their villages are never hewn from lumber. Instead, their homes are shaped from the Green itself, a living piece of the forest.  
+진흙게 태반은 종교 같은 말은 알지도 못하건만,  
+다들 일하는 사이 몰리스는 제 안을 깊이 들여다보았지.  
+그는 짭짤한 가슴속에 사랑과 사뭇 닮은 온기를 느꼈으니,  
+저 위에서 굽어보는 위대한 게를 떠올린 까닭이었다네.  
   
-As a rule, Wood Elves do not participate in woodworking, carpentry, or whittling of any kind. It is a defilement of the Green. However, in some progressive Bosmer clans, there has been a shift toward the use of deadwood, such as branches and logs that have naturally fallen from a living plant. As these materials have already been shed by the vegetation, it cannot be harmed by their use. This is an ongoing development in the culture, and one that divides even the most progressive communities. It certainly warrants further study.  
+그는 돌로 빚은 거대한 집게를 지닌 게를 그려 보았지,  
+그리고 제 것과 사뭇 닮은, 환히 빛나는 등딱지를 지닌 게를.  
+그리고 이름도! 그래, 이름! 귀하신 게에 걸맞은 이름,  
+졸리스라든가 골리스라든가, 그런 부류의 이름을.  
   
-Although Bosmer culture holds all plant life in high regard, even the most diligent Wood Elf occasionally tramples a flower or accidentally treads on new growth. It is simply to be expected when living in densely forested areas. Outside rumors suggest the penalty for such a transgression is swift and brutal punishment, often lethal. This is simply not the case. This author has observed the typical reaction is mild embarrassment from the transgressor, and gentle chiding from an elder to be more careful where they step. Only repeat offenders receive any harsher retribution, and then it is often community service to the clan and mandated meditation to reconnect with the Green.  
+그 위대한 게가 보신다면 그 얼마나 멋진 일일까,  
+몰리스가 이 거친 바다 한구석을 길들였음을 말이지.  
+이 물웅덩이는 그의 것, 죄다 정돈되고 깨끗하니,  
+구석구석 문질러 완벽하게 윤이 나고 반들거렸다네.  
   
-The astute reader may have surmised that since the Bosmer have sworn not to harm the Green, they cannot use plants as food. This is true. Wood Elves patently do not farm, including the sowing, reaping, harvesting, or gathering of any fruits or vegetables. Instead, they follow the “Meat Mandate,” subsisting on a diet almost entirely made up of animal products, including meat, dairy, honey, eggs, and insects.  
+그러다 몰리스의 자그마한 보금자리 위로 그림자가 높이 솟더니,  
+장화 밑창이 물거품을 뚫고 쾅 내리꽂혔지.  
+그 짧디짧은 한순간 그는 그분이 오신 줄 알았다네,  
+저 위의 위대한 게가 헤엄치러 내려오신 거라고!  
   
-Because of this, Wood Elves are excellent hunters. They are easily able to meet the needs of the clan with these resources and have devised clever recipes for everything from meat-based alcoholic beverages to “tarts” made of bone flour and fermented pig’s milk.  
+허나 그건 졸리스도 골리스도, 이름난 그 어떤 신도 아니었으니,  
+잔느인가 뭔가 하는 이름의, 그저 어린 선원이었다네.  
+그녀는 앞뒤 안 가리고 웅덩이를 가로질러 내달렸지,  
+제 발이 어디를 딛는지는 아랑곳도 하지 않고.  
   
-What may surprise readers is that many Wood Elves have actually consumed fruits and vegetables. While they never pick live fruit from a tree, fallen fruit is considered an acceptable meal. Similar to the deadwood issue, fallen fruit is no longer part of the living plant, so its consumption does not violate the Green Pact. (It should be noted that the use of deadwood is a more contentious issue than eating fallen fruit.) Only a small number of conservative Bosmer clans would consider this practice taboo.  
+선원은 왔나 싶더니 어느새 떠나 버렸으니,  
+그대는 궁금하리라, 남은 생물들이 슬퍼했을지를.  
+어쩌면 다 함께 통곡하며 떨리는 숨을 내쉬었을까,  
+진흙게 몰리스의 덧없는 죽음에 닥쳐온 갑작스러운 슬픔에.  
   
-This brings us to the most outlandish rumor of all: the practice of cannibalism.  
+허나 물웅덩이는 고요했고, 이래라저래라 호령하는 이도 없었으니,  
+해조류가 엉겨도 해초가 웃자라도 누구 하나 마음 쓰지 않았지.  
+따개비가 들어와 살고 진주가 빛을 잃은들 그게 무슨 대수랴?  
+지나가는 갈매기에게 내던져질까 두려워하는 이도 없었으니.  
   
-It is true that in the early history of the Green Pact, ritual cannibalism was practiced. The Green Pact rejects the waste of meat, including the bodies of fallen enemies. In the past, warring clans consumed their defeated foes to ensure no meat was wasted. Though shocking, this practice was pragmatic, allowing the clan to survive and make the most of the lost lives.  
-  
-However, this custom has almost entirely fallen out of practice. This scholar has spoken to numerous Wood Elves who have no living memory of any clan participating in this ritual. However, it cannot be ruled out. It is possible that some extremely isolated or traditional clans may still hold to the practice, but in general it is a bygone edict only circulated to scare children or liven up dry lectures.  
-  
-As a whole, the Green Pact is a fascinating code of conduct that uniquely binds all Wood Elves together Unless one is of Bosmeri descent or has spent an inordinate amount of time among them, outside observations can only go but so far toward understanding this phenomenon. This author hopes the reader has found something of use in this text and will use it as a starting point for further inquiries into this rich culture.
+그리하여 때 낀 더러움을 탓할 이 하나 없으니,  
+웅덩이엔 다시 생기가 돌았지, 갯민숭이도 그 점액도 돌아왔고.  
+해초와 해조류도 곧장 다시 무성히 자라났으며,  
+이제 따개비 한 가족이 몰리스라는 빈 등딱지에 깃들어 산다네.
 
-[출처](https://www.imperial-library.info/content/the-truth-about-the-green-pact)
-
----
-
-## The Truth in Sequence
-
-ID: ext-5dc45c23a9b41670a830
-
-The Truth in Sequence: Volume 1  
-  
-Taken from the sermons of Deldrise Morvayn, Fourth Tourbillon to the Mainspring Ever-Wound.  
-  
-By the word, I wind the gears.  
-  
-How does one come to know the Clockwork God and Father of Mysteries? Our Lord Vivec and the Lady of Mercy, Almalexia, are known to us. Their faces are known to us. Their words are known to us. But what of Sotha Sil? He who is distant in both position and intent. Ever watchful, but seldom seen. Ever worshiped, but seldom heard. He is the Mainspring Ever-Wound – the unmoved mover, hidden within His Clockwork City, whose voice is the Divine Metronome. As Tourbillon, I speak His truth as I know it. I say the words in sequence so they can be known by the people. The sequence is but a shadow of the truth, but minds such as ours cannot bear the ordered unsequence. Minds such as ours cannot truly know themselves. Not yet.  
-  
-The First Truth of the Mainspring Ever-Wound is the truth of Nirn. The soul of Nirn has two faces. The first is known to us – the Nirn-Prior, or the Nirn of Many Parts. It is a Nirn in pieces, assembled by the unsteady hand that has yet to find itself. Its oscillations irregular, its going train disrupted by fear and delusion. Its faults are not in its parts, but in its assembly. Each gear is a god. Each spring is a thought. But a mechanism built by many hands cannot know the precision of the master craftsman. The et’Ada Gears cannot bring forth a true Nirn, because they know only its parts. They cannot see the whole. The Eye of Sotha Sil ignores such division. Where the broken gods see only pieces, our Father Sotha Sil sees the whole. He sees the Second Nirn.  
-  
-The Second Nirn. The inchoate Nirn-Ensuing. The thought-form that anticipates the world to come: Tamriel Final. Anuvanna’si. Only Sotha Sil knows its shape. Its nature lies forgotten in the before-time when Anu broke itself for wisdom’s sake. Our lessers know the Source as two forms: Anu and Padomay, but this binary is without merit. One of the Lorkhan’s Great Lies, meant to sunder us from the truth of Anuic unity. Our father, Sotha Sil, would have us know the truth: there is no Padomay. Padomay is the absence of value. The lack. A ghost that vanishes at first light. A Nothing. There is only Anu, sundered and known by many names, possessing many faces. The one.  
-  
-When Anu broke itself, it did so to understand its nature. In its sundering, the values that swam in its vastness thought to know themselves. The et’Ada Gears gave themselves many names and set their will to building. Alas, they heeded the counsel of Lorkhan and forgot the face of Anu. They thought themselves distinct and whole. And so, many hands assembled the world, each with separate intention and selfish purpose. The Nirn of Many Parts was the result. A broken and leaking steam-ship that lists ever wind-ward.  
-  
-But rejoice, children of the Tribunal! In His wisdom, the Mainspring Ever-Wound seeks to reclaim our lost heritage. His heart is oiled and calibrated, pumping dark truth as blood. His mind is the God-Mortar where the fractured values of Anuic nature are ground and weighed – unified through His will alone. From this great labor, a new Nirn will be born. Tamriel Final. Anuvanna’si. I pray that we see the fruit of His labor – a perfect world, without et’Ada Gears. Without the illusion of change. Water-tight and everlasting.  
-  
-By the word, I wind the gears.  
-  
-The Truth in Sequence: Volume 2  
-  
-Taken from the sermons of Deldrise Morvayn, Fourth Tourbillon to the Mainspring Ever-Wound.  
-  
-By the word, I wind the gears.  
-  
-The will of Sotha Sil is the chrononymic will. The Nameless Will. For what is “Name?” The Divine Metronome tells us that “Name” is the wedge that pries gear from pinion. The residue of Lorkhan’s Great Lie that loosens the wheel chain and corrodes the frame. The et’Ada Gears named each and each, in their way. Our lessers see this as a kindness, but the Mainspring Ever-Wound calls it a curse, rooted in selfish pride. To name is to cleave one from another. It is the death of Anuic convergence and the Nirn-Ensuin – the misassembled dragon that breathes dry falsehood and whose name is “Multitude.”  
-  
-There is only one name that is not Name. Seht, the convergent Clockwork God, whose will pumps like a piston into both “then” and “after.” Sotha Sil, Father of Mystery, whose heart drives the Wheels Eternal and whose blood oils the All-Axle. Si, the Divine Engine, whose mind merges “they” and “we” and births the Nirn-Ensuing. Lesser wills are wisps of smoke, born and lost in a sea of endless sky. Lost children whose freedom is death.  
-  
-For what is freedom, child of the Tribunal? The counter-lever to slavery? No. Have you not heard the words in sequence? The chrononymic will is the pendulum that swings only once. It cannot do otherwise. To swing twice would break one intention from another and prove the blasphemy of two. As Padomay is illusion, so too is the named will. For what is “choice” if not chaos? What is “free will” if not the lack of order, vulgar and triumphant? The true wheels spin clockwise, ever clockwise. In the unity of Nirn-Ensuing, each belongs to all, and all belong to none – save Tamriel Final. Anuvanna’si. So lay down your cheap burdens, child. “Shall I do thus?” Such “choice” is delusion. Give yourself to the pursuit of unity, for in the end, you cannot do otherwise.  
-  
-By the word, I wind the gears.  
-  
-The Truth in Sequence: Volume 3  
-  
-Taken from the sermons of Deldrise Morvayn, Fourth Tourbillon to the Mainspring Ever-Wound.  
-  
-By the word, I wind the gears.  
-  
-The Third Truth of the Mainspring Ever-Wound is the truth of the Daedra. In the days before the First Ignition, the Chimer people bent their knees to the False Princes: The Webspinner, the Prince of Plots, and the Queen of Dawn and Dusk. I do not use their names, as Name cleaves one from another. You know them well, child of the Tribunal, for every time you bear false witness, or make foolish boasts, you do so in their name. Their words corrode and weaken the heart. Their threats loosen the fasteners and break the seals. They are the Anti-Gears that turn counter to the Nameless Will. Servants of the Padomaic untruth whose nature is void. Of the Daedra, only the Gray Prince of Order knew his nature, and he went mad in the knowing.  
-  
-The Daedra fear wisdom and order, you see? And thus do they fear the Clockwork God above all others. Where others see dark crowns numbered ten and six, Sotha Sil sees shadows and nothing more. For the Daedra are the lie that creation tells itself. Like their father, Padomay, they are Nothing. And in the Tamriel Final, Nothing shall hold no sway. Anuvanna’si. Their black mountain called “Oblivion” shall sink into the Furnace of Forgotten Numbers, where all lies burn and brittle multitudes turn to slag.  
-  
-I hear you ask: If the Daedra are of the Nothing, how do they lurk on our threshold? How do they lurk at all? Hear the words in sequence, child of the Tribunal! In the clumsily built Nirn-Prior, the et’Ada Gears left gaps and crevices where Nothing could take root. Imperfections born from Lorkhan’s Great Lie and the selfishness of fractured creation. In the glorious Anuic convergence of the Nirn-Ensuing, all gaps will be sealed. All crevices will be welded. The creaking and rattling of the machine shall retreat to a whisper, and the reckless chaos born from the et’Ada Gears’ folly shall shrivel and starve.  
-  
-By the word, I wind the gears.  
-  
-The Truth in Sequence: Volume 4  
-  
-Taken from the sermons of Deldrise Morvayn, Fourth Tourbillon to the Mainspring Ever-Wound.  
-  
-By the word, I wind the gears.  
-  
-Now I speak to you of Sotha Sil’s silence. The children of ash sometimes ask, “Where is our Clockwork God? Why does only the Tourbillon speak His truth in mortal sequence?” They ask in hushed tones, with brows creased by fear. Do not flee from such questions, child of the Tribunal. These are the little blasphemies that lead to wisdom – the faultless flame that turns ignorance to steam. For the Mainspring Ever-Wound is the Father of Curiosity, and curiosity is the joyful destroyer. Only in sundering can things be made whole. Only the disassembled engine can be scrubbed and made clean. So, smash the old machines! Topple your mind’s idols! And from the wreckage, assemble new truths – flawless and water-tight.  
-  
-Do you see now, child of the Tribunal? It is the silence of Sotha Sil that gives birth to the intrepid mind. Knowledge must be found – and to find a thing, it must be hidden. It is not enough to be told. The whirr of the machine is as silence to the one who lives within it. A turbine ever-oiled does not know the lack of oil – does not know the purpose of oil. And so it is with truth.  
-  
-Now, you must know that curiosity is not without cost. ALM forgive this heresy! VI forgive this heresy! I speak the words in sequence only. Pay heed to the laws of golden masks, but know also their limits. Pay heed to the songs of dancing glass, but know also the boundaries of their scale. Their truth is the truth of inertia. Of gravity. Their hearts are vessels filled with liquid brass – resistant to harm, but incapable of movement. The Mainspring Ever-Wound spurns that which does not move. In the Nirn-Ensuing, that which does not move shall be fed to the Kiln-Amaranthine where Seht’s quiet wrath burns like the sun, and broken cogs are made whole. The Wheels Eternal must spin. The Tamriel Final must tick and tock. Anuvanna’si. Each and each must take its place in the whole. For if even one piece is missing, the whole is not whole.  
-  
-By the word, I wind the gears.  
-  
-The Truth in Sequence: Volume 5  
-  
-Taken from the sermons of Deldrise Morvayn, Fourth Tourbillon to the Mainspring Ever-Wound.  
-  
-By the word, I wind the gears.  
-  
-Speak not of Dwarves, child of the Tribunal. The simple clockworks of the Dwemer pale before the sublime machinery of Sotha Sil. Let Dumac’s lament be a silent one. Let his hissing tombs stay buried. Let his automata rust and crumble. For his was the greatest failure – driven by Lorkhan’s Great Lie and churlish pride. His is a tale of woe and terror, and those that pursue his ugly maths shall pay a great price in blood.  
-  
-“But, was Dumac not a creator?” you ask? “Were the brass-child’s hands not covered in oil? Did they not speak the words of Making, and set wheel to axle?” Hear the words in sequence, followers of Seht. Intention dictates the worth of a machine. Where the Mainspring Ever-Wound seeks the convergence of the Nirn-Ensuing, the ghosts of the Dwemer cry out: “Multitudes! Multitudes!” Mer and machine, parted. Wisdom and ambition, parted. Made and Unmade, parted. And from those sunderings, a thousand thousand skittering machines are made – left to wander forgotten halls, aimless and profligate. One may twist a knob left in preparation for another to twist the same knob right. One may loosen a pipe so that another may tighten it. They exist only to maintain the brass-childrens’ folly, and so they are redundant and profane in the Eye of Sotha Sil.  
-  
-But most profane is this: the walking horror that bears the Name, NM. The Brass Tower of Vanity. The mindless guardian of the Nirn-Prior. The Antipodal-God-Thing that reigns on the darkest pole of the sacred Nirn-Sphere. Of all the threats to Tamriel Final, NM is the greatest. Anuvanna’si. The Daedra can be banished in thought, but NM must be sundered on Nirn. It is the welded knot at the center of Anu that must be untied. The God-Puzzle. The Mainspring Ever-Wound remains silent on this point. And where there is silence, there is great wisdom.  
-  
-By the word, I wind the gears.  
-  
-The Truth in Sequence: Volume 6  
-  
-Taken from the sermons of Deldrise Morvayn, Fourth Tourbillon to the Mainspring Ever-Wound.  
-  
-By the word, I wind the gears.  
-  
-Behold, the Clockwork City! The Throne Aligned! The Omni-Axle! The Brass-Throat Herald of Joyful Destruction! The Oil-Slick Tower of Seamless Assembly! Rejoice! Rejoice!  
-  
-Listen, child of the Tribunal! Do you not hear the whirr of the gears? The hiss of the pistons? It is the voice of Sotha Sil, calling you to the Nirn-Ensuing. To the Tamriel Final. Anuvanna’si. Cast down your worldly maths. Loosen the chains of your selfish pursuits. Shall I describe it to you? Shall I guide your eyes to the future of Nirn? Hear the words in sequence, dark child. Close your eyes and awaken!  
-  
-Gaze up to behold a crystal sky, girded and bound by Seht’s bright bands. Look down to behold the black stone of His will, and His imagination made clay. Drink His truth, thick as blood, from the broad black rivers. Feel His breath on your skin – let its dreamy redolence fill your nostrils and sting your eyes. You stand at the center of the wheel. The home of the Mainspring Ever-Wound.  
-  
-Obsidian towers stretch ever skyward, festooned with polished brass and godly filigrees. Great turbines drive memory through a thousand thousand pipes that stretch out like tangled veins, or the golden roots of an ageless tree. And wandering amidst the humming and hissing paradise are His second-children. The Fabri’siraynosim. The merged-ones. Birthed of the unsequence, and bound to the Nirn-Ensuing. They cry out in one voice: “Death to Multitudes! Woe and terror! Let the fragments melt in the Boiler of Unknown Angles! Let the falsehoods burn in the Furnace of Forgotten Numbers! Disassemble and cleanse! Dismantle and make whole!” They are the guardians – the ever-wound key-lords. Only the Nameless heart avoids their wrath. Their hatred of discord knows no limits. For the road to Tamriel Final is not a bloodless one, child of the Tribunal. Anuvanna’si. Contemplate this with a pious heart. Seek a clean and well-oiled soul. It shall serve you well in His truth-to-come.  
-  
-So you see the Clockwork City is like Sotha Sil Himself – rich in beauty for the faithful, and alight with sublime terror for the servants of chaos. In which Clockwork City would you reside? Commit your small blasphemies and think on this.  
-  
-By the word, I wind the gears.  
-  
-The Truth in Sequence: Volume 7  
-  
-Taken from the sermons of Deldrise Morvayn, Fourth Tourbillon to the Mainspring Ever-Wound.  
-  
-By the word, I wind the gears.  
-  
-Think now on the wheel. To all things it appertains.  
-  
-Is there anything so sacred as the wheel? Like Tamriel Final, the wheel both moves and does not move. Anuvanna’si. The axle sleeps, while the spokes make haste – round and round in reflective circles. Now, here dwells a Nameless secret, child of the Tribunal: does a thing move when it moves in circles?  
-  
-Motion lies at the heart of the Nirn Ensuing, but not all motion is Nameless. Not all movement earns His blessing.  
-  
-The Divine Metronome calls the first motion “The Motion of Lines.” Line-motion is the motion of simple minds – the motion of weak wills and scholars’ vanity. “Forward!” it cries! Forward to the fruits of cheap ambition. Forward to the promise of everlasting kingdoms. Forward to the mirage that the sages call “progress.” These misguided pioneers venture out into their wild tomorrows, and the tomorrows after that, certain of their worth – their virtue. But what profits a man or mer to gaze deep into a single future? The aims of mortals are narrow, far too narrow! To move forward is to ignore infinite angles in favor of one. It is the act of a beast or a child. The Clockwork God spurns vanity in the guise of courage. These explorers’ travels only lead them farther from Tamriel Final. Anuvanna’si.  
-  
-Seht speaks of the second motion only in whispers. “The Pendulum” or “Named Oscillation” is the tic-tock motion – the motion of entropy and false hope. None but the Clockwork God may claim its dark power. With each wide swing it shouts Lorkhan’s lie. “Hail, intentions divided! Hail, cursed multitudes!” Do not stand in the Pendulum’s path, ash-child. Only the Mainspring Ever-Wound may bear its weight.  
-  
-Last is the reciprocating motion. “The Sublime Piston.” The lover’s embrace. Like the Father of Mystery, it gives and takes in equal measure. As the bow upon the strings, it calls forth the sublime. As the carpenter’s saw, it wrenches back and forth, sundering the Named pursuits of lesser mer. Only a Nameless heart may harness its strength. The artist, the star-counter, and the engineer call it “muse.” The truth-blind multitudes call it “destroyer.”  
-  
-Do you see now, child of the Tribunal? Every movement hides intent. To stray from the wheel is to abandon the Clockwork God. In the Tamriel Final, all shall spin, and only spin. Anuvanna’si.  
-  
-By the word, I wind the gears.  
-  
-The Truth in Sequence: Volume 8  
-  
-Taken from the sermons of Deldrise Morvayn, Fourth Tourbillon to the Mainspring Ever-Wound.  
-  
-By the word, I wind the gears.  
-  
-Blessed Father of Mystery, place your oil upon my tongue that I might tell the true tale of Mournhold. Behold the strength of untold calculation! Behold the power of the Mainspring Ever-Wound!  
-  
-Every Nameless soul must confess the truth of Mournhold, for many lessons hide in its ashes. Sing now the hymn of anguish and horror, child of Seht! Behold, Mehrunes Dagon, Sovereign of Destruction! Mehrunes Dagon, the Flame Tyrant! Mehrunes Dagon, Father of Cataclysm! Recall how he marched upon Almalexia’s jewel! Do you remember how his Will burned like kiln-fire, and hot pitch fell from his lips? Aloft, he held four great razors. Each sang a screeching paean to glorify him. Torrents of flame fell upon the innocent and wicked alike, shearing flesh from bone; belching forth widows and orphans in gouts of frothing screams.  
-  
-“Who dares to face me, draped as I am in fire and blood?” roared Dagon. The dark Prince beat his breast and howled long-forgotten curses. The dead burst forth from their tombs, shrieking for mercy. Geysers of black liquid-sin erupted from below, flooding ruined homes with torrid lies and conspiracy. And everywhere, flames – an inferno that turned all souls to ash.  
-  
-Almalexia, Mother of Mercy, cast her eyes upon the ruins of her gemmed city and wept. To see such love burned and squandered turned her heart to molten brass. Our Clockwork God took note of her fury, sealing the memory away in his great mnemonic planisphere – a reminder of her love’s high price.  
-  
-Rising from the ground like foundry-smoke, the Tribunes confronted the Prince of Disasters. Ayem’s voice like a screeching steam-whistle, and Sotha Sil’s like a lurching engine.  
-  
-“ERAM VAR AE ALTADOON!” they cried, rending their garments and donning their killing masks. Ayem drew her bright Hopesfire and skipped over the flames like a river-stone. With a mighty scream, she plunged the blade deep into Dagon’s breast and turned it like a jailer’s key. Scorching blood spewed out of the wound, scalding her hands and face. As she fell, the Divine Metronome chiseled a thought-rune of infinite angles. Do you remember how the veins of tin, copper, and orichalc erupted from the depths to break our mother’s Fall? Through His will alone, Mighty Seht wound the veins into god-bronze whips, and lashed the Prince pitilessly. Dagon hissed and tumbled backward. His otherworldly flesh fell like chaff before the scythe. Alas, a Sarmissonays’um ghoul-thing emerged from every chunk.  
-  
-A multitude of the creatures gathered around Ayem, fiery tar oozing from their mouths and open sores. They groaned and retched, speaking only Dagon’s name as they fell upon her. The Warden hissed thrice, took up her blessed sword, and smote the beasts by the score. She severed head from neck and arm from shoulder, cleaving sin from virtue and shouting old-oaths of banishing. Do you remember how the beasts fell To her on that red day?  
-  
-You must recall the howls of Madness! How Dagon foamed and snarled beneath the lash of Sotha Sil! “Behold!” cried the Divine Metronome as He smashed the Prince to splinters. “Behold the wrath of lost Ald Sotha! Know death at my hands, false-son of a false-father! KAER PADOHME VIE ALTADOON!”  
-  
-Even then, at the end, the Prince of Destruction did not relent. With the last of his four great arms, Dagon dragged the last of his four great razors across the Watchmaker’s jaw. Tasting the blood on His tongue, our Father of Mysteries whispered a final chrononymic death-word, and Dagon exploded throughout all time. The earthbones quaked and the All-Axle shook. From this word of sundering, Truth took root.  
-  
-Mehrunes’s ruin slithered between the cracks of Nirn and Oblivion, shrieking curses like a petulant child. The Mainspring Ever-Wound tightened His brass-wrought fist and slammed the gap shut – another small step toward Tamriel Final. Anuvanna’si. So ends the true account of Mournhold’s fall. Remember this tale always.  
-  
-By the word, I wind the gears.  
-  
-The Truth in Sequence: Volume 9  
-  
-Taken from the sermons of Deldrise Morvayn, Fourth Tourbillon to the Mainspring Ever-Wound.  
-  
-By the word, I wind the gears.  
-  
-The Mainspring Ever-Wound values craft above all things. She who shapes and assembles, he who conceives and creates – these are the true children of the Clockwork God.  
-  
-Your labors need not whirr and hiss like the sublime clockworks of Sotha Sil. The brush, the auger, the tongs, the needle – each and each may honor the Father of Mysteries, so long as they speak His truth. And what is His truth, child of Seht? Perfection only? No. Hear the words in sequence! Simple precision is naught but the shadow of virtue. Even a faithless smith may fashion the blade with the keenest edge. The perfect sphere, the clearest glass, the truest angle – all fall short of His favor. Only through the purest incongruities and greatest doubts do we earn His blessing. You must think with the thrice-folded mind. You must gaze upon the unsequence.  
-  
-No mortal may grasp the unsequence fully. We see the edges only – the liminal truths. For some, the unsequence brings despair. Others look upon it with a child’s bewilderment. But for the precious few, the Nameless explorers, this thin ray of understanding may serve as the Bridge of Infinite Curve. The Walking Wheel.  
-  
-Know this, ash-child: only the intrepid mind may walk this path. For you see, the Nameless soul is the tightrope walker that strides in circles only. Below and aside, waits the gaping maw of Sheogorath’s lie. Ahead and above, waits Tamriel Final. Anuvanna’si.  
-  
-I hear your cries, child of Seht! “How does one walk the wheel?” you ask. Here lies a Nameless truth. Just as no wrench fits all bolts, no walk fits all souls. For the sculptor, it may mean an angle inverted, or a form transposed – an abandonment of the Named resemblance and an embrace of the abstract. For the scholar of maths, it could require half-mad theorems – rooms of cubic numbers and functions only imagined. For the inventor, it may demand a tool without any known use, or an answer-machine that prints only questions.  
-  
-Craft perfected, and use obscure: this is the surest path to Tamriel Final. Anuvanna’si.  
-  
-By the word, I wind the gears.  
-  
-The Truth in Sequence: Volume 10  
-  
-Taken from the sermons of Deldrise Morvayn, Fourth Tourbillon to the Mainspring Ever-Wound.  
-  
-By the word, I wind the gears.  
-  
-Beware blind reverence for The Old, child of Seht. The oil of antiquity often fuels the future. Those who ignore the counsel of our blessed ancestors do so at their peril. But not all ruins hide wisdom within their shattered halls. Some ruins are dark and barren places – unsteady graves for lies and curses. Resting places for bent axles, stripped bolts, and the bitter silence of inertia.  
-  
-In the time before our Father’s rise, old and feeble knowledge ruled the hearts of Mer. The children of ash entered their ancestral tombs not in search of truth, but in search of truth’s corpse. They saw their forebears not as proud and vigorous guides, but as wheezing, toothless ghosts – guardians of the musty and derelict engines that fools call deep wisdom. You must smash these old machines, child of Seht! The past does not rust upon the scrap pile. It hurtles toward the Mainspring Ever-Wound’s glorious and multi-angled future, whipped by the scorching tongues of our honored forebears! Ever do their words and deeds grease the wheels of the Nirn-Ensuing! Ever do they weld the seams of Tamriel Final! Anuvanna’si.  
-  
-But alas! Even now, stewards of The Old feed aged truth to those who would listen. They are the daughters and sons of PSJJJJ who crouch like gargoyles over musty tomes, faces hidden beneath frayed and graying robes. They counsel caution, temperance, and equanimity – ancient virtues of the fading Nirn-prior. Even so, the Father of Curiosity calls them friends. With a god’s patience, He teaches them. With a father’s love, He guides them; all in the hopes that one day they may see the deepest truth of The Old: that we must banish our feeble ghosts and give their memory new life through the thrice-folded mind. Toothless gears cannot be repaired – they must be melted and reforged. So it is with our people’s truth.  
-  
-None will deny that the daughters and sons of PSJJJJ wield great power. Like our Clockwork City, their isle of Artaeum glides between what is and what may be. Like our Clockwork Apostles, they study, strive, and create. But power without an infinite future’s courage is like an empty boiler – infused with fierce heat but producing no steam. Woe upon those who recoil from Tamriel Final! Anuvanna’si. The will of the Clockwork God turns such cowardice to slag. But rejoice! The Father of Mysteries’ affection proves the PSJJJ’s worth. One day these lost spellweavers will heed the words of the Divine Metronome and seek the true and noble change – the aratagnithir. On that day we shall embrace them not as friends, but as brothers and sisters.  
-  
-By the word, I wind the gears.  
-  
-The Truth in Sequence: Volume 11  
-  
-Taken from the sermons of Deldrise Morvayn, Fourth Tourbillon to the Mainspring Ever-Wound.  
-  
-By the word, I wind the gears.  
-  
-I hear your whispers – your puerile laments. Even here in the Clockwork City, bathed in the oil of His divine wisdom, you cry out, “Where are the soft grasses and babbling creeks? Where are the heady wines and rich fruits? Where are the gentle rains, and sighing boughs, and swaying mushrooms?” Like hungry babes you weep, “Where is the Real?” Ease your bellows and steady your gears. You must gaze now upon the brass-wrought truth. See the Real of Tamriel Final. Anuvanna’si.  
-  
-What makes a thing real? Is it the blood, or the sap, or the beating heart? Is it the shrieking trauma of an infant’s birth? The low roar of the tides? The root’s thirst for water or the lazy drift of distant clouds? No, child of Seht! Hear the words in sequence! Can you not see that your fears spring from Lorkhan’s lie? Those soft forms and gentle comforts you covet are naught but corroded lies – fractured creation’s panacea that deadens the soul’s forgotten pain.  
-  
-“But is Sotha Sil’s sacred city not a replication?” you ask, “A Nirn in miniature?” Hear this, ash-child: the Clockwork City is no mere simulacrum. The copper leaves and sculpted hills are not Nirn’s resemblance, but Nirn’s refinement – worldly forms made whole by the steady hand of the Mainspring Ever-Wound. The glorious unity of Tamriel Final demands convergence. Anuvanna’si. Mer and machine made whole. Nature and engineering made whole. The past and the future made whole. In time, all of Nirn shall be pressed and fired in this forge of Seht’s blessed imaginings – weighed and measured upon the Nameless Scales! Is this not the Real? Is this not the redemption of the et’Ada’s sins? Do you see now the impoverished forms of the Nirn-Prior? The cheap and hollow falsehoods that masquerade as nature’s splendor?  
-  
-Seek out the dry, hard places, child of Seht. Anoint your tongue with His oil. Fill your stomach with His nourishing grain. Cast out what was and fix your eyes upon the Nirn-to-come – upon Tamriel Final. Anuvanna’si.  
-  
-By the word, I wind the gears.  
-  
-The Truth in Sequence: Volume 12  
-  
-Taken from the sermons of Deldrise Morvayn, Fourth Tourbillon to the Mainspring Ever-Wound.  
-  
-By the word, I wind the gears.  
-  
-I have spoken the words in sequence, child of Seht. I have guided your eyes to the glorious Nirn-Ensuing – to the inevitable grandeur of Tamriel Final. Anuvanna’si. I have shouted my grave admonitions and whispered the secrets of the infinite curve. Now, as my engine fails, I bestow upon you my final blessing. You who sing the song of making and set your wheels to axles – you intrepid star-counters who shatter the old machines and smelt new truths from the crude and forgotten ores of the Aurbis – you must hear this ultimate lesson.  
-  
-Tamriel Final shall change you in ways both grand and terrifying. Anuvanna’si. Just as molten brass cools in its mold, so too will your body take on a new and hardened shape. Just as water changes from liquid to steam, so too will the cheap preoccupations of your mind disperse and fade. Just as oil ignites and powers the engine, so too will your soul glow bright and drive the Wheels Eternal. The unity of Tamriel Final must wash away our selfish pursuits and jealous will, ash-child. Anuvanna’si. In the glorious Nirn-Ensuing, we must exorcise that grinning apparition we call “I.” Only then can we know the sublime truth of the Mainspring Ever-Wound. We must walk change’s road if we seek the end of disorder – and like all roads worth walking, it fills our hearts with joy and terror.  
-  
-How like the et’Ada gears we are – content to live our lives in vain and sequestered sorrow, all the while oblivious to the anguished cries of our fractured souls! Look upon the lonely shore of Nirn. What do you see, with your broken eyes? One beach? One sea? Deceit and vanity! The Named illusion! For what is a “beach” if not a desperate agglomeration of isolated grains? What is a “sea” if not a churning mass of solitary tears? Separate! Broken! Arrogant and futile!  
-  
-Even after meditating upon these sermons, there are some among you who cling to the Nirn-Prior. You fear the loss of your thin and impoverished “self.” You must cast aside these childish fears! What good is a “self” if it burns away at the threshold of what waits beyond time? Do you not see that the Father of Mysteries seeks to usher our world through the End? To protect us from the lies-made-flesh who seek to destroy us? If you remember only one thing, let it be this: our blessed Clockwork God loves you with a fierce and awesome heart. What he does, he does for you and for all who would follow his divine example.  
-  
-Lasting joy. The peace of unity. The sublime satisfaction of perfect rhythm; these are the product of our honest labors – the spokes of our blessed wheel that spins eternal. The Mainspring Ever-Wound offers perfection, child of Seht. You have but to gaze within. Stoke your coals. Add fresh water to your boilers. Tighten your bolts, and believe. Tamriel Final awaits. Anuvanna’si.  
-  
-By the word, I wind the gears.
-
-[출처](https://www.imperial-library.info/content/truth-sequence)
+[출처](https://www.imperial-library.info/content/molith-mudcrab)
 
 ---
 
-## The Truth of Minotaurs
+## 진흙게의 변덕스러운 본성
 
-ID: ext-fe455d7f9c355de309f2
+ID: ext-afe282d4f420add4a424 / ESO 책 ID: 1476 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-By Tyronius Liore, Scholar of Imperial Antiquities  
+처음 기록된 이래로, 탐리엘의 일반 진흙게는 언제나 악독하고 위험한 것으로 묘사되어 왔다. 그러나 견고함 갈퀴 하나만 있으면 평범한 농부도 해치울 수 있는 존재이기도 하다. 진흙게의 키틴은 특정 계파의 연금술사들이 귀하게 여기나(나 자신은 절대 쓰지 않겠지만), 그 살점은 탐리엘 일부 지역, 특히 모로윈드에서 진미로 통한다.  
   
-By this point, you must have read the inane ramblings of the now disgraced sage, Nonus Caprenius. It brings me no joy to cast aspersions on his name. Caprenius was once an eminent scholar whose mastery of beastly sciences far surpassed that of his peers. Alas, his obsession with the bull-men and their dubious origins proved too much for the community to bear. Allow me to clarify this matter and put it to rest once and for all.  
+그 습성상, 진흙게는 자신의 강과 시내, 해변을 영역에 대한 위협이라 여기는 것들로부터 지키려 든다. 무리를 이루어 자신들의 전투 활약에 대한 부풀려진 자신감으로 두려움 없이 다가오는 것들을 공격하는 경향이 있다. 일반 진흙게의 분노를 가라앉히는 방법은 화살이나 도끼의 정확한 일격뿐이다.  
   
-Caprenius, clearly in the throes of some mania, suggests that minotaurs are the descendants of Alessia and her legendary consort Morihaus, the bull-man. Beyond being lightly heretical, this assertion finds no basis in historical fact. The fate of Alessia’s son, Belharza the Man-Bull, is well known – catalogued (obliquely) by countless scholars of the period. He met his fate at the biting-tips of Elven spears. That much is certain. Connecting the Slave-Queen to a brutish race of bull-headed savages merely because they share a physical feature makes no more sense that connecting men to guars since we both walk on two legs.  
+비욜사에 해안의 표본들을 연구하면서, 나는 최근 몇 달 사이 기이한 경향을 발견하였다. 평소에는 연구 대상을 죽이는 사태를 피하려면 들키지 않게 조심조심 접근해야 하였건만, 최근에는 갑각을 쓰다듬을 정도로 가까이 다가가 관찰할 수 있게 되었다.  
   
-The fact is that minotaurs are the bitter fruit of some spell or alchemical process gone awry. There is no great conspiracy – no zealously guarded secret – just an unfortunate, ghastly accident. Truly, who could look at one of these bovine brutes and see the proud legacy of Akatosh stirring in their blood? These are the ravings of a disturbed mind, and should be treated as such.  
+지난주, 나는 진흙게 무리 한가운데 앉아 아무런 방해도 받지 않고, 멀리서 연구할 때는 놓치기 마련인 세부 사항들을 열심히 기록하였다. 그러나 녀석들이 완전히 온순해진 것은 아니다. 직접적으로 도발하면 반응한다. 나는 곰 한 마리가 진흙게 하나를 뜯어 열려 하자, 무리 전체가 동료를 지키러 몰려들어 곰을 달아나게 만드는 것을 관찰하였다.  
   
-Take my advice – when you see a minotaur, don’t inquire about its noble lineage. If you wish to survive the encounter, kill it or flee.
+녀석들이 나를 알아본다고 나는 확신한다. 단순한 무관심이 아니다. 한 마리는 나를 연구하기라도 하듯 내 손 위로 더듬이를 천천히 대기까지 하였다! 무엇이 달라진 것일까? 번식기인 걸까? 물속에 녀석들의 행동에 영향을 미치는 무언가가 있는 것일까? 혼란스러운 시절이 영향을 주고 있는 걸까? 더 알아내기 위해 계속 관찰해야겠다.
 
-[출처](https://www.imperial-library.info/content/the-truth-of-minotaurs)
-
----
-
-## The Truth of Sanguine’s Parties
-
-ID: ext-af01c77c0af3eaecf61b
-
-My dearest compatriot and life-long friend,  
-  
-I cannot tell you how disappointed I am. You know as well as I the rumors of Sanguine’s masterful fetes, but having secured an invitation to one such gathering, I am sad to report that their mirth has been grossly over-exaggerated. I longed for wine beyond compare in quality and quantity. Merriment beyond my wildest dreams. Encounters with maidens of insatiable desires and music so divine the Aedra weep to hear one chord.  
-  
-My friend, I do not think we fully comprehended the destructive power wine has on the promised evening’s activities. After several hours of drinking, wine loses much of its appeal. Merriment turns to foul headache. The lovely maidens complained that my breath was too sharp and my touch too unguided. Such was the fate of all who succumbed to the temptation of drink. It weighed on me so that even if a buxom reveler wanted my tender embraces, I would turn her away. As for the promised glorious music, sweet notes pickle in alcoholic bliss. Stick to the feasts and fests of the wealthy, my friend. Sanguine’s followers lie, and the truth is more bitter than sweet.  
-  
-Mirerninlur
-
-[출처](https://www.imperial-library.info/content/the-truth-of-sanguines-parties)
+[출처](https://www.imperial-library.info/content/fickle-nature-mudcrabs)
 
 ---
 
-## The Truth of the Hunter
+## 집착의 어리석음
 
-ID: ext-d2558fe1b47c905262db
+ID: ext-da43f8b2620f429979ea / ESO 책 ID: 2340 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-The Truth of the Hunter, Pt. 1 Selliel slowly moved through the open grove, keeping her head low in the tall grass. The grove reminded her of the time she’d spent climbing the bluffs in Malabal Tor—it was impossible to see open sky in parts of that jungle. Those who dreamed of the moons and the stars could only find refuge atop the highest bluffs.  
+에스티라모 씀  
   
-She spotted the buck at the edge of the grove. It was grazing on figs and berries. It had the tallest rack of antlers she’d ever seen.  
+강해지려면 힘을 한곳에 모아야 한다고, 위대한 업적으로 이름을 남기고 싶다면 다른 모든 것을 제쳐 두고 오로지 한 분야만을 좇아야 한다고 말하는 자들이 있다. 참으로 어처구니없는 소리다. 그보다 훨씬 더 큰 그릇이 될 수 있는데, 어찌 한 가지에만 통달하는 데 그치겠는가?  
   
-Selliel readied an arrow. Bow drawn, arrow nocked. She stilled her breath and let loose at the count of three. Then she loosed the arrow.  
+특히 같은 마법 수행자들 사이에서 이런 사고방식이 유독 강조되는 것을 본다. 학생들은 너무도 자주 육체적 전투 방식의 미덕이나 다른 학문을 탐구하지 못하도록 만류당하고, 오직 마법에만 전심전력을 쏟도록 떠밀린다. 정작 본인은 흥미도 재능도 없는 마법 분야에까지 말이다.  
   
-The buck startled. The arrow hissed through the air, slicing the tallest blades of grass. The buck bolted. The arrow struck the tree behind where it once grazed.  
+실용적인 응용에는 점점 등을 돌리고 모호한 이론과 실험에만 매달리는 마법사 세대를 길러 내는 것은 참으로 낭비처럼 보인다. 그대 역시 그처럼 권리를 빼앗겼다고 느낀다면, 내가 그대의 눈을 새로운 가능성으로 열어 주겠다. 담대하게 앞으로 나아가, 새로운 학문의 길을 여는 데 주저하지 말라.  
   
-Selliel rushed into the woods. She lost sight of her prey, but kept her nostrils flared. She caught a pungent scent from a nearby cliff face.  
+탐리엘에는 전투마법사라는 훌륭한 전통이 있다. 이들은 자신의 빼어난 지성과 마법 기량을 전투에서 파괴적인 위력을 발휘하는 주문에 쏟으면서도, 검을 집어 들고 중갑을 두르기를 두려워하지 않고 최전선에서 싸워 전투의 흐름을 뒤집는 아카니스트들이다. 역사를 통틀어 가장 강력했던 영웅들 가운데 다수가 마법과 육체적 활약을 겸비했으니, 나는 이 길을 걷는 이가 더 많아지기를 바란다.  
   
-Selliel made her way to the cliff and began to climb.  
+전장에서 영광을 좇고 적들의 가슴에 공포를 새기고 싶은가? 그렇다면 육체와 비술 양쪽 모두에 통달하라. 갑옷 두른 건틀릿에서 뿜어 나오는 화염보다 더 무서운 것이 무엇이겠는가? 사방에서 날아드는 타격을 갑옷으로 흡수하는 동안 곁의 적들에게 번개가 내리꽂힌다면? 진정한 힘이란 모든 약점을 없애는 것이며, 그것은 오직 여러 분야의 지식과 경험을 통해서만 이를 수 있다.  
   
-The Truth of the Hunter, Pt. 2 Selliel’s hands moved cautiously from rock to rock. She knew she had to find the buck quickly. Once at the top, she could spot her prey and cut off its escape.  
+마법을 익혀 온 배경을 지녔다면, 십중팔구 그대는 무기를 제대로 다루는 법이나 실질적인 보호가 되는 방어구를 걸치는 법을 배운 적이 없을 것이다. 처음에는 비웃음과 조롱을 견뎌야 할지라도, 그대를 단련시켜 줄 사람을 찾으라. 아무리 (육체적으로) 약한 소서러라도 중갑 부위들을 두를 만한 힘은 기를 수 있다.  
   
-She grabbed at a root, hoisting herself to the next outcropping, but it gave way under her weight. As she fell, Selliel grabbed her hunting knife and thrust it into the earth wall.  
+전투와 동시에 마법을 수련하는 것도 가능하다. 그리하면 그대는 놀라운 경지의 집중력에 이르고, 스태미나를 키우며, 주문과 검을 하나로 엮어 내는 법을 터득하게 된다. 이로써 어떤 시련에도 적응할 수 있다. 마법을 익히는 자들은 너무나 많은 이가 제 몸을 소홀히 하다가, 매지카가 바닥나면 무방비 상태가 되고 만다.  
   
-The knife slowed her descent, but not enough. She slammed hard against a protruding rock, then half-bounced, half-slid into a small crevice cut into the cliffside. Stunned, Selliel smeared bloody hands against her breeches. Too much time had passed. The buck was certainly lost to her.  
-  
-Selliel growled and spat upon the stone. Cautiously she regained her footing and once more began to climb. Handhold to handhold she went, always looking to the sky. Her path up the cliff face was soon marked with bloody handprints.  
-  
-She finally crested the cliff and collapsed, gasping for breath. A quiet, bitter laugh escaped her as she rolled onto her side. Then she noticed the pair of yellow eyes in the brush, not twenty paces away.  
-  
-Selliel sat up, never looking away from the wolf. It growled and lunged. She leapt aside and slashed with her knife, roaring in defiance. She would be no easy prey.  
-  
-The wolf spun and bared its teeth, but hesitated. Selliel did not. She threw her knife. The blade slammed between the wolf’s eyes. It fell lifeless to the ground.  
-  
-Selliel breathed. She pulled her knife from the wolf and looked to the forest, seeking any sign of her prey. Movement, to the east. Antlers. She could still catch it.  
-  
-She rushed into the forest.  
-  
-The Truth of the Hunter, Pt. 3 Selliel kept low as she moved through the forest. She watched for signs of the buck she sought as prey. Did minutes pass, or hours? She did not know. Soon, there was only the chase.  
-  
-It was only when Selliel stumbled across the stream that she realized how weary she was. Her earlier skirmish with the lone wolf had taken more from her than she thought. She dipped her hands into the cool water and began to drink. She closed her eyes for a moment.  
-  
-After a few long sips she opened her eyes once more. The buck she had stalked for hours stood five paces away, drinking from the very same stream. Selliel froze.  
-  
-The buck seemed to stare at Selliel for a moment. Then it reared into the air and slammed its hooves into the ground.  
-  
-Selliel leapt back. Bow drawn, arrow nocked. The buck reared again. Selliel stilled her breath. It towered over her, its eyes locked on hers. Selliel counted one, two, three—  
-  
-The buck lowered its hooves and turned its body. Selliel saw the three tiny does behind him. She froze. Then the buck walked calmly toward her and nudged the bow away.  
-  
-Selliel hesitantly put her hand out. The buck licked her palm gently. Then it snorted and walked back to the forest. The does followed the buck. Selliel did not.  
-  
-*****  
-  
-She returned to the cliff top. The wolf was where she had left it, untouched by scavengers. She skinned it, harvested its meat, and stuffed it into her pack. Then she began the long walk home.  
-  
-The Truth of the Hunter, Pt. 1  
-  
-The Truth of the Hunter, Pt. 2  
-  
-The Truth of the Hunter, Pt. 3  
-  
-The Truth of the Hunter, Pt. 1 Ý
+일차원적인 틀에 박힌 존재 그 이상이 되라. 그러면 그대는 다양화함으로써 어떤 상황에도 적응하는 기량의 묶음을 갖추게 됨을 깨닫게 될 것이다. 가장 강하다는 것은 그저 한 가지에 매우 능하다는 뜻이 아니다. 그대에게는 그보다 훨씬 큰 잠재력이 있다. 자신의 역량을 넓혀 두라. 그리하면 어디에서 누구를 적으로 마주하든, 전장에 발을 들이는 순간 그대는 무엇에든 대비가 되어 있을 것이다.
 
-[출처](https://www.imperial-library.info/content/truth-hunter)
+[출처](https://www.imperial-library.info/content/folly-in-fixation)
 
 ---
 
-## The Turtle and the Sloth
+## 징벌 의식
 
-ID: ext-5272f28e8ddfb2165054
+ID: ext-cbe1313a96f5cac85b90 / ESO 책 ID: 4694 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-(A fable popular among the Sunporters of Solstice)  
-  
-Trotty spent most of her life swimming and never looking behind her shell. Always moving and only stopping for a quick bask under the sun, she traveled to places out of reach of even the fastest of ships, and she took great pride in this.  
-  
-One day, Trotty decided to test how long she could keep swimming. Maybe she’d find the edge of the ocean the other silly turtles used to tell stories about and fall to Oblivion! Oh, but even that wouldn’t stop her.  
-  
-Soon, Trotty found herself on an island she had never stepped foot on before. Farther down was a green jungle that seemed even more exciting to explore. But Trotty never stayed in one place for too long.  
-  
-Before she could leave, however, something hanging from a tree in the distance caught her eye. Trotty moved to take a closer look. She wasn’t as fast on land as she was in water, but by the time she had reached the tree, the hanging thing had barely moved. It had long limbs, black, beady eyes, and was fuzzy all over.  
-  
-“Are you all fine?” asked Trotty. The creature gradually peered down at her, its face slowly breaking into a smile.  
-  
-“I. Am. Sloth,” he said with slow deliberation. “And. I. am. Very. Well. Indeed. Within. My. Favorite. Tree. Who. Are. You?”  
-  
-“I’m Trotty. Are you always so slow?”  
-  
-With how long it took for Sloth to smile and get his words out, Trotty felt like she already knew the answer.  
-  
-“Slow? What. Do. You. Mean?”  
-  
-Trotty’s shell sank a bit. Poor Sloth. He must never leave the tree. Trotty couldn’t imagine staying in the exact same place forever and ever.  
-  
-“Does this island have a name, Sloth?”  
-  
-“This. Is. Solstice. This. Is. My. Home. Where. Are. You. From. Trotty?”  
-  
-“All over. I swam here from a faraway land and have seen many magical places!”  
-  
-“That. Sounds. Nice. Exhausting. But. Nice. I. Think. You. Will. Like. It. Here. And. It. Will. Be. Nice. To. Have. A. New. Friend.”  
-  
-“Oh, I won’t be staying long. I have many more places to visit and explore.”  
-  
-Trotty bobbed her head in thought for a moment. “Sloth, why don’t I give you a ride on my shell and let you show me around Solstice? With how fast I am, we can cover the entire island in no time!”  
-  
-“Very. Kind. Offer. Trotty,” Sloth said as he meticulously climbed down the tree. “But. I. Think. I. Would. Prefer. To. Walk. On. My. Own. Could. Use. The. Exercise. Will. You. Join. Me?”  
-  
-“Walk?” Trotty couldn’t remember the last time she just walked. She was a runner, a sprinter. Well, at least a trotter.  
-  
-“Actually, Sloth, I think it’s time for me to go,” she said and began to turn back toward the sea.  
-  
-“Wait. How. About. A. Race?” Sloth asked, stopping Trotty in her tracks.  
-  
-“A race?” Trotty wondered if she had heard the words wrong, given how slow they were spit out. But Sloth slowly nodded and smiled.  
-  
-“A. Race. Around. The. Island,” he explained. “Very. Exciting. And. You. Can. See. All. Our. Best. Sites. Along. The. Way.”  
-  
-Trotty, never one to turn down a challenge—even a ridiculous one—finally bobbed her head in agreement.  
-  
-The two readied themselves. “Does the winner get a prize?” Trotty asked Sloth.  
-  
-“Only. If. You. Are. Not. Too. Fast,” said Sloth.  
-  
-Another odd response, but perhaps his mind was as slow as his body and mouth.  
-  
-“Ready? Set. Go!” Sloth said in his usual, unhurried fashion.  
-  
-Before Sloth could even move a three-toed foot, Trotty was already waddling off without even a backward glance.  
-  
-“Last one back is a rotten turnip!” Trotty shouted to Sloth, who only smiled as his first step finally touched down upon the sand.  
-  
-* * *  
-Trotty eventually made her way all around the island and collapsed in the sand where the race had begun. She looked up and jerked in surprise to see Sloth already back up in his tree.  
-  
-“Welcome. Back,” said Sloth as a broad smile slowly spread across his face.  
-  
-“I never saw you behind me. Did you even race? And where is the prize? I didn’t see anything while I ran around the island,” said Trotty incredulously.  
-  
-“I. Decided. Not. To. Distract. You. From. The. Prize. Since. I. Have. Seen. It. Already.”  
-  
-Trotty still had no idea what Sloth was talking about.  
-  
-“How. Did. You. Like. The. Island? Solstice. Is. Such. A. Wonderful. Place,” Sloth said. “The. Beaches. The. Jungle. The Animals. The. People.”  
-  
-Trotty hadn’t paid attention to the sights of the island. Was she supposed to? Wasn’t completing the race more important? “I don’t know. I was busy winning the race.”  
-  
-A slow frown formed on Sloth’s face. “I. See. That. Must. Have. Been. Exhausting. And. Boring. I. Hope. You. Visit. Again. To. See. What. You. Missed.”  
-  
-Trotty watched as Sloth methodically settled down upon a tree limb and made himself comfortable.  
-  
-“Sloth?” Trotty asked quietly. “If I promise to walk slowly and stop to see all the sites, would you like to ride on my shell and show me your island?  
-  
-“That. Sounds. Relaxing,” said Sloth as the broad smile slowly returned to his face. “I. Would. Be. Happy. To. Show. You. Around. Solstice.”
+소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다. 소사 실의 말씀을 잘못 옮기지 않겠습니다.
 
-[출처](https://www.imperial-library.info/content/the-turtle-and-the-sloth-2)
+[출처](https://www.imperial-library.info/content/castigation-ritual)
 
 ---
 
-## The Turtle and the Sloth [Original]
+## 찔레심장 돌봄과 먹이기
 
-ID: ext-c969842af37edc619a01
+ID: ext-f52909997225803ae704 / ESO 책 ID: 3212 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-Trotty had spent most of her life swimming and never looking behind her shell. Always moving and only stopping for a quick bask under the sun, she had traveled to places out of reach for even the biggest of ships, something she took pride in.  
+굴-쿠는 찔레심장을 정말 좋아해! 그녀는 흥미로운 늙은 새야, 저 해그레이븐 말이야. 오래된 브레튼 요새에 온 이후, 윈터본 내에서 내 임무는 굴-쿠를 돕는 것인데, 해그레이븐이 찔레심장을 기르고 번성시키기 위해 필요한 일이라면 무엇이든 하는 거야. 이상한 것들이야, 찔레심장은. 큰 과일 같기도 하고, 어떤 거대한 동물의 심장 같기도 하지. 아니면 사람의 심장이거나.  
   
-One day, Trotty decided to test how long she could keep swimming. Maybe she’d find the edge of the ocean the other silly turtles used to tell stories about and fall to Oblivion! Oh, but even that wouldn’t stop her.  
+오늘은 그 과정을 가까이서 볼 수 있었어. 시신에서 시작돼. 윈터본은 적의 시신을 쓰기 좋아하지만, 해그레이븐에겐 그런 꺼림칙함이 없어. 오크든, 윈터본이든, 심지어 하피든 어떤 시신이라도 쓸 수 있지. 시신이 마련되면 해그레이븐 스스로 고안한 이상한 의식으로 정화하고 특별히 준비한 흙자리에 안치해. 그런 다음, 엄숙한 경건함과 성대한 예식 속에서 해그레이븐이 안치된 시신에 찔레심장 씨앗을 심지.  
   
-Soon, Trotty found herself on an island she had never stepped foot on before. Further down was a green jungle that seemed even more exciting to explore. But Trotty never stayed in one place for too long.  
+으스스한 정원에 주문과 피로 영양분과 수분을 공급하면 이윽고 시신에서 첫 새싹이 돋아나기 시작해. 새싹은 금세 묘목으로 자라고, 묘목은 다시 작은 나무가 대지. 이 작은 나무들은 뿌리를 통해 요새 뜰 중 하나에서 해그레이븐과 나무 관리인들이 돌보는 큰 나무와 이어져 있어. 묘목이 큰 나무의 건강과 전체적인 힘에 기여하는 것 같다고 생각하는데, 그 주제에 대한 내 질문들은 굴-쿠와 다른 해그레이븐들에게 모두 무시당했어.  
   
-However, something lazily hanging onto a tree in the distance caught her eye. Trotty trotted faster to get a closer look. She wasn’t as fast on land as she was in water, but by the time she had reached the tree, the creature had only moved an inch. It had long limbs, black, beady eyes, and was fuzzy all over.  
+그러는 사이 찔레심장 열매가 묘목에서도 큰 나무에서도 피어나, 요새 전체에 출몰하는 캐스케이드 같은 소리를 메아리치며 울려 퍼지지. 열매가 익으면 이식할 준비가 된 거야. 바로 이때 우리 전사들이 등장해. 대개 윈터본 전사가 전투에서 쓰러지면, 해그레이븐이 익은 찔레심장으로 그 전사를 축복해 줄 수 있어. 마법적인 과정으로 찔레심장을 쓰러진 전사의 몸속에 박아 넣으면 전사는 되살아나고, 찔레심장 전사에 걸맞은 추가적인 힘과 불굴의 의지를 얻게 대지.  
   
-“Are you alright?” asked Trotty. The creature slowly peered down at her with a smile.  
+아직 그 과정을 직접 보진 못했지만, 살아 있는 전사에게 찔레심장을 이식하는 방법도 있는 것 같아. 우리 중 가장 강하고 충성스러운 전사 몇 명이 새장 안에서 찔레심장 전사로 승격하기 위한 명상과 준비를 하는 것을 본 적이 있거든. 어쩌면 굴-쿠가 동의해 준다면, 내게도 그런 영광을 허락해 줄지 몰라. 어떻게 됐는지 나중에 알려 줄게.  
   
-“I’m Sloth,” he replied with a smile. “And I’m happy under my favorite palm tree. Who are you?”  
-  
-“I’m Trotty. Have you ever moved from there?”  
-  
-With how long it took for the sloth to smile, Trotty felt like she had already gotten her answer.  
-  
-“Only when I feel the need.”  
-  
-Trotty’s shell sank a bit. Poor sloth. Forget the island, Sloth must have never even seen the entire shoreline.  
-  
-“Does this island have a name, Sloth?”  
-  
-“This is Solstice Island. My home. Are you new here, Trotty?”  
-  
-“I am. I swam here from a faraway land and have seen many magical places!”  
-  
-“That sounds amazing and exhausting. Well, welcome to Solstice Island, Trotty. I hope you can see every little bit of magic the island has to offer in your days here.”  
-  
-“Oh, I won’t be staying here. I have many more places to see.”  
-  
-Trotty bobbed her head in thought for a moment. “Sloth, why don’t I give you a ride on my shell and we both take a tour of Solstice? I’m sure there’s much you still haven’t seen. With how fast I am, we’ll have covered the entire island by sunset!”  
-  
-“That’s very kind of you, Trotty.” Sloth was climbing down his palm tree this entire time and had finally touched the sand before walking to her side. “But I think I’d like to walk instead. Won’t you walk with me? I’m sure you’d find it more pleasant.”  
-  
-“A walk?” Trotty couldn’t remember the last time she had ever walked for that long.  
-  
-“That’s much too boring for me Sloth,” said Trotty with a zeal of energy. “Actually, I think it may be time for me to go…”  
-  
-“How about a race?” replied Sloth, Trotty nearly falling sideways on her shell in response.  
-  
-“A race?” Trotty wondered if she had been basking under the sun for too long. But Sloth slowly nodded and smiled.  
-  
-“A race around Solstice Island. It will be more exciting. And you’ll be able to see everything quicker, so we can have a nice talk about it before you leave.”  
-  
-Trotty, still wondering if she had taken in too much heat, finally bobbed her head in agreement. Could this Sloth just be playing her for a fool, she wondered.  
-  
-The two readied themselves. “Does the winner get a prize?” Trotty asked Sloth.  
-  
-“Only if you’re not too fast.” replied Sloth. Another odd response. But there was no time for Trotty to think about that now.  
-  
-“3…2…1… go!”  
-  
-Before Sloth could even move his three-toed foot, Trotty had already waddled off, not even taking a single moment to look back.  
-  
-“I’ll make sure not to miss my prize on the way back!” Trotty shouted to Sloth, who only smiled as he took his first step.  
-  
-* * *  
-  
-By the time Trotty had returned, the sand was cooler, so it was safe to collapse on it from exhaustion. She looked up and lifted her shell in surprise after noticing Sloth was already back up on his tree.  
-  
-“Welcome back,” said Sloth with a smile.  
-  
-“I never caught a glimpse of you behind me. Did you even race? And where was the prize? I didn’t see anything while running,” asked Trotty to Sloth.  
-  
-“I decided not to distract you from the prize, since I’ve already seen it once.” Trotty still had no idea what Sloth was talking about. “Tell me, how was the island? There’s much that’s unique to Solstice. Its beaches, its mountains, its unique bouquets of people.”  
-  
-“I…” Trotty hadn’t paid attention to the island. Was she supposed to? Wasn’t getting where she needed to be more important? “I don’t know. I wasn’t paying attention to that.”  
-  
-It almost looked like a frown had formed on Sloth’s face now. “Hmm, I see. That must’ve been exhausting then. I’m sorry. I hope you can visit again and see the prizes Solstice Island has to offer.”  
-  
-Sloth waved Trotty goodbye before resting his head on a drooping leaf.  
-  
-“Sloth? Still want to ride on my shell? I feel like walking this time.”  
-  
-“That sounds more relaxing.”
+서리붕괴 요새에서, 너의 수녀가
 
-[출처](https://www.imperial-library.info/content/the-turtle-and-the-sloth)
+[출처](https://www.imperial-library.info/content/care-and-feeding-briar-hearts)
 
 ---
 
-## The Ubiquitous Sinking Isle
+## 차우루스 성가
 
-ID: ext-cc1eee12ace472c648a6
+ID: ext-c0e65606c47119782e7c / ESO 책 ID: 6049 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-By Lailfin, Steward of Histories at the Illumination Academy  
+클릭, 클릭, 클랙  
+차우루스가 막 덮치려 한다  
   
-The true work of any historian lies in separating fact from fiction—studying the diverse and contradictory texts of all races and piecing together a plausible shared narrative. This requires diligence, discipline, and most importantly, humility. The true historian must be willing to admit error and revise their accounts when new evidence comes to light.  
+클랙, 클랙, 클릭  
+부디 단숨에 죽여 주었으면  
   
-One of the most pernicious traps for new historians is reliance on supporting accounts—that is, the belief that if multiple writers detail the same event in the same way, those accounts are more likely to be true. In point of fact, we should assume the opposite. Societal pressures and widespread cultural delusions often result in identical historical accounts. For example, Nedic texts often reference an event called the “Autumn of Snakes.” According to the histories, hundreds of snakes (many the size of mammoths) emerged from the ground and devoured whole towns before finally being subdued by the Nede spear-maiden, Ranev the Coal-Eyed Wanderer. Nedic scholars describe the Autumn in meticulous and near-identical detail, and yet, we now know that the event is completely apocryphal.  
+클릭, 클릭, 클랙  
+어둠 속에서 돌진해 나온다  
   
-It’s not that the writers are deliberately lying (though that is sometimes the case). In all likelihood, ancient historians were trying their best to describe events faithfully. Unfortunately, they did not have the linguistic tools or scholarly sophistication to give a truthful account. For that reason, we must take a long hard look at any tales that are widely accepted, but also seem hyperbolic. We must also look for “recurring calamities”—that is, events that purportedly happened the same way, but in vastly different locales and time periods.  
+클랙, 클랙, 클릭  
+더 큰 몽둥이라도 있었더라면  
   
-The most obvious example of the “recurring calamity” is the tale of the disappearing island. Tamrielic history is littered with sinking, hidden, or disappearing islands. Yokuda, Pyandonea, Artaeum, Dranil Kir, Eyevea, Thras, and (perhaps most importantly) Aldmeris. The cause of the disappearance is almost always magical in nature—often the result of some act of hubris or a desire for secrecy. Of course, this all begs the question: are any of these tales true? I have my doubts.  
-  
-Let us examine the mythical “sinking” islands: Yokuda, Thras, and Aldmeris. Each island was the ancestral home of its resident race, and in all three cases, foes or fate destroyed the island as punishment for some act of hubris. In the case of the Redguards, foolish sword-singers sundered the Yokudan Isles with a forbidden sword stroke. The warriors of the All-Flags Navy drove the Sload and their island of Thras into the sea as punishment for the Thrassian Plague. And our forebears, the Aldmer, fled the Isle of Aldmeris to avoid some mysterious calamity—likely the result of our fall from Aedric grace.  
-  
-Now, a novice historian would likely take these tales at face value. “If multiple histories say the island sank, it must have sunk!” But I entreat you to look deeper. Could it be that the “sinking island” is not a literal event, but rather, a metaphorical one?  
-  
-Thras, Yokuda, and Aldmeris are much more than simple landmasses; they are societal symbols—avatars for a cultural identity lost in time. So stories about the sundering or sinking of these islands may be a trick of the light—a poet’s attempt at explaining the pain of forgotten origins. Did an entire continent drown as a result of a sword stroke? Did our ancestors travel to Summerset from a mystical half-Aedric isle? I think not. These lost islands rest at the fault-line between fact and parable. There is truth in those tales, certainly, but the true historian knows that not all truth is literal.
+클릭, 클릭, 클랙  
+이제 나는 저 벌레의 다음 끼니라네
 
-[출처](https://www.imperial-library.info/content/ubiquitous-sinking-isle)
-
----
-
-## The Undaunted Need You!
-
-ID: ext-5786a20c20a127ec4844
-
-Do you have what it takes to be a real adventurer?  
-  
-Well, we don’t believe you!  
-  
-Want to prove us wrong?  
-  
-Want to take home a cut of  
-  
-the choicest plunder?  
-  
-Then haul your miserable carcass over to  
-  
-the Undaunted Enclave,  
-  
-located for your inconvenience in  
-  
-Elden Root, Mournhold, or Wayrest.  
-  
-We are Undaunted!
-
-[출처](https://www.imperial-library.info/content/undaunted-need-you)
+[출처](https://www.imperial-library.info/content/chaurus-chant)
 
 ---
 
-## The Unearthing of Kardala
+## 차원 탐사 제14권: 다크리브의 사제
 
-ID: ext-caf6e4652b3165430f5a
+ID: ext-29a6a1d6a8d32ef8fca2 / ESO 책 ID: 7450 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-(compiled from the notes of Muhay at-Turna by his disciple)  
+하코트 마르콧 지음  
   
-It is a source of no small irony to me that the discovery for which I am most likely to be remembered is the so-called Ruins of Kardala, which I found purely by accident when I was still an apprentice.  
+주의 깊게 들으라. 이제 우리는 그대에게 흉포한 존재들에 대해 이야기할 것이다. 너무도 분노와 증오에 차 있어, 우리는 산전수전 다 겪은 탐험가에게조차 무슨 수를 써서든 그들을 피하라 권한다. 이 권에서는 아포크리파의 다크리브의 사제를 다룬다.  
   
-I spent that year (the hundred and first of the Second Era) in the company of a small guild sequestered in the foothills of the Dragontail Mountains. I call the group a guild for lack of a better term. They lived much like priests in a religious order, sharing everything and spending many hours of each day buried in books.  
+개요  
   
-But to call them priests would seem to suggest that they were in some way reverent, which they were not. Late into most nights, we stayed awake drinking and telling bawdy tales—even the oldest members of the order joined in.  
+앞선 권들에서 우리는 오르비스의 무수한 차원에서 발견되는 온갖 동물군을 달래는 방법을 서술했다. 스캠프에게 날고기를 던져 주는 일과 달리, 다크리브의 사제(이하 다크리브라 칭한다)에게는 손쉽게 주의를 돌릴 만한 미끼가 없다. 일단 그들이 그대를 알아채면, 남은 선택지는 그들을 처치하거나 달아나는 것뿐이다. 다행스럽게도 다크리브는 무기라 할 만한 것을 거의 갖추고 있지 않다. 그들은 공격할 때 오로지 감정에 휘둘린 순전한 잔혹함에 의지한다.  
   
-Yet guild is not quite an accurate term, either. It suggests uniformity, and these men and women from across Tamriel were a motley bunch, a patchwork of young and old, educated and dullards. They argued constantly, in the most friendly fashion, calling each other names one moment and then laughing the next. They could not even agree on what the order was called. The older members insisted on the elaborate and archaic “Esteemed Order of the Observers of the Celestial Motions and Portents,” while younger members preferred the simple and evocative name “Star-Gazers.”  
+우리의 조언은, 가능하다면 그들을 피하라는 것이다. 그럴 수 없다면 먼 거리에서 공격하라.  
   
-A singular concern united the group. They shared a complete devotion to the study of the stars and the meaning of their motions, and that was the reason I had come among their number in that year of my apprenticeship. I, too, had a fascination with the heavens, and I hoped to benefit as much as I could from the breadth of their knowledge in order to further my own inquiries into the relationship of the stars to the properties of magic.  
+역사  
   
-Here, I must confess, that my time spent with the Star-Gazers did much to open my young eyes. After the first few months I sank into a deep depression, realizing that my interest in the relationship of the constellations to magic had already been thoroughly explored in a manner that seemed to be utterly complete. An apprentice such as myself could spend a lifetime reading what had already been written and in the end have not a single word of my own to contribute.  
+다크리브에게 그들의 기원을 직접 물을 수는 없는 노릇이니, 답을 얻으려면 아포크리파의 다른 거주자들에게 의지하는 수밖에 없다. 지식에 바쳐진 영역치고는, 이 특정 드레모라 일족에 관한 정보를 가진 자를 찾기란 여간 어려운 일이 아니었다. 결국 우리는 가장 믿을 만한 정보원에게 의지했으니, 바로 파그레이브의 윔 부인이다.  
   
-However, as I spent more time in my study and among the Star-Gazers, I learned that there were many questions yet to be answered about the stars themselves. For all we understand about the workings of magic, we know very little about the workings of the heavens themselves. In fact, the more prosaic the question appears at first glance, the more likely it is that the answer yet eludes us.  
+투명성을 위해 밝히자면, 우리는 다크리브에 관한 자세한 내막을 얻고자 윔 부인에게 대가를 치렀다. 우리가 여행 중에 알게 된 또 다른 악명 높은 드레모라 일족의 비밀을 넘긴 것이다. 그 대가로 그녀는 데이드라 문자가 새겨진, 얇고 붉은 키틴으로 만든 석판을 건넸다.  
   
-Just as I thought that all questions had been answered and there was no hope, I became energized once more by a flood of questions, each more startling than the last. Indeed, for all the knowledge that the great scholars had brought to their theories of magic, they could not answer how it is that the Mundus Stones came to be, or by what trickery the Serpent slips across the sky, knowing no season.  
+이 석판을 통해 우리는 다크리브가 더없이 진부한 것부터 깊디깊은 비의에 이르기까지, 존재의 모든 부분을 목록으로 정리하려 한다는 사실을 알게 되었다. 그들은 모든 의자와 숟가락, 오브, 그리고 데이드라에 대한 기록물을 갈망한다. 그들은 표면상 헤르메우스 모라를 섬기지만, 그들이 내보이는 열의는 봉사를 넘어선 집착을 드러낸다.  
   
-In fact, I soon realized that not one of the three great scholars of magic had ever set foot in Craglorn. How they could ignore the place where the Nedes once worshiped the stars and set the Mundus Stones in their foundations, I would never understand.  
+대의를 향한 헌신은 다크리브로 하여금 기록된 작품을 폭력적이리만큼 지키려 들게 만든다. 짐작건대 그 과업의 막대함이 그들을 광신적이고 치명적인 일념으로 뒤틀어 놓은 것이리라.  
   
-It was through this realization that Kardala was discovered. Energized by the thought of reaching new conclusions through first-hand observation, I entreated my very willing hosts to guide me into the desert. I hoped to study the Mundus Stones of the Lord, the Lady, and the Steed and find something new.  
+환경  
   
-Several books on the subject of Kardala have flattered me by embellishing history. They claim that by examining these Mundus Stones of the Warrior’s charges, I surmised from their configuration that there must be another Mundus Stone connected to the Warrior within sight of the three stones.  
+차원의 탐험가라면 으레 아포크리파의 지식 보관소 안에서 다크리브와 마주치리라 예상해야 한다. 그런 장소는 어렵잖게 곳곳에 펼쳐져 있으나, 규모가 큰 시설에 들어설 때는 한층 더 경계해야 한다. 그런 곳에는 다크리브가 상당한 수로 모여들기 때문이다.  
   
-This could not be further from the truth. While we were on our journey through the desert, I had consumed a great deal of water to fortify my health. As is known to happen, that water had to go somewhere. I excused myself, stepping just a little off the road, and let nature run its course. On my way back to my colleagues I became disoriented, and as I struggled to find the road a loose stone slipped beneath my foot. I fell back and avoided falling into the crack that broke open beneath me, revealing the entrance to Kardala.  
+특히 광포한 수렁에 자리한 은밀한 광장에 들어선다면 정신을 바짝 차려라. 그 광장은 외부자들이 서로 문서나 비밀을 주고받을 수 있는 정보 교환의 거점 노릇을 한다. 날마다 진귀한 지식이 당도하는 까닭에, 이런 행위는 다크리브를 끌어들인다.  
   
-Naturally, my companions were excited beyond words. I credit them with some of the misinformation that has spread about Kardala’s discovery. In fact, I never would have made the discovery without their willingness to guide me into the desert that day.
+생존 요령  
+  
+다크리브와 대화를 시도하지 말라. 그들이 그대의 존재를 알아챘다면, 그대는 이미 곤경에 빠진 것이다.  
+  
+그들을 매수하려 들지 말라. 그들 쪽으로 책을 던져 본들 주의를 돌리지 못한다.  
+  
+다크리브는 그리 주의 깊어 보이지 않는다. 몰래 곁을 지나치는 것이 그대의 최선책일지 모른다.  
+  
+멀찍이서 다크리브를 관찰하는 것은 즐겁고도 지적으로 만족스러운 경험이 될 수 있다. 그들 또한 그대를 관찰하고 있지만 않다면 말이다.
 
-[출처](https://www.imperial-library.info/content/unearthing-kardala)
-
----
-
-## The Unraveling Staff
-
-ID: ext-c6f9258cb8c43e14ed16
-
-Report of Judicator Umberwen  
-  
-Transcribed by Relicmaster Glenadir  
-  
-Report 4587: Sun’s Height, 27th  
-  
-Suspect taken into custody and staff under magical quarantine. Official documents within suspect’s home reveals he was commissioned to create the staff for a prominent weaver within the city. It’s theorized that the staff was originally intended to unravel tangled threads.  
-  
-Several eye witness accounts have been collected from the incident:  
-  
-“Yes, I’ve been Anillyon’s neighbor for several years now. He told me all about it. Called it the Unraveling Staff. Last I heard, it was working spectacularly. Why, what happened?”  
-  
-“It was madness! He was running down the street, laughing maniacally. And everywhere he pointed, the poor mer’s clothes would just fall right apart! So embarrassing.”  
-  
-“I don’t know about clothes falling apart. I was too distracted by the buildings coming undone! Stones and planks, flying from their place as if they were alive. I didn’t know about—how many deaths, did you say?”  
-  
-“Yes, I saw it. He pointed the staff and—oh, she was just a young woman. I’ll try to describe it but. Oh, that poor thing. It’s as if her flesh just—I’m sorry, I don’t think I can continue.”  
-  
-Suspect detained until court approved date. No bail will be offered.
-
-[출처](https://www.imperial-library.info/content/unraveling-staff)
+[출처](https://www.imperial-library.info/content/planar-exploration-vol-14-darkreave-curators)
 
 ---
 
-## The Unseen Potential of Clockwork
+## 찬양받으소서 (선조의 노래)
 
-ID: ext-9297af91d485e5faa8ca
+ID: ext-e900910a565463e2ccb2 / ESO 책 ID: 4895 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-By Lector Saelorn Tenar, Apostle of Sotha Sil  
+(음악: 신중하고 위풍당당하게)  
   
-Any man or mer can look upon an acorn and see it for what it is. It’s so easy to simply note its shape, its size, its color. Unassuming, discarded among the leaves and dirt. Any child could tell you those facts. And, admittedly, a child could also easily imagine what will become of the acorn, given simple knowledge. Of its possibility. Who among us does not know an acorn could one day become a tree?  
+이제 마라를 찬양하세  
+오, 사랑의 여신이시여  
+저희에게 자식의 복을 내리소서  
+높은 곳의 어머니시여  
   
-Imagine, however, if one had never seen a tree before. Had never heard depictions or viewed drawings, and, without having been told of this tree, they are met with the simple acorn. Inconspicuous, small, inherently useless. Through all observations they could make, they are unable to connect the acorn presented to them with the image of a mighty oak.  
+합창  
+손뼉 치며 찬양하라  
+디바인들을 드높여라!  
+손뼉 치며 찬양하라  
+우리 조상의 핏줄을!  
   
-Like an acorn, the Clockwork City shows no signs of its grand potential to the unsynchronized mind. To Nirn Above it appears to be but a world in miniature, buildings and roads simply shrunk and put in a contained space. The plaything of a god perhaps, to hold his most loyal followers and dangerous experiments. But those who hold this view are simply ignorant of the possibilities.  
+이제 작세스를 찬양하세  
+우리의 이야기를 기록하시는 분  
+그 필경사께 영예 있으라  
+영광의 서기시여  
   
-Clockwork City is the center of the wheel for Nirn-Ensuing, the Omni-Axle that shapes the world. Rich in beauty and alight with sublime terror, so the scripture tells us. Sympathetic perhaps to the reality of Nirn Extant, but its own reality altogether, apart from the imperfections born from Lorkahn’s Great Lie.  
+합창  
   
-Here we work under the Divine Metronome, our hands covered in oil, our hearts devoted. We are the welders, the seekers of hidden knowledge. We walk the path of the divine piston, our souls clean and well-oiled. The truth of our Clockwork City is that of the wheels Eternal, where one can hear the tick and tock of Tamriel final.  
+이제 이프레를 찬양하세  
+오, 첫 번째 엘노페이시여  
+숲의 신이시여  
+대지의 뼈가 길을 일러 주셨네  
   
-See beyond the simple acorn. See the mighty oak that it shall become.
+합창  
+  
+끝으로 아우리엘을 찬양하세  
+만물의 시조이시여  
+당신을 닮도록 우리를 빚으셨으니  
+현명하고, 고귀하고, 늠름하게  
+  
+합창
 
-[출처](https://www.imperial-library.info/content/unseen-potential-clockwork)
+[출처](https://www.imperial-library.info/content/praise-be-ancestor-song)
 
 ---
 
-## The Values of Haj Uxith
+## 찬지의 선박 기록
 
-ID: ext-add95b0d3eff438ef135
+ID: ext-6687ed8b769278381330 / ESO 책 ID: 974 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
 
-We, the scholars of Haj Uxith, value these spiritual attributes above all others: courage, endurance, preservation. While these values hold a special place in the hearts of all our people, it is the scholars who truly understand how these attributes help our society not only to survive but to thrive in these strange lands.  
+쾌속선 네 척 침몰, 화물은 한 점도 건지지 못함. 헛수고였다.  
   
-Courage allows us to deal with those who may not always agree with our point of view and to face the unknown. This dark land constantly presents strange challenges and new obstacles, but we must not cower before these. We must meet them head on and deal with them as bravely and as boldly as we can.  
+소형선 두 척 발견, 수리 완료. 이곳 여울을 지나려면 이것들이 필요하겠다.  
   
-Endurance allows us to withstand the hardships and difficulties of this harsh, barren land. It takes patience and skill and a natural hardiness to overcome the constant challenges of this punishing realm. We must bear the brunt of these difficulties and withstand every unexpected storm if we hope to survive.  
+도미니언이 선원들을 위해 더 작은 소함대를 대주겠다고 약속했다. 시리나이어는 거짓말이나 일삼는 흡혈 진드기 같은 년이지만, 적어도 이 몸한테 거짓말을 해서는 안 된다는 것쯤은 알고 있다.  
   
-Preservation allows us to remember our past and maintain the civilization that our Hist tree has sacrificed so much to safeguard. We look to the words and deeds of our ancestors to be our guides, and we protect the stories and lessons of the past so that they can continue to teach us and remind us of who and what we are.
+새 거래 때문에 선원 몇이 달아났다. 다른 항구에서 뱃사람을 더 끌어모아야겠다. 케나르티는 너무 멀다.  
+  
+저 아르고니안이 나를 쳐다보는 눈초리가 영 마음에 들지 않는다. 그 외눈 말이다. 조만간 사달을 낼 년이다.
 
-[출처](https://www.imperial-library.info/content/values-haj-uxith)
+[출처](https://www.imperial-library.info/content/tsanjis-ship-records)
+
+---
+
+## 찰만 요새에 선 자들
+
+ID: ext-4bed00865ee4bd76b0ec / ESO 책 ID: 2396 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+모여라, 긍지 높은 전사들이여,  
+이제 침묵하고, 꼿꼿이 서라.  
+잠든 이들에게 머리를 숙여라,  
+찰만 요새의 땅 아래 잠든 이들에게.  
+  
+전쟁의 불길이 대지를 그슬렸고,  
+잔혹한 손길로 모든 것을 짓뭉갰노라.  
+자치령 병사들이 왕좌를 노렸으나,  
+찰만은 굴함 없이, 홀로 버텼노라.  
+  
+발굽 소리 초원 위로 우레처럼 울렸고,  
+빠르고도 매섭게, 죽음이 모두에게 다가왔노라.  
+방어자들은 찰만의 성벽 위에 섰으니,  
+용맹한 전사들, 모두 동맹의 영웅들이었노라.  
+  
+자치령의 무리가 앞으로 밀려오니,  
+비전 주문과 번뜩이는 검을 들고서.  
+공성 병기의 포효에 성벽이 떨었고,  
+충차가 요새 문을 우레처럼 두드렸노라.  
+  
+바깥 문이 침략자의 포화에 무너지자,  
+안뜰로 엘프와 카짓이 돌격해 들었노라.  
+안쪽 문 또한 공격에 굴복하니,  
+공격자들은 주검과 잔해를 뛰어넘었노라.  
+  
+방어자들은 제 힘을 똑똑히 보였으니,  
+주문이 타올라, 죽음을 안겼노라.  
+분노가 침략자의 머리 위로 쏟아졌고,  
+카짓과 엘프가 모조리 죽을 때까지 이어졌노라.  
+  
+쉴 틈도, 상처를 다스릴 틈도 없이,  
+문과 무너진 틈을 봉해야만 했노라.  
+모든 것이 수리되고, 피해가 복구되자,  
+또 다른 치명적인 공격이 시작되었노라.  
+  
+다시 한 번, 격렬한 전투가 벌어졌으니,  
+죽음을 구하는 곳마다 죽음이 내렸노라.  
+요새 안에 혼돈이 차올라,  
+모두를 휩쓸고, 주검을 깊이 쌓았노라.  
+  
+또다시 피의 물결이 물러가니,  
+자치령의 적은 거듭 패퇴했노라.  
+오크와 레드가드와 브레튼이 살아남아,  
+또 한 번 찰만 요새의 긍지 높은 생존자가 되었노라.  
+  
+자치령 전사들이 다시 한 번 들이쳤으니,  
+그 수는 이제껏보다 훨씬 거대했노라.  
+지친 방어자들을 옆으로 쳐내며,  
+가장 깊은 방에 이르러서야 멈췄노라.  
+  
+영웅들은 후진까지 쫓겨 몰렸고,  
+자치령의 승전 함성이 드높이 울렸노라.  
+그때 조약의 군대가 밀려들며 혼돈이 터졌으니,  
+적의 세력이 얇아진 것을 본 까닭이라.  
+  
+사나운 모루와 망치 사이에 끼여,  
+엘프와 카짓은 용맹하게 스러졌노라.  
+이내 조약과 동맹만이 남았고,  
+방어자들은 또 한 번 전장을 쓸어버렸노라.  
+  
+한 호흡, 한 멈춤, 짧은 휴식,  
+동맹의 대의는 이제 참으로 절박했노라.  
+자치령이 최후의 공세를 펼쳤으니,  
+헤아릴 수 없이 많은, 거대한 물결이었노라.  
+  
+정복을 굳게 결심하고, 물러서기를 거부하니,  
+자치령의 군세는 막아낼 길이 없었노라.  
+방어자들은 마지막 한 명까지 싸우기로 다졌으니,  
+헛된 일격 하나 없었고, 허술히 외운 주문 하나 없었노라.  
+  
+하나둘씩 용맹한 전사들이 쓰러졌으니,  
+브레튼, 레드가드, 오크가 의연히 죽어갔노라.  
+그들의 목숨은 찰만 요새에 바쳐졌고,  
+그들은 영원히 명예로운 잠에 들었노라.  
+  
+자치령의 깃발이 홀 위에 올랐고,  
+자치령의 황제가 모든 것을 다스렸노라.  
+찰만에 평화가 찾아와 피해가 복구되었고,  
+공격자들은 흩어져 다른 곳으로 떠났노라.  
+  
+그 황제는 가고, 그 치세도 아득한 옛일이라.  
+오늘 이 날에서 무엇이 남고, 무엇이 이어지는가?  
+오직 그 마지막 항전에서 보여준 용기뿐,  
+찰만에 서서, 스러져간 이들의 용기뿐이니라.
+
+[출처](https://www.imperial-library.info/content/those-who-stood-chalman-keep)
+
+---
+
+## 참혹한 항해
+
+ID: ext-e442d1dfe10aaec804c9 / ESO 책 ID: 7268 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+브린 뒤포르의 기록  
+  
+우리가 하이 아일을 향해 출항하던 저녁, 한 늙은 선원이 내게 이 경고를 들으라고 했다. 가장 큰 섬도 초라하게 보일 만큼 거대하고, 배를 통째로 삼킬 수 있는 아가리를 가지며, 선원의 영혼마저 흔들어 놓을 만큼 강렬한 존재감으로 주변을 침묵시키는 크리처가 본토와 군도 사이의 깊이를 배회하고 있다는 것이었다. 하이락으로 가는 항로에서 그 어두운 괴물을 가까스로 피해 달아났지만, 돌아오는 길에는 우리 모두가 끝장날 것이 확실하다고 그는 말했다.  
+  
+처음에는 그의 이야기에 몸이 떨렸다. 하지만 에일스를 몇 잔 마신 뒤에는 웃어 넘겼다. 이 고집스러운 선원의 허풍은 그저 그런 것, 경험 없는 여행자들을 겁주려는 꾸며낸 이야기일 뿐이라 생각했다.  
+  
+시스트레스의 보석을 향해 나아가며 더 이상 해안이 보이지 않게 되었을 때, 수평선 앞쪽에서 하늘이 바다와 맞닿았다. 그러더니, 아무런 경고도 없이 모든 것이 잠잠해졌다. 바람이 돛에서 달아났고, 배는 움직임 없이 납작하게 고요한 바다 위에 멈춰 섰다.  
+  
+이상한 침묵이 귀를 파고들었다. 너무 견디기 힘들어 배 위의 모든 영혼이 마비된 채 서 있었다. 하늘이 어두워졌지만 구름 한 점 없었다. 오히려, 상상조차 할 수 없을 만큼 거대한 어둠이, 영원처럼 느껴지는 시간 동안 심연에서 솟아올랐다가 다시 수면 아래로 사라졌다.  
+  
+그림자는 이제 우리 아래를 짓누르며 물을 새까맣게 물들였고, 마치 녹터널 그녀의 영역에서 물이 흘러나오는 듯했다. 수면 아래의 리바이어던이 점점 더 가까이 다가왔다. 어둠이 퍼져 우리 주위 바다를 물들이는 동안, 배는 그 고요한 공허 속에서 흔들렸다.  
+  
+아래로부터, 그 심연 속에서 밝은 녹색 빛이 갑자기 나타났다. 그것이 무엇인지 알아채는 데는 잠시 시간이 걸렸다. 인간이든 머든 만든 어떤 구조물보다도 거대한 눈이었다. 그 눈은 위를 올려다보며 나의 영혼을 꿰뚫었다. 단 한 번 깜박였고, 눈동자는 거대한 세로로 찢긴 틈이었다.  
+  
+나타났을 때만큼이나 빠르게 그 눈은 사라졌다. 바다가 잉키한 검정색에서 다시 자연스러운 사파이어 파란색으로 변하기 시작했다. 어둠이 물러가고 이 리바이어던은 흔적도 없이 깊이로 사라졌다. 바람이 돌아와 돛을 채웠고, 우리는 계속 나아갔다.  
+  
+죽는 그날까지 나는 내가 본 것에 대해 맹세할 것이다. 상상할 수 있는 그 무엇보다도 더 큰 크리처가, 파도 바로 아래를 배회하고 있었다.  
+  
+기다리면서.
+
+[출처](https://www.imperial-library.info/content/harrowing-sea-voyage)
+
+---
+
+## 창백한 남자
+
+ID: ext-608b0b01d970b646a9c4 / ESO 책 ID: 6131 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+낯선 이이가 우리 땅을 찾아왔다,  
+유령처럼 모두가 볼 만한 창백한 몰골로.  
+말없이 불가에서 몸을 떨며,  
+무엇이 그토록 황량한 형상을 빚어냈나,  
+공허하게, 겨우 들릴 듯한 목소리,  
+몇 마디 말로 속삭인 경고.  
+  
+창백한 남자가 온다,  
+찬 바람과 어두운 구름을 몰고서  
+창백한 남자가 온다,  
+그대의 사랑하는 이를 빼앗으러  
+창백한 남자가 온다.  
+  
+경고가 채 끝나기도 전에  
+처음 설원이 대지에 내렸다.  
+울부짖는 윈드에 몸을 움츠리며  
+햇빛이 사그러드는 속에서 기도를 올렸다.  
+밤을 막아 문을 걸어 잠그고,  
+서로를 가까이 끌어당겨 몸을 맞댔다.  
+  
+창백한 남자가 온다,  
+설원의 망토를 두르고서  
+창백한 남자가 온다,  
+그 손길은 뼛속까지 냉기를 스미게 하고,  
+창백한 남자가 온다.  
+  
+두려운 폭풍이 이어지는 동안  
+우리는 몸을 눕혀 새벽을 기다렸다.  
+쉴 수가 없었다  
+원초 않는 손님을 기다리며.  
+판자 울리는 소리에  
+검을 더욱 힘껏 쥐었다.  
+  
+창백한 남자가 온다,  
+유령처럼 스쳐 지나  
+창백한 남자가 온다,  
+흔적도 없이 사라지는.  
+  
+마침내 우리의 밤은 끝났다  
+예고된 방문도 없이.  
+경계가 풀리기 시작할 무렵  
+나는 낯선 이이가 누웠던 자리를 돌아봤다.  
+하지만 그는 어디에도 보이지 않았다  
+남은 것은 얼음 같은 광택뿐.
+
+[출처](https://www.imperial-library.info/content/pale-man)
+
+---
+
+## 책 국 조리법
+
+ID: ext-3a94da413ba2b793e56a / ESO 책 ID: 7769 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+이 레시피에 풍미가 있다고 착각하지 말라. 그저 내가 만들 수 있는 가장 입에 맞는 국에 가깝다는 것뿐이다.  
+  
+먼저 책 페이지를 찢어 잘게 썬다. 조각이 작을수록 국의 질감이 부드러워진다.  
+  
+다음으로 책 표지를 가마솥에 넣고 끓이기 시작한다. 표지용 풀을 분해하고 가죽을 부드럽게 하는 것이 목표다.  
+  
+가마솥이 격렬하게 끓어오르면 가죽 표지를 꺼내기 시작한다. 남아 있는 풀은 가마솥에 긁어 넣는 것을 잊지 말라.  
+  
+유백색으로 변해 있을 육수에 이제 간을 맞춘다. 요즘 우리는 육수에 발싸개나 셔츠를 넣어 땀에서 소금기를 뽑아내는 것을 즐긴다. 부서진 책장의 나무는 훌륭한 향재료가 되며, 깃털 달린 퀼도 마찬가지다. 창의력을 발휘해보라.  
+  
+육수에 간을 맞추는 동안 가죽 표지를 짧고 가는 조각으로 썰기 시작한다. 처음에 삶아 두었으니 자르기 쉬울 것이다. 이 조각들이 국의 '고기'가 된다. 제대로 했다면 씹는 맛이 있으면서도 그리 불쾌하지 않은 식감이 될 것이다. 표지를 다 저며냈으면 향재료와 양념용 옷을 꺼내고 저민 가죽을 넣는다.  
+  
+표지 조각을 이빨로 씹어 찢을 수 있을 때까지 계속 육수를 끓인다.  
+  
+이제 잘게 썬 종잇조각을 넣고, 눈이 풀리고 허기가 당신을 집어삼킬 것 같은 느낌이 들 때까지 젓는다. 그 정도면 종이가 감자 같은 질감으로 분해되기에 충분한 시간이다.  
+  
+담아서 맛있게 드시라.
+
+[출처](https://www.imperial-library.info/content/recipe-book-soup)
+
+---
+
+## 천 개의 화살
+
+ID: ext-44705da9db6dcb25b620 / ESO 책 ID: 1112 / 한국어: 사용자 제공 kr.lang · 기존 게임 번역
+
+일천 화살은 수수께끼에 싸인 챔피언이었다. 그녀는 홀로 토너먼트에 참가하였으나, 그 솜씨와 정확함으로 다른 모든 투사를 압도하였으며, 자신은 단 한 군데의 상처도 입지 않았다. 정의로운 하그로프가 쓰러진 뒤로도 일천 화살은 은둔한 채 머물렀고, 새로운 도전자가 투기장에 들어설 때에야 비로소 모습을 드러내었다. 그녀가 즐겨 쓴 무기는 독을 바른 화살을 메긴 활이었다. 그 독은 그녀 자신이 고안한 비법으로 만든 것이었다. 살짝 긁히기만 하여도 아무리 거대한 적이라도 몇 초 만에 쓰러뜨릴 수 있었다. 그녀는 이 비법을 무덤까지 가져갔으니, 그 정확한 재료를 두고 오늘날까지도 탐리엘 전역의 연금술사들 사이에서 격론이 오간다.  
+  
+왕좌를 빼앗긴 자: 정의로운 하그로프  
+  
+그녀를 쓰러뜨린 자: 견고한 루시우스
+
+[출처](https://www.imperial-library.info/content/thousand-arrows)
 
 ---
 

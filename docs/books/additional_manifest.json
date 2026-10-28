@@ -27,19 +27,19 @@
     },
     {
       "game": "eso",
-      "books": 2482,
-      "individual_files": 2482,
-      "duplicate_titles": 2,
+      "books": 2528,
+      "individual_files": 2528,
+      "duplicate_titles": 24,
       "available": true,
-      "sha256": "2b3ce04216d21d4a1f2a19b01d95a150428ba0b3d6acbb711b878d7987db7add"
+      "sha256": "6050bd3c30bd0af7ea030c81e1dc403b4e78c2cd09bcdf5493ac8daf482cefef"
     },
     {
       "game": "eso_journals",
-      "books": 2231,
-      "individual_files": 2231,
-      "duplicate_titles": 20,
+      "books": 2232,
+      "individual_files": 2232,
+      "duplicate_titles": 32,
       "available": true,
-      "sha256": "19a328d9f3427ad6566a3fefaacac5d6511813985af228ca9743d5fd18ac475f"
+      "sha256": "3c5f77711196c545f1084855e496ab5c08062b1442de13c2ec21cfba36249942"
     }
   ]
 }

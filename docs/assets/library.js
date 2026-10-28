@@ -89,6 +89,7 @@
   }
   function translationReviewLabel(book) {
     if(book.content_language==="en")return "미번역";
+    if(book.translation_coverage==="existing_game_record")return "기존 게임 번역";
     if(book.translation_review==="needs_source_check")return "원문 확인 필요";
     if(book.translation_review==="source_compared")return "원문 대조 검수(AI)";
     return book.needs_translation_review?"번역 검수 필요":"";
@@ -186,9 +187,12 @@
     $("readerGame").textContent="THE ELDER SCROLLS "+GAME[book.game].roman+" · "+GAME[book.game].en;
     $("readerMetadata").replaceChildren();
     const reviewLabel=translationReviewLabel(book);
-    [book.author, GAME[book.game].ko,reviewLabel?(book.content_language==="en"?"영문":"한국어")+" · "+reviewLabel:null,book.translation_review?"인게임 미검수":null,book.review_notes,book.record_id].filter(Boolean).forEach(value=>{
+    [book.author, GAME[book.game].ko,reviewLabel?(book.content_language==="en"?"영문":"한국어")+" · "+reviewLabel:null,book.translation_review?"인게임 미검수":null,book.review_notes,book.eso_book_id?"ESO 책 ID: "+book.eso_book_id:null,book.translation_notes,book.has_runtime_parameters?"인물·장소 변수는 게임 원본 표기 유지":null,book.has_embedded_art?"게임 내 삽화·도안은 텍스트 안내로 표시":null,book.record_id].filter(Boolean).forEach(value=>{
       const span=document.createElement("span");span.textContent=value;$("readerMetadata").append(span);
     });
+    if(book.translation_source_url){
+      const credit=document.createElement("a");credit.textContent="ESO 한국어 번역 프로젝트 ↗";credit.href=book.translation_source_url;credit.target="_blank";credit.rel="noopener noreferrer";$("readerMetadata").append(credit);
+    }
     $("readerContent").textContent="서적을 펼치는 중…";
     $("readerContent").lang=book.content_language||"ko";
     $("readerScroller").scrollTop=0;

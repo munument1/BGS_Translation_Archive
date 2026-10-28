@@ -73,12 +73,18 @@ jobs:
           assert report['imported']+report['unavailable']+report['ambiguous']==ext['total']
           print('Verified English source entries:',len(english))
           additional=json.loads((root/'additional_catalog.json').read_text(encoding='utf-8'))
-          assert len(additional['books'])==len(english)
-          assert len({b['uid'] for b in c['books']+additional['books']})==len(c['books'])+len(english)
+          eso_imports=json.loads((root/'eso_korean_imports.json').read_text(encoding='utf-8'))['entries']
+          english_ids={r['uid'] for r in english}
+          korean_only={r['uid'] for r in eso_imports}-english_ids
+          assert {b['uid'] for b in additional['books']}==english_ids|korean_only
+          assert len({b['uid'] for b in c['books']+additional['books']})==len(c['books'])+len(additional['books'])
           assert all((root/b['path']).is_file() for b in additional['books'])
           for game,count in additional['counts'].items():
               assert len(list((root/game/'books').rglob('*.md')))==count
           PY
+
+      - name: Verify ESO Korean game-text imports
+        run: python3 -m unittest discover -s tests -p test_eso_lang_import.py
 
       - name: Verify readable Fallout catalog
         run: python3 tools/validate_fallout_catalog.py

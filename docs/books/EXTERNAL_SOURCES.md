@@ -1,6 +1,10 @@
 # The Imperial Library — Game Books 확장 조사
 
-## 범위 및 현재 상태
+## 현재 한국어 본문 보충
+
+2026-10-28: 사용자 제공 ESO `kr.lang`에서 서적·일지·쪽지·편지 **3,847개 한국어 게임 본문**을 연결했습니다. 기존 서지 UID와 책 ID를 보존하고 검색·개별 읽기·합본·JSONL에 반영했습니다. [대조 근거와 남은 범위](ESO_KOREAN_IMPORT.md). 아래 수집 수치와 미번역 상태는 이전 조사 단계의 이력입니다.
+
+## 이전 조사 범위 및 상태
 
 - 기존 한국어 서고: 대거폴 93건, 모로윈드 632건, 오블리비언 927건, 스카이림 977건, 총 2,629건
 - 외부 원문 색인: [The Imperial Library · Game Books](https://www.imperial-library.info/game-books)
