@@ -6,6 +6,7 @@ SST text stays local; public records retain translation hashes and provenance.
 import argparse
 from collections import Counter,defaultdict
 import hashlib
+import html
 import json
 from pathlib import Path
 import re
@@ -17,11 +18,19 @@ from group_fallout_terminals import expand,group
 from group_fallout_series import group_series
 
 ROOT=Path(__file__).resolve().parents[1]
-def words(s):return re.findall(r'[a-z0-9]+',s.casefold())
+def clean(s):
+    s=re.sub(r'<br\s*/?>|\[pagebreak\]','\n',s,flags=re.I)
+    s=re.sub(r'</(?:p|div)>','\n\n',s,flags=re.I)
+    s=re.sub(r'</?(?:font|p|div|b|strong|i|u|img|textformat)\b[^>]*>','',s,flags=re.I)
+    return html.unescape(s).strip()
+def words(s):return re.findall(r'[a-z0-9]+',clean(s).casefold())
 def norm(s):return ' '.join(words(s))
 
 def main(root,source=None):
     corpus=defaultdict(list);titles=defaultdict(list)
+    override_path=ROOT/'docs/fallout/translation-alignment-overrides.json'
+    overrides=json.loads(override_path.read_text(encoding='utf-8')) if override_path.exists() else {}
+    override_rows={}
     for game,plugins in PLUGINS.items():
         folder=root/('Fallout4' if game=='fo4' else 'FalloutNV')
         # FO3 translations also exist in TTW dictionaries; require identical prose.
@@ -31,9 +40,12 @@ def main(root,source=None):
             if not file.exists():continue
             parsed=parse_sst(file,max_file_bytes=96*1024*1024)
             for index,r in enumerate(parsed['records']):
-                en=r['source'];ko=r['korean'].strip();key=norm(en)
+                en=r['source'];ko=clean(r['korean']);key=norm(en)
                 if not re.search('[가-힣]',ko) or '\ufffd' in ko or not key:continue
                 src=dict(dictionary=file.name,record_index=index,record=r['record_name'],field=r['field_name'],form_id=r['form_id'],source_hash=hashlib.sha256(en.encode()).hexdigest(),ko_hash=hashlib.sha256(ko.encode()).hexdigest())
+                for doc_id,override in overrides.items():
+                    if file.name==override['dictionary'] and index==override['record_index'] and src['source_hash']==override['source_sha256']:
+                        override_rows[doc_id]=(ko,src)
                 if r['field_name']=='FULL':titles[game,key].append((ko,src))
                 if r['record_name'] in ('INFO','NOTE','BOOK','TERM') and len(words(en))>=4:
                     corpus[game,key].append((ko,src))
@@ -43,7 +55,7 @@ def main(root,source=None):
         with gzip.open(p,'rt',encoding='utf-8') as f:
             for line in f:
                 row=json.loads(line)
-                if row.get('ko'):base_texts.add(row['ko'].strip())
+                if row.get('ko'):base_texts.add(clean(row['ko']))
     resolved={};prefix=defaultdict(list)
     for (game,key),values in corpus.items():
         preferred={'fo3':'fallout3_en_ko.sst','fnv':'falloutnv_en_ko.sst','fo4':'fallout4_en_ko.sst'}[game]
@@ -86,6 +98,21 @@ def main(root,source=None):
             translated=[];sources=[];matched_words=total_words=0;unmatched=[]
             title_options=titles.get((r['game'],norm(r.get('title_en',''))),[])
             if len({x[0] for x in title_options})==1:r['title_ko']=title_options[0][0]
+            if r['id'] in override_rows and hashlib.sha256(r['body_en'].encode()).hexdigest()==overrides[r['id']]['epub_sha256']:
+                ko,src=override_rows[r['id']]
+                n=len(words(r['body_en']))
+                r.update(body_ko=ko,translation_sources=[src],status='linked_translation',type='document',translation_coverage=dict(matched_words=n,total_words=n,complete=True,method='explicit_hash_checked_alignment; '+overrides[r['id']]['alignment_check']))
+                stats['linked_documents']+=1;stats['complete']+=1
+                continue
+            # A NOTE/BOOK can contain its own date headings. Match the whole
+            # document before splitting at EPUB headings, which are only layout.
+            full_key=norm(soup.body.get_text(' ',strip=True))
+            full=resolved.get((r['game'],full_key))
+            if full and full[1]['record'] in ('NOTE','BOOK'):
+                ko,src=full
+                r.update(body_ko=ko,translation_sources=[src],status='linked_translation',type='terminal' if r['type']=='terminal' else 'document',translation_coverage=dict(matched_words=len(full_key.split()),total_words=len(full_key.split()),complete=True,method='whole_document_exact_words; formatting_tags_removed'))
+                stats['linked_documents']+=1;stats['complete']+=1
+                continue
             for text,heading in merged:
                 if not text:continue
                 token_matches=list(re.finditer(r'[a-z0-9]+',text,re.I))

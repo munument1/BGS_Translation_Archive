@@ -20,6 +20,9 @@ def main():
     for r in (keller,eddie):
         assert r['type']=='holotape' and r['translation_coverage']['complete']
         assert r['body_ko'] and r['body_en']
+    lorenzo=next(r for r in entries if r.get('title_en')=='Lorenzo Cabot’s journal')
+    assert lorenzo['translation_coverage']['complete'] and len(lorenzo['body_ko'])>1000
+    assert '<font' not in lorenzo['body_ko'].lower()
     print(f'PASS: {len(entries)} readable entries; three categories; honest translation states; Keller/Eddie transcripts complete')
 
 if __name__=='__main__':main()

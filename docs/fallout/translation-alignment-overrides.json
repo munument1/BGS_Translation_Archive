@@ -1,0 +1,9 @@
+{
+  "codex-b680786e2a173b41": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 77764,
+    "source_sha256": "09d270fcf6877ce0de8ac7c13509a295cdb59d03d54c1b260ec804f50585cb6c",
+    "epub_sha256": "676ff094aa85212d2b09ec9fa191efec56888744e5c378c7a9ef5be402b2f018",
+    "alignment_check": "Manually compared all token differences: dropped and; duplicated the; reordered now/know; as/was typo; even/ever typo. Same journal, dates and content. Existing Korean game translation retained."
+  }
+}
