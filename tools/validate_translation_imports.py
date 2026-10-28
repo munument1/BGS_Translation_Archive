@@ -9,7 +9,6 @@ import re
 
 ROOT = Path(__file__).resolve().parents[1]
 INPUTS = [
-    ("morrowind", ROOT/"Morrowind/BaseGame/Morrowind_Korean_ReTranslation.esp/kr6_utf8_localized.jsonl", 45781),
     ("oblivion", ROOT/"Oblivion/BaseGame/Oblivion.esm/canonical_v2.jsonl", 46225),
     ("oblivion", ROOT/"Oblivion/DLC/canonical_v2.jsonl", 1734),
     ("oblivion", ROOT/"Oblivion/Mods/canonical_v2.jsonl", 3185),
@@ -21,6 +20,8 @@ FORBIDDEN = {"old_english", "source_text", "original_text", "english_original", 
 
 
 def main():
+    if list((ROOT/"Morrowind"/"BaseGame").rglob("*kr6*")):
+        raise ValueError("Obsolete KR6 files found; KR9 is the only accepted Morrowind baseline")
     seen_all = set()
     total = 0
     for game, path, expected in INPUTS:
