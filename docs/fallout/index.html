@@ -7,9 +7,9 @@
   <meta name="theme-color" content="#111c16">
   <meta name="description" content="폴아웃 시리즈의 터미널 기록, 홀로테이프, 메모, 홀로디스크를 한국어로 찾아보는 비공식 기록 보관소.">
   <title>황무지의 기록 | Fallout 한국어 아카이브</title>
-  <link rel="stylesheet" href="../assets/record-archive.css">
+  <link rel="stylesheet" href="../assets/record-archive.css?v=20261028-sections-2">
   <link rel="stylesheet" href="../assets/fallout-terminal.css">
-  <script src="../assets/record-reader.js"></script>
+  <script src="../assets/record-reader.js?v=20261028-sections-2"></script>
 </head>
 <body data-archive="fallout">
   <div class="shell">
@@ -104,7 +104,7 @@
     function showBody(){
       if(!currentRecord)return;
       const lang=$("readerLanguage").value;
-      ArchiveReader.setText((lang==="ko"?currentRecord.body_ko:currentRecord.body_en)||"이 기록은 본문이 아직 수록되지 않았습니다.",{preserve:currentRecord.language_neutral_payload||/poem|song|lyrics|prayer|prophecy|hymn|lullaby/i.test(currentRecord.title_en||"")});
+      ArchiveReader.setText((lang==="ko"?currentRecord.body_ko:currentRecord.body_en)||"이 기록은 본문이 아직 수록되지 않았습니다.",{sections:currentRecord.type==="document"&&!currentRecord.language_neutral_payload,preserve:currentRecord.language_neutral_payload||/poem|song|lyrics|prayer|prophecy|hymn|lullaby/i.test(currentRecord.title_en||"")});
     }
     $("readerLanguage").addEventListener("change",showBody);
     function openRecord(id){
