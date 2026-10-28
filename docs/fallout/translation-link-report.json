@@ -1,0 +1,12 @@
+{
+  "linked_text_fields_by_game": {
+    "fo3": 1646,
+    "fnv": 2654,
+    "fo4": 3563
+  },
+  "total_korean_text_fields": 7863,
+  "grouped_korean_readable_records": 3659,
+  "rejected_text": 0,
+  "matching": "Official dictionary filename + record type + full FormID + field/sub-index. FO3/FNV menu index includes the extracted welcome entry. FO4 BTXT/UNAM use dedicated field IDs.",
+  "review_status": "Existing translations; not newly reviewed or in-game tested"
+}

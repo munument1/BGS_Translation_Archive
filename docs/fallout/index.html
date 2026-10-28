@@ -8,6 +8,7 @@
   <meta name="description" content="폴아웃 시리즈의 터미널 기록, 홀로테이프, 메모, 홀로디스크를 한국어로 찾아보는 비공식 기록 보관소.">
   <title>황무지의 기록 | Fallout 한국어 아카이브</title>
   <style>
+    .search,.type-select{min-width:0;width:100%}.entry{min-width:0;overflow-wrap:anywhere}
     :root{color-scheme:dark;--bg:#0b130f;--panel:#122118;--panel2:#16291c;--line:#345a3b;--text:#d7edc0;--sub:#91b790;--green:#bbf28e;--amber:#e7b85f;--font:"Pretendard","Noto Sans KR",system-ui,-apple-system,sans-serif}
     *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(ellipse at 90% 0%,#1c3324 0,transparent 42%),var(--bg);color:var(--text);font-family:var(--font);line-height:1.6}
     body:before{content:"";pointer-events:none;position:fixed;inset:0;z-index:10;background:repeating-linear-gradient(to bottom,transparent 0,transparent 3px,#07130b1c 4px);opacity:.32}
@@ -34,7 +35,7 @@
     .entry-foot{display:flex;justify-content:space-between;align-items:center;margin-top:auto;gap:8px}.tag{font-size:11px;color:var(--amber)}.open-detail{border:0;background:transparent;color:var(--green);font-weight:700;font-size:13px;padding:4px 0}
     .empty{padding:54px;text-align:center;color:var(--sub);border:1px dashed var(--line)}.info{margin:66px 0 55px;padding:25px 29px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:#102019}.info h2{margin:0 0 8px;font-size:21px}.info p{color:var(--sub);margin:0;font-size:14px;line-height:1.9}
     footer{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;border-top:1px solid var(--line);padding:26px 0 35px;color:var(--sub);font-size:12px}footer p{margin:0}footer a{color:var(--green)}[hidden]{display:none!important}
-    dialog{width:min(650px,calc(100vw - 24px));border:1px solid var(--green);padding:0;background:#101c14;color:var(--text);box-shadow:0 20px 100px #000c;max-height:calc(100vh - 32px)}dialog::backdrop{background:#050906e8}.dialog-inner{padding:30px;max-height:calc(100vh - 34px);overflow:auto}.dialog-top{display:flex;justify-content:space-between;align-items:start;gap:18px}.dialog-close{background:none;border:1px solid var(--line);color:var(--green);width:38px;height:38px}.dialog-title{font-size:29px;line-height:1.3;margin:16px 0 5px}.dialog-en{font-size:13px;color:var(--sub);margin:0 0 25px}.dialog-body{white-space:pre-wrap;line-height:2;font-size:15px;padding:24px 0;border-block:1px solid var(--line);color:#c4ddbd}.dialog-meta{margin:23px 0;color:var(--sub);font-size:13px}.dialog-meta dt{display:inline-block;width:84px;color:var(--green)}.dialog-meta dd{display:inline-block;margin:0}.dialog-meta div{margin:8px 0}.outlink{display:inline-flex;align-items:center;gap:10px;padding:11px 18px;border:1px solid var(--green);text-decoration:none;color:var(--green);font-weight:700}.outlink:hover{background:#273d24}
+    dialog{width:min(820px,calc(100vw - 24px));border:1px solid var(--green);padding:0;background:#101c14;color:var(--text);box-shadow:0 20px 100px #000c;max-height:calc(100vh - 32px)}dialog::backdrop{background:#050906e8}.dialog-inner{padding:30px;max-height:calc(100vh - 34px);overflow:auto}.dialog-top{display:flex;justify-content:space-between;align-items:start;gap:18px}.dialog-close{background:none;border:1px solid var(--line);color:var(--green);width:38px;height:38px}.dialog-title{font-size:29px;line-height:1.3;margin:16px 0 5px}.dialog-en{font-size:13px;color:var(--sub);margin:0 0 25px}.dialog-body{white-space:pre-wrap;overflow-wrap:anywhere;line-height:2;font-size:17px;padding:24px 0;border-block:1px solid var(--line);color:#c4ddbd}.dialog-meta{margin:23px 0;color:var(--sub);font-size:13px;overflow-wrap:anywhere}.dialog-meta dt{display:inline-block;width:84px;color:var(--green)}.dialog-meta dd{display:inline-block;margin:0}.dialog-meta div{margin:8px 0}.outlink{display:inline-flex;align-items:center;gap:10px;padding:11px 18px;border:1px solid var(--green);text-decoration:none;color:var(--green);font-weight:700}.outlink:hover{background:#273d24}
     @media(max-width:920px){.hero{gap:24px}.gamebar{grid-template-columns:repeat(3,minmax(0,1fr))}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
     @media(max-width:640px){.toplinks a:last-child{display:none}.shell{padding:0 16px}.top{height:65px}.toplinks{gap:12px}.toplinks a{font-size:11px}.brand strong{font-size:11px;letter-spacing:.1em}.brand-icon{width:35px;height:35px}.hero{display:block;padding:53px 0 39px}.intro{font-size:14px}.art{min-height:200px;margin-top:34px}.art-ring{width:165px}.art-symbol{font-size:85px}.facts{gap:24px}.filter-head h2{font-size:27px}.gamebar{grid-template-columns:repeat(3,minmax(0,1fr))}.game-btn{padding:12px 4px}.toolbar{grid-template-columns:1fr 125px}.clear{grid-column:1/-1}.grid{grid-template-columns:1fr}.entry{min-height:195px}.info{margin-top:40px;padding:19px}.dialog-inner{padding:19px}.dialog-title{font-size:23px}}
     @media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;transition:none!important}}
@@ -66,15 +67,16 @@
       </section>
       <div class="section-kicker"><span>01 / THE ARCHIVE</span><span>RECORD INDEX · 2077—</span></div>
       <section id="records" aria-labelledby="recordTitle">
-        <div class="filter-head"><div><h2 id="recordTitle">황무지의 문서함</h2><p>게임 ESM에서 추출한 개별 기록과 기존 외부 목차를 함께 검색할 수 있습니다. 번역 본문은 검수 후 수록합니다.</p></div></div>
+        <div class="filter-head"><div><h2 id="recordTitle">황무지의 문서함</h2><p>게임 ESM에서 추출한 개별 기록과 기존 외부 목차를 함께 검색할 수 있습니다. 기존 한글 번역의 본문을 검색하고 읽을 수 있습니다. 각 기록에 출처와 검수 상태를 표시합니다.</p></div></div>
         <div class="gamebar" id="games" aria-label="작품 필터"></div>
         <div class="toolbar">
-          <input id="search" class="search" type="search" placeholder="자료 이름 또는 설명 검색…" aria-label="자료 검색">
+          <input id="search" class="search" type="search" placeholder="제목·본문·FormID 검색…" aria-label="자료 검색">
           <select id="type" class="type-select" aria-label="기록 종류">
             <option value="all">모든 기록</option><option value="terminal">터미널 기록</option><option value="holotape">홀로테이프</option><option value="holodisk">홀로디스크</option><option value="holodisk_note">홀로디스크·메모 (미분류)</option><option value="note">메모</option><option value="book">서적·문서</option>
           </select>
           <button id="reset" class="clear" type="button">필터 초기화</button>
         </div>
+        <p><label><input id="readableOnly" type="checkbox" checked> 본문이 있는 기록만 보기 (한국어·영어)</label></p>
         <div class="result-line"><span id="resultCount" role="status">목록을 불러오는 중…</span><span>GAME ESM / EXTERNAL INDEX</span></div>
         <div id="cards" class="grid"></div>
         <button id="more" class="clear" type="button" hidden style="width:100%;margin-top:18px">더 많은 기록 보기 ↓</button>
@@ -82,7 +84,7 @@
       </section>
       <section class="info" aria-labelledby="aboutTitle">
         <h2 id="aboutTitle">기록 보존 원칙</h2>
-        <p>이 사이트는 비공식·비상업 팬 프로젝트입니다. 폴아웃 3·뉴 베가스·4의 원본 게임 ESM에서 문서 식별자를 추출했으며, 기존 외부 목차도 함께 제공합니다. 본문 원문은 로컬 작업 자료로 보관하고 있습니다. 공개 색인에 원문 전문은 포함되지 않습니다. 저작권은 각 권리자에게 있으며, 한국어 번역문은 출처와 검수 상태를 확인한 뒤 수록합니다.</p>
+        <p>이 사이트는 비공식·비상업 팬 프로젝트입니다. 폴아웃 3·뉴 베가스·4의 원본 게임 ESM에서 문서 식별자를 추출했으며, 기존 외부 목차도 함께 제공합니다. 본문 원문은 로컬 작업 자료로 보관하고 있습니다. 공개 색인에 원문 전문은 포함되지 않습니다. 저작권은 각 권리자에게 있으며, 한국어 본문은 보관된 기존 번역 사전에서 연결했습니다. 기록별 번역 출처를 확인할 수 있으며, 아카이브 자체의 문장 검수와 게임 내 사용 여부 확인은 진행 전입니다.</p>
       </section>
     </main>
     <footer><p>WASTELAND ARCHIVE · 비공식 폴아웃 한국어 기록 보관소</p><p><a href="../index.html">탐리엘의 서고</a> · <a href="https://fallout.fandom.com/wiki/Source_text" target="_blank" rel="noopener noreferrer">원문 색인: Fallout Wiki ↗</a></p></footer>
@@ -92,6 +94,7 @@
       <div class="dialog-top"><span class="overline" id="readerKicker">DATA RECORD</span><button type="button" class="dialog-close" id="readerClose" aria-label="닫기">✕</button></div>
       <h2 class="dialog-title" id="readerTitle"></h2>
       <p class="dialog-en" id="readerEn"></p>
+      <label id="readerLanguageLabel">본문 언어 <select id="readerLanguage" class="type-select" style="width:auto"><option value="ko">한국어 번역</option><option value="en">영어 원문</option></select></label>
       <div id="readerBody" class="dialog-body"></div>
       <dl class="dialog-meta" id="readerMeta"></dl>
       <a class="outlink" id="readerSource" target="_blank" rel="noopener noreferrer">원문 자료 목록 열기 ↗</a>
@@ -103,7 +106,7 @@
     const games=[["all","전체 작품","ALL"],["fo1","폴아웃 1","1997"],["fo2","폴아웃 2","1998"],["fo3","폴아웃 3","2008"],["fnv","뉴 베가스","2010"],["fo4","폴아웃 4","2015"],["fo76","폴아웃 76","2018"],["fot","폴아웃 택틱스","2001"]];
     const types={terminal:"터미널",holotape:"홀로테이프",holodisk:"홀로디스크",note:"메모",book:"서적·문서",holodisk_note:"홀로디스크·메모 (미분류)"};
     const PAGE_SIZE=60;
-    const state={game:"all",type:"all",search:"",records:[],limit:PAGE_SIZE};
+    const state={game:"all",type:"all",search:"",readableOnly:true,records:[],limit:PAGE_SIZE};
     const $=id=>document.getElementById(id);
     const esc=v=>String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
     const gameName=id=>(games.find(g=>g[0]===id)||[])[1]||id;
@@ -112,32 +115,51 @@
     function render(){
       document.querySelectorAll("[data-game]").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.game===state.game)));
       const q=state.search.trim().toLocaleLowerCase();
-      const matches=state.records.filter(r=>(state.game==="all"||r.game===state.game)&&(state.type==="all"||r.type===state.type)&&[r.title_ko,r.title_en,r.description,r.source_member,r.editor_id,r.form_id,gameName(r.game),types[r.type]].some(s=>String(s||"").toLocaleLowerCase().includes(q)));
+      const matches=state.records.filter(r=>(state.game==="all"||r.game===state.game)&&(!state.readableOnly||r.body_ko?.trim()||r.body_en?.trim())&&(state.type==="all"||r.type===state.type)&&[r.title_ko,r.title_en,r.body_ko,r.body_en,r.description,r.source_member,r.editor_id,r.form_id,...(r.series_entries||r.terminal_sections||[]).flatMap(x=>[x.title_en,x.title_ko,x.editor_id,x.form_id]),gameName(r.game),types[r.type]].some(s=>String(s||"").toLocaleLowerCase().includes(q)));
       $("resultCount").innerHTML='<strong>'+matches.length+'</strong>개 일치 / 총 '+state.records.length+'개 (표시 '+Math.min(matches.length,state.limit)+'개)';
       $("empty").hidden=matches.length>0;
       $("more").hidden=matches.length<=state.limit;
       $("more").style.display=matches.length>state.limit?"block":"none";
-      wrap.innerHTML=matches.slice(0,state.limit).map((r,i)=>'<article class="entry"><div class="entry-top"><span class="pill">'+esc(gameName(r.game))+' · '+esc(types[r.type]||r.type)+'</span><span class="entry-num">'+String(i+1).padStart(2,"0")+'</span></div><h3>'+esc(r.title_ko||r.title_en)+'</h3><p class="entry-en">'+esc(r.title_en||"")+'</p><p class="entry-desc">'+esc(r.description)+'</p><div class="entry-foot"><span class="tag">'+esc(r.level==='collection'?'원문 목차':r.status==='extracted_untranslated'?'ESM 추출 · 본문 검수 전':'전자책 문서 · 미번역')+'</span><button type="button" class="open-detail" data-open="'+esc(r.id)+'" aria-label="'+esc(r.title_ko||r.title_en)+' 상세 보기">상세 보기 →</button></div></article>').join("");
+      wrap.innerHTML=matches.sort((a,b)=>Number(Boolean(b.body_ko))-Number(Boolean(a.body_ko))||(a.title_ko||a.title_en).localeCompare(b.title_ko||b.title_en,"ko")).slice(0,state.limit).map((r,i)=>'<article class="entry"><div class="entry-top"><span class="pill">'+esc(gameName(r.game))+' · '+esc(types[r.type]||r.type)+'</span><span class="entry-num">'+String(i+1).padStart(2,"0")+'</span></div><h3>'+esc(r.title_ko||r.title_en)+'</h3><p class="entry-en">'+esc(r.title_en||"")+'</p><p class="entry-desc">'+esc(r.description)+'</p><div class="entry-foot"><span class="tag">'+esc(r.body_ko?.trim()?'한국어 본문 · 기존 번역':r.body_en?.trim()?'영어 원문':r.level==='collection'?'원문 목차':r.status==='extracted_untranslated'?'ESM 추출 · 본문 검수 전':'전자책 문서 · 미번역')+'</span><button type="button" class="open-detail" data-open="'+esc(r.id)+'" aria-label="'+esc(r.title_ko||r.title_en)+' 상세 보기">기록 읽기 →</button></div></article>').join("");
     }
+    let currentRecord=null;
+    function showBody(){
+      if(!currentRecord)return;
+      const lang=$("readerLanguage").value;
+      $("readerBody").textContent=(lang==="ko"?currentRecord.body_ko:currentRecord.body_en)||"이 기록은 본문이 아직 수록되지 않았습니다.";
+    }
+    $("readerLanguage").addEventListener("change",showBody);
     function openRecord(id){
-      const r=state.records.find(x=>x.id===id);if(!r)return;
+      const r=state.records.find(x=>x.id===id||x.aliases?.includes(id));if(!r)return; currentRecord=r;
       $("readerKicker").textContent=gameName(r.game)+" / "+(types[r.type]||r.type);
       $("readerTitle").textContent=r.title_ko||r.title_en;$("readerEn").textContent=r.title_en;
-      $("readerBody").textContent=r.body_ko?.trim()||(r.status==='extracted_untranslated'?"게임 파일에서 개별 기록의 텍스트를 추출했습니다. 한국어 본문은 현재 검수·정리 중이며, 추출된 원문은 로컬 작업 자료에 보관되어 있습니다.":"이 자료는 아직 한국어 본문이 수록되지 않았습니다. 외부 목차 또는 EPUB 원본에서 확인할 수 있습니다.");
-      $("readerMeta").innerHTML='<div><dt>작품</dt><dd>'+esc(gameName(r.game))+'</dd></div><div><dt>종류</dt><dd>'+esc(types[r.type]||r.type)+'</dd></div><div><dt>수록 형태</dt><dd>'+esc(r.body_ko?.trim()?"한국어 본문":r.status==='extracted_untranslated'?"게임 데이터 색인":"외부 목차 링크")+'</dd></div><div><dt>출처</dt><dd>'+esc((r.source_name||"출처 확인 필요")+(r.source_member?" / "+r.source_member:""))+'</dd></div>'+(r.plugin?'<div><dt>플러그인</dt><dd>'+esc(r.plugin)+'</dd></div><div><dt>FormID</dt><dd>'+esc(r.form_id||"")+'</dd></div><div><dt>EditorID</dt><dd>'+esc(r.editor_id||"—")+'</dd></div>':'');
-      const link=$("readerSource");const safeUrl=/^https:\/\//.test(r.source_url||"")?r.source_url:null;link.hidden=!safeUrl;if(safeUrl)link.href=safeUrl;link.textContent=r.level==="collection"?"원문 자료 목록 열기 ↗":"원문 출처 열기 ↗";
-      $("reader").showModal();history.replaceState(null,"",location.pathname+location.search+"#"+encodeURIComponent(id));
+      $("readerLanguage").value=r.body_ko?.trim()?"ko":"en";
+      $("readerLanguage").options[0].disabled=!r.body_ko?.trim();
+      $("readerLanguage").options[1].disabled=!r.body_en?.trim();
+      $("readerLanguageLabel").hidden=!(r.body_ko||r.body_en);showBody();
+      $("readerMeta").innerHTML='<div><dt>작품</dt><dd>'+esc(gameName(r.game))+'</dd></div><div><dt>종류</dt><dd>'+esc(types[r.type]||r.type)+'</dd></div><div><dt>수록 형태</dt><dd>'+esc(r.body_ko?.trim()?"한국어 본문":r.body_en?.trim()?"영어 원문":r.status==='extracted_untranslated'?"게임 데이터 색인":"외부 목차 링크")+'</dd></div><div><dt>출처</dt><dd>'+esc((r.source_name||"출처 확인 필요")+(r.source_member?" / "+r.source_member:""))+'</dd></div>'+(r.plugin?'<div><dt>플러그인</dt><dd>'+esc(r.plugin)+'</dd></div><div><dt>FormID</dt><dd>'+esc(r.form_id||"")+'</dd></div><div><dt>EditorID</dt><dd>'+esc(r.editor_id||"—")+'</dd></div>':'');
+      const link=$("readerSource");const safeUrl=/^https:\/\//.test(r.source_url||"")?r.source_url:null;link.hidden=!safeUrl;if(safeUrl)link.href=safeUrl;link.textContent=/\.epub(?:$|[?#])/i.test(safeUrl||"")?"원본 EPUB 다운로드 ↗":r.level==="collection"?"원문 자료 목록 열기 ↗":"원문 출처 열기 ↗";
+      if(r.series_entries){
+        $("readerMeta").innerHTML+='<div><dt>연속 기록</dt><dd>'+r.series_entries.length+'편 · 본문에 각 편의 제목과 순서 표시</dd></div>';
+      }
+      if(r.terminal_sections){
+        const sources=[...new Set(r.terminal_sections.map(s=>s.translation_source?.dictionary).filter(Boolean))];
+        $("readerMeta").innerHTML+='<div><dt>하위 기록</dt><dd>'+r.terminal_sections.filter(s=>s.body_ko).length+'개 번역 본문</dd></div><div><dt>번역 출처</dt><dd>'+esc(sources.join(", "))+'</dd></div><div><dt>검수 상태</dt><dd>기존 번역 · 아카이브 검수 전</dd></div>';
+      }
+      if(r.translation_source){const t=r.translation_source;$("readerMeta").innerHTML+='<div><dt>번역 출처</dt><dd>'+esc(t.dictionary)+'</dd></div><div><dt>번역 필드</dt><dd>'+esc(t.field+" / "+t.sub_index)+'</dd></div><div><dt>검수 상태</dt><dd>기존 번역 · 아카이브 검수 전</dd></div>';} if(!$("reader").open)$("reader").showModal();$("readerBody").parentElement.scrollTop=0;history.replaceState(null,"",location.pathname+location.search+"#"+encodeURIComponent(id));
     }
     $("games").addEventListener("click",e=>{const b=e.target.closest("[data-game]");if(!b)return;state.game=b.dataset.game;state.limit=PAGE_SIZE;render()});
+    $("readableOnly").addEventListener("change",e=>{state.readableOnly=e.target.checked;state.limit=PAGE_SIZE;render()});
     $("type").addEventListener("change",e=>{state.type=e.target.value;state.limit=PAGE_SIZE;render()});
     $("search").addEventListener("input",e=>{state.search=e.target.value;state.limit=PAGE_SIZE;render()});
-    $("reset").addEventListener("click",()=>{state.game="all";state.type="all";state.search="";state.limit=PAGE_SIZE;$("type").value="all";$("search").value="";render()});
+    $("reset").addEventListener("click",()=>{state.game="all";state.type="all";state.search="";state.readableOnly=true;$("readableOnly").checked=true;state.limit=PAGE_SIZE;$("type").value="all";$("search").value="";render()});
     $("more").addEventListener("click",()=>{state.limit+=PAGE_SIZE;render()});
     wrap.addEventListener("click",e=>{const b=e.target.closest("[data-open]");if(b)openRecord(b.dataset.open)});
     function close(){if($("reader").open)$("reader").close();if(location.hash)history.replaceState(null,"",location.pathname+location.search)}
     $("readerClose").addEventListener("click",close);
     $("reader").addEventListener("click",e=>{if(e.target===$("reader"))close()});
-    $("reader").addEventListener("close",()=>{if(location.hash)history.replaceState(null,"",location.pathname+location.search)});
+    $("reader").addEventListener("close",()=>{if(!$("reader").open&&location.hash)history.replaceState(null,"",location.pathname+location.search)});
+    window.addEventListener("hashchange",()=>{if(location.hash){try{openRecord(decodeURIComponent(location.hash.slice(1)))}catch(_){}}else if($("reader").open)$("reader").close()});
     fetch("./catalog.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("목록 수신 실패");return r.json()}).then(data=>{
       if(!Array.isArray(data.entries))throw new Error("데이터 형식 오류");
       state.records=data.entries;$("totalCount").textContent=state.records.length.toLocaleString("ko-KR");

@@ -1,0 +1,667 @@
+[
+  {
+    "id": "series-2643c842a7442b51",
+    "game": "fo3",
+    "title": "Diary",
+    "members": [
+      "codex-17c3b8773096628e",
+      "codex-3d6ec37c115debfa",
+      "codex-53ad1562c27887f2",
+      "codex-fc6b33097efb4ba0"
+    ]
+  },
+  {
+    "id": "series-48f2f26b4def5a5b",
+    "game": "fo3",
+    "title": "Alien captive recorded log",
+    "members": [
+      "codex-430868be874daf87",
+      "codex-ea363245159f82f4",
+      "codex-837d2aade898b492",
+      "codex-3121bee9af02842d",
+      "codex-fe3982661fb379de",
+      "codex-852d767f9144216f",
+      "codex-f5015a80b14971eb",
+      "codex-f4937cb37a986dda",
+      "codex-e232d3f4e5ba0776",
+      "codex-6c5a624315aa72c9",
+      "codex-d237eafb3bff8c19",
+      "codex-fc5508b8aa467e86",
+      "codex-100cda50aac9309e",
+      "codex-fc58764a80071fd5",
+      "codex-f144da0278afbadf",
+      "codex-8bdf6f4ffb892392",
+      "codex-27891377e9fe2a36",
+      "codex-d1edbbef21235bb7",
+      "codex-e8ffc0c665dc69b6",
+      "codex-1635e09c50a6150c",
+      "codex-75e375f7e9f98da9",
+      "codex-600740eb61c8614c",
+      "codex-0653eeb801e466a1",
+      "codex-803d3ffbe1431776",
+      "codex-9b87de0fb59fb084"
+    ]
+  },
+  {
+    "id": "series-d7dc2a6843120ba5",
+    "game": "fo4",
+    "title": "Ladies auxiliary tape",
+    "members": [
+      "codex-d5728fe57c2387df",
+      "codex-d40c52b5e1f48d79",
+      "codex-7c03a3e0811e9df9"
+    ]
+  },
+  {
+    "id": "series-e96f717dc4405186",
+    "game": "fo3",
+    "title": "MS18NursesStationNote",
+    "members": [
+      "esm-fo3-fallout3-note-000cb591-body",
+      "esm-fo3-fallout3-note-000cb592-body",
+      "esm-fo3-fallout3-note-000cb593-body"
+    ]
+  },
+  {
+    "id": "series-9d3136331aaa3957",
+    "game": "fo3",
+    "title": "LDIsabellaNote",
+    "members": [
+      "esm-fo3-fallout3-note-000caadc-body",
+      "esm-fo3-fallout3-note-000caadd-body",
+      "esm-fo3-fallout3-note-000caade-body",
+      "esm-fo3-fallout3-note-000caadf-body",
+      "esm-fo3-fallout3-note-000caae0-body",
+      "esm-fo3-fallout3-note-000caae1-body",
+      "esm-fo3-fallout3-note-000caae2-body",
+      "esm-fo3-fallout3-note-000caae3-body"
+    ]
+  },
+  {
+    "id": "series-40ff7b1bbc84bea6",
+    "game": "fo3",
+    "title": "redRacerSurgeonsDiary",
+    "members": [
+      "esm-fo3-fallout3-note-000caa2e-body",
+      "esm-fo3-fallout3-note-000caa2f-body",
+      "esm-fo3-fallout3-note-000caa30-body"
+    ]
+  },
+  {
+    "id": "series-69b67634537d821b",
+    "game": "fo3",
+    "title": "MQ02ResearchTermNote",
+    "members": [
+      "esm-fo3-fallout3-note-0007d484-body",
+      "esm-fo3-fallout3-note-0007d485-body",
+      "esm-fo3-fallout3-note-0007d486-body",
+      "esm-fo3-fallout3-note-000c8594-body",
+      "esm-fo3-fallout3-note-000c8595-body"
+    ]
+  },
+  {
+    "id": "series-dc20e444e41d0861",
+    "game": "fo3",
+    "title": "Search Party Log",
+    "members": [
+      "esm-fo3-fallout3-note-00097f36-body",
+      "esm-fo3-fallout3-note-000c3a1a-body",
+      "esm-fo3-fallout3-note-000c3a1b-body",
+      "esm-fo3-fallout3-note-000c3a1c-body"
+    ]
+  },
+  {
+    "id": "series-1f34c81debd634cc",
+    "game": "fo3",
+    "title": "MaxsonDiary",
+    "members": [
+      "esm-fo3-fallout3-note-000b75e3-body",
+      "esm-fo3-fallout3-note-000b75e4-body",
+      "esm-fo3-fallout3-note-000b75e5-body",
+      "esm-fo3-fallout3-note-000b75e6-body",
+      "esm-fo3-fallout3-note-000b75e7-body",
+      "esm-fo3-fallout3-note-000b75e8-body",
+      "esm-fo3-fallout3-note-000b75e9-body",
+      "esm-fo3-fallout3-note-000b75ea-body",
+      "esm-fo3-fallout3-note-000b75eb-body",
+      "esm-fo3-fallout3-note-000b75ec-body",
+      "esm-fo3-fallout3-note-000b75ed-body"
+    ]
+  },
+  {
+    "id": "series-8a5c2bbc43e06b3d",
+    "game": "fo3",
+    "title": "FortIndDataNote",
+    "members": [
+      "esm-fo3-fallout3-note-000b2e52-body",
+      "esm-fo3-fallout3-note-000b2e53-body"
+    ]
+  },
+  {
+    "id": "series-eddfc3659b0b3d14",
+    "game": "fo3",
+    "title": "MQ08Vault87MedicalRecords",
+    "members": [
+      "esm-fo3-fallout3-note-000aa695-body",
+      "esm-fo3-fallout3-note-000aa696-body",
+      "esm-fo3-fallout3-note-000aa697-body"
+    ]
+  },
+  {
+    "id": "series-9e378bb4f9a0a1ec",
+    "game": "fo3",
+    "title": "MS17Vault92ZoesNote",
+    "members": [
+      "esm-fo3-fallout3-note-000a1224-body",
+      "esm-fo3-fallout3-note-000a1225-body",
+      "esm-fo3-fallout3-note-000a1226-body",
+      "esm-fo3-fallout3-note-000a1227-body"
+    ]
+  },
+  {
+    "id": "series-61e01b6b2191ab6a",
+    "game": "fo3",
+    "title": "MS17Vault92cSoundProducerDiary",
+    "members": [
+      "esm-fo3-fallout3-note-00091953-body",
+      "esm-fo3-fallout3-note-00091952-body",
+      "esm-fo3-fallout3-note-000a1222-body"
+    ]
+  },
+  {
+    "id": "series-00be0aa28e778bb0",
+    "game": "fo3",
+    "title": "MS17Vault92dEngineerLog",
+    "members": [
+      "esm-fo3-fallout3-note-0009194f-body",
+      "esm-fo3-fallout3-note-000a121e-body",
+      "esm-fo3-fallout3-note-000a121f-body",
+      "esm-fo3-fallout3-note-000a1220-body",
+      "esm-fo3-fallout3-note-000a1221-body"
+    ]
+  },
+  {
+    "id": "series-71920373a49fe113",
+    "game": "fo3",
+    "title": "MQ02MaintTermNote",
+    "members": [
+      "esm-fo3-fallout3-note-0007d479-body",
+      "esm-fo3-fallout3-note-0007d480-body",
+      "esm-fo3-fallout3-note-0007d481-body",
+      "esm-fo3-fallout3-note-0007d482-body"
+    ]
+  },
+  {
+    "id": "series-108d7d67f782ff55",
+    "game": "fo3",
+    "title": "DunwichBuildingNote",
+    "members": [
+      "esm-fo3-fallout3-note-000300b2-body",
+      "esm-fo3-fallout3-note-000300b3-body",
+      "esm-fo3-fallout3-note-000300b4-body",
+      "esm-fo3-fallout3-note-000300b6-body",
+      "esm-fo3-fallout3-note-000300b7-body",
+      "esm-fo3-fallout3-note-000300b8-body",
+      "esm-fo3-fallout3-note-000300bc-body",
+      "esm-fo3-fallout3-note-00035c33-body"
+    ]
+  },
+  {
+    "id": "series-3166891bd8e87d19",
+    "game": "fo3",
+    "title": "MQ06TerminalErrorNote",
+    "members": [
+      "esm-fo3-fallout3-note-0005d58d-body",
+      "esm-fo3-fallout3-note-0005d58e-body"
+    ]
+  },
+  {
+    "id": "series-dc2b19627fc00990",
+    "game": "fo3",
+    "title": "FFDCUrbanPlanningTerminal02Note",
+    "members": [
+      "esm-fo3-fallout3-note-000573a9-body",
+      "esm-fo3-fallout3-note-000573a5-body",
+      "esm-fo3-fallout3-note-000573a6-body",
+      "esm-fo3-fallout3-note-000573a7-body",
+      "esm-fo3-fallout3-note-000573a8-body"
+    ]
+  },
+  {
+    "id": "series-fb1924dade9affb3",
+    "game": "fo3",
+    "title": "DLC01SupplyPlantTerminalNote",
+    "members": [
+      "esm-fo3-thepitt-note-0100a846-body",
+      "esm-fo3-thepitt-note-0100a848-body",
+      "esm-fo3-thepitt-note-0100a847-body",
+      "esm-fo3-thepitt-note-0100a93d-body",
+      "esm-fo3-thepitt-note-0100a93e-body",
+      "esm-fo3-thepitt-note-0100a93f-body",
+      "esm-fo3-thepitt-note-0100a940-body",
+      "esm-fo3-thepitt-note-0100a941-body",
+      "esm-fo3-thepitt-note-0100a942-body"
+    ]
+  },
+  {
+    "id": "series-12d644c48ec72658",
+    "game": "fo3",
+    "title": "DLC01DowntownTerminal02Note",
+    "members": [
+      "esm-fo3-thepitt-note-01007d71-body",
+      "esm-fo3-thepitt-note-01007d72-body"
+    ]
+  },
+  {
+    "id": "series-08e3118e05e235d8",
+    "game": "fo3",
+    "title": "DLC01DowntownTerminal01Note",
+    "members": [
+      "esm-fo3-thepitt-note-01007d6a-body",
+      "esm-fo3-thepitt-note-01007d6b-body",
+      "esm-fo3-thepitt-note-01007d6c-body",
+      "esm-fo3-thepitt-note-01007d6d-body"
+    ]
+  },
+  {
+    "id": "series-19f4f40e0aca0a24",
+    "game": "fo3",
+    "title": "DLC03FireControlNote",
+    "members": [
+      "esm-fo3-brokensteel-note-01007392-body",
+      "esm-fo3-brokensteel-note-01007393-body"
+    ]
+  },
+  {
+    "id": "series-85488ae56e214fea",
+    "game": "fo3",
+    "title": "DLC03PresMetroMaintNote",
+    "members": [
+      "esm-fo3-brokensteel-note-0100b9b5-body",
+      "esm-fo3-brokensteel-note-0100b9b6-body",
+      "esm-fo3-brokensteel-note-0100b9b7-body",
+      "esm-fo3-brokensteel-note-0100b9b8-body",
+      "esm-fo3-brokensteel-note-0100b9b9-body"
+    ]
+  },
+  {
+    "id": "series-de41efc108662322",
+    "game": "fo3",
+    "title": "DLC04LabTerminalExperementNOTE",
+    "members": [
+      "esm-fo3-pointlookout-note-0100f31e-body",
+      "esm-fo3-pointlookout-note-0100f31f-body"
+    ]
+  },
+  {
+    "id": "series-9b679d3721911a14",
+    "game": "fo3",
+    "title": "DLC04LabTerminalArchiveNOTE",
+    "members": [
+      "esm-fo3-pointlookout-note-0100f31a-body",
+      "esm-fo3-pointlookout-note-0100f31b-body"
+    ]
+  },
+  {
+    "id": "series-57eab213f6136fc4",
+    "game": "fo3",
+    "title": "DLC04LabTerminalHistoryNOTE",
+    "members": [
+      "esm-fo3-pointlookout-note-0100f317-body",
+      "esm-fo3-pointlookout-note-0100f318-body",
+      "esm-fo3-pointlookout-note-0100f319-body"
+    ]
+  },
+  {
+    "id": "series-93c01380e5281582",
+    "game": "fo3",
+    "title": "DLC05UnderwoodNote",
+    "members": [
+      "esm-fo3-zeta-note-0100ab81-body",
+      "esm-fo3-zeta-note-0100ab82-body",
+      "esm-fo3-zeta-note-0100ab83-body",
+      "esm-fo3-zeta-note-0100ab84-body"
+    ]
+  },
+  {
+    "id": "series-6103779a7faa0bdc",
+    "game": "fnv",
+    "title": "HVRamosJournal",
+    "members": [
+      "esm-fnv-falloutnv-note-00166b6a-body",
+      "esm-fnv-falloutnv-note-00166b5b-body",
+      "esm-fnv-falloutnv-note-00166b5c-body",
+      "esm-fnv-falloutnv-note-00166b5d-body",
+      "esm-fnv-falloutnv-note-00166b5e-body"
+    ]
+  },
+  {
+    "id": "series-adfe445f9ccc5da0",
+    "game": "fnv",
+    "title": "VHDInventoryNote",
+    "members": [
+      "esm-fnv-falloutnv-note-00166b67-body",
+      "esm-fnv-falloutnv-note-00166b68-body",
+      "esm-fnv-falloutnv-note-00166b69-body"
+    ]
+  },
+  {
+    "id": "series-2cf3b248c5e4e84c",
+    "game": "fnv",
+    "title": "HVLorenzoJournal",
+    "members": [
+      "esm-fnv-falloutnv-note-00166b5f-body",
+      "esm-fnv-falloutnv-note-00166b60-body",
+      "esm-fnv-falloutnv-note-00166b64-body"
+    ]
+  },
+  {
+    "id": "series-09307370ed20cb76",
+    "game": "fnv",
+    "title": "HVSchulerNote",
+    "members": [
+      "esm-fnv-falloutnv-note-00166b61-body",
+      "esm-fnv-falloutnv-note-00166b62-body",
+      "esm-fnv-falloutnv-note-00166b63-body"
+    ]
+  },
+  {
+    "id": "series-e676a307a837572d",
+    "game": "fnv",
+    "title": "HVDatastoreElderNote",
+    "members": [
+      "esm-fnv-falloutnv-note-001633dc-body",
+      "esm-fnv-falloutnv-note-001633de-body",
+      "esm-fnv-falloutnv-note-001633db-body",
+      "esm-fnv-falloutnv-note-001633dd-body"
+    ]
+  },
+  {
+    "id": "series-540d5fe4afe7d147",
+    "game": "fnv",
+    "title": "Strip Letter",
+    "members": [
+      "esm-fnv-falloutnv-note-00162abd-body",
+      "esm-fnv-falloutnv-note-00162abe-body",
+      "esm-fnv-falloutnv-note-00162abf-body",
+      "esm-fnv-falloutnv-note-00162ac0-body",
+      "esm-fnv-falloutnv-note-00162ac1-body",
+      "esm-fnv-falloutnv-note-00162ac2-body",
+      "esm-fnv-falloutnv-note-00162b5c-body",
+      "esm-fnv-falloutnv-note-00162ac3-body",
+      "esm-fnv-falloutnv-note-00162ac4-body",
+      "esm-fnv-falloutnv-note-00162ac5-body",
+      "esm-fnv-falloutnv-note-00162ac6-body"
+    ]
+  },
+  {
+    "id": "series-de63f06b0a5c97ed",
+    "game": "fnv",
+    "title": "Forlorn Hope Letter",
+    "members": [
+      "esm-fnv-falloutnv-note-001629c4-body",
+      "esm-fnv-falloutnv-note-001629c5-body",
+      "esm-fnv-falloutnv-note-001629c6-body",
+      "esm-fnv-falloutnv-note-001629c7-body",
+      "esm-fnv-falloutnv-note-001629c8-body",
+      "esm-fnv-falloutnv-note-001629c9-body",
+      "esm-fnv-falloutnv-note-001629ca-body",
+      "esm-fnv-falloutnv-note-001629cb-body",
+      "esm-fnv-falloutnv-note-00162abc-body"
+    ]
+  },
+  {
+    "id": "series-720cd6a40382d035",
+    "game": "fnv",
+    "title": "Torn Diary Page",
+    "members": [
+      "esm-fnv-falloutnv-note-001544bd-body",
+      "esm-fnv-falloutnv-note-001544ba-body",
+      "esm-fnv-falloutnv-note-001544bb-body",
+      "esm-fnv-falloutnv-note-001544bc-body"
+    ]
+  },
+  {
+    "id": "series-e085782a253f675d",
+    "game": "fnv",
+    "title": "Communications Entry",
+    "members": [
+      "esm-fnv-falloutnv-note-0014cd2d-body",
+      "esm-fnv-falloutnv-note-0014cd2b-body",
+      "esm-fnv-falloutnv-note-0014cd2c-body"
+    ]
+  },
+  {
+    "id": "series-e67817e00512f3e3",
+    "game": "fnv",
+    "title": "Log Page",
+    "members": [
+      "esm-fnv-falloutnv-note-0014b29e-body",
+      "esm-fnv-falloutnv-note-0014c0fe-body",
+      "esm-fnv-falloutnv-note-0014b29d-body",
+      "esm-fnv-falloutnv-note-0014c102-body",
+      "esm-fnv-falloutnv-note-0014b299-body",
+      "esm-fnv-falloutnv-note-0014b29b-body",
+      "esm-fnv-falloutnv-note-0014c0ff-body",
+      "esm-fnv-falloutnv-note-0014c101-body",
+      "esm-fnv-falloutnv-note-0014b29a-body",
+      "esm-fnv-falloutnv-note-0014c100-body",
+      "esm-fnv-falloutnv-note-0014b29c-body"
+    ]
+  },
+  {
+    "id": "series-2790e46f44b9b9eb",
+    "game": "fnv",
+    "title": "V34 Overseer Log",
+    "members": [
+      "esm-fnv-falloutnv-note-00135f20-body",
+      "esm-fnv-falloutnv-note-00135f21-body"
+    ]
+  },
+  {
+    "id": "series-e171617d7fb42915",
+    "game": "fnv",
+    "title": "Keely note",
+    "members": [
+      "esm-fnv-falloutnv-note-000f82b3-body",
+      "esm-fnv-falloutnv-note-000f82b4-body",
+      "esm-fnv-falloutnv-note-000f82b8-body",
+      "esm-fnv-falloutnv-note-000f82bf-body",
+      "esm-fnv-falloutnv-note-000f82c5-body",
+      "esm-fnv-falloutnv-note-000f82ae-body",
+      "esm-fnv-falloutnv-note-000f82af-body",
+      "esm-fnv-falloutnv-note-000f82c0-body",
+      "esm-fnv-falloutnv-note-000f82c1-body"
+    ]
+  },
+  {
+    "id": "series-515f8b8a62d90760",
+    "game": "fnv",
+    "title": "Vault 22 Pest Control Note",
+    "members": [
+      "esm-fnv-falloutnv-note-000f82c2-body",
+      "esm-fnv-falloutnv-note-000f82c3-body",
+      "esm-fnv-falloutnv-note-000f82c4-body"
+    ]
+  },
+  {
+    "id": "series-187ff46bd6caaca9",
+    "game": "fnv",
+    "title": "Vault 22 Clinic Note",
+    "members": [
+      "esm-fnv-falloutnv-note-000f82b9-body",
+      "esm-fnv-falloutnv-note-000f82ba-body",
+      "esm-fnv-falloutnv-note-000f82bb-body",
+      "esm-fnv-falloutnv-note-000f82bc-body",
+      "esm-fnv-falloutnv-note-000f82bd-body",
+      "esm-fnv-falloutnv-note-000f82be-body"
+    ]
+  },
+  {
+    "id": "series-2e881157045ff6c9",
+    "game": "fnv",
+    "title": "Vault 22 Maintenance Note",
+    "members": [
+      "esm-fnv-falloutnv-note-000f82b6-body",
+      "esm-fnv-falloutnv-note-000f82b7-body"
+    ]
+  },
+  {
+    "id": "series-c9011eb29e2bd0bc",
+    "game": "fnv",
+    "title": "Vault 22 Additive Note",
+    "members": [
+      "esm-fnv-falloutnv-note-000f82b2-body",
+      "esm-fnv-falloutnv-note-000f82b5-body",
+      "esm-fnv-falloutnv-note-000f82ab-body"
+    ]
+  },
+  {
+    "id": "series-0acb8e3c31963dbc",
+    "game": "fnv",
+    "title": "Vault 22 Cave Door Terminal Note",
+    "members": [
+      "esm-fnv-falloutnv-note-000f82ad-body",
+      "esm-fnv-falloutnv-note-000f82b0-body",
+      "esm-fnv-falloutnv-note-000f82b1-body"
+    ]
+  },
+  {
+    "id": "series-261e3a449bcc3be1",
+    "game": "fnv",
+    "title": "HostetlerTerminalNote",
+    "members": [
+      "esm-fnv-falloutnv-note-000f80be-body",
+      "esm-fnv-falloutnv-note-000f80bc-body",
+      "esm-fnv-falloutnv-note-000f80bd-body"
+    ]
+  },
+  {
+    "id": "series-499d21c914ca084a",
+    "game": "fnv",
+    "title": "REPCONBasementTerminalNote",
+    "members": [
+      "esm-fnv-falloutnv-note-000cd21c-body",
+      "esm-fnv-falloutnv-note-000cd221-body"
+    ]
+  },
+  {
+    "id": "series-33800af0bf5c3505",
+    "game": "fnv",
+    "title": "LDIsabellaNote",
+    "members": [
+      "esm-fnv-falloutnv-note-000caadc-body",
+      "esm-fnv-falloutnv-note-000caadd-body",
+      "esm-fnv-falloutnv-note-000caade-body",
+      "esm-fnv-falloutnv-note-000caadf-body",
+      "esm-fnv-falloutnv-note-000caae0-body",
+      "esm-fnv-falloutnv-note-000caae1-body",
+      "esm-fnv-falloutnv-note-000caae2-body",
+      "esm-fnv-falloutnv-note-000caae3-body"
+    ]
+  },
+  {
+    "id": "series-b917cb8dd7fa7d0e",
+    "game": "fnv",
+    "title": "redRacerSurgeonsDiary",
+    "members": [
+      "esm-fnv-falloutnv-note-000caa2e-body",
+      "esm-fnv-falloutnv-note-000caa2f-body",
+      "esm-fnv-falloutnv-note-000caa30-body"
+    ]
+  },
+  {
+    "id": "series-d6f3c6f04ded050b",
+    "game": "fnv",
+    "title": "Search Party Log",
+    "members": [
+      "esm-fnv-falloutnv-note-00097f36-body",
+      "esm-fnv-falloutnv-note-000c3a1a-body",
+      "esm-fnv-falloutnv-note-000c3a1b-body",
+      "esm-fnv-falloutnv-note-000c3a1c-body"
+    ]
+  },
+  {
+    "id": "series-ebc84927f4d5f0b3",
+    "game": "fnv",
+    "title": "MaxsonDiary",
+    "members": [
+      "esm-fnv-falloutnv-note-000b75e3-body",
+      "esm-fnv-falloutnv-note-000b75e4-body",
+      "esm-fnv-falloutnv-note-000b75e5-body",
+      "esm-fnv-falloutnv-note-000b75e6-body",
+      "esm-fnv-falloutnv-note-000b75e7-body",
+      "esm-fnv-falloutnv-note-000b75e8-body",
+      "esm-fnv-falloutnv-note-000b75e9-body",
+      "esm-fnv-falloutnv-note-000b75ea-body",
+      "esm-fnv-falloutnv-note-000b75eb-body",
+      "esm-fnv-falloutnv-note-000b75ec-body",
+      "esm-fnv-falloutnv-note-000b75ed-body"
+    ]
+  },
+  {
+    "id": "series-c6590654a5a5fab1",
+    "game": "fnv",
+    "title": "FortIndDataNote",
+    "members": [
+      "esm-fnv-falloutnv-note-000b2e52-body",
+      "esm-fnv-falloutnv-note-000b2e53-body"
+    ]
+  },
+  {
+    "id": "series-db3ff79b6bb2bd01",
+    "game": "fnv",
+    "title": "DunwichBuildingNote",
+    "members": [
+      "esm-fnv-falloutnv-note-000300b2-body",
+      "esm-fnv-falloutnv-note-000300b3-body",
+      "esm-fnv-falloutnv-note-000300b4-body",
+      "esm-fnv-falloutnv-note-000300b6-body",
+      "esm-fnv-falloutnv-note-000300b7-body",
+      "esm-fnv-falloutnv-note-000300b8-body",
+      "esm-fnv-falloutnv-note-000300bc-body",
+      "esm-fnv-falloutnv-note-00035c33-body"
+    ]
+  },
+  {
+    "id": "series-d033946ba7640c7d",
+    "game": "fnv",
+    "title": "FFDCUrbanPlanningTerminal02Note",
+    "members": [
+      "esm-fnv-falloutnv-note-000573a9-body",
+      "esm-fnv-falloutnv-note-000573a5-body",
+      "esm-fnv-falloutnv-note-000573a6-body",
+      "esm-fnv-falloutnv-note-000573a7-body",
+      "esm-fnv-falloutnv-note-000573a8-body"
+    ]
+  },
+  {
+    "id": "series-fb1c7e88c79acd62",
+    "game": "fnv",
+    "title": "Journal Entry - Day",
+    "members": [
+      "esm-fnv-oldworldblues-note-01014e4f-body",
+      "esm-fnv-oldworldblues-note-01014e50-body",
+      "esm-fnv-oldworldblues-note-01014e51-body"
+    ]
+  },
+  {
+    "id": "series-cb86c152e1a1eb8c",
+    "game": "fnv",
+    "title": "Little Yangtze Log",
+    "members": [
+      "esm-fnv-oldworldblues-note-0101604e-body",
+      "esm-fnv-oldworldblues-note-0101604f-body",
+      "esm-fnv-oldworldblues-note-01016050-body"
+    ]
+  },
+  {
+    "id": "series-f03e5a867f943d80",
+    "game": "fnv",
+    "title": "NVDLC03X42PowerNote",
+    "members": [
+      "esm-fnv-oldworldblues-note-010141fe-body",
+      "esm-fnv-oldworldblues-note-0100f449-body"
+    ]
+  }
+]
