@@ -22,6 +22,15 @@ source	translation	scope	status	note
 
 게임별 공식 번역이나 기존 프로젝트의 표기가 충돌할 수 있으므로 `scope`와 `note`를 함께 기록합니다.
 
+## 통합 검색과 충돌 보고서
+
+`dictionaries/analysis/README.md`에 게임별 사전·본편 번역
+**2,437,378개 레코드를 로컬 SQLite로 통합하여 빠르게 조회**하는
+방법, 확인된 영어 SHA 기반 중복과 충돌 범위, 수동 검토 정책을
+정리했습니다. 실행 도구는 `tools/translation_memory.py`,
+`tools/export_conflict_review.py`입니다. 모로윈드는
+**KR9만** 읽으며 과거 KR6 자료는 사용하지 않습니다.
+
 ## xTranslator 사전 데이터 조사 (2026-10-28)
 
 **업데이트:** SST 2,018개에서 확인한 한국어 번역 메모리

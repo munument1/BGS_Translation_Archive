@@ -1,0 +1,50 @@
+{
+  "baseline": "Morrowind KR9 only",
+  "datasets": {
+    "fallout4/base": 164201,
+    "fallout4/mcm": 10893,
+    "fallout4/sst": 1268739,
+    "falloutnewvegas/sst": 431692,
+    "morrowind/kr9": 53896,
+    "oblivion/oblivion": 51144,
+    "starfield/base": 182448,
+    "starfield/sst": 274365
+  },
+  "distinct_known_english_hashes": 1114263,
+  "english_hashes_with_multiple_korean_variants": 48773,
+  "games": {
+    "fallout4": {
+      "english_hash_rows": 1279632,
+      "rows": 1443833
+    },
+    "falloutnewvegas": {
+      "english_hash_rows": 431692,
+      "rows": 431692
+    },
+    "morrowind": {
+      "english_hash_rows": 0,
+      "rows": 53896
+    },
+    "oblivion": {
+      "english_hash_rows": 51144,
+      "rows": 51144
+    },
+    "starfield": {
+      "english_hash_rows": 274365,
+      "rows": 456813
+    }
+  },
+  "identity_only_or_localized_hash_rows": 400545,
+  "indexed_total_rows": 2437378,
+  "limits": [
+    "English source text is absent from archive; exact SHA matching only where source_hash was recorded from actual English.",
+    "Morrowind KR9 hashes are localized Korean bytes, NOT English original hashes.",
+    "Fallout4/Starfield base string IDs are not portable FormIDs and have no known English source SHA.",
+    "Distinct Korean translations of same English can be valid in different contexts; they are flagged, never overwritten.",
+    "Cross-game reuse is an editorial suggestion, not a proven in-game replacement."
+  ],
+  "repeated_same_game_english_sha_plus_identical_ko_rows": 837310,
+  "schema": "bethesda_translation_memory_report_v1",
+  "source_english_hash_rows": 2036833,
+  "status": "not editorially validated"
+}
