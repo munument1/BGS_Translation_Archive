@@ -1,0 +1,36 @@
+{
+  "records": 4281,
+  "unresolved_translation_links": 0,
+  "editorial_completions": [
+    "codex-25a3c6fde71f19a9",
+    "codex-4036ace64ec72d9d",
+    "codex-ed56f26164776bf9",
+    "codex-e55f328694ecc0e6"
+  ],
+  "non_reading_entries_excluded": {
+    "codex-963d22743296be2f": "item_description_only; no readable economic-data text",
+    "codex-f7c5dd6276e9744b": "item_description_only; no readable reactor-data text",
+    "codex-63bd7b027aec40d2": "music playback; EPUB supplies a fan transcription of lyrics rather than a localized game text record"
+  },
+  "method": "Existing game translations restored by source records and voice-topic linkage; no machine-generated substitute for FO3/FNV/FO4 base-game/DLC translations",
+  "merged_description_aliases": {
+    "codex-3d8d3956f77c9e68": "inventory-description duplicate; reading body is Hubologist teachings"
+  },
+  "original_target_records": 570,
+  "resolved_target_records": 567,
+  "existing_translation_targets": 563,
+  "excluded_non_reading_targets": 3,
+  "categories": {
+    "holotape": 256,
+    "document": 1952,
+    "terminal": 2073
+  },
+  "game_records": {
+    "fo1": 17,
+    "fo2": 20,
+    "fot": 3,
+    "fo3": 1081,
+    "fnv": 1608,
+    "fo4": 1552
+  }
+}

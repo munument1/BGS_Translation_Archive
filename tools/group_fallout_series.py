@@ -14,7 +14,7 @@ NUMBER=re.compile(r'^(.*?)[\s_]*(?:#|No\.?\s*)?(\d{1,3})(?:\s*(?:of|/)\s*\d+)?[)
 WORDS=re.compile(r'tape|disk|disc|transcript|record|log|journal|diary|entry|entries|test|experiment|interview|message|letter|report|note|logbook|audio|speech',re.I)
 
 def flatten_series(entries):
-    return [s for r in entries for s in r.get('series_entries',[r])]
+    return [s for r in entries for s in ([r] if r.get('canonical_record_links') else r.get('series_entries',[r]))]
 
 def candidate(r):
     if r.get('type') not in ('holotape','holodisk','holodisk_note','note','document'):

@@ -1,15 +1,15 @@
 {
-  "removed_no_body": 1402,
-  "merged_duplicate_documents": 354,
-  "records": 4388,
+  "records": 4281,
   "categories": {
-    "holotape": 243,
-    "document": 2072,
+    "holotape": 256,
+    "document": 1952,
     "terminal": 2073
   },
-  "korean_records": 4230,
-  "english_only": 158,
-  "epub_fully_translated": 513,
-  "epub_partly_translated": 412,
-  "holotapes_with_korean": 200
+  "korean_records": 4281,
+  "english_only": 0,
+  "epub_fully_translated": 1079,
+  "epub_partly_translated": 0,
+  "holotapes_with_korean": 256,
+  "audit": "completion-audit-report.json",
+  "scope": "Current published readable records, not a census of all game records"
 }

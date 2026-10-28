@@ -67,7 +67,7 @@
       </section>
       <div class="section-kicker"><span>01 / THE ARCHIVE</span><span>RECORD INDEX · 2077—</span></div>
       <section id="records" aria-labelledby="recordTitle">
-        <div class="filter-head"><div><h2 id="recordTitle">황무지의 문서함</h2><p>터미널, 홀로테이프·홀로디스크, 메모·문서를 검색하고 읽어보세요. 한국어 번역을 기본으로 표시하며, 일부 번역과 영어 원문도 따로 선택할 수 있습니다.</p></div></div>
+        <div class="filter-head"><div><h2 id="recordTitle">황무지의 문서함</h2><p>터미널, 홀로테이프·홀로디스크, 메모·문서를 검색하고 읽어보세요. 기존 게임 번역과 레코드를 연결해 한국어 본문을 제공합니다.</p></div></div>
         <div class="gamebar" id="games" aria-label="작품 필터"></div>
         <div class="toolbar">
           <input id="search" class="search" type="search" placeholder="제목·본문·FormID 검색…" aria-label="자료 검색">
@@ -76,7 +76,7 @@
           </select>
           <button id="reset" class="clear" type="button">필터 초기화</button>
         </div>
-        <p><label for="language">번역 상태 </label><select id="language" class="type-select" style="width:auto"><option value="ko">한국어 번역</option><option value="complete">한국어 완역</option><option value="partial">일부 번역</option><option value="en">영어 원문만</option><option value="all">모든 언어</option></select></p>
+        <p style="color:var(--sub);font-size:13px">수록된 기록은 모두 한국어로 읽을 수 있습니다. 영문 참조가 있는 자료는 읽기 화면에서 함께 확인할 수 있습니다.</p>
         <div class="result-line"><span id="resultCount" role="status">목록을 불러오는 중…</span><span>TERMINALS / HOLOTAPES / DOCUMENTS</span></div>
         <div id="cards" class="grid"></div>
         <button id="more" class="clear" type="button" hidden style="width:100%;margin-top:18px">더 많은 기록 보기 ↓</button>
@@ -84,7 +84,7 @@
       </section>
       <section class="info" aria-labelledby="aboutTitle">
         <h2 id="aboutTitle">기록 보존 원칙</h2>
-        <p>게임 문서와 EPUB 녹취를 기존 한글 번역에 대조한 비공식 팬 서고입니다. 한국어 번역과 일부 번역, 영어 원문을 구분하며 일부 번역에는 아직 연결되지 않은 원문 구간을 표시합니다. 각 기록의 번역 출처를 확인할 수 있습니다. 번역 연결은 새 문장 검수나 게임 내 사용 여부 확인을 뜻하지 않으며, 원문과 번역의 권리는 각 권리자에게 있습니다.</p>
+        <p>게임 문서와 EPUB 녹취를 기존 한글 번역에 대조한 비공식 팬 서고입니다. 기존 게임 번역을 본문으로 사용하며, EPUB 영문은 참조 자료로 유지합니다. 각 기록의 번역 출처를 확인할 수 있습니다. 번역 연결은 새 문장 검수나 게임 내 사용 여부 확인을 뜻하지 않으며, 원문과 번역의 권리는 각 권리자에게 있습니다.</p>
       </section>
     </main>
     <footer><p>WASTELAND ARCHIVE · 비공식 폴아웃 한국어 기록 보관소</p><p><a href="../index.html">탐리엘의 서고</a> · <a href="https://fallout.fandom.com/wiki/Source_text" target="_blank" rel="noopener noreferrer">원문 색인: Fallout Wiki ↗</a></p></footer>
@@ -106,7 +106,7 @@
     const games=[["all","전체 작품","ALL"],["fo1","폴아웃 1","1997"],["fo2","폴아웃 2","1998"],["fo3","폴아웃 3","2008"],["fnv","뉴 베가스","2010"],["fo4","폴아웃 4","2015"],["fo76","폴아웃 76","2018"],["fot","폴아웃 택틱스","2001"]];
     const types={terminal:"터미널",holotape:"홀로테이프·홀로디스크",document:"메모·문서"};
     const PAGE_SIZE=60;
-    const state={game:"all",type:"all",search:"",language:"ko",records:[],limit:PAGE_SIZE};
+    const state={game:"all",type:"all",search:"",records:[],limit:PAGE_SIZE};
     const $=id=>document.getElementById(id);
     const esc=v=>String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
     const gameName=id=>(games.find(g=>g[0]===id)||[])[1]||id;
@@ -115,7 +115,7 @@
     function render(){
       document.querySelectorAll("[data-game]").forEach(b=>{b.setAttribute("aria-pressed",String(b.dataset.game===state.game));b.hidden=b.dataset.game!=="all"&&!state.records.some(r=>r.game===b.dataset.game)});
       const q=state.search.trim().toLocaleLowerCase();
-      const matches=state.records.filter(r=>(state.game==="all"||r.game===state.game)&&(state.language==="all"||state.language==="ko"&&r.body_ko?.trim()||state.language==="complete"&&r.body_ko?.trim()&&r.status!=="partial_translation"||state.language==="partial"&&r.status==="partial_translation"||state.language==="en"&&!r.body_ko?.trim()&&r.body_en?.trim())&&(state.type==="all"||r.type===state.type)&&[r.title_ko,r.title_en,r.body_ko,r.body_en,r.description,r.source_member,r.editor_id,r.form_id,...(r.series_entries||r.terminal_sections||[]).flatMap(x=>[x.title_en,x.title_ko,x.editor_id,x.form_id]),gameName(r.game),types[r.type]].some(s=>String(s||"").toLocaleLowerCase().includes(q)));
+      const matches=state.records.filter(r=>(state.game==="all"||r.game===state.game)&&(state.type==="all"||r.type===state.type)&&[r.title_ko,r.title_en,r.body_ko,r.body_en,r.description,r.source_member,r.editor_id,r.form_id,...(r.reference_series_members||r.series_entries||r.terminal_sections||[]).flatMap(x=>[x.title_en,x.title_ko,x.editor_id,x.form_id]),gameName(r.game),types[r.type]].some(s=>String(s||"").toLocaleLowerCase().includes(q)));
       $("resultCount").innerHTML='<strong>'+matches.length+'</strong>개 일치 / 총 '+state.records.length+'개 (표시 '+Math.min(matches.length,state.limit)+'개)';
       $("empty").hidden=matches.length>0;
       $("more").hidden=matches.length<=state.limit;
@@ -133,6 +133,7 @@
       const r=state.records.find(x=>x.id===id||x.aliases?.includes(id));if(!r)return; currentRecord=r;
       $("readerKicker").textContent=gameName(r.game)+" / "+(types[r.type]||r.type);
       $("readerTitle").textContent=r.title_ko||r.title_en;$("readerEn").textContent=r.title_en;
+      $("readerLanguage").options[1].textContent="EPUB 영문 참조";
       $("readerLanguage").value=r.body_ko?.trim()?"ko":"en";
       $("readerLanguage").options[0].disabled=!r.body_ko?.trim();
       $("readerLanguage").options[1].disabled=!r.body_en?.trim();
@@ -141,12 +142,20 @@
       const link=$("readerSource");const safeUrl=/^https:\/\//.test(r.source_url||"")?r.source_url:null;link.hidden=!safeUrl;if(safeUrl)link.href=safeUrl;link.textContent=/\.epub(?:$|[?#])/i.test(safeUrl||"")?"원본 EPUB 다운로드 ↗":r.level==="collection"?"원문 자료 목록 열기 ↗":"원문 출처 열기 ↗";
       if(r.translation_coverage){
         const cv=r.translation_coverage;
-        $("readerMeta").innerHTML+='<div><dt>번역 상태</dt><dd>'+(cv.complete?'본문 전체 번역 연결':'일부 번역 · 원문 단어 기준 '+Math.round(100*cv.matched_words/Math.max(1,cv.total_words))+'%')+'</dd></div>';
+        $("readerMeta").innerHTML+='<div><dt>번역 상태</dt><dd>'+(r.editorial_translation?'서고 번역 수록':r.body_version==='existing_game_translation'?'기존 게임 번역 본문 연결':'한국어 본문 수록')+'</dd></div>';
         const dictionaries=[...new Set((r.translation_sources||[]).map(x=>x.dictionary))];
-        $("readerMeta").innerHTML+='<div><dt>번역 출처</dt><dd>'+esc(dictionaries.join(', '))+'</dd></div>';
+        if(dictionaries.length)$("readerMeta").innerHTML+='<div><dt>번역 출처</dt><dd>'+esc(dictionaries.join(', '))+'</dd></div>';
       }
-      if(r.series_entries){
-        $("readerMeta").innerHTML+='<div><dt>연속 기록</dt><dd>'+r.series_entries.length+'편 · 본문에 각 편의 제목과 순서 표시</dd></div>';
+      if(r.body_version==='existing_game_translation'){
+        $("readerMeta").innerHTML+='<div><dt>본문 기준</dt><dd>기존 게임 번역 · EPUB 영문은 참조 자료</dd></div>';
+      }
+      if(r.classic_translation_source){
+        const t=r.classic_translation_source;$("readerMeta").innerHTML+='<div><dt>번역 출처</dt><dd>'+esc(t.project+' / '+t.file)+'</dd></div>';
+      }
+      if(r.editorial_translation){$("readerMeta").innerHTML+='<div><dt>번역 출처</dt><dd>서고 별도 번역 · 독립 검수 전</dd></div>';}
+      if(r.content_scope==='creation_club'){$("readerMeta").innerHTML+='<div><dt>수록 콘텐츠</dt><dd>Creation Club — Horse Power Armor</dd></div>';}
+      if(r.series_entries||r.reference_series_members){
+        $("readerMeta").innerHTML+='<div><dt>연속 기록</dt><dd>'+(r.series_member_count||r.series_entries?.length)+'편 · 본문에 각 편의 제목과 순서 표시</dd></div>';
       }
       if(r.terminal_sections){
         const sources=[...new Set(r.terminal_sections.map(s=>s.translation_source?.dictionary).filter(Boolean))];
@@ -155,10 +164,9 @@
       if(r.translation_source){const t=r.translation_source;$("readerMeta").innerHTML+='<div><dt>번역 출처</dt><dd>'+esc(t.dictionary)+'</dd></div><div><dt>번역 필드</dt><dd>'+esc(t.field+" / "+t.sub_index)+'</dd></div><div><dt>검수 상태</dt><dd>기존 번역 · 아카이브 검수 전</dd></div>';} if(!$("reader").open)$("reader").showModal();$("readerBody").parentElement.scrollTop=0;history.replaceState(null,"",location.pathname+location.search+"#"+encodeURIComponent(id));
     }
     $("games").addEventListener("click",e=>{const b=e.target.closest("[data-game]");if(!b)return;state.game=b.dataset.game;state.limit=PAGE_SIZE;render()});
-    $("language").addEventListener("change",e=>{state.language=e.target.value;state.limit=PAGE_SIZE;render()});
     $("type").addEventListener("change",e=>{state.type=e.target.value;state.limit=PAGE_SIZE;render()});
     $("search").addEventListener("input",e=>{state.search=e.target.value;state.limit=PAGE_SIZE;render()});
-    $("reset").addEventListener("click",()=>{state.game="all";state.type="all";state.search="";state.language="ko";$("language").value="ko";state.limit=PAGE_SIZE;$("type").value="all";$("search").value="";render()});
+    $("reset").addEventListener("click",()=>{state.game="all";state.type="all";state.search="";state.limit=PAGE_SIZE;$("type").value="all";$("search").value="";render()});
     $("more").addEventListener("click",()=>{state.limit+=PAGE_SIZE;render()});
     wrap.addEventListener("click",e=>{const b=e.target.closest("[data-open]");if(b)openRecord(b.dataset.open)});
     function close(){if($("reader").open)$("reader").close();if(location.hash)history.replaceState(null,"",location.pathname+location.search)}

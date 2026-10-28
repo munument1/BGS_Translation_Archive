@@ -36,6 +36,8 @@ def main(root,source=None):
         # FO3 translations also exist in TTW dictionaries; require identical prose.
         files=[folder/(p.lower()+'_en_ko.sst') for p in plugins]
         if game=='fo3':files.append(folder/'falloutnv_en_ko.sst')
+        if game in ('fo3','fnv'):
+            files.extend(folder/name for name in ('fallout nv kr_en_ko.sst','taleoftwowastelands_en_ko.sst'))
         for file in files:
             if not file.exists():continue
             parsed=parse_sst(file,max_file_bytes=96*1024*1024)
@@ -102,6 +104,8 @@ def main(root,source=None):
                 ko,src=override_rows[r['id']]
                 n=len(words(r['body_en']))
                 r.update(body_ko=ko,translation_sources=[src],status='linked_translation',type='document',translation_coverage=dict(matched_words=n,total_words=n,complete=True,method='explicit_hash_checked_alignment; '+overrides[r['id']]['alignment_check']))
+                r['body_version']=overrides[r['id']].get('body_version','existing_game_translation')
+                if re.search(r'holo(?:tape|disk|message)|audio',r.get('title_en',''),re.I):r['type']='holotape'
                 stats['linked_documents']+=1;stats['complete']+=1
                 continue
             # A NOTE/BOOK can contain its own date headings. Match the whole

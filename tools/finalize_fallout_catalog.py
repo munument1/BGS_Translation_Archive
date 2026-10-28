@@ -16,7 +16,7 @@ def main():
     for r in c['entries']:
         if not (r.get('body_ko','') or r.get('body_en','')):
             removed.append(r);continue
-        if r.get('series_entries') and any(s.get('translation_coverage') for s in r['series_entries']):
+        if not r.get('canonical_record_links') and r.get('series_entries') and any(s.get('translation_coverage') for s in r['series_entries']):
             children=r['series_entries']
             total=sum(s.get('translation_coverage',{}).get('total_words',len(re.findall(r'[a-z0-9]+',s.get('body_en',''),re.I))) for s in children)
             matched=sum(s.get('translation_coverage',{}).get('matched_words',0) for s in children)
@@ -34,7 +34,7 @@ def main():
                     r.setdefault('editorial_supplements',[]).append(dict(source_sha256=hashlib.sha256(en.encode()).hexdigest(),ko_sha256=hashlib.sha256(ko.encode()).hexdigest(),basis='EPUB wording supplement; archive translation, not in-game reviewed'))
             if r.get('translation_coverage') and '[미번역 원문]' not in r.get('body_ko',''):
                 r['translation_coverage']['complete']=True
-                r['translation_coverage']['matched_words']=r['translation_coverage']['total_words']
+                if 'total_words' in r['translation_coverage']:r['translation_coverage']['matched_words']=r['translation_coverage']['total_words']
                 r['status']='linked_translation'
         # Keep a single category; historical holodisk/holotape names are synonyms.
         previous=r['type'];r.setdefault('original_type',previous)
@@ -49,7 +49,7 @@ def main():
     for r in kept:
         if r.get('source_member') and r.get('translation_coverage',{}).get('complete'):
             sources=r.get('translation_sources',[])
-            if len(sources)==1 and sources[0]['record'] in ('NOTE','BOOK'):
+            if len(sources)==1 and sources[0].get('record') in ('NOTE','BOOK') and sources[0].get('source_hash'):
                 hashes[r['game'],sources[0]['source_hash']]=r
     output=[];merged=0
     for r in kept:

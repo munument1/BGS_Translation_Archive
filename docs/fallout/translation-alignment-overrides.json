@@ -5,5 +5,1671 @@
     "source_sha256": "09d270fcf6877ce0de8ac7c13509a295cdb59d03d54c1b260ec804f50585cb6c",
     "epub_sha256": "676ff094aa85212d2b09ec9fa191efec56888744e5c378c7a9ef5be402b2f018",
     "alignment_check": "Manually compared all token differences: dropped and; duplicated the; reordered now/know; as/was typo; even/ever typo. Same journal, dates and content. Existing Korean game translation retained."
+  },
+  "codex-925d2358e0705bfc": {
+    "dictionary": "taleoftwowastelands_en_ko.sst",
+    "record_index": 8539,
+    "source_sha256": "5c4b996816dcb5be884d3ca9afd6bece61fd5eec38f7ff63cbb2211aaaff4a56",
+    "epub_sha256": "7def8491bdf7e7fb492b4872cfed8a1896d4f5498e3d191f6fea40814879cfdc",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [],
+    "body_version": "existing_game_translation"
+  },
+  "codex-56dd4fda9aa5c8ae": {
+    "dictionary": "fallout3_en_ko.sst",
+    "record_index": 4971,
+    "source_sha256": "c2a0b181774d1ad423b1795702b4d71de6ee8a5c7a28d5f2211837ea112272e8",
+    "epub_sha256": "3c4956b482995ee8fd760803e2e8445b995bb17abd5a021faffdfb90d1495621",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "caravan",
+          "merchants"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-16f960b7bcc44ee5": {
+    "dictionary": "fallout3_en_ko.sst",
+    "record_index": 5325,
+    "source_sha256": "f061708d01d3f49bb7c5bfedd8e4f5e589deb9d1ff9c83c777a6de360ec47283",
+    "epub_sha256": "112f735efa47d797bbb25768ffa37173ae616e32332eab6ac67b458381f74224",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "are"
+        ],
+        "game": [
+          "re"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-1bec969a063c6106": {
+    "dictionary": "taleoftwowastelands_en_ko.sst",
+    "record_index": 8248,
+    "source_sha256": "f4b61e9550cc01aca4eb1300f5ae920037f687670917121bcd590d1fcf237e0d",
+    "epub_sha256": "0bff5a29ba2aeed37e4e9bd747fae97d009345d8b9f28a2ee782112b9699116a",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "previous"
+        ],
+        "game": [
+          "prev1ous"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "prelexistin"
+        ],
+        "game": [
+          "pre",
+          "existin"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "change"
+        ],
+        "game": [
+          "ch4nge"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "ters0n"
+        ],
+        "game": [
+          "terson"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-80854d8885d9d74a": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 14049,
+    "source_sha256": "3367be4f2c0e05c8449ee1bd383e35fce69c495f5c243a555d761cb77e7c90d9",
+    "epub_sha256": "51e9a591fb32587cb725cb8ec51eb6196d194b2b062c885d1344315cf0d886ef",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "character",
+          "name"
+        ],
+        "game": [
+          "pcname"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-f4c50c3ec195d553": {
+    "dictionary": "taleoftwowastelands_en_ko.sst",
+    "record_index": 8770,
+    "source_sha256": "17cbbe0f4ec3194b29a4ff3e43986cf362bcc9ccd342de0e0aed12726877d20e",
+    "epub_sha256": "8ceace6f75082d5da281e5701b1a247e3056296f2dbd70abb412cecfca7630f1",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "ahzhrukalsic"
+        ],
+        "game": [
+          "ahzhrukal"
+        ]
+      },
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "pcname"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "as"
+        ],
+        "game": [
+          "at"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-924b6628bf461daf": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 14203,
+    "source_sha256": "3ab953de4f27fccd46713ee44e0b41cdc0b8c533acefdc1cde96a5ef5b8de3c8",
+    "epub_sha256": "5a1e32ed6f1bd5c0ce2ee125640f82c2b9a39e176066da0cd253642e426af897",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "i"
+        ],
+        "game": [
+          "in"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "antsy"
+        ],
+        "game": [
+          "ansty"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-ddac033866329c75": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 14065,
+    "source_sha256": "79828c7238c69d49edbda3dda317dfdf732310965e726cc74059c6304cce172c",
+    "epub_sha256": "7d1f1ace773e75bd37b1c41d910867fe60e3bb53368ad9a9fd8067952241df05",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "i",
+          "m"
+        ],
+        "game": [
+          "im"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "can",
+          "t"
+        ],
+        "game": [
+          "cant"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-247f9f43493f2021": {
+    "dictionary": "fallout3_en_ko.sst",
+    "record_index": 5333,
+    "source_sha256": "0ad9bd5ac6d2239a83b374b60357cd50a5ad099b90c5725e1e58e51381927ab5",
+    "epub_sha256": "6eb2a2de3d1e107fc6a9acaef81ee1a82e45d5097c99b1b77eb245d3da607f1a",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "feel"
+        ],
+        "game": [
+          "free"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-17b233d4cacab2c4": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 14047,
+    "source_sha256": "cb7992426730ff3b39b5859aae838123d074a33748d4ef1cbd428f382b03e908",
+    "epub_sha256": "cb7992426730ff3b39b5859aae838123d074a33748d4ef1cbd428f382b03e908",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [],
+    "body_version": "existing_game_translation"
+  },
+  "codex-2ce30e91bf89d2a8": {
+    "dictionary": "taleoftwowastelands_en_ko.sst",
+    "record_index": 8717,
+    "source_sha256": "3507d16702f79cd76ba67dd18e4f21c42d4144a517a558a2b3dd81762a0650af",
+    "epub_sha256": "565faf358a216179cc305cdf3f82a3b6296540e34d97fb2c68adabf676cdfeea",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "can",
+          "t"
+        ],
+        "game": [
+          "cant"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "it",
+          "s"
+        ],
+        "game": [
+          "its"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "can",
+          "t"
+        ],
+        "game": [
+          "cant"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "won",
+          "t"
+        ],
+        "game": [
+          "wont"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-d10ede4ed82325fd": {
+    "dictionary": "fallout3_en_ko.sst",
+    "record_index": 5327,
+    "source_sha256": "288ab075c6361095e7ee5554bdbf94c06bc69707695f2e341b020b14e677179c",
+    "epub_sha256": "18e6f3d33c8eec43451fdeb7d3f87f38db2cd86480699a581a3db45e3483d4d0",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "delete",
+        "epub": [
+          "up"
+        ],
+        "game": []
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-ad370a5f830d3c02": {
+    "dictionary": "taleoftwowastelands_en_ko.sst",
+    "record_index": 8385,
+    "source_sha256": "05f0365e8d35603e0262665c9c1c5c6bf412fcd5a005a07e23dc57397805003e",
+    "epub_sha256": "4d9ee2099db4c8c0c03e825416b9362939ff58a70329fce1440751834c2b349d",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [],
+    "body_version": "existing_game_translation"
+  },
+  "codex-2fb1e2fed2a8bbe9": {
+    "dictionary": "fallout3_en_ko.sst",
+    "record_index": 5107,
+    "source_sha256": "721ab3413e2970833a056e159945d28dd100aaee0f09b34cfa5a5196a9ba7978",
+    "epub_sha256": "bb0ed79857f0d715b52757a73b5f117c8b643e7f5fbbec5f788c2c00c2ff0fad",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "it"
+        ],
+        "game": [
+          "this"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-3bd16809b0913d31": {
+    "dictionary": "taleoftwowastelands_en_ko.sst",
+    "record_index": 8232,
+    "source_sha256": "a8bcc8327b0b592e2ffdc4572fcf92c45e1c528fe0b6ba3f6f9492208a29e18a",
+    "epub_sha256": "018adcb9181d4128d92cdc410fa45aeb52954124069df40768687f6467019dc2",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "delete",
+        "epub": [
+          "this",
+          "was",
+          "cut",
+          "from",
+          "the",
+          "original",
+          "game"
+        ],
+        "game": []
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-23c8ccbfb171336b": {
+    "dictionary": "taleoftwowastelands_en_ko.sst",
+    "record_index": 8768,
+    "source_sha256": "0339d5f9b5310e1f4f845eaac7fe31d0cc458dde3f8dcb007351b62e310fdd98",
+    "epub_sha256": "9efcbfeea9b4e54108f56e59062603d2358f58537d9b39388d9b2414fb0dba6f",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "delete",
+        "epub": [
+          "this",
+          "was",
+          "cut",
+          "from",
+          "the",
+          "original",
+          "game"
+        ],
+        "game": []
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-c3a4c1e333512e01": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 14197,
+    "source_sha256": "054606691d60461065b8e08b47cdc192e36f0fcd7493099e22d1dc8ab8cae69d",
+    "epub_sha256": "5fb82f4fe89ca569e4fed6ff808dbb342f488a6650c889fd1587425696b7adf2",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "mirelurk"
+        ],
+        "game": [
+          "lurk"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-a65bbeb628fbb26e": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 14303,
+    "source_sha256": "f3631647c2c95d24b12ad2e2418076adf3df260111b7cd2a93cfed2dbdd8abbe",
+    "epub_sha256": "83fd9b487bff7fe07ee656413962a8c7b2fa2a82775f5f9dba8babbc6cc26c96",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "delete",
+        "epub": [
+          "shocker",
+          "glove"
+        ],
+        "game": []
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-56b3bf6ab122fee5": {
+    "dictionary": "taleoftwowastelands_en_ko.sst",
+    "record_index": 8250,
+    "source_sha256": "40989e42fada59c710e072960dc666da26a3f81ee54d0c7afba2a615298f8d91",
+    "epub_sha256": "72a9a4bf68ddef6f48c02e78cd9062bd155e7d12ef6b7244a875cd33cce6a02a",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [],
+    "body_version": "existing_game_translation"
+  },
+  "codex-38219405c92ed339": {
+    "dictionary": "taleoftwowastelands_en_ko.sst",
+    "record_index": 8319,
+    "source_sha256": "01a59f155b41e401b6f78d1582fc3527b9a471df6dedb02e06a587babfa93c27",
+    "epub_sha256": "6c8baf5aa89d9df04a93e53bb9e333686578e90af8f17abfd782f1e584e3dfba",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "dont"
+        ],
+        "game": [
+          "don",
+          "t"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "i",
+          "m"
+        ],
+        "game": [
+          "im"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-430597f56798b4e9": {
+    "dictionary": "taleoftwowastelands_en_ko.sst",
+    "record_index": 8312,
+    "source_sha256": "7f17f05d1121adc681f535ac4a8bc355cb612ecb2551fe4e627d5bec4a1d6bce",
+    "epub_sha256": "0e6da3f4123c34c5d3504f58b53f7742f4301e9c193ad1c933e2f1d6c706676f",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [],
+    "body_version": "existing_game_translation"
+  },
+  "codex-f479e608749a9414": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 14341,
+    "source_sha256": "5cae962187cca7e2b6b8ae5b810d6e2db0f6a2e75bfd5b0bdc22fc9419aeebf7",
+    "epub_sha256": "bdf1da3dfc1ec746680613c344ccd068284774d86c006b49afe1294179e198e1",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "trading",
+          "caravan",
+          "log"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-b16475a7b6520c10": {
+    "dictionary": "brokensteel_en_ko.sst",
+    "record_index": 809,
+    "source_sha256": "4609d68798b8096dae588ca4175ff6a9c29187cfab5963f571fee99df2237631",
+    "epub_sha256": "bf08adb243f99093b04048f088c351069a50e17937d177b3a0746da045f852ed",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "delete",
+        "epub": [
+          "is"
+        ],
+        "game": []
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-7a245ef8c1915f17": {
+    "dictionary": "taleoftwowastelands_en_ko.sst",
+    "record_index": 8934,
+    "source_sha256": "04cb88b087f5a9223e42083bce3655b93fd1b39d7e70fa1f2ea528084d9de7e8",
+    "epub_sha256": "91ca9d5f40ec4baaaba860d69a98dc26c532a12b9f638882099145c0a52594a6",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "seven"
+        ],
+        "game": [
+          "7"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-b18ee11fd7ce32d8": {
+    "dictionary": "taleoftwowastelands_en_ko.sst",
+    "record_index": 8896,
+    "source_sha256": "eaaa022cca50a770642c589611385a7a5599cfce9ea4e4af43143a430f9f714d",
+    "epub_sha256": "d1b96d927340f4734e95fd1dabec4037de3ee8597d565bda2b0c93aee10c130e",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "delete",
+        "epub": [
+          "mandarin",
+          "for",
+          "good",
+          "luck"
+        ],
+        "game": []
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-659cbbfb90b95dc7": {
+    "dictionary": "taleoftwowastelands_en_ko.sst",
+    "record_index": 8904,
+    "source_sha256": "118cffb927b2719cf86ca51967096169fb3eab54cae4a39c08a408b22faba304",
+    "epub_sha256": "e4026794511f88f7dc1bf149f8a051a53407b2a8e763ac6fa2493b404f39f574",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "profuse",
+          "sweating",
+          "unexplained",
+          "contusions",
+          "swelling",
+          "massive",
+          "external",
+          "hemorrhaging",
+          "new",
+          "ideals",
+          "such",
+          "as",
+          "socialism"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "plauge"
+        ],
+        "game": [
+          "plague"
+        ]
+      },
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "ice",
+          "cream",
+          "socials",
+          "cruising",
+          "main",
+          "street",
+          "promiscuous",
+          "activity",
+          "sodomy",
+          "attending",
+          "fairs",
+          "or",
+          "festivals"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-94ccc84385268fc2": {
+    "dictionary": "thepitt_en_ko.sst",
+    "record_index": 640,
+    "source_sha256": "8cce95cc428a6314ca33cacd0a6ed2fda48757dafc9d1adcce26a378b511f60c",
+    "epub_sha256": "854f07ab6e2ba47abeba2e82b12e9d5520e3c57ef42b1a0f61af99eab8139aca",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "ammunition"
+        ],
+        "game": [
+          "ammo"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "ammunition"
+        ],
+        "game": [
+          "ammo"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "ammunition"
+        ],
+        "game": [
+          "ammo"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "ammunition"
+        ],
+        "game": [
+          "ammo"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-ad069387f6596c55": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 14852,
+    "source_sha256": "83baf81bdc1b993b4b8f06ce47ee327c0446803ac111e9ef8a1f23e4b8101e62",
+    "epub_sha256": "8a40a4faa8c4fb2ee160f4c803bbfaf844d0c25382664905580cf3b5a29dcef2",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "martial"
+        ],
+        "game": [
+          "material"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-a4ad1548c7da6bda": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 14923,
+    "source_sha256": "540d4059e383498d7922bd1ea08bb274044fec1b67810d16bf48787c145b34cd",
+    "epub_sha256": "89294771d4b1d30f7db23ccb491e9b8d8bedcaa4ac1c04ba0d789952901f07ce",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "if"
+        ],
+        "game": [
+          "of"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-454e860e9d563924": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 14708,
+    "source_sha256": "ffaafc3828ac8b5ef547cdb524f209f13b1f706567d93ae992518ce0f404a318",
+    "epub_sha256": "d6b0075ab5b814df9e042a5ffb3912dd9cd3cd1efeff62557c5c5476e8ae823e",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "gomorrah"
+        ],
+        "game": [
+          "gomorra"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-28b035a3a1460bb9": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 15180,
+    "source_sha256": "de47096d6a46dd4ea48fb53b3f0fc30f9c82facc390ae067e141b05d924a3699",
+    "epub_sha256": "3faeb3a75950cc3dfdaea8733d322a25e9f88d1a71c965d50d2b59b34bafc8d7",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "a"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-e9b703eca010f009": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 14706,
+    "source_sha256": "c4ef0003eaaf0e006655949c9d89cf211da3bce35437928128bb29ff0006b633",
+    "epub_sha256": "8e21204f9c84816ea43e429e0ab5675a3c6c59009d8df24125196a93b3910818",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "ledger"
+        ],
+        "game": [
+          "leger"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "untied"
+        ],
+        "game": [
+          "untide"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-5ccbf3a0e15f6dda": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 15193,
+    "source_sha256": "301f935e477e81be6e4617b837b7a72a2cd89b228bd32823738cdf9844837326",
+    "epub_sha256": "8846bf88337c4d61c8c31dc0cf570bdc585d33e7ef62aab8a13b3fa4241ba558",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "delete",
+        "epub": [
+          "name"
+        ],
+        "game": []
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-bce4fbef83026714": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 15028,
+    "source_sha256": "97080763615ab6ab9220e4dbeb4e7346a1ac6da0191a6605cf614258c10244ea",
+    "epub_sha256": "28ef1f4346ac6e8dd864d4031340a194e4ad0257818a103a1ed8d3f0ea566a3a",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "is"
+        ],
+        "game": [
+          "s"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-493929f61eff324a": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 15123,
+    "source_sha256": "6c0d720abb4ad7906b1d4353a4d904defb2e393e018b59d2630624e0789598eb",
+    "epub_sha256": "39e007fe01ddd603767d9591a9c980a67dd23e93a1df75d04756535be05482e0",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "guard"
+        ],
+        "game": [
+          "guards"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-eb4f0c2e4e1b75c6": {
+    "dictionary": "fallout nv kr_en_ko.sst",
+    "record_index": 435,
+    "source_sha256": "20d9a7ec346cbca6741534743b7eb66de31da97c749def45a25ede69fc4457fd",
+    "epub_sha256": "337939ea5170a39aa4c84d669a00384b7ffd40b8f0186713b2abad59a67c4c96",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "delete",
+        "epub": [
+          "woman"
+        ],
+        "game": []
+      },
+      {
+        "operation": "delete",
+        "epub": [
+          "she"
+        ],
+        "game": []
+      },
+      {
+        "operation": "delete",
+        "epub": [
+          "she"
+        ],
+        "game": []
+      },
+      {
+        "operation": "delete",
+        "epub": [
+          "her"
+        ],
+        "game": []
+      },
+      {
+        "operation": "delete",
+        "epub": [
+          "she"
+        ],
+        "game": []
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-1cbdb40119503f1c": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 14764,
+    "source_sha256": "f86a327e9ef71e5bb84a854dabd1dcaf04964384456706c0b11e4f1bd6e8b11a",
+    "epub_sha256": "8d903ba5c8681cfd63903f2fe746958d0810cf7e1686ea4ce4a623faa3a7d44c",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "delete",
+        "epub": [
+          "our"
+        ],
+        "game": []
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-d3fc200e67c2fff4": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 15172,
+    "source_sha256": "b06370ec256b118a91f1cbc86f40080be3a9602e887bbf870ad5c8e200479f02",
+    "epub_sha256": "e1e75cc971bbc98fd7d8984546cc3d3c55e36757f21d2d78818595ebfa6e6d0c",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "delete",
+        "epub": [
+          "new"
+        ],
+        "game": []
+      },
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "the"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-9898f382cdb1a5dd": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 14801,
+    "source_sha256": "272bc7ef93bc6efad476ec429de1733f07979e25e6fc90f6f88938457f454cb0",
+    "epub_sha256": "0ddf553117445bfb5250f3b86d9e795224915401c0ec35cf4be42671e8926836",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "the"
+        ]
+      },
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "to"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-80853ec1c28f0719": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 14488,
+    "source_sha256": "b6f2092845dbb9536bcaff72290197b88827f67bcf3d6115c10ec3b0bde35d7f",
+    "epub_sha256": "3b90f56fcde0e804d52e4e524e76a86a21d04bef63c47993f1debe6faf8d8d73",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "around",
+          "further"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-d702adc66f2e7594": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 14502,
+    "source_sha256": "08bb3fd33352b463dce0acabb54f178346959a45152ecb86b1b68b2ce16b25cf",
+    "epub_sha256": "e9b15b5aac6ee78a9a6268027f50f28cd54661e36b3fc929c2c2dbe58a6d199a",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "you"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-664155a8a95172b9": {
+    "dictionary": "falloutnv_en_ko.sst",
+    "record_index": 15016,
+    "source_sha256": "bd03a73dd5d84d9ecd82ff3a15d25c648cfba00bb1163cf808ff42219c564280",
+    "epub_sha256": "9abfda2b9ea005ec8c3be593509f98cc9d186e0f17f04fc9ec77cdd2061d96ac",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "the"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-5040160c0f83064f": {
+    "dictionary": "deadmoney_en_ko.sst",
+    "record_index": 1544,
+    "source_sha256": "731967d1a3ceb32597277a3a3be02e93a962a4d0e82c1a1cdfacce34f6b460cf",
+    "epub_sha256": "ec880c9dc58d7042f3fde48c8ce3153463085b17539f4cc852a4984ebc894127",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "a"
+        ],
+        "game": [
+          "the"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-c3898451ff3a0cc0": {
+    "dictionary": "deadmoney_en_ko.sst",
+    "record_index": 1732,
+    "source_sha256": "13a9ac336fb2134d2a618bd288393b8b240440a70ca8e69acf0e316462d69692",
+    "epub_sha256": "5e3dd095b6f2249158966f1a895a4e22b0d2bc498380322385eaa0c1d9d2fcf2",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "like"
+        ],
+        "game": [
+          "liked"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "treasures"
+        ],
+        "game": [
+          "treasure"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-a69682d86afb8edb": {
+    "dictionary": "fallout nv kr_en_ko.sst",
+    "record_index": 67801,
+    "source_sha256": "5e69596059bf0613f18ef644e01de5a2d9ea7dfeae9adf6e054ba7b6f8416fb8",
+    "epub_sha256": "dc87efe2e7bc434bbc415c26ca83761b4ab0700c2cb3451f5bca0290812605d1",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "take",
+          "a"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-4977263540b5446c": {
+    "dictionary": "deadmoney_en_ko.sst",
+    "record_index": 1532,
+    "source_sha256": "af3e586ce3d0f3f9121ebb353df345e3407025f63986da7704999ad831c549bb",
+    "epub_sha256": "9556927171a617660fc0ef8feb7de87fc1bad27ea167db78cd4d0dcd12a1c7f7",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "delete",
+        "epub": [
+          "is",
+          "a"
+        ],
+        "game": []
+      },
+      {
+        "operation": "delete",
+        "epub": [
+          "it"
+        ],
+        "game": []
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-67bb4ac91f7da673": {
+    "dictionary": "honesthearts_en_ko.sst",
+    "record_index": 881,
+    "source_sha256": "9846f10fa9f48efde855d61ed895e81ca1e6865363d9469bb10b8bce9fb54572",
+    "epub_sha256": "e8391457b4792b706e2f3eb0fdb6ea98c925a49b33fd747965c73ef57a2ea38e",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "then"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-13ea1ec3835f32f4": {
+    "dictionary": "lonesomeroad_en_ko.sst",
+    "record_index": 1075,
+    "source_sha256": "3e0bf936f8cf2a434c3b2fe31b2a7b71075c8a47f77e2def83cf9440d55226e9",
+    "epub_sha256": "afbf3f057b7c7867fee0355a3280365ecaa6b496e145775f7b1be7e9142cdd9e",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "pack"
+        ]
+      },
+      {
+        "operation": "delete",
+        "epub": [
+          "pack"
+        ],
+        "game": []
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-331aea47ac426e88": {
+    "dictionary": "fallout nv kr_en_ko.sst",
+    "record_index": 6251,
+    "source_sha256": "118b04388b06be2386acf8daf5bbc1eb09c104244304f7b77c609f99b69023fe",
+    "epub_sha256": "fa3a1fd463d69a87c7d03c3dca47b76b837221fe2442dc7d9c2aacfbe4af4280",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "flash",
+          "bang",
+          "grenade"
+        ],
+        "game": [
+          "flashbang",
+          "grenades"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-002cf7f94bdc351c": {
+    "dictionary": "lonesomeroad_en_ko.sst",
+    "record_index": 1111,
+    "source_sha256": "7105338e7358ee18f277b4ebe5b7f451a0c9b3f6665e331b9879c4f78eca848e",
+    "epub_sha256": "a9c3d63d399cedd499100fa011db7a6d2ccf34294b069cf53484d906ecbe1d6f",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "ve"
+        ],
+        "game": [
+          "d"
+        ]
+      },
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "now"
+        ]
+      },
+      {
+        "operation": "delete",
+        "epub": [
+          "now"
+        ],
+        "game": []
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-867e1cb3d26d9d1c": {
+    "dictionary": "fallout nv kr_en_ko.sst",
+    "record_index": 60581,
+    "source_sha256": "6ffc47b5abf3be58025dce5565ebc9046ddd61f34f3b04cb76efb346f18a9685",
+    "epub_sha256": "b2b9d0909bc226e50bf89b92bbd11d14931e02a38ee101bd5326db96678f9acf",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "delete",
+        "epub": [
+          "the"
+        ],
+        "game": []
+      },
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "old"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "has"
+        ],
+        "game": [
+          "must",
+          "have"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-94f6fba8163ae632": {
+    "dictionary": "taleoftwowastelands_en_ko.sst",
+    "record_index": 8706,
+    "source_sha256": "b6c71ff69829c248907878ed34a9ab60522e8b081aed31a324c1f562f5007d7d",
+    "epub_sha256": "65d3292fc2472a3d30340541f1c5ef215807a6f436d039dafcdcbd4d177f0322",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "henrikson"
+        ],
+        "game": [
+          "henriksen"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-1df26cf031edc8fd": {
+    "dictionary": "oldworldblues_en_ko.sst",
+    "record_index": 1268,
+    "source_sha256": "aefa2a6f95609218e883d253395352babf8545898dad17774c62d94dd23100fc",
+    "epub_sha256": "4cc89c4233c592e4d8b6f4a2b27be50b60684de9beb3d498c1c866df217b83b0",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "southeast"
+        ],
+        "game": [
+          "se"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-5021a52bde2380b9": {
+    "dictionary": "fallout nv kr_en_ko.sst",
+    "record_index": 9480,
+    "source_sha256": "6c72346ce223c376670cab6470c439c256946c919b3a0f44b80a52f68d1b7322",
+    "epub_sha256": "45a2092f168459e57da3866fb59aeed12f69ce9ac6160f55a000d998685a2f3c",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "brain"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-237d32446b1b41c6": {
+    "dictionary": "fallout nv kr_en_ko.sst",
+    "record_index": 63910,
+    "source_sha256": "00ffa73ea9423069b1f3612553a314ce6cb47537b639d1115535c1a992470c85",
+    "epub_sha256": "6613eff121f5b3f52d6a3e3cb50ee991c60ab3ba060d0ca44683102bfc466f09",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "northwest"
+        ],
+        "game": [
+          "nw"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-1cc8ab1b77727303": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 113929,
+    "source_sha256": "2e6b5591ff39810ab5abaf97ef5172201438f630a1a40eb8ced2fa3692e07a9f",
+    "epub_sha256": "6e6368d8be988c94cdd6873141efdbe62a28df3af196ab8be100c425505740eb",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "wire"
+        ],
+        "game": [
+          "alias",
+          "libertaliaboss",
+          "name"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-f4a86ba0c731c6ca": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 117741,
+    "source_sha256": "dd3fd9549bd38e50c3fbe69fedd24a4269ba07997c5d4aab73c13598cda77bb4",
+    "epub_sha256": "ae296d3fa048a195065a96c8c6a440f434b5cd7d0281594f28e816a021924fa1",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [],
+    "body_version": "existing_game_translation"
+  },
+  "codex-683fcea03f4bf686": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 57087,
+    "source_sha256": "c625c7d10d917176d92e9d94f5e5acb9f9649270e609e448e6aae954776dc5c0",
+    "epub_sha256": "d8375fb25ff47e840c4ff87f637c400013a4bbd48a070a282714dca3cd4e859b",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "maker"
+        ],
+        "game": [
+          "make"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-c6d7f8651471b634": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 52225,
+    "source_sha256": "6bc63cba2f967515971632edbdbfaafd386e6d741061127de42dfe2f3678334a",
+    "epub_sha256": "ad091664f9b6393cfa0f0b1f639e426ac2cd29a344b2da78bdd85f6d0c386bb2",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "stimpacks"
+        ],
+        "game": [
+          "stimpaks"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-bcf7403f19e9fb91": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 57437,
+    "source_sha256": "d07b1b5d47ec7a4003fdda36f8084d1b9ba107d2a2d133ab4c3183fba84300c0",
+    "epub_sha256": "0b427ff5fc258e41bb2aba22cf86783a2ce4e0c9ecc3046784e90b64031f7137",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "edward"
+        ],
+        "game": [
+          "eddie"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-5937e024bce27013": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 29116,
+    "source_sha256": "65167e2b10934c3240d799b6801cc3a035e1f6a3ea43e4423b561dedefedac2f",
+    "epub_sha256": "ebc2ce4fa4759b5b61fc74a0b579c312ba7780601a4458a14967d1dc5ffaf575",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "snatched"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "it"
+        ],
+        "game": [
+          "its"
+        ]
+      },
+      {
+        "operation": "delete",
+        "epub": [
+          "as"
+        ],
+        "game": []
+      },
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "the"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-7f2fde3af5eb17fc": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 122852,
+    "source_sha256": "9915bc2620d2768f207c403cd25134ba23602828971e0a09c6c7c9a97219118f",
+    "epub_sha256": "c002a94b42c2dc30cf8cbed7a8311e3fabcdfd197b860d617f16d47552990859",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "help",
+          "wanted"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-c8bd1e8a5963a74b": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 106649,
+    "source_sha256": "15efe950309a837ef0858b05c36f254c8d5440f7671668183bac30938c4008fe",
+    "epub_sha256": "7ed52d57a7965e06541f08b472e97a6915c972f3ad301d65b1f06e5c46336cf8",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "of"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-66b1475e925277af": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 39490,
+    "source_sha256": "ec646395f88b5323305460796bc59e70fdfa7b939aa6e1c5efda58167239f23f",
+    "epub_sha256": "67db6e77505b10640c6fa2ac3573f7ea9d9b0046947e6daeb7f77e8d7c87a5b0",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "location"
+        ],
+        "game": [
+          "alias",
+          "dungeon"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-e93b07cc0e8f9950": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 33016,
+    "source_sha256": "04f63c042e1c0dc1d9ae0544aefa73dbe743cf21d16ae5a37ed5228b3a6703e9",
+    "epub_sha256": "98e28572b643610b49472b949498b1f0baed77cbaa1a74c3462324ce7865f2f9",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "do"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-7a4fbe9a4eb942b8": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 6230,
+    "source_sha256": "a9a8dcc6c2e5caa5a964ecf8d74a990abf8f9fe04caf6a63ad0d7c26c7071127",
+    "epub_sha256": "345096fad735452c54e4813a3bdb3588fc0906c0cb43df879a8bf6607851774d",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "assess"
+        ],
+        "game": [
+          "asses"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-a7703a117f249796": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 79270,
+    "source_sha256": "f4a2d1621c9f47c80f6a8d2295d79af666877e462e65709d1ae6a95a1ad8d442",
+    "epub_sha256": "e495543165ea05582957a9aa167d2ec1734bc772b447f8dd1227db5edeb34a79",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [],
+    "body_version": "existing_game_translation"
+  },
+  "codex-9d89246e1794f987": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 25138,
+    "source_sha256": "5e35072ac8165ddb7ef15b6396828f59359eab040e9c942942522575d23d75b8",
+    "epub_sha256": "520c61a57de7b8b36cade54a966d204885c94afd1b348d1a7bbe37de952de8f8",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "location"
+        ],
+        "game": [
+          "alias",
+          "dungeon"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-47cdd54da0b21938": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 174,
+    "source_sha256": "f83a7d07254e8f4606e18a2c878c1cf60aacab4aec71840d898a52b989c18cc4",
+    "epub_sha256": "de3215f7b416967df87ec82a6414d281d814d16fc1ba2a13e221b979eaadbb0e",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "lust"
+        ],
+        "game": [
+          "inst"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-1732715e5062ffe1": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 101892,
+    "source_sha256": "d393464fbe132dc3940eb12885aa4d12a5614bacf195a2d1441fb6d511400424",
+    "epub_sha256": "fe94ad51699f019900cb9d0315a8a07ba93f9fa6d3cf64516b47f45fc4760c94",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [],
+    "body_version": "existing_game_translation"
+  },
+  "codex-caca4423bac3e5b8": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 45991,
+    "source_sha256": "695862fa549814a2ce2a59b6ac5e9b218f72196aeb0841c148d83b7bd3558da7",
+    "epub_sha256": "e71ca835eb4bfb9f12be12a100f0aa2978793ca4641652f182501cbb32cac7a0",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [],
+    "body_version": "existing_game_translation"
+  },
+  "codex-3fc60bc3e1fb5a72": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 45224,
+    "source_sha256": "f3fb52c207f50b5233d6e12d8d274bd238f9506917f73b33e2f10bd3c45ca346",
+    "epub_sha256": "aca5fb9b570337b10e134b7a93ed9a175ee5b07588751a2e85f7c4f7868a7113",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "delete",
+        "epub": [
+          "the"
+        ],
+        "game": []
+      },
+      {
+        "operation": "delete",
+        "epub": [
+          "the"
+        ],
+        "game": []
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-b462977788835d4c": {
+    "dictionary": "fallout4_en_ko.sst",
+    "record_index": 76673,
+    "source_sha256": "7c6b5a7c9ff5d693d736cca65a0da0d7715a3fb384f5bfd500da9030ebd90a4d",
+    "epub_sha256": "8dc6463fbdbaa2c71da365beaddc7f902ee5ff30b1c3efd933b6518b9f2c794d",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "know"
+        ],
+        "game": [
+          "now"
+        ]
+      },
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "and",
+          "motives"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-4bb108311e3e7824": {
+    "dictionary": "dlcrobot_en_ko.sst",
+    "record_index": 3777,
+    "source_sha256": "76b3d2a6b6376ce81fdedb1a66b8d8c93de05f2e33fe4f01da8f16baca0ea05d",
+    "epub_sha256": "a8bcd00ef01ce738213c574baf50235e2180ebbe4d46658274c25cf9f69aea23",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "replace",
+        "epub": [
+          "of"
+        ],
+        "game": [
+          "or"
+        ]
+      },
+      {
+        "operation": "replace",
+        "epub": [
+          "ought",
+          "to"
+        ],
+        "game": [
+          "oughta"
+        ]
+      },
+      {
+        "operation": "insert",
+        "epub": [],
+        "game": [
+          "though"
+        ]
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-58d32d17e647a217": {
+    "dictionary": "dlccoast_en_ko.sst",
+    "record_index": 6262,
+    "source_sha256": "33df7312a59e271955e1d9833dfee4e04dc7dbb800a805e5b60074747bb95593",
+    "epub_sha256": "f4e7e5f86d2b7d6705662bd3ddd18d1e3c615161d1d1e96e879a72544797f608",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [
+      {
+        "operation": "delete",
+        "epub": [
+          "a"
+        ],
+        "game": []
+      }
+    ],
+    "body_version": "existing_game_translation"
+  },
+  "codex-0c4076f744402c23": {
+    "dictionary": "dlccoast_en_ko.sst",
+    "record_index": 6518,
+    "source_sha256": "6357de6d039cd54e0aa223f76246b0222ba864d54afe4f9539ae39252943e0e2",
+    "epub_sha256": "3fc3db347952bc9e426b55a9f6e6d818f2ae38d23e55f7262c2443cd961de8fd",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [],
+    "body_version": "existing_game_translation"
+  },
+  "codex-b15a4cee8e18e2d4": {
+    "dictionary": "dlccoast_en_ko.sst",
+    "record_index": 6281,
+    "source_sha256": "b5b18a026f27f0d62534ea925041f876e33793d310ccf2ae6bdcf875440f7441",
+    "epub_sha256": "e2f6b8dac9bb53bc84fe75c4ebb937719e28041c04a637e46c96aa87743a475c",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [],
+    "body_version": "existing_game_translation"
+  },
+  "codex-71b5f1f0443d5f8a": {
+    "dictionary": "dlccoast_en_ko.sst",
+    "record_index": 6287,
+    "source_sha256": "2f60e5d2b4c257e4578b8fb2d8fd4fd2103fc29831272a42ffd6e8cb20468f3e",
+    "epub_sha256": "53a99b2b355b308d6aed8d55f8e092fe4df816ba168f3961c804f8031d3ecbb2",
+    "alignment_check": "Same original English title and dictionary body record. All word differences audited; use existing game translation as canonical body, retain EPUB as reference.",
+    "word_differences": [],
+    "body_version": "existing_game_translation"
   }
 }
