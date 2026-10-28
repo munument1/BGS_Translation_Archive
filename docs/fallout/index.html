@@ -84,7 +84,7 @@
       </section>
       <section class="info" aria-labelledby="aboutTitle">
         <h2 id="aboutTitle">기록 보존 원칙</h2>
-        <p>이 사이트는 비공식·비상업 팬 프로젝트입니다. 폴아웃 3·뉴 베가스·4의 원본 게임 ESM에서 문서 식별자를 추출했으며, 기존 외부 목차도 함께 제공합니다. 본문 원문은 로컬 작업 자료로 보관하고 있습니다. 공개 색인에 원문 전문은 포함되지 않습니다. 저작권은 각 권리자에게 있으며, 한국어 본문은 보관된 기존 번역 사전에서 연결했습니다. 기록별 번역 출처를 확인할 수 있으며, 아카이브 자체의 문장 검수와 게임 내 사용 여부 확인은 진행 전입니다.</p>
+        <p>게임 문서와 EPUB 녹취를 기존 한글 번역에 대조한 비공식 팬 서고입니다. 한국어 번역과 일부 번역, 영어 원문을 구분하며 일부 번역에는 아직 연결되지 않은 원문 구간을 표시합니다. 각 기록의 번역 출처를 확인할 수 있습니다. 번역 연결은 새 문장 검수나 게임 내 사용 여부 확인을 뜻하지 않으며, 원문과 번역의 권리는 각 권리자에게 있습니다.</p>
       </section>
     </main>
     <footer><p>WASTELAND ARCHIVE · 비공식 폴아웃 한국어 기록 보관소</p><p><a href="../index.html">탐리엘의 서고</a> · <a href="https://fallout.fandom.com/wiki/Source_text" target="_blank" rel="noopener noreferrer">원문 색인: Fallout Wiki ↗</a></p></footer>
@@ -113,7 +113,7 @@
     const wrap=$("cards");
     $("games").innerHTML=games.map(([id,name,year])=>'<button class="game-btn" type="button" data-game="'+id+'" aria-pressed="'+(id==="all")+'"><strong>'+esc(name)+'</strong><small>'+year+'</small></button>').join("");
     function render(){
-      document.querySelectorAll("[data-game]").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.game===state.game)));
+      document.querySelectorAll("[data-game]").forEach(b=>{b.setAttribute("aria-pressed",String(b.dataset.game===state.game));b.hidden=b.dataset.game!=="all"&&!state.records.some(r=>r.game===b.dataset.game)});
       const q=state.search.trim().toLocaleLowerCase();
       const matches=state.records.filter(r=>(state.game==="all"||r.game===state.game)&&(state.language==="all"||state.language==="ko"&&r.body_ko?.trim()||state.language==="complete"&&r.body_ko?.trim()&&r.status!=="partial_translation"||state.language==="partial"&&r.status==="partial_translation"||state.language==="en"&&!r.body_ko?.trim()&&r.body_en?.trim())&&(state.type==="all"||r.type===state.type)&&[r.title_ko,r.title_en,r.body_ko,r.body_en,r.description,r.source_member,r.editor_id,r.form_id,...(r.series_entries||r.terminal_sections||[]).flatMap(x=>[x.title_en,x.title_ko,x.editor_id,x.form_id]),gameName(r.game),types[r.type]].some(s=>String(s||"").toLocaleLowerCase().includes(q)));
       $("resultCount").innerHTML='<strong>'+matches.length+'</strong>개 일치 / 총 '+state.records.length+'개 (표시 '+Math.min(matches.length,state.limit)+'개)';
