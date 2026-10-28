@@ -1,0 +1,52 @@
+{
+  "checked": "2026-10-28",
+  "verification": "BGM: public YouTube watch-page and oEmbed metadata. ASMR: existing attributed local campfire recording and synthesized browser ambience. No video audio extraction.",
+  "archives": {
+    "fallout": {
+      "title": "황무지의 소리",
+      "kicker": "ROBCO / AUDIO CHANNELS",
+      "tracks": [
+        {
+          "kind": "ASMR",
+          "type": "local_audio",
+          "title": "황무지의 모닥불",
+          "asset": "campfire-119594.mp3",
+          "author": "SoundsForYou",
+          "source_url": "https://pixabay.com/sound-effects/campfire-crackling-fireplace-sound-119594/",
+          "license_url": "https://pixabay.com/service/license-summary/"
+        },
+        {
+          "kind": "BGM",
+          "id": "xn8fQMRsaqU",
+          "title": "Fallout 4 테마 · Inon Zur 피아노 연주",
+          "original_title": "Inon Zur Plays Fallout 4 Theme",
+          "author": "Bethesda Softworks",
+          "channel": "https://www.youtube.com/@bethesda",
+          "credit": "Inon Zur 연주 · 공식 영상"
+        }
+      ]
+    },
+    "starfield": {
+      "title": "성계의 소리",
+      "kicker": "CONSTELLATION / AUDIO CHANNELS",
+      "tracks": [
+        {
+          "kind": "ASMR",
+          "type": "web_audio",
+          "title": "우주선 엔진·환기음",
+          "source": "Browser-generated filtered noise and low sine tones; not extracted game audio",
+          "user_initiated": true
+        },
+        {
+          "kind": "BGM",
+          "id": "0REXCITfjI0",
+          "title": "Starfield 공식 사운드트랙",
+          "original_title": "Starfield - Official Soundtrack from Composer Inon Zur",
+          "author": "Bethesda Softworks",
+          "channel": "https://www.youtube.com/@bethesda",
+          "credit": "Inon Zur 작곡 · Bethesda 공식 영상"
+        }
+      ]
+    }
+  }
+}

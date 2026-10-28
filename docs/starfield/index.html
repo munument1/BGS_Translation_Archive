@@ -9,13 +9,15 @@
   <title>성계의 기록 | Starfield 한국어 아카이브</title>
   <link rel="stylesheet" href="../assets/record-archive.css">
   <link rel="stylesheet" href="../assets/starfield-nasapunk.css">
+  <link rel="stylesheet" href="../assets/archive-audio.css?v=20261028-native">
+  <script src="../assets/archive-audio.js?v=20261028-native" defer></script>
   <script src="../assets/record-reader.js"></script>
 </head>
 <body data-archive="starfield">
   <div class="shell">
     <header class="top">
       <a class="brand" href="./index.html" aria-label="성계의 기록 홈"><span class="brand-icon" aria-hidden="true">✦</span><span><strong>SETTLED SYSTEMS ARCHIVE</strong><small>성계의 기록</small></span></a>
-      <nav class="toplinks" aria-label="다른 자료실"><a href="../fallout/">황무지의 기록 ↗</a>
+      <nav class="toplinks" aria-label="다른 자료실"><a href="#soundscape" data-sound-open>ASMR·BGM ♫</a><a href="../fallout/">황무지의 기록 ↗</a>
         <a href="../index.html">탐리엘의 서고 ↗</a>
       </nav>
     </header>
@@ -38,6 +40,30 @@
           <div class="mission-foot"><span>DATA SLATES · BOOKS · TERMINALS</span><b>EXPLORER'S LIBRARY</b></div>
         </div>
       </section>
+      <details id="soundscape" class="sound-deck">
+        <summary><span class="sound-heading"><small>CONSTELLATION / AUDIO CHANNELS</small><strong>성계의 소리 · ASMR과 BGM</strong></span><span class="sound-badge">ASMR + BGM</span></summary>
+        <div class="sound-panel">
+          <div class="sound-actions"><p data-sound-status role="status">환경음은 켜기 버튼으로, BGM은 YouTube에서 재생합니다.</p><button type="button" class="sound-stop" data-sound-stop disabled>모두 끄기</button></div>
+          <div class="sound-grid">
+            <article class="sound-card ambient-card" data-ambient-kind="ship" data-ambient-label="엔진음">
+              <span class="sound-kind">ASMR / AMBIENCE</span><h3>우주선 엔진·환기음</h3><p class="sound-credit">웹에서 만든 우주선 환경음 · 낮은 엔진음과 환기음</p>
+              <div class="ambient-mixer">
+                <div class="ambient-display" aria-hidden="true"><span>◎</span><small>CABIN / ENGINE & VENTILATION</small></div>
+                <button type="button" class="ambient-toggle" data-ambient-toggle aria-pressed="false"><span data-ambient-label>엔진음 켜기</span></button>
+                <label class="ambient-volume" for="archiveAmbientVolume">음량 <input id="archiveAmbientVolume" data-ambient-volume type="range" min="0" max="100" value="30" aria-label="환경음 음량" aria-valuetext="30%"><output data-ambient-output for="archiveAmbientVolume">30%</output></label>
+                <p data-ambient-status role="status">켜기 버튼을 눌러 배경음을 들어보세요.</p>
+              </div>
+            </article>
+            <article class="sound-card" data-video-id="0REXCITfjI0" data-video-title="Starfield - Official Soundtrack from Composer Inon Zur" data-sound-kind="BGM">
+              <span class="sound-kind">BGM / SOUNDTRACK</span><h3>Starfield 공식 사운드트랙</h3>
+              <p class="sound-credit"><a href="https://www.youtube.com/@bethesda" target="_blank" rel="noopener noreferrer">Bethesda Softworks</a> · Inon Zur 작곡 · Bethesda 공식 영상</p>
+              <div class="sound-player"><button type="button" class="sound-load" data-sound-load><span aria-hidden="true">▷</span><span>BGM 플레이어 열기</span></button></div>
+              <a class="sound-external" href="https://www.youtube.com/watch?v=0REXCITfjI0" target="_blank" rel="noopener noreferrer">YouTube에서 듣기 ↗</a>
+            </article>
+          </div>
+          <p class="sound-help">환경음은 이곳의 음량 슬라이더로, 음악은 YouTube 플레이어에서 따로 조절하세요. 모바일에서는 기기의 음량을 따를 수 있습니다. 영상이 열리지 않으면 YouTube 원본 링크를 이용하세요.</p>
+        </div>
+      </details>
       <div class="section-kicker"><span>01 / MISSION RECORDS</span><span>RECORD INDEX · 2330</span></div>
       <section id="records" aria-labelledby="recordTitle">
         <div class="filter-head"><div><h2 id="recordTitle">정착 성계 아카이브</h2><p>데이터 슬레이트·책·터미널 본문을 검색하세요. 터미널의 하위 메뉴와 번호가 이어지는 기록은 하나로 묶었습니다.</p></div></div>

@@ -113,3 +113,7 @@ python tools/extract_fallout_esm.py --input 'D:\Codex_Trans\그냥 번역\폴아
 ```
 
 재실행 시 기존 `codex-` 및 외부 목차 항목을 보존하고 `esm-` 항목만 갱신합니다. 이 입력 경로는 작업자의 예시로서 사이트 실행에는 필요하지 않습니다.
+
+## ASMR과 BGM
+
+상단 `ASMR·BGM`에서 환경음 켜기·끄기·음량 조절과 YouTube BGM을 이용할 수 있습니다. ASMR은 탐리엘 서고와 동일한 SoundsForYou / Pixabay의 모닥불 음원을 사용합니다. 자동 재생하지 않으며 `모두 끄기`로 두 소리를 종료할 수 있습니다. BGM은 YouTube 원본 링크도 제공합니다. [음원·영상 출처](../assets/archive-audio-sources.json).

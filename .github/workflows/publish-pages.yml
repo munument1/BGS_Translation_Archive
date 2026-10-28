@@ -87,6 +87,8 @@ jobs:
         run: |
           node --check docs/assets/record-reader.js
           node tests/test_record_reader.cjs
+          node --check docs/assets/archive-audio.js
+          node tests/test_archive_audio.cjs
 
       - name: Verify ESO Korean game-text imports
         run: python3 -m unittest discover -s tests -p test_eso_lang_import.py

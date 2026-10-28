@@ -24,3 +24,7 @@ Python 표준 라이브러리만 사용합니다. 공개 저장소에는 게임 
 ```powershell
 python tools/build_starfield_archive.py --esm 'D:\SteamLibrary\steamapps\common\Starfield\Data\Starfield.esm'
 ```
+
+## ASMR과 BGM
+
+상단 `ASMR·BGM`에서 환경음 켜기·끄기·음량 조절과 YouTube BGM을 이용할 수 있습니다. ASMR은 브라우저에서 합성한 우주선 엔진·환기음이며 게임 원본 음원이 아닙니다. 자동 재생하지 않으며 `모두 끄기`로 두 소리를 종료할 수 있습니다. BGM은 YouTube 원본 링크도 제공합니다. [음원·영상 출처](../assets/archive-audio-sources.json).
