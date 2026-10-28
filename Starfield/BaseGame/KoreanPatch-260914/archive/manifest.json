@@ -1,0 +1,47 @@
+{
+  "compressed_bytes": 14963443,
+  "compression": "RFC1952 gzip level 6 mtime=0",
+  "english_alignment_verified": false,
+  "game": "starfield",
+  "korean_rows": 182448,
+  "schema": "korean_base_patch_jsonl_gzip_v1",
+  "shards": [
+    {
+      "file": "starfield_en.strings.ko.jsonl.gz",
+      "gzip_bytes": 2340903,
+      "gzip_sha256": "b7b6140acf1d18184217bc8e432c50eaa2fb4e78e0595e6707ed17c1f25e4394",
+      "rows": 42039,
+      "uncompressed_bytes": 16226320,
+      "uncompressed_sha256": "6f1bca22be2f3762b92e04cb107fcf9a7bcb0d5c0d06502092bbf11641f301c7"
+    },
+    {
+      "file": "starfield_en.ilstrings.ko.jsonl.gz",
+      "gzip_bytes": 11665875,
+      "gzip_sha256": "2a6f051b65edce8184b4da30cd8877fd477aa4295de58893a17b0f622553f72a",
+      "rows": 129561,
+      "uncompressed_bytes": 55313401,
+      "uncompressed_sha256": "5d0f5f03f776e0e9cdc9e05263a096f4f0e0aff4e69051ede3a419ea077af154"
+    },
+    {
+      "file": "starfield_en.dlstrings.ko.jsonl.gz",
+      "gzip_bytes": 740401,
+      "gzip_sha256": "af06f7159145703f6707adf11d8c64d7ff6de4b0e82a09a37a097f0671397266",
+      "rows": 7829,
+      "uncompressed_bytes": 4090401,
+      "uncompressed_sha256": "240d452c4e069d1f17491376e2cc4a4a9bb9d39cff2aceb74bc730e4dd23228e"
+    },
+    {
+      "file": "translate_en.txt.ko.jsonl.gz",
+      "gzip_bytes": 216264,
+      "gzip_sha256": "f1194341665dadae1d0c7a09ff8f7bb7bfc459d15ab72f4ff5774c9f4cd1e31d",
+      "rows": 3019,
+      "uncompressed_bytes": 1278367,
+      "uncompressed_sha256": "40b76da237a55d8fd21ebd960b1b90b06fc87994f996fd6e9e32e4ea176d7d6d"
+    }
+  ],
+  "source_english_text_included": false,
+  "source_report_name": "starfield_base_report.json",
+  "source_report_sha256": "71e8a1344d16b5d7e0e4b90d3e9bccc62d4c73e83865b6405c3ec98e89261957",
+  "status": "extracted_unreviewed",
+  "uncompressed_bytes": 76908489
+}

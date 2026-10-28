@@ -13,9 +13,13 @@
   "english_original_present": false,
   "english_original_sha256_present": false,
   "manifest_sha256": "4bb87aea9592fdf35187c40a69305fc311f18da55b9c2aba02fc19e3c9388c41",
-  "full_korean_text_publicly_uploaded": false,
-  "reason": "The local patch README does not establish translator copyright ownership or redistribution permission.",
+  "full_korean_text_publicly_uploaded": true,
+  "public_translation_location": "Fallout4/BaseGame/KoreanPatch-20260819/archive/",
+  "public_storage_format": "deterministic lossless gzip JSONL",
+  "distribution_basis": "The repository owner requested archival of a publicly distributed Korean patch's translation data.",
+  "rights_note": "Local package lacks a formal license and translator attribution. Public availability alone does not prove redistribution rights; original creators retain their rights.",
+  "possible_source_context": "Fallout 4 Korean community translations have been produced by Team Waldo and other reviewers, but exact contributors to this supplied 2026 package were not independently verified.",
   "stage_location_hint": "Local Morrowind mod project / work / dictionaries / fallout4_base_staged",
   "editorial_status": "extracted_unreviewed; not in-game tested",
-  "notes": "Every Korean string ID, source file fingerprint and its original slot were retained in the local stage. The public archive contains metadata only until rights review."
+  "notes": "All 164201 extracted Korean entries, including per-table string IDs, were preserved unchanged in compressed JSONL. English source strings, fonts and game assets are not included. Source attribution/redistribution requests should be handled by the repository owner."
 }

@@ -1,0 +1,191 @@
+{
+  "compressed_bytes": 15747881,
+  "compression": "RFC1952 gzip level 6 mtime=0",
+  "english_alignment_verified": false,
+  "game": "fallout4",
+  "korean_rows": 164201,
+  "schema": "korean_base_patch_jsonl_gzip_v1",
+  "shards": [
+    {
+      "file": "Fallout4_en.STRINGS.ko.jsonl.gz",
+      "gzip_bytes": 3407551,
+      "gzip_sha256": "54a2f8dd3adb98a5d76a9c91e9c32058bd9edec4465aaa715c51b292182064bc",
+      "rows": 41177,
+      "uncompressed_bytes": 26791931,
+      "uncompressed_sha256": "8af61cc09336370ae26d7b6a228486c1f72507e9a744b3f971ead8fc4bb58489"
+    },
+    {
+      "file": "Fallout4_en.DLSTRINGS.ko.jsonl.gz",
+      "gzip_bytes": 519884,
+      "gzip_sha256": "95a1ed7ea7dbac1a942bf6bea2a20aa89836b911f5065bf1a07518d32fadb164",
+      "rows": 4609,
+      "uncompressed_bytes": 3526590,
+      "uncompressed_sha256": "ea25a32c43a6f19ab2abc8284e0df95bf115a4845ea9eefc6b632a2384061569"
+    },
+    {
+      "file": "Fallout4_en.ILSTRINGS.ko.jsonl.gz",
+      "gzip_bytes": 7882355,
+      "gzip_sha256": "bcdef933a2be98dffee347f2990500a8450f9b615112b2e26d9321d8edc6db27",
+      "rows": 74473,
+      "uncompressed_bytes": 51180654,
+      "uncompressed_sha256": "4593a0d9ab0b96bea55ddc322b81cccacb0727d667e130f58bca8f52a604ef9f"
+    },
+    {
+      "file": "DLCCoast_en.STRINGS.ko.jsonl.gz",
+      "gzip_bytes": 438355,
+      "gzip_sha256": "739b3fc2f1f097ba6dd563d45e0ae67e0b64dcbe836c478297cb989b9af72ad7",
+      "rows": 5944,
+      "uncompressed_bytes": 3795475,
+      "uncompressed_sha256": "763b7a1f2d7b7c1c148bfbaa3920bb4822712444ee9eb0589a67f3cdc7d9dbbf"
+    },
+    {
+      "file": "DLCCoast_en.DLSTRINGS.ko.jsonl.gz",
+      "gzip_bytes": 80592,
+      "gzip_sha256": "8bde93e08b232daa046094413e64be3363731289c6b19245cafc25738cdca731",
+      "rows": 676,
+      "uncompressed_bytes": 502896,
+      "uncompressed_sha256": "9f8a50955d9b81c7ed94f87e3f202d07c47163dfc1e545d38b9f87ad5afaaa5e"
+    },
+    {
+      "file": "DLCCoast_en.ILSTRINGS.ko.jsonl.gz",
+      "gzip_bytes": 1042885,
+      "gzip_sha256": "1c65f6e3962456bcb2919687d7c13f3cda235593976674898b438d71d853b3ad",
+      "rows": 9700,
+      "uncompressed_bytes": 6712035,
+      "uncompressed_sha256": "454985a6debaa14c039890e2a67a5328e1e400ee4d5d6477ca75e61a7e6f9588"
+    },
+    {
+      "file": "DLCNukaWorld_en.STRINGS.ko.jsonl.gz",
+      "gzip_bytes": 533679,
+      "gzip_sha256": "34df96453f1afbc03ac80bead7c42d8740c52a619c8c077a3854c0620c40c70b",
+      "rows": 6772,
+      "uncompressed_bytes": 4525071,
+      "uncompressed_sha256": "83f4b766afbe064aecab64875e17c958b67d6d5807a53ed8ed8d0dcd2dbaf668"
+    },
+    {
+      "file": "DLCNukaWorld_en.DLSTRINGS.ko.jsonl.gz",
+      "gzip_bytes": 74101,
+      "gzip_sha256": "9108fe9f658f259e99c432c3cf46ed090f90756b594ba3844a039fb982bc8603",
+      "rows": 706,
+      "uncompressed_bytes": 533189,
+      "uncompressed_sha256": "c2c9897a96b3cef818bc7c5f2885704d5fe49369bfaadd9598e4194ffe9def16"
+    },
+    {
+      "file": "DLCNukaWorld_en.ILSTRINGS.ko.jsonl.gz",
+      "gzip_bytes": 902571,
+      "gzip_sha256": "4de3f1a1e1138e99901c63d65add7b751d524c5d837f4f6a1b20bf892829ccd0",
+      "rows": 8539,
+      "uncompressed_bytes": 5968790,
+      "uncompressed_sha256": "0ab234a665f01a784e543f4a81cdb9faaa72a855691860d5b1130a48f720f605"
+    },
+    {
+      "file": "DLCRobot_en.STRINGS.ko.jsonl.gz",
+      "gzip_bytes": 250519,
+      "gzip_sha256": "6168f581db880d3bb4281f7a0c1878a1349823d9a4d3f532335f3f82ad61c99c",
+      "rows": 3270,
+      "uncompressed_bytes": 2129038,
+      "uncompressed_sha256": "f8ce456917d8097ddb141124b98b282c5ad2b4d57d7f51d9d20499baef9e96b6"
+    },
+    {
+      "file": "DLCRobot_en.DLSTRINGS.ko.jsonl.gz",
+      "gzip_bytes": 29927,
+      "gzip_sha256": "619be14c92ca39d29786bea5b7c68dce0dbbb83812d510acb4bc91a632324b2c",
+      "rows": 660,
+      "uncompressed_bytes": 446594,
+      "uncompressed_sha256": "ac0e3857096442f2a7fc3ad08b80afc8ea50b261e1d5d727d35372c1793b2d56"
+    },
+    {
+      "file": "DLCRobot_en.ILSTRINGS.ko.jsonl.gz",
+      "gzip_bytes": 249882,
+      "gzip_sha256": "2b8449fea02612397d373fd31ef18d71ad9c3018a98f8ea6a707279efdd8b07c",
+      "rows": 2528,
+      "uncompressed_bytes": 1714437,
+      "uncompressed_sha256": "a8813e35995d88fdc844fd0f90aceeb0e084c9b017931c3705fbce21081b6664"
+    },
+    {
+      "file": "DLCworkshop01_en.STRINGS.ko.jsonl.gz",
+      "gzip_bytes": 30555,
+      "gzip_sha256": "55a7ab73b554b6439ad5d8a957d7c61621e7b520fabb10ea146332ffa9d44b35",
+      "rows": 555,
+      "uncompressed_bytes": 352493,
+      "uncompressed_sha256": "a90256d7c5214b6afc576f95d44318ddca3cb7245d161aa275e394a550413073"
+    },
+    {
+      "file": "DLCworkshop01_en.DLSTRINGS.ko.jsonl.gz",
+      "gzip_bytes": 4324,
+      "gzip_sha256": "d352685839fb5e913706b2357770c02372c3f9165a3ec4c1783f5db8a261a014",
+      "rows": 46,
+      "uncompressed_bytes": 34007,
+      "uncompressed_sha256": "a32d37be9ced815088f126c31d78a33d2d0d20d4772b9bae4882d204e591154b"
+    },
+    {
+      "file": "DLCworkshop01_en.ILSTRINGS.ko.jsonl.gz",
+      "gzip_bytes": 686,
+      "gzip_sha256": "8c9f1bd9611422eee38b5cdab9a094cda13f19dc22749db590f13d7f5d0fed8c",
+      "rows": 4,
+      "uncompressed_bytes": 2568,
+      "uncompressed_sha256": "0fed47a87eb0d973f1f8b5876897cbe5ef274a8ad8ffccd1fb2c20f7261e6b25"
+    },
+    {
+      "file": "DLCworkshop02_en.STRINGS.ko.jsonl.gz",
+      "gzip_bytes": 51515,
+      "gzip_sha256": "ac411d07ba0d2145aa9d4fd37be6946906e36dfbb9497c7f712721d5deb29a2e",
+      "rows": 1220,
+      "uncompressed_bytes": 779739,
+      "uncompressed_sha256": "a8a0aaf2d798ac4461475ccc96abdc98b2969eebfb0ce0bf79f6fe6582c80360"
+    },
+    {
+      "file": "DLCworkshop02_en.DLSTRINGS.ko.jsonl.gz",
+      "gzip_bytes": 6658,
+      "gzip_sha256": "a4378dce1f3fb47e37ce948801a0874059cb99628267d6204dfa5895273e7bc0",
+      "rows": 75,
+      "uncompressed_bytes": 53372,
+      "uncompressed_sha256": "0d4d89f9a81651ee8428e0e48fb279dc2d70e7ee90c6695acf43c1661c98d827"
+    },
+    {
+      "file": "DLCworkshop02_en.ILSTRINGS.ko.jsonl.gz",
+      "gzip_bytes": 20,
+      "gzip_sha256": "ac73670af3abed54ac6fb4695131f4099be9fbe39d6076c5d0264a6bbdae9d83",
+      "rows": 0,
+      "uncompressed_bytes": 0,
+      "uncompressed_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "DLCworkshop03_en.STRINGS.ko.jsonl.gz",
+      "gzip_bytes": 78508,
+      "gzip_sha256": "76adc2ec9c74492f5e36d43165770ac1954bf981b24671c8b3884c9e13b731aa",
+      "rows": 1328,
+      "uncompressed_bytes": 865719,
+      "uncompressed_sha256": "59701954ef506975eaa511b5421be0ff93e10ec83b5efc8d0f7597397a8624eb"
+    },
+    {
+      "file": "DLCworkshop03_en.DLSTRINGS.ko.jsonl.gz",
+      "gzip_bytes": 7437,
+      "gzip_sha256": "408612181768504d2de0b30e39f06a4640797212c0446731ea922255ee789041",
+      "rows": 71,
+      "uncompressed_bytes": 52122,
+      "uncompressed_sha256": "81f702b18cf9fe6c84e3977f27a20851221cade06f73727fa034e14d2b2c5458"
+    },
+    {
+      "file": "DLCworkshop03_en.ILSTRINGS.ko.jsonl.gz",
+      "gzip_bytes": 90972,
+      "gzip_sha256": "c05ece8950bc753eb32bb9e693e21df4d9d81a64f107e96f718ae68c7a7527cb",
+      "rows": 915,
+      "uncompressed_bytes": 632801,
+      "uncompressed_sha256": "5d36b1f1ac976e8da7f15849d7c13fd9730f8b70f63b4158dfb53b0b3f4a5c80"
+    },
+    {
+      "file": "Translate_en.txt.ko.jsonl.gz",
+      "gzip_bytes": 64905,
+      "gzip_sha256": "8a65831bfb9c6330d601ff71e88e6d3cbb8691ff5d026d9164b0d20e6c4a3c96",
+      "rows": 933,
+      "uncompressed_bytes": 565388,
+      "uncompressed_sha256": "fecf9d03c9815f456a3a22e2b0a9cd8891831022d3533941c874b051159e1efc"
+    }
+  ],
+  "source_english_text_included": false,
+  "source_report_name": "manifest.json",
+  "source_report_sha256": "4bb87aea9592fdf35187c40a69305fc311f18da55b9c2aba02fc19e3c9388c41",
+  "status": "extracted_unreviewed",
+  "uncompressed_bytes": 111164909
+}

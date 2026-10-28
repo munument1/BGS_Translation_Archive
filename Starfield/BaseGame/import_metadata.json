@@ -15,9 +15,13 @@
     "starfield_en.dlstrings": "1894d848b0b0c24154f9bd76e2daf9a7f8ebe08a2d9b14a6625cc95eded6eaaf",
     "translate_en.txt": "5ad86a22020abb5ea9f20e824bdbc9348651da52da9f3bb46696552c18771438"
   },
-  "full_korean_text_publicly_uploaded": false,
-  "reason": "The local patch does not establish translation ownership or third-party redistribution permission.",
+  "full_korean_text_publicly_uploaded": true,
+  "public_translation_location": "Starfield/BaseGame/KoreanPatch-260914/archive/",
+  "public_storage_format": "deterministic lossless gzip JSONL",
+  "distribution_basis": "The repository owner requested archival of a publicly distributed Korean patch's translation data.",
+  "rights_note": "Local package lacks an explicit license and confirmed author list. Public availability by itself does not establish legal reuse permission; original translators retain their rights.",
+  "possible_source_context": "Team Waldo has publicly distributed Starfield Korean patches, but the exact origin and contributors of this supplied 260914 package have not been independently verified.",
   "stage_location_hint": "Local Morrowind mod project / work / dictionaries / starfield_base_staged",
   "version_and_editorial_status": "unverified local import, not in-game tested; folder date is not authoritative",
-  "notes": "DLC and Creation string tables from this patch are not counted in the base-game stage. Input files have not been changed."
+  "notes": "DLC/Creation string tables are not included in the base-game export. The 182448 Korean entries retain source string IDs or UI keys. No fonts, ESP or full English strings were copied. Attribution and redistribution requests should be handled by the repository owner."
 }
