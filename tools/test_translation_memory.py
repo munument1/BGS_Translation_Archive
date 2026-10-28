@@ -3,9 +3,15 @@
 Run from repo root: python -m unittest discover -s tools -p test_translation_memory.py
 """
 import hashlib
+from contextlib import redirect_stdout
+import io
+import json
+from pathlib import Path
+import sqlite3
+import tempfile
 import unittest
 
-from translation_memory import normalized, stable_identity
+from translation_memory import lookup, normalized, stable_identity
 
 
 class TestTranslationMemoryBoundaries(unittest.TestCase):
@@ -61,6 +67,48 @@ class TestTranslationMemoryBoundaries(unittest.TestCase):
            "source_hash":"b"*64,"status":"extracted_unreviewed"}
         a=normalized(r,"fallout4","base","test.gz")
         self.assertIsNone(a[2])
+
+    def test_lookup_escaping_and_exact_filter_scope(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            db=Path(tmp)/"test.sqlite3"
+            connection=sqlite3.connect(db)
+            connection.execute(
+                "CREATE TABLE entry (game TEXT, dataset TEXT,english_sha TEXT,ko TEXT,"
+                "source_file TEXT,source_dictionary TEXT,record_type TEXT,field TEXT,"
+                "record_id TEXT,plugin TEXT,ordinal INTEGER,identity TEXT,status TEXT)"
+            )
+            en=hashlib.sha256(b"Slaughterfish").hexdigest()
+            connection.executemany(
+                "INSERT INTO entry VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?)",[
+                    ("morrowind","kr9",None,"저장\\경로","KR9","KR9","MGEF","DESC","",
+                     "OpenMW_KR9",1,"kr9@1","imported"),
+                    ("morrowind","kr9",None,"ABC_% 문장","KR9","KR9","MGEF","DESC","",
+                     "OpenMW_KR9",2,"kr9@2","imported"),
+                    ("oblivion","oblivion",en,"식인물고기","Oblivion","canonical","CREA",
+                     "FULL","0001","Oblivion.esm",0,"ob1","imported")
+                ])
+            connection.commit()
+            connection.close()
+
+            def query(**kwargs):
+                output=io.StringIO()
+                defaults={"english":None,"korean":None,"record_id":None,"game":None,
+                          "limit":20,"full":False}
+                defaults.update(kwargs)
+                with redirect_stdout(output):
+                    lookup(db,**defaults)
+                return json.loads(output.getvalue())
+
+            self.assertEqual(query(korean="\\",game="morrowind")["total_hits"],1)
+            self.assertEqual(query(korean="_%",game="morrowind")["total_hits"],1)
+            self.assertEqual(query(record_id="",game="morrowind",record_type="MGEF")["total_hits"],2)
+            self.assertEqual(query(english="Slaughterfish",game="oblivion")["same_english_korean_variants"],1)
+            no_hits=query(english="Slaughterfish",game="oblivion",record_id="0002")
+            self.assertEqual(no_hits["total_hits"],0)
+            self.assertEqual(no_hits["same_english_korean_variants"],0)
+            identity=query(identity="kr9@1",game="morrowind")
+            self.assertEqual(identity["returned"],1)
+            self.assertEqual(identity["entries"][0]["identity"],"kr9@1")
 
 
 if __name__=="__main__":

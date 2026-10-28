@@ -240,7 +240,7 @@ def build(db):
         print("Building lookup indexes...",flush=True)
         con.executescript("""
             CREATE INDEX idx_english_sha ON entry (english_sha, game);
-            CREATE INDEX idx_identity ON entry (game, dataset, identity);
+            CREATE UNIQUE INDEX idx_identity ON entry (game, dataset, identity);
             CREATE INDEX idx_game_record ON entry (game, record_id);
             CREATE INDEX idx_game_source ON entry (game, source_dictionary);
             ANALYZE;
@@ -263,9 +263,11 @@ def build(db):
           f"{db.stat().st_size/1048576:.2f}MiB, {time.monotonic()-started:.1f}s",flush=True)
 
 
-def lookup(db,english,korean,record_id,game,limit,full):
-    if not any([english,korean,record_id]):
-        raise ValueError("Provide --english, --korean, or --record-id.")
+def lookup(db,english,korean,record_id,game,limit,full, *,
+           dataset=None,source_dictionary=None,plugin=None,
+           field=None,record_type=None,identity=None):
+    if all(x is None for x in (english,korean,record_id,identity)):
+        raise ValueError("Provide --english, --korean, --record-id, or --identity.")
     if not db.is_file():
         raise FileNotFoundError(f"Build local database first: python tools/translation_memory.py build")
     if limit<1 or limit>200:
@@ -274,18 +276,25 @@ def lookup(db,english,korean,record_id,game,limit,full):
     try:
         where=[]
         params=[]
-        if english:
+        if english is not None:
             where.append("english_sha=?")
             params.append(hashlib.sha256(english.encode("utf-8")).hexdigest())
-        if korean:
+        if korean is not None:
             where.append("ko LIKE ? ESCAPE '\\'")
-            params.append("%"+korean.replace("%","\\%").replace("_","\\_")+"%")
-        if record_id:
+            # Escape the ESCAPE character itself before LIKE wildcards.
+            literal=korean.replace("\\","\\\\").replace("%","\\%").replace("_","\\_")
+            params.append("%"+literal+"%")
+        if record_id is not None:
             where.append("record_id=?")
             params.append(record_id)
-        if game:
-            where.append("game=?")
-            params.append(game)
+        for col,value in (
+            ("game",game),("dataset",dataset),
+            ("source_dictionary",source_dictionary),("plugin",plugin),
+            ("field",field),("record_type",record_type),("identity",identity)
+        ):
+            if value is not None:
+                where.append(col+"=?")
+                params.append(value)
         where_sql=" AND ".join(where)
         count=con.execute("SELECT COUNT(*) FROM entry WHERE "+where_sql,params).fetchone()[0]
         rows=con.execute(
@@ -305,13 +314,12 @@ def lookup(db,english,korean,record_id,game,limit,full):
         output={"total_hits":count,"returned":len(rows),
                 "caution":"Alternatives require contextual review; not automatically approved.",
                 "entries":variants}
-        if english:
+        if english is not None:
             output["source_english"]=english
             output["source_sha256"]=hashlib.sha256(english.encode("utf-8")).hexdigest()
             output["same_english_korean_variants"]=con.execute(
-                "SELECT COUNT(DISTINCT ko) FROM entry WHERE english_sha=?"
-                +(" AND game=?" if game else ""),
-                [output["source_sha256"]]+([game] if game else [])).fetchone()[0]
+                "SELECT COUNT(DISTINCT ko) FROM entry WHERE "+where_sql,
+                params).fetchone()[0]
         print(json.dumps(output,ensure_ascii=False,indent=2))
     finally:
         con.close()
@@ -385,6 +393,13 @@ def main():
     p.add_argument("--korean")
     p.add_argument("--record-id")
     p.add_argument("--game",choices=("fallout4","falloutnewvegas","starfield","oblivion","morrowind"))
+    p.add_argument("--dataset",choices=("sst","base","mcm","oblivion","kr9"),
+                   help="Limit to one source family, especially for numeric record IDs")
+    p.add_argument("--source-dictionary",help="Exact source dictionary or source table path")
+    p.add_argument("--plugin",help="Exact plugin or mod hint; file-name hints are not verified FormIDs")
+    p.add_argument("--record-type",help="Exact record type, e.g. BOOK, NPC_, MCM")
+    p.add_argument("--field",help="Exact field or deployed table path")
+    p.add_argument("--identity",help="Complete composite identity from a previous lookup result")
     p.add_argument("--limit",type=int,default=10)
     p.add_argument("--full",action="store_true",help="Show entire Korean texts, including very long books")
     p=sub.add_parser("report")
@@ -393,7 +408,10 @@ def main():
     if a.action=="build":
         build(a.db)
     elif a.action=="lookup":
-        lookup(a.db,a.english,a.korean,a.record_id,a.game,a.limit,a.full)
+        lookup(a.db,a.english,a.korean,a.record_id,a.game,a.limit,a.full,
+               dataset=a.dataset,source_dictionary=a.source_dictionary,
+               plugin=a.plugin,field=a.field,record_type=a.record_type,
+               identity=a.identity)
     else:
         report(a.db,a.output)
 

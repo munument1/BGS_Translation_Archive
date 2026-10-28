@@ -22,6 +22,12 @@ python tools/translation_memory.py lookup --game morrowind --record-id BookSkill
 # 한국어 검색: 작품을 지정하고 결과를 제한
 python tools/translation_memory.py lookup --game fallout4 --korean "볼트" --limit 10
 
+# 같은 숫자 ID가 여러 문자열 테이블에서 나타날 때 구분
+python tools/translation_memory.py lookup --game fallout4 --dataset base --record-id 224439
+
+# 모로윈드 KR9의 빈 레코드 ID도 타입/필드/정확한 identity로 조회 가능
+python tools/translation_memory.py lookup --game morrowind --dataset kr9 --record-id "" --record-type MGEF --field DESC --limit 5
+
 # 책 등 긴 원문을 줄이지 않고 출력
 python tools/translation_memory.py lookup --game morrowind --record-id BookSkill_Enchant1 --full
 
@@ -81,7 +87,10 @@ python tools/export_conflict_review.py --limit 150
   연결합니다. 같은 UI 키도 대소문자와 출현 순번에 따라
   구별합니다. JSONL의 `plugin_hint`는 파일명에서 추정한
   값이므로 ESM 원본 대조로 확정한 FormID라고 해석하지
-  않습니다.
+  않습니다. Fallout 4 본편 추출값에는 Unicode 대체 문자
+  `U+FFFD`가 포함된 한국어 항목이 **2개** 있어 향후
+  별도 교정이 필요합니다. 원본 재현성을 위해 이
+  단계에서는 임의 복구하거나 삭제하지 않았습니다.
 - 모로윈드: 2026-10-27 공식 **KR9 릴리스**의 ESP·OpenMW
   파일에서 한국어를 가져왔습니다. 해당 파일 안의
   `localized_subrecord_hash`는 **한국어 바이트의 해시**이지
