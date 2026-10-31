@@ -1,0 +1,33 @@
+name: Archive OpenMW Korean KR12.4 Source Snapshot
+on:
+  push:
+    paths:
+      - "tools/import_morrowind_kr124.py"
+      - ".github/workflows/import-morrowind-kr124.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install YAML parser
+        run: python3 -m pip install PyYAML
+      - name: Extract and validate official KR12.4 source
+        run: python3 tools/import_morrowind_kr124.py
+      - name: Publish independent source snapshot without modifying KR9
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Morrowind/BaseGame/KR12.4/
+          if ! git diff --cached --quiet; then
+            git commit -m "data: preserve OpenMW KR12.4 Korean source alongside KR9"
+            for i in 1 2 3 4; do
+              git pull --rebase origin main
+              if git push origin HEAD:main; then exit 0; fi
+              sleep 3
+            done
+            exit 1
+          fi
