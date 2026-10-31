@@ -1,0 +1,29 @@
+{
+  "game": "oblivion",
+  "dataset": "UnofficialPatches",
+  "source_version": "v1.2.0-unofficial-sync",
+  "source_csv_sha256": "f3a41105ec44a52de6b20ac9b21865f047673aa8d83abd80d66686b4eb7b39c4",
+  "source_repo": "https://github.com/munument1/Oblivion-KR-Translation",
+  "records": 8818,
+  "by_plugin": {
+    "DLCBattlehornCastle - Unofficial Patch.esp": 57,
+    "DLCFrostcrag - Unofficial Patch.esp": 16,
+    "DLCHorseArmor - Unofficial Patch.esp": 21,
+    "DLCMehrunesRazor - Unofficial Patch.esp": 26,
+    "DLCOrrery - Unofficial Patch.esp": 31,
+    "DLCSpellTomes - Unofficial Patch.esp": 3,
+    "DLCThievesDen - Unofficial Patch - SSSB.esp": 13,
+    "DLCThievesDen - Unofficial Patch.esp": 36,
+    "DLCVileLair - Unofficial Patch.esp": 46,
+    "Knights - Unofficial Patch.esp": 367,
+    "Oblivion Citadel Door Fix.esp": 1,
+    "Unofficial Oblivion Patch.esp": 6710,
+    "Unofficial Shivering Isles Patch.esp": 1491
+  },
+  "non_hangul_values_retained": 2,
+  "upstream_source_sha256_not_equal_english_hash_count": 8818,
+  "source_hash": "SHA256 of old_english UTF8 in same canonical CSV row",
+  "status": "imported_not_game_verified",
+  "mixed_with_base_game": false,
+  "source_english_republished": false
+}
