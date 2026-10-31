@@ -8,9 +8,10 @@
 
 ID: sc_sixthbarrier / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -158,7 +159,7 @@ ID: BookSkill_Alchemy3 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 수천 년 동안 이 노래는 하이 록의 인기 있는 선술집 노래가 되었으나, 마침내 학술서 외의 모든 곳에서 자취를 감추었다. 드웨머 자신들처럼.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -216,7 +217,7 @@ ID: bk_AlchemistsFormulary / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 투명화 마법은 가장 귀중한 효과 중 하나로, 분쇄된 다이아몬드와 쓴풀 꽃잎으로만 만들 수 있습니다. 쓴풀은 붉은 산 지역에서 자라는 붉은 꽃을 피우는 식물입니다. 다이아몬드는 매우 희귀하고 비싸서 보통 숙련된 연금술사에게서 구입해야 합니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -250,7 +251,7 @@ ID: bk_DoorsOfTheSpirit / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 너희의 영혼들과 하나의 세계에서 살아라. 너희 안팎의 영혼들을 공경하라. 죽은 자를 슬퍼하지 마라. 그들의 품에 몸을 맡기고, 그들의 말에 귀를 기울여라.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -281,7 +282,7 @@ ID: bk_oldways / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 옛길의 학생은 실제로 군주와 동맹을 맺을 수 있다. 하지만 위험한 관계다. 선택은 반드시 현명해야 한다는 점은 아무리 강조해도 지나치지 않다. 군주가 현명한 조언을 거부하고 사이직에게-타헤리타에의 낡은 표현을 빌리자면-옛길의 가르침에 어긋나는 행위를 명한다면 선택지는 거의 없다. 사이직은 내키지 않더라도 복종해 평생 맞서 온 어둠의 힘에 먹힐 수 있다. 군주를 버리면 자신과 아르테움 섬에 수치를 안기고 다시는 고향으로 돌아가지 못할 수도 있다. 아니면 그저 스스로 목숨을 끊을 수도 있다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -327,7 +328,7 @@ ID: bk_BriefHistoryEmpire1_oh / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 첫 공격은 하이 락과 해머펠 사이의 일리악 만 지역에서 벌어졌다. 킨티라의 수행단은 학살당하고 여제는 포로가 되었다. 킨티라 2세는 글렌포인트나 글렌모릴 어딘가로 여겨지는 제국 감옥에서 이 년을 고통스럽게 보낸 뒤 수수께끼 같은 상황에서 감방 안에서 살해되었다. 두 번째 공격은 모로윈드 해안 섬들에 늘어선 제국 수비대를 겨냥했다. 여제의 배우자 콘틴 아린크스는 요새를 지키다 전사했다. 세 번째이자 마지막 공격은 원로 평의회가 서부 하이 락과 동부 모로윈드를 공격하려 군대를 나눈 뒤 벌어진 임페리얼 시티 포위전이었다. 약해진 정부는 우리엘의 집요한 공세에 제대로 방어하지 못하고 보름 만에 항복했다. 우리엘은 그날 저녁 왕좌를 차지해 탐리엘 황제 우리엘 3세를 자칭했다. 때는 제3시대 121년이었다. 이로써 이 시리즈 제2권에서 다룰 붉은 다이아몬드 전쟁이 시작되었다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -379,7 +380,7 @@ ID: bk_BriefHistoryEmpire2_oh / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 우리엘 4세의 이야기는 이 시리즈 제3권에서 다룬다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -422,7 +423,7 @@ ID: bk_BriefHistoryEmpire3_oh / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 우리엘 5세의 어린 아들부터 시작하는 마지막 네 황제는 이 시리즈의 넷째이자 마지막 권에서 설명한다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -474,7 +475,7 @@ ID: bk_BriefHistoryEmpire4_oh / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 해방된 뒤 우리엘 셉팀 7세는 탐리엘을 재통일할 전쟁을 다시 시작하고자 부지런히 힘썼다. 탄의 방해로 기세가 꺾인 것은 사실이지만, 그 뒤의 세월은 티버 셉팀 치세의 황금시대가 다시 탐리엘을 빛낼 희망이 있음을 증명했다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -502,7 +503,7 @@ ID: bk_landdeedfake_hhrd / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 로보네 아르벨
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -512,7 +513,7 @@ ID: book_dwe_boom00 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 [이 책은 알 수 없는 드웨머 언어로 쓰여진 것으로 보인다. 도면을 보면 가연성 물질과 화재 안전에 관한 설명서인 것 같다.]
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -522,7 +523,7 @@ ID: book_dwe_cogs00 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 [이 책은 알 수 없는 드웨머 언어로 쓰여진 것으로 보인다. 도면을 보면 톱니바퀴 교체 및 유지보수에 관한 설명서인 것 같다.]
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -532,7 +533,7 @@ ID: book_dwe_mach00 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 [이 책은 알 수 없는 드웨머 언어로 쓰여진 것으로 보인다. 도면을 보니 기계 정비 설명서인 것 같다.]
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -542,7 +543,7 @@ ID: book_dwe_metal_fab00 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 [이 책은 알 수 없는 드웨머 언어로 쓰여진 것으로 보인다. 도면을 보면 금속 가공에 관한 설명서인 것 같다.]
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -552,7 +553,7 @@ ID: book_dwe_pipe00 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 [이 책은 알 수 없는 드웨머 언어로 쓰여진 것으로 보인다. 도면을 보니 배관 조립 설명서인 것 같다.]
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -562,7 +563,7 @@ ID: book_dwe_power_con00 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 [이 책은 알 수 없는 드웨머 언어로 쓰여진 것으로 보인다. 도면을 보니 기계의 전력 소비에 관한 설명서인 것 같다.]
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -572,7 +573,7 @@ ID: book_dwe_water00 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 [이 책은 알 수 없는 드웨머 언어로 쓰여진 것으로 보인다. 도면을 보면 물길을 만들고 압력을 조절하는 방법에 대한 설명서인 것 같다.]
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -588,7 +589,7 @@ ID: bk_talostreason / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 오리티우스
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -596,9 +597,10 @@ ID: bk_talostreason / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_princeovsbrightball / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -632,7 +634,7 @@ ID: bk_onoblivion / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 이 연작의 다음 편을 준비하며, 데이드라 연구자로서 경력을 시작한 이래 호기심을 품은 두 문제를 조사할 예정이다. 첫째는 초기 인쇄본의 여러 글에서 허씬이라 불리는 특정 데이드로스, 어쩌면 또 다른 데이드라 군주에 관한 것이다. 허씬은 "군주들의 사냥꾼", "인간짐승의 아버지"라 불리지만 그를 소환할 수 있는 자는 아직 찾지 못했다. 둘째 목표는 더 의심스럽지만, 필멸자가 오블리비언으로 건너갈 실용적인 방법을 찾는 것이다. 내가 늘 지켜 온 철학은 우리가 이해하지 못하는 것만 두려워하면 된다는 것이다. 그 생각을 품고 나는 계속 목표를 추구한다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -651,7 +653,7 @@ ID: bk_WatersOfOblivion / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 그러나 어둠은 영원히 빛과 맞설 것이며, 공허를 숨 쉬고 서로를 황폐하게 한 권능들은 위대했다. 그들은 질투와 배신에 너무 깊이 빠져 어떤 맹세로도 묶을 수 없었다. 한 번 문이 열리면, 밀려오는 파도를 누가 닫아 막을 수 있겠는가?
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -757,7 +759,7 @@ ID: bookskill_heavy armor4 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 "그렇습니다." 터너가 말했다. "하지만 저는 주인님을 저버리지 않았습니다. 주인님은 이틀 뒤 싸웠을 때보다 더 잘 싸우셨습니다. 오시니움이 아무런 싸움도 없이 그 왕에게 넘어가기를 바라지 않았습니다."
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -776,7 +778,7 @@ Vvardenfell의 길드마스터이자 존경받는 대마법사 트레보니우�
   
 오카토
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -795,7 +797,7 @@ ID: bk_truenatureoforcs / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 그는 '버림받고 배척당한 이들, 맹세한 서약, 피의 저주를 관장하는' 데이드릭 군주 말라카스로 더 널리 알려져 있다. 엄밀히 말하면 데이드라 군주가 아니며 다른 데이드라들도 그를 그렇게 인정하지 않지만, 이는 그의 영역에 잘 어울린다. 옛날 그는 하이 엘프 만신전의 용사 트리니막이었고, 어떤 곳에서는 아우리엘보다도 인기가 높았다. 그는 안팎의 적에게서 하이 엘프를 지켰다. 트리니막과 추종자들이 벨로스계 반체제 운동을 막으려 하자 보에시아가 그를 삼켰다. 트리니막의 육신과 영혼은 타락했고, 그는 말라카스로 나타났다. 추종자들도 마찬가지로 흉하게 변했다. 누구에게나, 특히 티 없이 고결한 아우리엘에게 경멸받은 그들은 곧 사르살 근처 북부 황무지로 달아났다. 그들은 세상에서 자리를 얻기 위해 노드와 키머에 맞서 싸웠으나 얻은 것은 별로 없었다. 스카이림에서 말라카스는 오키, 또는 늙은 두드리는 자라 불리며, 이스미르와 벌인 싸움은 전설로 남았다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -803,9 +805,10 @@ ID: bk_truenatureoforcs / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_ondusisunhinging / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -818,7 +821,7 @@ ID: writ_Alen / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 상기 인물은 흘라알루 헬세스 왕의 이름으로 명예로운 처형 대상으로 지정되었습니다. 이 명백한 문서를 소지한 자는 상기 인물을 처형할 공식적인 권한을 부여받았습니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -831,7 +834,7 @@ ID: writ_Berano / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 상기 인물은 흘라알루 헬세스 왕의 이름으로 명예로운 처형 대상으로 지정되었습니다. 이 명백한 문서를 소지한 자는 상기 인물을 처형할 공식적인 권한을 부여받았습니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -844,7 +847,7 @@ ID: writ_Hloggar / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 상기 인물은 흘라알루 헬세스 왕의 이름으로 명예로운 처형 대상으로 지정되었습니다. 이 명백한 문서를 소지한 자는 상기 인물을 처형할 공식적인 권한을 부여받았습니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1148,7 +1151,7 @@ ID: bookskill_light armor3 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 -- 끝
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1182,7 +1185,7 @@ ID: bk_wherewereyoudragonbroke / 플러그인: Morrowind_Korean_ReTranslation.es
   
 "모로윈드의 세 도둑은 자신들이 어디 있었는지 말해 줄 수 있을 것이다. 처음부터 그것을 부순 장본인인 알리노르의 대왕도 마찬가지다. 이 땅에는 또 다른 이들도 있다. 이스미르, 펠리날, 여우 아르난드, 아니 아크투스라고 해야 하나? 마지막 드웨머도 입을 열도록 허락받는다면 말할 것이다. 나로 말하자면, 용의 단절 동안 다른 필멸자들처럼 이곳에 있었다가 저곳에, 다시 이곳에 있었다. 내가 어떻게 비의를 배웠다고 생각하나? 마루카티 선별자들은 우리가 배울 수 있도록 여명의 모든 영광을 보여 주었다. 간단히 말해, 위에서와 같이 아래에서도."
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1190,9 +1193,10 @@ ID: bk_wherewereyoudragonbroke / 플러그인: Morrowind_Korean_ReTranslation.es
 
 ID: sc_uthshandofheaven / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1202,7 +1206,7 @@ ID: bk_varoorders / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 [이 쪽지에는 바로 교역소로 보낸 음료, 음식, 가구 같은 일반 물품의 운송 내역이 적혀 있다. 눈에 띄는 항목은 이번 주 초 도착한 치즈 세 상자다.]
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1281,7 +1285,7 @@ ID: bookskill_security4 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 운은 방에서 나갈 길을 찾으려 며칠 동안 계속 비명을 질렀다. 그 뒤로 며칠은 머릿속에서 울리는 쉐오고라스의 웃음소리를 멍하니 들었다. 두 달 뒤 울스티르가 돌아왔을 때 그녀는 죽어 있었다. 그는 돌로 문을 받쳐 열어 둔 뒤 금화를 가져갔다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1289,9 +1293,10 @@ ID: bookskill_security4 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_ulmjuicedasfeather / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1352,7 +1357,7 @@ ID: bk_fivesongsofkingwulfharth / 플러그인: Morrowind_Korean_ReTranslation.e
   
 네레바르는 달의 그림자가 내는 소리로 만든 단검 키닝을 들었다. 그의 용사로는 신성한 질량의 망치 선더를 든 드웨머 왕 두막과, 아주라의 불멸의 아들로 레이스 메일을 입은 알란드로 술이 있었다. 그들은 붉은 산의 마지막 전투에서 로르칸과 맞섰다. 로르칸은 심장을 되찾았지만 너무 오래 떨어져 있었기에 시간이 필요했다. 울프하스는 술과 맞섰으나 그를 칠 수 없었고, 치명상을 입고 쓰러졌다. 그러나 쓰러지기 전에 외침으로 술의 눈을 멀게 했다. 다고스 우르는 두막과 맞서 그를 죽였지만, 그전에 선더가 주군의 심장을 내리쳤다. 네레바르는 로르칸에게서 돌아서 분노로 다고스 우르를 쓰러뜨렸지만, 그 대가로 로르칸에게 치명상을 입었다. 그러나 네레바르는 때 이른 죽음이 닥친 척하여 기습으로 로르칸을 공격했다. 선더의 조율 타격으로 심장이 단단해졌고, 이제 키닝으로 그것을 도려낼 수 있었다. 심장은 잘려 나갔고 로르칸은 패배했으며, 모든 시련은 끝난 것으로 여겨졌다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1360,9 +1365,10 @@ ID: bk_fivesongsofkingwulfharth / 플러그인: Morrowind_Korean_ReTranslation.e
 
 ID: sc_elementalburstfrost / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+CRUSH YOUR ENEMIES  
 적들을 짓밟아라
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1370,9 +1376,10 @@ ID: sc_elementalburstfrost / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_elementalburstshock / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+DESTRUCTION TO ALL FOES  
 모든 적들을 파멸시키리라
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1380,6 +1387,13 @@ ID: sc_elementalburstshock / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_elementalburstfire / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+Elemental Burst - Fire  
+  
+The afore-mentioned personage has been marked for honorable execution in accordance to the lawful tradition and practice of the Morag Tong Guild. The Bearer of this non-disputable document has official sanctioned license to kill the afore-mentioned personage.  
+  
+The afore-mentioned personage has been marked for honorable execution in accordance to the lawful tradition and practice of the Morag Tong Guild. The Bearer of this non-disputable document has official sanctioned license to kill the afore-mentioned personage.  
+  
+  
 원소 폭발 - 화염  
   
   
@@ -1388,7 +1402,7 @@ ID: sc_elementalburstfire / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 상기 인물은 모라그 통 길드의 합법적인 전통과 관행에 따라 명예로운 처형 대상으로 지정되었습니다. 이 명백한 문서를 소지한 자는 상기 인물을 처형할 수 있는 공식적인 허가를 받았습니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1422,7 +1436,7 @@ ID: bk_hanginggardenswasten / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 열정적인 절단 구체를 내려놓아라, 느브스흘드. 네 알드머어는 단어가 맞지만 제대로 오해할 수는 없다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1552,7 +1566,7 @@ ID: bookskill_restoration1 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 며칠 만에 처음으로 진정한 안도감을 느낀 자키는 뒷걸음질로 가게를 나와 길을 따라 자기 가게로 돌아갔다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 

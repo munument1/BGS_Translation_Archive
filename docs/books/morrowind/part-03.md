@@ -175,7 +175,7 @@ ID: bookskill_illusion1 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 "그래요, 황제가 되겠죠, 오라버니." 그녀가 말했다. "하지만 오래가지는 못할 거예요."
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -317,7 +317,7 @@ ID: bookskill_mercantile2 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 "때로는 사람들이 너를 미워하게 만드는 것이," 그녀는 아들 유리엘을 꼭 끌어안으며 말했다. "이익을 남기는 방법이란다."
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -411,7 +411,7 @@ ID: bookskill_sneak1 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 "이렇게 생각하렴. 변변찮은 통치자였던 너를 일류 순교자로 만들어 주는 거야." 포테마가 윙크하며 말했다. "물론 그 일에 감사하고 싶지 않더라도 이해하마."
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -553,7 +553,7 @@ ID: BookSkill_Enchant2 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 매그너스 셉팀 황제가 죽었다. 훗날 광인 펠라기우스로 알려질 그의 아들이 대관식을 올렸다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -710,7 +710,7 @@ ID: bookskill_hand to hand2 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 "아니, 맞힐 수는 있지." 포테마가 지친 목소리로 말했다. "다만 꽤 공을 들여야 할 뿐."
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -825,7 +825,7 @@ ID: bookskill_speechcraft4 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 포테마는 여인을 바라보지 않았다. 그녀의 군대는 승리를 축하하고 있었다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -833,9 +833,10 @@ ID: bookskill_speechcraft4 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_lycanthropycure / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+DREADED WOLF, BEGONE!  
 무시무시한 늑대여, 사라져라!
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -848,7 +849,7 @@ ID: bk_spiritofnirn / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 로르칸은 니른의 영혼이자 모든 필멸자의 신이다. 그렇다고 해서 모든 필멸자가 반드시 그를 좋아하거나 심지어 알고 있다는 뜻은 아니다. 대부분의 엘프는 창조를 자신들을 영의 영역에서 갈라놓은 행위로 여기며 그를 증오한다. 대부분의 인간은 그 또는 그의 여러 측면을 존재의 전령으로 숭배한다. 필멸자의 차원, 문두스, 니른의 창조는 모든 살아 있는 것에게 정신적 고뇌의 근원이다. 모든 영혼은 자신이 본래 다른 어딘가에서 왔으며, 니른이 다음 단계로 가는 잔혹하고도 중대한 한 걸음임을 마음 깊은 곳에서 안다. 그 다음은 무엇인가? 어떤 이들은 본래의 상태인 영의 영역으로 돌아가기를 바라며, 로르칸을 그 길을 가로막는 악마로 여긴다. 그들에게 니른은 감옥이자 벗어나야 할 환영이다. 다른 이들은 로르칸이 초월을 위한 시험장으로 세계를 창조했다고 생각한다. 그들에게는 영의 영역이 이미 감옥이었으며, 이제야 마침내 진정한 탈출이 가능해졌다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -978,7 +979,7 @@ ID: bk_vivecs_plan / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 비벡
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1093,7 +1094,7 @@ ID: bk_Dagoth_Urs_Plans / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 2. 아쿨라칸[제2 누미디움]의 특징, 규모, 완성 단계는 거의 알려지지 않았다. 제2시대 282년 이후 심장실에 들어간 자가 없다. 제3시대 417년에 키닝과 선더가 탈취되었으며 아쿨라칸 건설에 상당한 도움이 될 수 있다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1124,7 +1125,7 @@ ID: bk_a2_2_dagoth_message / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 보린 다고스 경, 다고스 우르
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1132,9 +1133,10 @@ ID: bk_a2_2_dagoth_message / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_fifthbarrier / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+ENDLESS PAIN AND SUFFERING  
 끝없는 고통과 고난
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1366,7 +1368,7 @@ ID: bk_varietiesoffaithintheempire / 플러그인: Morrowind_Korean_ReTranslatio
   
 제니타르(노동과 상업의 신, 교역신): 나인 디바인의 일원으로, 당연히 젠과 연관된다. 그러나 제국에서는 상인과 중간 귀족을 관장하는 훨씬 세련된 신이다. 숭배자들은 기원이 수수께끼임에도 제니타르가 '언제나 승리할' 신이라고 말한다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1374,6 +1376,17 @@ ID: bk_varietiesoffaithintheempire / 플러그인: Morrowind_Korean_ReTranslatio
 
 ID: sc_daerirsmiracle / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+<B>  
+Miracle of Daerir  
+</B>  
+  
+Ride the storms, lest they ride thee.  
+Consume the red sands, lest they consume thee  
+By the one from the dark waters  
+By the one who was first in the deep waters  
+By my will I cleanse myself of the red sands.  
+  
+  
 <B>  
   
 다에리르의 기적  
@@ -1391,7 +1404,7 @@ ID: sc_daerirsmiracle / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 나는 내 의지로 붉은 모래를 씻어낸다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1399,6 +1412,15 @@ ID: sc_daerirsmiracle / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_cureblight_ranged / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+Blessing of Daerir  
+  
+Ride the storms, lest they ride thee.  
+Consume the red sands, lest they consume thee  
+By the one from the dark waters  
+By the one who was first in the deep waters  
+By my will I cleanse thee of the red sands.  
+  
+  
 다에리르의 축복  
   
   
@@ -1412,7 +1434,7 @@ ID: sc_cureblight_ranged / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 내 뜻대로 너를 붉은 모래로부터 정화시켜 주겠다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1551,7 +1573,7 @@ ID: bk_manyfacesmissinggod / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 "그러나 트리니막과 아우리엘이 로르칸의 심장을 파괴하려 하자 심장이 그들을 비웃었다. 심장은 말했다. '이 심장은 세계의 심장이다. 서로가 서로를 만족시키도록 하나가 만들어졌기 때문이다.' 그래서 아우리엘은 그것을 화살에 매달아 바다 멀리 쏘아 보냈다. 새 세계의 어떤 측면도 결코 찾아낼 수 없는 곳으로."
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1588,7 +1610,7 @@ ID: bk_fragmentonartaeum / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 [주: 저자는 현재 아르테움 평의회의 사르게니우스 대가가 너그러이 허락하여 아르테움 섬에 머물고 있다.]
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1613,7 +1635,7 @@ ID: bk_NerevarMoonandStar / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 하지만 네레바르가 반지를 가지고 다시 돌아와 거짓 신들을 몰아내고, 반지의 힘으로 부족들에게 한 약속을 지켜 정령들을 숭배하고 외부인들을 땅에서 몰아낼 것이라고 전해집니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1641,7 +1663,7 @@ ID: BookSkill_Alteration5 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 이 이론의 추종자들은 다른 모든 "심장 이야기"가 달의 진정한 기원을 타락시킨 신화라고 주장한다. 물론 그들이 "속 빈 초승달 이론"도 따른다는 점은 굳이 말할 필요가 없다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1687,7 +1709,7 @@ ID: bk_saryoni_note / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 비벡의 사제이자 대사제 보좌관 딜레노 로란
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1751,7 +1773,7 @@ ID: BookSkill_Armorer1 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 하자디르는 계약을 따냈다. 아르고니안의 전투 전술과 무기, 그리고 그것에 가장 잘 맞서는 법을 아는 지식을 바탕으로 아르마니아스의 반란을 진압할 전쟁 장비를 설계했다. 카타리아는 평의회의 존경을 얻었고, 마지못해서나마 밍글루미레 영주의 존경도 얻었다. 시롤루스 사쿠스는 하자디르가 그곳에서 배운 것을 배우려고 모로윈드로 떠났으며, 이후 다시는 소식이 없었다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1896,7 +1918,7 @@ ID: bk_istunondescosmology / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 모로윈드에서 전부 찾을 수 있으리.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1987,7 +2009,7 @@ ID: bookskill_sneak4 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 먹이가 되는 것.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1995,9 +2017,10 @@ ID: bookskill_sneak4 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_dedresmasterfuleye / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+BY THE GODS, I INVOKE THIS POWER  
 신이시여, 저는 이 힘을 불러냅니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -2005,9 +2028,10 @@ ID: sc_dedresmasterfuleye / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_daynarsairybubble / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -2077,7 +2101,7 @@ ID: bk_BookOfDaedra / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 "...말라카스는 스컬지가 동족 데이드라에게 강력한 힘을 발휘하도록 축복했지만, 그것이 데이드라의 손에 들어가 악당과 버림받은 자들 사이의 사적인 전쟁 도구로 쓰이는 것을 원치 않았다. 그리하여 말라카스는 그 장치에 저주를 내렸다. 만약 어떤 어둠의 동족이 그 힘을 사용하려 한다면, 공허가 열려 그 데이드라를 삼켜버리고 망각의 공허 흐름 속으로 몰아넣어, 그곳에서 시간의 질서에 따라 현실 세계와 비현실 세계로 되돌아가게 하리라."
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -2177,7 +2201,7 @@ ID: bk_SpiritOfTheDaedra / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 이것은 우리의 이해를 넘어선다. 어째서 너희는 절망하지 않는가?
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -2185,9 +2209,10 @@ ID: bk_SpiritOfTheDaedra / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_daydenespanacea / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+MY SOUL IS PAINED. INVOKE AND RELEASE ME FROM ANGUISH AND SUFFERING  
 내 영혼이 고통스럽습니다. 저를 고통과 괴로움에서 해방시켜 주소서.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -2248,7 +2273,7 @@ ID: bookskill_axe2 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 토릭의 삼촌이 모로윈드를 떠날 계획이라는 사실은 널리 알려져 있었으므로, 그의 실종은 아무런 의심도 사지 않았다. 집과 모든 소유물은 채권자들에게 팔렸지만 토릭은 도끼를 챙겼다. 돌이켜 보면 삼촌은 결국 그에게 쓸 만한 장사 기술을 몇 가지 가르쳐 준 셈이었다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -2297,7 +2322,7 @@ ID: bk_honorthieves / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 도둑이 되는 것은 전사가 되는 것과 다르다. 동네 길드 회관에 그냥 찾아가면 되는 일이 아니다. 도둑 길드에는 길드 회관이 없다. 하지만 도둑은 친구들이 있는 곳에 모인다. 친구들은 어디에 있을까? 동네 코너클럽이나 교역소다. 바덴펠에서는 발모라, 알드룬, 사드리스 모라, 비벡의 외국인 구역에서 친구를 찾아라.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -2436,7 +2461,7 @@ ID: bookskill_security5 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 헤리아는 살아 있는 마지막 순간에야 Tressed를 거꾸로 쓰면 Dessert가 된다는 사실을 깨달았다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -2444,9 +2469,10 @@ ID: bookskill_security5 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_gamblersprayer / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -2606,7 +2632,7 @@ ID: bk_poisonsong1 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 테이와 베이나라는 빠른 걸음으로 돌아갔다. 테이는 돌아가도 바스터가 없으리라는 사실을 알았다. 그는 다시는 집에 돌아오지 않을 것이다. 수정 구슬은 테이가 주운 잡동사니 아래에 숨겨져 가방 안에 꼭 들어맞아 있었다. 테이는 마음을 다해 노래가 돌아와 협곡과 길고 고요한 추락의 기억을 덮어 버리기를 기도했다. 소년은 너무 놀라 비명을 지를 시간조차 없었다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -2700,7 +2726,7 @@ ID: bk_poisonsong2 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 바이나라는 자신이 알고 있는 것을 그에게 결코 말하지 않았다. 두려웠기 때문이다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -2812,7 +2838,7 @@ ID: bk_poisonsong3 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 테이는 사람들이 경비병을 부르기 시작하자 거리로 뛰쳐나갔다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -2915,7 +2941,7 @@ ID: bk_poisonsong4 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 "세르조," 그녀는 숨이 막힐 듯 말했다. "제발 와 주세요! 누군가 해변에 떠밀려 왔어요! 당신 사촌인 세르조 인도릴테이예요!"
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -3075,7 +3101,7 @@ ID: bk_poisonsong5 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 "제6가문이 다시 일어설 것이며, 다고스-티톤이 우리를 이끌 것이다!" 아크라는 웃으며 말했다. 그녀의 말이 아직도 귓가에 맴도는 가운데, 그녀는 귀환의 표식을 하고는 유령처럼 사라졌다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -3196,7 +3222,7 @@ ID: bk_poisonsong6 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 "우리가 제때 그가 어디 있는지 찾을 수만 있다면,"이라고 바이나라가 말했다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -3308,7 +3334,7 @@ ID: bk_poisonsong7 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 다고스-아크라는 화산 분화구에 최대한 가까이 서서 뜨거운 열기에 흠뻑 젖은 화산재를 바라보며 눈을 깜빡였다. 그녀는 모든 것을 지켜보다가 미소를 지었다. 땅바닥에는 다고스 가문의 문장이 새겨진 은반지가 떨어져 있었다. 티톤이 땀을 너무 많이 흘려서 반지가 빠져버린 것이었다. 그녀는 반지를 주워 자신의 손가락에 끼웠다. 배를 만지자 모로윈드의 독 노래의 새로운 후렴구가 들려왔다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -3505,7 +3531,7 @@ ID: bk_BM_Aevar / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 "그렇지 않나요?"
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 

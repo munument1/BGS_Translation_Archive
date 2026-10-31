@@ -136,4 +136,4 @@ ID: BookSkill_Enchant2 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 매그너스 셉팀 황제가 죽었다. 훗날 광인 펠라기우스로 알려질 그의 아들이 대관식을 올렸다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)

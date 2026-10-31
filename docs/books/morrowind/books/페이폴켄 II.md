@@ -115,4 +115,4 @@ ID: BookSkill_Conjuration1 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 "말해 주마." 대현자는 그렇게 말하고 이야기를 계속했다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)

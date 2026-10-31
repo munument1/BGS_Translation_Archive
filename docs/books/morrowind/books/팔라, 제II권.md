@@ -127,4 +127,4 @@ ID: bookskill_enchant3 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 이로써 내 이야기는 지금 이 순간에 이르렀다. 사랑은 피처럼 붉다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)

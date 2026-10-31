@@ -46,7 +46,7 @@ ID: bk_LivesOfTheSaints / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 경건함을 배우고 싶다면 재단사와 염색공의 수호성인인 성 로시스를 따르십시오. 트리뷰널과 동시대인이자 동료였으며, 트리뷰널 신전에서 가장 사랑받는 알마 룰라였던 그는 새 사원 신앙의 핵심 의식과 원칙을 정립했습니다. 성 로시스는 신과 신도 사이를 잇는 상징적인 인간의 다리이자, 전형적인 사제입니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -203,7 +203,7 @@ IV.
   
 니에놀라스의 위쪽 삼분의 일은 세 번째 문 뒤에 있었네.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -211,9 +211,10 @@ IV.
 
 ID: sc_thirdbarrier / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -262,7 +263,7 @@ ID: bk_seydaneentaxrecord / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 보두니우스 누치우스 - 87마리의 수컷 오리
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -284,7 +285,7 @@ ID: bk_a1_2_introtocadiusus / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 하스팟 안타볼리스
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -315,7 +316,7 @@ ID: bk_seniliasreport / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 세닐리우스 카디우수스
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -323,9 +324,10 @@ ID: bk_seniliasreport / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_sertisesporphyry / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -446,7 +448,7 @@ ID: bookskill_blunt weapon3 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 술집에서 비틀거리며 나온 취객은 골목의 어둠 속에서 흐느끼는 신음과 나직한 속삭임이 함께 들려오는 것을 들었다. "이번에는 제대로 세어 보죠. 하나. 둘. 셋. 넷. 다섯. 여섯. 일곱..."
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -454,9 +456,10 @@ ID: bookskill_blunt weapon3 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_selisfieryward / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -464,9 +467,10 @@ ID: sc_selisfieryward / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_selynsmistslippers / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -500,7 +504,7 @@ ID: bk_Sovngarde / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 이제 노드족이 진실을 알 때가 왔습니다. 영원한 생명은 그들의 것이 될 수 있으며, 결코 이룰 수 없는 것을 헛되이 쫓으며 필멸의 삶을 허비할 필요가 없습니다. 결국 모든 용감한 노드족은 소븐가르드에 입성할 수 있습니다. 사지가 절단되거나, 참수되거나, 내장이 뜯겨 나가는 고통은 쇼르의 경이로운 전당에서 영원을 보낼 기회에 비하면 작은 대가에 불과할 것입니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -543,7 +547,7 @@ BOK DWKB
   
 SUGZD PCJEK
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -556,7 +560,7 @@ ID: bk_Irano_note / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 [지난 몇 주간의 경비 근무표 사본인데, 글씨가 너무 작아서 거의 알아볼 수 없고, 오타도 잦다. 하지만 밀벨라 드랄렌, 이불렌 이라노, 알레리 아렌 이렇게 세 이름은 항상 정확하게 적혀 있다. 그리고 이 세 사람이 모두 왕좌실에 있는 유일한 경비병일 때는 두 줄로 밑줄이 그어져 있다.]
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -593,7 +597,7 @@ ID: bk_Alen_note / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 베달 알렌
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -606,7 +610,7 @@ ID: bk_notefromsondaale / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 손달레
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -616,7 +620,7 @@ ID: bk_Teran_invoice / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 오늘 바닥 수리를 마쳤습니다. 대금을 지불해 주십시오. 명심하세요, 제가 고블린을 가둔 것처럼 언제든 풀어줄 수 있습니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -644,7 +648,7 @@ ID: bk_pillowinvoice / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 발송: 제3시대 426년 아침별의 달 8일
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -660,7 +664,7 @@ ID: bk_V_hlaaluprison / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 랄린 파로스란은 흘라알루 가문의 귀족에게 뇌물을 주려 한 혐의로 체포되었다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -739,7 +743,7 @@ ID: bk_PilgrimsPath / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 긍지의 성소는 유령울타리 안, 고스트게이트 바로 북동쪽에 있다. 고스트게이트로 가는 가장 안전한 길은 포야다 마마를 따라가는 것이다. 이 화산 협곡은 붉은 산 꼭대기에서 남서쪽으로 뻗어 발모라 바로 아래에서 끝난다. 문모스 요새 근처에서는 오래된 드웨머 다리가 포야다를 가로지른다. 순례자는 포야다 마마를 끝까지 따라 고스트게이트에 갈 수 있다. 유령울타리 안으로 들어가는 모든 여정은 위험하지만, 아무리 겁 많은 순례자라도 고스트게이트에서 너무 멀리 벗어나지 않고 다고스 우르의 하수인들을 만나면 달아나는 한 안전할 것이다. 성소에 기도할 때에는 트리뷰널을 섬기도록 결박된 우리 선조들을 기억하며 영혼석 하나를 남기는 것이 관례다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -747,9 +751,10 @@ ID: bk_PilgrimsPath / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_Chappy_sniper_test / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -757,9 +762,10 @@ ID: sc_Chappy_sniper_test / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_hiddenkiller / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -825,7 +831,7 @@ ID: sc_unclesweetshare / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 헤헤! 하호! 헤헤헤 하하호!
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -859,7 +865,7 @@ ID: bk_Confessions / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 틸제 센다스의 이야기는 독자를 초기 열광, 황홀한 집착, 그리고 중독으로 인한 심각한 타락의 단계로 이끌어갑니다. 이야기 속에서 작가는 중독자의 절망이 오직 무력하고 어리석은 사람만이 스쿠마에 중독될 수 있다는 무의식적인 생각, 즉 스쿠마의 짜릿한 쾌락을 한번 맛본 사람은 결코 끊을 수 없다는 생각에서 비롯된다는 것을 미묘하게 보여줍니다. 틸제 센다스는 중독자가 자기혐오라는 짐을 극복할 때 비로소 구원의 가능성이 열린다는 것을 보여줍니다. 그리고 사회가 굳게 믿는 모든 통념에 반하여, 중독자가 반드시 스쿠마를 끊어야 하는 것이 아니라, 그것은 중독자가 내려야 하는 여러 선택 중 하나일 뿐이라고 말합니다. 틸세 센다스가 스쿠마 중독이 반드시 도덕적, 개인적 나약함의 징표는 아니라는 무심한 주장을 펼친 것은 치료가 가능하다는 그녀의 논지에 필수적인 요소이지만, 이는 던머 사회의 고결하고 보수적인 계층에게 그녀와 그녀의 책을 호감 있게 만들지는 못했다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -878,7 +884,7 @@ ID: bk_EggOfTime / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 <IMG SRC="EggOfTime_Illust4.tga" WIDTH="240" HEIGHT="240">
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -909,7 +915,7 @@ ID: BookSkill_Alteration3 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 AE HERMA MORA ALTADOON PADHOME LKHAN AE AI.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -940,7 +946,7 @@ ID: bk_HouseOfTroubles_c / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 이 네 악령을 숭배하는 것은 사원의 법과 관습에 어긋납니다. 그러나 그러나 네 귀퉁이의 존재들은 탐욕스럽거나 무모하거나 미쳐서 자신들을 섬길 자들을 좀처럼 놓치지 않습니다. 고대 사원의 법과 관습, 그리고 제국 법에 따라 마녀와 워록은 목숨을 몰수당하며, 제국 수비대는 사원의 오디네이터와 부이언트 아미거과 함께 이 사악한 마녀단을 추적하여 그들이 불경한 숭배를 숨겨 행하는 황야의 은신처와 고대 유적지에서 소탕합니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -971,7 +977,7 @@ ID: bk_HouseOfTroubles_o / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 이 네 악령을 숭배하는 것은 사원의 법과 관습에 어긋납니다. 그러나 그러나 네 귀퉁이의 존재들은 탐욕스럽거나 무모하거나 미쳐서 자신들을 섬길 자들을 좀처럼 놓치지 않습니다. 고대 사원의 법과 관습, 그리고 제국 법에 따라 마녀와 워록은 목숨을 몰수당하며, 제국 수비대는 사원의 오디네이터와 부이언트 아미거과 함께 이 사악한 마녀단을 추적하여 그들이 불경한 숭배를 숨겨 행하는 황야의 은신처와 고대 유적지에서 소탕합니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1320,7 +1326,7 @@ ID: bk_playscript / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 끝.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1333,7 +1339,7 @@ ID: bk_shishireport / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 브레라마 셀라스
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1388,7 +1394,7 @@ ID: bk_corpsepreperation1_c / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 동물에게도 강령술을 행할 수 있지만 그런 실험은 흥미로운 결과를 거의 만들지 못한다. 하인이 지시를 따르는 능력은 생전 대상의 지능과 관련된 듯하다. 인간, 엘프, 수인의 시체를 일으키면 유용한 하인을 만들 수 있지만 동물 시체는 기껏해야 경비견 정도다. 되살린 동물은 주인과 다른 산 자를 구별하지 못하는 경우가 많고, 아마추어 수행자 중 상당수가 자신이 만든 동물 하인에게 찢겨 죽었다. 그런 이야기를 교훈으로 삼아라.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1443,7 +1449,7 @@ ID: bk_corpsepreperation1_o / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 동물에게도 강령술을 행할 수 있지만 그런 실험은 흥미로운 결과를 거의 만들지 못한다. 하인이 지시를 따르는 능력은 생전 대상의 지능과 관련된 듯하다. 인간, 엘프, 수인의 시체를 일으키면 유용한 하인을 만들 수 있지만 동물 시체는 기껏해야 경비견 정도다. 되살린 동물은 주인과 다른 산 자를 구별하지 못하는 경우가 많고, 아마추어 수행자 중 상당수가 자신이 만든 동물 하인에게 찢겨 죽었다. 그런 이야기를 교훈으로 삼아라.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1465,7 +1471,7 @@ ID: bk_corpsepreperation2_c / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 학생에게 한 가지 더 일러 둔다. 대부분의 언데드는 거듭 일으킬 수 있지만 해골은 다시 일으킬 수 없을 정도로 손상되는 일이 많다. 해골 준비에 공을 들여야 하는 또 다른 이유다. 너무 많은 젊은 강령술사가 아무 준비도 거의 없이 눈에 보이는 해골을 모조리 일으킨다. 시체를 구하기 어렵다는 점을 생각하면 이런 비효율은 용납할 수 없다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1493,7 +1499,7 @@ ID: bk_corpsepreperation3_c / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 다음 단계는 하인을 천이나 리넨으로 감싸는 것이다. 이는 몸을 부패에서 더욱 보존하고, 올바르게 하면 어느 정도 보호도 제공한다. 시체가 너무 뻣뻣하거나 말라 유용한 하인이 되지 못할 듯 보여도 걱정하지 마라. 올바른 의식은 미라 시체에 스스로 움직일 힘을 불어넣는다. 무엇보다 훨씬 강하며 더 독립적이고 이해력 있게 명령을 따르는 하인을 얻게 될 것이다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1518,7 +1524,7 @@ ID: bk_colonyreport / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 팔코 갈레누스
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1561,7 +1567,7 @@ ID: bk_OverviewOfGodsAndWorship / 플러그인: Morrowind_Korean_ReTranslation.e
   
 그러한 영들의 존재는 그들이 스스로 남신이나 여신의 수준까지 올라갈 수 있다는 추측으로 이어진다. 제국 신학교의 모투수오는 이 영들이 세월이 흐르며 추종자를 전부 또는 대부분 잃고 가장 초기의 기본 형태로 되돌아간 신들의 잔재일 수 있다고 주장했다. 옛길을 따르는 수행자들은 신은 없고 더 크고 작은 영들만 있을 뿐이라고 말한다. 어쩌면 세 이론이 모두 참일 수도 있다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1589,7 +1595,7 @@ ID: bk_galerionthemystic / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 이렇게 마법사 길드의 첫 아크마기스터가 수련받았다. 그는 아르테움 섬의 사이직에게서 교육을 받았다. 궁핍과 부정의로 가득했던 어린 시절에서 지식을 나누어야 한다는 철학을 얻었다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1620,7 +1626,7 @@ ID: bk_Mysticism / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 이 설명들 가운데 어느 것도 홀로는 완전히 만족스럽지 않다. 신비술을 처음 배우는 학생은 지난 수세기의 소용돌이에서 구별되는 규칙을 그대로 익히는 것이 가장 좋다. 더 많은 규칙을 발견할수록 남은 것들도 선명해진다. 물론 그것들이 변하기 전까지만. 반드시 변할 수밖에 있으므로. 그러면 여정은 다시 시작된다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1654,7 +1660,7 @@ ID: bk_MysteriousAkavir / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 토시 라카는 "우선 흡혈 뱀들을 모두 죽여야 한다"고 말합니다. "그다음에는 호랑이-용 황제가 탐리엘을 침공하려 한다."
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1670,7 +1676,7 @@ ID: bk_DivineMetaphysics / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 <IMG SRC="DivineMetaphysics_text2.tga" WIDTH="240" HEIGHT="240">
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1678,9 +1684,10 @@ ID: bk_DivineMetaphysics / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_celerity / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+INVOKE IN THE NAME OF RIGHTEOUSNESS  
 정의의 이름으로 기도하라
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 

@@ -142,4 +142,4 @@ ID: BookSkill_Conjuration2 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 "서기관과 저주받은 깃펜 이야기에는 적절한 결말이구나." 대현자가 미소 지었다. "어떻게 해석할지는 너희에게 맡기마."
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)

@@ -49,7 +49,7 @@ ID: bk_vivec_murders / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 신격화된 지 수천 년이 지난 지금도 트리뷰널은 모로윈드의 신이며 옛 숭배 방식은 소수만 기억한다. 네레바의 살해를 아는 자는 더욱 적다. 하지만 왕비와 장군들은 여전히 그의 귀환을 두려워한다. 아주라의 말은 오래 남으며, 그들은 날마다 백성에게 새겨진 저주의 표식을 보기 때문이다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -119,7 +119,7 @@ ID: bk_redbookofriddles / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 대단한 한 방이었을 것이다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -127,9 +127,10 @@ ID: bk_redbookofriddles / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_redweakness / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -137,9 +138,10 @@ ID: sc_redweakness / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_redfate / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -147,9 +149,10 @@ ID: sc_redfate / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_reddespair / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -157,9 +160,10 @@ ID: sc_reddespair / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_redmind / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -167,9 +171,10 @@ ID: sc_redmind / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_reddeath / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -185,7 +190,7 @@ ID: sc_Erna / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 사랑을 담아, 에르나
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -193,9 +198,10 @@ ID: sc_Erna / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_brevasavertedeyes / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+MY GODS, MAY THIS INVOCATION PROVE MY DEDICATION AND WORTH  
 오, 신들이시여, 이 기도가 저의 헌신과 가치를 증명하게 하소서.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -352,7 +358,7 @@ ID: bk_guide_to_vvardenfell / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 셰오고라드 섬은 브바르덴펠 북쪽에 위치한 거대한 섬입니다. 이 섬과 그 주변의 작은 섬들은 브바르덴펠에서 북쪽으로 유령의 바다까지 뻗어 있는 해양 황무지입니다. 이 지역은 대부분 적대적이고 사람이 살지 않으며, 알드 레다이나와 다곤 펠에 작은 마을 두 곳이 있을 뿐입니다. 다곤 펠에만 배를 이용할 수 있으며, 다른 섬들 간의 이동은 여행자가 직접 준비해야 합니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -362,7 +368,7 @@ ID: bk_ordersforbivaleteneran / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 AKJS DHFK AJEH NFFA JKWH EFKJ ADSH CALS EKRY LCAM IWYR AMLX KERM HLAK SJDF AJSC NCMN ALSK DJFO QIWE URPO QYET UIRY HTJK DVNM CXZV NSMC FNLS AKFY JTQP OIRE UTPW EOIG SDKJ FVNB ZMCV NAMC SVNA QLKJ FOQI REUT WPOI RGKJ SDFH VNJC XZVN
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -429,7 +435,7 @@ ID: bk_guide_to_vivec / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 이본하트 지역과 흘라알루 컴파운드, 북쪽 해안 지역과 외국인 거주 지역, 그리고 동쪽 해안 지역과 텔바니 컴파운드 사이에는 보행자 전용 다리가 본토와 연결되어 있습니다. 흘라알루 컴파운드 다리에서 남쪽으로는 이본하트, 북쪽으로는 세이다 닌과 그 북쪽 지역으로 이어지는 잘 닦인 도로가 있습니다. 외국인 거주 지역 다리에서 서쪽으로는 세이다 닌, 북쪽으로는 수란과 아스카디아 제도, 동쪽으로는 몰라그 마르로 이어지는 잘 닦인 도로가 있습니다. 텔바니 컴파운드 다리에서 시작하는 도로는 주로 몰라그 마르로 가는 여행객들에게 유용합니다. 외국인 거주 지역 다리 북쪽 끝에서는 비벡에서 수란, 세이다 닌, 발모라, 몰라그 마르까지 운행하는 소형 화물선(실트 스트라이더)을 이용할 수 있습니다. 외국인 거주 지역 부두에서는 이본하트, 흘라 오아드, 몰라그 마르, 텔 브라노라행 선박이 운항합니다. 인근 이본하트에서는 흘라 오아드, 사드리스 모라, 텔 브라노라, 그리고 비벡의 외국인 거주 지역으로 가는 선박이 운항합니다. 저렴한 요금의 곤돌라가 비벡의 운하를 통해 승객들을 칸톤에서 칸톤으로 실어 나릅니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -454,7 +460,7 @@ ID: bk_a1_v_vivecinformants / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 세 사람 모두와 이야기해 줄 수 있는 정보를 얻은 뒤 돌아와 보고하라.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -491,7 +497,7 @@ ID: bk_vivecandmephala / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 대중에게 드러난 비벡의 얼굴은 온화하고 섬세하며 자비롭고 추종자들을 보호한다. 동시에 던머는 비벡의 숨겨진 측면, 곧 선행자의 더 원시적이고 무자비한 충동과 연결된 폭력과 욕정, 음모라는 어두운 요소를 비이성적일 만큼 편안하게 받아들이는 듯하다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -534,7 +540,7 @@ ID: BookSkill_Mysticism4 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 시작은 ALMSIVI이다. 비벡으로서 그대에게 이것을 주노라.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -589,7 +595,7 @@ ID: BookSkill_Mysticism3 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 끝은 ALMSIVI이다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -632,7 +638,7 @@ ID: bookskill_spear3 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 끝은 ALMSIVI니라.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -690,7 +696,7 @@ ID: BookSkill_Axe5 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 끝은 ALMSIVI니라.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -778,7 +784,7 @@ ID: bookskill_enchant4 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말들의 끝은 ALMSIVI다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -839,7 +845,7 @@ ID: bookskill_light armor4 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 끝은 ALMSIVI이다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -897,7 +903,7 @@ ID: bookskill_medium armor4 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말의 끝은 ALMSIVI다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -955,7 +961,7 @@ ID: bookskill_spear4 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 끝은 ALMSIVI니라.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -992,7 +998,7 @@ ID: BookSkill_Armorer4 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말의 끝은 ALMSIVI다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1046,7 +1052,7 @@ ID: bookskill_sneak5 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 끝은 알름시비다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1107,7 +1113,7 @@ ID: bookskill_speechcraft5 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 끝은 알름시비다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1147,7 +1153,7 @@ ID: bookskill_light armor5 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 끝은 ALMSIVI이다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1274,7 +1280,7 @@ ID: BookSkill_Armorer5 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말의 끝은 ALMSIVI다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1335,7 +1341,7 @@ ID: bookskill_medium armor5 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말의 끝은 ALMSIVI다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1354,7 +1360,7 @@ ID: bookskill_spear5 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 끝은 ALMSIVI니라.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1409,7 +1415,7 @@ ID: BookSkill_Axe4 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 끝은 ALMSIVI니라.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1506,7 +1512,7 @@ ID: BookSkill_Armorer3 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말의 끝은 ALMSIVI다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1561,7 +1567,7 @@ ID: BookSkill_Athletics3 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 끝은 ALMSIVI다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1595,7 +1601,7 @@ ALMSIVI, 혹은 적어도 비벡이 되기를 선택한 그 한 측면은 웨스
   
 말씀의 끝은 ALMSIVI다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1650,7 +1656,7 @@ ID: BookSkill_Athletics4 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 끝은 ALMSIVI다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1723,7 +1729,7 @@ ID: BookSkill_Short Blade4 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 끝은 알름시비다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1772,7 +1778,7 @@ ID: bookskill_unarmored3 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 끝은 ALMSIVI다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1842,7 +1848,7 @@ ID: bookskill_heavy armor5 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말의 끝은 ALMSIVI이다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1942,7 +1948,7 @@ ID: bookskill_unarmored4 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 끝은 ALMSIVI다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -2003,7 +2009,7 @@ ID: BookSkill_Alchemy5 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 세계의 끝은 ALMSIVI다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -2061,7 +2067,7 @@ ID: BookSkill_Alchemy4 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 말씀의 끝은 ALMSIVI다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 

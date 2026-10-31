@@ -28,7 +28,7 @@ ID: bk_easternprovincesimpartial / 플러그인: Morrowind_Korean_ReTranslation.
   
 공정하게 판단해 보면, 우리가 동부 지방을 점령한 것은 도덕적으로 타락했고, 군사적으로 방어할 수 없으며, 경제적으로 파멸을 초래하는 행위입니다. 따라서 우리는 동부 군단을 해산하고, 제국 관료들과 독점 세력을 동부에서 철수시켜, 이 유서 깊은 땅과 민족들에게 자유를 되돌려주어야 합니다. 그렇게 해야만 서구 문화의 연약한 이상과 운명을 지켜낼 수 있을 것입니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -38,7 +38,7 @@ ID: bk_eastempirecompanyledger / 플러그인: Morrowind_Korean_ReTranslation.es
 
 [이 장부에는 동제국 회사가 바덴펠에서 사고판 물품이 기록되어 있다.]
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -66,7 +66,7 @@ ID: bk_BM_Stockcert / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 C. 마기우스
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -88,7 +88,7 @@ ID: bk_PigChildren / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 오크의 야만성에 관한 이야기는 문헌 기록보다 오래되었다. 야스티아가가 1시대 950년 디아그나 기사단이 대거폴과 센티넬의 군대에 합류해 "더러운 오시니움 요새에서 사악한 오크들을 막고... 정화의 불로 모든 것을 태운" 일을 기록했을 때 독자라면 누구나 오크의 야만성을 안다고 전제했다. 많은 영웅, 그중 가이덴 신지가 죽은 뒤 30년 만에 공성전이 끝나고 오시니움이 파괴되어 생존 오크들이 로스가리안 산맥 전역으로 흩어지자 그녀는 다시 썼다. "자유민은 오래된 흉악한 적이 여러 곳으로 흩어진 것을 기뻐했다." 오크는 적어도 1시대 초기부터 일리악 만 지역을 공포에 떨게 했음이 분명하다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -96,9 +96,10 @@ ID: bk_PigChildren / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_secondbarrier / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -106,9 +107,10 @@ ID: sc_secondbarrier / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_drathiswinterguest / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+GREED EVENTUALLY TRAPS US ALL  
 탐욕은 결국 우리 모두를 덫에 걸리게 한다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -116,9 +118,10 @@ ID: sc_drathiswinterguest / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_drathissoulrot / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+THAT WHICH DEFINES YOU WILL PROVE TO BE YOUR UNDOING  
 당신을 규정하는 것이 결국 당신의 파멸로 이어질 것입니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -143,7 +146,7 @@ ID: BookSkill_Alteration2 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 오늘날 현대 고고학과 고대수리학은 내가 알레시안 연대 연구에서 처음 제시한 바를 확인해 주었다. 즉 드래곤 브레이크는 제3시대 말에 학문적 오류를 바탕으로 만들어졌고, 종말론과 누미디움주의에 대한 집착이 불을 지폈으며, 학계의 관성으로 영속되었다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -153,7 +156,7 @@ ID: bk_Dren_shipping_log / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 [오르바스 드렌이 날짜와 거래 상대까지 기록한 입출고 장부로 보인다.]
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -169,7 +172,7 @@ ID: bk_drenblackmail / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 디
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -182,7 +185,7 @@ ID: bk_dwemermuseumwelcome / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 아리온 대가
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -207,7 +210,7 @@ ID: bk_AntecedantsDwemerLaw / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 텐마르 숲의 거친 짐승에 관해 다르크가 언급한 내용을 비교해 보면 유익하다. "습지 고양이가 아르고니안에게 죽으면 그 가족은 그 아르고니안이나 그와 같은 다른 자를 죽여 보복할 때까지 수치를 입었다. 더 나아가 습지 고양이가 나무에서 떨어져 죽었다면 친족들은 그 나무를 쓰러뜨리고 가지를 산산이 부순 뒤 숲 구석구석에 내던져 복수했다."
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -223,7 +226,7 @@ ID: bk_SecretsDwemerAnimunculi / 플러그인: Morrowind_Korean_ReTranslation.es
   
 <IMG SRC="Secret_Of_Dwemer3.tga" WIDTH="240" HEIGHT="240">
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -231,9 +234,10 @@ ID: bk_SecretsDwemerAnimunculi / 플러그인: Morrowind_Korean_ReTranslation.es
 
 ID: sc_didalasknack / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+IN THE NAME OF THE GODS!  
 신들의 이름으로!
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -264,7 +268,7 @@ DIIDTWCDCVIDMBGHGHSWGBJHGBEGIJKXEBGQFDCAIJFBDHUVCDGBPCHBCDHJDHBBVQHBHKIDEBEBGHMI
   
 BJTXCDBDSIBBVZFDQSBBBJBJUFBBIDBJEBXMABRBBBEBEBIJDHCJEBEBHJ
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -277,7 +281,7 @@ ID: bk_notefromradras / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 라드라스
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -285,9 +289,10 @@ ID: bk_notefromradras / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_radrenesspellbreaker / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -295,9 +300,10 @@ ID: sc_radrenesspellbreaker / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_radiyasicymask / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -307,7 +313,7 @@ ID: bk_ravilamemorial / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 이 방과 전시물은 하이라트-바사미시 알 광산에서 황폐병을 몰아내는 성전에 나섰다가 죽은 라빌라 네룐을 추모하기 위해 바친다. 그 영혼이 영원히 평안히 쉬기를.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -338,7 +344,7 @@ ID: bk_letterfromllaalam / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 데이드라 유물 - +35%
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -369,7 +375,7 @@ ID: bk_letterfromllaalam2 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 데이드라 유물 - +35%
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -382,7 +388,7 @@ ID: bk_Redoran_Vaults_Ledger / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 [이 책에는 레도란 금고의 모든 상거래 및 거래에 대한 세심한 기록과 최신 보유액 현황이 담겨 있습니다.]
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -437,7 +443,7 @@ ID: bk_redorancookingsecrets / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 만든 고기를 팬에 넣고 센 불에서 볶습니다. 고기가 갈색으로 변하기 시작하면 소금밥을 넣습니다. 잠시 볶다가 새우와 콰마알을 넣습니다. 콰마알이 완전히 익고 새우가 녹으면 팬에서 파이 크러스트에 붓습니다. 재소금을 뿌리고 파이 크러스트를 덮습니다. 예열된 오븐에서 15분간 굽습니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -510,7 +516,7 @@ ID: bookskill_blunt weapon1 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 아틴은 아버지의 평의원 의석을 물려받았다. 그러자 사람들은 징조 속 희망이 안다스가 아니라 아틴을 가리킨 것이었다고 말했다. 결국 안다스가 사촌의 평의원 자리를 빼앗으려 하지 않았다면, 야심이 크지 않았던 아틴은 그 자리를 얻으려 나서지 않았을지도 모른다. 아마 그렇게 주장할 수도 있을 것이다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -518,9 +524,10 @@ ID: bookskill_blunt weapon1 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_reynosbeastfinder / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -528,9 +535,10 @@ ID: sc_reynosbeastfinder / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_reynosfins / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -555,7 +563,7 @@ ID: bk_stronghold_ld_hlaalu / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 %PCName
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -571,7 +579,7 @@ ID: bk_shalitjournal_deal / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 멀브룰레아는 현재 상황에 매우 불만스러워하고 있으며, 저 역시 동감합니다. 이대로는 좋은 결말을 맞을 수 없겠지만, 새로운 안전지대가 마련될 때까지는 이대로 나아가야 합니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -579,9 +587,10 @@ ID: bk_shalitjournal_deal / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_llirosglowingeye / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -600,7 +609,7 @@ ID: bk_BMtrial_unique / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 RH
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -628,7 +637,7 @@ ID: bk_dispelrecipe_tgca / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 혼합물을 끓여 증기를 모은다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -674,7 +683,7 @@ V. 회원 가입 신청
   
 각 지부는 알드룬, 발모라, 칼데라 마을에 있는 길드 소유의 독립형 길드 회관에 설립됩니다. 사드리스 모라 지부는 텔바니 의회로부터 임대한 울버린 홀에, 비벡 지부는 트리뷰널 신전으로부터 임대한 외국인 거주 지역에 설립됩니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -711,7 +720,7 @@ ID: bk_OriginOfTheMagesGuild / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 마법사 길드원이 아니어도 이 세심하게 꾸민 위계질서가 흔히 허상에 지나지 않는다는 사실을 알 수 있다. 바누스 갈레리온 본인이 탐리엘을 떠나 다른 땅으로 여행하며 씁쓸하게 말했듯, "길드는 복잡하게 뒤엉킨 정치적 내분 외에는 아무것도 아니게 되었다."
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -727,7 +736,7 @@ ID: bk_notetocalderamages / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 스틀레니우스
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -779,7 +788,7 @@ ID: bk_AffairsOfWizards / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 그러나 외부인이 텔바니 가문 계급에서 승진하기는 매우 어렵다. 일부 후보에게 가장 불안한 점은 경쟁자를 살해하거나 암살하는 일을 승진 수단으로 아무렇지 않게 받아들이는 텔바니 가문의 태도다. 경쟁자를 죽여 자신의 자격을 증명하기 꺼리거나 그토록 무자비한 환경에서 경쟁하는 일이 불편하다면 마법사 길드에 시간과 노력을 쓰는 편이 낫다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -787,9 +796,10 @@ ID: bk_AffairsOfWizards / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_mageseye / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -797,9 +807,10 @@ ID: sc_mageseye / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_mageweal / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -807,9 +818,10 @@ ID: sc_mageweal / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_lordmhasvengeance / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+WOE UPON YOU  
 너희에게 화가 있을지어다
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -885,7 +897,7 @@ ID: bookskill_enchant5 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 얘들아, 이 이야기의 교훈은 페오실 같은 독학 마법부여사의 목숨을 앗아 간 작지만 결정적인 오류를 피하려면 스승에게 배워야 한다는 것이다. 그러나 진정으로 위대한 존재가 되는 유일한 길은 모든 가능성을 스스로 시험해 보는 것이기도 하지.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 
@@ -1027,7 +1039,7 @@ ID: BookSkill_Alchemy1 / 플러그인: Morrowind_Korean_ReTranslation.esp
   
 물론, 익명의 작성자가 서명한 서명은 원본 이후의 어떤 재인쇄본에도 나타나지 않았습니다.
 
-[출처](https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4)
+[출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
 ---
 

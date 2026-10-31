@@ -15,7 +15,7 @@
       "individual_files": 632,
       "duplicate_titles": 54,
       "available": true,
-      "sha256": "6ab57dfd40af660fe2e02c03c0d9df73f2e2db8bcda64e6f22e396c5dcbefb6e"
+      "sha256": "0ebf5888dba23f53341b08997eb9655fc9ded526af8f4d4e904aa278f4bf10c5"
     },
     {
       "game": "oblivion",
@@ -23,7 +23,7 @@
       "individual_files": 927,
       "duplicate_titles": 193,
       "available": true,
-      "sha256": "83aee59d65a4c0d7246fb33db844e79d0cb995f4e1a20190a46e2b82692a14a6"
+      "sha256": "21907b1d2b1945997c3db7ce31dc1f36fcf3cd36ee2f6f1edb8076e552005624"
     },
     {
       "game": "skyrim",
@@ -36,7 +36,7 @@
   ],
   "sources": {
     "daggerfall": "https://github.com/munument1/-KR-Daggerfall_Unity",
-    "morrowind": "https://github.com/munument1/-KR-openmw/releases/tag/openmw-0.51.0-kr4",
+    "morrowind": "https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4",
     "oblivion": "https://github.com/munument1/-KR-Oblivion-Translation",
     "skyrim": "sources/skyrim_books (localized BOOK JSONL)"
   }
