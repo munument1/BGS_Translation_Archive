@@ -1,0 +1,29 @@
+name: Audit Tamriel Translation Memory Versions
+on:
+  push:
+    paths:
+      - "tools/audit_tamriel_sync.py"
+      - ".github/workflows/audit-tamriel-sync.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit latest Morrowind and Oblivion against archive snapshots
+        run: python3 tools/audit_tamriel_sync.py
+      - name: Save review report without modifying translation source files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dictionaries/analysis/tamriel_sync_audit_20261101.json
+          if ! git diff --cached --quiet; then
+            git commit -m "audit: record Morrowind and Oblivion translation snapshot differences"
+            git pull --rebase origin main
+            git push
+          fi
