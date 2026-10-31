@@ -114,7 +114,8 @@ def morrowind_audit(data):
     with zipfile.ZipFile(io.BytesIO(data)) as z:
         for name in z.namelist():
             if name.lower().endswith((".yaml", ".yml", ".top", ".cel", ".mrk", ".jrn", ".txt", ".json")):
-                interesting_members.append({"name": name, "size": z.getinfo(name).file_size})
+                preview = z.read(name)[:450].decode("utf-8-sig", "replace")
+                interesting_members.append({"name": name, "size": z.getinfo(name).file_size, "preview": preview[:400]})
             if name.lower().endswith((".esp", ".esm")):
                 raw = z.read(name)
                 esp_list.append({"member": name, "sha256": sha(raw), "bytes": len(raw)})
