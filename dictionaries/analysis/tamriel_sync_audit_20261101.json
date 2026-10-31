@@ -394,59 +394,73 @@
     "latest_zip_nonplugin_text_members": [
       {
         "name": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.cel",
-        "size": 79912
+        "size": 79912,
+        "preview": "Abaelun Mine\t아배룬 광산\nAbaesen-Pulu Egg Mine\t아바에센풀루 알 광산\nAbanabi\t아바나비\nAbandoned Shipwreck, Cabin\t버려진 난파선, 선실\nAbandoned Shipwreck, Lower Level\t버려진 난파선, 하층\nAbandoned Shipwreck, Upper Level\t버려진 난파선, 상층\nAbebaal Egg Mine\t아베바알 알 광산\nAbernanit\t애버나닛\nAbinabi\t아비나비\nAdanumuran\t아다누무란\nAddadshashanammu, Shrine\t아다드샤샤남무, 성소\n"
       },
       {
         "name": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.jrn",
-        "size": 150
+        "size": 150,
+        "preview": "칼데라의 에보니 광산\t칼데라 에보니 광산\r\n에보니 광산\t칼데라 에보니 광산\r\n일거리\t일\r\n하지-에이\t하즈-에이\r\n"
       },
       {
         "name": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.mrk",
-        "size": 18784
+        "size": 18784,
+        "preview": "1000드레이크 기부 약속\t1000드레이크의 기부금을\r\n내 가족에 관하여\t내 가족에 관한\r\n터무니없는 생각\t터무니없는 주장이\r\n동행하다\t동행하겠\r\n불꽃 더하기\t불을 더하고\r\n가난한 아르고니안을 돕다\t아르고니안을 도와주시겠습니까\r\n나를 돕는 것\t나를 돕는 게\r\n바깥의 모든 문제\t문제를 전부 처리했나\r\n빈민을 위한 적선\t빈민을 위한 자선을\r"
       },
       {
         "name": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.top",
-        "size": 191772
+        "size": 191772,
+        "preview": "가격에 받을 수\t쥐\r\n가격을\t가격 책정\r\n가고 싶은\t특정 장소\r\n가까운 제국\t임페리얼\r\n가느다란 관목이다\t웨스트 개시\r\n가든\t은신\r\n가디언이\t대화\r\n가리켜\t필요한 것\r\n가문\t텔바니 가문\r\n가문과 그\t체력\r\n가문은 제국의 법과\t제국법\r\n가문의\t대종사\r\n가문의 새\t대종사\r\n가사 노예뿐입니다\t가내 노예\r\n가서 제국\t임페리얼\r\n가신에게는\t보안\r\n가운�"
       },
       {
         "name": "payload/mods/Morrowind_Korean_ReTranslation/l10n/Calendar/ko.yaml",
-        "size": 756
+        "size": 756,
+        "preview": "month1: \"1월\"\nmonth2: \"2월\"\nmonth3: \"3월\"\nmonth4: \"4월\"\nmonth5: \"5월\"\nmonth6: \"6월\"\nmonth7: \"7월\"\nmonth8: \"8월\"\nmonth9: \"9월\"\nmonth10: \"10월\"\nmonth11: \"11월\"\nmonth12: \"12월\"\nmonthInGenitive1: \"1월\"\nmonthInGenitive2: \"2월\"\nmonthInGenitive3: \"3월\"\nmonthInGenitive4: \"4월\"\nmonthInGenitive5: \"5월\"\nmonthInGenitive6: \"6월\"\nmonthInGenitive7: \"7월\"\nmonthInGenitive8: \"8월\"\nmonthInGenitive9: \"9월\"\nmonthInGenitive10: \"10월\"\nmonthI"
       },
       {
         "name": "payload/mods/Morrowind_Korean_ReTranslation/l10n/Interface/ko.yaml",
-        "size": 1250
+        "size": 1250,
+        "preview": "Ask: \"묻기\"\nBack: \"뒤로\"\nBarter: \"거래\"\nBuy: \"구매\"\nCancel: \"취소\"\nCenter: \"가운데\"\nClose: \"닫기\"\nContainer: \"보관함\"\nCopy: \"복사\"\nCreate: \"생성\"\nDelete: \"삭제\"\nDisposeOfCorpse: \"시체 처리\"\nDone: \"완료\"\nDrop: \"버리기\"\nDurationDay: \"{days}일 \"\nDurationHour: \"{hours}시간 \"\nDurationMinute: \"{minutes}분 \"\nDurationMonth: \"{months, plural,\\n  one{{months}개월 }\\n  other{{months}개월 }\\n}\"\nDurationSecond: \"{secon"
       },
       {
         "name": "payload/mods/Morrowind_Korean_ReTranslation/l10n/OMWCamera/ko.yaml",
-        "size": 3250
+        "size": 3250,
+        "preview": "Camera: \"OpenMW 카메라\"\nsettingsPageDescription: \"OpenMW 카메라 설정.\"\nthirdPersonSettings: \"3인칭 모드\"\nviewOverShoulder: \"어깨 너머로 보기\"\nviewOverShoulderDescription: \"3인칭 시점 모드를 설정합니다.\\n  아니요: 시점이 캐릭터의 머리를 중심으로 맞춰지고 십자선은 숨겨집니다.\\n  예: 무기를 집어넣은 동안 카메라가 캐릭터의 어깨 뒤에 위치하고 십자선은 항상 표"
       },
       {
         "name": "payload/mods/Morrowind_Korean_ReTranslation/l10n/OMWCombat/ko.yaml",
-        "size": 890
+        "size": 890,
+        "preview": "Combat: \"OpenMW 전투\"\ncombatSettingsPageDescription: \"OpenMW 전투 설정\"\ncombatSettings: \"전투\"\nunarmedCreatureAttacksDamageArmor: \"비무장 생물 공격으로 방어구 손상\"\nunarmedCreatureAttacksDamageArmorDescription: \"이제 비무장 생물도 방어구에 피해를 입힙니다.\"\nredistributeShieldHitsWhenNotWearingShield: \"방패 미착용 시 방패 부위 피격 재분배\"\nredistributeShieldHitsWhenNotWearingShieldDescription"
       },
       {
         "name": "payload/mods/Morrowind_Korean_ReTranslation/l10n/OMWControls/ko.yaml",
-        "size": 7708
+        "size": 7708,
+        "preview": "ControlsPage: \"OpenMW 조작\"\nControlsPageDescription: \"플레이어 조작과 관련된 추가 설정입니다.\"\nMovementSettings: \"이동\"\nalwaysRun: \"항상 달리기\"\nalwaysRunDescription: \"이 설정이 켜져 있으면 캐릭터가 기본적으로 달리고, 꺼져 있으면 기본적으로 걷습니다.\\nShift 키를 누르는 동안 설정이 일시적으로 반전되며, Caps Lock 키로 설정을 고정하거나 해제할 수 있습니�"
       },
       {
         "name": "payload/mods/Morrowind_Korean_ReTranslation/l10n/OMWEngine/ko.yaml",
-        "size": 11679
+        "size": 11679,
+        "preview": "ConsoleWindow: \"콘솔\"\nDebugWindow: \"디버그\"\nLogViewer: \"로그 뷰어\"\nLuaProfiler: \"루아 프로파일러\"\nPhysicsProfiler: \"물리 프로파일러\"\nAskLoadLastSave: \"가장 최근 저장 파일은 ''{save}''입니다. 불러오시겠습니까?\"\nBuildingNavigationMesh: \"내비게이션 메시 생성 중\"\nInitializingData: \"데이터 초기화 중...\"\nLoadingExterior: \"지역 불러오는 중\"\nLoadingFailed: \"저장된 게임을 로드하�"
       },
       {
         "name": "payload/mods/Morrowind_Korean_ReTranslation/l10n/OMWMusic/ko.yaml",
-        "size": 267
+        "size": 267,
+        "preview": "Music: \"OpenMW 음악\"\nsettingsPageDescription: \"OpenMW 음악 설정.\"\nmusicSettings: \"음악 구성\"\nCombatMusicEnabled: \"전투 음악 재생\"\nCombatMusicEnabledDescription: \"활성화하면 전투 중인 액터가 있을 때 전투 음악으로 전환됩니다.\"\n"
       },
       {
         "name": "payload/mods/Morrowind_Korean_ReTranslation/l10n/OMWShaders/ko.yaml",
-        "size": 2109
+        "size": 2109,
+        "preview": "Abovewater: \"수면 위\"\nActiveShaders: \"활성 셰이더\"\nAuthor: \"제작자\"\nDescription: \"설명\"\nInactiveShaders: \"비활성 셰이더\"\nInExteriors: \"실외\"\nInInteriors: \"실내\"\nKeyboardControls: \"키보드 조작:\\n\\nShift+오른쪽 화살표 > 셰이더 활성화\\nShift+왼쪽 화살표 > 셰이더 비활성화\\nShift+위쪽 화살표 > 셰이더를 위로 이동\\nShift+아래쪽 화살표 > 셰이더를 아래로 이동\"\nPostProcessHUD: "
       },
       {
         "name": "README-KOREAN.txt",
-        "size": 1293
+        "size": 1293,
+        "preview": "OpenMW 0.51.0 한국어 KR12.4 — Windows x64 정식 통합판\n\nKR12.3.1에서 업데이트: 이슈 #42 한국어 대화 토픽 연결 보정.\n- 공식 upstream OpenMW 0.51.0(f4bec41444214a7903bebd178389ca22ca13f646)에\n  한국어 패치 0001~0016을 적용하여 Windows openmw.exe 재빌드.\n- 79건의 잘못된 명시 토픽 링크 + 원문 대조를 거친 12건의 대화 링크 보정.\n- 아우데니안 발리우스 별칭 3건을 원래 �"
       },
       {
         "name": "payload/mods/Morrowind_Korean_ReTranslation/Siege at Firemoth.cel",
-        "size": 497
+        "size": 497,
+        "preview": "Firemoth, Keep\t파이어모스, 성채\r\nFiremoth, Great Hall\t파이어모스, 대전당\r\nFiremoth, Upper Chambers\t파이어모스, 상층 방\r\nFiremoth, Guard Quarters\t파이어모스, 경비병 숙소\r\nFiremoth, Dungeon\t파이어모스, 지하 감옥\r\nFiremoth, Lower Cavern\t파이어모스, 하층 동굴\r\nFiremoth, Tomb\t파이어모스, 무덤\r\nFiremoth, Guard Towers\t파이어모스, 감시탑\r\nFiremoth, Upper Cavern\t파이어모스, 상층 �"
       }
     ],
     "archive_record_field_counts": [
