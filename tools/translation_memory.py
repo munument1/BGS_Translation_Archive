@@ -70,9 +70,11 @@ def iter_sources():
 
     sources=[
         ("morrowind","kr9",ROOT/"Morrowind/BaseGame/KR9/translation.jsonl",53896),
+        ("morrowind","kr12.4",ROOT/"Morrowind/BaseGame/KR12.4/translation.jsonl",53902),
         ("oblivion","oblivion",ROOT/"Oblivion/BaseGame/Oblivion.esm/canonical_v2.jsonl",46225),
         ("oblivion","oblivion",ROOT/"Oblivion/DLC/canonical_v2.jsonl",1734),
         ("oblivion","oblivion",ROOT/"Oblivion/Mods/canonical_v2.jsonl",3185),
+        ("oblivion","unofficial",ROOT/"Oblivion/Mods/UnofficialPatches/canonical_unofficial_v1.2.0.jsonl",8818),
         ("fallout4","mcm",ROOT/"Fallout4/MCM/SimpleMcmJsonTranslator/translation.jsonl",10893),
     ]
     for game,dataset,path,rows in sources:
@@ -88,11 +90,14 @@ def stable_identity(row,game,dataset):
         return f"{row.get('source_dictionary','')}#{row['dictionary_record_index']}"
     if dataset=="mcm":
         return f"{row.get('source_dictionary','')}#{row['dictionary_record_index']}"
-    if dataset=="kr9":
+    if dataset in ("kr9","kr12.4"):
         src=row.get("source_archive_member","")
         if "subrecord_data_offset" in row:
             return f"{src}@{row['subrecord_data_offset']}"
         return f"{src}@{row.get('record_id','')}"
+    if dataset=="unofficial":
+        return "|".join(strval(row.get(k)) for k in
+                        ("plugin","record","form_id","field","sub_index","source_subrecord_index"))
     if dataset=="oblivion":
         return "|".join(strval(row.get(k)) for k in
                         ("plugin","record","form_id","field","sub_index"))
@@ -106,17 +111,17 @@ def stable_identity(row,game,dataset):
 
 def normalized(row,game,dataset,source_file):
     ko=row["ko"]
-    if not isinstance(ko,str) or not KOREAN.search(ko):
+    if not isinstance(ko,str) or not ko or (not KOREAN.search(ko) and dataset!="unofficial"):
         raise ValueError("Missing Hangul text")
     source_lang=row.get("source_language")
-    if dataset=="kr9" and row.get("mod_version")!="KR9":
-        raise ValueError("Non-KR9 Morrowind localization is forbidden")
+    if dataset in ("kr9","kr12.4") and row.get("mod_version") != ("KR9" if dataset=="kr9" else "KR12.4"):
+        raise ValueError("Morrowind source version mismatch")
     if dataset=="base" and game=="starfield":
         if row.get("english_source_sha256") is not None:
             raise ValueError("English source should be absent in Starfield stage")
     # 'source_hash' is meaningful ONLY when archive includes that exact
-    # field on a trusted bilingual SST, Oblivion or MCM importer record.
-    en=row.get("source_hash") if dataset in ("sst","oblivion","mcm") else None
+    # field on a trusted bilingual SST, Oblivion, Unofficial or MCM importer record.
+    en=row.get("source_hash") if dataset in ("sst","oblivion","unofficial","mcm") else None
     if en is not None and (not isinstance(en,str) or not HEX.fullmatch(en)):
         raise ValueError("Invalid English source SHA256")
     if dataset=="sst":
@@ -135,15 +140,15 @@ def normalized(row,game,dataset,source_file):
         plugin=strval(row.get("mod"))
         ordinal=int(row["dictionary_record_index"])
         status=strval(row.get("status"))
-    elif dataset=="kr9":
+    elif dataset in ("kr9","kr12.4"):
         source_dict=strval(row.get("source_archive_member"))
         record_type=strval(row.get("record"))
         field=strval(row.get("field"))
         record_id=strval(row.get("record_id"))
-        plugin=strval(row.get("plugin") or "OpenMW_KR9")
+        plugin=strval(row.get("plugin") or ("OpenMW_KR9" if dataset=="kr9" else "OpenMW_KR12.4"))
         ordinal=int(row.get("subrecord_data_offset",0))
         status=strval(row.get("status"))
-    elif dataset=="oblivion":
+    elif dataset in ("oblivion","unofficial"):
         source_dict=strval(row.get("source_dictionary"))
         record_type=strval(row.get("record"))
         field=strval(row.get("field"))
@@ -187,7 +192,7 @@ def init(con):
         CREATE TABLE meta (key TEXT PRIMARY KEY, value TEXT NOT NULL);
     """)
     con.execute("INSERT INTO meta VALUES ('schema_version', ?)", (str(TABLE_SCHEMA_VERSION),))
-    con.execute("INSERT INTO meta VALUES ('baseline', 'Morrowind KR9 only; no KR6 imports')")
+    con.execute("INSERT INTO meta VALUES ('baseline', 'Morrowind KR12.4 active and KR9 historical; no KR6 imports')")
 
 
 def build(db):
@@ -342,7 +347,7 @@ def report(db, out):
             by_game[game]={"rows":total_rows,"english_hash_rows":hash_rows}
         result={
             "schema":"bethesda_translation_memory_report_v1",
-            "baseline":"Morrowind KR9 only",
+            "baseline":"Morrowind KR12.4 active; KR9 historical; KR6 excluded",
             "indexed_total_rows":total,
             "source_english_hash_rows":aligned,
             "identity_only_or_localized_hash_rows":total-aligned,
@@ -352,7 +357,7 @@ def report(db, out):
             "status":"not editorially validated",
             "limits":[
                 "English source text is absent from archive; exact SHA matching only where source_hash was recorded from actual English.",
-                "Morrowind KR9 hashes are localized Korean bytes, NOT English original hashes.",
+                "Morrowind KR9/KR12.4 hashes are localized Korean bytes, NOT English original hashes.",
                 "Fallout4/Starfield base string IDs are not portable FormIDs and have no known English source SHA.",
                 "Distinct Korean translations of same English can be valid in different contexts; they are flagged, never overwritten.",
                 "Cross-game reuse is an editorial suggestion, not a proven in-game replacement.",
@@ -393,7 +398,7 @@ def main():
     p.add_argument("--korean")
     p.add_argument("--record-id")
     p.add_argument("--game",choices=("fallout4","falloutnewvegas","starfield","oblivion","morrowind"))
-    p.add_argument("--dataset",choices=("sst","base","mcm","oblivion","kr9"),
+    p.add_argument("--dataset",choices=("sst","base","mcm","oblivion","kr9","kr12.4","unofficial"),
                    help="Limit to one source family, especially for numeric record IDs")
     p.add_argument("--source-dictionary",help="Exact source dictionary or source table path")
     p.add_argument("--plugin",help="Exact plugin or mod hint; file-name hints are not verified FormIDs")
