@@ -1,0 +1,41 @@
+name: Validate Tamriel Translation Memory Sources
+on:
+  push:
+    paths:
+      - "tools/translation_memory.py"
+      - ".github/workflows/validate-tamriel-memory.yml"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile translation memory tool
+        run: python3 -m py_compile tools/translation_memory.py
+      - name: Verify versioned Tamriel source schemas, unique keys and row totals
+        run: |
+          python3 - <<'PY'
+          import json
+          from collections import Counter
+          from tools.translation_memory import normalized,stable_identity,ROOT
+          entries=[
+              ('morrowind','kr9','Morrowind/BaseGame/KR9/translation.jsonl',53896),
+              ('morrowind','kr12.4','Morrowind/BaseGame/KR12.4/translation.jsonl',53902),
+              ('oblivion','unofficial','Oblivion/Mods/UnofficialPatches/canonical_unofficial_v1.2.0.jsonl',8818),
+          ]
+          for game,dataset,rel,expected in entries:
+              seen=set()
+              n=0
+              for raw in (ROOT/rel).open(encoding='utf-8'):
+                  row=json.loads(raw)
+                  normalized(row,game,dataset,rel)
+                  k=stable_identity(row,game,dataset)
+                  assert k not in seen,(dataset,k)
+                  seen.add(k)
+                  n+=1
+              assert n==expected,(dataset,n,expected)
+              print('PASS',game,dataset,n)
+          PY
