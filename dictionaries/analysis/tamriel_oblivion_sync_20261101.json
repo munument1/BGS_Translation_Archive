@@ -1,0 +1,22 @@
+{
+  "schema": "tamriel_oblivion_canonical_sync_v1",
+  "baseline_original_import_date": "2026-10-28",
+  "new_source_sha256": "57306d322a0cca7d18b452ecb5d0f38bc594d23ed2e6b6040a3eee828c96ca23",
+  "latest_version": "v1.2.0",
+  "checked_identical_source_identities": 47215,
+  "updated_entries": {
+    "dlc": 286,
+    "mods": 3,
+    "basegame": 908
+  },
+  "total_updated_entries": 1197,
+  "unmatched_candidates_kept_separate": 12,
+  "unchanged_existing_entries_retained": 49947,
+  "archive_rows": {
+    "basegame": 46225,
+    "dlc": 1734,
+    "mods": 3185
+  },
+  "source_english_sha_guard": "all matched entries verified",
+  "in_game_verified": false
+}

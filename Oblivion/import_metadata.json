@@ -2,8 +2,8 @@
   "game": "oblivion",
   "format": "UTF-8 JSONL",
   "sources": {
-    "canonical_translation_v2.csv": "2e41e4e535d291e5325982ef74cd170fdd236e593e8d64b2189cdafcd8213f89",
-    "canonical_locations_v2.csv": "aa732f074ac1e4782cdcddc304351756ab90d093052113ae56a9df7e013f0724"
+    "canonical_translation_v2.csv": "57306d322a0cca7d18b452ecb5d0f38bc594d23ed2e6b6040a3eee828c96ca23",
+    "canonical_locations_v2.csv": "fecabf0c18db08756ebb98a5a066689fa1322f7b6f252a30ef67359a1538ae78"
   },
   "rows": {
     "basegame": 46225,
@@ -15,5 +15,14 @@
   "source_text_included": false,
   "hash_semantics": "source_hash is SHA-256 of the full old English UTF-8 string in local CSV; English text itself is not included",
   "quality_note": "OBCJK conversion_status=verified, where present, is an encoding check not a blanket editorial or runtime approval.",
-  "copyright_note": "Translation reference archive; keep source ownership and publication permissions under review."
+  "copyright_note": "Translation reference archive; keep source ownership and publication permissions under review.",
+  "latest_sync_date": "2026-11-01",
+  "latest_sync_reference": "Oblivion-KR-Translation v1.2.0 canonical CSV",
+  "latest_sync_changed_existing": {
+    "dlc": 286,
+    "mods": 3,
+    "basegame": 908
+  },
+  "latest_sync_unmatched_review_candidates": 12,
+  "original_import_version_preserved": true
 }
