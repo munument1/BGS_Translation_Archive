@@ -88,7 +88,7 @@ def decode(raw):
         except UnicodeDecodeError: pass
     return raw.decode("utf-8","replace")
 
-def morrowind(file):
+def morrowind(file, release_tag="openmw-0.51.0-kr12.4"):
     result={}
     with zipfile.ZipFile(file) as z:
         plugins=sorted((i for i in z.infolist() if i.filename.lower().endswith((".esp",".esm"))),
@@ -115,7 +115,7 @@ def morrowind(file):
                     body=decode(sub.get(b"TEXT",b""))
                     if bid and body and KOREAN.search(title+body):
                         result.setdefault(bid.lower(),entry("morrowind",bid,title,body,
-                            GH+"-KR-openmw/releases/tag/openmw-0.51.0-kr4",
+                            GH+"Morrowind-OpenMW-KR/releases/tag/"+release_tag,
                             plugin=Path(info.filename).name))
                 off+=size
     return list(result.values())
@@ -243,10 +243,11 @@ def main():
     ap=argparse.ArgumentParser()
     ap.add_argument("--daggerfall",type=Path,required=True)
     ap.add_argument("--morrowind-zip",type=Path,required=True)
+    ap.add_argument("--morrowind-release-tag",default="openmw-0.51.0-kr12.4")
     ap.add_argument("--oblivion",type=Path,required=True)
     ap.add_argument("--root",type=Path,default=Path("."))
     a=ap.parse_args()
-    source={"daggerfall":daggerfall(a.daggerfall),"morrowind":morrowind(a.morrowind_zip),
+    source={"daggerfall":daggerfall(a.daggerfall),"morrowind":morrowind(a.morrowind_zip,a.morrowind_release_tag),
             "oblivion":oblivion(a.oblivion),"skyrim":skyrim(a.root/"sources"/"skyrim_books")}
     for g in ("daggerfall","morrowind","oblivion"):
         if not source[g]: raise ValueError("Source extraction produced zero books: "+g)
@@ -278,7 +279,7 @@ def main():
     (root/"fulltext-index.json").write_text(
         json.dumps(fulltext,ensure_ascii=False,separators=(",",":")),encoding="utf-8")
     manifest={"schema_version":1,"games":results,
-        "sources":{"daggerfall":GH+"-KR-Daggerfall_Unity","morrowind":GH+"-KR-openmw/releases/tag/openmw-0.51.0-kr4",
+        "sources":{"daggerfall":GH+"-KR-Daggerfall_Unity","morrowind":GH+"Morrowind-OpenMW-KR/releases/tag/"+a.morrowind_release_tag,
           "oblivion":GH+"-KR-Oblivion-Translation","skyrim":"sources/skyrim_books (localized BOOK JSONL)"}}
     (root/"manifest.json").write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     lines=["# 엘더 스크롤 한국어 서적 아카이브","","각 작품의 한국어 서적 본문을 합본 Markdown과 JSONL로 정리합니다.","",

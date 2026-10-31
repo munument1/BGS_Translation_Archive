@@ -50,16 +50,23 @@ jobs:
       - name: Download OpenMW Korean Morrowind release
         run: |
           curl --fail --location --retry 4 --retry-delay 4 \
-            https://github.com/munument1/-KR-openmw/releases/download/openmw-0.51.0-kr4/Morrowind-Korean-OpenMW-0.51.0-KR4-Full.zip \
-            --output /tmp/morrowind-kr4.zip
-          unzip -t /tmp/morrowind-kr4.zip | tail -n 2
+            https://github.com/munument1/Morrowind-OpenMW-KR/releases/download/openmw-0.51.0-kr12.4/Morrowind-Korean-OpenMW-0.51.0-KR12.4-Full.zip \
+            --output /tmp/morrowind-kr12.4.zip
+          curl --fail --location --retry 4 --retry-delay 4 \
+            https://github.com/munument1/Morrowind-OpenMW-KR/releases/download/openmw-0.51.0-kr12.4/Morrowind-Korean-OpenMW-0.51.0-KR12.4-Full.zip.sha256 \
+            --output /tmp/morrowind-kr12.4.sha256
+          expected=$(awk '{print $1}' /tmp/morrowind-kr12.4.sha256)
+          actual=$(sha256sum /tmp/morrowind-kr12.4.zip | awk '{print $1}')
+          test "$expected" = "$actual"
+          unzip -t /tmp/morrowind-kr12.4.zip | tail -n 2
 
       - name: Build and validate book collections
         run: |
           python3 tools/build_book_collection.py \
             --daggerfall /tmp/df-books/text/Books \
             --oblivion /tmp/oblivion-translation.csv \
-            --morrowind-zip /tmp/morrowind-kr4.zip --root .
+            --morrowind-zip /tmp/morrowind-kr12.4.zip \
+            --morrowind-release-tag openmw-0.51.0-kr12.4 --root .
           python3 tools/build_external_book_collection.py
           python3 - <<'PY'
           import json
