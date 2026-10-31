@@ -110,8 +110,11 @@ def compare_csv(data, archive_index):
 def morrowind_audit(data):
     members = []
     esp_list = []
+    interesting_members = []
     with zipfile.ZipFile(io.BytesIO(data)) as z:
         for name in z.namelist():
+            if name.lower().endswith((".yaml", ".yml", ".top", ".cel", ".mrk", ".jrn", ".txt", ".json")):
+                interesting_members.append({"name": name, "size": z.getinfo(name).file_size})
             if name.lower().endswith((".esp", ".esm")):
                 raw = z.read(name)
                 esp_list.append({"member": name, "sha256": sha(raw), "bytes": len(raw)})
@@ -122,6 +125,7 @@ def morrowind_audit(data):
     old_lines = 0
     kr9_sample = []
     kr9_kinds = collections.Counter()
+    kr9_samples_by_type = {}
     for ln in kr9_path.open("r", encoding="utf-8"):
         if not ln.strip():
             continue
@@ -130,6 +134,9 @@ def morrowind_audit(data):
             kr9_sample.append({k: str(v)[:120] for k, v in row.items()
                                if k not in ("ko", "source_english", "en")})
         kr9_kinds[(row.get("record"), row.get("field"))] += 1
+        rt = row.get("record")
+        if rt in ("INFO", "DIAL", "OPENMW_TEXT_MAP", "L10N", "MGEF") and rt not in kr9_samples_by_type:
+            kr9_samples_by_type[rt] = {k: str(v)[:120] for k, v in row.items() if k not in ("ko", "source_english", "en")}
         old_lines += 1
     web_manifest = json.loads((ROOT / "docs/books/manifest.json").read_text("utf-8"))
     return {"current_release_tag": TAG, "latest_zip_sha256": sha(data),
@@ -137,6 +144,8 @@ def morrowind_audit(data):
             "archive_baseline_release": baseline.get("release"),
             "archive_baseline_rows": old_lines,
             "archive_baseline_sample_no_korean": kr9_sample,
+            "archive_special_samples": kr9_samples_by_type,
+            "latest_zip_nonplugin_text_members": interesting_members[:250],
             "archive_record_field_counts": [{"record": k[0], "field": k[1], "rows": n} for k, n in kr9_kinds.most_common(40)],
             "archive_stored_source_esp_sha256": baseline.get("source_esp_sha256"),
             "web_book_source": web_manifest["sources"].get("morrowind"),
