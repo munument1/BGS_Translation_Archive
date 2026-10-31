@@ -4,8 +4,8 @@
   "inputs": {
     "oblivion_csv_sha256": "57306d322a0cca7d18b452ecb5d0f38bc594d23ed2e6b6040a3eee828c96ca23",
     "oblivion_locations_sha256": "fecabf0c18db08756ebb98a5a066689fa1322f7b6f252a30ef67359a1538ae78",
-    "previous_oblivion_csv_sha256": "2e41e4e535d291e5325982ef74cd170fdd236e593e8d64b2189cdafcd8213f89",
-    "previous_oblivion_locations_sha256": "aa732f074ac1e4782cdcddc304351756ab90d093052113ae56a9df7e013f0724"
+    "previous_oblivion_csv_sha256": "57306d322a0cca7d18b452ecb5d0f38bc594d23ed2e6b6040a3eee828c96ca23",
+    "previous_oblivion_locations_sha256": "fecabf0c18db08756ebb98a5a066689fa1322f7b6f252a30ef67359a1538ae78"
   },
   "oblivion": {
     "archive_files": {
@@ -94,8 +94,8 @@
       ],
       "new_nonempty_rows": 47227,
       "archive_exact_id_hits": 47215,
-      "exact_same_korean": 46018,
-      "changed_same_id": 1197,
+      "exact_same_korean": 47215,
+      "changed_same_id": 0,
       "unmatched": 12,
       "ambiguous_archive_ids": 0,
       "match_by_part": {
@@ -105,128 +105,7 @@
       },
       "matched_but_source_hash_mismatch_if_available": 0,
       "existing_archive_keys_not_in_csv": 3929,
-      "changed_samples_hash_only": [
-        {
-          "plugin": "dlcmehrunesrazor.esp",
-          "record": "lscr",
-          "form_id": "01001b8d",
-          "field": "desc",
-          "sub_index": "0",
-          "part": "dlc",
-          "old_ko_sha256": "baba958e8b8172694a1d529ee78190bdbb6ffd2a1d9100e969001b698a499d5b",
-          "new_ko_sha256": "822ebf6ca1cde867cd6cfd80fe7a0c3ac6b36d68f1951db78958c1b70e1b1a5c"
-        },
-        {
-          "plugin": "dlcspelltomes.esp",
-          "record": "book",
-          "form_id": "01000ce6",
-          "field": "desc",
-          "sub_index": "0",
-          "part": "dlc",
-          "old_ko_sha256": "b519d5681d0def4daac6ccc1361f807b1f9c674dba9ac3148ab8e22c843d681c",
-          "new_ko_sha256": "fc080eb7576d46ad66deb27d45f63dab57359090ca0f0c47a1197e7b3cd979e1"
-        },
-        {
-          "plugin": "dlcspelltomes.esp",
-          "record": "book",
-          "form_id": "0100127c",
-          "field": "desc",
-          "sub_index": "0",
-          "part": "dlc",
-          "old_ko_sha256": "319d21b32f014effb6ace73f90aedd9ec27bcd054d52ba38c0a7290dabe28fcb",
-          "new_ko_sha256": "8c3ab0d163d7fc198dc11e55ca449734c69c58a81490da1a90da9b80949ed4c3"
-        },
-        {
-          "plugin": "dlcspelltomes.esp",
-          "record": "book",
-          "form_id": "0100127d",
-          "field": "desc",
-          "sub_index": "0",
-          "part": "dlc",
-          "old_ko_sha256": "45bd069798e8270bd409817e09d3818bfcef4dbb9faca8c0fe55e7f221bbbe1e",
-          "new_ko_sha256": "626b654d2771250b647b870ba26ddfa646ad2deb4f2516644dfbf58c1031bb0d"
-        },
-        {
-          "plugin": "dlcspelltomes.esp",
-          "record": "book",
-          "form_id": "0100127e",
-          "field": "desc",
-          "sub_index": "0",
-          "part": "dlc",
-          "old_ko_sha256": "32423670511dc932d017725ab5309653163348fbd1a415a32ecad6f3002b1aad",
-          "new_ko_sha256": "a9c4492f82cedd12a9ea120f271d29a721a3444e5aba3d873056c6fc6f76c93d"
-        },
-        {
-          "plugin": "dlcspelltomes.esp",
-          "record": "book",
-          "form_id": "0100127f",
-          "field": "desc",
-          "sub_index": "0",
-          "part": "dlc",
-          "old_ko_sha256": "a9cc8ab4c3cd062b9bef9fb8f5df63aebcdbf235a6dcc4527c9d23751a14efda",
-          "new_ko_sha256": "dd6c0bdda6d1304671ade5caded5b84c5fe5e03aac41ebfd6eba05b95a7545ab"
-        },
-        {
-          "plugin": "dlcspelltomes.esp",
-          "record": "book",
-          "form_id": "01001280",
-          "field": "desc",
-          "sub_index": "0",
-          "part": "dlc",
-          "old_ko_sha256": "84432c7c6ddb4db9112047b3f9bcf74294f3cca0aa12ac9a10770b44308312c3",
-          "new_ko_sha256": "5ea3965af4ea0cb790dfdb86c00cf4c7b38c18b9bb71da556c8dcc63e25b0746"
-        },
-        {
-          "plugin": "dlcspelltomes.esp",
-          "record": "book",
-          "form_id": "01001282",
-          "field": "desc",
-          "sub_index": "0",
-          "part": "dlc",
-          "old_ko_sha256": "172ca455b912bee02472c42ac91f4be5533e244219e0c88ded01741078b56b71",
-          "new_ko_sha256": "4a316b21c5ecbb40f1f12061b8c9afc7b9d324d5f3a2e168f7852bd3d6616b53"
-        },
-        {
-          "plugin": "dlcspelltomes.esp",
-          "record": "book",
-          "form_id": "01001283",
-          "field": "desc",
-          "sub_index": "0",
-          "part": "dlc",
-          "old_ko_sha256": "8ae8bf9902bb946be8b99c70badc3365efd90f8d000736fec6805ccbd6fd5826",
-          "new_ko_sha256": "2e9611235e50fa3b59958f7b5cce43b32b3ef404e764558f764abab40d2a694c"
-        },
-        {
-          "plugin": "dlcspelltomes.esp",
-          "record": "book",
-          "form_id": "01001284",
-          "field": "desc",
-          "sub_index": "0",
-          "part": "dlc",
-          "old_ko_sha256": "21f6a3275886966d36565e205e753c1ca2b53d3e9d6e7872a778e6764f511c11",
-          "new_ko_sha256": "b45554a6c8655af9e4fe4f6ca81945a857f1b477ccd8bfb5061bfc2852ed51d9"
-        },
-        {
-          "plugin": "dlcspelltomes.esp",
-          "record": "book",
-          "form_id": "01001285",
-          "field": "desc",
-          "sub_index": "0",
-          "part": "dlc",
-          "old_ko_sha256": "01ae9957bbe2e1b25afbe87a0064b99ca8b8d03164d86d20969d9fe19fc281f2",
-          "new_ko_sha256": "f245ca9f2961c3a0d143825d7eaff6fb40a4525386bc5b218cb50cfd288dbd5a"
-        },
-        {
-          "plugin": "dlcspelltomes.esp",
-          "record": "book",
-          "form_id": "01001286",
-          "field": "desc",
-          "sub_index": "0",
-          "part": "dlc",
-          "old_ko_sha256": "d3cf0a77737fc3453c5380cd35e0127bf72a4de4a63b1447746ba631c7660529",
-          "new_ko_sha256": "b5962ec8215a03387733b791e8d2e301c1997ba9e0a55087c2f17b47fb737eda"
-        }
-      ]
+      "changed_samples_hash_only": []
     },
     "unofficial_source": {
       "sha256": "f3a41105ec44a52de6b20ac9b21865f047673aa8d83abd80d66686b4eb7b39c4",
@@ -422,6 +301,152 @@
         "dialogue_topic": "",
         "status": "imported",
         "note": "Verified original KR9 release source bytes; no English source alignment claimed."
+      }
+    ],
+    "archive_special_samples": {
+      "MGEF": {
+        "game": "morrowind",
+        "mod": "Morrowind OpenMW Korean KR9",
+        "mod_version": "KR9",
+        "source_archive_member": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.esp",
+        "source_archive_member_sha256": "9ee05221ae099b0a48370b6d79f02e9a1fbf3d9e3c6bad05a695c780aa6f7278",
+        "content_language": "ko",
+        "source_language": "unknown",
+        "plugin": "Morrowind_Korean_ReTranslation.esp",
+        "record": "MGEF",
+        "record_id": "",
+        "record_index": "8995",
+        "field": "DESC",
+        "sub_index": "8",
+        "subrecord_data_offset": "5334743",
+        "localized_subrecord_hash": "caf27886ade414b456740eb0cc83c6445c7411284487f9f2d11ab798ae2328e1",
+        "dialogue_topic": "",
+        "status": "imported",
+        "note": "Verified original KR9 release source bytes; no English source alignment claimed."
+      },
+      "DIAL": {
+        "game": "morrowind",
+        "mod": "Morrowind OpenMW Korean KR9",
+        "mod_version": "KR9",
+        "source_archive_member": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.esp",
+        "source_archive_member_sha256": "9ee05221ae099b0a48370b6d79f02e9a1fbf3d9e3c6bad05a695c780aa6f7278",
+        "content_language": "ko",
+        "source_language": "unknown",
+        "plugin": "Morrowind_Korean_ReTranslation.esp",
+        "record": "DIAL",
+        "record_id": "ì œêµ­ ì�¸êµ¬ì¡°ì‚¬ ë°� ì„¸ë¬´êµ­",
+        "record_index": "13301",
+        "field": "NAME",
+        "sub_index": "0",
+        "subrecord_data_offset": "5969917",
+        "localized_subrecord_hash": "14402f06bb15f2fb9dc5f80895e06cb76ceab7b9e0a2355d5a268b884297dbad",
+        "dialogue_topic": "",
+        "status": "imported",
+        "note": "Verified original KR9 release source bytes; no English source alignment claimed."
+      },
+      "INFO": {
+        "game": "morrowind",
+        "mod": "Morrowind OpenMW Korean KR9",
+        "mod_version": "KR9",
+        "source_archive_member": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.esp",
+        "source_archive_member_sha256": "9ee05221ae099b0a48370b6d79f02e9a1fbf3d9e3c6bad05a695c780aa6f7278",
+        "content_language": "ko",
+        "source_language": "unknown",
+        "plugin": "Morrowind_Korean_ReTranslation.esp",
+        "record": "INFO",
+        "record_id": "31268150052410929562",
+        "record_index": "13302",
+        "field": "NAME",
+        "sub_index": "5",
+        "subrecord_data_offset": "5970075",
+        "localized_subrecord_hash": "73bfed5b54851fa1f03f05b4322a24dc540a73f408f6547afa6a0618ac88c256",
+        "dialogue_topic": "ì œêµ­ ì�¸êµ¬ì¡°ì‚¬ ë°� ì„¸ë¬´êµ­",
+        "status": "imported",
+        "note": "Verified original KR9 release source bytes; no English source alignment claimed."
+      },
+      "L10N": {
+        "game": "morrowind",
+        "mod_version": "KR9",
+        "content_language": "ko",
+        "source_language": "key",
+        "record": "L10N",
+        "field": "l10n/Calendar/ko.yaml",
+        "record_id": "month1",
+        "source_archive_member": "payload/mods/Morrowind_Korean_ReTranslation/l10n/Calendar/ko.yaml",
+        "source_archive_member_sha256": "947b4d9d6f5018ebd995a70fc3a479f38f710a43eca529498c87fb2c9304ca9d",
+        "localized_value_sha256": "d1f9295e8d370952e8816f06f3d7d5d634070ab5a5270e4c3ee32ec233518799",
+        "status": "imported"
+      },
+      "OPENMW_TEXT_MAP": {
+        "game": "morrowind",
+        "mod_version": "KR9",
+        "content_language": "ko",
+        "source_language": "unknown",
+        "record": "OPENMW_TEXT_MAP",
+        "field": "CEL",
+        "record_id": "1",
+        "original_key_hash": "aca8fe71a8838f4dec2b3ea27dfd9e558d5edce0068aef4b01996af575ac3799",
+        "source_archive_member": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.cel",
+        "source_archive_member_sha256": "b339fe17c4a238db3dccbf84304a01e6dcef1acf2355d394c158a28575e59569",
+        "status": "imported"
+      }
+    },
+    "latest_zip_nonplugin_text_members": [
+      {
+        "name": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.cel",
+        "size": 79912
+      },
+      {
+        "name": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.jrn",
+        "size": 150
+      },
+      {
+        "name": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.mrk",
+        "size": 18784
+      },
+      {
+        "name": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.top",
+        "size": 191772
+      },
+      {
+        "name": "payload/mods/Morrowind_Korean_ReTranslation/l10n/Calendar/ko.yaml",
+        "size": 756
+      },
+      {
+        "name": "payload/mods/Morrowind_Korean_ReTranslation/l10n/Interface/ko.yaml",
+        "size": 1250
+      },
+      {
+        "name": "payload/mods/Morrowind_Korean_ReTranslation/l10n/OMWCamera/ko.yaml",
+        "size": 3250
+      },
+      {
+        "name": "payload/mods/Morrowind_Korean_ReTranslation/l10n/OMWCombat/ko.yaml",
+        "size": 890
+      },
+      {
+        "name": "payload/mods/Morrowind_Korean_ReTranslation/l10n/OMWControls/ko.yaml",
+        "size": 7708
+      },
+      {
+        "name": "payload/mods/Morrowind_Korean_ReTranslation/l10n/OMWEngine/ko.yaml",
+        "size": 11679
+      },
+      {
+        "name": "payload/mods/Morrowind_Korean_ReTranslation/l10n/OMWMusic/ko.yaml",
+        "size": 267
+      },
+      {
+        "name": "payload/mods/Morrowind_Korean_ReTranslation/l10n/OMWShaders/ko.yaml",
+        "size": 2109
+      },
+      {
+        "name": "README-KOREAN.txt",
+        "size": 1293
+      },
+      {
+        "name": "payload/mods/Morrowind_Korean_ReTranslation/Siege at Firemoth.cel",
+        "size": 497
       }
     ],
     "archive_record_field_counts": [
