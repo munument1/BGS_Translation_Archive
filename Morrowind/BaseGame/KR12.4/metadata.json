@@ -1,0 +1,47 @@
+{
+  "game": "morrowind",
+  "release": "openmw-0.51.0-kr12.4",
+  "source_release_zip": "https://github.com/munument1/Morrowind-OpenMW-KR/releases/download/openmw-0.51.0-kr12.4/Morrowind-Korean-OpenMW-0.51.0-KR12.4-Full.zip",
+  "source_release_zip_sha256": "71fbbd1ae5506df4444fe47f31b29101f010a96fa5d73bb4b8699977cd211497",
+  "source_esp_sha256": "2276384ad93fd3e56bc0d401aacc45418ba38993ee798e0e1a7e09564a375d3a",
+  "status": "imported_not_game_verified",
+  "source_english_included": false,
+  "english_source_hash_available": false,
+  "korean_esp_fields": 45779,
+  "korean_text_map_fields": 7669,
+  "korean_openmw_l10n_fields": 454,
+  "korean_archive_rows_total": 53902,
+  "source_record_count": 48146,
+  "text_map_breakdown": {
+    "CEL": 1440,
+    "JRN": 4,
+    "MRK": 377,
+    "TOP": 5848
+  },
+  "l10n_breakdown": {
+    "l10n/Calendar/ko.yaml": 35,
+    "l10n/Interface/ko.yaml": 58,
+    "l10n/OMWCamera/ko.yaml": 35,
+    "l10n/OMWCombat/ko.yaml": 9,
+    "l10n/OMWControls/ko.yaml": 97,
+    "l10n/OMWEngine/ko.yaml": 177,
+    "l10n/OMWMusic/ko.yaml": 5,
+    "l10n/OMWShaders/ko.yaml": 38
+  },
+  "new_record_field_pairs_with_hangul_not_imported": [
+    {
+      "record": "INFO",
+      "field": "BNAM",
+      "count": 1515
+    },
+    {
+      "record": "SCPT",
+      "field": "SCTX",
+      "count": 238
+    }
+  ],
+  "version_policy": "KR9 kept as historical snapshot; KR12.4 is separate current source.",
+  "previous_kr9_rows_retained": 53896,
+  "source_english_alignment": false,
+  "hash_semantics": "Localized field hashes refer to Korean source bytes, not English originals."
+}
