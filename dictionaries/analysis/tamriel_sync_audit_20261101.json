@@ -262,6 +262,370 @@
     ],
     "archive_baseline_release": "openmw-0.51.0-kr9",
     "archive_baseline_rows": 53896,
+    "archive_baseline_sample_no_korean": [
+      {
+        "game": "morrowind",
+        "mod": "Morrowind OpenMW Korean KR9",
+        "mod_version": "KR9",
+        "source_archive_member": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.esp",
+        "source_archive_member_sha256": "9ee05221ae099b0a48370b6d79f02e9a1fbf3d9e3c6bad05a695c780aa6f7278",
+        "content_language": "ko",
+        "source_language": "unknown",
+        "plugin": "Morrowind_Korean_ReTranslation.esp",
+        "record": "BOOK",
+        "record_id": "BookSkill_Enchant1",
+        "record_index": "1",
+        "field": "FNAM",
+        "sub_index": "2",
+        "subrecord_data_offset": "517",
+        "localized_subrecord_hash": "cde2be7b16917ec5a48b038091bc525383fc446bfa70af2dbec5c227f70a9191",
+        "dialogue_topic": "",
+        "status": "imported",
+        "note": "Verified original KR9 release source bytes; no English source alignment claimed."
+      },
+      {
+        "game": "morrowind",
+        "mod": "Morrowind OpenMW Korean KR9",
+        "mod_version": "KR9",
+        "source_archive_member": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.esp",
+        "source_archive_member_sha256": "9ee05221ae099b0a48370b6d79f02e9a1fbf3d9e3c6bad05a695c780aa6f7278",
+        "content_language": "ko",
+        "source_language": "unknown",
+        "plugin": "Morrowind_Korean_ReTranslation.esp",
+        "record": "BOOK",
+        "record_id": "BookSkill_Enchant1",
+        "record_index": "1",
+        "field": "TEXT",
+        "sub_index": "5",
+        "subrecord_data_offset": "593",
+        "localized_subrecord_hash": "920c480284f539d97dab3c6dec88c2c8749618c9b69e2386e2b0f66d40427249",
+        "dialogue_topic": "",
+        "status": "imported",
+        "note": "Verified original KR9 release source bytes; no English source alignment claimed."
+      },
+      {
+        "game": "morrowind",
+        "mod": "Morrowind OpenMW Korean KR9",
+        "mod_version": "KR9",
+        "source_archive_member": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.esp",
+        "source_archive_member_sha256": "9ee05221ae099b0a48370b6d79f02e9a1fbf3d9e3c6bad05a695c780aa6f7278",
+        "content_language": "ko",
+        "source_language": "unknown",
+        "plugin": "Morrowind_Korean_ReTranslation.esp",
+        "record": "BOOK",
+        "record_id": "BookSkill_Enchant2",
+        "record_index": "2",
+        "field": "FNAM",
+        "sub_index": "2",
+        "subrecord_data_offset": "11460",
+        "localized_subrecord_hash": "da93652954f7d3b7778e6b4a7726eaaaeb5cb6022636381bd445084e3b336bb1",
+        "dialogue_topic": "",
+        "status": "imported",
+        "note": "Verified original KR9 release source bytes; no English source alignment claimed."
+      },
+      {
+        "game": "morrowind",
+        "mod": "Morrowind OpenMW Korean KR9",
+        "mod_version": "KR9",
+        "source_archive_member": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.esp",
+        "source_archive_member_sha256": "9ee05221ae099b0a48370b6d79f02e9a1fbf3d9e3c6bad05a695c780aa6f7278",
+        "content_language": "ko",
+        "source_language": "unknown",
+        "plugin": "Morrowind_Korean_ReTranslation.esp",
+        "record": "BOOK",
+        "record_id": "BookSkill_Enchant2",
+        "record_index": "2",
+        "field": "TEXT",
+        "sub_index": "5",
+        "subrecord_data_offset": "11549",
+        "localized_subrecord_hash": "1b188e75d13564f04bbc51686f8ca900c396efb592bfe8afe7aed181dee847c5",
+        "dialogue_topic": "",
+        "status": "imported",
+        "note": "Verified original KR9 release source bytes; no English source alignment claimed."
+      },
+      {
+        "game": "morrowind",
+        "mod": "Morrowind OpenMW Korean KR9",
+        "mod_version": "KR9",
+        "source_archive_member": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.esp",
+        "source_archive_member_sha256": "9ee05221ae099b0a48370b6d79f02e9a1fbf3d9e3c6bad05a695c780aa6f7278",
+        "content_language": "ko",
+        "source_language": "unknown",
+        "plugin": "Morrowind_Korean_ReTranslation.esp",
+        "record": "BOOK",
+        "record_id": "bookskill_enchant3",
+        "record_index": "3",
+        "field": "FNAM",
+        "sub_index": "2",
+        "subrecord_data_offset": "22349",
+        "localized_subrecord_hash": "6b8680da1c185df47d08ec45524ee6711ecdd1bd565a94daa2868fae0a7ec816",
+        "dialogue_topic": "",
+        "status": "imported",
+        "note": "Verified original KR9 release source bytes; no English source alignment claimed."
+      },
+      {
+        "game": "morrowind",
+        "mod": "Morrowind OpenMW Korean KR9",
+        "mod_version": "KR9",
+        "source_archive_member": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.esp",
+        "source_archive_member_sha256": "9ee05221ae099b0a48370b6d79f02e9a1fbf3d9e3c6bad05a695c780aa6f7278",
+        "content_language": "ko",
+        "source_language": "unknown",
+        "plugin": "Morrowind_Korean_ReTranslation.esp",
+        "record": "BOOK",
+        "record_id": "bookskill_enchant3",
+        "record_index": "3",
+        "field": "TEXT",
+        "sub_index": "5",
+        "subrecord_data_offset": "22429",
+        "localized_subrecord_hash": "2aca1ee35986118e38a70f9f8735635cfce6cef642c4c605f46d2a62cbc21da3",
+        "dialogue_topic": "",
+        "status": "imported",
+        "note": "Verified original KR9 release source bytes; no English source alignment claimed."
+      },
+      {
+        "game": "morrowind",
+        "mod": "Morrowind OpenMW Korean KR9",
+        "mod_version": "KR9",
+        "source_archive_member": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.esp",
+        "source_archive_member_sha256": "9ee05221ae099b0a48370b6d79f02e9a1fbf3d9e3c6bad05a695c780aa6f7278",
+        "content_language": "ko",
+        "source_language": "unknown",
+        "plugin": "Morrowind_Korean_ReTranslation.esp",
+        "record": "BOOK",
+        "record_id": "bookskill_enchant4",
+        "record_index": "4",
+        "field": "FNAM",
+        "sub_index": "2",
+        "subrecord_data_offset": "37485",
+        "localized_subrecord_hash": "4b5f4f80fdea7491d3a2aeebcb2bd8d29b22a9b700ba296c5e3ecb5d8c63851a",
+        "dialogue_topic": "",
+        "status": "imported",
+        "note": "Verified original KR9 release source bytes; no English source alignment claimed."
+      },
+      {
+        "game": "morrowind",
+        "mod": "Morrowind OpenMW Korean KR9",
+        "mod_version": "KR9",
+        "source_archive_member": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.esp",
+        "source_archive_member_sha256": "9ee05221ae099b0a48370b6d79f02e9a1fbf3d9e3c6bad05a695c780aa6f7278",
+        "content_language": "ko",
+        "source_language": "unknown",
+        "plugin": "Morrowind_Korean_ReTranslation.esp",
+        "record": "BOOK",
+        "record_id": "bookskill_enchant4",
+        "record_index": "4",
+        "field": "TEXT",
+        "sub_index": "5",
+        "subrecord_data_offset": "37588",
+        "localized_subrecord_hash": "7c1577f8b5edc842a74bd61285eafa4b091eb7eb95e3fe6a8d298fc0b6987bd8",
+        "dialogue_topic": "",
+        "status": "imported",
+        "note": "Verified original KR9 release source bytes; no English source alignment claimed."
+      }
+    ],
+    "archive_record_field_counts": [
+      {
+        "record": "INFO",
+        "field": "NAME",
+        "rows": 31715
+      },
+      {
+        "record": "OPENMW_TEXT_MAP",
+        "field": "TOP",
+        "rows": 5845
+      },
+      {
+        "record": "NPC_",
+        "field": "FNAM",
+        "rows": 3049
+      },
+      {
+        "record": "DIAL",
+        "field": "NAME",
+        "rows": 2102
+      },
+      {
+        "record": "OPENMW_TEXT_MAP",
+        "field": "CEL",
+        "rows": 1440
+      },
+      {
+        "record": "SPEL",
+        "field": "FNAM",
+        "rows": 1066
+      },
+      {
+        "record": "CONT",
+        "field": "FNAM",
+        "rows": 1016
+      },
+      {
+        "record": "GMST",
+        "field": "STRV",
+        "rows": 908
+      },
+      {
+        "record": "MISC",
+        "field": "FNAM",
+        "rows": 666
+      },
+      {
+        "record": "WEAP",
+        "field": "FNAM",
+        "rows": 653
+      },
+      {
+        "record": "BOOK",
+        "field": "FNAM",
+        "rows": 635
+      },
+      {
+        "record": "BOOK",
+        "field": "TEXT",
+        "rows": 621
+      },
+      {
+        "record": "CLOT",
+        "field": "FNAM",
+        "rows": 575
+      },
+      {
+        "record": "ARMO",
+        "field": "FNAM",
+        "rows": 455
+      },
+      {
+        "record": "ACTI",
+        "field": "FNAM",
+        "rows": 431
+      },
+      {
+        "record": "CREA",
+        "field": "FNAM",
+        "rows": 430
+      },
+      {
+        "record": "OPENMW_TEXT_MAP",
+        "field": "MRK",
+        "rows": 376
+      },
+      {
+        "record": "ALCH",
+        "field": "FNAM",
+        "rows": 266
+      },
+      {
+        "record": "DOOR",
+        "field": "FNAM",
+        "rows": 266
+      },
+      {
+        "record": "FACT",
+        "field": "RNAM",
+        "rows": 204
+      },
+      {
+        "record": "L10N",
+        "field": "l10n/OMWEngine/ko.yaml",
+        "rows": 177
+      },
+      {
+        "record": "LIGH",
+        "field": "FNAM",
+        "rows": 155
+      },
+      {
+        "record": "MGEF",
+        "field": "DESC",
+        "rows": 137
+      },
+      {
+        "record": "INGR",
+        "field": "FNAM",
+        "rows": 126
+      },
+      {
+        "record": "L10N",
+        "field": "l10n/OMWControls/ko.yaml",
+        "rows": 97
+      },
+      {
+        "record": "CLAS",
+        "field": "FNAM",
+        "rows": 82
+      },
+      {
+        "record": "CLAS",
+        "field": "DESC",
+        "rows": 71
+      },
+      {
+        "record": "L10N",
+        "field": "l10n/Interface/ko.yaml",
+        "rows": 58
+      },
+      {
+        "record": "L10N",
+        "field": "l10n/OMWShaders/ko.yaml",
+        "rows": 38
+      },
+      {
+        "record": "L10N",
+        "field": "l10n/Calendar/ko.yaml",
+        "rows": 35
+      },
+      {
+        "record": "L10N",
+        "field": "l10n/OMWCamera/ko.yaml",
+        "rows": 35
+      },
+      {
+        "record": "FACT",
+        "field": "FNAM",
+        "rows": 27
+      },
+      {
+        "record": "SKIL",
+        "field": "DESC",
+        "rows": 27
+      },
+      {
+        "record": "APPA",
+        "field": "FNAM",
+        "rows": 22
+      },
+      {
+        "record": "BSGN",
+        "field": "FNAM",
+        "rows": 13
+      },
+      {
+        "record": "BSGN",
+        "field": "DESC",
+        "rows": 13
+      },
+      {
+        "record": "REGN",
+        "field": "FNAM",
+        "rows": 10
+      },
+      {
+        "record": "RACE",
+        "field": "FNAM",
+        "rows": 10
+      },
+      {
+        "record": "RACE",
+        "field": "DESC",
+        "rows": 10
+      },
+      {
+        "record": "L10N",
+        "field": "l10n/OMWCombat/ko.yaml",
+        "rows": 9
+      }
+    ],
     "archive_stored_source_esp_sha256": "9ee05221ae099b0a48370b6d79f02e9a1fbf3d9e3c6bad05a695c780aa6f7278",
     "web_book_source": "https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4",
     "action": "Preserve KR9 baseline; generate new versioned KR12.4 source dataset after identity/schema verification."
