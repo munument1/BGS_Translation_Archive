@@ -1,0 +1,278 @@
+{
+  "schema": "tamriel_source_archive_sync_audit_v1",
+  "status": "read_only_review_required",
+  "inputs": {
+    "oblivion_csv_sha256": "57306d322a0cca7d18b452ecb5d0f38bc594d23ed2e6b6040a3eee828c96ca23",
+    "oblivion_locations_sha256": "fecabf0c18db08756ebb98a5a066689fa1322f7b6f252a30ef67359a1538ae78",
+    "previous_oblivion_csv_sha256": "2e41e4e535d291e5325982ef74cd170fdd236e593e8d64b2189cdafcd8213f89",
+    "previous_oblivion_locations_sha256": "aa732f074ac1e4782cdcddc304351756ab90d093052113ae56a9df7e013f0724"
+  },
+  "oblivion": {
+    "archive_files": {
+      "basegame": {
+        "rows": 46225,
+        "sample_no_korean": {
+          "game": "oblivion",
+          "type": "plugin",
+          "source_language": "en",
+          "content_language": "ko",
+          "plugin": "Oblivion.esm",
+          "form_id": "0000236B",
+          "editor_id": "RFWHallPortcullis01",
+          "record": "ACTI",
+          "field": "FULL",
+          "sub_index": "0",
+          "status": "imported",
+          "source_hash": "fa77a5252d38a04cd913a3797530c438cf5b349501b7d44d8265e3e949111bf5",
+          "source_dictionary": "canonical_translation_v2.csv",
+          "source_encoding_check": "verified",
+          "source_line": "3420",
+          "note": "Korean source import; independent editorial verification not inferred from encoding status."
+        },
+        "path": "Oblivion/BaseGame/Oblivion.esm/canonical_v2.jsonl"
+      },
+      "dlc": {
+        "rows": 1734,
+        "sample_no_korean": {
+          "game": "oblivion",
+          "type": "plugin",
+          "source_language": "en",
+          "content_language": "ko",
+          "plugin": "DLCBattlehornCastle.esp",
+          "form_id": "010038B9",
+          "editor_id": "BattlehornSecretLever01",
+          "record": "ACTI",
+          "field": "FULL",
+          "sub_index": "0",
+          "status": "imported",
+          "source_hash": "f56cfff5af70d2b4f45643fbb96af328467f658eb7220e63bf1aa7402cbb2fdc",
+          "source_dictionary": "canonical_translation_v2.csv",
+          "source_encoding_check": "verified",
+          "source_line": "2",
+          "note": "Korean source import; independent editorial verification not inferred from encoding status."
+        },
+        "path": "Oblivion/DLC/canonical_v2.jsonl"
+      },
+      "mods": {
+        "rows": 3185,
+        "sample_no_korean": {
+          "game": "oblivion",
+          "type": "plugin",
+          "source_language": "en",
+          "content_language": "ko",
+          "plugin": "Knights.esp",
+          "form_id": "0001E7A5",
+          "editor_id": "ARGate01",
+          "record": "ACTI",
+          "field": "FULL",
+          "sub_index": "0",
+          "status": "imported",
+          "source_hash": "bfda0d32df3f0d9eeb8fdf63e651e8f5a18176f4e0a6f5327726851c6cecb1e0",
+          "source_dictionary": "canonical_translation_v2.csv",
+          "source_encoding_check": "verified",
+          "source_line": "1643",
+          "note": "Korean source import; independent editorial verification not inferred from encoding status."
+        },
+        "path": "Oblivion/Mods/canonical_v2.jsonl"
+      }
+    },
+    "record_identity_comparison": {
+      "csv_fields": [
+        "effective_source",
+        "record_type",
+        "raw_formid",
+        "field",
+        "old_english",
+        "new_korean",
+        "locres_key",
+        "new_bytes_hex",
+        "editor_id",
+        "occurrence",
+        "obcjk_unicode_text",
+        "obcjk_utf8_hex",
+        "obcjk_conversion_status"
+      ],
+      "new_nonempty_rows": 47227,
+      "archive_exact_id_hits": 47215,
+      "exact_same_korean": 46018,
+      "changed_same_id": 1197,
+      "unmatched": 12,
+      "ambiguous_archive_ids": 0,
+      "match_by_part": {
+        "dlc": 1641,
+        "mods": 1777,
+        "basegame": 43797
+      },
+      "matched_but_source_hash_mismatch_if_available": 0,
+      "existing_archive_keys_not_in_csv": 3929,
+      "changed_samples_hash_only": [
+        {
+          "plugin": "dlcmehrunesrazor.esp",
+          "record": "lscr",
+          "form_id": "01001b8d",
+          "field": "desc",
+          "sub_index": "0",
+          "part": "dlc",
+          "old_ko_sha256": "baba958e8b8172694a1d529ee78190bdbb6ffd2a1d9100e969001b698a499d5b",
+          "new_ko_sha256": "822ebf6ca1cde867cd6cfd80fe7a0c3ac6b36d68f1951db78958c1b70e1b1a5c"
+        },
+        {
+          "plugin": "dlcspelltomes.esp",
+          "record": "book",
+          "form_id": "01000ce6",
+          "field": "desc",
+          "sub_index": "0",
+          "part": "dlc",
+          "old_ko_sha256": "b519d5681d0def4daac6ccc1361f807b1f9c674dba9ac3148ab8e22c843d681c",
+          "new_ko_sha256": "fc080eb7576d46ad66deb27d45f63dab57359090ca0f0c47a1197e7b3cd979e1"
+        },
+        {
+          "plugin": "dlcspelltomes.esp",
+          "record": "book",
+          "form_id": "0100127c",
+          "field": "desc",
+          "sub_index": "0",
+          "part": "dlc",
+          "old_ko_sha256": "319d21b32f014effb6ace73f90aedd9ec27bcd054d52ba38c0a7290dabe28fcb",
+          "new_ko_sha256": "8c3ab0d163d7fc198dc11e55ca449734c69c58a81490da1a90da9b80949ed4c3"
+        },
+        {
+          "plugin": "dlcspelltomes.esp",
+          "record": "book",
+          "form_id": "0100127d",
+          "field": "desc",
+          "sub_index": "0",
+          "part": "dlc",
+          "old_ko_sha256": "45bd069798e8270bd409817e09d3818bfcef4dbb9faca8c0fe55e7f221bbbe1e",
+          "new_ko_sha256": "626b654d2771250b647b870ba26ddfa646ad2deb4f2516644dfbf58c1031bb0d"
+        },
+        {
+          "plugin": "dlcspelltomes.esp",
+          "record": "book",
+          "form_id": "0100127e",
+          "field": "desc",
+          "sub_index": "0",
+          "part": "dlc",
+          "old_ko_sha256": "32423670511dc932d017725ab5309653163348fbd1a415a32ecad6f3002b1aad",
+          "new_ko_sha256": "a9c4492f82cedd12a9ea120f271d29a721a3444e5aba3d873056c6fc6f76c93d"
+        },
+        {
+          "plugin": "dlcspelltomes.esp",
+          "record": "book",
+          "form_id": "0100127f",
+          "field": "desc",
+          "sub_index": "0",
+          "part": "dlc",
+          "old_ko_sha256": "a9cc8ab4c3cd062b9bef9fb8f5df63aebcdbf235a6dcc4527c9d23751a14efda",
+          "new_ko_sha256": "dd6c0bdda6d1304671ade5caded5b84c5fe5e03aac41ebfd6eba05b95a7545ab"
+        },
+        {
+          "plugin": "dlcspelltomes.esp",
+          "record": "book",
+          "form_id": "01001280",
+          "field": "desc",
+          "sub_index": "0",
+          "part": "dlc",
+          "old_ko_sha256": "84432c7c6ddb4db9112047b3f9bcf74294f3cca0aa12ac9a10770b44308312c3",
+          "new_ko_sha256": "5ea3965af4ea0cb790dfdb86c00cf4c7b38c18b9bb71da556c8dcc63e25b0746"
+        },
+        {
+          "plugin": "dlcspelltomes.esp",
+          "record": "book",
+          "form_id": "01001282",
+          "field": "desc",
+          "sub_index": "0",
+          "part": "dlc",
+          "old_ko_sha256": "172ca455b912bee02472c42ac91f4be5533e244219e0c88ded01741078b56b71",
+          "new_ko_sha256": "4a316b21c5ecbb40f1f12061b8c9afc7b9d324d5f3a2e168f7852bd3d6616b53"
+        },
+        {
+          "plugin": "dlcspelltomes.esp",
+          "record": "book",
+          "form_id": "01001283",
+          "field": "desc",
+          "sub_index": "0",
+          "part": "dlc",
+          "old_ko_sha256": "8ae8bf9902bb946be8b99c70badc3365efd90f8d000736fec6805ccbd6fd5826",
+          "new_ko_sha256": "2e9611235e50fa3b59958f7b5cce43b32b3ef404e764558f764abab40d2a694c"
+        },
+        {
+          "plugin": "dlcspelltomes.esp",
+          "record": "book",
+          "form_id": "01001284",
+          "field": "desc",
+          "sub_index": "0",
+          "part": "dlc",
+          "old_ko_sha256": "21f6a3275886966d36565e205e753c1ca2b53d3e9d6e7872a778e6764f511c11",
+          "new_ko_sha256": "b45554a6c8655af9e4fe4f6ca81945a857f1b477ccd8bfb5061bfc2852ed51d9"
+        },
+        {
+          "plugin": "dlcspelltomes.esp",
+          "record": "book",
+          "form_id": "01001285",
+          "field": "desc",
+          "sub_index": "0",
+          "part": "dlc",
+          "old_ko_sha256": "01ae9957bbe2e1b25afbe87a0064b99ca8b8d03164d86d20969d9fe19fc281f2",
+          "new_ko_sha256": "f245ca9f2961c3a0d143825d7eaff6fb40a4525386bc5b218cb50cfd288dbd5a"
+        },
+        {
+          "plugin": "dlcspelltomes.esp",
+          "record": "book",
+          "form_id": "01001286",
+          "field": "desc",
+          "sub_index": "0",
+          "part": "dlc",
+          "old_ko_sha256": "d3cf0a77737fc3453c5380cd35e0127bf72a4de4a63b1447746ba631c7660529",
+          "new_ko_sha256": "b5962ec8215a03387733b791e8d2e301c1997ba9e0a55087c2f17b47fb737eda"
+        }
+      ]
+    },
+    "unofficial_source": {
+      "sha256": "f3a41105ec44a52de6b20ac9b21865f047673aa8d83abd80d66686b4eb7b39c4",
+      "csv_fields": [
+        "effective_source",
+        "record_type",
+        "raw_formid",
+        "field",
+        "old_english",
+        "new_korean",
+        "obcjk_utf8_hex",
+        "editor_id",
+        "occurrence",
+        "subrecord_index",
+        "source_sha256",
+        "obcjk_conversion_status"
+      ],
+      "data_rows": 8818
+    }
+  },
+  "morrowind": {
+    "current_release_tag": "openmw-0.51.0-kr12.4",
+    "latest_zip_sha256": "71fbbd1ae5506df4444fe47f31b29101f010a96fa5d73bb4b8699977cd211497",
+    "latest_esp_members": [
+      {
+        "member": "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.esp",
+        "sha256": "2276384ad93fd3e56bc0d401aacc45418ba38993ee798e0e1a7e09564a375d3a",
+        "bytes": 18435534
+      }
+    ],
+    "korean_target_members": [
+      "payload/mods/Morrowind_Korean_ReTranslation/Morrowind_Korean_ReTranslation.esp"
+    ],
+    "archive_baseline_release": "openmw-0.51.0-kr9",
+    "archive_baseline_rows": 53896,
+    "archive_stored_source_esp_sha256": "9ee05221ae099b0a48370b6d79f02e9a1fbf3d9e3c6bad05a695c780aa6f7278",
+    "web_book_source": "https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4",
+    "action": "Preserve KR9 baseline; generate new versioned KR12.4 source dataset after identity/schema verification."
+  },
+  "patch_for_purists": {
+    "separate_archive_exists": false,
+    "note": "PFP is a separate mod and must never be automatically merged into base-game KR data."
+  },
+  "notes": [
+    "Only same stable identities can be candidates for a translation update.",
+    "Changed source hash or mismatched translation context must be reviewed before updates.",
+    "The web books are a distinct generated output, not a replacement for versioned full translation memory."
+  ]
+}
