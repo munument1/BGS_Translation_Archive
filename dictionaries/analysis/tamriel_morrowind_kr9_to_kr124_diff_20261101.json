@@ -1,0 +1,629 @@
+{
+  "schema": "openmw_korean_kr9_kr124_identity_diff_v1",
+  "comparison": "Versioned Korean archive snapshots, no verified English originals",
+  "source_versions": [
+    "KR9",
+    "KR12.4"
+  ],
+  "previous_rows": 53896,
+  "current_rows": 53902,
+  "rows_by_source": {
+    "KR9": {
+      "esp": 45779,
+      "l10n": 454,
+      "map": 7663
+    },
+    "KR12.4": {
+      "esp": 45779,
+      "map": 7669,
+      "l10n": 454
+    }
+  },
+  "stable_identity_shared": 53896,
+  "same_korean": {
+    "esp": 45212,
+    "l10n": 454,
+    "map": 7660
+  },
+  "changed_korean": {
+    "esp": 567,
+    "map": 3
+  },
+  "new_only": {
+    "map": 6
+  },
+  "old_only": {},
+  "record_id_changed_at_matching_esp_slot": 2105,
+  "record_id_samples": [
+    {
+      "identity": [
+        "esp",
+        "13301",
+        "DIAL",
+        "NAME",
+        "0"
+      ],
+      "old_id": "ì œêµ­ ì�¸êµ¬ì¡°ì‚¬ ë°� ì„¸ë¬´êµ­",
+      "new_id": "제국 인구조사 및 세무국"
+    },
+    {
+      "identity": [
+        "esp",
+        "13303",
+        "DIAL",
+        "NAME",
+        "0"
+      ],
+      "old_id": "ë°˜ì²´ì œ ì‚¬ì œë‹¨ ë°•í•´",
+      "new_id": "반체제 사제단 박해"
+    },
+    {
+      "identity": [
+        "esp",
+        "13305",
+        "DIAL",
+        "NAME",
+        "0"
+      ],
+      "old_id": "í™©ì œë¥¼ ê²¨ëƒ¥í•œ ì�Œëª¨",
+      "new_id": "황제를 겨냥한 음모"
+    },
+    {
+      "identity": [
+        "esp",
+        "13311",
+        "DIAL",
+        "NAME",
+        "0"
+      ],
+      "old_id": "ë„¤ë ˆë°”ë¦° ë°•í•´",
+      "new_id": "네레바린 박해"
+    },
+    {
+      "identity": [
+        "esp",
+        "13314",
+        "DIAL",
+        "NAME",
+        "0"
+      ],
+      "old_id": "í”„ë¡œì¼€ìˆ˜ìŠ¤ ë¹„í…”ë¦¬ìš°ìŠ¤ ì‚´í•´",
+      "new_id": "프로케수스 비텔리우스 살해"
+    },
+    {
+      "identity": [
+        "esp",
+        "13335",
+        "DIAL",
+        "NAME",
+        "0"
+      ],
+      "old_id": "ì�¼ë°˜ ì§ˆë³‘ ì¹˜ë£Œ ë¬¼ì•½",
+      "new_id": "일반 질병 치료 물약"
+    },
+    {
+      "identity": [
+        "esp",
+        "13341",
+        "DIAL",
+        "NAME",
+        "0"
+      ],
+      "old_id": "ë“œì›¨ë¨¸ì�˜ ì‹¤ì¢…",
+      "new_id": "드웨머의 실종"
+    },
+    {
+      "identity": [
+        "esp",
+        "13353",
+        "DIAL",
+        "NAME",
+        "0"
+      ],
+      "old_id": "ë³„ìž�ë¦¬ì™€ ë¶ˆí™•ì‹¤í•œ ë¶€ëª¨",
+      "new_id": "별자리와 불확실한 부모"
+    },
+    {
+      "identity": [
+        "esp",
+        "13355",
+        "DIAL",
+        "NAME",
+        "0"
+      ],
+      "old_id": "ì• ì‰¬ëžœë�” ìœ ëª© ì•¼ì˜�ì§€ ì–‘ì‹�",
+      "new_id": "애쉬랜더 유목 야영지 양식"
+    },
+    {
+      "identity": [
+        "esp",
+        "13358",
+        "DIAL",
+        "NAME",
+        "0"
+      ],
+      "old_id": "êµ¬ì•„ ê°€ì£½ ìƒ�ì�¸ ìŠµê²©",
+      "new_id": "구아 가죽 상인 습격"
+    },
+    {
+      "identity": [
+        "esp",
+        "13364",
+        "DIAL",
+        "NAME",
+        "0"
+      ],
+      "old_id": "í…”ë°”ë‹ˆ ê°€ë¬¸ì�˜ ê³¨ì¹«ê±°ë¦¬",
+      "new_id": "텔바니 가문의 골칫거리"
+    },
+    {
+      "identity": [
+        "esp",
+        "13366",
+        "DIAL",
+        "NAME",
+        "0"
+      ],
+      "old_id": "ì‹ ì�˜ ê°œìž… ë‘�ë£¨ë§ˆë¦¬",
+      "new_id": "신의 개입 두루마리"
+    },
+    {
+      "identity": [
+        "esp",
+        "13372",
+        "DIAL",
+        "NAME",
+        "0"
+      ],
+      "old_id": "ëª¨ë“  ë±€íŒŒì�´ì–´ê°€ ì§€ë‹Œ ëŠ¥ë ¥",
+      "new_id": "모든 뱀파이어가 지닌 능력"
+    },
+    {
+      "identity": [
+        "esp",
+        "13376",
+        "DIAL",
+        "NAME",
+        "0"
+      ],
+      "old_id": "ëž„ëžŒ ë“œë ˆë”œì�˜ ë°°ë‹¬í’ˆ",
+      "new_id": "랄람 드레딜의 배달품"
+    },
+    {
+      "identity": [
+        "esp",
+        "13378",
+        "DIAL",
+        "NAME",
+        "0"
+      ],
+      "old_id": "ë ˆë�„ëž€ ê°€ë¬¸ì�˜ ê³¨ì¹«ê±°ë¦¬",
+      "new_id": "레도란 가문의 골칫거리"
+    }
+  ],
+  "changed_samples_hash_only": [
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "1184",
+        "GMST",
+        "STRV",
+        "1"
+      ],
+      "old_sha256": "2aa02e1d6b86b37d7e2b08c0e60eb35ca8c0862a754f5193edde6b135945f223",
+      "new_sha256": "5203e30f0bd0a7b5a1d933f6fa51b30c3d330a3c44c10aa9cea519e69f07d4b8"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "1192",
+        "GMST",
+        "STRV",
+        "1"
+      ],
+      "old_sha256": "6a1c963d5bc5e2e5791ed11c5915e392d85cf692172b4b9923e0d6a1af66803f",
+      "new_sha256": "c1f5b0a99f6d6264c2d0d0eb0d81674a1edc4626f19757ce61bc95d39db61587"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "13309",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "3e4f1576f212e2e9a9875f4e1857a275c7c358b826eec9e8c07179bceb33189f",
+      "new_sha256": "7f051c92088d83b6fc71b6a6464ea385deb050d5751a0c5897688da5861f30a4"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "13348",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "3f6f751189d89660da84a29313e60944e8bc0e2cefe3b82bb2368afa3b9b183f",
+      "new_sha256": "87bc0a01064f4bcde4be6c2c74718eb1c73e30617f7f0687cc0c088c25c45312"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "13409",
+        "INFO",
+        "NAME",
+        "6"
+      ],
+      "old_sha256": "da4326995a59b69772b4429890bc8ad42c759a476d64399245791a457e78dc7e",
+      "new_sha256": "380e0ed6682b7413ec33a99e6c83219ed44461f1c1d1440afdc87448d34d9a1b"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "13469",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "792fe55765a6fb5d1f0883a7a6c506cf0bf154898709beb4360edd9247046120",
+      "new_sha256": "48160ce84c3e5e4f603c7a09b62ccc9b937ada73a3b5c8c6f14d6bd8b9693cde"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "13546",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "0d9c494d8defca8ead78215ec7a289aade8075632c0b03658d20af80a36ad56c",
+      "new_sha256": "501619bcaf32a2b29494084b6001cb3ccca5742f3d98cb295056659d629c9d1d"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14030",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "24f0e64ccbaea94268f138c5c83a93170c5e7805174fc56b6c8ff1f4fd98e6a1",
+      "new_sha256": "df22edccf55acc8895e73488a6afacfebddf0fba651fde5759e7a315f09c21b7"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14031",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "c1b46d27f9d460930eb99e09b5c2dd62baecb13731a991f0006827c195746032",
+      "new_sha256": "3dde6e423c8c93772490a3202638e0a9b356e5e84c4bf3f87b78ef19da1597f8"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14039",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "bde67656303aec1c0ebac113c6af942d386e9614cdb4f7dbbb3a88c79caa9a7b",
+      "new_sha256": "691c7ba26c9293ebeb2af4ced7aed1817a8ec958f4eec8d68f4269d600ebba09"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14050",
+        "INFO",
+        "NAME",
+        "6"
+      ],
+      "old_sha256": "385d08a65425819b8aa44d1fc453e0c36bf83633f01df3e733f0016a144100ad",
+      "new_sha256": "367acef7ff3067edb4174a2fd4afeb5a3d59e9e1217cbf4d90999b78e222322a"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14051",
+        "INFO",
+        "NAME",
+        "6"
+      ],
+      "old_sha256": "385d08a65425819b8aa44d1fc453e0c36bf83633f01df3e733f0016a144100ad",
+      "new_sha256": "367acef7ff3067edb4174a2fd4afeb5a3d59e9e1217cbf4d90999b78e222322a"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14052",
+        "INFO",
+        "NAME",
+        "6"
+      ],
+      "old_sha256": "385d08a65425819b8aa44d1fc453e0c36bf83633f01df3e733f0016a144100ad",
+      "new_sha256": "367acef7ff3067edb4174a2fd4afeb5a3d59e9e1217cbf4d90999b78e222322a"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14053",
+        "INFO",
+        "NAME",
+        "6"
+      ],
+      "old_sha256": "385d08a65425819b8aa44d1fc453e0c36bf83633f01df3e733f0016a144100ad",
+      "new_sha256": "367acef7ff3067edb4174a2fd4afeb5a3d59e9e1217cbf4d90999b78e222322a"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14054",
+        "INFO",
+        "NAME",
+        "6"
+      ],
+      "old_sha256": "385d08a65425819b8aa44d1fc453e0c36bf83633f01df3e733f0016a144100ad",
+      "new_sha256": "367acef7ff3067edb4174a2fd4afeb5a3d59e9e1217cbf4d90999b78e222322a"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14055",
+        "INFO",
+        "NAME",
+        "6"
+      ],
+      "old_sha256": "385d08a65425819b8aa44d1fc453e0c36bf83633f01df3e733f0016a144100ad",
+      "new_sha256": "367acef7ff3067edb4174a2fd4afeb5a3d59e9e1217cbf4d90999b78e222322a"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14166",
+        "INFO",
+        "NAME",
+        "6"
+      ],
+      "old_sha256": "87cb5368e49cae1750fff9fd8752f6c56df7e7d5e5e0f331b6c86194ce6a28d3",
+      "new_sha256": "d1c14547bf98fa8cfba82ec2b52895856ef33dd308db1aa9fbdb626d7112948a"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14170",
+        "INFO",
+        "NAME",
+        "6"
+      ],
+      "old_sha256": "f56d50b34a5a0ed5eaaf848ca6a69a37b208b9d22524f0102ccd9b7736a453ca",
+      "new_sha256": "e294f117087bdcf637147afb127c73991797c33c3a111689f31d403cf87c6b50"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14266",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "c0423005c6ff307926e89ed0358621a80fbc4438b1dd5d87c3237cd68bcdf96c",
+      "new_sha256": "417b8a97777fc5ed1be67b053a790c7811ebf1bd01e208b4c7dae58b18052a2c"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14292",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "69ceab52ce48a33a60a3f307a0ebabc88a7daeb747c6ddda6a072171b4b7e228",
+      "new_sha256": "9e80eb6ff656a3c2544e861e52428ab9a79184f15bf7bc1de1917882fa03d0f6"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14306",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "adab3e76e7d2f8bb73ee391d4e3d712ee2e62755c10c4eafc8b9c38fbb3c7a66",
+      "new_sha256": "2c1e9e136aeb979e96852f5816e7018c3463e80fa66842908fb838cc7f6b5176"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14350",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "acbb4291100c0a7209a56c97cf3ae8c7eebb5c18c70813b6406eb54af3402630",
+      "new_sha256": "f299e3705e6a372977fd6919ffa5e01efd8db7dd5366a41657c7c0271c51d16c"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14428",
+        "INFO",
+        "NAME",
+        "6"
+      ],
+      "old_sha256": "44070d986da12e827383d314f4a4a1badc1625ecdf3c0b74612ab96767176c7f",
+      "new_sha256": "fec900f9acbc2ffa22623f9c98eab19c63c0a1ad31d83b89b39470b03ea3a6bb"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14536",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "ac37b417d7782c7a54a5c75487747d595808296ad19a98ecd1c676ae13985413",
+      "new_sha256": "c2ee32210839f16839972f7ae486d447d645de7baf8cb118b02442aa71716659"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14602",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "d7b9ee5d4bfbdec4b17d30d9f4fbeb07cf1dc5abd79528c4dc7876c564394fe8",
+      "new_sha256": "df330f8eec30d5ea1a688e62c17c12e925eeb533338030d69304acdfe8dd4283"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "1465",
+        "GMST",
+        "STRV",
+        "1"
+      ],
+      "old_sha256": "21ca1092c8feb5042560c9c32e697994bf6d3f88d38d208ca893a9038063795c",
+      "new_sha256": "bcfe8128a79515eee12a7c72544036cf80f13b9a8046c4bcdff4a6e87a81dd48"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14841",
+        "INFO",
+        "NAME",
+        "6"
+      ],
+      "old_sha256": "1b7945729e67207feb3086efa0a01cc7ddf4440befb6d70fd2e5d9870fc4bb45",
+      "new_sha256": "6de0afb6122432afb8dd60a9e422cf0fe6913cca27895e10a5c87baf7b730482"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "14924",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "4e14acca108998684a172ef966b2b6c518319a3edcf616a739c8b71a1f6dcc67",
+      "new_sha256": "4f726371f992d3bf6c56dd33d28fe9a0cde0aeb7557a88d185af884f98bb24b1"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "15152",
+        "INFO",
+        "NAME",
+        "4"
+      ],
+      "old_sha256": "c7fea699f93c609d3b6489c3dfd7bdb0b73621ccd6378a0c59e85f77fe0d096b",
+      "new_sha256": "7597c338e7565dda95daace6b47a66bede5d2791359c526d1ae5a2961ebef2e4"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "15154",
+        "INFO",
+        "NAME",
+        "4"
+      ],
+      "old_sha256": "9c9de8883750573796e00b5cafd01630d621e966efd95a1b7d54a13676d87266",
+      "new_sha256": "c31faadc01bc036c2ea8d71f0ee29eeeba09cedbf7e0217c959f02385180ecf3"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "15156",
+        "INFO",
+        "NAME",
+        "4"
+      ],
+      "old_sha256": "5c81a0659197e1acb58714a1f560aa0f16023b8d264853253c123b5e4e1e9d81",
+      "new_sha256": "ef1ff5a4b2d92fe449852935003649ad699ee7deea27f0777ef2e4d4dc67ed32"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "15208",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "d63095a3e5afa4971c98b3be453396a18c8bad8ec3d92c42c0a3a4013684169a",
+      "new_sha256": "4f262d4800a12581eb610cf5127233902ac95febe94a6dbfe3ac282a56c84d1f"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "15462",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "f37608de59e1f208617c1adca51b5450d243085ca77b7a369fb3fc0eb0a272d8",
+      "new_sha256": "76ae1c7beae274ea021ad995f0ce4036ed45893656e13ba36e37c3c826331b30"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "15463",
+        "INFO",
+        "NAME",
+        "6"
+      ],
+      "old_sha256": "3a0f7d620fe1ad3e8a073623f24c6c592774d1be00575f58501d28c170fad5bf",
+      "new_sha256": "214be75267a3755174324e16c654bc255f5248f5a9149dab11fd04c0a372ba32"
+    },
+    {
+      "category": "esp",
+      "identity": [
+        "esp",
+        "15467",
+        "INFO",
+        "NAME",
+        "5"
+      ],
+      "old_sha256": "f57a0525d148857812c24093e1078b23fb5f9bf8f4e6752e257f6f93bff7e692",
+      "new_sha256": "62da5e31543ef56486d01d44ca9d67da8e84f66ac27f9121aae1107360dd06ae"
+    }
+  ],
+  "source_english_alignment": false,
+  "in_game_tested": false,
+  "policy": "KR9 preserved; KR12.4 current source; no cross-version automatic substitution."
+}
