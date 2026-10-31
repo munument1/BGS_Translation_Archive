@@ -1,0 +1,31 @@
+name: Compare Versioned OpenMW Korean Sources
+on:
+  push:
+    paths:
+      - "tools/compare_morrowind_snapshots.py"
+      - ".github/workflows/compare-morrowind-snapshots.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compare all versioned source text records
+        run: python3 tools/compare_morrowind_snapshots.py
+      - name: Commit review-only diff report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dictionaries/analysis/tamriel_morrowind_kr9_to_kr124_diff_20261101.json
+          if ! git diff --cached --quiet; then
+            git commit -m "audit: compare preserved KR9 vs KR12.4 sources"
+            for i in 1 2 3 4; do
+              git pull --rebase origin main
+              if git push origin HEAD:main; then exit 0; fi
+              sleep 3
+            done
+            exit 1
+          fi
