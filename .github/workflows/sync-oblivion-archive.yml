@@ -1,0 +1,31 @@
+name: Sync Verified Oblivion Translation Archive
+on:
+  push:
+    paths:
+      - "tools/sync_oblivion_archive.py"
+      - ".github/workflows/sync-oblivion-archive.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Sync only exact identity and source-hash matches
+        run: python3 tools/sync_oblivion_archive.py
+      - name: Commit versioned translation archive correction
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Oblivion/BaseGame/Oblivion.esm/canonical_v2.jsonl Oblivion/DLC/canonical_v2.jsonl Oblivion/Mods/canonical_v2.jsonl
+          git add Oblivion/import_metadata.json Oblivion/review_candidates_v1.2.0_20261101.jsonl
+          git add dictionaries/analysis/tamriel_oblivion_sync_20261101.json
+          if ! git diff --cached --quiet; then
+            git commit -m "data: sync 1197 Oblivion canonical rows with v1.2.0 review"
+            git pull --rebase origin main
+            git push
+          fi
