@@ -118,12 +118,26 @@ def morrowind_audit(data):
             if "Morrowind_Korean_ReTranslation.esp".lower() in name.lower():
                 members.append(name)
     baseline = json.loads((ROOT / "Morrowind/BaseGame/KR9/metadata.json").read_text("utf-8"))
-    old_lines = sum(1 for ln in (ROOT / "Morrowind/BaseGame/KR9/translation.jsonl").open("r", encoding="utf-8") if ln.strip())
+    kr9_path = ROOT / "Morrowind/BaseGame/KR9/translation.jsonl"
+    old_lines = 0
+    kr9_sample = []
+    kr9_kinds = collections.Counter()
+    for ln in kr9_path.open("r", encoding="utf-8"):
+        if not ln.strip():
+            continue
+        row = json.loads(ln)
+        if len(kr9_sample) < 8:
+            kr9_sample.append({k: str(v)[:120] for k, v in row.items()
+                               if k not in ("ko", "source_english", "en")})
+        kr9_kinds[(row.get("record"), row.get("field"))] += 1
+        old_lines += 1
     web_manifest = json.loads((ROOT / "docs/books/manifest.json").read_text("utf-8"))
     return {"current_release_tag": TAG, "latest_zip_sha256": sha(data),
             "latest_esp_members": esp_list, "korean_target_members": members,
             "archive_baseline_release": baseline.get("release"),
             "archive_baseline_rows": old_lines,
+            "archive_baseline_sample_no_korean": kr9_sample,
+            "archive_record_field_counts": [{"record": k[0], "field": k[1], "rows": n} for k, n in kr9_kinds.most_common(40)],
             "archive_stored_source_esp_sha256": baseline.get("source_esp_sha256"),
             "web_book_source": web_manifest["sources"].get("morrowind"),
             "action": "Preserve KR9 baseline; generate new versioned KR12.4 source dataset after identity/schema verification."}
