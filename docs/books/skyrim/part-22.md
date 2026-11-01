@@ -52,13 +52,17 @@ ID: 0010F775 / 플러그인: Skyrim.esm
 
 ID: 0010F776 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 투구  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -68,13 +72,17 @@ ID: 0010F776 / 플러그인: Skyrim.esm
 
 ID: 0010F777 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 방어구  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -84,13 +92,17 @@ ID: 0010F777 / 플러그인: Skyrim.esm
 
 ID: 0010F778 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 장갑  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -100,13 +112,17 @@ ID: 0010F778 / 플러그인: Skyrim.esm
 
 ID: 0010F779 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 전투화  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -116,13 +132,17 @@ ID: 0010F779 / 플러그인: Skyrim.esm
 
 ID: 0010F77A / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 방패  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -132,13 +152,17 @@ ID: 0010F77A / 플러그인: Skyrim.esm
 
 ID: 0010F77B / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 전투 도끼  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -148,13 +172,17 @@ ID: 0010F77B / 플러그인: Skyrim.esm
 
 ID: 0010F77C / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 도끼  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -164,13 +192,17 @@ ID: 0010F77C / 플러그인: Skyrim.esm
 
 ID: 0010F77D / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 전투 망치  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -180,13 +212,17 @@ ID: 0010F77D / 플러그인: Skyrim.esm
 
 ID: 0010F77E / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 검  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -196,13 +232,17 @@ ID: 0010F77E / 플러그인: Skyrim.esm
 
 ID: 0010F77F / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 대검  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -212,13 +252,17 @@ ID: 0010F77F / 플러그인: Skyrim.esm
 
 ID: 0010F780 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 단검  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -228,13 +272,17 @@ ID: 0010F780 / 플러그인: Skyrim.esm
 
 ID: 0010F781 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 철퇴  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -244,13 +292,17 @@ ID: 0010F781 / 플러그인: Skyrim.esm
 
 ID: 0010F782 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 활  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -260,13 +312,17 @@ ID: 0010F782 / 플러그인: Skyrim.esm
 
 ID: 0010F783 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 주괴  
   
 데이드라 심장  
   
 공허 소금  
   
-소울젬 - 상급 (상급)
+소울젬 - 상급 (상급)  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -276,6 +332,9 @@ ID: 0010F783 / 플러그인: Skyrim.esm
 
 ID: 0010F784 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 주괴  
   
 데이드라 심장  
@@ -284,7 +343,7 @@ ID: 0010F784 / 플러그인: Skyrim.esm
   
 소울젬 - 상급 (상급)  
   
--
+-[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -294,13 +353,17 @@ ID: 0010F784 / 플러그인: Skyrim.esm
 
 ID: 0010F785 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 인간의 두개골  
   
 데이드라 심장  
   
 동물의 살점  
   
-동물의 살점
+동물의 살점  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -310,9 +373,13 @@ ID: 0010F785 / 플러그인: Skyrim.esm
 
 ID: 0010F786 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 인간의 심장  
   
-검은 소울젬
+검은 소울젬  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 

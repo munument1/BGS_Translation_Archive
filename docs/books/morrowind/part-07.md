@@ -127,7 +127,7 @@ ID: bk_redbookofriddles / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_redweakness / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -138,7 +138,7 @@ WOE UPON YOU
 
 ID: sc_redfate / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -149,7 +149,7 @@ WOE UPON YOU
 
 ID: sc_reddespair / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -160,7 +160,7 @@ WOE UPON YOU
 
 ID: sc_redmind / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -171,7 +171,7 @@ WOE UPON YOU
 
 ID: sc_reddeath / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -198,7 +198,7 @@ ID: sc_Erna / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_brevasavertedeyes / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-MY GODS, MAY THIS INVOCATION PROVE MY DEDICATION AND WORTH  
+[daedric]MY GODS, MAY THIS INVOCATION PROVE MY DEDICATION AND WORTH[/daedric]  
 오, 신들이시여, 이 기도가 저의 헌신과 가치를 증명하게 하소서.
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)

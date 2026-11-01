@@ -211,7 +211,9 @@
       if(!response.ok)throw Error("서적 원문을 읽지 못했습니다 ("+response.status+")");
       const markdown=await response.text();
       if(token!==state.requestToken)return;
-      $("readerContent").textContent=parseBook(markdown);
+      const readerBody=parseBook(markdown);
+      if(window.TamrielDaedric)window.TamrielDaedric.render($("readerContent"),readerBody);
+      else $("readerContent").textContent=readerBody;
     }catch(error){if(token===state.requestToken){$("readerContent").textContent="서적 본문을 불러올 수 없습니다. 잠시 후 다시 시도해 주세요.";console.warn(error);}}
     const current=state.filtered.findIndex(b=>b.uid===uid);
     $("readerPrevious").disabled=current<=0;

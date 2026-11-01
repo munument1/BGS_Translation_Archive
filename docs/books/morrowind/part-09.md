@@ -211,7 +211,7 @@ IV.
 
 ID: sc_thirdbarrier / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -324,7 +324,7 @@ ID: bk_seniliasreport / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_sertisesporphyry / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -456,7 +456,7 @@ ID: bookskill_blunt weapon3 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_selisfieryward / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -467,7 +467,7 @@ WOE UPON YOU
 
 ID: sc_selynsmistslippers / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -751,7 +751,7 @@ ID: bk_PilgrimsPath / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_Chappy_sniper_test / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -762,7 +762,7 @@ WOE UPON YOU
 
 ID: sc_hiddenkiller / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1684,7 +1684,7 @@ ID: bk_DivineMetaphysics / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_celerity / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-INVOKE IN THE NAME OF RIGHTEOUSNESS  
+[daedric]INVOKE IN THE NAME OF RIGHTEOUSNESS[/daedric]  
 정의의 이름으로 기도하라
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)

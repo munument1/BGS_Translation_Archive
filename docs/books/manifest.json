@@ -15,7 +15,7 @@
       "individual_files": 632,
       "duplicate_titles": 54,
       "available": true,
-      "sha256": "0ebf5888dba23f53341b08997eb9655fc9ded526af8f4d4e904aa278f4bf10c5"
+      "sha256": "82e09e4fef16d32d794e27f8c0b6829f3526bf1e83b3d68587bb8526839e49fa"
     },
     {
       "game": "oblivion",
@@ -31,7 +31,7 @@
       "individual_files": 1072,
       "duplicate_titles": 135,
       "available": true,
-      "sha256": "dc8bf50ae20ff893607f14f25a182ae62319a45f992a0c119fc04636cb63a3ea"
+      "sha256": "c7e2e47af6c43b0719092c8a52b6c46a2de1c0ef7f8ab8ccab2faa3695e0cfab"
     }
   ],
   "sources": {

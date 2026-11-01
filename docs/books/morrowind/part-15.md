@@ -8,7 +8,7 @@
 
 ID: sc_tevralshawkshaw / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -19,7 +19,7 @@ WOE UPON YOU
 
 ID: sc_tevilspeace / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -30,7 +30,7 @@ WOE UPON YOU
 
 ID: sc_tendilstrembling / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -64,7 +64,7 @@ ID: bk_notetotelvon / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_telvinscourage / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -75,7 +75,7 @@ WOE UPON YOU
 
 ID: sc_toususabidingbeast / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -86,7 +86,7 @@ WOE UPON YOU
 
 ID: sc_insight / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-IN THE NAME OF THE GODS!  
+[daedric]IN THE NAME OF THE GODS![/daedric]  
 신들의 이름으로!
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -97,7 +97,7 @@ IN THE NAME OF THE GODS!
 
 ID: sc_invisibility / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-SHADOWS AND FOG  
+[daedric]SHADOWS AND FOG[/daedric]  
 그림자와 안개
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -108,7 +108,7 @@ SHADOWS AND FOG
 
 ID: sc_tranasasspelltwist / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -119,7 +119,7 @@ WOE UPON YOU
 
 ID: sc_tranasasspellmire / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -130,7 +130,7 @@ WOE UPON YOU
 
 ID: sc_tranasasspelltrap / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -154,7 +154,7 @@ ID: bk_miungei / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_tinurshoptoad / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -628,7 +628,7 @@ ID: bk_notefromferele / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_fadersleadenflesh / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-DEATH STALKS US ALL  
+[daedric]DEATH STALKS US ALL[/daedric]  
 죽음은 우리 모두를 따라온다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1030,7 +1030,7 @@ ID: note_Peke_Utchoo / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_feldramstrepidation / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1133,7 +1133,7 @@ ID: bk_madnessofpelagius / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_stormward / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1144,7 +1144,7 @@ WOE UPON YOU
 
 ID: sc_mark / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1269,7 +1269,7 @@ ID: sc_frosselnote / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_bloodthief / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-MAY YOUR FEET BE SWIFT AND SURE  
+[daedric]MAY YOUR FEET BE SWIFT AND SURE[/daedric]  
 당신의 발걸음이 빠르고 확신에 차기를 바랍니다.
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1280,7 +1280,7 @@ MAY YOUR FEET BE SWIFT AND SURE
 
 ID: sc_bloodfire / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-STRENGTH AND HONOR  
+[daedric]STRENGTH AND HONOR[/daedric]  
 힘과 명예
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)

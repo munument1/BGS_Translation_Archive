@@ -833,7 +833,7 @@ ID: bookskill_speechcraft4 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_lycanthropycure / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-DREADED WOLF, BEGONE!  
+[daedric]DREADED WOLF, BEGONE![/daedric]  
 무시무시한 늑대여, 사라져라!
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1133,7 +1133,7 @@ ID: bk_a2_2_dagoth_message / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_fifthbarrier / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-ENDLESS PAIN AND SUFFERING  
+[daedric]ENDLESS PAIN AND SUFFERING[/daedric]  
 끝없는 고통과 고난
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1376,6 +1376,9 @@ ID: bk_varietiesoffaithintheempire / 플러그인: Morrowind_Korean_ReTranslatio
 
 ID: sc_daerirsmiracle / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+[daedric]  
+  
+  
 <B>  
 Miracle of Daerir  
 </B>  
@@ -1385,6 +1388,8 @@ Consume the red sands, lest they consume thee
 By the one from the dark waters  
 By the one who was first in the deep waters  
 By my will I cleanse myself of the red sands.  
+  
+[/daedric]  
   
   
 <B>  
@@ -1412,6 +1417,9 @@ By my will I cleanse myself of the red sands.
 
 ID: sc_cureblight_ranged / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+[daedric]  
+  
+  
 Blessing of Daerir  
   
 Ride the storms, lest they ride thee.  
@@ -1419,6 +1427,8 @@ Consume the red sands, lest they consume thee
 By the one from the dark waters  
 By the one who was first in the deep waters  
 By my will I cleanse thee of the red sands.  
+  
+[/daedric]  
   
   
 다에리르의 축복  
@@ -2017,7 +2027,7 @@ ID: bookskill_sneak4 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_dedresmasterfuleye / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-BY THE GODS, I INVOKE THIS POWER  
+[daedric]BY THE GODS, I INVOKE THIS POWER[/daedric]  
 신이시여, 저는 이 힘을 불러냅니다.
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -2028,7 +2038,7 @@ BY THE GODS, I INVOKE THIS POWER
 
 ID: sc_daynarsairybubble / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -2209,7 +2219,7 @@ ID: bk_SpiritOfTheDaedra / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_daydenespanacea / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-MY SOUL IS PAINED. INVOKE AND RELEASE ME FROM ANGUISH AND SUFFERING  
+[daedric]MY SOUL IS PAINED. INVOKE AND RELEASE ME FROM ANGUISH AND SUFFERING[/daedric]  
 내 영혼이 고통스럽습니다. 저를 고통과 괴로움에서 해방시켜 주소서.
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -2469,7 +2479,7 @@ ID: bookskill_security5 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_gamblersprayer / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)

@@ -8,7 +8,7 @@
 
 ID: sc_psychicprison / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -19,7 +19,7 @@ WOE UPON YOU
 
 ID: sc_mindfeeder / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -249,7 +249,7 @@ ID: bk_redbook426 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_ninthbarrier / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-THE NINTH BARRIER CANNOT EXIST!  
+[daedric]THE NINTH BARRIER CANNOT EXIST![/daedric]  
 아홉 번째 장벽은 존재할 수 없다!
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1318,7 +1318,7 @@ ID: bookskill_destruction1 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_hellfire / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-SANCTIFY WITH BLOOD AND FIRE  
+[daedric]SANCTIFY WITH BLOOD AND FIRE[/daedric]  
 피와 불로 거룩하게 하라
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)

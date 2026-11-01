@@ -8,7 +8,7 @@
 
 ID: sc_sixthbarrier / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -597,7 +597,7 @@ ID: bk_talostreason / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_princeovsbrightball / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -805,7 +805,7 @@ ID: bk_truenatureoforcs / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_ondusisunhinging / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1193,7 +1193,7 @@ ID: bk_wherewereyoudragonbroke / 플러그인: Morrowind_Korean_ReTranslation.es
 
 ID: sc_uthshandofheaven / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1293,7 +1293,7 @@ ID: bookskill_security4 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_ulmjuicedasfeather / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1365,7 +1365,7 @@ ID: bk_fivesongsofkingwulfharth / 플러그인: Morrowind_Korean_ReTranslation.e
 
 ID: sc_elementalburstfrost / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-CRUSH YOUR ENEMIES  
+[daedric]CRUSH YOUR ENEMIES[/daedric]  
 적들을 짓밟아라
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1376,7 +1376,7 @@ CRUSH YOUR ENEMIES
 
 ID: sc_elementalburstshock / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-DESTRUCTION TO ALL FOES  
+[daedric]DESTRUCTION TO ALL FOES[/daedric]  
 모든 적들을 파멸시키리라
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1387,13 +1387,13 @@ DESTRUCTION TO ALL FOES
 
 ID: sc_elementalburstfire / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-Elemental Burst - Fire  
+[daedric]Elemental Burst - Fire  
   
 The afore-mentioned personage has been marked for honorable execution in accordance to the lawful tradition and practice of the Morag Tong Guild. The Bearer of this non-disputable document has official sanctioned license to kill the afore-mentioned personage.  
   
 The afore-mentioned personage has been marked for honorable execution in accordance to the lawful tradition and practice of the Morag Tong Guild. The Bearer of this non-disputable document has official sanctioned license to kill the afore-mentioned personage.  
   
-  
+[/daedric]  
 원소 폭발 - 화염  
   
   

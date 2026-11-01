@@ -16524,7 +16524,7 @@ ID: 000D30C8 / 플러그인: Skyrim.esm
   
 시체는 함께 발견 되었으며 같은 형태의 기형이 일어나 있음: 팔과 얼굴의 피부가 벗겨져있고 거품이 나고 있음. 대학 주변에서 일반적으로 소환의 화상이라 일컬어짐. 그들 자신의 능력을 벗어나는 소환을 실시한 것이 확실시 됨.  
   
-주변에 있는 유물이 이러한 추정을 확실하게 함. 금일 처음 본 것이며 자세한 생김새는 다음과 같음 : 손바닥에 데이드라 문양 'O'가 새겨진 거대한 장갑의 동상. 움직일 수 있는 방법은 없어보임. 다음에 대마법사 세도스가 방문하면 필히 보여주어야 함. 그는 무언가 알아낼 수 있다고 보임.  
+주변에 있는 유물이 이러한 추정을 확실하게 함. 금일 처음 본 것이며 자세한 생김새는 다음과 같음 : 손바닥에 데이드라 문양 '[daedric]O[/daedric]'가 새겨진 거대한 장갑의 동상. 움직일 수 있는 방법은 없어보임. 다음에 대마법사 세도스가 방문하면 필히 보여주어야 함. 그는 무언가 알아낼 수 있다고 보임.  
   
 유물을 옮길 수는 없지만, 4개의 '반지'들을 떼어낼 수 있었음. 이는 학생들이 시도하려고 했던 의식과 연관이 있음이 강하게 추정됨.  
   
@@ -23874,7 +23874,7 @@ ID: 0006CE1C / 플러그인: Skyrim.esm
   
 아트로나크 대장간을 만든 사람에 관해서는 몇 가지 밖에 알려져 있지 않고, 그게 가진 잠재력에 대해서는 더 알려져 있지 않단다. 무작위로 행해진 실험으로 내 눈썹을 태우면서 몇가지 기능에 대해서 알 수 있었지.  
   
-대장간의 대부분은 마구잡이로 만들어졌지만 전통적인 데이드라의 'O'룬문자로 새겨진 큰 연단으로 이루어져 있단다. 제물 상자와 튀어나온 레버가 붙어 있을거다. 또한 그 곳에는 무언가 큰 구체의 물건을 넣기 위한 장치가 달려 있단다. 하지만 무엇이 그 자리에 위치할지, 그게 대장간에 어떤 역할을 하는지는 도무지 알 수가 없구나.  
+대장간의 대부분은 마구잡이로 만들어졌지만 전통적인 데이드라의 '[daedric]O[/daedric]'룬문자로 새겨진 큰 연단으로 이루어져 있단다. 제물 상자와 튀어나온 레버가 붙어 있을거다. 또한 그 곳에는 무언가 큰 구체의 물건을 넣기 위한 장치가 달려 있단다. 하지만 무엇이 그 자리에 위치할지, 그게 대장간에 어떤 역할을 하는지는 도무지 알 수가 없구나.  
    
 대장간에는 제물 상자에 특정한 물품을 넣고 레버를 당김으로서 작동한단다. 대장간은 물품을 흡수해서 제단위에 새로운 물품을 소환하게 된다. 적절한 물품을 제물 상자에 넣었을 때에는 안정적으로 소환이 되지만, 대부분의 경우는 아무런 효과도 없거나 엄청나게 나쁜 결과를 불러 일으킨단다. 한번은 야생 염소가 나왔던 경우도 있었다! 뭐, 적어도 염소의 대부분은 나왔지.  
   
@@ -27682,7 +27682,7 @@ ID: 00086EF8 / 플러그인: Skyrim.esm
   
 맨카 캐모런 지음  
   
-DAGON  
+[daedric]DAGON[/daedric]  
 [pagebreak]  
 [pagebreak]  
   
@@ -27737,7 +27737,7 @@ ID: 00086EF9 / 플러그인: Skyrim.esm
 제2권  
   
 맨카 캐모런 지음  
-ALTADOON  
+[daedric]ALTADOON[/daedric]  
 [pagebreak]  
 [pagebreak]  
   
@@ -27782,7 +27782,7 @@ ID: 00086EFA / 플러그인: Skyrim.esm
   
 맨카 캐모런 지음  
   
-CHIM  
+[daedric]CHIM[/daedric]  
 [pagebreak]  
 [pagebreak]  
   
@@ -27838,7 +27838,7 @@ ID: 00086EFB / 플러그인: Skyrim.esm
   
 맨카 캐모런 지음  
   
-GHARTOK  
+[daedric]GHARTOK  
 [pagebreak]  
 [pagebreak]  
   
@@ -27866,7 +27866,7 @@ GHARTOK
 <img src='img://Textures/Interface/Books/Illuminated_Letters/U_letter.png'> 늪 아래에서, 오랜 사슬의 도시인 말비오그 (Malbioge)는 무너져 새로운 뼈의 따뜻함에 치유되어 해방되었다. 갈그 (Galg)와 모-갈그 (Mor-Galg)는 어느 날, 하룻밤 사이 동시에 무너져 다시 게이트의 시대가 찾아오게 되었다.  
   
 [pagebreak]  
-<img src='img://Textures/Interface/Books/Illuminated_Letters/N_letter.png'> 구멍이 된 NRN에 고뇌를, 그리고 거기 사는 드레그인 Vermae NI-MOHK에게 일곱개의 저주를! 그러나 그 때문에 십자군은 우리 신의 창조물이 되어, Ge에 이끌린 Get는 의지를 관철하여 자신의 양심 외에 속박은 없었다! 오르비스의 사람들이여, 그대들의 지옥은 없어졌다는 것을 알라! 그리고 자유 그 자체인 누-만티아를 칭송하라!
+<img src='img://Textures/Interface/Books/Illuminated_Letters/N_letter.png'> 구멍이 된 NRN에 고뇌를, 그리고 거기 사는 드레그인 Vermae NI-MOHK에게 일곱개의 저주를! 그러나 그 때문에 십자군은 우리 신의 창조물이 되어, Ge에 이끌린 Get는 의지를 관철하여 자신의 양심 외에 속박은 없었다! 오르비스의 사람들이여, 그대들의 지옥은 없어졌다는 것을 알라! 그리고 자유 그 자체인 누-만티아를 칭송하라![/daedric]
 
 [출처](https://github.com/servaltullius/Skyrim_Translator_v6/blob/dc1796e26f5b3d1db0e1116c5a0b04a13759dba9/src/XTranslatorAi.App/Assets/GameStrings/game-strings-skyrim.gz)
 
@@ -28928,13 +28928,17 @@ ID: 0010F775 / 플러그인: Skyrim.esm
 
 ID: 0010F776 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 투구  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -28944,13 +28948,17 @@ ID: 0010F776 / 플러그인: Skyrim.esm
 
 ID: 0010F777 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 방어구  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -28960,13 +28968,17 @@ ID: 0010F777 / 플러그인: Skyrim.esm
 
 ID: 0010F778 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 장갑  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -28976,13 +28988,17 @@ ID: 0010F778 / 플러그인: Skyrim.esm
 
 ID: 0010F779 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 전투화  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -28992,13 +29008,17 @@ ID: 0010F779 / 플러그인: Skyrim.esm
 
 ID: 0010F77A / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 방패  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -29008,13 +29028,17 @@ ID: 0010F77A / 플러그인: Skyrim.esm
 
 ID: 0010F77B / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 전투 도끼  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -29024,13 +29048,17 @@ ID: 0010F77B / 플러그인: Skyrim.esm
 
 ID: 0010F77C / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 도끼  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -29040,13 +29068,17 @@ ID: 0010F77C / 플러그인: Skyrim.esm
 
 ID: 0010F77D / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 전투 망치  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -29056,13 +29088,17 @@ ID: 0010F77D / 플러그인: Skyrim.esm
 
 ID: 0010F77E / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 검  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -29072,13 +29108,17 @@ ID: 0010F77E / 플러그인: Skyrim.esm
 
 ID: 0010F77F / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 대검  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -29088,13 +29128,17 @@ ID: 0010F77F / 플러그인: Skyrim.esm
 
 ID: 0010F780 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 단검  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -29104,13 +29148,17 @@ ID: 0010F780 / 플러그인: Skyrim.esm
 
 ID: 0010F781 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 철퇴  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -29120,13 +29168,17 @@ ID: 0010F781 / 플러그인: Skyrim.esm
 
 ID: 0010F782 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 활  
   
 데이드라 심장  
   
 검은 소울젬  
   
-백부장 동력장치
+백부장 동력장치  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -29136,13 +29188,17 @@ ID: 0010F782 / 플러그인: Skyrim.esm
 
 ID: 0010F783 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 주괴  
   
 데이드라 심장  
   
 공허 소금  
   
-소울젬 - 상급 (상급)
+소울젬 - 상급 (상급)  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -29152,6 +29208,9 @@ ID: 0010F783 / 플러그인: Skyrim.esm
 
 ID: 0010F784 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 에보니 주괴  
   
 데이드라 심장  
@@ -29160,7 +29219,7 @@ ID: 0010F784 / 플러그인: Skyrim.esm
   
 소울젬 - 상급 (상급)  
   
--
+-[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -29170,13 +29229,17 @@ ID: 0010F784 / 플러그인: Skyrim.esm
 
 ID: 0010F785 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 인간의 두개골  
   
 데이드라 심장  
   
 동물의 살점  
   
-동물의 살점
+동물의 살점  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 
@@ -29186,9 +29249,13 @@ ID: 0010F785 / 플러그인: Skyrim.esm
 
 ID: 0010F786 / 플러그인: Skyrim.esm
 
+[daedric]  
+  
+  
 인간의 심장  
   
-검은 소울젬
+검은 소울젬  
+[/daedric]
 
 출처: local:Skyrim.esm+strings/Skyrim_english.DLSTRINGS
 

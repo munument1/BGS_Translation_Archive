@@ -46,3 +46,8 @@
 /* Keep the two archive destinations visible on narrow screens. */
 @media(max-width:760px){.site-header{height:auto;min-height:84px;gap:14px;padding-block:16px;flex-wrap:wrap}.header-actions{gap:18px;flex-wrap:wrap;margin-left:auto}.header-actions .header-link{display:inline-flex;white-space:nowrap;align-items:center;min-height:36px}.header-actions .theme-button{flex-shrink:0}}
 @media(max-width:420px){.header-actions{width:100%;justify-content:flex-end;gap:20px}.site-header{gap:6px}.wordmark-label strong{font-size:11px}}
+
+
+/* Only explicitly tagged in-world Daedric script uses this glyph font. */
+@font-face{font-family:"Tamriel Daedric";src:url("./fonts/DemonicLetters.ttf") format("truetype");font-style:normal;font-weight:400;font-display:swap}
+.reader-content .reader-daedric{font-family:"Tamriel Daedric",var(--display),serif;letter-spacing:.075em;overflow-wrap:anywhere;font-variant-ligatures:none}

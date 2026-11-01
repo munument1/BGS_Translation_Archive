@@ -8,7 +8,7 @@
 
 ID: sc_divineintervention / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-FOR THE GODS!  
+[daedric]FOR THE GODS![/daedric]  
 신들을 위하여!
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -83,7 +83,7 @@ ID: bk_fellowshiptemple / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_bodily_restoration / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-I AM THAT IS AND ALWAYS WAS  
+[daedric]I AM THAT IS AND ALWAYS WAS[/daedric]  
 나는 그것이며, 언제나 그랬다.
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -346,6 +346,8 @@ ID: bk_ahnia / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: bk_messagefrommasteraryon / 플러그인: Morrowind_Korean_ReTranslation.esp
 
+[daedric]  
+  
 WIIJNUGHWBIJVNDHCDCDIDIJXOCDCDLUFJAFCDUYBJXHBJBTEBABEZBBSJEBEBIJIDDHCJEBEBHJENEBULADEZEBDOFDFDBDCDBDZFFDJHGBDEIJEBGBGX  
   
   
@@ -382,7 +384,9 @@ FJEBIJSFIJDHBBIJEBEBGHCQJHDQBBJCHJCDLIGHXYFDFLBJCDZNHJBTBBGBBJDOADEBIDJUCDHJCKBB
 BJCIDJFJHCPHBCDMIHJMEEBGHHJFPIJRTGHIJDHCDZLFJEBGBNYIJDXDHJRCDXHBBRMHJBHBBGBCDBBHJIJWKIDEBEBWIGHUOJHEJHJDHEUGHLFGBHYGH  
   
   
-PMHJCDBJIDIJJHBJQHCDGBIJYJFJBBRIIDIJCDHJAZBBHJRDEBEBGHHUGB
+PMHJCDBJIDIJJHBJQHCDGBIJYJFJBBRIIDIJCDHJAZBBHJRDEBEBGHHUGB  
+  
+[/daedric]
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
 
@@ -1296,7 +1300,7 @@ ID: bk_guide_to_ald_ruhn / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_almsiviintervention / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-INVOKE SWIFTLY AND WISELY   
+[daedric]INVOKE SWIFTLY AND WISELY [/daedric]  
 신속하고 현명하게 소환하십시오
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1307,7 +1311,7 @@ INVOKE SWIFTLY AND WISELY
 
 ID: sc_alvusiaswarping / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-BY THE POWER OF THE GODS, I INVOKE THEE  
+[daedric]BY THE POWER OF THE GODS, I INVOKE THEE[/daedric]  
 신들의 권능으로, 나는 당신을 부릅니다.
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1365,7 +1369,7 @@ ID: bk_Ashland_Hymns / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_savagemight / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1401,7 +1405,7 @@ C는 콤베리.
 
 ID: sc_savagetyranny / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-FROM THE EARTH TO THE AETHER...AND BACK.  
+[daedric]FROM THE EARTH TO THE AETHER...AND BACK.[/daedric]  
 대지에서 에테르로... 그리고 다시 대지로.
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1631,7 +1635,7 @@ ID: bk_AedraAndDaedra / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_ekashslocksplitter / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1673,7 +1677,7 @@ ID: bk_Ibardad_Elante_notes / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_elevramssty / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-I INVOKE FOR THE GODS, FOR MY ANCESTORS, AND FOR REVENGE  
+[daedric]I INVOKE FOR THE GODS, FOR MY ANCESTORS, AND FOR REVENGE[/daedric]  
 나는 신들에게, 나의 조상들에게, 그리고 복수를 기원합니다.
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)

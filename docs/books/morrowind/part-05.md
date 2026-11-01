@@ -504,7 +504,7 @@ ID: bk_custom_armor / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_manarape / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -531,7 +531,7 @@ ID: bk_VagariesOfMagica / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_FiercelyRoastThyEnemy_unique / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-NINE-FOLD WOES AND WEAKNESSES UPON YOU, HEATHEN SERVENTS OF DARKNESS  
+[daedric]NINE-FOLD WOES AND WEAKNESSES UPON YOU, HEATHEN SERVENTS OF DARKNESS[/daedric]  
 어둠의 이교도 하수인들아, 너희에게 아홉 배의 재앙과 약점이 임하리라!
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -980,7 +980,7 @@ ID: bk_great_houses / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_mondensinstigator / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1162,7 +1162,7 @@ ID: BookSkill_Alteration1 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_summondaedroth_hto / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)

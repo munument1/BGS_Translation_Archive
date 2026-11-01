@@ -20,8 +20,45 @@ OBLIVION_PLUGINS = {x.lower() for x in (
  "DLCOrrery.esp","DLCHorseArmor.esp","DLCShiveringIsles.esp")}
 GH = "https://github.com/munument1/"
 
-def norm(s):
+DAEDRIC_FONT_TAG = re.compile(r"</?font\b[^>]*>", re.I)
+DAEDRIC_FACE = re.compile(r"""\bface\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+))""", re.I)
+DAEDRIC_FAMILY = re.compile(r"daedric|demonic[\s_-]*letters|ayembedt", re.I)
+
+
+def mark_daedric_faces(text):
+    """Convert only explicitly Daedric font faces to safe, visible text markers.
+
+    Other font tags are left for the normal text-only formatter to remove.
+    This preserves nested <font size=...> elements and normal text outside
+    Daedric spans. Never infer glyphs from unmarked English passages.
+    """
+    result, stack, pos, active = [], [], 0, False
+    for tag in DAEDRIC_FONT_TAG.finditer(text):
+        result.append(text[pos:tag.start()])
+        raw = tag.group(0)
+        if raw.startswith("</") or raw.startswith("</".upper()):
+            if stack:
+                stack.pop()
+        else:
+            inherited = stack[-1] if stack else False
+            match = DAEDRIC_FACE.search(raw)
+            name = next((value for value in match.groups() if value is not None), None) if match else None
+            stack.append(inherited if name is None else bool(DAEDRIC_FAMILY.search(name)))
+        current = stack[-1] if stack else False
+        if current != active:
+            result.append("[daedric]" if current else "[/daedric]")
+            active = current
+        pos = tag.end()
+    result.append(text[pos:])
+    if active:
+        result.append("[/daedric]")
+    return "".join(result)
+
+
+def norm(s, preserve_daedric=False):
     s=html.unescape(str(s)).replace("\x00","").replace("\r\n","\n")
+    if preserve_daedric:
+        s=mark_daedric_faces(s)
     s=re.sub(r"<br\s*/?>","\n",s,flags=re.I)
     s=re.sub(r"</?(?:font|p|div|span|body|html)[^>]*>","",s,flags=re.I)
     s=re.sub(r"\[/?(?:center|left|right|font(?:=\d+)?)\]","",s,flags=re.I)
@@ -29,7 +66,7 @@ def norm(s):
 
 def entry(game,book_id,title,body,url,**kw):
     return {"game":game,"record":"BOOK","field":"DESC","book_id":str(book_id),
-            "title_ko":norm(title) or str(book_id),"ko":norm(body),
+            "title_ko":norm(title) or str(book_id),"ko":norm(body,preserve_daedric=True),
             "source_language":"en","content_language":"ko","status":"imported",
             "source_ref":url,**kw}
 
@@ -75,7 +112,7 @@ def oblivion(file):
             if row.get("editor_id"): b["editor_id"]=row["editor_id"]
     books=[]
     for b in allbooks.values():
-        b["ko"]=norm("\n".join(x[2] for x in sorted(b.pop("_parts",[]))))
+        b["ko"]=norm("\n".join(x[2] for x in sorted(b.pop("_parts",[]))),preserve_daedric=True)
         if KOREAN.search(b["ko"]):
             if not b["title_ko"] or b["title_ko"]==b["form_id"]:
                 b["title_ko"]=b.get("editor_id") or b["form_id"]

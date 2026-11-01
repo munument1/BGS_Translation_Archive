@@ -124,7 +124,7 @@ ID: bk_firmament / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_firstbarrier / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -193,7 +193,7 @@ ID: bookskill_medium armor1 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_supremedomination / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-THE DUST SHALL SERVE ME!  
+[daedric]THE DUST SHALL SERVE ME![/daedric]  
 먼지가 내 하인이 되리라!
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -353,7 +353,7 @@ ID: BookSkill_Heavy Armor3 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_healing / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -952,7 +952,7 @@ ID: bk_a1_2_antabolistocosades / 플러그인: Morrowind_Korean_ReTranslation.es
 
 ID: sc_chridittepanacea / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-THE  SOUL OF ANOTHER IS PAINED. INVOKE AND RELEASE HIM FROM ANGUISH AND SUFFERING  
+[daedric]THE  SOUL OF ANOTHER IS PAINED. INVOKE AND RELEASE HIM FROM ANGUISH AND SUFFERING[/daedric]  
 다른 이의 영혼이 고통받고 있습니다. 그를 고통과 괴로움에서 해방시켜 주시기를 기도합니다.
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -963,7 +963,7 @@ THE  SOUL OF ANOTHER IS PAINED. INVOKE AND RELEASE HIM FROM ANGUISH AND SUFFERIN
 
 ID: sc_corruptarcanix / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-INVOKE SWIFTLY AND WISELY   
+[daedric]INVOKE SWIFTLY AND WISELY [/daedric]  
 신속하고 현명하게 소환하십시오
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1077,7 +1077,7 @@ ID: bk_TalMarogKersResearches / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_taldamsscorcher / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-THE DUST SHALL SERVE ME!  
+[daedric]THE DUST SHALL SERVE ME![/daedric]  
 먼지가 내 하인이 되리라!
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
