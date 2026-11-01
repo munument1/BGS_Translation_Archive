@@ -4,7 +4,10 @@
 
 2026-11-01에 [PR #1](https://github.com/munument1/BGS_Translation_Archive/pull/1)이 `main`에 병합되었다. 압축 사전에서 식별자가 일치하는 서적의 한국어 제목·본문을 원자료에 반영하고 서고의 개별 Markdown, 합본, 색인과 카탈로그를 재생성했다.
 
-**이것은 원자료·GitHub Pages용 생성 파일의 반영 기록이지, 별도 사람 검수나 실제 GitHub Pages 공개 URL의 접근 검증을 마쳤다는 뜻은 아니다.** 사전에서 갱신된 레코드의 `status: review_required`는 후속 언어·내용 검수가 남았다는 뜻으로 유지한다.
+**공개 GitHub Pages의 스카이림 서적 목록에 1,072건이 표시되는 것까지 확인했다.** 다만 별도 사람 검수나 인게임 전수 검증을 마쳤다는 뜻은 아니다. 사전에서 갱신된 레코드의 `status: review_required`는 후속 언어·내용 검수가 남았다는 뜻으로 유지한다.
+
+- 공개 서고: https://munument1.github.io/BGS_Translation_Archive/
+- 공개 스카이림 서적 목록: https://munument1.github.io/BGS_Translation_Archive/books/skyrim/index.md
 
 | 항목 | 건수 | 처리 |
 |---|---:|---|
@@ -52,4 +55,4 @@ python tools/refresh_skyrim_book_translation.py `
 4. 영어 원문 전문은 사용자가 보유한 ESM/ESL·영문 STRINGS에서 확보해 번역과 연결한다. 원본 게임 바이너리와 전문의 공개 재배포 여부는 별도 저작권·배포 조건을 검토한다.
 5. 스카이림 번역 원문-번역 쌍을 정리한 후 모로윈드 KR12.4, 오블리비언 v1.2.0, 대거폴 등과 엘더스크롤 공통 용어를 대조한다.
 
-스카이림의 생성된 서고 수량이 맞더라도 **언어적 전수 검수와 GitHub Pages 라이브 서비스 확인은 별도 작업**이다.
+GitHub Pages에서 **1,072건 목록의 공개 접근은 확인**했다. 서적별 실제 번역 내용과 링크의 전수 검수는 별도 작업이다.
