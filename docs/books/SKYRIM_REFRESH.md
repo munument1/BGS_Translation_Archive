@@ -6,7 +6,7 @@
 `src/XTranslatorAi.App/Assets/GameStrings/game-strings-skyrim.gz`은
 `XTranslatorAi-GameStrings-v2` 형식의 gzip 텍스트이며, `F` 행은
 레코드 필드 identity, 영어 원문 128비트 SHA-256 지문, 한국어 번역,
-번역 출처 플러그인을 보존한다. `BOOK/owner.esm:001234/DESC/...`
+번역 출처 플러그인을 보존한다. `BOOK/owner.esm:001234/0/DESC/0`
 형태의 identity에서 기존 서적의 플러그인과 FormID 하위 24비트를
 대응할 수 있다. 원본 게임 ESM 없이 **기존 BOOK 977권 갱신 후보를
 추출하는 것은 가능하다.** 이전의 '원본 ESM 필수' 주장은 과도했다.
