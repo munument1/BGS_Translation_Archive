@@ -1,42 +1,36 @@
 # 스카이림 서적 번역 갱신 — 2026-11-01
 
-## 자료 확인 및 정정
+## 반영 상태
 
-**번역기에는 레코드 식별자가 포함된 압축 사전이 있다.**
-`src/XTranslatorAi.App/Assets/GameStrings/game-strings-skyrim.gz`은
-`XTranslatorAi-GameStrings-v2` 형식의 gzip 텍스트이며, `F` 행은
-레코드 필드 identity, 영어 원문 128비트 SHA-256 지문, 한국어 번역,
-번역 출처 플러그인을 보존한다. `BOOK/owner.esm:001234/0/DESC/0`
-형태의 identity에서 기존 서적의 플러그인과 FormID 하위 24비트를
-대응할 수 있다. 원본 게임 ESM 없이 **기존 BOOK 977권 갱신 후보를
-추출하는 것은 가능하다.** 이전의 '원본 ESM 필수' 주장은 과도했다.
+2026-11-01에 [PR #1](https://github.com/munument1/BGS_Translation_Archive/pull/1)이 `main`에 병합되었다. 압축 사전에서 식별자가 일치하는 서적의 한국어 제목·본문을 원자료에 반영하고 서고의 개별 Markdown, 합본, 색인과 카탈로그를 재생성했다.
+
+**이것은 원자료·GitHub Pages용 생성 파일의 반영 기록이지, 별도 사람 검수나 실제 GitHub Pages 공개 URL의 접근 검증을 마쳤다는 뜻은 아니다.** 사전에서 갱신된 레코드의 `status: review_required`는 후속 언어·내용 검수가 남았다는 뜻으로 유지한다.
+
+| 항목 | 건수 | 처리 |
+|---|---:|---|
+| 기존 `sources/skyrim_books/` 원자료 | 1,128 | 전부 식별자 유지 |
+| 사전과 대응된 BOOK 본문(DESC) | 977 | 974건 제목/본문 변경, 3건 동일 |
+| 압축 사전과 대응하지 않은 기존 항목 | 151 | 원문 유지 |
+| 새 BOOK 식별자 후보 | 4 | 전체 FormID·EditorID 미확보로 추가 보류 |
+| 기존 공개 서고 | 977 | 이전 카탈로그 기준 |
+| 갱신된 한국어 서고 | 1,072 | 생성된 개별 Markdown·합본·검색 색인에 반영 |
+| 현재 게시 목록에서 제외된 원자료 | 56 | 한글 본문이 없는 항목(빌더 필터) |
+
+이전의 **977권**은 갱신 전 생성 서고의 수록 건수이고, 압축 사전의 **977개 DESC 대응 건수**와 우연히 같은 숫자다. 원자료 자체는 갱신 전에도 1,128건이었다. 새 목록의 1,072건은 1,128건에서 빌더가 제외하는 56건을 뺀 결과다. 새 후보 4개는 그 수치에 포함하지 않았다.
+
+## 갱신 출처와 대응 방법
 
 - 번역기: https://github.com/servaltullius/Skyrim_Translator_v6
-- 내장 사전 및 대응 코드: `GameStringDictionary.cs`
-- 번역기 커밋 고정: `dc1796e26f5b3d1db0e1116c5a0b04a13759dba9`
-- 최신 한국어 패치 근거: `Skyrim_Latest_Kor/읽어보기.txt`, 26.10.16 베타 6
-- 기존 서고: `sources/skyrim_books/skyrim_books_*.jsonl` (977건)
-- 번역기 검수 기록의 서적 1,032권은 별도 검수 범위이므로
-  정확히 55권 누락이라고 단정하지 않는다.
+- 출처 커밋: `dc1796e26f5b3d1db0e1116c5a0b04a13759dba9`
+- 내장 압축 사전: `src/XTranslatorAi.App/Assets/GameStrings/game-strings-skyrim.gz`
+- 형식: `XTranslatorAi-GameStrings-v2`
+- 코드·검수: `tools/refresh_skyrim_book_translation.py`, `tests/test_refresh_skyrim_book_translation.py`
+- 사전 추출 검증: https://github.com/munument1/BGS_Translation_Archive/actions/runs/41283278478
+- 한국어 패치 참고: `Skyrim_Latest_Kor/읽어보기.txt` (26.10.16 베타 6)
 
-## 올바른 작업 순서
+사전 `F` 행에는 BOOK 레코드·필드 식별자, 영어 원문 SHA-256 지문 앞 128비트, 한국어 번역과 출처 플러그인이 있다. 예를 들어 `BOOK/owner.esm:001234/0/DESC/0`를 기존 아카이브의 플러그인 및 FormID 하위 24비트에 대응한다. 같은 식별자에 여러 후보가 있거나 동적 태그가 다르면 자동 교체를 보류한다. 영어 원문 **전문은 사전에 없다**.
 
-1. 내장 gzip 사전의 `BOOK:DESC`, `BOOK:FULL`과 기존 서고
-   레코드 identity를 대응하여 서적 갱신 후보 생성.
-2. 변경·유지·불일치·신규 identity를 검사.
-3. 같은 BOOK에 서로 다른 번역 후보가 있거나 동적 태그가 바뀌면 자동
-   교체하지 않음. 새 BOOK의 경우 압축 사전에 완전한 8자리 FormID,
-   EDID가 없으므로 실제 ESM/ESL로 별도 확인.
-4. 후보를 검수한 뒤 `sources/skyrim_books/`를 교체하고 기존
-   `build-book-collection.yml`로 웹 서고 재생성.
-5. 이후 영문 원문 전문 + 한국어를 모든 스카이림 레코드에 대응시키는
-   정규화 작업에 착수. **내장 사전에는 영어 해시만 있고 본문은 없음**;
-   영문 원문 전문을 확보할 때에는 사용자 게임 파일·영문 STRINGS가
-   필요하며 게임 원본 바이너리와 전문을 무단 공개 업로드하지 않음.
-6. 마지막으로 모로윈드 KR12.4, 오블리비언 v1.2.0, 대거폴 등과
-   시리즈 공통 용어를 검수.
-
-## 실행 예시
+## 재현 방법
 
 ~~~powershell
 git clone https://github.com/servaltullius/Skyrim_Translator_v6.git ..\Skyrim_Translator_v6
@@ -48,13 +42,14 @@ python tools/refresh_skyrim_book_translation.py `
   --output ".local\skyrim-book-refresh"
 ~~~
 
-후보: `.local/skyrim-book-refresh/sources_skyrim_books/*.jsonl`
+출력된 `.local/skyrim-book-refresh/review_report.json`에서 후보 수량·보류 기록을 확인한다. 이 명령 자체는 기존 원자료나 사이트를 덮어쓰지 않는다.
 
-보고서: `.local/skyrim-book-refresh/review_report.json`
+## 다음 작업
 
-기존 서고·웹사이트는 직접 변경하지 않는다. 검토 후에만 새 번역을
-출처와 함께 배포한다. 소스 번역자의 출처 및 수정·재배포 조건을
-존중한다.
+1. 변경된 974건의 실제 문장·서식·용어 차이를 검수하고, 필요 시 명확한 수정 근거와 함께 교정한다.
+2. 151건의 미대응 자료와 한글 본문이 없는 56건의 중복·미번역·출처를 구분한다.
+3. 새 BOOK 4개는 실제 ESM/ESL에서 전체 FormID 및 EditorID를 확인한 뒤 추가 여부를 정한다.
+4. 영어 원문 전문은 사용자가 보유한 ESM/ESL·영문 STRINGS에서 확보해 번역과 연결한다. 원본 게임 바이너리와 전문의 공개 재배포 여부는 별도 저작권·배포 조건을 검토한다.
+5. 스카이림 번역 원문-번역 쌍을 정리한 후 모로윈드 KR12.4, 오블리비언 v1.2.0, 대거폴 등과 엘더스크롤 공통 용어를 대조한다.
 
-**현재 상태: 사전 기반 대응 도구와 테스트를 PR에 준비했으며, 갱신
-후보의 실제 수량 및 내용은 압축 사전 처리 결과로 확정한다.**
+스카이림의 생성된 서고 수량이 맞더라도 **언어적 전수 검수와 GitHub Pages 라이브 서비스 확인은 별도 작업**이다.
