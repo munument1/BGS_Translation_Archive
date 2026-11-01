@@ -8,7 +8,7 @@
 
 ID: sc_summongoldensaint / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-BEHOLD!  
+[daedric]BEHOLD![/daedric]  
 보다!
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -373,7 +373,7 @@ ID: bk_ordolegionis / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_oathfast / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -595,7 +595,7 @@ ID: bk_ConsolationsOfPrayer / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_leaguestep / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -800,7 +800,7 @@ ID: bk_a2_1_thestranger / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_frostguard / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -811,7 +811,7 @@ WOE UPON YOU
 
 ID: sc_summonfrostatronach / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -822,7 +822,7 @@ WOE UPON YOU
 
 ID: sc_frostbane / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -852,7 +852,7 @@ C
 
 ID: sc_fourthbarrier / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -951,7 +951,7 @@ ID: bk_a1_4_sharnsnotes / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_nerusislockjaw / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)

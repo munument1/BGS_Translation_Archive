@@ -8,7 +8,7 @@
 
 ID: sc_lesserdomination / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -212,7 +212,7 @@ ID: bookskill_heavy armor1 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_summonskeletalservant / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-THE DUST SHALL SERVE ME!  
+[daedric]THE DUST SHALL SERVE ME![/daedric]  
 먼지가 내 하인이 되리라!
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -325,7 +325,7 @@ ID: bk_graspingfortune / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_heartwise / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -382,7 +382,7 @@ ID: bk_MixedUnitTactics / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_flameguard / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -393,7 +393,7 @@ WOE UPON YOU
 
 ID: sc_summonflameatronach / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-BEHOLD!  
+[daedric]BEHOLD![/daedric]  
 보다!
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -404,7 +404,7 @@ BEHOLD!
 
 ID: sc_flamebane / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -415,7 +415,7 @@ WOE UPON YOU
 
 ID: sc_vigor / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-STRENGTH AND HONOR  
+[daedric]STRENGTH AND HONOR[/daedric]  
 힘과 명예
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -442,7 +442,7 @@ ID: bk_BlightPotionNotice / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_restoration / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-I AM THAT IS AND ALWAYS WAS  
+[daedric]I AM THAT IS AND ALWAYS WAS[/daedric]  
 나는 그것이며, 언제나 그랬다.
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -453,7 +453,7 @@ I AM THAT IS AND ALWAYS WAS
 
 ID: sc_greyscorn / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -464,7 +464,7 @@ WOE UPON YOU
 
 ID: sc_greysloth / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -475,7 +475,7 @@ WOE UPON YOU
 
 ID: sc_greyweakness / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -486,7 +486,7 @@ WOE UPON YOU
 
 ID: sc_greyfate / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -497,7 +497,7 @@ WOE UPON YOU
 
 ID: sc_greydespair / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -508,7 +508,7 @@ WOE UPON YOU
 
 ID: sc_greymind / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -519,7 +519,7 @@ WOE UPON YOU
 
 ID: sc_greydeath / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)

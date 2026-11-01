@@ -2335,7 +2335,7 @@ ID: BookSkill_Heavy Armor2 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_fphyggisgemfeeder / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -2674,7 +2674,7 @@ ID: bk_galur_rithari's_papers / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_galmsesseal / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -2842,7 +2842,7 @@ ID: bk_stronghold_c_hlaalu / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_blackscorn / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-DEATH AND DESTRUCTION TO YOUR ENEMIES  
+[daedric]DEATH AND DESTRUCTION TO YOUR ENEMIES[/daedric]  
 너희 적들에게 죽음과 파멸을!
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -2853,7 +2853,7 @@ DEATH AND DESTRUCTION TO YOUR ENEMIES
 
 ID: sc_blacksloth / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WHERE'S THE MONEY IN THAT?  
+[daedric]WHERE'S THE MONEY IN THAT?[/daedric]  
 그걸로 돈을 벌 수 있는 방법이 뭐죠?
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -2864,7 +2864,7 @@ WHERE'S THE MONEY IN THAT?
 
 ID: sc_blackweakness / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-DOWN WITH DUNMER OPPRESSION  
+[daedric]DOWN WITH DUNMER OPPRESSION[/daedric]  
 던머족의 억압을 타도하라
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -2875,7 +2875,7 @@ DOWN WITH DUNMER OPPRESSION
 
 ID: sc_blackfate / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-INVOKE SWIFTLY AND WISELY   
+[daedric]INVOKE SWIFTLY AND WISELY [/daedric]  
 신속하고 현명하게 소환하십시오
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -2908,7 +2908,7 @@ ID: bk_BlackGlove / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_blackdespair / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-INVOKE WITH FAITH THAT YOUR ENEMIES MUST BE DESTROYED.  
+[daedric]INVOKE WITH FAITH THAT YOUR ENEMIES MUST BE DESTROYED.[/daedric]  
 원수들이 반드시 멸망할 것이라는 믿음을 가지고 기도하십시오.
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -2919,7 +2919,7 @@ INVOKE WITH FAITH THAT YOUR ENEMIES MUST BE DESTROYED.
 
 ID: sc_blackmind / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-BE WISE INVOKING YOUR WILL  
+[daedric]BE WISE INVOKING YOUR WILL[/daedric]  
 당신의 의지를 발휘하여 현명하게 행동하십시오
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -2930,7 +2930,7 @@ BE WISE INVOKING YOUR WILL
 
 ID: sc_blackdeath / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-FATHER, FORGIVE ME.  
+[daedric]FATHER, FORGIVE ME.[/daedric]  
 아버지, 저를 용서해 주세요.
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -2941,7 +2941,7 @@ FATHER, FORGIVE ME.
 
 ID: sc_blackstorm / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-LONG LIVE THE PROPHECY  
+[daedric]LONG LIVE THE PROPHECY[/daedric]  
 예언이여 영원하라
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -3208,7 +3208,7 @@ ID: bk_clientlist / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_gonarsgoad / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -3325,7 +3325,7 @@ ID: bookskill_acrobatics1 / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_golnaraseyemaze / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-YOUR LIFE OR YOUR HONOR  
+[daedric]YOUR LIFE OR YOUR HONOR[/daedric]  
 목숨이냐 명예냐
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)

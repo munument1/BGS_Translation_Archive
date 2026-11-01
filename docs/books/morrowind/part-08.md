@@ -1499,7 +1499,7 @@ ID: bk_sharnslegionsofthedead / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_salensvivication / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1578,7 +1578,7 @@ ID: bk_BookOfLifeAndService / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_greaterdomination / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-WOE UPON YOU  
+[daedric]WOE UPON YOU[/daedric]  
 너희에게 화가 있을지어다
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1589,7 +1589,7 @@ WOE UPON YOU
 
 ID: sc_dawnsprite / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-FOR THE GODS!  
+[daedric]FOR THE GODS![/daedric]  
 신들을 위하여!
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)
@@ -1736,7 +1736,7 @@ ID: bk_BookDawnAndDusk / 플러그인: Morrowind_Korean_ReTranslation.esp
 
 ID: sc_vitality / 플러그인: Morrowind_Korean_ReTranslation.esp
 
-SHE WAS A LOVELY CHILD, FULL OF LIFE AND BEAUTY. MY ACTIONS PAINED ME, BUT I DID WHAT HAD TO BE DONE...TO SAVE HER.  
+[daedric]SHE WAS A LOVELY CHILD, FULL OF LIFE AND BEAUTY. MY ACTIONS PAINED ME, BUT I DID WHAT HAD TO BE DONE...TO SAVE HER.[/daedric]  
 그녀는 사랑스럽고 생기 넘치며 아름다운 아이였습니다. 제 행동은 저에게 고통스러웠지만, 그녀를 구하기 위해 어쩔 수 없이 해야 할 일이었습니다.
 
 [출처](https://github.com/munument1/Morrowind-OpenMW-KR/releases/tag/openmw-0.51.0-kr12.4)

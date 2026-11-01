@@ -1394,7 +1394,7 @@ ID: 00086EF8 / 플러그인: Skyrim.esm
   
 맨카 캐모런 지음  
   
-DAGON  
+[daedric]DAGON[/daedric]  
 [pagebreak]  
 [pagebreak]  
   
@@ -1449,7 +1449,7 @@ ID: 00086EF9 / 플러그인: Skyrim.esm
 제2권  
   
 맨카 캐모런 지음  
-ALTADOON  
+[daedric]ALTADOON[/daedric]  
 [pagebreak]  
 [pagebreak]  
   
@@ -1494,7 +1494,7 @@ ID: 00086EFA / 플러그인: Skyrim.esm
   
 맨카 캐모런 지음  
   
-CHIM  
+[daedric]CHIM[/daedric]  
 [pagebreak]  
 [pagebreak]  
   
@@ -1550,7 +1550,7 @@ ID: 00086EFB / 플러그인: Skyrim.esm
   
 맨카 캐모런 지음  
   
-GHARTOK  
+[daedric]GHARTOK  
 [pagebreak]  
 [pagebreak]  
   
@@ -1578,7 +1578,7 @@ GHARTOK
 <img src='img://Textures/Interface/Books/Illuminated_Letters/U_letter.png'> 늪 아래에서, 오랜 사슬의 도시인 말비오그 (Malbioge)는 무너져 새로운 뼈의 따뜻함에 치유되어 해방되었다. 갈그 (Galg)와 모-갈그 (Mor-Galg)는 어느 날, 하룻밤 사이 동시에 무너져 다시 게이트의 시대가 찾아오게 되었다.  
   
 [pagebreak]  
-<img src='img://Textures/Interface/Books/Illuminated_Letters/N_letter.png'> 구멍이 된 NRN에 고뇌를, 그리고 거기 사는 드레그인 Vermae NI-MOHK에게 일곱개의 저주를! 그러나 그 때문에 십자군은 우리 신의 창조물이 되어, Ge에 이끌린 Get는 의지를 관철하여 자신의 양심 외에 속박은 없었다! 오르비스의 사람들이여, 그대들의 지옥은 없어졌다는 것을 알라! 그리고 자유 그 자체인 누-만티아를 칭송하라!
+<img src='img://Textures/Interface/Books/Illuminated_Letters/N_letter.png'> 구멍이 된 NRN에 고뇌를, 그리고 거기 사는 드레그인 Vermae NI-MOHK에게 일곱개의 저주를! 그러나 그 때문에 십자군은 우리 신의 창조물이 되어, Ge에 이끌린 Get는 의지를 관철하여 자신의 양심 외에 속박은 없었다! 오르비스의 사람들이여, 그대들의 지옥은 없어졌다는 것을 알라! 그리고 자유 그 자체인 누-만티아를 칭송하라![/daedric]
 
 [출처](https://github.com/servaltullius/Skyrim_Translator_v6/blob/dc1796e26f5b3d1db0e1116c5a0b04a13759dba9/src/XTranslatorAi.App/Assets/GameStrings/game-strings-skyrim.gz)
 
