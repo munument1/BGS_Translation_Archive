@@ -1,0 +1,41 @@
+{
+  "schema": "bgs_oblivion_esm_source_alignment_audit_v1",
+  "checked_on": "2026-11-01",
+  "source": {
+    "filename": "Oblivion.esm",
+    "sha256": "a26e21ea8c3041f8737ffb3a266129dedb7f8a88590625ecfecd5eb7f66b4a70",
+    "size_bytes": 277504985,
+    "parsed_records": 1167017,
+    "decompressed_records": 41789,
+    "parse_errors": 0,
+    "extracted_text_rows": 46963,
+    "source_shards": 8
+  },
+  "archive": {
+    "canonical_file": "Oblivion/BaseGame/Oblivion.esm/canonical_v2.jsonl",
+    "canonical_blob_sha_at_audit": "95f42c52ed6d314cff08db8a2bc225796d978978",
+    "canonical_rows": 46225
+  },
+  "alignment": {
+    "identity_fields": [
+      "plugin",
+      "record",
+      "form_id",
+      "field",
+      "sub_index"
+    ],
+    "matched_rows": 46225,
+    "missing_source_rows": 0,
+    "source_hash_conflicts": 0,
+    "duplicate_source_identities": 0,
+    "duplicate_canonical_identities": 0,
+    "source_only_candidates": 738
+  },
+  "preservation": {
+    "korean_canonical_unchanged": true,
+    "unpaired_candidates_not_auto_translated": true,
+    "original_esm_unchanged": true,
+    "main_not_modified": true
+  },
+  "note": "Verified against GitHub-hosted sidecar and canonical contents. Original full English game text is only on the draft review branch pending redistribution-policy review."
+}

@@ -1,0 +1,76 @@
+{
+  "schema": "bgs_oblivion_esm_en_source_v1",
+  "origin": "User uploaded Oblivion.esm (original game ESM)",
+  "game": "Oblivion",
+  "plugin": "Oblivion.esm",
+  "original_esm_sha256": "a26e21ea8c3041f8737ffb3a266129dedb7f8a88590625ecfecd5eb7f66b4a70",
+  "original_esm_bytes": 277504985,
+  "source_records": 1167017,
+  "compressed_source_records": 41789,
+  "extracted_text_rows": 46963,
+  "matched_translation_archive_rows": 46225,
+  "unmatched_english_only_records": 738,
+  "missing_translation_archive_rows": 0,
+  "sha256_conflicts": 0,
+  "match_key": [
+    "plugin",
+    "record",
+    "form_id",
+    "field",
+    "sub_index"
+  ],
+  "hash": "SHA-256 of raw decoded English string encoded in UTF-8; exact match with existing canonical_v2.jsonl source_hash",
+  "encoding": "TES4 string decode cp1252 (Latin-1 fallback for undefined codepoints)",
+  "scope": "Original Oblivion.esm, including Shivering Isles records; no modifications to Oblivion.esm",
+  "source_parts": [
+    {
+      "path": "Oblivion/BaseGame/Oblivion.esm/english_source/oblivion_esm_en.part-01.jsonl",
+      "rows": 6000,
+      "bytes": 3468528,
+      "sha256": "e4da1fba2893231fdbde1235c3e705e6dd4cb3e5e30eb719361927f4743d9af1"
+    },
+    {
+      "path": "Oblivion/BaseGame/Oblivion.esm/english_source/oblivion_esm_en.part-02.jsonl",
+      "rows": 6000,
+      "bytes": 1513633,
+      "sha256": "e82677d9293344f33662ba3e95c5745970b9eb2b6f05c855791dc05bed61fee8"
+    },
+    {
+      "path": "Oblivion/BaseGame/Oblivion.esm/english_source/oblivion_esm_en.part-03.jsonl",
+      "rows": 6000,
+      "bytes": 1614378,
+      "sha256": "da40a118ec13938f445f743902a0847d8eb46e69a874603ff7b89cc0004357b1"
+    },
+    {
+      "path": "Oblivion/BaseGame/Oblivion.esm/english_source/oblivion_esm_en.part-04.jsonl",
+      "rows": 6000,
+      "bytes": 1691231,
+      "sha256": "e6406cc3a9ed66de67cc852a2d0007d6f007b656e3338eb4039162e6f34a509d"
+    },
+    {
+      "path": "Oblivion/BaseGame/Oblivion.esm/english_source/oblivion_esm_en.part-05.jsonl",
+      "rows": 6000,
+      "bytes": 1772895,
+      "sha256": "6964a8d8038ad15b3e45ea08f2792db9d89c37320e8a9391dd15ae723d1322cf"
+    },
+    {
+      "path": "Oblivion/BaseGame/Oblivion.esm/english_source/oblivion_esm_en.part-06.jsonl",
+      "rows": 6000,
+      "bytes": 1838333,
+      "sha256": "c27e9d2789d9bc382d5d14a44ca9ab396c458f3349cb474fb95b23f5b50056e2"
+    },
+    {
+      "path": "Oblivion/BaseGame/Oblivion.esm/english_source/oblivion_esm_en.part-07.jsonl",
+      "rows": 6000,
+      "bytes": 1810646,
+      "sha256": "8b680d66efd9f1434c24dcd39b1ff4af7622a0074667ad56916bbaa28b5196ed"
+    },
+    {
+      "path": "Oblivion/BaseGame/Oblivion.esm/english_source/oblivion_esm_en.part-08.jsonl",
+      "rows": 4963,
+      "bytes": 1674836,
+      "sha256": "678998ba4e5bf3d0f7ce07a44d063675405701814a3357a774503820279b8752"
+    }
+  ],
+  "note": "Source English is stored as an additive, sharded sidecar, preserving 46,225 existing Korean canonical records and their metadata. Merge/publishing review required for original text."
+}

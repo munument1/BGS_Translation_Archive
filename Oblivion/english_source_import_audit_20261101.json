@@ -1,0 +1,21 @@
+{
+  "schema": "oblivion_official_dlc_english_original_source_audit_v1",
+  "date": "2026-11-01",
+  "source": "User-provided original ESP files from Google Drive folder 1Mr4MCUMSKd7lvFvzbUIWUC41g1aIm8v6",
+  "coverage": {
+    "source_esp_files": 10,
+    "text_candidates": 3630,
+    "verified_archive_matches": 3558,
+    "full_source_hash_conflicts": 0,
+    "archive_dlc_verified": 1734,
+    "archive_knights_verified": 1824,
+    "unpaired_review": 72
+  },
+  "omissions": {
+    "oblivion_esm": "not included; user will upload separately",
+    "shivering_isles_esp": "85-byte master-reference stub; no text records"
+  },
+  "matching": "plugin + record + FormID + field + sub_index, with SHA256(source_en UTF-8) verified against preserved source_hash",
+  "preservation": "Only matched records gain a source_en field. Existing Korean, statuses, source hashes, record identities, and unrelated mod entries are untouched. Unpaired candidates remain a separate review file.",
+  "review_needed": "Publishing full original copyrighted game text publicly may require rights review before merging this PR."
+}
