@@ -124,8 +124,13 @@ jobs:
           PY
           if ! git diff --cached --quiet; then
             git commit -m "docs: update Elder Scrolls Korean book anthologies"
-            git pull --rebase origin main
-            git push
+            if [ "$GITHUB_REF_NAME" = "main" ]; then
+              git pull --rebase origin main
+              git push origin HEAD:main
+            else
+              # On feature branches do not rebase onto main: checkout uses a shallow history.
+              git push origin "HEAD:$GITHUB_REF_NAME"
+            fi
           else
             echo "No book archive changes."
           fi
