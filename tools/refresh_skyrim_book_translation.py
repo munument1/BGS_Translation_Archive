@@ -17,7 +17,7 @@ import re
 UPSTREAM = "https://github.com/servaltullius/Skyrim_Translator_v6"
 DICT_PATH = "src/XTranslatorAi.App/Assets/GameStrings/game-strings-skyrim.gz"
 HEADER = "XTranslatorAi-GameStrings-v2"
-IDENTITY = re.compile(r"^BOOK/([^/:]+):([0-9A-Fa-f]{6})/(FULL|DESC)/", re.I)
+IDENTITY = re.compile(r"^BOOK/([^/:]+):([0-9A-Fa-f]{6})/[^/]+/(FULL|DESC)/", re.I)
 EN_HASH = re.compile(r"^[0-9a-fA-F]{32}$")
 VARIABLE = re.compile(r"<(?:Alias|Global|Ref|Var|Actor|Pronoun|Text|Quest)=[^>]*>", re.I)
 
