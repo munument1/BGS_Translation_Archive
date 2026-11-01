@@ -22,11 +22,11 @@ class RefreshDictionaryTests(unittest.TestCase):
     def make_dictionary(self, file):
         data = "\n".join([
             "XTranslatorAi-GameStrings-v2",
-            "F\tBOOK/skyrim.esm:01ACB9/DESC/0/0\t" + "a"*32 +
+            "F\tBOOK/skyrim.esm:01ACB9/0/DESC/0\t" + "a"*32 +
             "\t갱신된\\n본문\tSkyrim.esm",
-            "F\tBOOK/skyrim.esm:01ACB9/FULL/0/0\t" + "b"*32 +
+            "F\tBOOK/skyrim.esm:01ACB9/0/FULL/0\t" + "b"*32 +
             "\t새 제목\tSkyrim.esm",
-            "F\tBOOK/skyrim.esm:020000/DESC/0/0\t" + "c"*32 +
+            "F\tBOOK/skyrim.esm:020000/0/DESC/0\t" + "c"*32 +
             "\t새 책\tUpdate.esm",
             "T\ttesthash\t안쓰는 번역",
             ""
