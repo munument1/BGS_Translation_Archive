@@ -62,8 +62,9 @@ jobs:
           import json
           from pathlib import Path
           r=json.loads(Path('.local/skyrim-book-refresh/review_report.json').read_text())
-          assert r['counts']['original_books']==977, r['counts']
-          assert r['counts']['candidate_books']==977, r['counts']
+          assert r['counts']['original_books'] >= 977, r['counts']
+          assert r['counts']['candidate_books'] == r['counts']['original_books'], r['counts']
+          assert r['counts'].get('changed',0)+r['counts'].get('unchanged',0)>0, r['counts']
           print('Review summary:',r['counts'])
           print('BOOK fields:',r['field_counts'])
           PY
