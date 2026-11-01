@@ -157,7 +157,8 @@ jobs:
           git add -A sources/skyrim_books docs/books/skyrim
           git add -A docs/books/catalog.json docs/books/fulltext-index.json \
             docs/books/manifest.json docs/books/README.md
-          git diff --cached --check
+          # The library generator intentionally writes Markdown hard-breaks as two trailing spaces.
+          git -c core.whitespace=-blank-at-eol,-blank-at-eof diff --cached --check
           git diff --cached --stat | tail -n 45
           python3 - <<'PY'
           import subprocess
