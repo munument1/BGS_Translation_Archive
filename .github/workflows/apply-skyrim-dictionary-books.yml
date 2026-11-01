@@ -1,0 +1,187 @@
+name: Apply matched Skyrim book translations to review PR
+
+on:
+  push:
+    branches:
+      - work/skyrim-books-refresh-20261101
+    paths:
+      - .github/workflows/apply-skyrim-dictionary-books.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: skyrim-book-refresh-apply
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout review branch
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 1
+      - name: Install existing book-builder test dependency
+        run: python3 -m pip install beautifulsoup4
+      - name: Run all archive tests
+        run: python3 -m unittest discover -s tests -v
+      - name: Obtain source-pinned record dictionary
+        run: |
+          curl --fail --location --retry 4 --retry-delay 3 \
+            https://raw.githubusercontent.com/servaltullius/Skyrim_Translator_v6/dc1796e26f5b3d1db0e1116c5a0b04a13759dba9/src/XTranslatorAi.App/Assets/GameStrings/game-strings-skyrim.gz \
+            --output /tmp/game-strings-skyrim.gz
+          gzip -t /tmp/game-strings-skyrim.gz
+          sha256sum /tmp/game-strings-skyrim.gz | tee /tmp/skyrim-dictionary-sha256.txt
+      - name: Build and audit replacement source candidates
+        run: |
+          python3 tools/refresh_skyrim_book_translation.py \
+            --dictionary /tmp/game-strings-skyrim.gz \
+            --source-revision dc1796e26f5b3d1db0e1116c5a0b04a13759dba9 \
+            --output .local/skyrim-book-refresh
+          python3 - <<'PY'
+          import json
+          from collections import Counter
+          from pathlib import Path
+          root=Path('.local/skyrim-book-refresh')
+          report=json.loads((root/'review_report.json').read_text(encoding='utf-8'))
+          counts=report['counts']
+          for name,value in {'original_books':1128,'candidate_books':1128,'changed':974,
+                             'unchanged':3,'unmatched_preserved':151,'new_identity_candidates':4}.items():
+              assert counts.get(name)==value,(name,counts)
+          assert not any(counts.get(k) for k in ('ambiguous_held','empty_held','tag_mismatch_held')),counts
+          print('Confirmed safe exact-identity matching:',counts)
+          old={}
+          for source in Path('sources/skyrim_books').glob('skyrim_books_*.jsonl'):
+              for line in source.read_text(encoding='utf-8').splitlines():
+                  if line.strip():
+                      r=json.loads(line);old[(r['plugin'].casefold(),r['form_id'].upper())]=r
+          new={}
+          for source in (root/'sources_skyrim_books').glob('skyrim_books_*.jsonl'):
+              for line in source.read_text(encoding='utf-8').splitlines():
+                  if line.strip():
+                      r=json.loads(line);new[(r['plugin'].casefold(),r['form_id'].upper())]=r
+          assert set(old)==set(new), 'Record identity loss or duplication'
+          for k,v in old.items():
+              n=new[k]
+              if not n.get('translation_source_revision'):
+                  assert n==v,('Unmatched text changed',k)
+              else:
+                  assert n['ko'] and n['title_ko'],('Empty translated text',k)
+          assert len(new)==1128
+          print('All 1,128 previous BOOK keys preserved.')
+          PY
+      - name: Replace source shards only after successful audit
+        run: |
+          rm sources/skyrim_books/skyrim_books_*.jsonl
+          cp .local/skyrim-book-refresh/sources_skyrim_books/skyrim_books_*.jsonl sources/skyrim_books/
+      - name: Diagnose Korean coverage and old-to-new visibility
+        run: |
+          python3 - <<'PY'
+          import json,re,subprocess
+          from collections import Counter
+          from pathlib import Path
+          old={}
+          for path in subprocess.check_output(['git','ls-files','sources/skyrim_books']).decode().splitlines():
+              if not path.endswith('.jsonl'): continue
+              src=subprocess.check_output(['git','show',f'HEAD:{path}']).decode('utf-8')
+              for line in src.splitlines():
+                  if line.strip():
+                      r=json.loads(line);old[(r['plugin'].casefold(),r['form_id'].upper())]=r
+          new={}
+          for path in Path('sources/skyrim_books').glob('skyrim_books_*.jsonl'):
+              for line in path.read_text(encoding='utf8').splitlines():
+                  if line.strip():
+                      r=json.loads(line);new[(r['plugin'].casefold(),r['form_id'].upper())]=r
+          han=lambda x:bool(re.search('[가-힣]',x))
+          categories=Counter()
+          sample=[]
+          for k,r in new.items():
+              prior=old[k]
+              before=han(prior.get('ko',''))
+              after=han(r.get('ko',''))
+              categories[(before,after)]+=1
+              if not after and len(sample)<18:
+                  sample.append({'plugin':r['plugin'],'formid':r['form_id'],
+                                 'title':r['title_ko'],'prev_ko':before,
+                                 'new_excerpt':r['ko'][:90]})
+          print('Before->after Korean body coverage:',dict(categories))
+          print('Example non-Korean latest texts:',sample)
+          print('New total with Korean:',sum(1 for r in new.values() if han(r.get('ko',''))))
+          PY
+      - name: Download original upstream book-builder inputs
+        run: |
+          git clone --depth 1 --filter=blob:none --sparse \
+            https://github.com/munument1/-KR-Daggerfall_Unity.git /tmp/df-books
+          git -C /tmp/df-books sparse-checkout set text/Books
+          test -f /tmp/df-books/text/Books/BOK00000-LOC.txt
+          curl --fail --location --retry 4 --retry-delay 4 \
+            https://raw.githubusercontent.com/munument1/-KR-Oblivion-Translation/main/canonical_translation_v2.csv \
+            --output /tmp/oblivion-translation.csv
+          test -s /tmp/oblivion-translation.csv
+          curl --fail --location --retry 4 --retry-delay 4 \
+            https://github.com/munument1/Morrowind-OpenMW-KR/releases/download/openmw-0.51.0-kr12.4/Morrowind-Korean-OpenMW-0.51.0-KR12.4-Full.zip \
+            --output /tmp/morrowind-kr12.4.zip
+          curl --fail --location --retry 4 --retry-delay 4 \
+            https://github.com/munument1/Morrowind-OpenMW-KR/releases/download/openmw-0.51.0-kr12.4/Morrowind-Korean-OpenMW-0.51.0-KR12.4-Full.zip.sha256 \
+            --output /tmp/morrowind-kr12.4.sha256
+          expected=$(awk '{print $1}' /tmp/morrowind-kr12.4.sha256)
+          actual=$(sha256sum /tmp/morrowind-kr12.4.zip | awk '{print $1}')
+          test "$expected" = "$actual"
+          unzip -t /tmp/morrowind-kr12.4.zip | tail -n 2
+      - name: Regenerate Tamriel bookshelf and verify all books
+        run: |
+          python3 tools/build_book_collection.py \
+            --daggerfall /tmp/df-books/text/Books \
+            --oblivion /tmp/oblivion-translation.csv \
+            --morrowind-zip /tmp/morrowind-kr12.4.zip \
+            --morrowind-release-tag openmw-0.51.0-kr12.4 --root .
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          root=Path('docs/books/skyrim')
+          rows=[json.loads(line) for line in (root/'books.jsonl').read_text(encoding='utf-8').splitlines() if line.strip()]
+          assert len(rows)==1072,len(rows) # builder filters the 56 non-Hangul texts
+          ids={(r['plugin'].casefold(),r['book_id'].upper()) for r in rows}
+          assert len(ids)==len(rows),(len(ids),len(rows))
+          assert len(list((root/'books').rglob('*.md')))==len(rows)
+          manifest=json.loads(Path('docs/books/manifest.json').read_text(encoding='utf-8'))
+          assert next(g['books'] for g in manifest['games'] if g['game']=='skyrim')==1072
+          print('Books restored and rendered:',len(rows))
+          PY
+      - name: Stage ONLY Skyrim source and generated library indexes
+        run: |
+          git add -A sources/skyrim_books docs/books/skyrim
+          git add -A docs/books/catalog.json docs/books/fulltext-index.json \
+            docs/books/manifest.json docs/books/README.md
+          # The library generator intentionally writes Markdown hard-breaks as two trailing spaces.
+          git -c core.whitespace=-blank-at-eol,-blank-at-eof diff --cached --check
+          git diff --cached --stat | tail -n 45
+          python3 - <<'PY'
+          import subprocess
+          paths=subprocess.check_output(
+              ['git','diff','--cached','--name-only','-z']).decode().strip('\0').split('\0')
+          allowed=('sources/skyrim_books/','docs/books/skyrim/')
+          exact={'docs/books/catalog.json','docs/books/fulltext-index.json',
+                 'docs/books/manifest.json','docs/books/README.md'}
+          assert paths and all(p.startswith(allowed) or p in exact for p in paths),paths
+          print('Staged paths:',len(paths))
+          PY
+      - name: Commit reviewed-book candidate update to PR branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "books: update Skyrim texts from pinned verified record dictionary"
+          git push origin HEAD:work/skyrim-books-refresh-20261101
+      - name: Archive audit output for provenance
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: skyrim-book-applied-audit-20261101
+          path: |
+            .local/skyrim-book-refresh/review_report.json
+            /tmp/skyrim-dictionary-sha256.txt
+          retention-days: 30

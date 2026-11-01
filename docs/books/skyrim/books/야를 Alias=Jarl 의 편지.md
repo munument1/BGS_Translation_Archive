@@ -10,4 +10,4 @@ ID: 02010BEF / 플러그인: HearthFires.esm
   
 <Alias=HoldCity>의 야를 <Alias=Jarl>
 
-출처: local:HearthFires.esm+strings/HearthFires_english.DLSTRINGS
+[출처](https://github.com/servaltullius/Skyrim_Translator_v6/blob/dc1796e26f5b3d1db0e1116c5a0b04a13759dba9/src/XTranslatorAi.App/Assets/GameStrings/game-strings-skyrim.gz)

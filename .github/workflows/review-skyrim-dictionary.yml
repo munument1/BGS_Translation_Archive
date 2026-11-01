@@ -1,0 +1,76 @@
+name: Review Skyrim embedded dictionary BOOK refresh
+
+on:
+  push:
+    branches:
+      - work/skyrim-books-refresh-20261101
+    paths:
+      - '.github/workflows/review-skyrim-dictionary.yml'
+      - 'tools/refresh_skyrim_book_translation.py'
+      - 'tests/test_refresh_skyrim_book_translation.py'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify parser and record matching
+        run: python3 -m unittest discover -s tests -p test_refresh_skyrim_book_translation.py -v
+      - name: Fetch pinned upstream game dictionary
+        run: |
+          curl --fail --location --retry 3 --retry-delay 3 \
+            https://raw.githubusercontent.com/servaltullius/Skyrim_Translator_v6/dc1796e26f5b3d1db0e1116c5a0b04a13759dba9/src/XTranslatorAi.App/Assets/GameStrings/game-strings-skyrim.gz \
+            -o /tmp/game-strings-skyrim.gz
+          gzip -t /tmp/game-strings-skyrim.gz
+      - name: Diagnose dictionary field identity format
+        run: |
+          python3 - <<'PY'
+          import gzip
+          from collections import Counter
+          p='/tmp/game-strings-skyrim.gz'
+          types=Counter()
+          samples=[]
+          books=[]
+          with gzip.open(p,'rt',encoding='utf-8-sig') as f:
+            print('Header:',repr(next(f).rstrip()))
+            for line in f:
+              if not line.startswith('F\t'): continue
+              parts=line.split('\t')
+              if len(parts)<2: continue
+              key=parts[1]
+              types[key.split('/',1)[0]]+=1
+              if len(samples)<12:samples.append(key)
+              if ('BOOK' in key.upper() or 'DESC' in key.upper()) and len(books)<25:
+                books.append(key)
+          print('F-record count:',sum(types.values()))
+          print('Types:',types.most_common(20))
+          print('Initial identities:',samples)
+          print('BOOK and DESC identities:',books)
+          PY
+      - name: Build review candidate and report (no live changes)
+        run: |
+          python3 tools/refresh_skyrim_book_translation.py \
+            --dictionary /tmp/game-strings-skyrim.gz \
+            --source-revision dc1796e26f5b3d1db0e1116c5a0b04a13759dba9 \
+            --output .local/skyrim-book-refresh
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          r=json.loads(Path('.local/skyrim-book-refresh/review_report.json').read_text())
+          assert r['counts']['original_books'] >= 977, r['counts']
+          assert r['counts']['candidate_books'] == r['counts']['original_books'], r['counts']
+          assert r['counts'].get('changed',0)+r['counts'].get('unchanged',0)>0, r['counts']
+          print('Review summary:',r['counts'])
+          print('BOOK fields:',r['field_counts'])
+          PY
+      - name: Upload review-only candidates
+        uses: actions/upload-artifact@v4
+        with:
+          name: skyrim-book-review-20261101
+          path: .local/skyrim-book-refresh/
+          retention-days: 14
