@@ -27,6 +27,31 @@ jobs:
             https://raw.githubusercontent.com/servaltullius/Skyrim_Translator_v6/dc1796e26f5b3d1db0e1116c5a0b04a13759dba9/src/XTranslatorAi.App/Assets/GameStrings/game-strings-skyrim.gz \
             -o /tmp/game-strings-skyrim.gz
           gzip -t /tmp/game-strings-skyrim.gz
+      - name: Diagnose dictionary field identity format
+        run: |
+          python3 - <<'PY'
+          import gzip
+          from collections import Counter
+          p='/tmp/game-strings-skyrim.gz'
+          types=Counter()
+          samples=[]
+          books=[]
+          with gzip.open(p,'rt',encoding='utf-8-sig') as f:
+            print('Header:',repr(next(f).rstrip()))
+            for line in f:
+              if not line.startswith('F\t'): continue
+              parts=line.split('\t')
+              if len(parts)<2: continue
+              key=parts[1]
+              types[key.split('/',1)[0]]+=1
+              if len(samples)<12:samples.append(key)
+              if ('BOOK' in key.upper() or 'DESC' in key.upper()) and len(books)<25:
+                books.append(key)
+          print('F-record count:',sum(types.values()))
+          print('Types:',types.most_common(20))
+          print('Initial identities:',samples)
+          print('BOOK and DESC identities:',books)
+          PY
       - name: Build review candidate and report (no live changes)
         run: |
           python3 tools/refresh_skyrim_book_translation.py \
